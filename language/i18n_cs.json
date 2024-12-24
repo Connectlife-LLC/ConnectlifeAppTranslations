@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "Když je zapnutý režim párty, všechny oddíly přejdou na maximální chlazení. Párty režim bude automaticky deaktivován po 24 hodinách.",
     "CL_DV_RF_cleaning_mode_desc": "Režim čištění umožňuje pohodlné čištění chladicího oddělení. ",
     "CL_DV_RF_sabbath_mode_desc": "Sabbath režim bude aktivní po dobu 72 hodin.\nStisknutím * na 3 sekundy jej během tohoto cyklu deaktivujete. Opakuje se týdně.",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "Dlouhým stisknutím tlačítka „Timer“ spustíte konfiguraci sítě, když indikátor WIFI bliká. můžete připojit WIFI. Po 3 minutách bude stav zrušen, pokud neexistuje žádná konfigurace sítě, a kontrolka zhasne. Pokud potřebujete znovu připojit WIFI, dlouhým stisknutím tlačítka „Timer“ spusťte konfiguraci sítě znovu, indikátor WIFI bude znovu blikat.",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "Dlouhým stisknutím tlačítka @\"Timer\"# zahájíte konfiguraci sítě, když indikátor WIFI bliká, můžete připojit WIFI. Po 3 minutách bude stav zrušen, pokud neexistuje žádná konfigurace sítě, a kontrolka zhasne. Pokud potřebujete znovu připojit WIFI, dlouze stiskněte tlačítko @„Timer“# pro opětovné spuštění konfigurace sítě, indikátor WIFI bude znovu blikat.",
     "CL_DV_DW_washing_progress": "Probíhá praní...",
     "CL_DV_DW_washing_in_running": "Praní v ## běží",
     "CL_DV_DW_washing_paused": "Mytí pozastaveno",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "Aktuální verze je nejnovější!",
     "CL_CF_FW_new_version_title": "Nová verze",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "Chcete-li své zařízení ovládat na dálku pomocí aplikace ConnectLife, postupujte podle následujících kroků a nejprve povolte vzdálené spuštění na zařízení.",
+    "CL_CF_CS_change_sn_tip": "Zkontrolujte původní SN kód vašeho zařízení: **; SN kód tentokrát: ##; Opravdu chcete vyměnit?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "ai odstraňování problémů",
+    "searching_for_solutions": "hledání řešení",
+    "possible_solutions": "možná řešení",
+    "load_more_potential_solutions": "načíst více potenciálních řešení",
+    "ai_troubleshooting_none_solutions": "Pokud žádné z výše uvedených řešení váš problém nevyřeší, můžete zkusit přeformulovat nebo problém nahlásit.",
+    "ai_troubleshooting_bottom_tip": "Rady AI nemusí být vždy přesné. Zkontrolujte návrhy a pokud potřebujete další pomoc, kontaktujte nás.",
+    "describe_your_issue": "popište svůj problém",
+    "issue_solved": "problém vyřešen",
+    "ai_troubleshooting_top_tip": "Ušetřete čas a námahu s řešením problémů s umělou inteligencí! Zde jsou možná řešení chyby, ke které dochází.",
+    "ai_troubleshooting_help": "Jak mohu pomoci?"
 }

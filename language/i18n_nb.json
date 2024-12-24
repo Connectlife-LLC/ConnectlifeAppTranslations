@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "Når festmodus er aktivert, vil alle rom gå til maksimal kjøling. Festmodus blir automatisk deaktivert etter 24 timer.",
     "CL_DV_RF_cleaning_mode_desc": "Rengjøringsmodus gir komfortabel rengjøring av kjølerommet.",
     "CL_DV_RF_sabbath_mode_desc": "Sabbatsmodus vil være aktiv i 72 timer. Trykk * i 3 sekunder for å deaktivere under denne syklusen. Sabbatsmodus gjentas ukentlig.",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "Trykk lenge på \"Timer\"-knappen for å starte nettverkskonfigurasjonen når WIFI-indikatoren blinker. du kan koble til WIFI. Etter 3 minutter vil statusen bli kansellert hvis det ikke er noen nettverkskonfigurasjon, og indikatorlampen er av. Hvis du trenger å koble til WIFI på nytt, trykk lenge på \"Timer\"-knappen for å starte nettverkskonfigurasjonen igjen, WIFI-indikatoren vil blinke igjen.",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "Trykk lenge på @“Timer”#-knappen for å starte nettverkskonfigurasjonen, når WIFI-indikatoren blinker kan du koble til WIFI. Etter 3 minutter vil statusen bli kansellert hvis det ikke er noen nettverkskonfigurasjon, og indikatorlampen er av. Hvis du trenger å koble til WIFI på nytt, trykk lenge på @“Timer”#-knappen for å starte nettverkskonfigurasjonen igjen, WIFI-indikatoren vil blinke igjen.",
     "CL_DV_DW_washing_progress": "Vasking pågår...",
     "CL_DV_DW_washing_in_running": "Vasking i ## kjører",
     "CL_DV_DW_washing_paused": "Vasking stoppet",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "Gjeldende versjon er nyeste!",
     "CL_CF_FW_new_version_title": "Ny versjon",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "For å fjernstyre enheten din med ConnectLife-applikasjonen, følg disse trinnene for å aktivere fjernstart på enheten først.",
+    "CL_CF_CS_change_sn_tip": "Sjekk den originale SN-koden til enheten din: **; SN-kode denne gangen: ##; Er du sikker på at du vil erstatte?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "ai feilsøking",
+    "searching_for_solutions": "leter etter løsninger",
+    "possible_solutions": "mulige løsninger",
+    "load_more_potential_solutions": "laste flere potensielle løsninger",
+    "ai_troubleshooting_none_solutions": "Hvis ingen av løsningene ovenfor løser problemet ditt, kan du prøve å omformulere eller rapportere problemet.",
+    "ai_troubleshooting_bottom_tip": "AI-råd er kanskje ikke alltid nøyaktige. Dobbeltsjekk forslagene og kontakt oss hvis du trenger mer hjelp.",
+    "describe_your_issue": "beskriv problemet ditt",
+    "issue_solved": "problemet løst",
+    "ai_troubleshooting_top_tip": "Spar tid og krefter med AI-feilsøking! Her er potensielle løsninger for feilen du opplever.",
+    "ai_troubleshooting_help": "Hvordan kan jeg hjelpe?"
 }

@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "パーティー モードを有効にすると、すべてのコンパートメントが最大冷却状態になります。パーティー モードは 24 時間後に自動的に無効になります。",
     "CL_DV_RF_cleaning_mode_desc": "クリーニングモードにより、冷却室を快適に掃除できます。",
     "CL_DV_RF_sabbath_mode_desc": "安息日モードは 72 時間有効です。このサイクル中に無効にするには、* を 3 秒間押します。安息日モードは毎週繰り返されます。",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "「タイマー」ボタンを長押ししてネットワーク構成を開始すると、WIFIインジケーターが点滅します。WIFIに接続できます。3分後、ネットワーク構成がない場合、ステータスはキャンセルされ、インジケーターライトは消灯します。WIFIに再接続する必要がある場合は、「タイマー」ボタンを長押ししてネットワーク構成を再度開始すると、WIFIインジケーターが再び点滅します。",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "@“Timer”# ボタンを長押ししてネットワーク設定を開始します。WIFI インジケーターが点滅したら、WIFI に接続できます。3 分後、ネットワーク設定がない場合、ステータスはキャンセルされ、インジケーター ライトは消灯します。WIFI に再接続する必要がある場合は、@“Timer”# ボタンを長押ししてネットワーク設定を再度開始すると、WIFI インジケーターが再び点滅します。",
     "CL_DV_DW_washing_progress": "洗濯中です…",
     "CL_DV_DW_washing_in_running": "## で洗濯が進行中です",
     "CL_DV_DW_washing_paused": "洗濯を一時停止",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "現在のバージョンは最新です!",
     "CL_CF_FW_new_version_title": "新バージョン",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "ConnectLife アプリケーションを使用してデバイスをリモートで制御するには、まず次の手順に従って、デバイスのリモート スタートを有効にします。",
+    "CL_CF_CS_change_sn_tip": "デバイスの元の SN コードを確認してください: **; 今回の SN コード: ##; 本当に置き換えますか?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "ai トラブルシューティング",
+    "searching_for_solutions": "解決策を探す",
+    "possible_solutions": "考えられる解決策",
+    "load_more_potential_solutions": "潜在的な解決策をさらに読み込む",
+    "ai_troubleshooting_none_solutions": "上記のいずれの解決策でも問題が解決しない場合は、言い換えるか、問題を報告してみてください。",
+    "ai_troubleshooting_bottom_tip": "AI のアドバイスは必ずしも正確であるとは限りません。提案を再確認し、さらにサポートが必要な場合はお問い合わせください。",
+    "describe_your_issue": "問題を説明してください",
+    "issue_solved": "問題は解決しました",
+    "ai_troubleshooting_top_tip": "AI トラブルシューティングで時間と労力を節約しましょう。発生しているエラーの潜在的な解決策は次のとおりです。",
+    "ai_troubleshooting_help": "どうすれば助けられますか?"
 }

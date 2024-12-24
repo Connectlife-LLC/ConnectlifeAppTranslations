@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "Khi chế độ tiệc tùng được bật, tất cả các ngăn sẽ chuyển sang chế độ làm mát tối đa. Chế độ tiệc tùng sẽ tự động tắt sau 24 giờ.",
     "CL_DV_RF_cleaning_mode_desc": "Chế độ vệ sinh cho phép vệ sinh khoang làm mát một cách thoải mái.",
     "CL_DV_RF_sabbath_mode_desc": "Chế độ Sabbath sẽ hoạt động trong 72 giờ. Nhấn * trong 3 giây để hủy kích hoạt trong chu kỳ này. Chế độ Sabbath lặp lại hàng tuần.",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "Nhấn và giữ nút “Timer” để bắt đầu cấu hình mạng, khi đèn báo WIFI nhấp nháy. bạn có thể kết nối WIFI. Sau 3 phút, trạng thái sẽ bị hủy nếu không có cấu hình mạng và đèn báo tắt. Nếu bạn cần kết nối lại WIFI, nhấn và giữ nút “Timer” để bắt đầu cấu hình mạng một lần nữa, đèn báo WIFI sẽ nhấp nháy lần nữa.",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "Nhấn và giữ nút @“Timer”# để bắt đầu cấu hình mạng, khi đèn báo WIFI nhấp nháy, bạn có thể kết nối WIFI. Sau 3 phút, trạng thái sẽ bị hủy nếu không có cấu hình mạng và đèn báo tắt. Nếu bạn cần kết nối lại WIFI, nhấn và giữ nút @“Timer”# để bắt đầu cấu hình mạng một lần nữa, đèn báo WIFI sẽ nhấp nháy lần nữa.",
     "CL_DV_DW_washing_progress": "Đang giặt...",
     "CL_DV_DW_washing_in_running": "Đang giặt ở ##",
     "CL_DV_DW_washing_paused": "Đang tạm dừng giặt",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "Phiên bản hiện tại là mới nhất!",
     "CL_CF_FW_new_version_title": "Phiên bản mới",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "Để điều khiển thiết bị từ xa bằng ứng dụng ConnectLife, trước tiên hãy làm theo các bước sau để bật tính năng khởi động từ xa trên thiết bị.",
+    "CL_CF_CS_change_sn_tip": "Kiểm tra mã SN gốc của thiết bị của bạn: **; Mã SN lần này: ##; Bạn có chắc chắn muốn thay thế không?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "xử lý sự cố ai",
+    "searching_for_solutions": "tìm kiếm giải pháp",
+    "possible_solutions": "giải pháp khả thi",
+    "load_more_potential_solutions": "tải thêm các giải pháp tiềm năng",
+    "ai_troubleshooting_none_solutions": "Nếu không có giải pháp nào ở trên giải quyết được vấn đề của bạn, bạn có thể thử diễn đạt lại hoặc báo cáo sự cố.",
+    "ai_troubleshooting_bottom_tip": "Lời khuyên của AI không phải lúc nào cũng chính xác. Hãy kiểm tra lại các đề xuất và liên hệ với chúng tôi nếu bạn cần thêm trợ giúp.",
+    "describe_your_issue": "mô tả vấn đề của bạn",
+    "issue_solved": "vấn đề đã được giải quyết",
+    "ai_troubleshooting_top_tip": "Tiết kiệm thời gian và công sức với AI khắc phục sự cố! Sau đây là các giải pháp tiềm năng cho lỗi bạn đang gặp phải.",
+    "ai_troubleshooting_help": "Tôi có thể giúp gì cho bạn?"
 }

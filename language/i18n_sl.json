@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "Ko je omogočen način zabave, se bodo vsi predelki maksimalno ohladili. Zabavni način bo po 24 urah samodejno onemogočen.",
     "CL_DV_RF_cleaning_mode_desc": "Način čiščenja omogoča udobno čiščenje hladilnega predelka.",
     "CL_DV_RF_sabbath_mode_desc": "Sobotni način bo aktiven 72 ur.\nPritisnite * za 3 sekunde, da ga deaktivirate med tem ciklom. Ponavlja se tedensko.",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "Dolgo pritisnite gumb »Timer«, da začnete konfiguracijo omrežja, ko indikator WIFI utripa. lahko povežete WIFI. Po 3 minutah bo status preklican, če ni konfiguracije omrežja in lučka indikatorja ne sveti. Če morate znova vzpostaviti povezavo WIFI, dolgo pritisnite gumb »Timer«, da znova zaženete konfiguracijo omrežja, indikator WIFI bo znova utripal.",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "Dolgo pritisnite gumb @»Timer«#, da začnete konfiguracijo omrežja, ko indikator WIFI utripa, se lahko povežete z WIFI. Po 3 minutah bo status preklican, če ni konfiguracije omrežja in lučka indikatorja ne sveti. Če se morate znova povezati z WIFI, dolgo pritisnite gumb @»Timer«#, da znova zaženete konfiguracijo omrežja, indikator WIFI bo znova utripal.",
     "CL_DV_DW_washing_progress": "Pranje v teku...",
     "CL_DV_DW_washing_in_running": "Pranje v ## teče",
     "CL_DV_DW_washing_paused": "Pranje začasno ustavljeno",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "Trenutna različica je najnovejša!",
     "CL_CF_FW_new_version_title": "Nova različica",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "Če želite upravljati svojo napravo na daljavo z aplikacijo ConnectLife, sledite tem korakom, da najprej omogočite oddaljeni zagon v napravi.",
+    "CL_CF_CS_change_sn_tip": "Preverite originalno kodo SN vaše naprave: **; SN oznaka tokrat: ##; Ste prepričani, da želite zamenjati?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "AI odpravljanje težav",
+    "searching_for_solutions": "iskanje rešitev",
+    "possible_solutions": "možne rešitve",
+    "load_more_potential_solutions": "naloži več potencialnih rešitev",
+    "ai_troubleshooting_none_solutions": "Če nobena od zgornjih rešitev ne reši vaše težave, lahko poskusite preoblikovati ali prijaviti težavo.",
+    "ai_troubleshooting_bottom_tip": "Nasveti AI morda niso vedno točni. Še enkrat preverite predloge in nas kontaktirajte, če potrebujete dodatno pomoč.",
+    "describe_your_issue": "opišite svojo težavo",
+    "issue_solved": "težava rešena",
+    "ai_troubleshooting_top_tip": "Prihranite čas in trud z odpravljanjem težav z umetno inteligenco! Tukaj so možne rešitve za napako, ki jo imate.",
+    "ai_troubleshooting_help": "Kako lahko pomagam?"
 }

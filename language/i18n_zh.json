@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "启用派对模式后，所有隔间将进入最大制冷状态。派对模式将在 24 小时后自动禁用。",
     "CL_DV_RF_cleaning_mode_desc": "清洁模式可以轻松清洁冷藏室。",
     "CL_DV_RF_sabbath_mode_desc": "安息日模式将激活 72 小时。\n在此周期内，按住 * 3 秒可将其停用。每周重复一次。",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "长按“Timer”键启动配网，此时WIFI指示灯闪烁，即可连接WIFI。3分钟后若无配网则取消状态，指示灯熄灭。如需重新连接WIFI，长按“Timer”键再次启动配网，WIFI指示灯再次闪烁。",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "长按@“Timer”#键启动配网，待WIFI指示灯闪烁后即可连接WIFI。3分钟后若无配网则取消状态，指示灯熄灭。如需重新连接WIFI，长按@“Timer”#键再次启动配网，WIFI指示灯再次闪烁。",
     "CL_DV_DW_washing_progress": "正在洗涤...",
     "CL_DV_DW_washing_in_running": "## 的洗涤正在进行中",
     "CL_DV_DW_washing_paused": "洗衣暂停",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "当前版本是最新版本！",
     "CL_CF_FW_new_version_title": "新版本",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "要使用 ConnectLife 应用程序远程控制您的设备，请先按照以下步骤在设备上启用远程启动。",
+    "CL_CF_CS_change_sn_tip": "查看您设备原有的SN码：**；本次SN码：##；您确定要替换吗？",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "人工智能故障排除",
+    "searching_for_solutions": "寻找解决方案",
+    "possible_solutions": "可能的解决方案",
+    "load_more_potential_solutions": "加载更多潜在解决方案",
+    "ai_troubleshooting_none_solutions": "如果上述解决方案都不能解决您的问题，您可以尝试重新表述或报告该问题。",
+    "ai_troubleshooting_bottom_tip": "AI 建议可能并不总是准确的。请仔细检查建议，如果您需要进一步的帮助，请联系我们。",
+    "describe_your_issue": "描述你的问题",
+    "issue_solved": "问题解决了",
+    "ai_troubleshooting_top_tip": "使用 AI 故障排除节省时间和精力！以下是针对您遇到的错误的潜在解决方案。",
+    "ai_troubleshooting_help": "我能帮上什么忙？"
 }
