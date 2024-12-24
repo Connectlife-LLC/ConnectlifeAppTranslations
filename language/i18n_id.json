@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Memungkinkan pendinginan maksimal, nyaman untuk mendinginkan stok produk dalam jumlah besar dengan cepat sepanjang hari.",
     "CL_DV_RF_combi_lock_mode_desc": "Menyalakan kunci akan menonaktifkan layar. Menekan tombol X pada layar alat selama 3 detik akan menonaktifkan kunci.",
     "CL_DV_RF_combi_lights_desc": "Kulkas secara otomatis menyesuaikan dengan jumlah cahaya di ruangan dan mengubah lampu kulkas sesuai dengan itu.",
-    "CL_CF_CO_read_more": "Baca selengkapnya"
+    "CL_CF_CO_read_more": "Baca selengkapnya",
+    "CL_CF_FW_current_version_is_newest": "Versi saat ini adalah yang terbaru!",
+    "CL_CF_FW_new_version_title": "Versi baru",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

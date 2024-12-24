@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Maximális hűtést tesz lehetővé, kényelmes nagy árukészletek gyors lehűtéséhez a nap folyamán.",
     "CL_DV_RF_combi_lock_mode_desc": "A zárolás bekapcsolása letiltja a képernyőt. Az X gomb 3 másodperces lenyomása a készülék képernyőjén kikapcsolja a zárat.",
     "CL_DV_RF_combi_lights_desc": "A hűtőszekrény automatikusan alkalmazkodik a helyiségben lévő fény mennyiségéhez, és ennek megfelelően változtatja a hűtőszekrény világítását.",
-    "CL_CF_CO_read_more": "Olvass tovább"
+    "CL_CF_CO_read_more": "Olvass tovább",
+    "CL_CF_FW_current_version_is_newest": "A jelenlegi verzió a legújabb!",
+    "CL_CF_FW_new_version_title": "Új verzió",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

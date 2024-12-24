@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "최대 냉각이 가능하며, 낮 동안 많은 양의 제품을 빠르게 냉각하는 데 편리합니다.",
     "CL_DV_RF_combi_lock_mode_desc": "잠금을 켜면 화면이 비활성화됩니다. 기기 화면에서 X 키를 3초 동안 누르면 잠금이 비활성화됩니다.",
     "CL_DV_RF_combi_lights_desc": "냉장고는 실내의 조도에 따라 자동으로 조절되고, 냉장고 조명도 그에 맞게 바뀝니다.",
-    "CL_CF_CO_read_more": "더 읽어보기"
+    "CL_CF_CO_read_more": "더 읽어보기",
+    "CL_CF_FW_current_version_is_newest": "현재 버전이 가장 최신입니다!",
+    "CL_CF_FW_new_version_title": "새로운 버전",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

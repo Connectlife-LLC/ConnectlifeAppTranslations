@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Permet un refroidissement maximal, pratique pour refroidir rapidement de gros stocks de produits pendant la journée.",
     "CL_DV_RF_combi_lock_mode_desc": "L'activation du verrouillage désactive l'écran. Appuyez sur la touche X sur l'écran de l'appareil pendant 3 secondes pour désactiver le verrouillage.",
     "CL_DV_RF_combi_lights_desc": "Le réfrigérateur s'ajuste automatiquement à la quantité de lumière dans la pièce et modifie les lumières du réfrigérateur en conséquence.",
-    "CL_CF_CO_read_more": "En savoir plus"
+    "CL_CF_CO_read_more": "En savoir plus",
+    "CL_CF_FW_current_version_is_newest": "La version actuelle est la plus récente !",
+    "CL_CF_FW_new_version_title": "Nouvelle version",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

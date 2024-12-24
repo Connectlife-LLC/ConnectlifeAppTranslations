@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Cho phép làm mát tối đa, thuận tiện cho việc làm mát nhanh khối lượng sản phẩm lớn trong ngày.",
     "CL_DV_RF_combi_lock_mode_desc": "Bật khóa sẽ vô hiệu hóa màn hình. Nhấn phím X trên màn hình thiết bị trong 3 giây sẽ vô hiệu hóa khóa.",
     "CL_DV_RF_combi_lights_desc": "Tủ lạnh sẽ tự động điều chỉnh theo lượng ánh sáng trong phòng và thay đổi đèn tủ lạnh cho phù hợp.",
-    "CL_CF_CO_read_more": "Đọc thêm"
+    "CL_CF_CO_read_more": "Đọc thêm",
+    "CL_CF_FW_current_version_is_newest": "Phiên bản hiện tại là mới nhất!",
+    "CL_CF_FW_new_version_title": "Phiên bản mới",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

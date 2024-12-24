@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Permite o răcire maximă, convenabilă pentru răcirea rapidă a stocurilor mari de produse în timpul zilei.",
     "CL_DV_RF_combi_lock_mode_desc": "Activarea blocării va dezactiva ecranul. Apăsarea tastei X de pe ecranul aparatului timp de 3 secunde dezactivează blocarea.",
     "CL_DV_RF_combi_lights_desc": "Frigiderul se adaptează automat la cantitatea de lumină din cameră și schimbă luminile frigiderului în consecință.",
-    "CL_CF_CO_read_more": "Citeşte mai mult"
+    "CL_CF_CO_read_more": "Citeşte mai mult",
+    "CL_CF_FW_current_version_is_newest": "Versiunea actuală este cea mai nouă!",
+    "CL_CF_FW_new_version_title": "Versiune nouă",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

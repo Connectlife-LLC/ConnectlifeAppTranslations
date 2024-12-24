@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "ให้ความเย็นสูงสุด สะดวกในการทำความเย็นสต๊อกสินค้าจำนวนมากได้อย่างรวดเร็วตลอดทั้งวัน",
     "CL_DV_RF_combi_lock_mode_desc": "การเปิดล็อคจะทำให้หน้าจอปิดใช้งาน การกดปุ่ม X บนหน้าจออุปกรณ์เป็นเวลา 3 วินาทีจะทำให้ล็อคปิดใช้งาน",
     "CL_DV_RF_combi_lights_desc": "ตู้เย็นจะปรับแสงตามปริมาณแสงในห้องโดยอัตโนมัติและเปลี่ยนแสงของตู้เย็นตามนั้น",
-    "CL_CF_CO_read_more": "อ่านเพิ่มเติม"
+    "CL_CF_CO_read_more": "อ่านเพิ่มเติม",
+    "CL_CF_FW_current_version_is_newest": "เวอร์ชันปัจจุบันใหม่ล่าสุด!",
+    "CL_CF_FW_new_version_title": "เวอร์ชั่นใหม่",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

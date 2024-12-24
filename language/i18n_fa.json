@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "حداکثر خنک کننده را فعال می کند، برای خنک کردن سریع انبارهای بزرگ محصولات در طول روز راحت است.",
     "CL_DV_RF_combi_lock_mode_desc": "روشن کردن قفل صفحه را غیرفعال می کند. با فشار دادن کلید X روی صفحه دستگاه به مدت 3 ثانیه، قفل غیرفعال می شود.",
     "CL_DV_RF_combi_lights_desc": "یخچال به طور خودکار میزان نور اتاق را تنظیم می کند و چراغ های یخچال را متناسب با آن تغییر می دهد.",
-    "CL_CF_CO_read_more": "ادامه مطلب"
+    "CL_CF_CO_read_more": "ادامه مطلب",
+    "CL_CF_FW_current_version_is_newest": "نسخه فعلی جدیدترین است!",
+    "CL_CF_FW_new_version_title": "نسخه جدید",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

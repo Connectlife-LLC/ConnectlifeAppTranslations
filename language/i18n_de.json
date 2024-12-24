@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Ermöglicht maximale Kühlung und ist praktisch für die schnelle Abkühlung großer Produktbestände im Laufe des Tages.",
     "CL_DV_RF_combi_lock_mode_desc": "Durch Aktivieren der Sperre wird der Bildschirm deaktiviert. Durch 3 Sekunden langes Drücken der X-Taste auf dem Gerätebildschirm wird die Sperre deaktiviert.",
     "CL_DV_RF_combi_lights_desc": "Der Kühlschrank passt sich automatisch der Lichtmenge im Raum an und ändert die Kühlschrankbeleuchtung entsprechend.",
-    "CL_CF_CO_read_more": "Mehr lesen"
+    "CL_CF_CO_read_more": "Mehr lesen",
+    "CL_CF_FW_current_version_is_newest": "Die aktuelle Version ist die neueste!",
+    "CL_CF_FW_new_version_title": "Neue Version",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

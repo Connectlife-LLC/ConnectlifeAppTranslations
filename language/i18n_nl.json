@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Zorgt voor maximale koeling, handig voor het snel koelen van grote hoeveelheden producten gedurende de dag.",
     "CL_DV_RF_combi_lock_mode_desc": "Het inschakelen van de vergrendeling schakelt het scherm uit. Door 3 seconden op de X-toets op het scherm van het apparaat te drukken, wordt de vergrendeling uitgeschakeld.",
     "CL_DV_RF_combi_lights_desc": "De koelkast past zich automatisch aan de hoeveelheid licht in de kamer aan en past de verlichting op basis daarvan aan.",
-    "CL_CF_CO_read_more": "Lees meer"
+    "CL_CF_CO_read_more": "Lees meer",
+    "CL_CF_FW_current_version_is_newest": "De huidige versie is de nieuwste!",
+    "CL_CF_FW_new_version_title": "Nieuwe versie",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

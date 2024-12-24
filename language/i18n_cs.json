@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Umožňuje maximální chlazení, vhodné pro rychlé ochlazení velkých zásob produktů během dne.",
     "CL_DV_RF_combi_lock_mode_desc": "Zapnutím zámku se vypne obrazovka. Stisknutí tlačítka X na obrazovce spotřebiče po dobu 3 sekund deaktivuje zámek.",
     "CL_DV_RF_combi_lights_desc": "Chladnička se automaticky přizpůsobí množství světla v místnosti a podle toho změní osvětlení chladničky.",
-    "CL_CF_CO_read_more": "Přečtěte si více"
+    "CL_CF_CO_read_more": "Přečtěte si více",
+    "CL_CF_FW_current_version_is_newest": "Aktuální verze je nejnovější!",
+    "CL_CF_FW_new_version_title": "Nová verze",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

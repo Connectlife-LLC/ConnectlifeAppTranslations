@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "מאפשר קירור מרבי, נוח לקירור מהיר של מלאי גדול של מוצרים במהלך היום.",
     "CL_DV_RF_combi_lock_mode_desc": "הפעלת הנעילה תשבית את המסך. לחיצה על מקש X במסך המכשיר למשך 3 שניות משביתה את הנעילה.",
     "CL_DV_RF_combi_lights_desc": "המקרר מתאים אוטומטית לכמות האור בחדר ומשנה את תאורת המקרר בהתאם.",
-    "CL_CF_CO_read_more": "קרא עוד"
+    "CL_CF_CO_read_more": "קרא עוד",
+    "CL_CF_FW_current_version_is_newest": "הגרסה הנוכחית היא החדשה ביותר!",
+    "CL_CF_FW_new_version_title": "גרסה חדשה",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }
