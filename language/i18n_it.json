@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "Quando la modalità party è abilitata, tutti i compartimenti passeranno al raffreddamento massimo. La modalità party verrà automaticamente disattivata dopo 24 ore.",
     "CL_DV_RF_cleaning_mode_desc": "La modalità Pulizia consente una comoda pulizia del vano frigorifero.",
     "CL_DV_RF_sabbath_mode_desc": "La modalità Sabbath sarà attiva per 72 ore.\nPremi * per 3 secondi per disattivarla durante questo ciclo. Si ripete settimanalmente.",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "Premere a lungo il pulsante \"Timer\" per avviare la configurazione di rete; quando l'indicatore WIFI lampeggia, è possibile collegare il WIFI. Dopo 3 minuti, lo stato sarà annullato se non c'è configurazione di rete e l'indicatore luminoso è spento. Se è necessario ricollegare il WIFI, premere a lungo il pulsante \"Timer\" per avviare nuovamente la configurazione di rete, l'indicatore WIFI lampeggerà di nuovo.",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "Premere a lungo il pulsante @“Timer”# per avviare la configurazione di rete, quando l'indicatore WIFI lampeggia è possibile connettere il WIFI. Dopo 3 minuti, lo stato verrà annullato se non è presente alcuna configurazione di rete e la spia luminosa è spenta. Se è necessario ricollegare il WIFI, premere a lungo il pulsante @“Timer”# per avviare nuovamente la configurazione di rete, l'indicatore WIFI lampeggerà di nuovo.",
     "CL_DV_DW_washing_progress": "Lavaggio in corso...",
     "CL_DV_DW_washing_in_running": "Il lavaggio in ## è in corso",
     "CL_DV_DW_washing_paused": "Lavaggio in pausa",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "La versione attuale è la più recente!",
     "CL_CF_FW_new_version_title": "Nuova versione",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "Per controllare il dispositivo da remoto con l'applicazione ConnectLife, segui questi passaggi per abilitare prima l'avvio remoto sul dispositivo.",
+    "CL_CF_CS_change_sn_tip": "Controlla il codice SN originale del tuo dispositivo: **; Codice SN questa volta: ##; Sei sicuro di volerlo sostituire?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "risoluzione dei problemi di intelligenza artificiale",
+    "searching_for_solutions": "alla ricerca di soluzioni",
+    "possible_solutions": "possibili soluzioni",
+    "load_more_potential_solutions": "carica altre potenziali soluzioni",
+    "ai_troubleshooting_none_solutions": "Se nessuna delle soluzioni sopra elencate risolve il problema, puoi provare a riformulare la questione o a segnalarla.",
+    "ai_troubleshooting_bottom_tip": "I consigli dell'IA potrebbero non essere sempre accurati. Ricontrolla i suggerimenti e contattaci se hai bisogno di ulteriore assistenza.",
+    "describe_your_issue": "descrivi il tuo problema",
+    "issue_solved": "problema risolto",
+    "ai_troubleshooting_top_tip": "Risparmia tempo e fatica con la risoluzione dei problemi AI! Ecco le possibili soluzioni per l'errore che stai riscontrando.",
+    "ai_troubleshooting_help": "Come posso aiutare?"
 }

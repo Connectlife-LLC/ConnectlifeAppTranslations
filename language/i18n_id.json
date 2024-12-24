@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "Saat mode pesta diaktifkan, semua kompartemen akan mencapai pendinginan maksimum. Mode pesta akan otomatis dinonaktifkan setelah 24 jam.",
     "CL_DV_RF_cleaning_mode_desc": "Mode pembersihan memungkinkan pembersihan kompartemen pendingin yang nyaman.",
     "CL_DV_RF_sabbath_mode_desc": "Mode Sabat akan aktif selama 72 jam. Tekan * selama 3 detik untuk menonaktifkannya selama siklus ini. Mode Sabat diulang setiap minggu.",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "Tekan lama tombol “Timer” untuk memulai konfigurasi jaringan, saat indikator WIFI berkedip. Anda dapat menghubungkan WIFI. Setelah 3 menit, status akan dibatalkan jika tidak ada konfigurasi jaringan, dan lampu indikator mati. Jika Anda perlu menghubungkan kembali WIFI, tekan lama tombol “Timer” untuk memulai konfigurasi jaringan lagi, indikator WIFI akan berkedip lagi.",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "Tekan lama tombol @“Timer”# untuk memulai konfigurasi jaringan, saat indikator WIFI berkedip, Anda dapat menghubungkan WIFI. Setelah 3 menit, status akan dibatalkan jika tidak ada konfigurasi jaringan, dan lampu indikator mati. Jika Anda perlu menghubungkan kembali WIFI, tekan lama tombol @“Timer”# untuk memulai konfigurasi jaringan lagi, indikator WIFI akan berkedip lagi.",
     "CL_DV_DW_washing_progress": "Sedang dicuci...",
     "CL_DV_DW_washing_in_running": "Pencucian di ## sedang berjalan",
     "CL_DV_DW_washing_paused": "Pencucian dihentikan sementara",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "Versi saat ini adalah yang terbaru!",
     "CL_CF_FW_new_version_title": "Versi baru",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "Untuk mengendalikan perangkat Anda dari jarak jauh dengan aplikasi ConnectLife, ikuti langkah-langkah berikut untuk mengaktifkan start jarak jauh pada perangkat terlebih dahulu.",
+    "CL_CF_CS_change_sn_tip": "Periksa kode SN asli perangkat Anda: **; Kode SN kali ini: ##; Apakah Anda yakin ingin mengganti?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "Pemecahan masalah AI",
+    "searching_for_solutions": "mencari solusi",
+    "possible_solutions": "solusi yang mungkin",
+    "load_more_potential_solutions": "memuat lebih banyak solusi potensial",
+    "ai_troubleshooting_none_solutions": "Jika tidak ada solusi di atas yang menyelesaikan masalah Anda, Anda dapat mencoba mengulanginya atau melaporkan masalah tersebut.",
+    "ai_troubleshooting_bottom_tip": "Saran AI mungkin tidak selalu akurat. Periksa kembali saran tersebut dan hubungi kami jika Anda memerlukan bantuan lebih lanjut.",
+    "describe_your_issue": "jelaskan masalah Anda",
+    "issue_solved": "Masalah terpecahkan",
+    "ai_troubleshooting_top_tip": "Hemat waktu dan tenaga dengan pemecahan masalah AI! Berikut adalah solusi potensial untuk kesalahan yang Anda alami.",
+    "ai_troubleshooting_help": "Bagaimana saya bisa membantu?"
 }

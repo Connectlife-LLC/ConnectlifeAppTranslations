@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "Quando o modo festa estiver habilitado, todos os compartimentos irão para o resfriamento máximo. O modo festa será desabilitado automaticamente após 24 horas.",
     "CL_DV_RF_cleaning_mode_desc": "O Modo Limpeza permite uma limpeza confortável do compartimento de arrefecimento. ",
     "CL_DV_RF_sabbath_mode_desc": "O modo Sabbath ficará ativo por 72 horas.\nPrima * durante 3 segundos para o desativar durante este ciclo. Repete semanalmente.",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "Pressione longamente o botão “Timer” para iniciar a configuração de rede, quando o indicador WIFI piscar. você pode conectar o WIFI. Após 3 minutos, o status será cancelado se não houver configuração de rede, e a luz indicadora estiver apagada. Se você precisar reconectar o WIFI, pressione longamente o botão “Timer” para iniciar a configuração de rede novamente, o indicador WIFI piscará novamente.",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "Pressione longamente o botão @“Timer”# para iniciar a configuração de rede, quando o indicador WIFI piscar, você pode conectar o WIFI. Após 3 minutos, o status será cancelado se não houver configuração de rede e a luz indicadora estiver apagada. Se você precisar reconectar o WIFI, pressione longamente o botão @“Timer”# para iniciar a configuração de rede novamente, o indicador WIFI piscará novamente.",
     "CL_DV_DW_washing_progress": "Lavagem em andamento...",
     "CL_DV_DW_washing_in_running": "A lavagem em ## está em andamento",
     "CL_DV_DW_washing_paused": "Lavagem pausada",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "A versão atual é a mais recente!",
     "CL_CF_FW_new_version_title": "Nova versão",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "Para controlar seu dispositivo remotamente com o aplicativo ConnectLife, siga estas etapas para habilitar a inicialização remota no dispositivo primeiro.",
+    "CL_CF_CS_change_sn_tip": "Verifique o código SN original do seu dispositivo: **; Código SN desta vez: ##; Tem certeza de que deseja substituir?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "solução de problemas de ia",
+    "searching_for_solutions": "procurando soluções",
+    "possible_solutions": "soluções possíveis",
+    "load_more_potential_solutions": "carregar mais soluções potenciais",
+    "ai_troubleshooting_none_solutions": "Se nenhuma das soluções acima resolver o seu problema, você pode tentar reformular ou relatar o problema.",
+    "ai_troubleshooting_bottom_tip": "Os conselhos de IA podem nem sempre ser precisos. Verifique novamente as sugestões e entre em contato conosco se precisar de mais assistência.",
+    "describe_your_issue": "descreva seu problema",
+    "issue_solved": "problema resolvido",
+    "ai_troubleshooting_top_tip": "Economize tempo e esforço com solução de problemas de IA! Aqui estão soluções potenciais para o erro que você está enfrentando.",
+    "ai_troubleshooting_help": "Como posso ajudar?"
 }

@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "Parti modu etkinleştirildiğinde, tüm bölmeler maksimum soğutmaya geçecektir. Parti modu 24 saat sonra otomatik olarak devre dışı bırakılacaktır.",
     "CL_DV_RF_cleaning_mode_desc": "Temizleme modu soğutma bölmesinin konforlu bir şekilde temizlenmesini sağlar.",
     "CL_DV_RF_sabbath_mode_desc": "Sabbath modu 72 saat boyunca aktif olacaktır. Bu döngü sırasında devre dışı bırakmak için * tuşuna 3 saniye basın. Sabbath modu haftalık olarak tekrarlanır.",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "Ağ yapılandırmasını başlatmak için “Timer” düğmesine uzun basın, WIFI göstergesi yanıp söndüğünde. WIFI'yi bağlayabilirsiniz. 3 dakika sonra, ağ yapılandırması yoksa durum iptal edilir ve gösterge ışığı söner. WIFI'yi yeniden bağlamanız gerekirse, ağ yapılandırmasını tekrar başlatmak için “Timer” düğmesine uzun basın, WIFI göstergesi tekrar yanıp söner.",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "Ağ yapılandırmasını başlatmak için @“Timer”# düğmesine uzun basın, WIFI göstergesi yanıp söndüğünde WIFI'yi bağlayabilirsiniz. 3 dakika sonra, ağ yapılandırması yoksa durum iptal edilir ve gösterge ışığı söner. WIFI'yi yeniden bağlamanız gerekirse, ağ yapılandırmasını tekrar başlatmak için @“Timer”# düğmesine uzun basın, WIFI göstergesi tekrar yanıp söner.",
     "CL_DV_DW_washing_progress": "Yıkama işlemi devam ediyor...",
     "CL_DV_DW_washing_in_running": "##'de yıkama çalışıyor",
     "CL_DV_DW_washing_paused": "Yıkama durduruldu",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "Güncel sürüm en yenisidir!",
     "CL_CF_FW_new_version_title": "Yeni sürüm",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "Cihazınızı ConnectLife uygulamasıyla uzaktan kontrol etmek için öncelikle cihazda uzaktan başlatmayı etkinleştirmek üzere aşağıdaki adımları izleyin.",
+    "CL_CF_CS_change_sn_tip": "Cihazınızın orijinal SN kodunu kontrol edin: **; Bu seferki SN kodu: ##; Değiştirmek istediğinizden emin misiniz?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "AI sorun giderme",
+    "searching_for_solutions": "çözüm arayışı",
+    "possible_solutions": "olası çözümler",
+    "load_more_potential_solutions": "daha fazla potansiyel çözüm yükleyin",
+    "ai_troubleshooting_none_solutions": "Yukarıdaki çözümlerden hiçbiri sorununuzu çözmezse, sorunu yeniden ifade etmeyi veya bildirmeyi deneyebilirsiniz.",
+    "ai_troubleshooting_bottom_tip": "AI tavsiyeleri her zaman doğru olmayabilir. Önerileri iki kez kontrol edin ve daha fazla yardıma ihtiyacınız olursa bizimle iletişime geçin.",
+    "describe_your_issue": "sorununuzu açıklayın",
+    "issue_solved": "sorun çözüldü",
+    "ai_troubleshooting_top_tip": "AI sorun giderme ile zamandan ve emekten tasarruf edin! Yaşadığınız hata için olası çözümler şunlardır.",
+    "ai_troubleshooting_help": "Nasıl yardımcı olabilirim?"
 }

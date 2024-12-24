@@ -4550,7 +4550,7 @@
     "CL_DV_RF_party_mode_desc": "Lorsque le mode fête est activé, tous les compartiments passent en mode refroidissement maximal. Le mode fête sera automatiquement désactivé après 24 heures.",
     "CL_DV_RF_cleaning_mode_desc": "Le mode Nettoyage permet un nettoyage confortable du compartiment réfrigérant.",
     "CL_DV_RF_sabbath_mode_desc": "Le mode sabbat sera actif pendant 72 heures.\nAppuyez sur * pendant 3 s pour le désactiver pendant ce cycle. Se répète chaque semaine.",
-    "CL_CF_CS_tuya_dehumidifier_cs_2": "Appuyez longuement sur le bouton « Timer » pour démarrer la configuration du réseau, lorsque le voyant WIFI clignote, vous pouvez vous connecter au WIFI. Après 3 minutes, le statut sera annulé s'il n'y a pas de configuration réseau et le voyant lumineux est éteint. Si vous devez vous reconnecter au WIFI, appuyez longuement sur le bouton « Timer » pour redémarrer la configuration du réseau, le voyant WIFI clignotera à nouveau.",
+    "CL_CF_CS_tuya_dehumidifier_cs_2": "Appuyez longuement sur le bouton @« Timer »# pour démarrer la configuration du réseau. Lorsque le voyant WIFI clignote, vous pouvez vous connecter au WIFI. Après 3 minutes, le statut sera annulé s'il n'y a pas de configuration réseau et le voyant lumineux est éteint. Si vous devez vous reconnecter au WIFI, appuyez longuement sur le bouton @« Timer »# pour redémarrer la configuration du réseau. Le voyant WIFI clignotera à nouveau.",
     "CL_DV_DW_washing_progress": "Lavage en cours...",
     "CL_DV_DW_washing_in_running": "Le lavage à ## est en cours",
     "CL_DV_DW_washing_paused": "Lavage en pause",
@@ -4696,5 +4696,18 @@
     "CL_CF_FW_current_version_is_newest": "La version actuelle est la plus récente !",
     "CL_CF_FW_new_version_title": "Nouvelle version",
     "CL_CF_FW_new_version_desp": "",
-    "CL_DV_HOB_recipe_cooking_step_two": ""
+    "CL_DV_HOB_recipe_cooking_step_two": "",
+    "CL_DV_OV_enable_remote_start": "Pour contrôler votre appareil à distance avec l'application ConnectLife, suivez ces étapes pour activer d'abord le démarrage à distance sur l'appareil.",
+    "CL_CF_CS_change_sn_tip": "Vérifiez le code SN d'origine de votre appareil : ** ; Code SN cette fois : ## ; Êtes-vous sûr de vouloir le remplacer ?",
+    "CL_CF_ru_dev_outdate_info": "",
+    "ai_troubleshooting": "dépannage de l'IA",
+    "searching_for_solutions": "à la recherche de solutions",
+    "possible_solutions": "solutions possibles",
+    "load_more_potential_solutions": "charger plus de solutions potentielles",
+    "ai_troubleshooting_none_solutions": "Si aucune des solutions ci-dessus ne résout votre problème, vous pouvez essayer de reformuler ou de signaler le problème.",
+    "ai_troubleshooting_bottom_tip": "Les conseils de l'IA ne sont pas toujours exacts. Vérifiez les suggestions et contactez-nous si vous avez besoin d'aide.",
+    "describe_your_issue": "décrivez votre problème",
+    "issue_solved": "problème résolu",
+    "ai_troubleshooting_top_tip": "Gagnez du temps et des efforts grâce au dépannage par IA ! Voici des solutions potentielles pour l'erreur que vous rencontrez.",
+    "ai_troubleshooting_help": "Comment puis-je aider?"
 }
