@@ -765,7 +765,7 @@
     "expiry_date": "到期日",
     "item_photo": "项目照片",
     "send_to_shopping_list": "发送到购物清单",
-    "hisrf_exit_eco_mode": "退出 ECO 模式",
+    "hisrf_exit_eco_mode": "退出节能模式",
     "hisrf_exit_holiday_mode": "手动温度调节 退出假期模式",
     "hisrf_exit_super_freeze_mode": "退出速冻模式",
     "hisrf_exit_super_cool_mode": "退出速冷模式",
@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "实现最大程度的冷却，方便白天快速冷却大量产品。",
     "CL_DV_RF_combi_lock_mode_desc": "开启锁定将禁用屏幕。长按设备屏幕上的 X 键 3 秒可禁用锁定。",
     "CL_DV_RF_combi_lights_desc": "冰箱会自动调节房间的光线量，并相应地改变冰箱灯。",
-    "CL_CF_CO_read_more": "阅读更多"
+    "CL_CF_CO_read_more": "阅读更多",
+    "CL_CF_FW_current_version_is_newest": "当前版本是最新版本！",
+    "CL_CF_FW_new_version_title": "新版本",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

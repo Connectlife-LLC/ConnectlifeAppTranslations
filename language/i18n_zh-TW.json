@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "實現最大程度的冷卻，方便在白天快速冷卻大量產品。",
     "CL_DV_RF_combi_lock_mode_desc": "打開鎖定將禁用螢幕。按住裝置畫面上的 X 鍵 3 秒鐘可停用鎖定。",
     "CL_DV_RF_combi_lights_desc": "冰箱會自動調整房間內的光線量並相應地改變冰箱燈光。",
-    "CL_CF_CO_read_more": "閱讀更多"
+    "CL_CF_CO_read_more": "閱讀更多",
+    "CL_CF_FW_current_version_is_newest": "目前版本是最新的！",
+    "CL_CF_FW_new_version_title": "新版本",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

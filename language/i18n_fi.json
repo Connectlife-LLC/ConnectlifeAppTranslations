@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Mahdollistaa maksimaalisen jäähdytyksen, kätevä suurten tuotevarastojen nopeaan jäähdyttämiseen päivän aikana.",
     "CL_DV_RF_combi_lock_mode_desc": "Lukituksen ottaminen käyttöön poistaa näytön käytöstä. X-näppäimen painaminen laitteen näytössä 3 sekunnin ajan poistaa lukituksen käytöstä.",
     "CL_DV_RF_combi_lights_desc": "Jääkaappi mukautuu automaattisesti huoneen valon määrään ja muuttaa jääkaapin valot sen mukaan.",
-    "CL_CF_CO_read_more": "Lue lisää"
+    "CL_CF_CO_read_more": "Lue lisää",
+    "CL_CF_FW_current_version_is_newest": "Nykyinen versio on uusin!",
+    "CL_CF_FW_new_version_title": "Uusi versio",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

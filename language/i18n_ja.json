@@ -765,7 +765,7 @@
     "expiry_date": "有効期限",
     "item_photo": "商品写真",
     "send_to_shopping_list": "買い物リストに送信",
-    "hisrf_exit_eco_mode": "ECOモードを終了する",
+    "hisrf_exit_eco_mode": "省エネモードからの脱却です",
     "hisrf_exit_holiday_mode": "手動温度調整 ホリデーモードを終了する",
     "hisrf_exit_super_freeze_mode": "急速冷凍モードを終了する",
     "hisrf_exit_super_cool_mode": "急速冷却モードを終了する",
@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "最大限の冷却が可能で、日中に大量の在庫商品を素早く冷却するのに便利です。",
     "CL_DV_RF_combi_lock_mode_desc": "ロックをオンにすると画面が無効になります。アプライアンスの画面で X キーを 3 秒間押すとロックが無効になります。",
     "CL_DV_RF_combi_lights_desc": "冷蔵庫は室内の光の量を自動的に調整し、それに応じて冷蔵庫のライトを変えます。",
-    "CL_CF_CO_read_more": "続きを読む"
+    "CL_CF_CO_read_more": "続きを読む",
+    "CL_CF_FW_current_version_is_newest": "現在のバージョンは最新です!",
+    "CL_CF_FW_new_version_title": "新バージョン",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

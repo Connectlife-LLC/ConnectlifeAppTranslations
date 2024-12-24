@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Enables maximum cooling, convenient for quickly cooling big stocks of products during the day.",
     "CL_DV_RF_combi_lock_mode_desc": "Turning on lock will disable the screen. Pressing X key on the appliance screen for 3 seconds disables the lock.",
     "CL_DV_RF_combi_lights_desc": "The refrigerator automatically adjusts to the amount of light in the room and changes the fridge lights accordingly.",
-    "CL_CF_CO_read_more": "Read more"
+    "CL_CF_CO_read_more": "Read more",
+    "CL_CF_FW_current_version_is_newest": "Current  version is newest!",
+    "CL_CF_FW_new_version_title": "New version",
+    "CL_CF_FW_new_version_desp": "There’ s a new version for this machine. It will improve your experences for your Laundry work.\nWe  strongly recommend that you upgrade.",
+    "CL_DV_HOB_recipe_cooking_step_two": "Confirm on selected zone on the device."
 }

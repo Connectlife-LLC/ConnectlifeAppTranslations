@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Muliggjør maksimal kjøling, praktisk for rask nedkjøling av store varelagre i løpet av dagen.",
     "CL_DV_RF_combi_lock_mode_desc": "Hvis du slår på låsen, deaktiveres skjermen. Hvis du trykker på X-tasten på apparatets skjerm i 3 sekunder, deaktiveres låsen.",
     "CL_DV_RF_combi_lights_desc": "Kjøleskapet tilpasser seg automatisk lysmengden i rommet og endrer kjøleskapslysene deretter.",
-    "CL_CF_CO_read_more": "Les mer"
+    "CL_CF_CO_read_more": "Les mer",
+    "CL_CF_FW_current_version_is_newest": "Gjeldende versjon er nyeste!",
+    "CL_CF_FW_new_version_title": "Ny versjon",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

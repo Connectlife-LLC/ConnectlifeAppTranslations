@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Membolehkan penyejukan maksimum, mudah untuk menyejukkan stok besar produk dengan cepat pada siang hari.",
     "CL_DV_RF_combi_lock_mode_desc": "Menghidupkan kunci akan melumpuhkan skrin. Menekan kekunci X pada skrin perkakas selama 3 saat melumpuhkan kunci.",
     "CL_DV_RF_combi_lights_desc": "Peti sejuk melaraskan secara automatik kepada jumlah cahaya di dalam bilik dan menukar lampu peti sejuk dengan sewajarnya.",
-    "CL_CF_CO_read_more": "Baca lagi"
+    "CL_CF_CO_read_more": "Baca lagi",
+    "CL_CF_FW_current_version_is_newest": "Versi semasa adalah yang terbaru!",
+    "CL_CF_FW_new_version_title": "Versi baharu",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

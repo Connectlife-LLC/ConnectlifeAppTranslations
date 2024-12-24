@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Consente il massimo raffreddamento, comodo per raffreddare rapidamente grandi scorte di prodotti durante il giorno.",
     "CL_DV_RF_combi_lock_mode_desc": "L'attivazione del blocco disabiliterà lo schermo. Premendo il tasto X sullo schermo dell'apparecchio per 3 secondi si disabilita il blocco.",
     "CL_DV_RF_combi_lights_desc": "Il frigorifero si adatta automaticamente alla quantità di luce presente nella stanza e modifica di conseguenza l'illuminazione interna.",
-    "CL_CF_CO_read_more": "Per saperne di più"
+    "CL_CF_CO_read_more": "Per saperne di più",
+    "CL_CF_FW_current_version_is_newest": "La versione attuale è la più recente!",
+    "CL_CF_FW_new_version_title": "Nuova versione",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

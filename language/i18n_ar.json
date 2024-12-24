@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "يتيح أقصى قدر من التبريد، مما يجعله مناسبًا لتبريد كميات كبيرة من المنتجات بسرعة خلال اليوم.",
     "CL_DV_RF_combi_lock_mode_desc": "سيؤدي تشغيل القفل إلى تعطيل الشاشة. يؤدي الضغط على مفتاح X على شاشة الجهاز لمدة 3 ثوانٍ إلى تعطيل القفل.",
     "CL_DV_RF_combi_lights_desc": "يتكيف الثلاجة تلقائيًا مع كمية الضوء في الغرفة ويغير أضواء الثلاجة وفقًا لذلك.",
-    "CL_CF_CO_read_more": "اقرأ المزيد"
+    "CL_CF_CO_read_more": "اقرأ المزيد",
+    "CL_CF_FW_current_version_is_newest": "الإصدار الحالي هو الأحدث!",
+    "CL_CF_FW_new_version_title": "النسخة الجديدة",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

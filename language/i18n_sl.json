@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Omogoča maksimalno hlajenje, priročno za hitro hlajenje velikih zalog izdelkov čez dan.",
     "CL_DV_RF_combi_lock_mode_desc": "Vklop zaklepanja bo onemogočil zaslon. S pritiskom tipke X na zaslonu naprave za 3 sekunde onemogočite zaklepanje.",
     "CL_DV_RF_combi_lights_desc": "Hladilnik se samodejno prilagaja količini svetlobe v prostoru in temu primerno spreminja osvetlitev hladilnika.",
-    "CL_CF_CO_read_more": "Preberi več"
+    "CL_CF_CO_read_more": "Preberi več",
+    "CL_CF_FW_current_version_is_newest": "Trenutna različica je najnovejša!",
+    "CL_CF_FW_new_version_title": "Nova različica",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }

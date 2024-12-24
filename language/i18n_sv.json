@@ -4692,5 +4692,9 @@
     "CL_DV_RF_combi_party_mode_desc": "Möjliggör maximal kylning, bekvämt för att snabbt kyla stora lager av produkter under dagen.",
     "CL_DV_RF_combi_lock_mode_desc": "Om du aktiverar låset inaktiveras skärmen. Om du trycker på X-knappen på apparatens skärm i 3 sekunder avaktiveras låset.",
     "CL_DV_RF_combi_lights_desc": "Kylskåpet anpassar sig automatiskt till mängden ljus i rummet och ändrar kylens belysning därefter.",
-    "CL_CF_CO_read_more": "Läs mer"
+    "CL_CF_CO_read_more": "Läs mer",
+    "CL_CF_FW_current_version_is_newest": "Aktuell version är den senaste!",
+    "CL_CF_FW_new_version_title": "Ny version",
+    "CL_CF_FW_new_version_desp": "",
+    "CL_DV_HOB_recipe_cooking_step_two": ""
 }
