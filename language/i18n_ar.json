@@ -4793,5 +4793,19 @@
     "CL_WM_CM_detergent_concentration": "تركيز المنظفات",
     "CL_WM_CM_change_temperature": "تغيير درجة الحرارة",
     "CL_DV_DW_dw60c_remote_disable": "تم تعطيل التشغيل عن بُعد على جهازك. لبدء تشغيل البرنامج من تطبيق ConnectLife، قم بتمكين التشغيل عن بُعد على الجهاز نفسه. راجع دليل المستخدم للحصول على التعليمات. ",
-    "ai_troubleshooting_try_again": "لم يتم العثور على معلومات ذات صلة. يرجى محاولة إعادة صياغة المشكلة أو الإبلاغ عنها."
+    "ai_troubleshooting_try_again": "لم يتم العثور على معلومات ذات صلة. يرجى محاولة إعادة صياغة المشكلة أو الإبلاغ عنها.",
+    "CL_CF_UC_ru_login_tip_title": "لقد تم رفضك",
+    "CL_CF_UC_ru_login_tip_content": "لقد تم رفض تسجيل الدخول الخاص بك بسبب محاولة الوصول من بلد أو منطقة لا يتوفر فيها هذا المنتج أو الخدمة، يرجى ضبط بلد هاتفك ليتطابق مع البلد الفعلي ثم حاول مرة أخرى.",
+    "CL_DV_AC_temp_min_content": "وصلت الوحدة إلى الحد الأدنى لدرجة الحرارة.",
+    "CL_DV_AC_temp_describe": "نطاق درجة الحرارة المحدد هو نطاق عالمي. في الاستخدام الفعلي، قد تختلف أنواع الأجهزة المختلفة والنماذج المختلفة للمنتجات. يرجى الرجوع إلى نطاق درجة الحرارة المحدد فعليًا على الجهاز.",
+    "CL_DV_AC_temp_max_content": "وصلت الوحدة إلى درجة حرارتها القصوى.",
+    "CL_CF_CM_online_shop_title": "متجر على الإنترنت",
+    "CL_CF_CM_brand_online_shop_title": "** متجر على الانترنت",
+    "CL_CF_CM_category_shop_title": "محل ** ##",
+    "CL_CF_CS__online_shop_laundry": "مغسلة",
+    "CL_CF_CS__online_shop_ovens": "أفران",
+    "CL_CF_CS__online_shop_dishwashers": "غسالات الصحون",
+    "CL_CF_CS__online_shop_refrigerators": "ثلاجات",
+    "CL_CF_CS__online_shop_hobs": "مواقد",
+    "CL_CF_CS__online_shop_hoods": "أغطية الرأس"
 }
