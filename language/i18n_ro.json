@@ -4793,5 +4793,19 @@
     "CL_WM_CM_detergent_concentration": "CONCENTRAȚIE DE DETERGENT",
     "CL_WM_CM_change_temperature": "Schimbați temperatura",
     "CL_DV_DW_dw60c_remote_disable": "Pornirea de la distanță este dezactivată pe dispozitivul dvs. Pentru a porni programul din aplicația ConnectLife, activați pornirea de la distanță pe dispozitivul însuși. Consultați manualul de utilizare pentru instrucțiuni. ",
-    "ai_troubleshooting_try_again": "Nu s-au găsit informații relevante. Încercați să reformulați sau să raportați problema."
+    "ai_troubleshooting_try_again": "Nu s-au găsit informații relevante. Încercați să reformulați sau să raportați problema.",
+    "CL_CF_UC_ru_login_tip_title": "AI FOST RENUGAT",
+    "CL_CF_UC_ru_login_tip_content": "Autentificarea dvs. a fost refuzată din cauza unei încercări de acces dintr-o țară sau regiune în care acest produs sau serviciu nu este disponibil, vă rugăm să setați țara telefonului pentru a se potrivi cu cea reală și încercați din nou.",
+    "CL_DV_AC_temp_min_content": "Unitatea a atins temperatura minimă.",
+    "CL_DV_AC_temp_describe": "Intervalul de temperatură setat este un domeniu universal. În utilizarea efectivă, diferite tipuri de dispozitive și diferite modele de produse pot avea diferențe. Vă rugăm să consultați intervalul real de temperatură setat pe dispozitiv.",
+    "CL_DV_AC_temp_max_content": "Unitatea a atins temperatura maximă.",
+    "CL_CF_CM_online_shop_title": "Magazin online",
+    "CL_CF_CM_brand_online_shop_title": "** magazin online",
+    "CL_CF_CM_category_shop_title": "Cumpără ** ##",
+    "CL_CF_CS__online_shop_laundry": "spălătorie",
+    "CL_CF_CS__online_shop_ovens": "Cuptoare",
+    "CL_CF_CS__online_shop_dishwashers": "mașini de spălat vase",
+    "CL_CF_CS__online_shop_refrigerators": "frigidere",
+    "CL_CF_CS__online_shop_hobs": "plite",
+    "CL_CF_CS__online_shop_hoods": "Hote"
 }

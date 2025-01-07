@@ -4793,5 +4793,19 @@
     "CL_WM_CM_detergent_concentration": "TVÄTMEDEL KONCENTRATION",
     "CL_WM_CM_change_temperature": "Ändra temperatur",
     "CL_DV_DW_dw60c_remote_disable": "Fjärrstarten är inaktiverad på din enhet. För att starta programmet från ConnectLife-appen, aktivera fjärrstarten på själva enheten. Se bruksanvisningen för instruktioner. ",
-    "ai_troubleshooting_try_again": "Ingen relevant information hittades. Försök omformulera eller rapportera problemet."
+    "ai_troubleshooting_try_again": "Ingen relevant information hittades. Försök omformulera eller rapportera problemet.",
+    "CL_CF_UC_ru_login_tip_title": "DU NEKADES",
+    "CL_CF_UC_ru_login_tip_content": "Din inloggning har nekats på grund av försök till åtkomst från ett land eller en region där denna produkt eller tjänst inte är tillgänglig. Ställ in telefonens land så att det matchar det faktiska landet och försök igen.",
+    "CL_DV_AC_temp_min_content": "Enheten har nått sin lägsta temperatur.",
+    "CL_DV_AC_temp_describe": "Det inställda temperaturområdet är ett universellt område. Vid faktisk användning kan olika enhetstyper och olika modeller av produkter ha skillnader. Se det faktiska inställda temperaturintervallet på enheten.",
+    "CL_DV_AC_temp_max_content": "Enheten har nått sin maximala temperatur.",
+    "CL_CF_CM_online_shop_title": "Onlinebutik",
+    "CL_CF_CM_brand_online_shop_title": "** webbutik",
+    "CL_CF_CM_category_shop_title": "Handla ** ##",
+    "CL_CF_CS__online_shop_laundry": "tvätt",
+    "CL_CF_CS__online_shop_ovens": "Ugnar",
+    "CL_CF_CS__online_shop_dishwashers": "diskmaskiner",
+    "CL_CF_CS__online_shop_refrigerators": "kylskåp",
+    "CL_CF_CS__online_shop_hobs": "hällar",
+    "CL_CF_CS__online_shop_hoods": "Huvor"
 }

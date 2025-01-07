@@ -4793,5 +4793,19 @@
     "CL_WM_CM_detergent_concentration": "KONCENTRACJA DETERGENTU",
     "CL_WM_CM_change_temperature": "Zmień temperaturę",
     "CL_DV_DW_dw60c_remote_disable": "Zdalne uruchamianie jest wyłączone na Twoim urządzeniu. Aby uruchomić program z aplikacji ConnectLife, włącz zdalne uruchamianie na samym urządzeniu. Sprawdź instrukcję obsługi, aby uzyskać instrukcje. ",
-    "ai_troubleshooting_try_again": "Nie znaleziono żadnych istotnych informacji. Spróbuj sformułować problem inaczej lub go zgłosić."
+    "ai_troubleshooting_try_again": "Nie znaleziono żadnych istotnych informacji. Spróbuj sformułować problem inaczej lub go zgłosić.",
+    "CL_CF_UC_ru_login_tip_title": "ZOSTAŁEŚ ODMÓWIONY",
+    "CL_CF_UC_ru_login_tip_content": "Logowanie zostało odrzucone z powodu próby dostępu z kraju lub regionu, w którym ten produkt lub usługa nie jest dostępna. Ustaw kraj w telefonie zgodnie z rzeczywistym krajem i spróbuj ponownie.",
+    "CL_DV_AC_temp_min_content": "Urządzenie osiągnęło minimalną temperaturę.",
+    "CL_DV_AC_temp_describe": "Zakres ustawionej temperatury jest zakresem uniwersalnym. W rzeczywistym użyciu różne typy urządzeń i różne modele produktów mogą się różnić. Zapoznaj się z rzeczywistym zakresem ustawionej temperatury na urządzeniu.",
+    "CL_DV_AC_temp_max_content": "Urządzenie osiągnęło maksymalną temperaturę.",
+    "CL_CF_CM_online_shop_title": "Sklep Internetowy",
+    "CL_CF_CM_brand_online_shop_title": "** sklep internetowy",
+    "CL_CF_CM_category_shop_title": "Sklep ** ##",
+    "CL_CF_CS__online_shop_laundry": "pranie",
+    "CL_CF_CS__online_shop_ovens": "Piekarniki",
+    "CL_CF_CS__online_shop_dishwashers": "zmywarki",
+    "CL_CF_CS__online_shop_refrigerators": "lodówki",
+    "CL_CF_CS__online_shop_hobs": "płyty grzewcze",
+    "CL_CF_CS__online_shop_hoods": "Kaptury"
 }
