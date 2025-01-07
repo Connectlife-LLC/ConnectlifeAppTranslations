@@ -4793,5 +4793,21 @@
     "CL_WM_CM_detergent_concentration": "VASKEMIDDEL KONSENTRASJON",
     "CL_WM_CM_change_temperature": "Endre temperatur",
     "CL_DV_DW_dw60c_remote_disable": "Fjernstart er deaktivert på enheten din. For å starte programmet fra ConnectLife-appen, aktiver fjernstart på selve enheten. Se brukerhåndboken for instruksjoner. ",
-    "ai_troubleshooting_try_again": "Ingen relevant informasjon funnet. Prøv å omformulere eller rapportere problemet."
+    "ai_troubleshooting_try_again": "Ingen relevant informasjon funnet. Prøv å omformulere eller rapportere problemet.",
+    "CL_CF_UC_ru_login_tip_title": "DU BLE NEKTE",
+    "CL_CF_UC_ru_login_tip_content": "Påloggingen din har blitt nektet på grunn av forsøk på tilgang fra et land eller en region der dette produktet eller tjenesten ikke er tilgjengelig. Still inn telefonens land til å samsvare med det faktiske landet og prøv igjen.",
+    "CL_DV_AC_temp_min_content": "Enheten har nådd minimumstemperaturen.",
+    "CL_DV_AC_temp_describe": "Det innstilte temperaturområdet er et universelt område. Ved faktisk bruk kan ulike enhetstyper og ulike produktmodeller ha forskjeller. Vennligst se det faktisk innstilte temperaturområdet på enheten.",
+    "CL_DV_AC_temp_max_content": "Enheten har nådd sin maksimale temperatur.",
+    "CL_CF_CM_online_shop_title": "Nettbutikk",
+    "CL_CF_CM_brand_online_shop_title": "** nettbutikk",
+    "CL_CF_CM_category_shop_title": "Handle ** ##",
+    "CL_CF_CS__online_shop_laundry": "klesvask",
+    "CL_CF_CS__online_shop_ovens": "Ovner",
+    "CL_CF_CS__online_shop_dishwashers": "oppvaskmaskiner",
+    "CL_CF_CS__online_shop_refrigerators": "kjøleskap",
+    "CL_CF_CS__online_shop_hobs": "kokeplater",
+    "CL_CF_CS__online_shop_hoods": "Hetter",
+    "CL_CF_AC_control_title": "KONTROLLLOGIKK",
+    "CL_CF_AC_ht_switch_title": "Høy temp. Aux. Varmesperre"
 }
