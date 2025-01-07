@@ -4793,5 +4793,21 @@
     "CL_WM_CM_detergent_concentration": "CONCENTRAÇÃO DE DETERGENTE",
     "CL_WM_CM_change_temperature": "Alterar temperatura",
     "CL_DV_DW_dw60c_remote_disable": "O início remoto está desabilitado no seu dispositivo. Para iniciar o programa a partir do aplicativo ConnectLife, habilite o início remoto no próprio dispositivo. Verifique o manual do usuário para obter instruções. ",
-    "ai_troubleshooting_try_again": "Nenhuma informação relevante encontrada. Tente reformular ou relatar o problema."
+    "ai_troubleshooting_try_again": "Nenhuma informação relevante encontrada. Tente reformular ou relatar o problema.",
+    "CL_CF_UC_ru_login_tip_title": "VOCÊ FOI NEGADO",
+    "CL_CF_UC_ru_login_tip_content": "Seu login foi negado devido à tentativa de acesso de um país ou região em que este produto ou serviço não está disponível. Defina o país do seu telefone para corresponder ao país real e tente novamente.",
+    "CL_DV_AC_temp_min_content": "A unidade atingiu sua temperatura mínima.",
+    "CL_DV_AC_temp_describe": "A faixa de temperatura definida é uma faixa universal. No uso real, diferentes tipos de dispositivos e diferentes modelos de produtos podem ter diferenças. Consulte a faixa de temperatura definida real no dispositivo.",
+    "CL_DV_AC_temp_max_content": "A unidade atingiu sua temperatura máxima.",
+    "CL_CF_CM_online_shop_title": "Loja online",
+    "CL_CF_CM_brand_online_shop_title": "** loja online",
+    "CL_CF_CM_category_shop_title": "Comprar ** ##",
+    "CL_CF_CS__online_shop_laundry": "lavanderia",
+    "CL_CF_CS__online_shop_ovens": "Fornos",
+    "CL_CF_CS__online_shop_dishwashers": "lava-louças",
+    "CL_CF_CS__online_shop_refrigerators": "geladeiras",
+    "CL_CF_CS__online_shop_hobs": "fogões",
+    "CL_CF_CS__online_shop_hoods": "Capuzes",
+    "CL_CF_AC_control_title": "LÓGICA DE CONTROLE",
+    "CL_CF_AC_ht_switch_title": "Bloqueio de calor auxiliar de alta temperatura"
 }

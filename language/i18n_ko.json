@@ -4793,5 +4793,21 @@
     "CL_WM_CM_detergent_concentration": "세제 농도",
     "CL_WM_CM_change_temperature": "온도 변경",
     "CL_DV_DW_dw60c_remote_disable": "기기에서 원격 시작이 비활성화되어 있습니다. ConnectLife 앱에서 프로그램을 시작하려면 기기 자체에서 원격 시작을 활성화하세요. 지침은 사용 설명서를 확인하세요. ",
-    "ai_troubleshooting_try_again": "관련 정보가 없습니다. 문제를 다시 표현하거나 보고해 보세요."
+    "ai_troubleshooting_try_again": "관련 정보가 없습니다. 문제를 다시 표현하거나 보고해 보세요.",
+    "CL_CF_UC_ru_login_tip_title": "당신은 거부당했습니다",
+    "CL_CF_UC_ru_login_tip_content": "이 제품 또는 서비스를 이용할 수 없는 국가 또는 지역에서 액세스를 시도하여 로그인이 거부되었습니다. 휴대폰의 국가를 실제 국가와 일치하도록 설정한 후 다시 시도하세요.",
+    "CL_DV_AC_temp_min_content": "장치가 최소 온도에 도달했습니다.",
+    "CL_DV_AC_temp_describe": "설정 온도 범위는 보편적인 범위입니다. 실제 사용 시, 다양한 장치 유형과 다양한 제품 모델에 차이가 있을 수 있습니다. 장치의 실제 설정 온도 범위를 참조하십시오.",
+    "CL_DV_AC_temp_max_content": "장치가 최대 온도에 도달했습니다.",
+    "CL_CF_CM_online_shop_title": "온라인 숍",
+    "CL_CF_CM_brand_online_shop_title": "** 온라인 숍",
+    "CL_CF_CM_category_shop_title": "가게 ** ##",
+    "CL_CF_CS__online_shop_laundry": "빨래",
+    "CL_CF_CS__online_shop_ovens": "오븐",
+    "CL_CF_CS__online_shop_dishwashers": "식기 세척기",
+    "CL_CF_CS__online_shop_refrigerators": "냉장고",
+    "CL_CF_CS__online_shop_hobs": "호브",
+    "CL_CF_CS__online_shop_hoods": "후드",
+    "CL_CF_AC_control_title": "제어 논리",
+    "CL_CF_AC_ht_switch_title": "고온 보조 열 잠금"
 }

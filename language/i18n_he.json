@@ -4793,5 +4793,21 @@
     "CL_WM_CM_detergent_concentration": "ריכוז חומרי ניקוי",
     "CL_WM_CM_change_temperature": "שנה טמפרטורה",
     "CL_DV_DW_dw60c_remote_disable": "ההפעלה מרחוק מושבתת במכשיר שלך. כדי להפעיל את התוכנית מאפליקציית ConnectLife, אפשר את ההפעלה מרחוק במכשיר עצמו. עיין במדריך למשתמש לקבלת הוראות. ",
-    "ai_troubleshooting_try_again": "לא נמצא מידע רלוונטי. נסה לנסח מחדש או לדווח על הבעיה."
+    "ai_troubleshooting_try_again": "לא נמצא מידע רלוונטי. נסה לנסח מחדש או לדווח על הבעיה.",
+    "CL_CF_UC_ru_login_tip_title": "דחו אותך",
+    "CL_CF_UC_ru_login_tip_content": "ההתחברות שלך נדחתה עקב ניסיון גישה ממדינה או אזור שבהם המוצר או השירות אינם זמינים, אנא הגדר את המדינה של הטלפון שלך כך שתתאים לארץ בפועל ונסה שוב.",
+    "CL_DV_AC_temp_min_content": "היחידה הגיעה לטמפרטורה המינימלית שלה.",
+    "CL_DV_AC_temp_describe": "טווח הטמפרטורות שנקבע הוא טווח אוניברסלי. בשימוש בפועל, סוגי מכשירים שונים ודגמים שונים של מוצרים עשויים להיות הבדלים. אנא עיין בטווח הטמפרטורה המוגדר בפועל במכשיר.",
+    "CL_DV_AC_temp_max_content": "היחידה הגיעה לטמפרטורה המקסימלית שלה.",
+    "CL_CF_CM_online_shop_title": "חנות מקוונת",
+    "CL_CF_CM_brand_online_shop_title": "**חנות מקוונת",
+    "CL_CF_CM_category_shop_title": "חנות ** ##",
+    "CL_CF_CS__online_shop_laundry": "כְּבִיסָה",
+    "CL_CF_CS__online_shop_ovens": "תנורים",
+    "CL_CF_CS__online_shop_dishwashers": "מדיחי כלים",
+    "CL_CF_CS__online_shop_refrigerators": "מקררים",
+    "CL_CF_CS__online_shop_hobs": "כיריים",
+    "CL_CF_CS__online_shop_hoods": "ברדסים",
+    "CL_CF_AC_control_title": "לוגיקה בקרה",
+    "CL_CF_AC_ht_switch_title": "טמפ' גבוהה. Aux. נעילת חום"
 }
