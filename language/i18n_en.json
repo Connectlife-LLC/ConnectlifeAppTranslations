@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Check if your oven is plugged in and the power is on.",
     "CL_DV_OV_connect_network": "Make sure your oven is connected to a local wireless network.",
     "CL_DV_OV_check_wifi_signal": "Check your Wi-Fi signal strength. If the signal is low, it might be that the router is too far away from the oven.",
-    "CL_DV_WM_stopped_due_to_error": "Washing in {WM} has been stopped due to an error "
+    "CL_DV_WM_stopped_due_to_error": "Washing in {WM} has been stopped due to an error ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Enable this function if you want the time to change automatically according to the local daylight saving rules."
 }

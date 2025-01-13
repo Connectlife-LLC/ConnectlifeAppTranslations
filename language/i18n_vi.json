@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Kiểm tra xem thiết bị của bạn đã được cắm và nguồn đã được bật.",
     "CL_DV_OV_connect_network": "Đảm bảo tủ của bạn đã được kết nối với mạng không dây địa phương.",
     "CL_DV_OV_check_wifi_signal": "Kiểm tra độ mạnh của tín hiệu WiFi. Nếu tín hiệu yếu, có thể là router quá xa tủ.",
-    "CL_DV_WM_stopped_due_to_error": "Việc giặt trong {WM} đã bị dừng lại do lỗi "
+    "CL_DV_WM_stopped_due_to_error": "Việc giặt trong {WM} đã bị dừng lại do lỗi ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Bật chức năng này nếu bạn muốn thời gian tự động thay đổi theo quy tắc tiết kiệm ánh sáng ban ngày tại địa phương."
 }

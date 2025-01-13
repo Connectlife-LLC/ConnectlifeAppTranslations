@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Kontrollera om din apparat är inkopplad och att strömmen är på.",
     "CL_DV_OV_connect_network": "Se till att ditt skåp är anslutet till ett lokalt trådlöst nätverk.",
     "CL_DV_OV_check_wifi_signal": "Kontrollera din WiFi-signalstyrka. Om signalen är svag kan det bero på att routern är för långt borta från skåpet.",
-    "CL_DV_WM_stopped_due_to_error": "Tvätt i {WM} har stoppats på grund av ett fel "
+    "CL_DV_WM_stopped_due_to_error": "Tvätt i {WM} har stoppats på grund av ett fel ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Aktivera den här funktionen om du vill att tiden ska ändras automatiskt enligt de lokala reglerna för sommartid."
 }

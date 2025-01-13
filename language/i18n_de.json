@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Überprüfen Sie, ob Ihr Gerät eingesteckt ist und die Stromversorgung eingeschaltet ist.",
     "CL_DV_OV_connect_network": "Stellen Sie sicher, dass Ihr Schrank mit einem lokalen WLAN-Netzwerk verbunden ist.",
     "CL_DV_OV_check_wifi_signal": "Überprüfen Sie die Stärke Ihres WLAN-Signals. Wenn das Signal schwach ist, könnte es sein, dass der Router zu weit vom Schrank entfernt ist.",
-    "CL_DV_WM_stopped_due_to_error": "Der Waschvorgang in {WM} wurde aufgrund eines Fehlers abgebrochen "
+    "CL_DV_WM_stopped_due_to_error": "Der Waschvorgang in {WM} wurde aufgrund eines Fehlers abgebrochen ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Aktivieren Sie diese Funktion, wenn die Zeit automatisch entsprechend der örtlichen Sommerzeit umgestellt werden soll."
 }

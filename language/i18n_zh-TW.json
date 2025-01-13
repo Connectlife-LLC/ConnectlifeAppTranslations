@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "检查电源线是否连接，设备是否上电开机。",
     "CL_DV_OV_connect_network": "确保您的设备已连接到本地WiFi网络。",
     "CL_DV_OV_check_wifi_signal": "请检查WiFi信号强度。如果信号太弱，可能是由于您的酒柜距离路由器太远。",
-    "CL_DV_WM_stopped_due_to_error": "由於錯誤， {WM}中的洗滌已停止 "
+    "CL_DV_WM_stopped_due_to_error": "由於錯誤， {WM}中的洗滌已停止 ",
+    "CL_DV_OV_summer_winter_automatically_desc": "如果您希望時間根據當地夏令時規則自動更改，請啟用此功能。"
 }

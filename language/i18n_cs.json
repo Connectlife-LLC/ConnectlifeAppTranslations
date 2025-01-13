@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Zkontrolujte, zda je váš spotřebič zapojen a napájení je zapnuté.",
     "CL_DV_OV_connect_network": "Ujistěte se, že je váš skříň připojena k místní bezdrátové síti.",
     "CL_DV_OV_check_wifi_signal": "Zkontrolujte sílu signálu WiFi. Pokud je signál slabý, může to být způsobeno tím, že je router příliš daleko od skříně.",
-    "CL_DV_WM_stopped_due_to_error": "Praní v {WM} bylo zastaveno kvůli chybě "
+    "CL_DV_WM_stopped_due_to_error": "Praní v {WM} bylo zastaveno kvůli chybě ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Povolte tuto funkci, pokud chcete, aby se čas automaticky měnil podle místních pravidel letního času."
 }

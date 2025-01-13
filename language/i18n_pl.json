@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Sprawdź, czy urządzenie jest podłączone do prądu i czy zasilanie jest włączone.",
     "CL_DV_OV_connect_network": "Upewnij się, że urządzenie jest podłączone do lokalnej sieci bezprzewodowej.",
     "CL_DV_OV_check_wifi_signal": "Sprawdź siłę sygnału WiFi. Jeśli sygnał jest słaby, może to oznaczać, że router jest zbyt daleko od urządzenia.",
-    "CL_DV_WM_stopped_due_to_error": "Pranie w {WM} zostało zatrzymane z powodu błędu "
+    "CL_DV_WM_stopped_due_to_error": "Pranie w {WM} zostało zatrzymane z powodu błędu ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Włącz tę funkcję, jeśli chcesz, aby czas zmieniał się automatycznie zgodnie z lokalnymi zasadami czasu letniego."
 }

@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Verifica se il tuo elettrodomestico è collegato alla presa e se l’alimentazione è accesa.",
     "CL_DV_OV_connect_network": "Assicurati che il tuo armadietto sia collegato a una rete wireless locale.",
     "CL_DV_OV_check_wifi_signal": "Controlla la potenza del segnale WiFi. Se il segnale è debole, potrebbe essere che il router sia troppo lontano dall’armadietto.",
-    "CL_DV_WM_stopped_due_to_error": "Il lavaggio in {WM} è stato interrotto a causa di un errore "
+    "CL_DV_WM_stopped_due_to_error": "Il lavaggio in {WM} è stato interrotto a causa di un errore ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Abilitare questa funzione se si desidera che l'ora cambi automaticamente in base alle regole locali relative all'ora legale."
 }
