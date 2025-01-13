@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Controleer of je wijnkast aangesloten is en of de stroom is ingeschakeld",
     "CL_DV_OV_connect_network": "Zorg ervoor dat je wijnkast verbonden is met een netwerk.",
     "CL_DV_OV_check_wifi_signal": "Controleer de sterkte van het WiFi-signaal. Als het signaal zwak is, kan het zijn dat de router te ver van de wijnkast staat.",
-    "CL_DV_WM_stopped_due_to_error": "Wassen in {WM} is gestopt vanwege een fout "
+    "CL_DV_WM_stopped_due_to_error": "Wassen in {WM} is gestopt vanwege een fout ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Schakel deze functie in als u wilt dat de tijd automatisch wordt aangepast aan de lokale regels voor zomertijd."
 }

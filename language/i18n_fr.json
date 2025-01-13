@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Vérifiez si votre appareil est branché et que l'alimentation est allumée.",
     "CL_DV_OV_connect_network": "Assurez-vous que votre cave est connectée à un réseau sans fil local.",
     "CL_DV_OV_check_wifi_signal": "Vérifiez la force du signal WiFi. Si le signal est faible, il se peut que le routeur soit trop éloigné de la cave.",
-    "CL_DV_WM_stopped_due_to_error": "Le lavage dans {WM} a été arrêté en raison d'une erreur "
+    "CL_DV_WM_stopped_due_to_error": "Le lavage dans {WM} a été arrêté en raison d'une erreur ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Activez cette fonction si vous souhaitez que l'heure change automatiquement en fonction des règles locales d'heure d'été."
 }

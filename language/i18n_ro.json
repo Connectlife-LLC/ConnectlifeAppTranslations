@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Verificați dacă aparatul dumneavoastră este conectat la priză și dacă alimentarea este pornită.",
     "CL_DV_OV_connect_network": "Asigurați-vă că dulapul dumneavoastră este conectat la o rețea locală wireless.",
     "CL_DV_OV_check_wifi_signal": "Verificați puterea semnalului WiFi. Dacă semnalul este slab, este posibil ca routerul să fie prea departe de dulap.",
-    "CL_DV_WM_stopped_due_to_error": "Spălarea în {WM} a fost oprită din cauza unei erori "
+    "CL_DV_WM_stopped_due_to_error": "Spălarea în {WM} a fost oprită din cauza unei erori ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Activați această funcție dacă doriți ca ora să se schimbe automat în conformitate cu regulile locale de ora de vară."
 }

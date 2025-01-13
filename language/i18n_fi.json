@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Tarkista, onko laitteesi kytketty pistorasiaan ja virta on päällä.",
     "CL_DV_OV_connect_network": "Varmista, että kaappisi on yhdistetty paikalliseen langattomaan verkkoon.",
     "CL_DV_OV_check_wifi_signal": "Tarkista WiFi-signaalin vahvuus. Jos signaali on heikko, saattaa olla, että reititin on liian kaukana kaapista.",
-    "CL_DV_WM_stopped_due_to_error": "Pesu laitteessa {WM} on keskeytetty virheen vuoksi "
+    "CL_DV_WM_stopped_due_to_error": "Pesu laitteessa {WM} on keskeytetty virheen vuoksi ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Ota tämä toiminto käyttöön, jos haluat ajan muuttuvan automaattisesti paikallisten kesäaikasääntöjen mukaisesti."
 }

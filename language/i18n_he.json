@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "בדוק אם המכשיר מחובר והכוח מופעל.",
     "CL_DV_OV_connect_network": "ודא שהארון שלך מחובר לרשת אלחוטית מקומית.",
     "CL_DV_OV_check_wifi_signal": "בדוק את חוזק האות האלחוטי של ה-WiFi. אם האות חלש, ייתכן שהראוטר נמצא רחוק מדי מהארון.",
-    "CL_DV_WM_stopped_due_to_error": "הכביסה ב- {WM} הופסקה עקב שגיאה "
+    "CL_DV_WM_stopped_due_to_error": "הכביסה ב- {WM} הופסקה עקב שגיאה ",
+    "CL_DV_OV_summer_winter_automatically_desc": "אפשר פונקציה זו אם ברצונך שהשעה תשתנה אוטומטית בהתאם לכללי שעון הקיץ המקומיים."
 }

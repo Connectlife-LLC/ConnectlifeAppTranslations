@@ -4829,5 +4829,6 @@
     "CL_DV_OV_check_power": "Cihazınızın takılı olduğunu ve gücünün açık olduğunu kontrol edin.",
     "CL_DV_OV_connect_network": "Dolabınızın yerel bir kablosuz ağa bağlı olduğundan emin olun.",
     "CL_DV_OV_check_wifi_signal": "WiFi sinyal gücünüzü kontrol edin. Sinyal zayıfsa, router’ın dolaptan çok uzakta olabileceği anlamına gelebilir.",
-    "CL_DV_WM_stopped_due_to_error": "{WM} de yıkama bir hata nedeniyle durduruldu "
+    "CL_DV_WM_stopped_due_to_error": "{WM} de yıkama bir hata nedeniyle durduruldu ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Yerel yaz saati uygulaması kurallarına göre saatin otomatik olarak değişmesini istiyorsanız bu işlevi etkinleştirin."
 }
