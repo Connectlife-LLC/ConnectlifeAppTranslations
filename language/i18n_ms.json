@@ -4829,5 +4829,9 @@
     "CL_DV_OV_check_power": "Periksa sama ada peralatan anda disambungkan dan kuasa dihidupkan.",
     "CL_DV_OV_connect_network": "Pastikan almari anda disambungkan ke rangkaian tanpa wayar tempatan.",
     "CL_DV_OV_check_wifi_signal": "Periksa kekuatan isyarat WiFi anda. Jika isyarat lemah, mungkin berlaku kerana router terlalu jauh dari almari.",
-    "CL_DV_WM_stopped_due_to_error": "Mencuci dalam {WM} telah dihentikan kerana ralat "
+    "CL_DV_WM_stopped_due_to_error": "Mencuci dalam {WM} telah dihentikan kerana ralat ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Dayakan fungsi ini jika anda mahu masa berubah secara automatik mengikut peraturan penjimatan siang tempatan.",
+    "CL_CF_CM_favorite_name_blank_tip": "Nama tidak boleh kosong",
+    "CL_CF_AC_add_group": "Tambah kumpulan",
+    "CL_CF_AC_edit_group": "Edit kumpulan"
 }
