@@ -4829,5 +4829,9 @@
     "CL_DV_OV_check_power": "Provjerite je li uređaj priključen i ima li napajanje.",
     "CL_DV_OV_connect_network": "Provjerite je li vaš ormar povezan s lokalnom bežičnom mrežom.",
     "CL_DV_OV_check_wifi_signal": "Provjerite snagu signala WiFi-ja. Ako je signal slab, moguće je da je usmjerivač predaleko od ormara.",
-    "CL_DV_WM_stopped_due_to_error": "Pranje u {WM} je zaustavljeno zbog greške "
+    "CL_DV_WM_stopped_due_to_error": "Pranje u {WM} je zaustavljeno zbog greške ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Omogućite ovu funkciju ako želite da se vrijeme automatski mijenja prema lokalnim pravilima ljetnog računanja vremena.",
+    "CL_CF_CM_favorite_name_blank_tip": "Ime ne može biti prazno",
+    "CL_CF_AC_add_group": "Dodajte grupu",
+    "CL_CF_AC_edit_group": "Uredite grupu"
 }
