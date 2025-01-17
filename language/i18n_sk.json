@@ -4829,5 +4829,9 @@
     "CL_DV_OV_check_power": "Skontrolujte, či je vaše zariadenie zapojené a napájanie je zapnuté.",
     "CL_DV_OV_connect_network": "Uistite sa, že vaša skrinka je pripojená k miestnej bezdrôtovej sieti.",
     "CL_DV_OV_check_wifi_signal": "Skontrolujte silu vášho WiFi signálu. Ak je signál slabý, môže to znamenať, že router je príliš ďaleko od skrinky.",
-    "CL_DV_WM_stopped_due_to_error": "Pranie v {WM} bolo zastavené z dôvodu chyby "
+    "CL_DV_WM_stopped_due_to_error": "Pranie v {WM} bolo zastavené z dôvodu chyby ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Povoľte túto funkciu, ak chcete, aby sa čas automaticky menil podľa miestnych pravidiel letného času.",
+    "CL_CF_CM_favorite_name_blank_tip": "Názov nemôže byť prázdny",
+    "CL_CF_AC_add_group": "Pridať skupinu",
+    "CL_CF_AC_edit_group": "Upravte skupinu"
 }
