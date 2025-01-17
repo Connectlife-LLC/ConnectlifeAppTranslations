@@ -4829,5 +4829,9 @@
     "CL_DV_OV_check_power": "Sjekk om apparatet er plugget inn og strømmen er på.",
     "CL_DV_OV_connect_network": "Sørg for at skapet er koblet til et lokalt trådløst nettverk.",
     "CL_DV_OV_check_wifi_signal": "Sjekk styrken på WiFi-signalet ditt. Hvis signalet er svakt, kan det hende at ruteren er for langt unna skapet.",
-    "CL_DV_WM_stopped_due_to_error": "Vasking i {WM} har blitt stoppet på grunn av en feil "
+    "CL_DV_WM_stopped_due_to_error": "Vasking i {WM} har blitt stoppet på grunn av en feil ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Aktiver denne funksjonen hvis du vil at tiden skal endres automatisk i henhold til lokale sommertidsregler.",
+    "CL_CF_CM_favorite_name_blank_tip": "Navnet kan ikke være tomt",
+    "CL_CF_AC_add_group": "Legg til en gruppe",
+    "CL_CF_AC_edit_group": "Rediger en gruppe"
 }

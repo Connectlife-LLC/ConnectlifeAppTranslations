@@ -4829,5 +4829,9 @@
     "CL_DV_OV_check_power": "機器が差し込まれ、電源がオンになっているか確認してください。",
     "CL_DV_OV_connect_network": "キャビネットがローカルの無線ネットワークに接続されていることを確認してください。",
     "CL_DV_OV_check_wifi_signal": "WiFiの信号強度をチェックしてください。信号が弱い場合は、ルーターがキャビネットから遠すぎる可能性があります。",
-    "CL_DV_WM_stopped_due_to_error": "エラーのため、 {WM}での洗濯が停止されました "
+    "CL_DV_WM_stopped_due_to_error": "エラーのため、 {WM}での洗濯が停止されました ",
+    "CL_DV_OV_summer_winter_automatically_desc": "現地の夏時間ルールに従って時刻を自動的に変更する場合は、この機能を有効にします。",
+    "CL_CF_CM_favorite_name_blank_tip": "名前は空欄にできません",
+    "CL_CF_AC_add_group": "グループを追加する",
+    "CL_CF_AC_edit_group": "グループを編集する"
 }

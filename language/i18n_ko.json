@@ -4829,5 +4829,9 @@
     "CL_DV_OV_check_power": "기기가 연결되어 있고 전원이 켜져 있는지 확인하세요.",
     "CL_DV_OV_connect_network": "캐비닛이 로컬 무선 네트워크에 연결되어 있는지 확인하세요.",
     "CL_DV_OV_check_wifi_signal": "WiFi 신호 강도를 확인하세요. 신호가 약하다면 라우터가 캐비닛에서 너무 멀리 떨어져 있는 것일 수 있습니다.",
-    "CL_DV_WM_stopped_due_to_error": "{WM} 의 세탁이 오류로 인해 중단되었습니다. "
+    "CL_DV_WM_stopped_due_to_error": "{WM} 의 세탁이 오류로 인해 중단되었습니다. ",
+    "CL_DV_OV_summer_winter_automatically_desc": "현지 일광 절약 시간제 규칙에 따라 시간이 자동으로 변경되도록 하려면 이 기능을 활성화하세요.",
+    "CL_CF_CM_favorite_name_blank_tip": "이름은 비워둘 수 없습니다.",
+    "CL_CF_AC_add_group": "그룹 추가",
+    "CL_CF_AC_edit_group": "그룹 편집"
 }
