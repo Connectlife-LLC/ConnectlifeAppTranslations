@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Enable this function if you want the time to change automatically according to the local daylight saving rules.",
     "CL_CF_CM_favorite_name_blank_tip": "The name cannot be empty",
     "CL_CF_AC_add_group": "Add a group",
-    "CL_CF_AC_edit_group": "Edit a group"
+    "CL_CF_AC_edit_group": "Edit a group",
+    "CL_CF_WM_cloud_program_title": "Cloud programs",
+    "CL_CF_WM_download_to_device": "Download to devices",
+    "CL_CF_WM_download_to": "Download to"
 }

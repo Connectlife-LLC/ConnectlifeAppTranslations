@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Aktifkan fungsi ini jika Anda ingin waktu berubah secara otomatis berdasarkan aturan waktu musim panas setempat.",
     "CL_CF_CM_favorite_name_blank_tip": "Nama tidak boleh kosong",
     "CL_CF_AC_add_group": "Tambahkan grup",
-    "CL_CF_AC_edit_group": "Edit grup"
+    "CL_CF_AC_edit_group": "Edit grup",
+    "CL_CF_WM_cloud_program_title": "Program awan",
+    "CL_CF_WM_download_to_device": "Unduh ke perangkat",
+    "CL_CF_WM_download_to": "Unduh ke"
 }

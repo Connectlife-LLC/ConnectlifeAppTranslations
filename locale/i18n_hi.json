@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "यदि आप चाहते हैं कि स्थानीय डेलाइट सेविंग नियमों के अनुसार समय स्वचालित रूप से परिवर्तित हो जाए तो इस फ़ंक्शन को सक्षम करें।",
     "CL_CF_CM_favorite_name_blank_tip": "नाम रिक्त नहीं रह सकता",
     "CL_CF_AC_add_group": "समूह जोड़ें",
-    "CL_CF_AC_edit_group": "समूह संपादित करें"
+    "CL_CF_AC_edit_group": "समूह संपादित करें",
+    "CL_CF_WM_cloud_program_title": "क्लाउड प्रोग्राम",
+    "CL_CF_WM_download_to_device": "डिवाइस पर डाउनलोड करें",
+    "CL_CF_WM_download_to": "डाउनलोड करें"
 }

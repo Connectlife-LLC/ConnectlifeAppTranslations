@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "اگر می خواهید زمان مطابق با قوانین محلی تابستانی تغییر کند، این عملکرد را فعال کنید.",
     "CL_CF_CM_favorite_name_blank_tip": "نام نمی تواند خالی باشد",
     "CL_CF_AC_add_group": "یک گروه اضافه کنید",
-    "CL_CF_AC_edit_group": "یک گروه را ویرایش کنید"
+    "CL_CF_AC_edit_group": "یک گروه را ویرایش کنید",
+    "CL_CF_WM_cloud_program_title": "برنامه های ابری",
+    "CL_CF_WM_download_to_device": "در دستگاه ها دانلود کنید",
+    "CL_CF_WM_download_to": "دانلود به"
 }

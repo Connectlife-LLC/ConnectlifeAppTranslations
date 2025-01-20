@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "현지 일광 절약 시간제 규칙에 따라 시간이 자동으로 변경되도록 하려면 이 기능을 활성화하세요.",
     "CL_CF_CM_favorite_name_blank_tip": "이름은 비워둘 수 없습니다.",
     "CL_CF_AC_add_group": "그룹 추가",
-    "CL_CF_AC_edit_group": "그룹 편집"
+    "CL_CF_AC_edit_group": "그룹 편집",
+    "CL_CF_WM_cloud_program_title": "클라우드 프로그램",
+    "CL_CF_WM_download_to_device": "기기에 다운로드",
+    "CL_CF_WM_download_to": "다운로드"
 }

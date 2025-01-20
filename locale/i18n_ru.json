@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Включите эту функцию, если вы хотите, чтобы время автоматически менялось в соответствии с местными правилами перехода на летнее время.",
     "CL_CF_CM_favorite_name_blank_tip": "Имя не может быть пустым",
     "CL_CF_AC_add_group": "Добавить группу",
-    "CL_CF_AC_edit_group": "Редактировать группу"
+    "CL_CF_AC_edit_group": "Редактировать группу",
+    "CL_CF_WM_cloud_program_title": "Облачные программы",
+    "CL_CF_WM_download_to_device": "Загрузить на устройства",
+    "CL_CF_WM_download_to": "Загрузить в"
 }

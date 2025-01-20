@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "אפשר פונקציה זו אם ברצונך שהשעה תשתנה אוטומטית בהתאם לכללי שעון הקיץ המקומיים.",
     "CL_CF_CM_favorite_name_blank_tip": "השם לא יכול להיות ריק",
     "CL_CF_AC_add_group": "הוסף קבוצה",
-    "CL_CF_AC_edit_group": "ערוך קבוצה"
+    "CL_CF_AC_edit_group": "ערוך קבוצה",
+    "CL_CF_WM_cloud_program_title": "תוכניות ענן",
+    "CL_CF_WM_download_to_device": "הורד למכשירים",
+    "CL_CF_WM_download_to": "הורד ל"
 }

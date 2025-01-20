@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Yerel yaz saati uygulaması kurallarına göre saatin otomatik olarak değişmesini istiyorsanız bu işlevi etkinleştirin.",
     "CL_CF_CM_favorite_name_blank_tip": "İsim boş olamaz",
     "CL_CF_AC_add_group": "Bir grup ekle",
-    "CL_CF_AC_edit_group": "Bir grubu düzenle"
+    "CL_CF_AC_edit_group": "Bir grubu düzenle",
+    "CL_CF_WM_cloud_program_title": "Bulut programları",
+    "CL_CF_WM_download_to_device": "Cihazlara indir",
+    "CL_CF_WM_download_to": "İndir"
 }

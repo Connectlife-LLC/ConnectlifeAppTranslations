@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Bật chức năng này nếu bạn muốn thời gian tự động thay đổi theo quy tắc tiết kiệm ánh sáng ban ngày tại địa phương.",
     "CL_CF_CM_favorite_name_blank_tip": "Tên không được để trống",
     "CL_CF_AC_add_group": "Thêm một nhóm",
-    "CL_CF_AC_edit_group": "Chỉnh sửa một nhóm"
+    "CL_CF_AC_edit_group": "Chỉnh sửa một nhóm",
+    "CL_CF_WM_cloud_program_title": "Chương trình đám mây",
+    "CL_CF_WM_download_to_device": "Tải xuống thiết bị",
+    "CL_CF_WM_download_to": "Tải xuống"
 }

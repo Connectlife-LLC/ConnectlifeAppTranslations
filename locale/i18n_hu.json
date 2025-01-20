@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Engedélyezze ezt a funkciót, ha azt szeretné, hogy az idő automatikusan megváltozzon a helyi nyári időszámítási szabályok szerint.",
     "CL_CF_CM_favorite_name_blank_tip": "A név nem lehet üres",
     "CL_CF_AC_add_group": "Csoport hozzáadása",
-    "CL_CF_AC_edit_group": "Csoport szerkesztése"
+    "CL_CF_AC_edit_group": "Csoport szerkesztése",
+    "CL_CF_WM_cloud_program_title": "Felhőprogramok",
+    "CL_CF_WM_download_to_device": "Letöltés eszközökre",
+    "CL_CF_WM_download_to": "Letöltés ide"
 }

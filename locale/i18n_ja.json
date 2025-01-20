@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "現地の夏時間ルールに従って時刻を自動的に変更する場合は、この機能を有効にします。",
     "CL_CF_CM_favorite_name_blank_tip": "名前は空欄にできません",
     "CL_CF_AC_add_group": "グループを追加する",
-    "CL_CF_AC_edit_group": "グループを編集する"
+    "CL_CF_AC_edit_group": "グループを編集する",
+    "CL_CF_WM_cloud_program_title": "クラウドプログラム",
+    "CL_CF_WM_download_to_device": "デバイスにダウンロード",
+    "CL_CF_WM_download_to": "ダウンロード先"
 }

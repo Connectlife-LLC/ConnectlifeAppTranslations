@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Povoľte túto funkciu, ak chcete, aby sa čas automaticky menil podľa miestnych pravidiel letného času.",
     "CL_CF_CM_favorite_name_blank_tip": "Názov nemôže byť prázdny",
     "CL_CF_AC_add_group": "Pridať skupinu",
-    "CL_CF_AC_edit_group": "Upravte skupinu"
+    "CL_CF_AC_edit_group": "Upravte skupinu",
+    "CL_CF_WM_cloud_program_title": "Cloudové programy",
+    "CL_CF_WM_download_to_device": "Stiahnuť do zariadení",
+    "CL_CF_WM_download_to": "Stiahnuť do"
 }
