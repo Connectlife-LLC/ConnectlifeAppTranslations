@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Activați această funcție dacă doriți ca ora să se schimbe automat în conformitate cu regulile locale de ora de vară.",
     "CL_CF_CM_favorite_name_blank_tip": "Numele nu poate fi gol",
     "CL_CF_AC_add_group": "Adăugați un grup",
-    "CL_CF_AC_edit_group": "Editați un grup"
+    "CL_CF_AC_edit_group": "Editați un grup",
+    "CL_CF_WM_cloud_program_title": "Programe cloud",
+    "CL_CF_WM_download_to_device": "Descărcați pe dispozitive",
+    "CL_CF_WM_download_to": "Descărcați la"
 }

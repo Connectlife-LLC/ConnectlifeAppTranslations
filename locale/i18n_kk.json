@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Жергілікті жазғы сағат ережелеріне сәйкес уақыттың автоматты түрде өзгеруін қаласаңыз, бұл функцияны қосыңыз.",
     "CL_CF_CM_favorite_name_blank_tip": "Атау бос болмауы керек",
     "CL_CF_AC_add_group": "Топ қосу",
-    "CL_CF_AC_edit_group": "Топты өңдеу"
+    "CL_CF_AC_edit_group": "Топты өңдеу",
+    "CL_CF_WM_cloud_program_title": "Бұлтты бағдарламалар",
+    "CL_CF_WM_download_to_device": "Құрылғыларға жүктеп алыңыз",
+    "CL_CF_WM_download_to": "Келесіге жүктеп алыңыз"
 }

@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Schakel deze functie in als u wilt dat de tijd automatisch wordt aangepast aan de lokale regels voor zomertijd.",
     "CL_CF_CM_favorite_name_blank_tip": "De naam mag niet leeg zijn",
     "CL_CF_AC_add_group": "Groep toevoegen",
-    "CL_CF_AC_edit_group": "Een groep bewerken"
+    "CL_CF_AC_edit_group": "Een groep bewerken",
+    "CL_CF_WM_cloud_program_title": "Cloudprogramma's",
+    "CL_CF_WM_download_to_device": "Downloaden naar apparaten",
+    "CL_CF_WM_download_to": "Downloaden naar"
 }

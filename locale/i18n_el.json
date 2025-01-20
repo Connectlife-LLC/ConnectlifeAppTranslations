@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Ενεργοποιήστε αυτήν τη λειτουργία εάν θέλετε η ώρα να αλλάζει αυτόματα σύμφωνα με τους τοπικούς κανόνες θερινής ώρας.",
     "CL_CF_CM_favorite_name_blank_tip": "Το όνομα δεν μπορεί να είναι κενό",
     "CL_CF_AC_add_group": "Προσθέστε μια ομάδα",
-    "CL_CF_AC_edit_group": "Επεξεργαστείτε μια ομάδα"
+    "CL_CF_AC_edit_group": "Επεξεργαστείτε μια ομάδα",
+    "CL_CF_WM_cloud_program_title": "Προγράμματα cloud",
+    "CL_CF_WM_download_to_device": "Λήψη σε συσκευές",
+    "CL_CF_WM_download_to": "Λήψη σε"
 }
