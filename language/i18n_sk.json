@@ -3415,6 +3415,7 @@
     "use_humidity": "Na reguláciu vlhkosti použite vlhkostný box",
     "same_day": "V ten istý deň",
     "w_temp_set": "Akú teplotu nastaviť?",
+    "asko": "ASKO",
     "eco_meter": "Eco meter",
     "asko_eco_meter_desc": "## je užitočný inteligentný indikátor na určenie vášho vplyvu na životné prostredie na základe zvoleného programu a doplnkových možností, pokiaľ ide o spotrebu energie, vody a pracieho prostriedku.",
     "wm86_autodose_desc": "Namiesto toho, aby ste museli bojovať, nechajte práčku odmerať presne tú správnu dávku pracieho prostriedku. Naše práčky so systémom Auto Dose merajú prací prostriedok podľa náplne prania, stupňa znečistenia, tvrdosti vody, typu programu a teploty. Vždy dokonalé dávkovanie a už žiadne predávkovanie. Tu môžete upraviť predvolené nastavenia pre automatickú dávku.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Upravte skupinu",
     "CL_CF_WM_cloud_program_title": "Cloudové programy",
     "CL_CF_WM_download_to_device": "Stiahnuť do zariadení",
-    "CL_CF_WM_download_to": "Stiahnuť do"
+    "CL_CF_WM_download_to": "Stiahnuť do",
+    "CL_CF_WM_in_use": "v používaní",
+    "CL_CF_AC_device_off_tips": "Vaše zariadenie je vypnuté alebo offline."
 }

@@ -3415,6 +3415,7 @@
     "use_humidity": "Nemi düzenlemek için nem kutusunu kullanın",
     "same_day": "Aynı gün",
     "w_temp_set": "Hangi sıcaklığı ayarlayacağım?",
+    "asko": "ASKO",
     "eco_meter": "Eko Metre",
     "asko_eco_meter_desc": "##, seçilen programa ve enerji, su ve deterjan tüketimine ilişkin ekstra seçeneklere göre çevresel etkinizi belirlemek için yararlı bir akıllı göstergedir.",
     "wm86_autodose_desc": "Mücadele etmek yerine çamaşır makinesinin deterjanın tam olarak doğru dozajını ölçmesine izin verin. Otomatik Dozaj sistemine sahip çamaşır makinelerimiz deterjanı yıkama yüküne, kirlilik seviyesine, su sertliğine, program türüne ve sıcaklığa göre ölçer. Her zaman mükemmel dozaj ve artık aşırı doz yok. Burada Otomatik Dozaj için varsayılan ayarlarınızı ayarlayabilirsiniz.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Bir grubu düzenle",
     "CL_CF_WM_cloud_program_title": "Bulut programları",
     "CL_CF_WM_download_to_device": "Cihazlara indir",
-    "CL_CF_WM_download_to": "İndir"
+    "CL_CF_WM_download_to": "İndir",
+    "CL_CF_WM_in_use": "kullanımda",
+    "CL_CF_AC_device_off_tips": "Cihazınız kapalı veya çevrimdışı."
 }
