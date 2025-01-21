@@ -3415,7 +3415,6 @@
     "use_humidity": "Użyj skrzynki nawilżającej, aby regulować wilgotność",
     "same_day": "Tego samego dnia",
     "w_temp_set": "Jaką temperaturę ustawić?",
-    "asko": "ASKO",
     "eco_meter": "Licznik ekologiczny",
     "asko_eco_meter_desc": "## to pomocny, inteligentny wskaźnik umożliwiający określenie wpływu na środowisko w oparciu o wybrany program i dodatkowe opcje dotyczące zużycia energii, wody i detergentu.",
     "wm86_autodose_desc": "Zamiast sie zastanawiać nad dawkowaniem detergentu, pozwól pralce dokładnie odmierzyć odpowiednią dawkę detergentu. Nasze pralki z systemem Auto Dose mierzą detergent w zależności od wsadu prania, poziomu zabrudzenia, twardości wody, rodzaju programu i temperatury. Zawsze idealne dozowanie i koniec z przedawkowaniem. Tutaj możesz dostosować domyślne ustawienia dla Auto Dose.",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "Sprawdź, czy urządzenie jest podłączone do prądu i czy zasilanie jest włączone.",
     "CL_DV_OV_connect_network": "Upewnij się, że urządzenie jest podłączone do lokalnej sieci bezprzewodowej.",
     "CL_DV_OV_check_wifi_signal": "Sprawdź siłę sygnału WiFi. Jeśli sygnał jest słaby, może to oznaczać, że router jest zbyt daleko od urządzenia.",
-    "CL_DV_WM_stopped_due_to_error": "Pranie w {WM} zostało zatrzymane z powodu błędu "
+    "CL_DV_WM_stopped_due_to_error": "Pranie w {WM} zostało zatrzymane z powodu błędu ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Włącz tę funkcję, jeśli chcesz, aby czas zmieniał się automatycznie zgodnie z lokalnymi zasadami czasu letniego.",
+    "CL_CF_CM_favorite_name_blank_tip": "Nazwa nie może być pusta",
+    "CL_CF_AC_add_group": "Dodaj grupę",
+    "CL_CF_AC_edit_group": "Edytuj grupę",
+    "CL_CF_WM_cloud_program_title": "Programy w chmurze",
+    "CL_CF_WM_download_to_device": "Pobierz na urządzenia",
+    "CL_CF_WM_download_to": "Pobierz do"
 }

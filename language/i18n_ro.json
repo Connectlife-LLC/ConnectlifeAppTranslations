@@ -3415,7 +3415,6 @@
     "use_humidity": "Utilizați cutia de umiditate pentru a regla umiditatea",
     "same_day": "În aceeași zi",
     "w_temp_set": "Ce temperatură trebuie setată?",
-    "asko": "ASKO",
     "eco_meter": "Ecometru",
     "asko_eco_meter_desc": "## este un indicator inteligent util pentru a determina impactul asupra mediului pe baza programului ales și a opțiunilor suplimentare când vine vorba de consumul de energie, apă și detergent.",
     "wm86_autodose_desc": "În loc să te lupți, lasă mașina de spălat să măsoare exact doza potrivită de detergent. Mașinile noastre de spălat cu sistem Auto Dose măsoară detergentul în funcție de sarcina de spălare, nivelul de murdărie, duritatea apei, tipul de program și temperatura. Întotdeauna dozare perfectă și nu mai multe supradoze. Aici puteți ajusta setările implicite pentru doza automată.",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "Verificați dacă aparatul dumneavoastră este conectat la priză și dacă alimentarea este pornită.",
     "CL_DV_OV_connect_network": "Asigurați-vă că dulapul dumneavoastră este conectat la o rețea locală wireless.",
     "CL_DV_OV_check_wifi_signal": "Verificați puterea semnalului WiFi. Dacă semnalul este slab, este posibil ca routerul să fie prea departe de dulap.",
-    "CL_DV_WM_stopped_due_to_error": "Spălarea în {WM} a fost oprită din cauza unei erori "
+    "CL_DV_WM_stopped_due_to_error": "Spălarea în {WM} a fost oprită din cauza unei erori ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Activați această funcție dacă doriți ca ora să se schimbe automat în conformitate cu regulile locale de ora de vară.",
+    "CL_CF_CM_favorite_name_blank_tip": "Numele nu poate fi gol",
+    "CL_CF_AC_add_group": "Adăugați un grup",
+    "CL_CF_AC_edit_group": "Editați un grup",
+    "CL_CF_WM_cloud_program_title": "Programe cloud",
+    "CL_CF_WM_download_to_device": "Descărcați pe dispozitive",
+    "CL_CF_WM_download_to": "Descărcați la"
 }

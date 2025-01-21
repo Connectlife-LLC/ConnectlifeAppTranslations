@@ -3415,7 +3415,6 @@
     "use_humidity": "Gunakan kotak kelembapan untuk mengawal kelembapan",
     "same_day": "Pada hari yang sama",
     "w_temp_set": "Suhu apa yang perlu ditetapkan?",
-    "asko": "ASKO",
     "eco_meter": "Eco Meter",
     "asko_eco_meter_desc": "## ialah penunjuk pintar yang berguna untuk menentukan kesan alam sekitar anda berdasarkan program yang dipilih dan pilihan tambahan apabila melibatkan penggunaan tenaga, air dan detergen.",
     "wm86_autodose_desc": "Daripada bersusah payah, biarkan mesin basuh mengukur dengan tepat dos detergen yang betul. Mesin basuh kami dengan sistem Auto Dose mengukur detergen terhadap beban cucian, tahap kekotoran, kekerasan air, jenis program dan suhu. Dos sentiasa sempurna dan tiada lagi dos berlebihan. Di sini anda boleh melaraskan tetapan lalai anda untuk Auto Dos.",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "Periksa sama ada peralatan anda disambungkan dan kuasa dihidupkan.",
     "CL_DV_OV_connect_network": "Pastikan almari anda disambungkan ke rangkaian tanpa wayar tempatan.",
     "CL_DV_OV_check_wifi_signal": "Periksa kekuatan isyarat WiFi anda. Jika isyarat lemah, mungkin berlaku kerana router terlalu jauh dari almari.",
-    "CL_DV_WM_stopped_due_to_error": "Mencuci dalam {WM} telah dihentikan kerana ralat "
+    "CL_DV_WM_stopped_due_to_error": "Mencuci dalam {WM} telah dihentikan kerana ralat ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Dayakan fungsi ini jika anda mahu masa berubah secara automatik mengikut peraturan penjimatan siang tempatan.",
+    "CL_CF_CM_favorite_name_blank_tip": "Nama tidak boleh kosong",
+    "CL_CF_AC_add_group": "Tambah kumpulan",
+    "CL_CF_AC_edit_group": "Edit kumpulan",
+    "CL_CF_WM_cloud_program_title": "Program awan",
+    "CL_CF_WM_download_to_device": "Muat turun ke peranti",
+    "CL_CF_WM_download_to": "Muat turun ke"
 }

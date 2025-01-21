@@ -3415,7 +3415,6 @@
     "use_humidity": "Brug fugtboks til at regulere fugtigheden",
     "same_day": "Samme dag",
     "w_temp_set": "Hvilken temperatur skal indstilles?",
-    "asko": "ASKO",
     "eco_meter": "Økomåler",
     "asko_eco_meter_desc": "## er en nyttig smart indikator til at bestemme din miljøpåvirkning baseret på det valgte program og ekstra muligheder, når det kommer til energi-, vand- og rengøringsmiddelforbrug.",
     "wm86_autodose_desc": "I stedet for at gøre det til en kamp, ​​lad vaskemaskinen måle præcis den rigtige dosering af vaskemiddel. Vores vaskemaskiner med Auto Dose system måler vaskemidlet mod vaskemængde, snavsniveau, vandhårdhed, programtype og temperatur. Altid perfekt dosering og ikke mere overdosering. Her kan du justere dine standardindstillinger for Auto Dose.",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "Tjek, om dit apparat er tilsluttet, og om strømmen er tændt.",
     "CL_DV_OV_connect_network": "Sørg for, at dit skab er tilsluttet til et lokalt trådløst netværk.",
     "CL_DV_OV_check_wifi_signal": "Tjek styrken af dit WiFi-signal. Hvis signalet er svagt, kan det være, fordi routeren er for langt væk fra skabet.",
-    "CL_DV_WM_stopped_due_to_error": "Vask i {WM} er blevet stoppet på grund af en fejl "
+    "CL_DV_WM_stopped_due_to_error": "Vask i {WM} er blevet stoppet på grund af en fejl ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Aktiver denne funktion, hvis du ønsker, at tiden skal ændres automatisk i henhold til de lokale sommertidsregler.",
+    "CL_CF_CM_favorite_name_blank_tip": "Navnet må ikke være tomt",
+    "CL_CF_AC_add_group": "Tilføj en gruppe",
+    "CL_CF_AC_edit_group": "Rediger en gruppe",
+    "CL_CF_WM_cloud_program_title": "Cloud programmer",
+    "CL_CF_WM_download_to_device": "Download til enheder",
+    "CL_CF_WM_download_to": "Download til"
 }
