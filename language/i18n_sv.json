@@ -3415,7 +3415,6 @@
     "use_humidity": "Använd fuktlåda för att reglera luftfuktig",
     "same_day": "Samma dag",
     "w_temp_set": "Vilken temperatur ska jag ställa in?",
-    "asko": "ASKO",
     "eco_meter": "Ekomätare",
     "asko_eco_meter_desc": "## är en användbar smart indikator för att bestämma din miljöpåverkan baserat på valt program och extra alternativ när det gäller energi-, vatten- och tvättmedelsförbrukning.",
     "wm86_autodose_desc": "Istället för att göra det till en kamp, ​​låt tvättmaskinen mäta exakt rätt dosering av tvättmedel. Våra tvättmaskiner med Auto Dose-system mäter tvättmedlet mot tvättmängd, smutsnivå, vattnets hårdhet, programtyp och temperatur. Alltid perfekt dosering och ingen mer överdosering. Här kan du justera dina standardinställningar för Auto Dose.",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "Kontrollera om din apparat är inkopplad och att strömmen är på.",
     "CL_DV_OV_connect_network": "Se till att ditt skåp är anslutet till ett lokalt trådlöst nätverk.",
     "CL_DV_OV_check_wifi_signal": "Kontrollera din WiFi-signalstyrka. Om signalen är svag kan det bero på att routern är för långt borta från skåpet.",
-    "CL_DV_WM_stopped_due_to_error": "Tvätt i {WM} har stoppats på grund av ett fel "
+    "CL_DV_WM_stopped_due_to_error": "Tvätt i {WM} har stoppats på grund av ett fel ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Aktivera den här funktionen om du vill att tiden ska ändras automatiskt enligt de lokala reglerna för sommartid.",
+    "CL_CF_CM_favorite_name_blank_tip": "Namnet får inte vara tomt",
+    "CL_CF_AC_add_group": "Lägg till en grupp",
+    "CL_CF_AC_edit_group": "Redigera en grupp",
+    "CL_CF_WM_cloud_program_title": "Molnprogram",
+    "CL_CF_WM_download_to_device": "Ladda ner till enheter",
+    "CL_CF_WM_download_to": "Ladda ner till"
 }

@@ -3415,7 +3415,6 @@
     "use_humidity": "습도 조절을 위해 습도 상자를 사용하십시오.",
     "same_day": "당일",
     "w_temp_set": "온도를 어디까지 설정할까요? (Ondo-reul eodikkaji seonghap halkkayo?)",
-    "asko": "아스코",
     "eco_meter": "에코미터",
     "asko_eco_meter_desc": "##은 에너지, 물, 세제 소비와 관련하여 선택한 프로그램과 추가 옵션을 기반으로 환경에 미치는 영향을 판단하는 데 유용한 스마트 지표입니다.",
     "wm86_autodose_desc": "힘들게 세탁기를 돌리는 대신 세탁기가 세제의 정확한 양을 측정하게 하세요. 자동 투여 시스템이 있는 세탁기는 세탁물, 오염도, 물의 경도, 프로그램 유형 및 온도에 따라 세제를 측정합니다. 항상 완벽한 투여량이고 더 이상 과용하지 않습니다. 여기서 자동 투여에 대한 기본 설정을 조정할 수 있습니다.",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "기기가 연결되어 있고 전원이 켜져 있는지 확인하세요.",
     "CL_DV_OV_connect_network": "캐비닛이 로컬 무선 네트워크에 연결되어 있는지 확인하세요.",
     "CL_DV_OV_check_wifi_signal": "WiFi 신호 강도를 확인하세요. 신호가 약하다면 라우터가 캐비닛에서 너무 멀리 떨어져 있는 것일 수 있습니다.",
-    "CL_DV_WM_stopped_due_to_error": "{WM} 의 세탁이 오류로 인해 중단되었습니다. "
+    "CL_DV_WM_stopped_due_to_error": "{WM} 의 세탁이 오류로 인해 중단되었습니다. ",
+    "CL_DV_OV_summer_winter_automatically_desc": "현지 일광 절약 시간제 규칙에 따라 시간이 자동으로 변경되도록 하려면 이 기능을 활성화하세요.",
+    "CL_CF_CM_favorite_name_blank_tip": "이름은 비워둘 수 없습니다.",
+    "CL_CF_AC_add_group": "그룹 추가",
+    "CL_CF_AC_edit_group": "그룹 편집",
+    "CL_CF_WM_cloud_program_title": "클라우드 프로그램",
+    "CL_CF_WM_download_to_device": "기기에 다운로드",
+    "CL_CF_WM_download_to": "다운로드"
 }

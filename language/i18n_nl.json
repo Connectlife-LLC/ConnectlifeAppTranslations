@@ -3415,7 +3415,6 @@
     "use_humidity": "Gebruik de vochtigheidsbox om de vochtigheid te regelen",
     "same_day": "Op dezelfde dag",
     "w_temp_set": "Welke temperatuur moet ik instellen?",
-    "asko": "ASKO",
     "eco_meter": "Eco-meter",
     "asko_eco_meter_desc": "## is een handige slimme indicator om uw milieu-impact te bepalen op basis van het gekozen programma en extra opties als het gaat om energie-, water- en wasmiddelverbruik.",
     "wm86_autodose_desc": "In plaats van er een strijd van te maken, laat de wasmachine precies de juiste dosering wasmiddel afmeten. Onze wasmachines met Auto Dose-systeem meten het wasmiddel op basis van de waslading, vuilheidsgraad, waterhardheid, programmatype en temperatuur. Altijd de perfecte dosering en geen overdosering meer. Hier kunt u uw standaardinstellingen voor Auto Dose aanpassen.",
@@ -4224,7 +4223,7 @@
     "CL_DV_OV_how_to_do_this": "Hoe doe je dat?",
     "CL_DV_OV_add_stage": "Fase toevoegen",
     "CL_DV_OV_stage": "Fase",
-    "CL_DV_HOB_sensitivity_level": "Automatische gevoeligheidsgraad van de motorkap",
+    "CL_DV_HOB_sensitivity_level": "Automatische gevoeligheidsgraad van de afzuigkap",
     "CL_DV_HOB_hood_title": "kap",
     "CL_CF_FM_food_inventory": "Voedselinventaris",
     "p_check_email": "Controleer uw e-mail",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "Controleer of je wijnkast aangesloten is en of de stroom is ingeschakeld",
     "CL_DV_OV_connect_network": "Zorg ervoor dat je wijnkast verbonden is met een netwerk.",
     "CL_DV_OV_check_wifi_signal": "Controleer de sterkte van het WiFi-signaal. Als het signaal zwak is, kan het zijn dat de router te ver van de wijnkast staat.",
-    "CL_DV_WM_stopped_due_to_error": "Wassen in {WM} is gestopt vanwege een fout "
+    "CL_DV_WM_stopped_due_to_error": "Wassen in {WM} is gestopt vanwege een fout ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Schakel deze functie in als u wilt dat de tijd automatisch wordt aangepast aan de lokale regels voor zomertijd.",
+    "CL_CF_CM_favorite_name_blank_tip": "De naam mag niet leeg zijn",
+    "CL_CF_AC_add_group": "Groep toevoegen",
+    "CL_CF_AC_edit_group": "Een groep bewerken",
+    "CL_CF_WM_cloud_program_title": "Cloudprogramma's",
+    "CL_CF_WM_download_to_device": "Downloaden naar apparaten",
+    "CL_CF_WM_download_to": "Downloaden naar"
 }

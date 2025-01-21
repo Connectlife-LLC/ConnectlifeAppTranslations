@@ -3415,7 +3415,6 @@
     "use_humidity": "Use humidity box to regulate humidity",
     "same_day": "On same day",
     "w_temp_set": "What temperature to set?",
-    "asko": "ASKO",
     "eco_meter": "Eco Meter",
     "asko_eco_meter_desc": "## is a helpful smart indicator to determinate your environmental impact based on chosen program and extra options when it comes to energy, water and detergent consumption.",
     "wm86_autodose_desc": "Instead of making it to a struggle let the washing machine measure exactly the right dosage of detergent. Our washing machines with Auto Dose system measure the detergent against wash load, dirtiness level, water hardness, program type and temperature. Always perfect dosage and no more overdosing. Here you can adjust your default settings for Auto Dose.",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "Check if your oven is plugged in and the power is on.",
     "CL_DV_OV_connect_network": "Make sure your oven is connected to a local wireless network.",
     "CL_DV_OV_check_wifi_signal": "Check your Wi-Fi signal strength. If the signal is low, it might be that the router is too far away from the oven.",
-    "CL_DV_WM_stopped_due_to_error": "Washing in {WM} has been stopped due to an error "
+    "CL_DV_WM_stopped_due_to_error": "Washing in {WM} has been stopped due to an error ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Enable this function if you want the time to change automatically according to the local daylight saving rules.",
+    "CL_CF_CM_favorite_name_blank_tip": "The name cannot be empty",
+    "CL_CF_AC_add_group": "Add a group",
+    "CL_CF_AC_edit_group": "Edit a group",
+    "CL_CF_WM_cloud_program_title": "Cloud programs",
+    "CL_CF_WM_download_to_device": "Download to devices",
+    "CL_CF_WM_download_to": "Download to"
 }

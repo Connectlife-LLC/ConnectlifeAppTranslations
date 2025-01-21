@@ -3415,7 +3415,6 @@
     "use_humidity": "Utilizar a caixa de humidade para regular a humidade",
     "same_day": "No mesmo dia",
     "w_temp_set": "Qual a temperatura a definir?",
-    "asko": "ASKO",
     "eco_meter": "Medidor Ecológico",
     "asko_eco_meter_desc": "## é um indicador inteligente útil para determinar o seu impacto ambiental com base no programa escolhido e nas opções adicionais no que diz respeito ao consumo de energia, água e detergente.",
     "wm86_autodose_desc": "Em vez de fazer isso com dificuldade, deixe a máquina de lavar medir exatamente a dosagem correta de detergente. As nossas máquinas de lavar com sistema Auto Dose medem o detergente em relação à carga, nível de sujidade, dureza da água, tipo de programa e temperatura. A dosagem é perfeita e evita a sobredosagem. Aqui pode ajustar as configurações para o Auto Dose.",
@@ -4565,7 +4564,7 @@
     "CL_DV_RF_switch_to_eco_mode": "Mudar para o modo ECO",
     "CL_DV_RF_switch_to_eco_mode_tips": "Devido à inatividade do aparelho, recomendamos que você alterne para o modo ECO.",
     "CL_DV_RF_start_eco_mode": "Iniciar modo ECO",
-    "CL_CF_AS_support": "Apoiar",
+    "CL_CF_AS_support": "Suporte",
     "CL_DV_OV_remote_start": "INÍCIO REMOTO",
     "CL_DV_OV_remote_start_enable_tips": "Para habilitar o início remoto, confirme no forno pressionando o botão.",
     "CL_CF_CO_device_runs_normal": "Seu dispositivo funciona em condições normais.",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "Verifique se o seu equipamento está ligado à corrente e se está a funcionar.",
     "CL_DV_OV_connect_network": "Certifique-se de que a cave de vinhos está ligada a uma rede local.",
     "CL_DV_OV_check_wifi_signal": "Verifique a intensidade do sinal WiFi. Se o sinal for fraco, é possível que o router esteja demasiado afastado da cave de vinhos.",
-    "CL_DV_WM_stopped_due_to_error": "A lavagem em {WM} foi interrompida devido a um erro "
+    "CL_DV_WM_stopped_due_to_error": "A lavagem em {WM} foi interrompida devido a um erro ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Ative esta função se quiser que a hora mude automaticamente de acordo com as regras locais de horário de verão.",
+    "CL_CF_CM_favorite_name_blank_tip": "O nome não pode estar vazio",
+    "CL_CF_AC_add_group": "Adicionar um grupo",
+    "CL_CF_AC_edit_group": "Editar um grupo",
+    "CL_CF_WM_cloud_program_title": "Programas de nuvem",
+    "CL_CF_WM_download_to_device": "Baixar para dispositivos",
+    "CL_CF_WM_download_to": "Baixar para"
 }

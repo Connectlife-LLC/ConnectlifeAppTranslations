@@ -3415,7 +3415,6 @@
     "use_humidity": "Käytä kosteuslaatikkoa kosteuden säätämiseen",
     "same_day": "Samana päivänä",
     "w_temp_set": "Minkä lämpötila asettaa?",
-    "asko": "ASKO",
     "eco_meter": "Eco mittari",
     "asko_eco_meter_desc": "## on hyödyllinen älykäs osoitin, jonka avulla voit määrittää ympäristövaikutuksesi valitun ohjelman ja lisävaihtoehtojen perusteella energian, veden ja pesuaineen kulutuksen osalta.",
     "wm86_autodose_desc": "Sen sijaan, että joutuisit kamppailemaan, anna pesukoneen mitata täsmälleen oikea pesuaineannos. Auto Dose -järjestelmällä varustetut pesukoneemme mittaavat pesuaineen pesumäärän, likaisuuden, veden kovuuden, ohjelmatyypin ja lämpötilan mukaan. Aina täydellinen annostus eikä enää yliannostusta. Täällä voit säätää oletusasetuksiasi automaattiselle annokselle.",
@@ -4829,5 +4828,12 @@
     "CL_DV_OV_check_power": "Tarkista, onko laitteesi kytketty pistorasiaan ja virta on päällä.",
     "CL_DV_OV_connect_network": "Varmista, että kaappisi on yhdistetty paikalliseen langattomaan verkkoon.",
     "CL_DV_OV_check_wifi_signal": "Tarkista WiFi-signaalin vahvuus. Jos signaali on heikko, saattaa olla, että reititin on liian kaukana kaapista.",
-    "CL_DV_WM_stopped_due_to_error": "Pesu laitteessa {WM} on keskeytetty virheen vuoksi "
+    "CL_DV_WM_stopped_due_to_error": "Pesu laitteessa {WM} on keskeytetty virheen vuoksi ",
+    "CL_DV_OV_summer_winter_automatically_desc": "Ota tämä toiminto käyttöön, jos haluat ajan muuttuvan automaattisesti paikallisten kesäaikasääntöjen mukaisesti.",
+    "CL_CF_CM_favorite_name_blank_tip": "Nimi ei voi olla tyhjä",
+    "CL_CF_AC_add_group": "Lisää ryhmä",
+    "CL_CF_AC_edit_group": "Muokkaa ryhmää",
+    "CL_CF_WM_cloud_program_title": "Pilviohjelmat",
+    "CL_CF_WM_download_to_device": "Lataa laitteisiin",
+    "CL_CF_WM_download_to": "Lataa kohteeseen"
 }
