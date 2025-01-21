@@ -3415,6 +3415,7 @@
     "use_humidity": "Använd fuktlåda för att reglera luftfuktig",
     "same_day": "Samma dag",
     "w_temp_set": "Vilken temperatur ska jag ställa in?",
+    "asko": "ASKO",
     "eco_meter": "Ekomätare",
     "asko_eco_meter_desc": "## är en användbar smart indikator för att bestämma din miljöpåverkan baserat på valt program och extra alternativ när det gäller energi-, vatten- och tvättmedelsförbrukning.",
     "wm86_autodose_desc": "Istället för att göra det till en kamp, ​​låt tvättmaskinen mäta exakt rätt dosering av tvättmedel. Våra tvättmaskiner med Auto Dose-system mäter tvättmedlet mot tvättmängd, smutsnivå, vattnets hårdhet, programtyp och temperatur. Alltid perfekt dosering och ingen mer överdosering. Här kan du justera dina standardinställningar för Auto Dose.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Redigera en grupp",
     "CL_CF_WM_cloud_program_title": "Molnprogram",
     "CL_CF_WM_download_to_device": "Ladda ner till enheter",
-    "CL_CF_WM_download_to": "Ladda ner till"
+    "CL_CF_WM_download_to": "Ladda ner till",
+    "CL_CF_WM_in_use": "i bruk",
+    "CL_CF_AC_device_off_tips": "Din enhet är avstängd eller offline."
 }
