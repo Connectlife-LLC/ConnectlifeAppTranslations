@@ -3415,6 +3415,7 @@
     "use_humidity": "Gebruik de vochtigheidsbox om de vochtigheid te regelen",
     "same_day": "Op dezelfde dag",
     "w_temp_set": "Welke temperatuur moet ik instellen?",
+    "asko": "ASKO",
     "eco_meter": "Eco-meter",
     "asko_eco_meter_desc": "## is een handige slimme indicator om uw milieu-impact te bepalen op basis van het gekozen programma en extra opties als het gaat om energie-, water- en wasmiddelverbruik.",
     "wm86_autodose_desc": "In plaats van er een strijd van te maken, laat de wasmachine precies de juiste dosering wasmiddel afmeten. Onze wasmachines met Auto Dose-systeem meten het wasmiddel op basis van de waslading, vuilheidsgraad, waterhardheid, programmatype en temperatuur. Altijd de perfecte dosering en geen overdosering meer. Hier kunt u uw standaardinstellingen voor Auto Dose aanpassen.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Een groep bewerken",
     "CL_CF_WM_cloud_program_title": "Cloudprogramma's",
     "CL_CF_WM_download_to_device": "Downloaden naar apparaten",
-    "CL_CF_WM_download_to": "Downloaden naar"
+    "CL_CF_WM_download_to": "Downloaden naar",
+    "CL_CF_WM_in_use": "in gebruik",
+    "CL_CF_AC_device_off_tips": "Uw apparaat is uitgeschakeld of offline."
 }
