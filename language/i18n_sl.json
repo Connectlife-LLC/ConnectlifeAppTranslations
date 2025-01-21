@@ -3415,6 +3415,7 @@
     "use_humidity": "Za uravnavanje vlažnosti uporabite škatlo za vlažnost",
     "same_day": "Isti dan",
     "w_temp_set": "Kakšno temperaturo nastaviti?",
+    "asko": "ASKO",
     "eco_meter": "Eco Meter",
     "asko_eco_meter_desc": "## je koristen pametni indikator za določanje vašega vpliva na okolje na podlagi izbranega programa in dodatnih možnosti, ko gre za porabo energije, vode in detergenta.",
     "wm86_autodose_desc": "Namesto da bi se trudili, pustite pralnemu stroju, da izmeri točno pravi odmerek pralnega sredstva. Naši pralni stroji s sistemom Auto Dose merijo količino pralnega sredstva glede na količino perila, stopnjo umazanosti, trdoto vode, vrsto programa in temperaturo. Vedno popoln odmerek in nič več prevelikega odmerjanja. Tukaj lahko prilagodite privzete nastavitve za funkcijo Auto Dose.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Uredite skupino",
     "CL_CF_WM_cloud_program_title": "Programi v oblaku",
     "CL_CF_WM_download_to_device": "Prenos v naprave",
-    "CL_CF_WM_download_to": "Prenesi v"
+    "CL_CF_WM_download_to": "Prenesi v",
+    "CL_CF_WM_in_use": "v uporabi",
+    "CL_CF_AC_device_off_tips": "Vaša naprava je izklopljena ali brez povezave."
 }

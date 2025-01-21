@@ -3415,6 +3415,7 @@
     "use_humidity": "Sử dụng hộp độ ẩm để điều chỉnh độ ẩm",
     "same_day": "Trong cùng một ngày",
     "w_temp_set": "Cài đặt nhiệt độ nào?",
+    "asko": "ASKO",
     "eco_meter": "Đồng hồ sinh thái",
     "asko_eco_meter_desc": "## là một chỉ báo thông minh hữu ích để xác định tác động môi trường của bạn dựa trên chương trình đã chọn và các tùy chọn bổ sung khi nói đến mức tiêu thụ năng lượng, nước và chất tẩy rửa.",
     "wm86_autodose_desc": "Thay vì phải vật lộn, hãy để máy giặt đo chính xác liều lượng chất tẩy rửa. Máy giặt của chúng tôi có hệ thống Tự động định lượng sẽ đo chất tẩy rửa theo khối lượng giặt, mức độ bẩn, độ cứng của nước, loại chương trình và nhiệt độ. Luôn luôn định lượng hoàn hảo và không còn tình trạng quá liều. Tại đây, bạn có thể điều chỉnh cài đặt mặc định của mình cho Tự động định lượng.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Chỉnh sửa một nhóm",
     "CL_CF_WM_cloud_program_title": "Chương trình đám mây",
     "CL_CF_WM_download_to_device": "Tải xuống thiết bị",
-    "CL_CF_WM_download_to": "Tải xuống"
+    "CL_CF_WM_download_to": "Tải xuống",
+    "CL_CF_WM_in_use": "đang sử dụng",
+    "CL_CF_AC_device_off_tips": "Thiết bị của bạn đã tắt hoặc ngoại tuyến."
 }
