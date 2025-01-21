@@ -3415,6 +3415,7 @@
     "use_humidity": "Koristite kutiju za regulaciju vlažnosti",
     "same_day": "Isti dan",
     "w_temp_set": "Koju temperaturu postaviti?",
+    "asko": "ASKO",
     "eco_meter": "Eko mjerač",
     "asko_eco_meter_desc": "## je koristan pametni indikator za određivanje vašeg utjecaja na okoliš na temelju odabranog programa i dodatnih opcija kada je riječ o potrošnji energije, vode i deterdženta.",
     "wm86_autodose_desc": "Olakšajte si i dozvolite perilici da izmjeri točnu dozu deterdženta. Naše perilice rublja sa sustavom automatskoga doziranja deterdžent doziraju prema količini pranja, razini zaprljanosti, tvrdoći vode, vrsti programa i temperaturi. Uvijek savršena doza. Ovdje možete prilagoditi zadane postavke za automatsko doziranje.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Uredite grupu",
     "CL_CF_WM_cloud_program_title": "Cloud programi",
     "CL_CF_WM_download_to_device": "Preuzmi na uređaje",
-    "CL_CF_WM_download_to": "Preuzmi na"
+    "CL_CF_WM_download_to": "Preuzmi na",
+    "CL_CF_WM_in_use": "u upotrebi",
+    "CL_CF_AC_device_off_tips": "Vaš uređaj je isključen ili izvan mreže."
 }
