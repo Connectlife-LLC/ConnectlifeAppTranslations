@@ -3415,6 +3415,7 @@
     "use_humidity": "Utilizar a caixa de humidade para regular a humidade",
     "same_day": "No mesmo dia",
     "w_temp_set": "Qual a temperatura a definir?",
+    "asko": "ASKO",
     "eco_meter": "Medidor Ecológico",
     "asko_eco_meter_desc": "## é um indicador inteligente útil para determinar o seu impacto ambiental com base no programa escolhido e nas opções adicionais no que diz respeito ao consumo de energia, água e detergente.",
     "wm86_autodose_desc": "Em vez de fazer isso com dificuldade, deixe a máquina de lavar medir exatamente a dosagem correta de detergente. As nossas máquinas de lavar com sistema Auto Dose medem o detergente em relação à carga, nível de sujidade, dureza da água, tipo de programa e temperatura. A dosagem é perfeita e evita a sobredosagem. Aqui pode ajustar as configurações para o Auto Dose.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Editar um grupo",
     "CL_CF_WM_cloud_program_title": "Programas de nuvem",
     "CL_CF_WM_download_to_device": "Baixar para dispositivos",
-    "CL_CF_WM_download_to": "Baixar para"
+    "CL_CF_WM_download_to": "Baixar para",
+    "CL_CF_WM_in_use": "em uso",
+    "CL_CF_AC_device_off_tips": "Seu dispositivo está desligado ou offline."
 }

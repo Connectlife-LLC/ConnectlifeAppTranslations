@@ -3415,6 +3415,7 @@
     "use_humidity": "Użyj skrzynki nawilżającej, aby regulować wilgotność",
     "same_day": "Tego samego dnia",
     "w_temp_set": "Jaką temperaturę ustawić?",
+    "asko": "ASKO",
     "eco_meter": "Licznik ekologiczny",
     "asko_eco_meter_desc": "## to pomocny, inteligentny wskaźnik umożliwiający określenie wpływu na środowisko w oparciu o wybrany program i dodatkowe opcje dotyczące zużycia energii, wody i detergentu.",
     "wm86_autodose_desc": "Zamiast sie zastanawiać nad dawkowaniem detergentu, pozwól pralce dokładnie odmierzyć odpowiednią dawkę detergentu. Nasze pralki z systemem Auto Dose mierzą detergent w zależności od wsadu prania, poziomu zabrudzenia, twardości wody, rodzaju programu i temperatury. Zawsze idealne dozowanie i koniec z przedawkowaniem. Tutaj możesz dostosować domyślne ustawienia dla Auto Dose.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Edytuj grupę",
     "CL_CF_WM_cloud_program_title": "Programy w chmurze",
     "CL_CF_WM_download_to_device": "Pobierz na urządzenia",
-    "CL_CF_WM_download_to": "Pobierz do"
+    "CL_CF_WM_download_to": "Pobierz do",
+    "CL_CF_WM_in_use": "w użyciu",
+    "CL_CF_AC_device_off_tips": "Twoje urządzenie jest wyłączone lub niedostępne."
 }

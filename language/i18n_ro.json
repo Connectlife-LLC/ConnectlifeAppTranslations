@@ -3415,6 +3415,7 @@
     "use_humidity": "Utilizați cutia de umiditate pentru a regla umiditatea",
     "same_day": "În aceeași zi",
     "w_temp_set": "Ce temperatură trebuie setată?",
+    "asko": "ASKO",
     "eco_meter": "Ecometru",
     "asko_eco_meter_desc": "## este un indicator inteligent util pentru a determina impactul asupra mediului pe baza programului ales și a opțiunilor suplimentare când vine vorba de consumul de energie, apă și detergent.",
     "wm86_autodose_desc": "În loc să te lupți, lasă mașina de spălat să măsoare exact doza potrivită de detergent. Mașinile noastre de spălat cu sistem Auto Dose măsoară detergentul în funcție de sarcina de spălare, nivelul de murdărie, duritatea apei, tipul de program și temperatura. Întotdeauna dozare perfectă și nu mai multe supradoze. Aici puteți ajusta setările implicite pentru doza automată.",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "Editați un grup",
     "CL_CF_WM_cloud_program_title": "Programe cloud",
     "CL_CF_WM_download_to_device": "Descărcați pe dispozitive",
-    "CL_CF_WM_download_to": "Descărcați la"
+    "CL_CF_WM_download_to": "Descărcați la",
+    "CL_CF_WM_in_use": "în uz",
+    "CL_CF_AC_device_off_tips": "Dispozitivul dvs. este oprit sau offline."
 }
