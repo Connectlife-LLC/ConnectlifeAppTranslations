@@ -3415,6 +3415,7 @@
     "use_humidity": "使用加湿盒调节湿度",
     "same_day": "同一天",
     "w_temp_set": "设置什么温度？",
+    "asko": "阿斯科",
     "eco_meter": "生態計",
     "asko_eco_meter_desc": "## 是一個有用的智慧指標，可根據所選方案和額外選項確定您在能源、水和清潔劑消耗方面對環境的影響。",
     "wm86_autodose_desc": "讓洗衣機準確地測量洗滌劑的正確劑量，而不是讓它變得困難。我們的洗衣機配有自動劑量系統，可根據洗滌量、髒度、水硬度、程序類型和溫度來測量洗衣劑。始終保持完美劑量，不再過量。您可以在此處調整自動劑量的預設設定。",
@@ -4835,5 +4836,7 @@
     "CL_CF_AC_edit_group": "編輯群組",
     "CL_CF_WM_cloud_program_title": "雲端程式",
     "CL_CF_WM_download_to_device": "下載到設備",
-    "CL_CF_WM_download_to": "下載到"
+    "CL_CF_WM_download_to": "下載到",
+    "CL_CF_WM_in_use": "使用中",
+    "CL_CF_AC_device_off_tips": "您的裝置已關閉或離線。"
 }
