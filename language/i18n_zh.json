@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "编辑群组",
     "CL_CF_WM_cloud_program_title": "云程序",
     "CL_CF_WM_download_to_device": "下载至设备",
-    "CL_CF_WM_download_to": "下载至"
+    "CL_CF_WM_download_to": "下载至",
+    "CL_CF_WM_in_use": "使用中",
+    "CL_CF_AC_device_off_tips": "您的设备已关闭或离线。",
+    "CL_CF_FW_set_permission": "继续之前请先设置设备权限。",
+    "CL_CF_FW_afota_update_warning": "请确认设备上的更新过程。L__NEWLINE__ \n过程将在更新期间禁用设备。更新期间设备界面可能会闪烁。",
+    "CL_CF_FW_afota_step1_content": "要继续固件更新，请让设备待机。设备运行时无法进行固件更新。"
 }

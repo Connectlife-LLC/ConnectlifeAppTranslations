@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "Muokkaa ryhmää",
     "CL_CF_WM_cloud_program_title": "Pilviohjelmat",
     "CL_CF_WM_download_to_device": "Lataa laitteisiin",
-    "CL_CF_WM_download_to": "Lataa kohteeseen"
+    "CL_CF_WM_download_to": "Lataa kohteeseen",
+    "CL_CF_WM_in_use": "käytössä",
+    "CL_CF_AC_device_off_tips": "Laitteesi on sammutettu tai offline-tilassa.",
+    "CL_CF_FW_set_permission": "Aseta laitteen käyttöoikeus ennen kuin jatkat.",
+    "CL_CF_FW_afota_update_warning": "Vahvista laitteen päivitysprosessi. \n Laiteohjelmiston prosessi estää laitteen käytön päivityksen ajaksi. Laitteen käyttöliittymä saattaa vilkkua päivityksen aikana.",
+    "CL_CF_FW_afota_step1_content": "Jatka laiteohjelmiston päivitystä asettamalla laite valmiustilaan. Laiteohjelmiston päivitystä ei voi suorittaa laitteen ollessa käynnissä."
 }

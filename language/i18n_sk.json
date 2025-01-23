@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "Upravte skupinu",
     "CL_CF_WM_cloud_program_title": "Cloudové programy",
     "CL_CF_WM_download_to_device": "Stiahnuť do zariadení",
-    "CL_CF_WM_download_to": "Stiahnuť do"
+    "CL_CF_WM_download_to": "Stiahnuť do",
+    "CL_CF_WM_in_use": "v používaní",
+    "CL_CF_AC_device_off_tips": "Vaše zariadenie je vypnuté alebo offline.",
+    "CL_CF_FW_set_permission": "Pred pokračovaním nastavte povolenie na zariadení.",
+    "CL_CF_FW_afota_update_warning": "Potvrďte proces aktualizácie na zariadení. \n Proces firmvéru znemožní používanie zariadenia počas trvania aktualizácie. Rozhranie zariadenia môže počas aktualizácie blikať.",
+    "CL_CF_FW_afota_step1_content": "Ak chcete pokračovať v aktualizácii firmvéru, uveďte zariadenie do pohotovostného režimu. Aktualizáciu firmvéru nie je možné vykonať, keď je zariadenie v prevádzke."
 }

@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "Bir grubu düzenle",
     "CL_CF_WM_cloud_program_title": "Bulut programları",
     "CL_CF_WM_download_to_device": "Cihazlara indir",
-    "CL_CF_WM_download_to": "İndir"
+    "CL_CF_WM_download_to": "İndir",
+    "CL_CF_WM_in_use": "kullanımda",
+    "CL_CF_AC_device_off_tips": "Cihazınız kapalı veya çevrimdışı.",
+    "CL_CF_FW_set_permission": "Devam etmeden önce cihazda izinleri ayarlayın.",
+    "CL_CF_FW_afota_update_warning": "Lütfen cihazdaki güncelleme işlemini onaylayın. \n Ürün yazılımı işlemi, güncelleme süresince cihazın kullanımını devre dışı bırakacaktır. Güncelleme sırasında cihaz arayüzü yanıp sönebilir.",
+    "CL_CF_FW_afota_step1_content": "Yazılım güncellemesine devam etmek için lütfen cihazı bekleme moduna alın. Cihaz çalışırken yazılım güncellemesi yapılamaz."
 }

@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "Edit kumpulan",
     "CL_CF_WM_cloud_program_title": "Program awan",
     "CL_CF_WM_download_to_device": "Muat turun ke peranti",
-    "CL_CF_WM_download_to": "Muat turun ke"
+    "CL_CF_WM_download_to": "Muat turun ke",
+    "CL_CF_WM_in_use": "sedang digunakan",
+    "CL_CF_AC_device_off_tips": "Peranti anda dimatikan atau di luar talian.",
+    "CL_CF_FW_set_permission": "Tetapkan kebenaran pada peranti sebelum meneruskan.",
+    "CL_CF_FW_afota_update_warning": "Sila sahkan proses kemas kini pada perkakas. \n Proses perisian tegar akan melumpuhkan penggunaan perkakas sepanjang tempoh kemas kini. Antara muka peranti mungkin berkelip semasa kemas kini.",
+    "CL_CF_FW_afota_step1_content": "Untuk meneruskan kemas kini perisian tegar, sila letakkan perkakas untuk berdiri. Kemas kini perisian tegar tidak boleh dilakukan semasa perkakas sedang berjalan."
 }
