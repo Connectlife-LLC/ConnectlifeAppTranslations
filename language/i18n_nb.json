@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "Rediger en gruppe",
     "CL_CF_WM_cloud_program_title": "Cloud-programmer",
     "CL_CF_WM_download_to_device": "Last ned til enheter",
-    "CL_CF_WM_download_to": "Last ned til"
+    "CL_CF_WM_download_to": "Last ned til",
+    "CL_CF_WM_in_use": "i bruk",
+    "CL_CF_AC_device_off_tips": "Enheten din er slått av eller frakoblet.",
+    "CL_CF_FW_set_permission": "Angi tillatelse på enheten før du fortsetter.",
+    "CL_CF_FW_afota_update_warning": "Vennligst bekreft oppdateringsprosessen på enheten. \n Fastvareprosessen vil deaktivere bruken av enheten så lenge oppdateringen varer. Enhetsgrensesnittet kan blinke under oppdatering.",
+    "CL_CF_FW_afota_step1_content": "For å fortsette med fastvareoppdateringen, sett apparatet i ventemodus. Fastvareoppdatering kan ikke utføres mens enheten kjører."
 }

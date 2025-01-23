@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "Chỉnh sửa một nhóm",
     "CL_CF_WM_cloud_program_title": "Chương trình đám mây",
     "CL_CF_WM_download_to_device": "Tải xuống thiết bị",
-    "CL_CF_WM_download_to": "Tải xuống"
+    "CL_CF_WM_download_to": "Tải xuống",
+    "CL_CF_WM_in_use": "đang sử dụng",
+    "CL_CF_AC_device_off_tips": "Thiết bị của bạn đã tắt hoặc ngoại tuyến.",
+    "CL_CF_FW_set_permission": "Đặt quyền cho thiết bị trước khi tiếp tục.",
+    "CL_CF_FW_afota_update_warning": "Vui lòng xác nhận quá trình cập nhật trên thiết bị. \n Quá trình phần mềm sẽ vô hiệu hóa việc sử dụng thiết bị trong thời gian cập nhật. Giao diện thiết bị có thể nhấp nháy trong quá trình cập nhật.",
+    "CL_CF_FW_afota_step1_content": "Để tiếp tục cập nhật chương trình cơ sở, vui lòng để thiết bị ở chế độ chờ. Không thể thực hiện cập nhật chương trình cơ sở khi thiết bị đang chạy."
 }

@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "Edytuj grupę",
     "CL_CF_WM_cloud_program_title": "Programy w chmurze",
     "CL_CF_WM_download_to_device": "Pobierz na urządzenia",
-    "CL_CF_WM_download_to": "Pobierz do"
+    "CL_CF_WM_download_to": "Pobierz do",
+    "CL_CF_WM_in_use": "w użyciu",
+    "CL_CF_AC_device_off_tips": "Twoje urządzenie jest wyłączone lub niedostępne.",
+    "CL_CF_FW_set_permission": "Przed kontynuowaniem ustaw uprawnienia na urządzeniu.",
+    "CL_CF_FW_afota_update_warning": "Potwierdź proces aktualizacji na urządzeniu. \n Proces oprogramowania sprzętowego wyłączy korzystanie z urządzenia na czas aktualizacji. Interfejs urządzenia może migać podczas aktualizacji.",
+    "CL_CF_FW_afota_step1_content": "Aby kontynuować aktualizację oprogramowania sprzętowego, przełącz urządzenie w tryb czuwania. Aktualizacji oprogramowania sprzętowego nie można wykonać, gdy urządzenie jest uruchomione."
 }

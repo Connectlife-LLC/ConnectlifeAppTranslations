@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "Editar um grupo",
     "CL_CF_WM_cloud_program_title": "Programas de nuvem",
     "CL_CF_WM_download_to_device": "Baixar para dispositivos",
-    "CL_CF_WM_download_to": "Baixar para"
+    "CL_CF_WM_download_to": "Baixar para",
+    "CL_CF_WM_in_use": "em uso",
+    "CL_CF_AC_device_off_tips": "Seu dispositivo está desligado ou offline.",
+    "CL_CF_FW_set_permission": "Defina a permissão no dispositivo antes de continuar.",
+    "CL_CF_FW_afota_update_warning": "Por favor, confirme o processo de atualização no aparelho. \n O processo de firmware desabilitará o uso do aparelho durante a atualização. A interface do dispositivo pode piscar durante a atualização.",
+    "CL_CF_FW_afota_step1_content": "Para continuar com a atualização do firmware, coloque o aparelho em stand by. A atualização do firmware não pode ser realizada enquanto o aparelho estiver em execução."
 }

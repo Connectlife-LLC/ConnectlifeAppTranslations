@@ -4835,5 +4835,10 @@
     "CL_CF_AC_edit_group": "Een groep bewerken",
     "CL_CF_WM_cloud_program_title": "Cloudprogramma's",
     "CL_CF_WM_download_to_device": "Downloaden naar apparaten",
-    "CL_CF_WM_download_to": "Downloaden naar"
+    "CL_CF_WM_download_to": "Downloaden naar",
+    "CL_CF_WM_in_use": "in gebruik",
+    "CL_CF_AC_device_off_tips": "Uw apparaat is uitgeschakeld of offline.",
+    "CL_CF_FW_set_permission": "Stel toestemming in op het apparaat voordat u verdergaat.",
+    "CL_CF_FW_afota_update_warning": "Bevestig het updateproces op het apparaat. \n Het firmwareproces schakelt het gebruik van het apparaat uit voor de duur van de update. De interface van het apparaat kan knipperen tijdens de update.",
+    "CL_CF_FW_afota_step1_content": "Om door te gaan met de firmware-update, zet u het apparaat in stand-by. Firmware-update kan niet worden uitgevoerd terwijl het apparaat draait."
 }
