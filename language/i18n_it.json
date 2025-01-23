@@ -4835,5 +4835,11 @@
     "CL_CF_AC_edit_group": "Modifica un gruppo",
     "CL_CF_WM_cloud_program_title": "Programmi cloud",
     "CL_CF_WM_download_to_device": "Scarica sui dispositivi",
-    "CL_CF_WM_download_to": "Scarica su"
+    "CL_CF_WM_download_to": "Scarica su",
+    "CL_CF_WM_in_use": "in uso",
+    "CL_CF_AC_device_off_tips": "Il dispositivo è spento oppure offline.",
+    "CL_CF_FW_set_permission": "Imposta l'autorizzazione sul dispositivo prima di continuare.",
+    "CL_CF_FW_afota_update_warning": "Si prega di confermare il processo di aggiornamento sull'appliance. \n Il processo del firmware disabiliterà l'uso dell'appliance per la durata dell'aggiornamento. L'interfaccia del dispositivo potrebbe lampeggiare durante l'aggiornamento.",
+    "CL_CF_FW_afota_step1_content": "Per continuare con l'aggiornamento del firmware, metti l'apparecchio in stand-by. L'aggiornamento del firmware non può essere eseguito mentre l'apparecchio è in funzione.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Dosaggio normale: la quantità per 30L di acqua"
 }
