@@ -4835,5 +4835,11 @@
     "CL_CF_AC_edit_group": "Uredite grupu",
     "CL_CF_WM_cloud_program_title": "Cloud programi",
     "CL_CF_WM_download_to_device": "Preuzmi na uređaje",
-    "CL_CF_WM_download_to": "Preuzmi na"
+    "CL_CF_WM_download_to": "Preuzmi na",
+    "CL_CF_WM_in_use": "u upotrebi",
+    "CL_CF_AC_device_off_tips": "Vaš uređaj je isključen ili izvan mreže.",
+    "CL_CF_FW_set_permission": "Postavite dopuštenje na uređaju prije nastavka.",
+    "CL_CF_FW_afota_update_warning": "Potvrdite postupak ažuriranja na uređaju. \n Proces firmvera onemogućit će upotrebu uređaja za vrijeme trajanja ažuriranja. Sučelje uređaja može treptati tijekom ažuriranja.",
+    "CL_CF_FW_afota_step1_content": "Da biste nastavili s ažuriranjem firmvera, stavite uređaj u stanje mirovanja. Ažuriranje firmvera ne može se izvršiti dok uređaj radi.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Normalno doziranje: količina za 30L vode"
 }

@@ -4835,5 +4835,11 @@
     "CL_CF_AC_edit_group": "Bearbeiten einer Gruppe",
     "CL_CF_WM_cloud_program_title": "Cloud-Programme",
     "CL_CF_WM_download_to_device": "Auf Geräte herunterladen",
-    "CL_CF_WM_download_to": "Herunterladen auf"
+    "CL_CF_WM_download_to": "Herunterladen auf",
+    "CL_CF_WM_in_use": "im Einsatz",
+    "CL_CF_AC_device_off_tips": "Ihr Gerät ist ausgeschaltet oder offline.",
+    "CL_CF_FW_set_permission": "Legen Sie die Berechtigung auf dem Gerät fest, bevor Sie fortfahren.",
+    "CL_CF_FW_afota_update_warning": "Bitte bestätigen Sie den Update-Vorgang auf dem Gerät. \n Der Firmware-Vorgang deaktiviert die Nutzung des Geräts für die Dauer des Updates. Die Geräteschnittstelle kann während des Updates blinken.",
+    "CL_CF_FW_afota_step1_content": "Um mit der Firmware-Aktualisierung fortzufahren, schalten Sie das Gerät bitte in den Standby-Modus. Die Firmware-Aktualisierung kann nicht durchgeführt werden, während das Gerät in Betrieb ist.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Normale Dosierung: die Menge für 30L Wasser"
 }
