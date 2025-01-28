@@ -1764,7 +1764,7 @@
     "bluetooth_settings": "블루투스 설정",
     "bluetooth_permission_desc": "ConnectLife가 Bluetooth에 액세스해야 합니다.",
     "mute_buzzer": "음소거 부저",
-    "drying_wizard": "건조 보조",
+    "drying_wizard": "건조 지원",
     "energy_monitoring": "에너지 모니터",
     "dry_laundry": "드라이 세탁",
     "energy": "에너지",
@@ -3415,6 +3415,7 @@
     "use_humidity": "습도 조절을 위해 습도 상자를 사용하십시오.",
     "same_day": "당일",
     "w_temp_set": "온도를 어디까지 설정할까요? (Ondo-reul eodikkaji seonghap halkkayo?)",
+    "asko": "아스코",
     "eco_meter": "에코미터",
     "asko_eco_meter_desc": "##은 에너지, 물, 세제 소비와 관련하여 선택한 프로그램과 추가 옵션을 기반으로 환경에 미치는 영향을 판단하는 데 유용한 스마트 지표입니다.",
     "wm86_autodose_desc": "힘들게 세탁기를 돌리는 대신 세탁기가 세제의 정확한 양을 측정하게 하세요. 자동 투여 시스템이 있는 세탁기는 세탁물, 오염도, 물의 경도, 프로그램 유형 및 온도에 따라 세제를 측정합니다. 항상 완벽한 투여량이고 더 이상 과용하지 않습니다. 여기서 자동 투여에 대한 기본 설정을 조정할 수 있습니다.",
@@ -4835,5 +4836,11 @@
     "CL_CF_AC_edit_group": "그룹 편집",
     "CL_CF_WM_cloud_program_title": "클라우드 프로그램",
     "CL_CF_WM_download_to_device": "기기에 다운로드",
-    "CL_CF_WM_download_to": "다운로드"
+    "CL_CF_WM_download_to": "다운로드",
+    "CL_CF_WM_in_use": "사용 중",
+    "CL_CF_AC_device_off_tips": "기기가 꺼져 있거나 오프라인 상태입니다.",
+    "CL_CF_FW_set_permission": "계속하기 전에 장치에 대한 권한을 설정하세요.",
+    "CL_CF_FW_afota_update_warning": "기기의 업데이트 프로세스를 확인해 주세요. \n 펌웨어 프로세스는 업데이트 기간 동안 기기 사용을 비활성화합니다. 업데이트 중에 기기 인터페이스가 깜박일 수 있습니다.",
+    "CL_CF_FW_afota_step1_content": "펌웨어 업데이트를 계속하려면 기기를 대기 모드로 전환하세요. 기기가 실행 중일 때는 펌웨어 업데이트를 수행할 수 없습니다.",
+    "CL_DV_WM_normal_dosage_japan_tip": "일반 복용량 : 물 30L당 복용량"
 }
