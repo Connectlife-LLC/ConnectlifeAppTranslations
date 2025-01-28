@@ -3415,6 +3415,7 @@
     "use_humidity": "Utilice una caja de humedad para regular la humedad.",
     "same_day": "El mismo día",
     "w_temp_set": "¿Qué temperatura ajustar?",
+    "asko": "ASKO",
     "eco_meter": "Medidor ecológico",
     "asko_eco_meter_desc": "## es un indicador inteligente útil para determinar su impacto ambiental según el programa elegido y opciones adicionales en lo que respecta al consumo de energía, agua y detergente.",
     "wm86_autodose_desc": "En lugar de complicarse la vida, deje que la lavadora mida exactamente la dosis correcta de detergente. Nuestras lavadoras con sistema Auto Dose miden el detergente en función de la carga de lavado, el nivel de suciedad, la dureza del agua, el tipo de programa y la temperatura. Siempre la dosis perfecta y se acabaron las sobredosificaciones. Aquí puede ajustar la configuración predeterminada para Auto Dose.",
@@ -4835,5 +4836,11 @@
     "CL_CF_AC_edit_group": "Editar un grupo",
     "CL_CF_WM_cloud_program_title": "Programas en la nube",
     "CL_CF_WM_download_to_device": "Descargar a dispositivos",
-    "CL_CF_WM_download_to": "Descargar a"
+    "CL_CF_WM_download_to": "Descargar a",
+    "CL_CF_WM_in_use": "en uso",
+    "CL_CF_AC_device_off_tips": "Su dispositivo está apagado o fuera de línea.",
+    "CL_CF_FW_set_permission": "Establezca permiso en el dispositivo antes de continuar.",
+    "CL_CF_FW_afota_update_warning": "Confirme el proceso de actualización en el dispositivo. \n El proceso de actualización del firmware deshabilitará el uso del dispositivo mientras dure la actualización. La interfaz del dispositivo puede parpadear durante la actualización.",
+    "CL_CF_FW_afota_step1_content": "Para continuar con la actualización del firmware, ponga el aparato en modo de espera. La actualización del firmware no se puede realizar mientras el aparato esté en funcionamiento.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Dosis normal: la cantidad para 30L de agua"
 }

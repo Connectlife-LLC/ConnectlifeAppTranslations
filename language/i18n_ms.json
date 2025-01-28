@@ -3415,6 +3415,7 @@
     "use_humidity": "Gunakan kotak kelembapan untuk mengawal kelembapan",
     "same_day": "Pada hari yang sama",
     "w_temp_set": "Suhu apa yang perlu ditetapkan?",
+    "asko": "ASKO",
     "eco_meter": "Eco Meter",
     "asko_eco_meter_desc": "## ialah penunjuk pintar yang berguna untuk menentukan kesan alam sekitar anda berdasarkan program yang dipilih dan pilihan tambahan apabila melibatkan penggunaan tenaga, air dan detergen.",
     "wm86_autodose_desc": "Daripada bersusah payah, biarkan mesin basuh mengukur dengan tepat dos detergen yang betul. Mesin basuh kami dengan sistem Auto Dose mengukur detergen terhadap beban cucian, tahap kekotoran, kekerasan air, jenis program dan suhu. Dos sentiasa sempurna dan tiada lagi dos berlebihan. Di sini anda boleh melaraskan tetapan lalai anda untuk Auto Dos.",
@@ -4835,5 +4836,11 @@
     "CL_CF_AC_edit_group": "Edit kumpulan",
     "CL_CF_WM_cloud_program_title": "Program awan",
     "CL_CF_WM_download_to_device": "Muat turun ke peranti",
-    "CL_CF_WM_download_to": "Muat turun ke"
+    "CL_CF_WM_download_to": "Muat turun ke",
+    "CL_CF_WM_in_use": "sedang digunakan",
+    "CL_CF_AC_device_off_tips": "Peranti anda dimatikan atau di luar talian.",
+    "CL_CF_FW_set_permission": "Tetapkan kebenaran pada peranti sebelum meneruskan.",
+    "CL_CF_FW_afota_update_warning": "Sila sahkan proses kemas kini pada perkakas. \n Proses perisian tegar akan melumpuhkan penggunaan perkakas sepanjang tempoh kemas kini. Antara muka peranti mungkin berkelip semasa kemas kini.",
+    "CL_CF_FW_afota_step1_content": "Untuk meneruskan kemas kini perisian tegar, sila letakkan perkakas untuk berdiri. Kemas kini perisian tegar tidak boleh dilakukan semasa perkakas sedang berjalan.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Dos biasa: jumlah untuk 30L air"
 }

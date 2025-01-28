@@ -3415,6 +3415,7 @@
     "use_humidity": "A páratartalom szabályozásához használjon páratartalom dobozt",
     "same_day": "Ugyanazon a napon",
     "w_temp_set": "Milyen hőmérsékletre állítsam? (Milyen hőmérsékletre állítsam?)",
+    "asko": "ASKO",
     "eco_meter": "Eco mérő",
     "asko_eco_meter_desc": "A ## egy hasznos intelligens indikátor, amellyel meghatározhatja környezeti hatását a kiválasztott program és extra opciók alapján, ha energia-, víz- és mosószer-fogyasztásról van szó.",
     "wm86_autodose_desc": "Ahelyett, hogy küzdeni kezdene, hagyja, hogy a mosógép pontosan a megfelelő adag mosószert mérje ki. Az Auto Dose rendszerrel felszerelt mosógépeink a mosószer mennyiségét, szennyezettségét, vízkeménységét, programtípusát és hőmérsékletét mérik. Mindig tökéletes adagolás és nincs több túladagolás. Itt állíthatja be az automatikus adagolás alapértelmezett beállításait.",
@@ -4835,5 +4836,11 @@
     "CL_CF_AC_edit_group": "Csoport szerkesztése",
     "CL_CF_WM_cloud_program_title": "Felhőprogramok",
     "CL_CF_WM_download_to_device": "Letöltés eszközökre",
-    "CL_CF_WM_download_to": "Letöltés ide"
+    "CL_CF_WM_download_to": "Letöltés ide",
+    "CL_CF_WM_in_use": "használatban van",
+    "CL_CF_AC_device_off_tips": "Eszköze ki van kapcsolva vagy offline állapotban van.",
+    "CL_CF_FW_set_permission": "A folytatás előtt állítson be engedélyt az eszközön.",
+    "CL_CF_FW_afota_update_warning": "Kérjük, erősítse meg a frissítési folyamatot a készüléken. \n A firmware folyamata letiltja a készülék használatát a frissítés idejére. Az eszköz interfésze villoghat frissítés közben.",
+    "CL_CF_FW_afota_step1_content": "A firmware-frissítés folytatásához állítsa készenléti állapotba a készüléket. A firmware frissítése nem hajtható végre, amíg a készülék működik.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Normál adagolás: 30 liter vízhez szükséges mennyiség"
 }

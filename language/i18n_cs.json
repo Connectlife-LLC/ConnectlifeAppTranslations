@@ -3415,6 +3415,7 @@
     "use_humidity": "K regulaci vlhkosti použijte vlhkostní box",
     "same_day": "V ten samý den",
     "w_temp_set": "Jakou teplotu nastavit?",
+    "asko": "ASKO",
     "eco_meter": "Ekologický měřič",
     "asko_eco_meter_desc": "## je užitečný inteligentní indikátor, který určuje váš dopad na životní prostředí na základě zvoleného programu a dalších možností, pokud jde o spotřebu energie, vody a pracího prostředku.",
     "wm86_autodose_desc": "Místo toho, abyste bojovali, nechte pračku odměřit přesně tu správnou dávku pracího prostředku. Naše pračky se systémem Auto Dose měří prací prostředek podle množství prádla, stupně znečištění, tvrdosti vody, typu programu a teploty. Vždy perfektní dávkování a žádné předávkování. Zde můžete upravit výchozí nastavení pro automatickou dávku.",
@@ -4835,5 +4836,11 @@
     "CL_CF_AC_edit_group": "Upravit skupinu",
     "CL_CF_WM_cloud_program_title": "Cloudové programy",
     "CL_CF_WM_download_to_device": "Stáhnout do zařízení",
-    "CL_CF_WM_download_to": "Stáhnout do"
+    "CL_CF_WM_download_to": "Stáhnout do",
+    "CL_CF_WM_in_use": "v provozu",
+    "CL_CF_AC_device_off_tips": "Vaše zařízení je vypnuté nebo offline.",
+    "CL_CF_FW_set_permission": "Než budete pokračovat, nastavte v zařízení oprávnění.",
+    "CL_CF_FW_afota_update_warning": "Potvrďte prosím proces aktualizace na zařízení. \n Proces firmwaru znemožní použití zařízení po dobu aktualizace. Rozhraní zařízení může během aktualizace blikat.",
+    "CL_CF_FW_afota_step1_content": "Chcete-li pokračovat v aktualizaci firmwaru, uveďte zařízení do pohotovostního režimu. Aktualizaci firmwaru nelze provést, když je zařízení v chodu.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Normální dávkování: množství na 30 l vody"
 }

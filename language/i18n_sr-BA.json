@@ -775,7 +775,7 @@
     "storage_list_empty_title": "Lista skladišta je prazna.\n​",
     "storage_list_empty_hint": "Кликните на дугме „ДОДАЈ СТАВКУ“ да бисте додали ставке на листу складишта.",
     "recipes_title": "Recepti",
-    "washing_wizard": "Vashing Assist",
+    "washing_wizard": "Pomoćnik za pranje",
     "manual_wash": "Pranje",
     "recipes_ingredients": "Састојци",
     "recipes_preparation": "Припрема",
@@ -1764,7 +1764,7 @@
     "bluetooth_settings": "Блуетоотх подешавања",
     "bluetooth_permission_desc": "ЦоннецтЛифе треба приступ вашем Блуетоотх-у",
     "mute_buzzer": "Искључи звук",
-    "drying_wizard": "Čarobnjak za sušenje",
+    "drying_wizard": "Pomoćnik za sušenje",
     "energy_monitoring": "Praćenje potrošnje energije",
     "dry_laundry": "Osuši veš",
     "energy": "Energija",
@@ -3415,6 +3415,7 @@
     "use_humidity": "Користите кутију за влажност да регулишете влажност",
     "same_day": "Исти дан",
     "w_temp_set": "Коју температуру подесити?",
+    "asko": "ASKO",
     "eco_meter": "Eco метар",
     "asko_eco_meter_desc": "## је користан паметни индикатор за одређивање вашег утицаја на животну средину на основу одабраног програма и додатних опција када је у питању потрошња енергије, воде и детерџента.",
     "wm86_autodose_desc": "Уместо да се мучите, оставите машину за прање да тачно измери праву количину детерџента. Наше машине за прање са системом аутоматског дозирања мере детерџент у односу на оптерећење прања, ниво прљавштине, тврдоћу воде, тип програма и температуру. Увек савршено дозирање без прекомерног дозирања. Овде можете подесити подразумевана подешавања за аутоматску дозу.",
@@ -4835,5 +4836,11 @@
     "CL_CF_AC_edit_group": "Уредите групу",
     "CL_CF_WM_cloud_program_title": "Цлоуд програми",
     "CL_CF_WM_download_to_device": "Преузми на уређаје",
-    "CL_CF_WM_download_to": "Преузмите на"
+    "CL_CF_WM_download_to": "Преузмите на",
+    "CL_CF_WM_in_use": "у употреби",
+    "CL_CF_AC_device_off_tips": "Ваш уређај је искључен или ван мреже.",
+    "CL_CF_FW_set_permission": "Подесите дозволу на уређају пре него што наставите.",
+    "CL_CF_FW_afota_update_warning": "Потврдите процес ажурирања на уређају. \n Процес фирмвера ће онемогућити коришћење уређаја током трајања ажурирања. Интерфејс уређаја може да трепери током ажурирања.",
+    "CL_CF_FW_afota_step1_content": "Да бисте наставили са ажурирањем фирмвера, ставите уређај у стање приправности. Ажурирање фирмвера се не може извршити док уређај ради.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Нормална доза: количина за 30Л воде"
 }
