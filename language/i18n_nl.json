@@ -2888,7 +2888,7 @@
     "wm_wizard_title_step3": "Hoe vies is je wasgoed?",
     "wm_wizard_title_step4": "Hoe gevoelig is uw textiel?",
     "wm_wizard_title_step5": "Zitten er speciale vlekken op het wasgoed?",
-    "minutes": "notulen",
+    "minutes": "minuten",
     "send_to_device": "Verzenden naar apparaat",
     "save_to_favorites": "Opslaan in favorieten",
     "run_time_total": "Totale Looptijd",
@@ -3415,6 +3415,7 @@
     "use_humidity": "Gebruik de vochtigheidsbox om de vochtigheid te regelen",
     "same_day": "Op dezelfde dag",
     "w_temp_set": "Welke temperatuur moet ik instellen?",
+    "asko": "ASKO",
     "eco_meter": "Eco-meter",
     "asko_eco_meter_desc": "## is een handige slimme indicator om uw milieu-impact te bepalen op basis van het gekozen programma en extra opties als het gaat om energie-, water- en wasmiddelverbruik.",
     "wm86_autodose_desc": "In plaats van er een strijd van te maken, laat de wasmachine precies de juiste dosering wasmiddel afmeten. Onze wasmachines met Auto Dose-systeem meten het wasmiddel op basis van de waslading, vuilheidsgraad, waterhardheid, programmatype en temperatuur. Altijd de perfecte dosering en geen overdosering meer. Hier kunt u uw standaardinstellingen voor Auto Dose aanpassen.",
@@ -4090,7 +4091,7 @@
     "CL_DV_OV_extra_browning_programs_desc": "Gebruik speciaal ontwikkelde bruiningsprogramma's. Stel het gewenste bruiningsniveau in dat u wenst als resultaat voor uw gerecht.",
     "CL_DV_OV_extra_cleaning": "Schoonmaak",
     "CL_DV_OV_extra_cleaning_desc": "Stapsgewijze reinigingsprogramma's en instructies over hoe u uw oven in optimale conditie houdt.",
-    "CL_DV_OV_extra_stage_cooking": "Toneel koken",
+    "CL_DV_OV_extra_stage_cooking": "Meerfase koken",
     "CL_DV_OV_extra_stage_cooking_desc": "Maak aangepaste kookprogramma's met maximaal 5 verschillende fasen.",
     "CL_DV_OV_extra_defrost_desc": "Een reeks vooraf gedefinieerde programma's om voedsel op de juiste manier te ontdooien, zodat de kwaliteit ervan na het invriezen gewaarborgd blijft.",
     "CL_DV_OV_extra_warming_desc": "Verwarm eerder gekookte gerechten opnieuw met behulp van de vooraf ingestelde ovenprogramma's. Behoudt maximale smaak en textuur.",
@@ -4835,5 +4836,11 @@
     "CL_CF_AC_edit_group": "Een groep bewerken",
     "CL_CF_WM_cloud_program_title": "Cloudprogramma's",
     "CL_CF_WM_download_to_device": "Downloaden naar apparaten",
-    "CL_CF_WM_download_to": "Downloaden naar"
+    "CL_CF_WM_download_to": "Downloaden naar",
+    "CL_CF_WM_in_use": "in gebruik",
+    "CL_CF_AC_device_off_tips": "Uw apparaat is uitgeschakeld of offline.",
+    "CL_CF_FW_set_permission": "Stel toestemming in op het apparaat voordat u verdergaat.",
+    "CL_CF_FW_afota_update_warning": "Bevestig het updateproces op het apparaat. \n Het firmwareproces schakelt het gebruik van het apparaat uit voor de duur van de update. De interface van het apparaat kan knipperen tijdens de update.",
+    "CL_CF_FW_afota_step1_content": "Om door te gaan met de firmware-update, zet u het apparaat in stand-by. Firmware-update kan niet worden uitgevoerd terwijl het apparaat draait.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Normale dosering: de hoeveelheid voor 30L water"
 }
