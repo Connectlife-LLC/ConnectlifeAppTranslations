@@ -3415,6 +3415,7 @@
     "use_humidity": "使用加湿盒调节湿度",
     "same_day": "同一天",
     "w_temp_set": "设置什么温度？",
+    "asko": "阿斯科",
     "eco_meter": "生态计量表",
     "asko_eco_meter_desc": "## 是一个有用的智能指标，可以根据所选程序和额外选项在能源、水和洗涤剂消耗方面确定您对环境的影响。",
     "wm86_autodose_desc": "洗衣机无需费力测量洗涤剂的剂量。我们的洗衣机配有自动剂量系统，可根据洗涤量、脏污程度、水硬度、程序类型和温度测量洗涤剂。始终提供完美的剂量，不会再过量。在这里，您可以调整自动剂量的默认设置。",
@@ -4835,5 +4836,11 @@
     "CL_CF_AC_edit_group": "编辑群组",
     "CL_CF_WM_cloud_program_title": "云程序",
     "CL_CF_WM_download_to_device": "下载至设备",
-    "CL_CF_WM_download_to": "下载至"
+    "CL_CF_WM_download_to": "下载至",
+    "CL_CF_WM_in_use": "使用中",
+    "CL_CF_AC_device_off_tips": "您的设备已关闭或离线。",
+    "CL_CF_FW_set_permission": "继续之前请先设置设备权限。",
+    "CL_CF_FW_afota_update_warning": "请确认设备上的更新过程。L__NEWLINE__ \n过程将在更新期间禁用设备。更新期间设备界面可能会闪烁。",
+    "CL_CF_FW_afota_step1_content": "要继续固件更新，请让设备待机。设备运行时无法进行固件更新。",
+    "CL_DV_WM_normal_dosage_japan_tip": "常规用量：30L水用量"
 }

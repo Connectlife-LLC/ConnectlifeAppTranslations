@@ -3415,6 +3415,7 @@
     "use_humidity": "Brug fugtboks til at regulere fugtigheden",
     "same_day": "Samme dag",
     "w_temp_set": "Hvilken temperatur skal indstilles?",
+    "asko": "ASKO",
     "eco_meter": "Økomåler",
     "asko_eco_meter_desc": "## er en nyttig smart indikator til at bestemme din miljøpåvirkning baseret på det valgte program og ekstra muligheder, når det kommer til energi-, vand- og rengøringsmiddelforbrug.",
     "wm86_autodose_desc": "I stedet for at gøre det til en kamp, ​​lad vaskemaskinen måle præcis den rigtige dosering af vaskemiddel. Vores vaskemaskiner med Auto Dose system måler vaskemidlet mod vaskemængde, snavsniveau, vandhårdhed, programtype og temperatur. Altid perfekt dosering og ikke mere overdosering. Her kan du justere dine standardindstillinger for Auto Dose.",
@@ -4835,5 +4836,11 @@
     "CL_CF_AC_edit_group": "Rediger en gruppe",
     "CL_CF_WM_cloud_program_title": "Cloud programmer",
     "CL_CF_WM_download_to_device": "Download til enheder",
-    "CL_CF_WM_download_to": "Download til"
+    "CL_CF_WM_download_to": "Download til",
+    "CL_CF_WM_in_use": "i brug",
+    "CL_CF_AC_device_off_tips": "Din enhed er slukket eller offline.",
+    "CL_CF_FW_set_permission": "Indstil tilladelse på enheden, før du fortsætter.",
+    "CL_CF_FW_afota_update_warning": "Bekræft venligst opdateringsprocessen på apparatet. \n Firmwareprocessen vil deaktivere brugen af ​​apparatet under opdateringens varighed. Enhedens grænseflade blinker muligvis under opdatering.",
+    "CL_CF_FW_afota_step1_content": "For at fortsætte med firmwareopdateringen skal du sætte apparatet på standby. Firmwareopdatering kan ikke udføres, mens apparatet kører.",
+    "CL_DV_WM_normal_dosage_japan_tip": "Normal dosering: mængden for 30L vand"
 }
