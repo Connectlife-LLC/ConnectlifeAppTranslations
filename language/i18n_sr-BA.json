@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Додајте састојке користећи Цоннецтлифе мобилну апликацију",
     "CL_DV_RF_switch_to_gasket_clean": "Очистите заптивку",
     "CL_DV_RF_gasket_clean_tips": "Да бисте избегли кварове на вашем апарату и продужили његов животни век, очистите заптивку.",
-    "door_openings_total_cooler_title": "Укупно време отварања врата - Хладњак",
-    "door_openings_total_freezer_title": "Укупно време отварања врата - замрзивач"
+    "door_openings_total_times_cooler_title": "Укупно време отварања врата - Хладњак",
+    "door_openings_total_times_freezer_title": "Укупно време отварања врата - замрзивач",
+    "door_openings_total_duration_cooler_title": "Укупно трајање отварања врата - Хладњак",
+    "door_openings_total_duration_freezer_title": "Укупно трајање отварања врата - замрзивач",
+    "CL_TV_DV_things_to_do": "Ствари које треба урадити",
+    "temperature_settings_cooler_title": "Најчешћи темп. постављање",
+    "temperature_settings_freezer_title": "Најчешћа темп. постављање",
+    "total_sc_activations": "Укупно СЦ активација",
+    "total_ff_activations": "Укупно ФФ активација",
+    "CL_DV_WM86_stain_type_oil": "уље",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Парадајз сос",
+    "CL_CF_FM_fridge_position": "ФРИДГЕ ПОСИТИОН",
+    "CL_DV_RF_sf_remaining_mins": "Тренутно у супер замрзнутом стању са ** преосталих минута.",
+    "edit_food_delete_tips_title": "Наслов: УКЛОНИТИ ОВУ ХРАНИ ?",
+    "edit_food_delete_tips_content": "Уклањање ове намирнице значи да више није у вашем фрижидеру осим ако је не попуните следећи пут.",
+    "remove_food": "УКЛОНИТЕ ХРАНИ",
+    "CL_CF_WM_pumo_clean_running_tip": "Чишћење пумпе је у току, тренутна операција се не може завршити!"
 }

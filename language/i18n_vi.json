@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Thêm thành phần bằng ứng dụng di động connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "Làm sạch miếng đệm",
     "CL_DV_RF_gasket_clean_tips": "Để tránh thiết bị hoạt động không bình thường và kéo dài tuổi thọ của thiết bị, hãy vệ sinh miếng đệm.",
-    "door_openings_total_cooler_title": "Tổng thời gian mở cửa - Tủ lạnh",
-    "door_openings_total_freezer_title": "Tổng thời gian mở cửa - Tủ đông"
+    "door_openings_total_times_cooler_title": "Tổng thời gian mở cửa - Tủ lạnh",
+    "door_openings_total_times_freezer_title": "Tổng thời gian mở cửa - Tủ đông",
+    "door_openings_total_duration_cooler_title": "Tổng thời gian mở cửa - Tủ lạnh",
+    "door_openings_total_duration_freezer_title": "Tổng thời gian mở cửa - Tủ đông",
+    "CL_TV_DV_things_to_do": "Những việc cần làm",
+    "temperature_settings_cooler_title": "Cài đặt nhiệt độ làm mát phổ biến nhất",
+    "temperature_settings_freezer_title": "Cài đặt nhiệt độ tủ đông phổ biến nhất",
+    "total_sc_activations": "Tổng số kích hoạt SC",
+    "total_ff_activations": "Tổng số kích hoạt FF",
+    "CL_DV_WM86_stain_type_oil": "Dầu",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Sốt cà chua",
+    "CL_CF_FM_fridge_position": "VỊ TRÍ TỦ LẠNH",
+    "CL_DV_RF_sf_remaining_mins": "Hiện đang trong tình trạng siêu đông lạnh với ** phút còn lại.",
+    "edit_food_delete_tips_title": "Tiêu đề: LOẠI BỎ THỰC PHẨM NÀY ?",
+    "edit_food_delete_tips_content": "Bỏ loại thực phẩm này có nghĩa là nó sẽ không còn trong tủ lạnh của bạn nữa trừ khi bạn dự trữ lại vào lần sau.",
+    "remove_food": "LOẠI BỎ THỰC PHẨM",
+    "CL_CF_WM_pumo_clean_running_tip": "Đang tiến hành vệ sinh máy bơm, không thể hoàn thành thao tác hiện tại!"
 }

@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Voeg ingrediënten toe met behulp van de Connectlife mobiele app",
     "CL_DV_RF_switch_to_gasket_clean": "Maak de pakking schoon",
     "CL_DV_RF_gasket_clean_tips": "Om storingen aan uw apparaat te voorkomen en de levensduur ervan te verlengen, dient u de pakking schoon te maken.",
-    "door_openings_total_cooler_title": "Totale openingstijden deur - Koeler",
-    "door_openings_total_freezer_title": "Totale openingstijden deur - Vriezer"
+    "door_openings_total_times_cooler_title": "Totale openingstijden deur - Koeler",
+    "door_openings_total_times_freezer_title": "Totale openingstijden deur - Vriezer",
+    "door_openings_total_duration_cooler_title": "Totale deuropeningsduur - Koeler",
+    "door_openings_total_duration_freezer_title": "Totale duur van deuropeningen - Vriezer",
+    "CL_TV_DV_things_to_do": "Dingen om te doen",
+    "temperature_settings_cooler_title": "Meest voorkomende koelertemperatuurinstelling",
+    "temperature_settings_freezer_title": "Meest voorkomende vriezertemperatuurinstelling",
+    "total_sc_activations": "Totale SC-activaties",
+    "total_ff_activations": "Totaal aantal FF-activaties",
+    "CL_DV_WM86_stain_type_oil": "Olie",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Tomatensaus",
+    "CL_CF_FM_fridge_position": "KOELKASTPOSITIE",
+    "CL_DV_RF_sf_remaining_mins": "Momenteel in de vriezer met nog ** minuten over.",
+    "edit_food_delete_tips_title": "Titel: DIT VOEDSEL VERWIJDEREN?",
+    "edit_food_delete_tips_content": "Als u dit voedsel verwijdert, betekent dit dat het niet meer in uw koelkast staat, tenzij u het de volgende keer aanvult.",
+    "remove_food": "VERWIJDER VOEDSEL",
+    "CL_CF_WM_pumo_clean_running_tip": "De pompreiniging is bezig, de huidige bewerking kan niet worden voltooid!"
 }

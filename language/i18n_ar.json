@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "أضف المكونات باستخدام تطبيق connectlife للجوال",
     "CL_DV_RF_switch_to_gasket_clean": "تنظيف الحشية",
     "CL_DV_RF_gasket_clean_tips": "لتجنب حدوث أي أعطال في جهازك وإطالة عمره، قم بتنظيف الحشية.",
-    "door_openings_total_cooler_title": "إجمالي أوقات فتح الباب - المبرد",
-    "door_openings_total_freezer_title": "إجمالي أوقات فتح الباب - الفريزر"
+    "door_openings_total_times_cooler_title": "إجمالي أوقات فتح الباب - المبرد",
+    "door_openings_total_times_freezer_title": "إجمالي أوقات فتح الباب - الفريزر",
+    "door_openings_total_duration_cooler_title": "المدة الإجمالية لفتحات الأبواب - المبرد",
+    "door_openings_total_duration_freezer_title": "المدة الإجمالية لفتحات الأبواب - الفريزر",
+    "CL_TV_DV_things_to_do": "الأشياء التي يجب القيام بها",
+    "temperature_settings_cooler_title": "إعداد درجة الحرارة الأكثر شيوعًا",
+    "temperature_settings_freezer_title": "إعدادات درجة حرارة الفريزر الأكثر شيوعًا",
+    "total_sc_activations": "إجمالي عمليات تنشيط الخلايا الجذعية",
+    "total_ff_activations": "إجمالي عمليات تنشيط FF",
+    "CL_DV_WM86_stain_type_oil": "زيت",
+    "CL_DV_WM86_stain_type_tomato_sauce": "صلصة الطماطم",
+    "CL_CF_FM_fridge_position": "موضع الثلاجة",
+    "CL_DV_RF_sf_remaining_mins": "حاليًا في حالة تجميد شديد مع ** دقيقة متبقية.",
+    "edit_food_delete_tips_title": "العنوان: إزالة هذا الطعام؟",
+    "edit_food_delete_tips_content": "إن إزالة هذا الطعام يعني أنه لم يعد موجودًا في ثلاجتك إلا إذا قمت بتجديد مخزونه في المرة القادمة.",
+    "remove_food": "إزالة الطعام",
+    "CL_CF_WM_pumo_clean_running_tip": "جاري تنظيف المضخة، لا يمكن إكمال العملية الحالية!"
 }

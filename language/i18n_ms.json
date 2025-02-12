@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Tambahkan bahan menggunakan apl mudah alih connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "Bersihkan gasket",
     "CL_DV_RF_gasket_clean_tips": "Untuk mengelakkan kerosakan pada perkakas anda dan memanjangkan hayatnya, bersihkan gasket.",
-    "door_openings_total_cooler_title": "Jumlah masa pembukaan Pintu - Lebih sejuk",
-    "door_openings_total_freezer_title": "Jumlah masa buka Pintu - Peti sejuk beku"
+    "door_openings_total_times_cooler_title": "Jumlah masa pembukaan Pintu - Lebih sejuk",
+    "door_openings_total_times_freezer_title": "Jumlah masa buka Pintu - Peti sejuk beku",
+    "door_openings_total_duration_cooler_title": "Jumlah tempoh bukaan Pintu - Penyejuk",
+    "door_openings_total_duration_freezer_title": "Jumlah tempoh bukaan Pintu - Peti sejuk beku",
+    "CL_TV_DV_things_to_do": "Perkara yang perlu dilakukan",
+    "temperature_settings_cooler_title": "Suhu Penyejuk yang paling biasa. tetapan",
+    "temperature_settings_freezer_title": "Suhu beku yang paling biasa. tetapan",
+    "total_sc_activations": "Jumlah pengaktifan SC",
+    "total_ff_activations": "Jumlah pengaktifan FF",
+    "CL_DV_WM86_stain_type_oil": "Minyak",
+    "CL_DV_WM86_stain_type_tomato_sauce": "sos tomato",
+    "CL_CF_FM_fridge_position": "KEDUDUKAN PETI SEJUK",
+    "CL_DV_RF_sf_remaining_mins": "Pada masa ini dalam keadaan beku super dengan baki ** minit lagi.",
+    "edit_food_delete_tips_title": "Tajuk: KELUARKAN MAKANAN INI ?",
+    "edit_food_delete_tips_content": "Mengeluarkan makanan ini bermakna ia tidak lagi berada di dalam peti sejuk anda melainkan anda menyimpannya semula pada masa akan datang.",
+    "remove_food": "KELUARKAN MAKANAN",
+    "CL_CF_WM_pumo_clean_running_tip": "Pembersihan pam sedang dijalankan, operasi semasa tidak dapat diselesaikan!"
 }
