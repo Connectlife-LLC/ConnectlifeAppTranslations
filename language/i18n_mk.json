@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Додадете состојки користејќи ја мобилната апликација Connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "Исчистете го заптивката",
     "CL_DV_RF_gasket_clean_tips": "За да избегнете дефекти на вашиот апарат и да го продолжите неговиот животен век, исчистете ја дихтунгот.",
-    "door_openings_total_cooler_title": "Вкупно времиња на отворање на вратите - Кулер",
-    "door_openings_total_freezer_title": "Вкупно времиња на отворање на вратите - Замрзнувач"
+    "door_openings_total_times_cooler_title": "Вкупно времиња на отворање на вратите - Кулер",
+    "door_openings_total_times_freezer_title": "Вкупно времиња на отворање на вратите - Замрзнувач",
+    "door_openings_total_duration_cooler_title": "Вкупно времетраење на отворите на вратите - Кулер",
+    "door_openings_total_duration_freezer_title": "Вкупно времетраење на отворите на вратите - Замрзнувач",
+    "CL_TV_DV_things_to_do": "Работи кои треба да се направат",
+    "temperature_settings_cooler_title": "Најчеста температура на ладилникот. поставување",
+    "temperature_settings_freezer_title": "Најчеста температура на замрзнувачот. поставување",
+    "total_sc_activations": "Вкупно SC активации",
+    "total_ff_activations": "Вкупно FF активации",
+    "CL_DV_WM86_stain_type_oil": "Масло",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Сос од домати",
+    "CL_CF_FM_fridge_position": "ПОЛОЖБА НА ФРИЖИДЕР",
+    "CL_DV_RF_sf_remaining_mins": "Во моментов е во супер замрзнување со преостанати ** минути.",
+    "edit_food_delete_tips_title": "Наслов: ДА СЕ ОТСТРАНИ ОВАА ХРАНА?",
+    "edit_food_delete_tips_content": "Отстранувањето на оваа храна значи дека таа повеќе не е во вашиот фрижидер освен ако не ја наполните повторно следниот пат.",
+    "remove_food": "ОТСТРАНИ ХРАНАТА",
+    "CL_CF_WM_pumo_clean_running_tip": "Чистењето на пумпата е во тек, тековната работа не може да се заврши!"
 }

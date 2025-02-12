@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Connectlife mobil uygulamasını kullanarak malzemeleri ekleyin",
     "CL_DV_RF_switch_to_gasket_clean": "Contayı temizleyin",
     "CL_DV_RF_gasket_clean_tips": "Cihazınızın arızalanmasını önlemek ve ömrünü uzatmak için conta temizliğini mutlaka yaptırın.",
-    "door_openings_total_cooler_title": "Toplam Kapı açılış saatleri - Soğutucu",
-    "door_openings_total_freezer_title": "Toplam Kapı açılış saatleri - Dondurucu"
+    "door_openings_total_times_cooler_title": "Toplam Kapı açılış saatleri - Soğutucu",
+    "door_openings_total_times_freezer_title": "Toplam Kapı açılış saatleri - Dondurucu",
+    "door_openings_total_duration_cooler_title": "Toplam Kapı açılış süresi - Soğutucu",
+    "door_openings_total_duration_freezer_title": "Toplam Kapı açılış süresi - Dondurucu",
+    "CL_TV_DV_things_to_do": "Yapılacak şeyler",
+    "temperature_settings_cooler_title": "En yaygın Soğutucu sıcaklık ayarı",
+    "temperature_settings_freezer_title": "En yaygın Dondurucu sıcaklık ayarı",
+    "total_sc_activations": "Toplam SC aktivasyonları",
+    "total_ff_activations": "Toplam FF aktivasyonları",
+    "CL_DV_WM86_stain_type_oil": "Yağ",
+    "CL_DV_WM86_stain_type_tomato_sauce": "domates sosu",
+    "CL_CF_FM_fridge_position": "BUZDOLABI POZİSYONU",
+    "CL_DV_RF_sf_remaining_mins": "Şu anda aşırı dondurma durumunda, ** dakika kaldı.",
+    "edit_food_delete_tips_title": "Başlık: BU YEMEĞİ KALDIRALIM MI?",
+    "edit_food_delete_tips_content": "Bu yiyecekleri buzdolabınızdan çıkardığınızda, bir dahaki sefere tekrar stoklamadığınız sürece artık buzdolabınızda olmayacağı anlamına gelir.",
+    "remove_food": "YİYECEKLERİ KALDIRIN",
+    "CL_CF_WM_pumo_clean_running_tip": "Pompa temizliği devam ediyor, mevcut işlem tamamlanamıyor!"
 }

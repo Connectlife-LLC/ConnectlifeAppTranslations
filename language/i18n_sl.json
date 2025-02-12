@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Dodajte sestavine z mobilno aplikacijo Connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "Očistite tesnilo",
     "CL_DV_RF_gasket_clean_tips": "Da preprečite motnje v delovanju aparata in podaljšate njegovo življenjsko dobo, očistite tesnilo.",
-    "door_openings_total_cooler_title": "Skupni časi odpiranja vrat - hladilnik",
-    "door_openings_total_freezer_title": "Skupni časi odpiranja vrat - zamrzovalnik"
+    "door_openings_total_times_cooler_title": "Skupni časi odpiranja vrat - hladilnik",
+    "door_openings_total_times_freezer_title": "Skupni časi odpiranja vrat - zamrzovalnik",
+    "door_openings_total_duration_cooler_title": "Skupno trajanje odpiranja vrat - hladilnik",
+    "door_openings_total_duration_freezer_title": "Skupno trajanje odpiranja vrat - zamrzovalnik",
+    "CL_TV_DV_things_to_do": "Stvari za početi",
+    "temperature_settings_cooler_title": "Najpogostejša hladilna temp. nastavitev",
+    "temperature_settings_freezer_title": "Najpogostejša temp. nastavitev",
+    "total_sc_activations": "Skupne aktivacije SC",
+    "total_ff_activations": "Skupne aktivacije FF",
+    "CL_DV_WM86_stain_type_oil": "Olje",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Paradižnikova omaka",
+    "CL_CF_FM_fridge_position": "POLOŽAJ HLADILNIKA",
+    "CL_DV_RF_sf_remaining_mins": "Trenutno v super zamrznjenem stanju s preostalimi ** minutami.",
+    "edit_food_delete_tips_title": "Naslov: ODSTRANITE TO HRANO?",
+    "edit_food_delete_tips_content": "Odstranitev tega živila pomeni, da ga ni več v vašem hladilniku, razen če ga naslednjič obnovite.",
+    "remove_food": "ODSTRANI HRANO",
+    "CL_CF_WM_pumo_clean_running_tip": "Čiščenje črpalke je v teku, trenutne operacije ni mogoče dokončati!"
 }

@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Connectlife 모바일 앱을 사용하여 재료를 추가하세요",
     "CL_DV_RF_switch_to_gasket_clean": "개스킷을 청소하세요",
     "CL_DV_RF_gasket_clean_tips": "기기의 오작동을 방지하고 수명을 연장하려면 개스킷을 청소하세요.",
-    "door_openings_total_cooler_title": "총 문 개방 시간 - 쿨러",
-    "door_openings_total_freezer_title": "총 문 개방 시간 - 냉동고"
+    "door_openings_total_times_cooler_title": "총 문 개방 시간 - 쿨러",
+    "door_openings_total_times_freezer_title": "총 문 개방 시간 - 냉동고",
+    "door_openings_total_duration_cooler_title": "총 도어 개방 시간 - 쿨러",
+    "door_openings_total_duration_freezer_title": "총 도어 개방 시간 - 냉동고",
+    "CL_TV_DV_things_to_do": "할 일",
+    "temperature_settings_cooler_title": "가장 일반적인 쿨러 온도 설정",
+    "temperature_settings_freezer_title": "가장 일반적인 냉동고 온도 설정",
+    "total_sc_activations": "총 SC 활성화",
+    "total_ff_activations": "총 FF 활성화",
+    "CL_DV_WM86_stain_type_oil": "기름",
+    "CL_DV_WM86_stain_type_tomato_sauce": "토마토 소스",
+    "CL_CF_FM_fridge_position": "냉장고 위치",
+    "CL_DV_RF_sf_remaining_mins": "현재 극저온 상태이며 **분 남았습니다.",
+    "edit_food_delete_tips_title": "제목: 이 음식을 제거하시겠습니까?",
+    "edit_food_delete_tips_content": "이 음식을 제거하면 다음에 다시 구입하지 않는 한 더 이상 냉장고에 보관할 수 없습니다.",
+    "remove_food": "음식을 제거하세요",
+    "CL_CF_WM_pumo_clean_running_tip": "펌프 청소가 진행 중이므로 현재 작업을 완료할 수 없습니다!"
 }
