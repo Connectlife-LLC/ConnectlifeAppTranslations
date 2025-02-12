@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Lisää ainekset Connectlife-mobiilisovelluksella",
     "CL_DV_RF_switch_to_gasket_clean": "Puhdista tiiviste",
     "CL_DV_RF_gasket_clean_tips": "Puhdista tiiviste laitteen toimintahäiriöiden välttämiseksi ja sen käyttöiän pidentämiseksi.",
-    "door_openings_total_cooler_title": "Ovien aukioloajat yhteensä - Cooler",
-    "door_openings_total_freezer_title": "Ovien aukioloajat yhteensä - Pakastin"
+    "door_openings_total_times_cooler_title": "Ovien aukioloajat yhteensä - Cooler",
+    "door_openings_total_times_freezer_title": "Ovien aukioloajat yhteensä - Pakastin",
+    "door_openings_total_duration_cooler_title": "Ovien aukkojen kokonaiskesto - Cooler",
+    "door_openings_total_duration_freezer_title": "Ovien aukkojen kokonaiskesto - Pakastin",
+    "CL_TV_DV_things_to_do": "Tekemistä",
+    "temperature_settings_cooler_title": "Yleisin jäähdytinlämpötila. asetusta",
+    "temperature_settings_freezer_title": "Yleisin pakastimen lämpötila. asetusta",
+    "total_sc_activations": "SC-aktivointien kokonaismäärä",
+    "total_ff_activations": "FF-aktivointien kokonaismäärä",
+    "CL_DV_WM86_stain_type_oil": "Öljy",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Tomaattikastike",
+    "CL_CF_FM_fridge_position": "JÄÄKAAPIN ASENTO",
+    "CL_DV_RF_sf_remaining_mins": "Tällä hetkellä superjäädytettynä, ** minuuttia jäljellä.",
+    "edit_food_delete_tips_title": "Otsikko: POISTA TÄMÄ RUOKA?",
+    "edit_food_delete_tips_content": "Tämän ruoan poistaminen tarkoittaa, että se ei ole enää jääkaapissasi, ellet lisää sitä seuraavalla kerralla.",
+    "remove_food": "POISTA RUOKA",
+    "CL_CF_WM_pumo_clean_running_tip": "Pumpun puhdistus on käynnissä, nykyistä toimintoa ei voida suorittaa loppuun!"
 }

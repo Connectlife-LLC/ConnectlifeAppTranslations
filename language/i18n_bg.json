@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Добавете съставки с помощта на мобилното приложение connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "Почистете уплътнението",
     "CL_DV_RF_gasket_clean_tips": "За да избегнете неизправности на вашия уред и да удължите живота му, почистете уплътнението.",
-    "door_openings_total_cooler_title": "Общо време за отваряне на вратата - охладител",
-    "door_openings_total_freezer_title": "Общо време за отваряне на вратата - Фризер"
+    "door_openings_total_times_cooler_title": "Общо време за отваряне на вратата - охладител",
+    "door_openings_total_times_freezer_title": "Общо време за отваряне на вратата - Фризер",
+    "door_openings_total_duration_cooler_title": "Обща продължителност на отваряне на вратата - охладител",
+    "door_openings_total_duration_freezer_title": "Обща продължителност на отваряне на врати - Фризер",
+    "CL_TV_DV_things_to_do": "Неща за правене",
+    "temperature_settings_cooler_title": "Най-често срещаната Темп. настройка",
+    "temperature_settings_freezer_title": "Най-често срещаната температура на фризера настройка",
+    "total_sc_activations": "Общо SC активации",
+    "total_ff_activations": "Общо FF активации",
+    "CL_DV_WM86_stain_type_oil": "Масло",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Доматен сос",
+    "CL_CF_FM_fridge_position": "ХЛАДИЛНА ПОЗИЦИЯ",
+    "CL_DV_RF_sf_remaining_mins": "В момента е в режим на супер замръзване с оставащи ** минути.",
+    "edit_food_delete_tips_title": "Заглавие: ПРЕМАХНЕТЕ ЛИ ТАЗИ ХРАНА?",
+    "edit_food_delete_tips_content": "Премахването на тази храна означава, че тя вече не е във вашия хладилник, освен ако не я презаредите следващия път.",
+    "remove_food": "ПРЕМАХНЕТЕ ХРАНАТА",
+    "CL_CF_WM_pumo_clean_running_tip": "Почистването на помпата е в ход, текущата операция не може да бъде завършена!"
 }

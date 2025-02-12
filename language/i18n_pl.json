@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Dodaj składniki za pomocą aplikacji mobilnej Connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "Wyczyść uszczelkę",
     "CL_DV_RF_gasket_clean_tips": "Aby zapobiec awarii urządzenia i przedłużyć jego żywotność, należy czyścić uszczelkę.",
-    "door_openings_total_cooler_title": "Całkowity czas otwarcia drzwi - Chłodnia",
-    "door_openings_total_freezer_title": "Całkowity czas otwarcia drzwi - Zamrażarka"
+    "door_openings_total_times_cooler_title": "Całkowity czas otwarcia drzwi - Chłodnia",
+    "door_openings_total_times_freezer_title": "Całkowity czas otwarcia drzwi - Zamrażarka",
+    "door_openings_total_duration_cooler_title": "Całkowity czas otwarcia drzwi - Chłodnica",
+    "door_openings_total_duration_freezer_title": "Całkowity czas otwierania drzwi - Zamrażarka",
+    "CL_TV_DV_things_to_do": "Rzeczy do zrobienia",
+    "temperature_settings_cooler_title": "Najczęstsze ustawienie temperatury chłodnicy",
+    "temperature_settings_freezer_title": "Najczęstsze ustawienie temperatury zamrażarki",
+    "total_sc_activations": "Łączna liczba aktywacji SC",
+    "total_ff_activations": "Łączna liczba aktywacji FF",
+    "CL_DV_WM86_stain_type_oil": "Olej",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Sos pomidorowy",
+    "CL_CF_FM_fridge_position": "Pozycja lodówki",
+    "CL_DV_RF_sf_remaining_mins": "Aktualnie w trybie superfreeze, pozostało ** minut.",
+    "edit_food_delete_tips_title": "Tytuł: USUNĄĆ TO JEDZENIE?",
+    "edit_food_delete_tips_content": "Usunięcie tej żywności oznacza, że nie będzie jej już w lodówce, chyba że następnym razem ją uzupełnisz.",
+    "remove_food": "USUŃ JEDZENIE",
+    "CL_CF_WM_pumo_clean_running_tip": "Trwa czyszczenie pompy, bieżąca operacja nie może zostać ukończona!"
 }

@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Προσθέστε συστατικά χρησιμοποιώντας την εφαρμογή Connectlife για κινητά",
     "CL_DV_RF_switch_to_gasket_clean": "Καθαρίστε τη φλάντζα",
     "CL_DV_RF_gasket_clean_tips": "Για να αποφύγετε δυσλειτουργίες της συσκευής σας και να παρατείνετε τη διάρκεια ζωής της, καθαρίστε τη φλάντζα.",
-    "door_openings_total_cooler_title": "Συνολικοί χρόνοι ανοίγματος πόρτας - Ψύκτη",
-    "door_openings_total_freezer_title": "Συνολικοί χρόνοι ανοίγματος πόρτας - Καταψύκτη"
+    "door_openings_total_times_cooler_title": "Συνολικοί χρόνοι ανοίγματος πόρτας - Ψύκτη",
+    "door_openings_total_times_freezer_title": "Συνολικοί χρόνοι ανοίγματος πόρτας - Καταψύκτη",
+    "door_openings_total_duration_cooler_title": "Συνολική διάρκεια ανοιγμάτων θυρών - Ψύκτη",
+    "door_openings_total_duration_freezer_title": "Συνολική διάρκεια ανοιγμάτων θυρών - Καταψύκτη",
+    "CL_TV_DV_things_to_do": "Πράγματα που πρέπει να κάνετε",
+    "temperature_settings_cooler_title": "Η πιο συνηθισμένη θερμοκρασία ψύξης. σύνθεση",
+    "temperature_settings_freezer_title": "Η πιο συνηθισμένη θερμοκρασία καταψύκτη. σύνθεση",
+    "total_sc_activations": "Συνολικές ενεργοποιήσεις SC",
+    "total_ff_activations": "Συνολικές ενεργοποιήσεις FF",
+    "CL_DV_WM86_stain_type_oil": "Ελαιο",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Σάλτσα ντομάτας",
+    "CL_CF_FM_fridge_position": "ΘΕΣΗ ΨΥΓΕΙΟΥ",
+    "CL_DV_RF_sf_remaining_mins": "Αυτήν τη στιγμή βρίσκεται σε υπερπάγωμα με ** λεπτά.",
+    "edit_food_delete_tips_title": "Τίτλος: ΚΑΤΑΡΓΗΣΗ ΑΥΤΟΥ ΤΟΥ ΤΡΟΦΙΜΟΥ ;",
+    "edit_food_delete_tips_content": "Η αφαίρεση αυτού του τροφίμου σημαίνει ότι δεν είναι πλέον στο ψυγείο σας, εκτός αν το ξαναγεμίσετε την επόμενη φορά.",
+    "remove_food": "ΑΦΑΙΡΕΣΤΕ ΤΡΟΦΙΜΑ",
+    "CL_CF_WM_pumo_clean_running_tip": "Ο καθαρισμός της αντλίας βρίσκεται σε εξέλιξη, η τρέχουσα λειτουργία δεν μπορεί να ολοκληρωθεί!"
 }

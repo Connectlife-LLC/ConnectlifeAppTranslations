@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "เพิ่มส่วนผสมโดยใช้แอปมือถือ Connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "ทำความสะอาดปะเก็น",
     "CL_DV_RF_gasket_clean_tips": "เพื่อหลีกเลี่ยงการทำงานผิดปกติของเครื่องใช้และยืดอายุการใช้งาน ควรทำความสะอาดปะเก็น",
-    "door_openings_total_cooler_title": "เวลาเปิดประตูทั้งหมด - เครื่องทำความเย็น",
-    "door_openings_total_freezer_title": "เวลาเปิดประตูทั้งหมด - ช่องแช่แข็ง"
+    "door_openings_total_times_cooler_title": "เวลาเปิดประตูทั้งหมด - เครื่องทำความเย็น",
+    "door_openings_total_times_freezer_title": "เวลาเปิดประตูทั้งหมด - ช่องแช่แข็ง",
+    "door_openings_total_duration_cooler_title": "รวมระยะเวลาเปิดประตู - เครื่องทำความเย็น",
+    "door_openings_total_duration_freezer_title": "ระยะเวลาการเปิดประตูทั้งหมด - ช่องแช่แข็ง",
+    "CL_TV_DV_things_to_do": "สิ่งที่ต้องทำ",
+    "temperature_settings_cooler_title": "การตั้งค่าอุณหภูมิเครื่องทำความเย็นที่พบบ่อยที่สุด",
+    "temperature_settings_freezer_title": "การตั้งค่าอุณหภูมิช่องแช่แข็งที่พบบ่อยที่สุด",
+    "total_sc_activations": "การเปิดใช้งาน SC ทั้งหมด",
+    "total_ff_activations": "จำนวนการเปิดใช้งาน FF ทั้งหมด",
+    "CL_DV_WM86_stain_type_oil": "น้ำมัน",
+    "CL_DV_WM86_stain_type_tomato_sauce": "ซอสมะเขือเทศ",
+    "CL_CF_FM_fridge_position": "ตำแหน่งตู้เย็น",
+    "CL_DV_RF_sf_remaining_mins": "ขณะนี้อยู่ในสภาวะแช่แข็งสุดๆ เหลือเวลาอีก ** นาที",
+    "edit_food_delete_tips_title": "ชื่อเรื่อง : เอาอาหารนี้ออก ?",
+    "edit_food_delete_tips_content": "การนำอาหารเหล่านี้ออกไปหมายความว่าอาหารดังกล่าวจะไม่อยู่ในตู้เย็นของคุณอีกต่อไป เว้นแต่คุณจะนำไปเติมใหม่ในครั้งต่อไป",
+    "remove_food": "เอาอาหารออก",
+    "CL_CF_WM_pumo_clean_running_tip": "การทำความสะอาดปั๊มกำลังดำเนินการอยู่ ไม่สามารถดำเนินการปัจจุบันให้เสร็จสมบูรณ์ได้!"
 }
