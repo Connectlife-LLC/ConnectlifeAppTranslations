@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Добавьте ингредиенты с помощью мобильного приложения connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "Очистите прокладку.",
     "CL_DV_RF_gasket_clean_tips": "Чтобы избежать неисправностей вашего прибора и продлить срок его службы, очистите прокладку.",
-    "door_openings_total_cooler_title": "Общее время открытия двери - охладитель",
-    "door_openings_total_freezer_title": "Общее количество открываний двери - Морозильная камера"
+    "door_openings_total_times_cooler_title": "Общее время открытия двери - охладитель",
+    "door_openings_total_times_freezer_title": "Общее количество открываний двери - Морозильная камера",
+    "door_openings_total_duration_cooler_title": "Общая продолжительность открывания двери - охладитель",
+    "door_openings_total_duration_freezer_title": "Общая продолжительность открывания двери - Морозильная камера",
+    "CL_TV_DV_things_to_do": "Чем заняться",
+    "temperature_settings_cooler_title": "Наиболее распространенная настройка температуры охладителя",
+    "temperature_settings_freezer_title": "Наиболее распространенная настройка температуры морозильной камеры",
+    "total_sc_activations": "Общее количество активаций SC",
+    "total_ff_activations": "Всего активаций FF",
+    "CL_DV_WM86_stain_type_oil": "Масло",
+    "CL_DV_WM86_stain_type_tomato_sauce": "томатный соус",
+    "CL_CF_FM_fridge_position": "ПОЛОЖЕНИЕ ХОЛОДИЛЬНИКА",
+    "CL_DV_RF_sf_remaining_mins": "В настоящее время выполняется суперзаморозка, осталось ** минут.",
+    "edit_food_delete_tips_title": "Заголовок: УДАЛИТЬ ЭТУ ЕДУ?",
+    "edit_food_delete_tips_content": "Удаление этого продукта означает, что он больше не будет в вашем холодильнике, если только вы не пополните его запасы в следующий раз.",
+    "remove_food": "УДАЛИТЬ ПИЩУ",
+    "CL_CF_WM_pumo_clean_running_tip": "Выполняется очистка насоса, текущая операция не может быть завершена!"
 }

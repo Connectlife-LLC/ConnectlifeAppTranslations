@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Agregue ingredientes usando la aplicación móvil connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "Limpiar la junta",
     "CL_DV_RF_gasket_clean_tips": "Para evitar fallos en el funcionamiento de su aparato y prolongar su vida útil, limpie la junta.",
-    "door_openings_total_cooler_title": "Tiempo total de apertura de puerta - Enfriador",
-    "door_openings_total_freezer_title": "Tiempo total de apertura de puerta - Congelador"
+    "door_openings_total_times_cooler_title": "Tiempo total de apertura de puerta - Enfriador",
+    "door_openings_total_times_freezer_title": "Tiempo total de apertura de puerta - Congelador",
+    "door_openings_total_duration_cooler_title": "Duración total de apertura de puertas - Enfriador",
+    "door_openings_total_duration_freezer_title": "Duración total de apertura de puertas - Congelador",
+    "CL_TV_DV_things_to_do": "Cosas que hacer",
+    "temperature_settings_cooler_title": "Configuración de temperatura del enfriador más común",
+    "temperature_settings_freezer_title": "Configuración de temperatura del congelador más común",
+    "total_sc_activations": "Activaciones totales de SC",
+    "total_ff_activations": "Activaciones totales de FF",
+    "CL_DV_WM86_stain_type_oil": "Aceite",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Salsa de tomate",
+    "CL_CF_FM_fridge_position": "POSICIÓN DEL FRIGORÍFICO",
+    "CL_DV_RF_sf_remaining_mins": "Actualmente en súper congelamiento con ** minutos restantes.",
+    "edit_food_delete_tips_title": "Título: ¿QUITAR ESTE ALIMENTO?",
+    "edit_food_delete_tips_content": "Eliminar este alimento significa que ya no estará en tu refrigerador a menos que lo vuelvas a almacenar la próxima vez.",
+    "remove_food": "ELIMINAR ALIMENTOS",
+    "CL_CF_WM_pumo_clean_running_tip": "La limpieza de la bomba está en curso, ¡la operación actual no se puede completar!"
 }

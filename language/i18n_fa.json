@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "با استفاده از برنامه موبایل Connectlife مواد را اضافه کنید",
     "CL_DV_RF_switch_to_gasket_clean": "واشر را تمیز کنید",
     "CL_DV_RF_gasket_clean_tips": "برای جلوگیری از خرابی دستگاه و افزایش طول عمر آن، واشر را تمیز کنید.",
-    "door_openings_total_cooler_title": "مجموع زمان باز شدن درب - کولر",
-    "door_openings_total_freezer_title": "مجموع زمان باز شدن درب - فریزر"
+    "door_openings_total_times_cooler_title": "مجموع زمان باز شدن درب - کولر",
+    "door_openings_total_times_freezer_title": "مجموع زمان باز شدن درب - فریزر",
+    "door_openings_total_duration_cooler_title": "مدت زمان باز شدن درب - کولر",
+    "door_openings_total_duration_freezer_title": "کل مدت باز شدن درب - فریزر",
+    "CL_TV_DV_things_to_do": "کارهایی که باید انجام داد",
+    "temperature_settings_cooler_title": "رایج ترین دمای خنک کننده تنظیم",
+    "temperature_settings_freezer_title": "رایج ترین دمای فریزر تنظیم",
+    "total_sc_activations": "کل فعال سازی SC",
+    "total_ff_activations": "کل فعال سازی FF",
+    "CL_DV_WM86_stain_type_oil": "روغن",
+    "CL_DV_WM86_stain_type_tomato_sauce": "سس گوجه فرنگی",
+    "CL_CF_FM_fridge_position": "موقعیت یخچال",
+    "CL_DV_RF_sf_remaining_mins": "در حال حاضر در حالت انجماد فوق العاده با ** دقیقه باقی مانده است.",
+    "edit_food_delete_tips_title": "عنوان: حذف این غذا؟",
+    "edit_food_delete_tips_content": "حذف این غذا به این معنی است که دیگر در یخچال شما نیست مگر اینکه دفعه بعد دوباره آن را ذخیره کنید.",
+    "remove_food": "غذا را حذف کنید",
+    "CL_CF_WM_pumo_clean_running_tip": "تمیز کردن پمپ در حال انجام است، عملیات فعلی تکمیل نمی شود!"
 }

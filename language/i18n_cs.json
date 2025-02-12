@@ -4887,6 +4887,21 @@
     "CL_TV_FM_add_ingredients": "Přidejte přísady pomocí mobilní aplikace connectlife",
     "CL_DV_RF_switch_to_gasket_clean": "Vyčistěte těsnění",
     "CL_DV_RF_gasket_clean_tips": "Abyste předešli poruchám vašeho spotřebiče a prodloužili jeho životnost, vyčistěte těsnění.",
-    "door_openings_total_cooler_title": "Celková doba otevření dveří - Chladič",
-    "door_openings_total_freezer_title": "Celková doba otevření dveří - mrazák"
+    "door_openings_total_times_cooler_title": "Celková doba otevření dveří - Chladič",
+    "door_openings_total_times_freezer_title": "Celková doba otevření dveří - mrazák",
+    "door_openings_total_duration_cooler_title": "Celková doba otevření dveří - Chladič",
+    "door_openings_total_duration_freezer_title": "Celková doba otevření dveří - mraznička",
+    "CL_TV_DV_things_to_do": "Co dělat",
+    "temperature_settings_cooler_title": "Nejběžnější teplota chladiče. nastavení",
+    "temperature_settings_freezer_title": "Nejběžnější teplota mrazáku. nastavení",
+    "total_sc_activations": "Celkový počet aktivací SC",
+    "total_ff_activations": "Celkový počet aktivací FF",
+    "CL_DV_WM86_stain_type_oil": "Olej",
+    "CL_DV_WM86_stain_type_tomato_sauce": "Rajčatová omáčka",
+    "CL_CF_FM_fridge_position": "POLOHA CHLADNIČKY",
+    "CL_DV_RF_sf_remaining_mins": "Momentálně v super zmrazení a zbývá ** min.",
+    "edit_food_delete_tips_title": "Název: ODSTRANIT TOTO JÍDLO?",
+    "edit_food_delete_tips_content": "Vyjmutí tohoto jídla znamená, že již není ve vaší lednici, pokud je příště nedoplníte.",
+    "remove_food": "ODSTRAŇTE JÍDLO",
+    "CL_CF_WM_pumo_clean_running_tip": "Probíhá čištění čerpadla, aktuální operaci nelze dokončit!"
 }
