@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "A teljes fagyasztórekeszt ZeroZone-ra cseréli. Hőmérséklete 0°C körüli vagy valamivel 0°C alatt van, ezért ne tároljon alacsony hőmérsékletre érzékeny élelmiszert – az élelmiszer megfagyhat.",
     "CL_DV_RF_convert_model_setting_title": "Konvertálás mód!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "KONVERTÁLÁSI MÓD ENGEDÉLYEZÉSE"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "KONVERTÁLÁSI MÓD ENGEDÉLYEZÉSE",
+    "CL_CF_SE_eco_title": "Aktív ECO mód",
+    "CL_CF_UC_ru_tips": "A szolgáltatás frissítése miatt régi jelszava már nem érvényes. Kérjük, állítsa vissza jelszavát!",
+    "CL_SM_energy_statistics": "Energiastatisztika",
+    "CL_CF_laundry_assistant": "Mosodai asszisztens",
+    "CL_CF_SK_Recipe_Assist": "Receptsegéd",
+    "CL_CF_SS_Maintenance_Tips": "Karbantartási tippek"
 }

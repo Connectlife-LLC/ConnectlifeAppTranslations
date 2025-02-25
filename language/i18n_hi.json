@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "आप पूरे फ्रीजर कम्पार्टमेंट को जीरोज़ोन में बदल देंगे। इसका तापमान 0°C के आसपास या 0°C से थोड़ा कम होता है, इसलिए ऐसे खाद्य पदार्थ को स्टोर न करें जो कम तापमान के प्रति संवेदनशील हों - भोजन जम सकता है।",
     "CL_DV_RF_convert_model_setting_title": "मोड परिवर्तित करें!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "कन्वर्ट मोड सक्षम करें"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "कन्वर्ट मोड सक्षम करें",
+    "CL_CF_SE_eco_title": "सक्रिय ECO मोड",
+    "CL_CF_UC_ru_tips": "सेवा उन्नयन के कारण, आपका पुराना पासवर्ड अब मान्य नहीं है। कृपया अपना पासवर्ड रीसेट करें!",
+    "CL_SM_energy_statistics": "ऊर्जा सांख्यिकी",
+    "CL_CF_laundry_assistant": "लॉन्ड्री असिस्ट",
+    "CL_CF_SK_Recipe_Assist": "रेसिपी सहायता",
+    "CL_CF_SS_Maintenance_Tips": "रखरखाव युक्तियाँ"
 }

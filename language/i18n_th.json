@@ -4952,5 +4952,11 @@
     "food_default_unit": "สอง",
     "CL_DV_RF_convert_model_setting_tips": "คุณจะเปลี่ยนช่องแช่แข็งทั้งหมดเป็น ZeroZone ซึ่งมีอุณหภูมิประมาณ 0°C หรือต่ำกว่า 0°C เล็กน้อย ดังนั้นอย่าเก็บอาหารที่ไวต่ออุณหภูมิต่ำ เพราะอาหารอาจแข็งตัวได้",
     "CL_DV_RF_convert_model_setting_title": "โหมดแปลง!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "เปิดใช้งานโหมดแปลง"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "เปิดใช้งานโหมดแปลง",
+    "CL_CF_SE_eco_title": "โหมด ECO แอ็คทีฟ",
+    "CL_CF_UC_ru_tips": "เนื่องจากมีการอัปเกรดบริการ รหัสผ่านเก่าของคุณจึงใช้ไม่ได้อีกต่อไป กรุณารีเซ็ตรหัสผ่านของคุณ!",
+    "CL_SM_energy_statistics": "สถิติพลังงาน",
+    "CL_CF_laundry_assistant": "ช่วยซักรีด",
+    "CL_CF_SK_Recipe_Assist": "สูตรอาหารช่วย",
+    "CL_CF_SS_Maintenance_Tips": "เคล็ดลับการบำรุงรักษา"
 }

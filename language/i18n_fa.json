@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "شما کل محفظه فریزر را به ZeroZone تغییر خواهید داد. دمای آن حدود 0 درجه سانتیگراد یا کمی کمتر از 0 درجه سانتیگراد است، بنابراین مواد غذایی حساس به دمای پایین را نگهداری نکنید - غذا ممکن است یخ بزند.",
     "CL_DV_RF_convert_model_setting_title": "حالت تبدیل!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "فعال کردن حالت تبدیل"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "فعال کردن حالت تبدیل",
+    "CL_CF_SE_eco_title": "حالت اکو فعال",
+    "CL_CF_UC_ru_tips": "به دلیل ارتقاء سرویس، رمز عبور قدیمی شما دیگر معتبر نیست. لطفا رمز عبور خود را بازنشانی کنید!",
+    "CL_SM_energy_statistics": "آمار انرژی",
+    "CL_CF_laundry_assistant": "دستیار شستشوی لباس",
+    "CL_CF_SK_Recipe_Assist": "کمک به دستور غذا",
+    "CL_CF_SS_Maintenance_Tips": "نکات تعمیر و نگهداری"
 }

@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Bạn sẽ thay đổi toàn bộ ngăn đông thành ZeroZone. Ngăn này có nhiệt độ khoảng 0°C hoặc thấp hơn 0°C một chút, vì vậy không nên bảo quản thực phẩm nhạy cảm với nhiệt độ thấp - thực phẩm có thể bị đông.",
     "CL_DV_RF_convert_model_setting_title": "Chế độ chuyển đổi!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "BẬT CHẾ ĐỘ CHUYỂN ĐỔI"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "BẬT CHẾ ĐỘ CHUYỂN ĐỔI",
+    "CL_CF_SE_eco_title": "Chế độ ECO chủ động",
+    "CL_CF_UC_ru_tips": "Do nâng cấp dịch vụ, mật khẩu cũ của bạn không còn hiệu lực. Vui lòng đặt lại mật khẩu!",
+    "CL_SM_energy_statistics": "Thống kê năng lượng",
+    "CL_CF_laundry_assistant": "Hỗ trợ giặt",
+    "CL_CF_SK_Recipe_Assist": "Công thức hỗ trợ",
+    "CL_CF_SS_Maintenance_Tips": "Mẹo bảo trì"
 }

@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "You will change the entire freezer compartment to ZeroZone. It has temperatures around 0°C or slightly below 0°C, so do not store food that is sensitive to low temperatures - food can freeze.",
     "CL_DV_RF_convert_model_setting_title": "Convert mode!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "ENABLE CONVERT MODE"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "ENABLE CONVERT MODE",
+    "CL_CF_SE_eco_title": "Active ECO Mode",
+    "CL_CF_UC_ru_tips": "Due to service upgrades, your old password is no longer valid. Please reset your password!",
+    "CL_SM_energy_statistics": "Energy Statistics",
+    "CL_CF_laundry_assistant": "Laundry Assist",
+    "CL_CF_SK_Recipe_Assist": "Recipe Assist",
+    "CL_CF_SS_Maintenance_Tips": "Maintenance Tips"
 }

@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Veți schimba întregul compartiment congelator în ZeroZone. Are temperaturi în jur de 0°C sau puțin sub 0°C, așa că nu depozitați alimente sensibile la temperaturi scăzute - alimentele pot îngheța.",
     "CL_DV_RF_convert_model_setting_title": "Modul de conversie!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "ACTIVAȚI MODUL CONVERT"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "ACTIVAȚI MODUL CONVERT",
+    "CL_CF_SE_eco_title": "Mod ECO activ",
+    "CL_CF_UC_ru_tips": "Din cauza upgrade-urilor de serviciu, vechea dvs. parolă nu mai este valabilă. Vă rugăm să vă resetați parola!",
+    "CL_SM_energy_statistics": "Statistici energetice",
+    "CL_CF_laundry_assistant": "Asistență la spălătorie",
+    "CL_CF_SK_Recipe_Assist": "Asistență la rețetă",
+    "CL_CF_SS_Maintenance_Tips": "Sfaturi de întreținere"
 }

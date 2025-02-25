@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Ще промените цялото фризерно отделение на ZeroZone. Има температури около 0°C или малко под 0°C, така че не съхранявайте храна, която е чувствителна към ниски температури - храната може да замръзне.",
     "CL_DV_RF_convert_model_setting_title": "Режим на конвертиране!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "АКТИВИРАНЕ НА РЕЖИМ КОНВЕРТИРАНЕ"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "АКТИВИРАНЕ НА РЕЖИМ КОНВЕРТИРАНЕ",
+    "CL_CF_SE_eco_title": "Активен ECO режим",
+    "CL_CF_UC_ru_tips": "Поради надграждане на услугата старата ви парола вече не е валидна. Моля, нулирайте паролата си!",
+    "CL_SM_energy_statistics": "Енергийна статистика",
+    "CL_CF_laundry_assistant": "Помощ в прането",
+    "CL_CF_SK_Recipe_Assist": "Помощник за рецепти",
+    "CL_CF_SS_Maintenance_Tips": "Съвети за поддръжка"
 }

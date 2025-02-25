@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Zmienisz całą komorę zamrażarki na ZeroZone. Ma ona temperaturę około 0°C lub nieco poniżej 0°C, więc nie przechowuj w niej żywności wrażliwej na niskie temperatury – żywność może zamarznąć.",
     "CL_DV_RF_convert_model_setting_title": "Tryb konwersji!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "WŁĄCZ TRYB KONWERSJI"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "WŁĄCZ TRYB KONWERSJI",
+    "CL_CF_SE_eco_title": "Aktywny tryb ECO",
+    "CL_CF_UC_ru_tips": "Ze względu na ulepszenia usług, Twoje stare hasło nie jest już ważne. Zresetuj hasło!",
+    "CL_SM_energy_statistics": "Statystyki dotyczące energii",
+    "CL_CF_laundry_assistant": "Asystent pralni",
+    "CL_CF_SK_Recipe_Assist": "Pomoc w przepisie",
+    "CL_CF_SS_Maintenance_Tips": "Wskazówki dotyczące konserwacji"
 }
