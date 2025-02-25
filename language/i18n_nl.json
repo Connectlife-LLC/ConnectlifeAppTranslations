@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "U verandert het hele vriesvak naar ZeroZone. Het heeft temperaturen rond de 0°C of iets onder de 0°C, dus bewaar geen voedsel dat gevoelig is voor lage temperaturen - voedsel kan bevriezen.",
     "CL_DV_RF_convert_model_setting_title": "Converteer modus!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "CONVERTEERMODUS INSCHAKELEN"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "CONVERTEERMODUS INSCHAKELEN",
+    "CL_CF_SE_eco_title": "Actieve ECO-modus",
+    "CL_CF_UC_ru_tips": "Vanwege service-upgrades is uw oude wachtwoord niet meer geldig. Reset uw wachtwoord!"
 }

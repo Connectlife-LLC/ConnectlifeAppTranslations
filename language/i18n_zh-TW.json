@@ -4952,5 +4952,7 @@
     "food_default_unit": "個",
     "CL_DV_RF_convert_model_setting_tips": "您將把整個冷凍室更改為 ZeroZone。這裡的溫度在 0°C 左右或略低於 0°C，所以不要儲存對低溫敏感的食物——食物可能會結冰。",
     "CL_DV_RF_convert_model_setting_title": "轉換模式！",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "啟用轉換模式"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "啟用轉換模式",
+    "CL_CF_SE_eco_title": "主動 ECO 模式",
+    "CL_CF_UC_ru_tips": "由於服務升級，您的舊密碼不再有效。請重置您的密碼！"
 }

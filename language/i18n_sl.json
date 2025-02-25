@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Celoten zamrzovalni del boste spremenili v ZeroZone. Ima temperature okoli 0 °C ali malo pod 0 °C, zato ne shranjujte živil, ki so občutljiva na nizke temperature - živila lahko zmrznejo.",
     "CL_DV_RF_convert_model_setting_title": "Način pretvorbe!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "OMOGOČI NAČIN ZA PRETVORBO"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "OMOGOČI NAČIN ZA PRETVORBO",
+    "CL_CF_SE_eco_title": "Aktivni način ECO",
+    "CL_CF_UC_ru_tips": "Zaradi nadgradenj storitve vaše staro geslo ni več veljavno. Ponastavite geslo!"
 }

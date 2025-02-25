@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Dondurucu bölmesinin tamamını ZeroZone'a çevireceksiniz. Sıcaklıkları 0°C civarında veya 0°C'nin biraz altında olduğundan, düşük sıcaklıklara duyarlı yiyecekleri saklamayın - yiyecekler donabilir.",
     "CL_DV_RF_convert_model_setting_title": "Dönüştürme modu!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "DÖNÜŞTÜRME MODUNU ETKİNLEŞTİR"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "DÖNÜŞTÜRME MODUNU ETKİNLEŞTİR",
+    "CL_CF_SE_eco_title": "Aktif ECO Modu",
+    "CL_CF_UC_ru_tips": "Hizmet yükseltmeleri nedeniyle eski şifreniz artık geçerli değil. Lütfen şifrenizi sıfırlayın!"
 }

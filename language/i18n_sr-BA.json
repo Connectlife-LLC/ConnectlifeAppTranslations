@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Променићете цео одељак замрзивача у ЗероЗоне. Има температуру око 0°Ц или нешто испод 0°Ц, тако да не чувајте храну која је осетљива на ниске температуре – храна може да се смрзне.",
     "CL_DV_RF_convert_model_setting_title": "Цонверт моде!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "OMOGUĆI NAČIN ZA PRETVORBU"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "OMOGUĆI NAČIN ZA PRETVORBU",
+    "CL_CF_SE_eco_title": "Активни ЕЦО режим",
+    "CL_CF_UC_ru_tips": "Због надоградње услуге, ваша стара лозинка више није важећа. Молимо ресетујте своју лозинку!"
 }

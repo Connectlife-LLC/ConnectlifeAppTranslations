@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Ви заміните всю морозильну камеру на ZeroZone. Вона має температуру близько 0 °C або трохи нижче 0 °C, тому не зберігайте продукти, чутливі до низьких температур - продукти можуть замерзнути.",
     "CL_DV_RF_convert_model_setting_title": "Режим конвертації!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "УВІМКНУТИ РЕЖИМ ПЕРЕТВОРЕННЯ"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "УВІМКНУТИ РЕЖИМ ПЕРЕТВОРЕННЯ",
+    "CL_CF_SE_eco_title": "Активний режим ECO",
+    "CL_CF_UC_ru_tips": "Через оновлення сервісу ваш старий пароль більше не дійсний. Будь ласка, скиньте свій пароль!"
 }

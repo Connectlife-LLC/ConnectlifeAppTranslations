@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Du vil endre hele fryseseksjonen til ZeroZone. Den har temperaturer rundt 0°C eller litt under 0°C, så ikke oppbevar mat som er følsom for lave temperaturer - maten kan fryse.",
     "CL_DV_RF_convert_model_setting_title": "Konverter modus!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "AKTIVER KONVERTERINGSMODUS"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "AKTIVER KONVERTERINGSMODUS",
+    "CL_CF_SE_eco_title": "Aktiv ECO-modus",
+    "CL_CF_UC_ru_tips": "På grunn av tjenesteoppgraderinger er ditt gamle passord ikke lenger gyldig. Tilbakestill passordet ditt!"
 }

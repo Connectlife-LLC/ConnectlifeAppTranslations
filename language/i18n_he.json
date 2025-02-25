@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "תשנה את כל תא ההקפאה ל-ZeroZone. יש לו טמפרטורות סביב 0 מעלות צלזיוס או מעט מתחת ל-0 מעלות צלזיוס, לכן אין לאחסן מזון רגיש לטמפרטורות נמוכות - המזון יכול לקפוא.",
     "CL_DV_RF_convert_model_setting_title": "המר מצב!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "הפעל מצב המרה"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "הפעל מצב המרה",
+    "CL_CF_SE_eco_title": "מצב ECO אקטיבי",
+    "CL_CF_UC_ru_tips": "עקב שדרוגי שירות, הסיסמה הישנה שלך אינה תקפה עוד. נא לאפס את הסיסמה שלך!"
 }
