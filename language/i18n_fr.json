@@ -4952,5 +4952,7 @@
     "food_default_unit": "Oui",
     "CL_DV_RF_convert_model_setting_tips": "Vous allez changer l'ensemble du compartiment congélateur en ZeroZone. Les températures y sont proches de 0°C ou légèrement inférieures à 0°C, ne conservez donc pas d'aliments sensibles aux basses températures : ils peuvent geler.",
     "CL_DV_RF_convert_model_setting_title": "Mode de conversion !",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "ACTIVER LE CONVERT MODE"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "ACTIVER LE CONVERT MODE",
+    "CL_CF_SE_eco_title": "Mode ECO actif",
+    "CL_CF_UC_ru_tips": "En raison de mises à jour de service, votre ancien mot de passe n'est plus valide. Veuillez réinitialiser votre mot de passe !"
 }

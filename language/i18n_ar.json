@@ -4952,5 +4952,7 @@
     "food_default_unit": "ب",
     "CL_DV_RF_convert_model_setting_tips": "سوف تقوم بتغيير حجرة التجميد بالكامل إلى ZeroZone. تبلغ درجة حرارتها حوالي 0 درجة مئوية أو أقل قليلاً من 0 درجة مئوية، لذا لا تقم بتخزين الأطعمة التي تتأثر بدرجات الحرارة المنخفضة - فقد تتجمد الأطعمة.",
     "CL_DV_RF_convert_model_setting_title": "وضع التحويل!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "تمكين وضع التحويل"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "تمكين وضع التحويل",
+    "CL_CF_SE_eco_title": "وضع ECO النشط",
+    "CL_CF_UC_ru_tips": "بسبب ترقيات الخدمة، لم تعد كلمة المرور القديمة صالحة. يرجى إعادة تعيين كلمة المرور الخاصة بك!"
 }

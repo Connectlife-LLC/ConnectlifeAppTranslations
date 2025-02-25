@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Zmeníte celý mraziaci priestor na ZeroZone. Má teploty okolo 0°C alebo mierne pod 0°C, preto neskladujte potraviny citlivé na nízke teploty – potraviny môžu zamrznúť.",
     "CL_DV_RF_convert_model_setting_title": "Režim konverzie!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "POVOLIŤ REŽIM CONVERT"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "POVOLIŤ REŽIM CONVERT",
+    "CL_CF_SE_eco_title": "Aktívny ECO režim",
+    "CL_CF_UC_ru_tips": "Z dôvodu aktualizácií služby už vaše staré heslo nie je platné. Obnovte svoje heslo!"
 }

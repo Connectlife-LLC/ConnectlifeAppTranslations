@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Сіз мұздатқыш камераны толығымен ZeroZone режиміне ауыстырасыз. Оның температурасы шамамен 0°C немесе 0°C-ден сәл төмен, сондықтан төмен температураға сезімтал тағамды сақтамаңыз - тағам қатып қалуы мүмкін.",
     "CL_DV_RF_convert_model_setting_title": "Түрлендіру режимі!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "CONVERT РЕЖИМІН ҚОСУ"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "CONVERT РЕЖИМІН ҚОСУ",
+    "CL_CF_SE_eco_title": "Белсенді ЭКО режимі",
+    "CL_CF_UC_ru_tips": "Қызмет жаңартуларына байланысты ескі құпия сөзіңіз енді жарамсыз. Құпия сөзіңізді қалпына келтіріңіз!"
 }

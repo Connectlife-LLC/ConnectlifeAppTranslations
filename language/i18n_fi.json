@@ -4952,5 +4952,7 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Vaihdat koko pakastinosaston ZeroZone-tilaan. Sen lämpötila on noin 0 °C tai hieman alle 0 °C, joten älä säilytä alhaisille lämpötiloille herkkiä ruokia - ruoka voi jäätyä.",
     "CL_DV_RF_convert_model_setting_title": "Muunna tila!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "OTA MUUNNOSTILA KÄYTTÖÖN"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "OTA MUUNNOSTILA KÄYTTÖÖN",
+    "CL_CF_SE_eco_title": "Aktiivinen ECO-tila",
+    "CL_CF_UC_ru_tips": "Palvelupäivitysten vuoksi vanha salasanasi ei ole enää voimassa. Palauta salasanasi!"
 }
