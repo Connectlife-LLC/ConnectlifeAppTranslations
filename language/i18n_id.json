@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Anda akan mengubah seluruh kompartemen freezer ke ZeroZone. Suhunya sekitar 0°C atau sedikit di bawah 0°C, jadi jangan simpan makanan yang sensitif terhadap suhu rendah - makanan dapat membeku.",
     "CL_DV_RF_convert_model_setting_title": "Modus konversi!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "AKTIFKAN MODE KONVERSI"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "AKTIFKAN MODE KONVERSI",
+    "CL_CF_SE_eco_title": "Mode ECO Aktif",
+    "CL_CF_UC_ru_tips": "Karena adanya peningkatan layanan, kata sandi lama Anda tidak berlaku lagi. Harap atur ulang kata sandi Anda!",
+    "CL_SM_energy_statistics": "Statistik Energi",
+    "CL_CF_laundry_assistant": "Bantuan binatu",
+    "CL_CF_SK_Recipe_Assist": "Bantuan Resep",
+    "CL_CF_SS_Maintenance_Tips": "Tips Perawatan"
 }

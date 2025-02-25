@@ -4952,5 +4952,11 @@
     "food_default_unit": "個",
     "CL_DV_RF_convert_model_setting_tips": "冷凍室全体を ZeroZone に変更します。冷凍室の温度は 0°C 前後または 0°C よりわずかに低いため、低温に敏感な食品は保存しないでください。食品が凍結する可能性があります。",
     "CL_DV_RF_convert_model_setting_title": "変換モード！",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "変換モードを有効にする"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "変換モードを有効にする",
+    "CL_CF_SE_eco_title": "アクティブECOモード",
+    "CL_CF_UC_ru_tips": "サービスのアップグレードにより、古いパスワードは無効になりました。パスワードをリセットしてください。",
+    "CL_SM_energy_statistics": "エネルギー統計",
+    "CL_CF_laundry_assistant": "洗濯補助",
+    "CL_CF_SK_Recipe_Assist": "レシピアシスト",
+    "CL_CF_SS_Maintenance_Tips": "メンテナンスのヒント"
 }

@@ -4952,5 +4952,11 @@
     "food_default_unit": "个",
     "CL_DV_RF_convert_model_setting_tips": "Sie stellen das gesamte Gefrierfach auf ZeroZone um. Dort herrschen Temperaturen um 0°C oder knapp unter 0°C, lagern Sie daher keine kälteempfindlichen Lebensmittel darin – Lebensmittel können gefrieren.",
     "CL_DV_RF_convert_model_setting_title": "Konvertierungsmodus!",
-    "CL_DV_RF_convert_model_setting_confirm_btn": "KONVERTIERMODUS AKTIVIEREN"
+    "CL_DV_RF_convert_model_setting_confirm_btn": "KONVERTIERMODUS AKTIVIEREN",
+    "CL_CF_SE_eco_title": "Aktiver ECO-Modus",
+    "CL_CF_UC_ru_tips": "Aufgrund von Service-Upgrades ist Ihr altes Passwort nicht mehr gültig. Bitte setzen Sie Ihr Passwort zurück!",
+    "CL_SM_energy_statistics": "Energiestatistiken",
+    "CL_CF_laundry_assistant": "Waschhilfe",
+    "CL_CF_SK_Recipe_Assist": "Rezeptassistent",
+    "CL_CF_SS_Maintenance_Tips": "Wartungstipps"
 }
