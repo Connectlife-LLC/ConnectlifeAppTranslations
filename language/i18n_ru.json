@@ -5007,5 +5007,16 @@
     "CL_CF_UC_delete_account_tips": "Удаление не удалось, попробуйте еще раз позже",
     "CL_DV_DW_ai_super_wash": "AI супер мойка",
     "CL_DV_HOB_cooking_assist_ankoch": "Анкоч",
-    "dish_designer": "дизайнер блюд"
+    "dish_designer": "дизайнер блюд",
+    "CL_SL_CM_laundry_usage_statistics": "Статистика прачечной",
+    "CL_DV_WM_dosage_amount_monitor": "количество монитор",
+    "CL_DV_WM_Notify_to_buy": "Уведомить о покупке",
+    "CL_DV_WM_amount_limit_tip": "когда сумма меньше 10 раз",
+    "CL_DV_WM_Softener_Left": "Умягчитель слева",
+    "CL_DV_WM_Detergent_Left": "Осталось моющего средства",
+    "CL_DV_WM_left_times": "Примерно ## раз",
+    "CL_CM_Special_offers": "Специальные предложения",
+    "CL_DV_DW_permanent_control_warning": "Устройство должно быть включено, но не находиться в режиме стирки.",
+    "CL_CM_Laundry_shop": "Прачечная",
+    "CL_CM_Kitchen_shop": "Кухонный магазин"
 }

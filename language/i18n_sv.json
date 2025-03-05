@@ -5007,5 +5007,16 @@
     "CL_CF_UC_delete_account_tips": "Raderingen misslyckades, försök igen senare",
     "CL_DV_DW_ai_super_wash": "AI supertvätt",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "fatdesigner"
+    "dish_designer": "fatdesigner",
+    "CL_SL_CM_laundry_usage_statistics": "Tvättstatistik",
+    "CL_DV_WM_dosage_amount_monitor": "mängdövervakare",
+    "CL_DV_WM_Notify_to_buy": "Meddela att köpa",
+    "CL_DV_WM_amount_limit_tip": "när beloppet är mindre än 10 gånger",
+    "CL_DV_WM_Softener_Left": "Sköljmedel vänster",
+    "CL_DV_WM_Detergent_Left": "Tvättmedel kvar",
+    "CL_DV_WM_left_times": "Ungefär ## gånger",
+    "CL_CM_Special_offers": "Specialerbjudanden",
+    "CL_DV_DW_permanent_control_warning": "Enheten ska vara påslagen men inte i en tvättcykel.",
+    "CL_CM_Laundry_shop": "Tvättstuga",
+    "CL_CM_Kitchen_shop": "Köksbutik"
 }

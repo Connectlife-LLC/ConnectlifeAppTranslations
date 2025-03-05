@@ -5007,5 +5007,16 @@
     "CL_CF_UC_delete_account_tips": "Sletningen mislykkedes. Prøv venligst igen sidst",
     "CL_DV_DW_ai_super_wash": "AI super vask",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "parabol designer"
+    "dish_designer": "parabol designer",
+    "CL_SL_CM_laundry_usage_statistics": "Tøjvask statistik",
+    "CL_DV_WM_dosage_amount_monitor": "mængdeovervågning",
+    "CL_DV_WM_Notify_to_buy": "Giv besked om at købe",
+    "CL_DV_WM_amount_limit_tip": "når beløbet er mindre end 10 gange",
+    "CL_DV_WM_Softener_Left": "Blødgøringsmiddel venstre",
+    "CL_DV_WM_Detergent_Left": "Opvaskemiddel tilbage",
+    "CL_DV_WM_left_times": "Cirka ## gange",
+    "CL_CM_Special_offers": "Særlige tilbud",
+    "CL_DV_DW_permanent_control_warning": "Enheden skal være tændt, men ikke i en vaskecyklus.",
+    "CL_CM_Laundry_shop": "Vaskeri",
+    "CL_CM_Kitchen_shop": "Køkken butik"
 }

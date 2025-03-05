@@ -5007,5 +5007,16 @@
     "CL_CF_UC_delete_account_tips": "Slettingen mislyktes. Prøv igjen sist",
     "CL_DV_DW_ai_super_wash": "AI super vask",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "fatdesigner"
+    "dish_designer": "fatdesigner",
+    "CL_SL_CM_laundry_usage_statistics": "Vaskestatistikk",
+    "CL_DV_WM_dosage_amount_monitor": "mengde monitor",
+    "CL_DV_WM_Notify_to_buy": "Gi beskjed om å kjøpe",
+    "CL_DV_WM_amount_limit_tip": "når beløpet er mindre enn 10 ganger",
+    "CL_DV_WM_Softener_Left": "Mykner venstre",
+    "CL_DV_WM_Detergent_Left": "Vaskemiddel igjen",
+    "CL_DV_WM_left_times": "Omtrent ## ganger",
+    "CL_CM_Special_offers": "Spesialtilbud",
+    "CL_DV_DW_permanent_control_warning": "Enheten skal være slått på, men ikke i en vaskesyklus.",
+    "CL_CM_Laundry_shop": "Vaskebutikk",
+    "CL_CM_Kitchen_shop": "Kjøkkenbutikk"
 }

@@ -5007,5 +5007,16 @@
     "CL_CF_UC_delete_account_tips": "Deletion failed, please try again latter",
     "CL_DV_DW_ai_super_wash": "AI super wash",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "dish designer"
+    "dish_designer": "dish designer",
+    "CL_SL_CM_laundry_usage_statistics": "Laundry Statistics",
+    "CL_DV_WM_dosage_amount_monitor": "amount monitor",
+    "CL_DV_WM_Notify_to_buy": "Notify to buy",
+    "CL_DV_WM_amount_limit_tip": "when the amount is less than 10 times",
+    "CL_DV_WM_Softener_Left": "Softener Left",
+    "CL_DV_WM_Detergent_Left": "Detergent Left",
+    "CL_DV_WM_left_times": "About ## times",
+    "CL_CM_Special_offers": "Special offers",
+    "CL_DV_DW_permanent_control_warning": "The device should be powered on but not in a washing cycle.",
+    "CL_CM_Laundry_shop": "Laundry shop",
+    "CL_CM_Kitchen_shop": "Kitchen shop"
 }
