@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "Silme işlemi başarısız oldu, lütfen daha sonra tekrar deneyin",
     "CL_DV_DW_ai_super_wash": "AI süper yıkama",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoç",
-    "dish_designer": "tabak tasarımcısı"
+    "dish_designer": "tabak tasarımcısı",
+    "CL_SL_CM_laundry_usage_statistics": "Çamaşırhane İstatistikleri",
+    "CL_DV_WM_dosage_amount_monitor": "miktar monitörü",
+    "CL_DV_WM_Notify_to_buy": "Satın almak için bildir",
+    "CL_DV_WM_amount_limit_tip": "miktar 10 katından az olduğunda",
+    "CL_DV_WM_Softener_Left": "Yumuşatıcı Sol",
+    "CL_DV_WM_Detergent_Left": "Deterjan Sol",
+    "CL_DV_WM_left_times": "Yaklaşık ## kez"
 }

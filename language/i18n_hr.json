@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "Brisanje nije uspjelo, pokušajte ponovno kasnije",
     "CL_DV_DW_ai_super_wash": "AI super pranje",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "dizajner jela"
+    "dish_designer": "dizajner jela",
+    "CL_SL_CM_laundry_usage_statistics": "Statistika pranja rublja",
+    "CL_DV_WM_dosage_amount_monitor": "monitor iznosa",
+    "CL_DV_WM_Notify_to_buy": "Obavijesti za kupnju",
+    "CL_DV_WM_amount_limit_tip": "kada je iznos manji od 10 puta",
+    "CL_DV_WM_Softener_Left": "Omekšivač lijevo",
+    "CL_DV_WM_Detergent_Left": "Deterdžent lijevo",
+    "CL_DV_WM_left_times": "Otprilike ## puta"
 }

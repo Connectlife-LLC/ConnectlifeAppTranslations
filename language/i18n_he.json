@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "המחיקה נכשלה, אנא נסה שוב מאוחר יותר",
     "CL_DV_DW_ai_super_wash": "ניקוי סופר AI",
     "CL_DV_HOB_cooking_assist_ankoch": "אנקוך",
-    "dish_designer": "מעצב מנות"
+    "dish_designer": "מעצב מנות",
+    "CL_SL_CM_laundry_usage_statistics": "סטטיסטיקת כביסה",
+    "CL_DV_WM_dosage_amount_monitor": "צג כמות",
+    "CL_DV_WM_Notify_to_buy": "הודע לקנות",
+    "CL_DV_WM_amount_limit_tip": "כאשר הכמות קטנה מפי 10",
+    "CL_DV_WM_Softener_Left": "מרכך שמאלה",
+    "CL_DV_WM_Detergent_Left": "חומר ניקוי נשאר",
+    "CL_DV_WM_left_times": "בערך ## פעמים"
 }

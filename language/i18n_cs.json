@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "Smazání se nezdařilo, zkuste to prosím znovu později",
     "CL_DV_DW_ai_super_wash": "AI super mytí",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "návrhář nádobí"
+    "dish_designer": "návrhář nádobí",
+    "CL_SL_CM_laundry_usage_statistics": "Statistika praní",
+    "CL_DV_WM_dosage_amount_monitor": "monitor množství",
+    "CL_DV_WM_Notify_to_buy": "Upozornit na nákup",
+    "CL_DV_WM_amount_limit_tip": "když je částka menší než 10násobek",
+    "CL_DV_WM_Softener_Left": "Změkčovač vlevo",
+    "CL_DV_WM_Detergent_Left": "Prací prostředek vlevo",
+    "CL_DV_WM_left_times": "Asi ##krát"
 }

@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "删除失败，请稍后重试",
     "CL_DV_DW_ai_super_wash": "AI超级洗",
     "CL_DV_HOB_cooking_assist_ankoch": "安科赫",
-    "dish_designer": "菜肴设计师"
+    "dish_designer": "菜肴设计师",
+    "CL_SL_CM_laundry_usage_statistics": "洗衣统计",
+    "CL_DV_WM_dosage_amount_monitor": "量监控器",
+    "CL_DV_WM_Notify_to_buy": "通知购买",
+    "CL_DV_WM_amount_limit_tip": "当金额少于10倍时",
+    "CL_DV_WM_Softener_Left": "柔顺剂剩",
+    "CL_DV_WM_Detergent_Left": "洗涤剂剩下",
+    "CL_DV_WM_left_times": "约 ## 次"
 }

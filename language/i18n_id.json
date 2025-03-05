@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "Penghapusan gagal, silakan coba lagi nanti",
     "CL_DV_DW_ai_super_wash": "Cuci super AI",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "desainer hidangan"
+    "dish_designer": "desainer hidangan",
+    "CL_SL_CM_laundry_usage_statistics": "Statistik Binatu",
+    "CL_DV_WM_dosage_amount_monitor": "monitor jumlah",
+    "CL_DV_WM_Notify_to_buy": "Beritahu untuk membeli",
+    "CL_DV_WM_amount_limit_tip": "ketika jumlahnya kurang dari 10 kali",
+    "CL_DV_WM_Softener_Left": "Pelembut Kiri",
+    "CL_DV_WM_Detergent_Left": "Deterjen Kiri",
+    "CL_DV_WM_left_times": "Sekitar ## kali"
 }

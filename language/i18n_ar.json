@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "فشل الحذف، يرجى المحاولة مرة أخرى لاحقًا",
     "CL_DV_DW_ai_super_wash": "غسيل فائق الذكاء الاصطناعي",
     "CL_DV_HOB_cooking_assist_ankoch": "انكوتش",
-    "dish_designer": "مصمم الأطباق"
+    "dish_designer": "مصمم الأطباق",
+    "CL_SL_CM_laundry_usage_statistics": "إحصائيات الغسيل",
+    "CL_DV_WM_dosage_amount_monitor": "مراقب المبلغ",
+    "CL_DV_WM_Notify_to_buy": "اشعار بالشراء",
+    "CL_DV_WM_amount_limit_tip": "عندما يكون المبلغ أقل من 10 مرات",
+    "CL_DV_WM_Softener_Left": "منعم يسار",
+    "CL_DV_WM_Detergent_Left": "المنظف اليسار",
+    "CL_DV_WM_left_times": "حوالي ## مرة"
 }

@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "Poistaminen epäonnistui, yritä jälkimmäistä uudelleen",
     "CL_DV_DW_ai_super_wash": "AI superpesu",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "astian suunnittelija"
+    "dish_designer": "astian suunnittelija",
+    "CL_SL_CM_laundry_usage_statistics": "Pesulatilastot",
+    "CL_DV_WM_dosage_amount_monitor": "määrän valvonta",
+    "CL_DV_WM_Notify_to_buy": "Ilmoita ostamisesta",
+    "CL_DV_WM_amount_limit_tip": "kun määrä on alle 10 kertaa",
+    "CL_DV_WM_Softener_Left": "Huuhteluaine Vasen",
+    "CL_DV_WM_Detergent_Left": "Pesuainetta jäljellä",
+    "CL_DV_WM_left_times": "Noin ## kertaa"
 }

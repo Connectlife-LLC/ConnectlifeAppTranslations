@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "Eliminazione non riuscita, riprovare più tardi",
     "CL_DV_DW_ai_super_wash": "Super lavaggio AI",
     "CL_DV_HOB_cooking_assist_ankoch": "Ancora",
-    "dish_designer": "progettista di piatti"
+    "dish_designer": "progettista di piatti",
+    "CL_SL_CM_laundry_usage_statistics": "Statistiche di lavanderia",
+    "CL_DV_WM_dosage_amount_monitor": "monitor della quantità",
+    "CL_DV_WM_Notify_to_buy": "Notifica per acquistare",
+    "CL_DV_WM_amount_limit_tip": "quando l'importo è inferiore a 10 volte",
+    "CL_DV_WM_Softener_Left": "Ammorbidente lasciato",
+    "CL_DV_WM_Detergent_Left": "Detersivo lasciato",
+    "CL_DV_WM_left_times": "Circa ## volte"
 }
