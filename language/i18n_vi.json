@@ -5007,5 +5007,17 @@
     "CL_CF_UC_delete_account_tips": "Xóa không thành công, vui lòng thử lại sau",
     "CL_DV_DW_ai_super_wash": "AI siêu rửa",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "nhà thiết kế món ăn"
+    "dish_designer": "nhà thiết kế món ăn",
+    "CL_SL_CM_laundry_usage_statistics": "Thống kê giặt ủi",
+    "CL_DV_WM_dosage_amount_monitor": "giám sát số lượng",
+    "CL_DV_WM_Notify_to_buy": "Thông báo để mua",
+    "CL_DV_WM_amount_limit_tip": "khi số lượng ít hơn 10 lần",
+    "CL_DV_WM_Softener_Left": "Chất làm mềm bên trái",
+    "CL_DV_WM_Detergent_Left": "Chất tẩy rửa còn lại",
+    "CL_DV_WM_left_times": "Khoảng ## lần",
+    "CL_CM_Special_offers": "Khuyến mại đặc biệt",
+    "CL_DV_DW_permanent_control_warning": "Thiết bị phải được bật nguồn nhưng không ở chế độ giặt.",
+    "CL_CM_Laundry_shop": "Cửa hàng giặt là",
+    "CL_CM_Kitchen_shop": "Cửa hàng bếp",
+    "CL_CF_how_to_enable_remote_control": "Cách bật điều khiển từ xa"
 }

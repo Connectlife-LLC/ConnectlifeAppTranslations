@@ -5007,5 +5007,17 @@
     "CL_CF_UC_delete_account_tips": "刪除失敗，請稍後重試",
     "CL_DV_DW_ai_super_wash": "AI超級洗",
     "CL_DV_HOB_cooking_assist_ankoch": "安科赫",
-    "dish_designer": "菜餚設計師"
+    "dish_designer": "菜餚設計師",
+    "CL_SL_CM_laundry_usage_statistics": "洗衣統計",
+    "CL_DV_WM_dosage_amount_monitor": "量監控器",
+    "CL_DV_WM_Notify_to_buy": "通知購買",
+    "CL_DV_WM_amount_limit_tip": "當金額少於10倍時",
+    "CL_DV_WM_Softener_Left": "柔順劑剩",
+    "CL_DV_WM_Detergent_Left": "洗滌劑剩下",
+    "CL_DV_WM_left_times": "約 ## 次",
+    "CL_CM_Special_offers": "特別優惠",
+    "CL_DV_DW_permanent_control_warning": "設備應處於通電狀態但不處於洗滌循環中。",
+    "CL_CM_Laundry_shop": "洗衣店",
+    "CL_CM_Kitchen_shop": "廚房用品店",
+    "CL_CF_how_to_enable_remote_control": "如何啟用遠端控制"
 }

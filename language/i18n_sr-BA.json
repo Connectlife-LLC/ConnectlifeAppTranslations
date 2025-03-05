@@ -5007,5 +5007,17 @@
     "CL_CF_UC_delete_account_tips": "Брисање није успело, покушајте поново касније",
     "CL_DV_DW_ai_super_wash": "АИ супер прање",
     "CL_DV_HOB_cooking_assist_ankoch": "Анкоцх",
-    "dish_designer": "дизајнер посуђа"
+    "dish_designer": "дизајнер посуђа",
+    "CL_SL_CM_laundry_usage_statistics": "Статистика прања",
+    "CL_DV_WM_dosage_amount_monitor": "монитор количине",
+    "CL_DV_WM_Notify_to_buy": "Обавестите да купите",
+    "CL_DV_WM_amount_limit_tip": "када је износ мањи од 10 пута",
+    "CL_DV_WM_Softener_Left": "Омекшивач лево",
+    "CL_DV_WM_Detergent_Left": "Детерџент лево",
+    "CL_DV_WM_left_times": "Отприлике ## пута",
+    "CL_CM_Special_offers": "Посебне понуде",
+    "CL_DV_DW_permanent_control_warning": "Уређај треба да буде укључен, али не у циклусу прања.",
+    "CL_CM_Laundry_shop": "Продавница веша",
+    "CL_CM_Kitchen_shop": "Кухиња продавница",
+    "CL_CF_how_to_enable_remote_control": "Како омогућити даљинско управљање"
 }

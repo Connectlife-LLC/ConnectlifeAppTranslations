@@ -5007,5 +5007,17 @@
     "CL_CF_UC_delete_account_tips": "Löschen fehlgeschlagen, bitte versuchen Sie es später noch einmal",
     "CL_DV_DW_ai_super_wash": "AI Super Wash",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "Geschirrdesigner"
+    "dish_designer": "Geschirrdesigner",
+    "CL_SL_CM_laundry_usage_statistics": "Wäschestatistik",
+    "CL_DV_WM_dosage_amount_monitor": "Mengenmonitor",
+    "CL_DV_WM_Notify_to_buy": "Benachrichtigen zum Kauf",
+    "CL_DV_WM_amount_limit_tip": "wenn der Betrag weniger als das Zehnfache beträgt",
+    "CL_DV_WM_Softener_Left": "Weichspüler links",
+    "CL_DV_WM_Detergent_Left": "Waschmittel links",
+    "CL_DV_WM_left_times": "Ungefähr ## Mal",
+    "CL_CM_Special_offers": "Sonderangebote",
+    "CL_DV_DW_permanent_control_warning": "Das Gerät sollte eingeschaltet sein, sich jedoch nicht im Waschgang befinden.",
+    "CL_CM_Laundry_shop": "Wäscherei",
+    "CL_CM_Kitchen_shop": "Küchenshop",
+    "CL_CF_how_to_enable_remote_control": "So aktivieren Sie die Fernsteuerung"
 }
