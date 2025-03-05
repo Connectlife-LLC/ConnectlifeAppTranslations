@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "La suppression a échoué, veuillez réessayer plus tard",
     "CL_DV_DW_ai_super_wash": "Super lavage IA",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "concepteur de vaisselle"
+    "dish_designer": "concepteur de vaisselle",
+    "CL_SL_CM_laundry_usage_statistics": "Statistiques sur la blanchisserie",
+    "CL_DV_WM_dosage_amount_monitor": "moniteur de quantité",
+    "CL_DV_WM_Notify_to_buy": "Notifier pour acheter",
+    "CL_DV_WM_amount_limit_tip": "lorsque le montant est inférieur à 10 fois",
+    "CL_DV_WM_Softener_Left": "Adoucisseur gauche",
+    "CL_DV_WM_Detergent_Left": "Détergent à gauche",
+    "CL_DV_WM_left_times": "Environ ## fois"
 }

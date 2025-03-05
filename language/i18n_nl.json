@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "Verwijderen mislukt, probeer het later opnieuw",
     "CL_DV_DW_ai_super_wash": "AI superwas",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "schotel ontwerper"
+    "dish_designer": "schotel ontwerper",
+    "CL_SL_CM_laundry_usage_statistics": "Wasstatistieken",
+    "CL_DV_WM_dosage_amount_monitor": "hoeveelheid monitor",
+    "CL_DV_WM_Notify_to_buy": "Melden om te kopen",
+    "CL_DV_WM_amount_limit_tip": "wanneer het bedrag minder dan 10 keer is",
+    "CL_DV_WM_Softener_Left": "Waterontharder links",
+    "CL_DV_WM_Detergent_Left": "Wasmiddel overgebleven",
+    "CL_DV_WM_left_times": "Ongeveer ## keer"
 }

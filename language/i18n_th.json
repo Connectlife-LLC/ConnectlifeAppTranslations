@@ -5007,5 +5007,12 @@
     "CL_CF_UC_delete_account_tips": "การลบข้อมูลล้มเหลว กรุณาลองใหม่อีกครั้งในภายหลัง",
     "CL_DV_DW_ai_super_wash": "เอไอซุปเปอร์วอช",
     "CL_DV_HOB_cooking_assist_ankoch": "อังโคช",
-    "dish_designer": "นักออกแบบจาน"
+    "dish_designer": "นักออกแบบจาน",
+    "CL_SL_CM_laundry_usage_statistics": "สถิติการซักผ้า",
+    "CL_DV_WM_dosage_amount_monitor": "เครื่องตรวจสอบปริมาณ",
+    "CL_DV_WM_Notify_to_buy": "แจ้งเตือนเพื่อซื้อ",
+    "CL_DV_WM_amount_limit_tip": "เมื่อจำนวนน้อยกว่า 10 เท่า",
+    "CL_DV_WM_Softener_Left": "น้ำยาปรับผ้านุ่ม ซ้าย",
+    "CL_DV_WM_Detergent_Left": "ผงซักฟอกเหลือ",
+    "CL_DV_WM_left_times": "ประมาณ ## ครั้ง"
 }
