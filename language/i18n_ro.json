@@ -5007,5 +5007,16 @@
     "CL_CF_UC_delete_account_tips": "Ștergerea nu a reușit, vă rugăm să încercați din nou mai târziu",
     "CL_DV_DW_ai_super_wash": "Super spălare AI",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "designer de vase"
+    "dish_designer": "designer de vase",
+    "CL_SL_CM_laundry_usage_statistics": "Statistici de spălătorie",
+    "CL_DV_WM_dosage_amount_monitor": "monitorizarea sumei",
+    "CL_DV_WM_Notify_to_buy": "Notifica pentru a cumpara",
+    "CL_DV_WM_amount_limit_tip": "când suma este mai mică de 10 ori",
+    "CL_DV_WM_Softener_Left": "Balsam Stânga",
+    "CL_DV_WM_Detergent_Left": "Detergent rămas",
+    "CL_DV_WM_left_times": "De aproximativ ## ori",
+    "CL_CM_Special_offers": "Oferte speciale",
+    "CL_DV_DW_permanent_control_warning": "Dispozitivul ar trebui să fie pornit, dar nu într-un ciclu de spălare.",
+    "CL_CM_Laundry_shop": "Magazin de spălătorie",
+    "CL_CM_Kitchen_shop": "Magazin de bucatarie"
 }

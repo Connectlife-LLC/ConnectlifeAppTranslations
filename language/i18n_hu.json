@@ -5007,5 +5007,16 @@
     "CL_CF_UC_delete_account_tips": "A törlés nem sikerült, kérjük, próbálja meg újra",
     "CL_DV_DW_ai_super_wash": "AI szuper mosás",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "edénytervező"
+    "dish_designer": "edénytervező",
+    "CL_SL_CM_laundry_usage_statistics": "Mosodai statisztika",
+    "CL_DV_WM_dosage_amount_monitor": "mennyiségfigyelő",
+    "CL_DV_WM_Notify_to_buy": "Értesítés a vásárlásról",
+    "CL_DV_WM_amount_limit_tip": "ha az összeg 10-nél kisebb",
+    "CL_DV_WM_Softener_Left": "Lágyító bal",
+    "CL_DV_WM_Detergent_Left": "Mosószer maradt",
+    "CL_DV_WM_left_times": "Körülbelül ## alkalommal",
+    "CL_CM_Special_offers": "Különleges ajánlatok",
+    "CL_DV_DW_permanent_control_warning": "A készüléket be kell kapcsolni, de nem mosási ciklusban.",
+    "CL_CM_Laundry_shop": "Mosoda",
+    "CL_CM_Kitchen_shop": "Konyhai bolt"
 }

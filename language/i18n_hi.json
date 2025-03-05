@@ -5007,5 +5007,16 @@
     "CL_CF_UC_delete_account_tips": "हटाना विफल रहा, कृपया बाद में पुनः प्रयास करें",
     "CL_DV_DW_ai_super_wash": "एआई सुपर वॉश",
     "CL_DV_HOB_cooking_assist_ankoch": "अंकोच",
-    "dish_designer": "डिश डिजाइनर"
+    "dish_designer": "डिश डिजाइनर",
+    "CL_SL_CM_laundry_usage_statistics": "लाँड्री सांख्यिकी",
+    "CL_DV_WM_dosage_amount_monitor": "राशि मॉनिटर",
+    "CL_DV_WM_Notify_to_buy": "खरीदने के लिए सूचित करें",
+    "CL_DV_WM_amount_limit_tip": "जब राशि 10 गुना से कम हो",
+    "CL_DV_WM_Softener_Left": "सॉफ़्नर बायाँ",
+    "CL_DV_WM_Detergent_Left": "डिटर्जेंट बचा",
+    "CL_DV_WM_left_times": "लगभग ## बार",
+    "CL_CM_Special_offers": "खास पेशकश",
+    "CL_DV_DW_permanent_control_warning": "डिवाइस चालू होनी चाहिए, लेकिन धुलाई चक्र में नहीं।",
+    "CL_CM_Laundry_shop": "कपड़े धोने की दुकान",
+    "CL_CM_Kitchen_shop": "रसोई की दुकान"
 }
