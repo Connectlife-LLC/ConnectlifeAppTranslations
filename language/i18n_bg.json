@@ -5007,5 +5007,17 @@
     "CL_CF_UC_delete_account_tips": "Изтриването не бе успешно, моля, опитайте отново по-късно",
     "CL_DV_DW_ai_super_wash": "AI супер измиване",
     "CL_DV_HOB_cooking_assist_ankoch": "Анкоч",
-    "dish_designer": "дизайнер на ястия"
+    "dish_designer": "дизайнер на ястия",
+    "CL_SL_CM_laundry_usage_statistics": "Статистика на прането",
+    "CL_DV_WM_dosage_amount_monitor": "монитор за количество",
+    "CL_DV_WM_Notify_to_buy": "Уведомете за покупка",
+    "CL_DV_WM_amount_limit_tip": "когато сумата е по-малка от 10 пъти",
+    "CL_DV_WM_Softener_Left": "Омекотител вляво",
+    "CL_DV_WM_Detergent_Left": "Оставен перилен препарат",
+    "CL_DV_WM_left_times": "Около ## пъти",
+    "CL_CM_Special_offers": "Специални предложения",
+    "CL_DV_DW_permanent_control_warning": "Устройството трябва да е включено, но не и в цикъл на пране.",
+    "CL_CM_Laundry_shop": "Перален магазин",
+    "CL_CM_Kitchen_shop": "Магазин за кухни",
+    "CL_CF_how_to_enable_remote_control": "Как да активирате дистанционното управление"
 }

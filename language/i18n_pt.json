@@ -5007,5 +5007,17 @@
     "CL_CF_UC_delete_account_tips": "A exclusão falhou, tente novamente mais tarde",
     "CL_DV_DW_ai_super_wash": "Super lavagem de IA",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "designer de pratos"
+    "dish_designer": "designer de pratos",
+    "CL_SL_CM_laundry_usage_statistics": "Estatísticas de Lavanderia",
+    "CL_DV_WM_dosage_amount_monitor": "monitor de quantidade",
+    "CL_DV_WM_Notify_to_buy": "Notificar para comprar",
+    "CL_DV_WM_amount_limit_tip": "quando o valor for menor que 10 vezes",
+    "CL_DV_WM_Softener_Left": "Amaciador Esquerdo",
+    "CL_DV_WM_Detergent_Left": "Detergente Esquerda",
+    "CL_DV_WM_left_times": "Cerca de ## vezes",
+    "CL_CM_Special_offers": "Ofertas especiais",
+    "CL_DV_DW_permanent_control_warning": "O dispositivo deve estar ligado, mas não em um ciclo de lavagem.",
+    "CL_CM_Laundry_shop": "Lavanderia",
+    "CL_CM_Kitchen_shop": "Loja de cozinha",
+    "CL_CF_how_to_enable_remote_control": "Como habilitar o controle remoto"
 }

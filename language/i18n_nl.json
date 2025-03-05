@@ -5007,5 +5007,17 @@
     "CL_CF_UC_delete_account_tips": "Verwijderen mislukt, probeer het later opnieuw",
     "CL_DV_DW_ai_super_wash": "AI superwas",
     "CL_DV_HOB_cooking_assist_ankoch": "Ankoch",
-    "dish_designer": "schotel ontwerper"
+    "dish_designer": "schotel ontwerper",
+    "CL_SL_CM_laundry_usage_statistics": "Wasstatistieken",
+    "CL_DV_WM_dosage_amount_monitor": "hoeveelheid monitor",
+    "CL_DV_WM_Notify_to_buy": "Melden om te kopen",
+    "CL_DV_WM_amount_limit_tip": "wanneer het bedrag minder dan 10 keer is",
+    "CL_DV_WM_Softener_Left": "Waterontharder links",
+    "CL_DV_WM_Detergent_Left": "Wasmiddel overgebleven",
+    "CL_DV_WM_left_times": "Ongeveer ## keer",
+    "CL_CM_Special_offers": "Speciale aanbiedingen",
+    "CL_DV_DW_permanent_control_warning": "Het apparaat moet ingeschakeld zijn, maar mag niet in een wascyclus zitten.",
+    "CL_CM_Laundry_shop": "Wassalon",
+    "CL_CM_Kitchen_shop": "Keukenwinkel",
+    "CL_CF_how_to_enable_remote_control": "Hoe u afstandsbediening inschakelt"
 }
