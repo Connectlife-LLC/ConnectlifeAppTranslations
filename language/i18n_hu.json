@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Mennyiség",
     "CL_DV_HOB_cooking_grams": "## gramm",
     "CL_DV_HOB_monitoring_title": "Monitoring",
-    "CL_DV_HOB_monitor_cooking": "Főzés"
+    "CL_DV_HOB_monitor_cooking": "Főzés",
+    "start_to_scan": "Nyomja meg a START gombot az eszköz beolvasásához"
 }

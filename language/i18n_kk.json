@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Саны",
     "CL_DV_HOB_cooking_grams": "## грамм",
     "CL_DV_HOB_monitoring_title": "Бақылау",
-    "CL_DV_HOB_monitor_cooking": "Тағам дайындау"
+    "CL_DV_HOB_monitor_cooking": "Тағам дайындау",
+    "start_to_scan": "Құрылғыны сканерлеу үшін START түймесін басыңыз"
 }
