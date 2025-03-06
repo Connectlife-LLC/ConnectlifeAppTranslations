@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Množstvo",
     "CL_DV_HOB_cooking_grams": "## gramov",
     "CL_DV_HOB_monitoring_title": "Monitorovanie",
-    "CL_DV_HOB_monitor_cooking": "Varenie"
+    "CL_DV_HOB_monitor_cooking": "Varenie",
+    "start_to_scan": "Stlačte START pre skenovanie zariadenia"
 }

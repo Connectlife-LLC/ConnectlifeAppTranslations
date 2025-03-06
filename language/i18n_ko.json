@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "수량",
     "CL_DV_HOB_cooking_grams": "## 그램",
     "CL_DV_HOB_monitoring_title": "모니터링",
-    "CL_DV_HOB_monitor_cooking": "요리"
+    "CL_DV_HOB_monitor_cooking": "요리",
+    "start_to_scan": "START를 눌러 장치를 스캔하세요"
 }

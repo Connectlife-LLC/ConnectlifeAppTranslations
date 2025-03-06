@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "मात्रा",
     "CL_DV_HOB_cooking_grams": "## ग्राम",
     "CL_DV_HOB_monitoring_title": "निगरानी",
-    "CL_DV_HOB_monitor_cooking": "खाना बनाना"
+    "CL_DV_HOB_monitor_cooking": "खाना बनाना",
+    "start_to_scan": "डिवाइस को स्कैन करने के लिए START दबाएँ"
 }

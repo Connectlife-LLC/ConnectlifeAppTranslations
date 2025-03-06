@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Määrä",
     "CL_DV_HOB_cooking_grams": "## grammaa",
     "CL_DV_HOB_monitoring_title": "Valvonta",
-    "CL_DV_HOB_monitor_cooking": "Ruoanvalmistus"
+    "CL_DV_HOB_monitor_cooking": "Ruoanvalmistus",
+    "start_to_scan": "Skannaa laite painamalla START"
 }

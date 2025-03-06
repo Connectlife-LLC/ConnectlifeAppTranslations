@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Kvantitet",
     "CL_DV_HOB_cooking_grams": "## gram",
     "CL_DV_HOB_monitoring_title": "Övervakning",
-    "CL_DV_HOB_monitor_cooking": "Matlagning"
+    "CL_DV_HOB_monitor_cooking": "Matlagning",
+    "start_to_scan": "Tryck på START för att skanna enheten"
 }

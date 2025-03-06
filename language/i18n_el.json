@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Ποσότητα",
     "CL_DV_HOB_cooking_grams": "## γραμμάρια",
     "CL_DV_HOB_monitoring_title": "Παρακολούθηση",
-    "CL_DV_HOB_monitor_cooking": "Μαγείρεμα"
+    "CL_DV_HOB_monitor_cooking": "Μαγείρεμα",
+    "start_to_scan": "Πατήστε START για να σαρώσετε τη συσκευή"
 }

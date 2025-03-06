@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Số lượng",
     "CL_DV_HOB_cooking_grams": "## gam",
     "CL_DV_HOB_monitoring_title": "Giám sát",
-    "CL_DV_HOB_monitor_cooking": "Đang nấu"
+    "CL_DV_HOB_monitor_cooking": "Đang nấu",
+    "start_to_scan": "Nhấn BẮT ĐẦU để quét thiết bị"
 }

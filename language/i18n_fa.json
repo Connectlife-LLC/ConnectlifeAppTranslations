@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "مقدار",
     "CL_DV_HOB_cooking_grams": "## گرم",
     "CL_DV_HOB_monitoring_title": "نظارت",
-    "CL_DV_HOB_monitor_cooking": "پخت"
+    "CL_DV_HOB_monitor_cooking": "پخت",
+    "start_to_scan": "برای اسکن دستگاه، START را فشار دهید"
 }

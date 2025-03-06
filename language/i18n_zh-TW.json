@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "數量",
     "CL_DV_HOB_cooking_grams": "## 克",
     "CL_DV_HOB_monitoring_title": "監控",
-    "CL_DV_HOB_monitor_cooking": "烹飪"
+    "CL_DV_HOB_monitor_cooking": "烹飪",
+    "start_to_scan": "按“開始”掃描設備"
 }

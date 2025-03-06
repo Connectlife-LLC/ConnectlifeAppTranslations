@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Hoeveelheid",
     "CL_DV_HOB_cooking_grams": "## gram",
     "CL_DV_HOB_monitoring_title": "Toezicht",
-    "CL_DV_HOB_monitor_cooking": "Koken"
+    "CL_DV_HOB_monitor_cooking": "Koken",
+    "start_to_scan": "Druk op START om het apparaat te scannen"
 }

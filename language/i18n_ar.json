@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "كمية",
     "CL_DV_HOB_cooking_grams": "## جرام",
     "CL_DV_HOB_monitoring_title": "يراقب",
-    "CL_DV_HOB_monitor_cooking": "الطبخ"
+    "CL_DV_HOB_monitor_cooking": "الطبخ",
+    "start_to_scan": "اضغط على START لمسح الجهاز"
 }

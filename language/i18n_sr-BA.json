@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Количина",
     "CL_DV_HOB_cooking_grams": "## грама",
     "CL_DV_HOB_monitoring_title": "Мониторинг",
-    "CL_DV_HOB_monitor_cooking": "Aparati za kuvanje"
+    "CL_DV_HOB_monitor_cooking": "Aparati za kuvanje",
+    "start_to_scan": "Притисните СТАРТ да скенирате уређај"
 }

@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Miktar",
     "CL_DV_HOB_cooking_grams": "## gram",
     "CL_DV_HOB_monitoring_title": "İzleme",
-    "CL_DV_HOB_monitor_cooking": "Yemek pişirme"
+    "CL_DV_HOB_monitor_cooking": "Yemek pişirme",
+    "start_to_scan": "Cihazı taramak için BAŞLAT'a basın"
 }

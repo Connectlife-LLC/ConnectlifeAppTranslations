@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "ปริมาณ",
     "CL_DV_HOB_cooking_grams": "## กรัม",
     "CL_DV_HOB_monitoring_title": "การติดตาม",
-    "CL_DV_HOB_monitor_cooking": "การทำอาหาร"
+    "CL_DV_HOB_monitor_cooking": "การทำอาหาร",
+    "start_to_scan": "กด START เพื่อสแกนอุปกรณ์"
 }

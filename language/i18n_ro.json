@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Cantitate",
     "CL_DV_HOB_cooking_grams": "## de grame",
     "CL_DV_HOB_monitoring_title": "Monitorizare",
-    "CL_DV_HOB_monitor_cooking": "GĂTEȘTE"
+    "CL_DV_HOB_monitor_cooking": "GĂTEȘTE",
+    "start_to_scan": "Apăsați START pentru a scana dispozitivul"
 }

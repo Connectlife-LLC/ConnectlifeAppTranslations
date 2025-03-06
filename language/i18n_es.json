@@ -5099,5 +5099,6 @@
     "CL_DV_HOB_cooking_quantity": "Cantidad",
     "CL_DV_HOB_cooking_grams": "## gramos",
     "CL_DV_HOB_monitoring_title": "Escucha",
-    "CL_DV_HOB_monitor_cooking": "Cocinando"
+    "CL_DV_HOB_monitor_cooking": "Cocinando",
+    "start_to_scan": "Presione INICIO para escanear el dispositivo"
 }
