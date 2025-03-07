@@ -3077,7 +3077,7 @@
     "dw_error_f40": "流量计故障",
     "cancel_share": "已取消分享",
     "items_added_to_shopping_list": "已添加到购物单",
-    "drum_illumination": "鼓照明",
+    "drum_illumination": "鼓灯",
     "bundling_detection": "捆扎检测",
     "change_language_tips": "更改设备上的显示语言。",
     "change_brightness_tips": "调整设备显示屏的亮度。",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "饮品库存",
     "ac_statistice_content": "本统计数据基于网络统计，部分数据基于实验室条件实测，仅供用户参考。",
     "CL_CF_FM_x_items_selected": "*** 已选择商品",
-    "CL_CF_FM_remove_items": "移除項目",
+    "CL_CF_FM_remove_items": "移除",
     "p_try_again": "请重试",
     "exit_report_i": "退出报告问题",
     "AW": "阿鲁巴岛",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "购物清单详情",
     "CL_CF_FM_no_shopping_list": "没有购物清单",
     "CL_DV_OV_24_time_zone": "时区",
-    "CL_CF_FM_reset_purchased_tips": "您是否要将此列表中的所有食物重置为未购买状态？",
+    "CL_CF_FM_reset_purchased_tips": "您是否要将此列表中的所有商品重置为未购买状态？",
     "CL_CF_FM_add_food_to_x": "将食物添加到“***”",
     "CL_CF_FM_add_food_to_be_purchased": "添加要购买的食物",
     "CL_DV_OV_24_always_on": "始终开启",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "数量",
     "CL_DV_HOB_cooking_grams": "## 克",
     "CL_DV_HOB_monitoring_title": "监控",
-    "CL_DV_HOB_monitor_cooking": "烹饪"
+    "CL_DV_HOB_monitor_cooking": "烹饪",
+    "start_to_scan": "按“开始”扫描设备",
+    "edit_food_amount_too_large": "该值不能超过 9999"
 }

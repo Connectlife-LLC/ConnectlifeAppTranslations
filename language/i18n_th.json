@@ -3077,7 +3077,7 @@
     "dw_error_f40": "การรั่วไหลของวาล์วทางเข้า",
     "cancel_share": "ได้ยกเลิกการแบ่งปัน",
     "items_added_to_shopping_list": "สินค้าที่เพิ่มเข้าในรายการช้อปปิ้ง",
-    "drum_illumination": "การส่องสว่างของกลอง",
+    "drum_illumination": "ไฟกลอง",
     "bundling_detection": "การตรวจจับการรวมกลุ่ม",
     "change_language_tips": "เปลี่ยนภาษาที่แสดงบนอุปกรณ์ของคุณ",
     "change_brightness_tips": "ปรับความสว่างบนหน้าจออุปกรณ์ของคุณ",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "สินค้าคงคลังเครื่องดื่ม",
     "ac_statistice_content": "ข้อมูลสถิติเหล่านี้เป็นข้อมูลที่พื้นฐานบนสถิติของเครือข่าย และบางส่วนของข้อมูลเป็นข้อมูลที่วัดภายใต้เงื่อนไขห้องทดลองเท่านั้น สำหรับการอ้างอิงของผู้ใช้เท่านั้น",
     "CL_CF_FM_x_items_selected": "*** รายการที่เลือก",
-    "CL_CF_FM_remove_items": "ลบรายการ",
+    "CL_CF_FM_remove_items": "ลบ",
     "p_try_again": "กรุณาลองอีกครั้ง",
     "exit_report_i": "ปัญหาการรายงานการออก",
     "AW": "อารูบา",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "รายละเอียดรายการช้อปปิ้ง",
     "CL_CF_FM_no_shopping_list": "ไม่มีรายการช้อปปิ้ง",
     "CL_DV_OV_24_time_zone": "เขตเวลา",
-    "CL_CF_FM_reset_purchased_tips": "คุณต้องการรีเซ็ตรายการอาหารทั้งหมดในรายการนี้เป็นสถานะไม่ได้ซื้อหรือไม่",
+    "CL_CF_FM_reset_purchased_tips": "คุณต้องการรีเซ็ตรายการทั้งหมดในรายการนี้ให้มีสถานะเป็นไม่ได้ซื้อหรือไม่?",
     "CL_CF_FM_add_food_to_x": "เพิ่มอาหารให้ \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "เพิ่มรายการอาหารที่ต้องการซื้อ",
     "CL_DV_OV_24_always_on": "เปิดตลอดเวลา",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "ปริมาณ",
     "CL_DV_HOB_cooking_grams": "## กรัม",
     "CL_DV_HOB_monitoring_title": "การติดตาม",
-    "CL_DV_HOB_monitor_cooking": "การทำอาหาร"
+    "CL_DV_HOB_monitor_cooking": "การทำอาหาร",
+    "start_to_scan": "กด START เพื่อสแกนอุปกรณ์",
+    "edit_food_amount_too_large": "ค่าไม่สามารถเกิน 9999 ได้"
 }

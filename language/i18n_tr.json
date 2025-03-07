@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Giriş valfinde sızıntı.",
     "cancel_share": "Paylaşmayı iptal etti",
     "items_added_to_shopping_list": "Alışveriş listesine eklenen öğeler",
-    "drum_illumination": "Tambur aydınlatması",
+    "drum_illumination": "Davul ışığı",
     "bundling_detection": "Paketleme tespiti",
     "change_language_tips": "Cihazınızın ekran dilini değiştirin.",
     "change_brightness_tips": "Cihazınızın ekranının parlaklığını ayarlayın.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "İçecek Envanteri",
     "ac_statistice_content": "Bu istatistiksel veriler ağ istatistiklerine dayanmaktadır ve verilerin bir kısmı yalnızca kullanıcının referansı için ölçülen laboratuvar koşullarına dayanmaktadır. ",
     "CL_CF_FM_x_items_selected": "*** öğeler seçildi",
-    "CL_CF_FM_remove_items": "Öğeleri Kaldır",
+    "CL_CF_FM_remove_items": "Kaldırmak",
     "p_try_again": "lütfen tekrar deneyin",
     "exit_report_i": "ÇIKIŞ RAPORLAMA SORUNU",
     "AW": "aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Alışveriş Listesi Ayrıntıları",
     "CL_CF_FM_no_shopping_list": "Alışveriş listesi yok",
     "CL_DV_OV_24_time_zone": "Zaman dilimi",
-    "CL_CF_FM_reset_purchased_tips": "Bu listedeki tüm yiyeceklerin durumunu satın alınmadı olarak sıfırlamak istiyor musunuz?",
+    "CL_CF_FM_reset_purchased_tips": "Bu listedeki tüm öğelerin durumunu satın alınmadı olarak sıfırlamak istiyor musunuz?",
     "CL_CF_FM_add_food_to_x": "\"***\"e yiyecek ekle",
     "CL_CF_FM_add_food_to_be_purchased": "Satın alınacak yiyeceği ekleyin",
     "CL_DV_OV_24_always_on": "Her zaman açık",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Miktar",
     "CL_DV_HOB_cooking_grams": "## gram",
     "CL_DV_HOB_monitoring_title": "İzleme",
-    "CL_DV_HOB_monitor_cooking": "Yemek pişirme"
+    "CL_DV_HOB_monitor_cooking": "Yemek pişirme",
+    "start_to_scan": "Cihazı taramak için BAŞLAT'a basın",
+    "edit_food_amount_too_large": "Değer 9999'u geçemez"
 }

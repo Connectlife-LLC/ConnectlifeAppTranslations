@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Fuite de la soupape d’admission.",
     "cancel_share": "a annulé le partage",
     "items_added_to_shopping_list": "Articles ajoutés à la liste de courses",
-    "drum_illumination": "Éclairage du tambour",
+    "drum_illumination": "Lumière de tambour",
     "bundling_detection": "Détection de regroupement",
     "change_language_tips": "Modifiez la langue d’affichage de votre appareil.",
     "change_brightness_tips": "Ajustez la luminosité de l’écran de votre appareil.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Inventaire des boissons",
     "ac_statistice_content": "Ces données statistiques sont basées sur les statistiques du réseau, et une partie des données est basée sur les conditions de laboratoire mesurées, uniquement à titre de référence pour l’utilisateur.",
     "CL_CF_FM_x_items_selected": "*** éléments sélectionnés",
-    "CL_CF_FM_remove_items": "Supprimer des éléments",
+    "CL_CF_FM_remove_items": "Effacer",
     "p_try_again": "Veuillez réessayer",
     "exit_report_i": "PROBLÈME DE RAPPORT DE SORTIE",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Détails de la liste de courses",
     "CL_CF_FM_no_shopping_list": "Pas de liste de courses",
     "CL_DV_OV_24_time_zone": "Fuseau horaire",
-    "CL_CF_FM_reset_purchased_tips": "Voulez-vous réinitialiser tous les aliments de cette liste au statut non acheté ?",
+    "CL_CF_FM_reset_purchased_tips": "Voulez-vous réinitialiser tous les articles de cette liste au statut non acheté ?",
     "CL_CF_FM_add_food_to_x": "Ajoutez de la nourriture à « *** »",
     "CL_CF_FM_add_food_to_be_purchased": "Ajoutez la nourriture à acheter",
     "CL_DV_OV_24_always_on": "Toujours activé",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Quantité",
     "CL_DV_HOB_cooking_grams": "## grammes",
     "CL_DV_HOB_monitoring_title": "Surveillance",
-    "CL_DV_HOB_monitor_cooking": "Cuisson"
+    "CL_DV_HOB_monitor_cooking": "Cuisson",
+    "start_to_scan": "Appuyez sur START pour scanner l'appareil",
+    "edit_food_amount_too_large": "La valeur ne peut pas dépasser 9999"
 }

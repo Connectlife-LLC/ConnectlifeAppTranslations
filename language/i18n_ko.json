@@ -3077,7 +3077,7 @@
     "dw_error_f40": "흡입 밸브 누출.",
     "cancel_share": "공유를 취소했습니다",
     "items_added_to_shopping_list": "쇼핑 목록에 추가된 항목",
-    "drum_illumination": "드럼 조명",
+    "drum_illumination": "드럼 라이트",
     "bundling_detection": "묶음 감지",
     "change_language_tips": "장치의 표시 언어를 변경하십시오.",
     "change_brightness_tips": "장치 디스플레이의 밝기를 조정합니다.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "음료 재고",
     "ac_statistice_content": "이 통계 데이터는 네트워크 통계를 기반으로 하며, 일부 데이터는 실험실 조건에서 측정된 것으로 사용자 참고용입니다.",
     "CL_CF_FM_x_items_selected": "*** 선택된 항목",
-    "CL_CF_FM_remove_items": "항목 제거",
+    "CL_CF_FM_remove_items": "제거하다",
     "p_try_again": "다시 시도해주세요",
     "exit_report_i": "종료 보고 문제",
     "AW": "아루바",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "쇼핑 목록 세부 정보",
     "CL_CF_FM_no_shopping_list": "쇼핑 목록이 없습니다",
     "CL_DV_OV_24_time_zone": "시간대",
-    "CL_CF_FM_reset_purchased_tips": "이 목록에 있는 모든 음식을 구매하지 않음 상태로 재설정하시겠습니까?",
+    "CL_CF_FM_reset_purchased_tips": "이 목록에 있는 모든 항목을 구매하지 않음 상태로 재설정하시겠습니까?",
     "CL_CF_FM_add_food_to_x": "\"***\"에 음식을 추가하세요",
     "CL_CF_FM_add_food_to_be_purchased": "구매할 음식을 추가하세요",
     "CL_DV_OV_24_always_on": "항상 켜짐",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "수량",
     "CL_DV_HOB_cooking_grams": "## 그램",
     "CL_DV_HOB_monitoring_title": "모니터링",
-    "CL_DV_HOB_monitor_cooking": "요리"
+    "CL_DV_HOB_monitor_cooking": "요리",
+    "start_to_scan": "START를 눌러 장치를 스캔하세요",
+    "edit_food_amount_too_large": "값은 9999를 초과할 수 없습니다."
 }

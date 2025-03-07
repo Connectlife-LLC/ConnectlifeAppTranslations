@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Rò rỉ van đầu vào.",
     "cancel_share": "Đã hủy chia sẻ",
     "items_added_to_shopping_list": "Các mặt hàng được thêm vào danh sách mua sắm",
-    "drum_illumination": "Chiếu sáng trống",
+    "drum_illumination": "Đèn trống",
     "bundling_detection": "Phát hiện gói",
     "change_language_tips": "Thay đổi ngôn ngữ hiển thị trên thiết bị của bạn.",
     "change_brightness_tips": "Điều chỉnh độ sáng trên màn hình thiết bị của bạn.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Đồ uống tồn kho",
     "ac_statistice_content": "Dữ liệu thống kê này dựa trên số liệu thống kê mạng và một phần dữ liệu dựa trên các điều kiện phòng thí nghiệm được đo, chỉ phục vụ cho mục đích tham khảo của người dùng.",
     "CL_CF_FM_x_items_selected": "*** mục đã chọn",
-    "CL_CF_FM_remove_items": "Xóa mục",
+    "CL_CF_FM_remove_items": "Di dời",
     "p_try_again": "vui lòng thử lại",
     "exit_report_i": "VẤN ĐỀ BÁO CÁO THOÁT",
     "AW": "aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Chi tiết danh sách mua sắm",
     "CL_CF_FM_no_shopping_list": "Không có danh sách mua sắm",
     "CL_DV_OV_24_time_zone": "Múi giờ",
-    "CL_CF_FM_reset_purchased_tips": "Bạn có muốn đặt lại tất cả thực phẩm trong danh sách này về trạng thái chưa mua không?",
+    "CL_CF_FM_reset_purchased_tips": "Bạn có muốn đặt lại tất cả các mục trong danh sách này về trạng thái chưa mua không?",
     "CL_CF_FM_add_food_to_x": "Thêm thức ăn vào \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Thêm thực phẩm cần mua",
     "CL_DV_OV_24_always_on": "Luôn luôn bật",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Số lượng",
     "CL_DV_HOB_cooking_grams": "## gam",
     "CL_DV_HOB_monitoring_title": "Giám sát",
-    "CL_DV_HOB_monitor_cooking": "Đang nấu"
+    "CL_DV_HOB_monitor_cooking": "Đang nấu",
+    "start_to_scan": "Nhấn BẮT ĐẦU để quét thiết bị",
+    "edit_food_amount_too_large": "Giá trị không thể vượt quá 9999"
 }
