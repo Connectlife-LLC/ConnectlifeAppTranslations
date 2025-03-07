@@ -3077,7 +3077,7 @@
     "dw_error_f40": "تسرب صمام المدخل.",
     "cancel_share": "ألغى المشاركة",
     "items_added_to_shopping_list": "العناصر المضافة إلى قائمة التسوق",
-    "drum_illumination": "إضاءة الأسطوانة",
+    "drum_illumination": "ضوء الطبلة",
     "bundling_detection": "كشف التجميع",
     "change_language_tips": "قم بتغيير لغة العرض على جهازك.",
     "change_brightness_tips": "اضبط السطوع على شاشة جهازك.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "مخزون المشروبات",
     "ac_statistice_content": "تستند هذه البيانات الإحصائية إلى إحصاءات الشبكة ، ويستند جزء من البيانات إلى ظروف المختبر التي تم قياسها ، فقط للرجوع إليها من قبل المستخدم.",
     "CL_CF_FM_x_items_selected": "*** العناصر المحددة",
-    "CL_CF_FM_remove_items": "إزالة العناصر",
+    "CL_CF_FM_remove_items": "يزيل",
     "p_try_again": "من فضلك حاول مرة أخرى",
     "exit_report_i": "مشكلة الإبلاغ عن الخروج",
     "AW": "أروبا",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "تفاصيل قائمة التسوق",
     "CL_CF_FM_no_shopping_list": "لا يوجد قائمة تسوق",
     "CL_DV_OV_24_time_zone": "المنطقة الزمنية",
-    "CL_CF_FM_reset_purchased_tips": "هل تريد إعادة تعيين جميع الأطعمة الموجودة في هذه القائمة إلى حالة \"غير مشتراة\"؟",
+    "CL_CF_FM_reset_purchased_tips": "هل تريد إعادة تعيين كافة العناصر الموجودة في هذه القائمة إلى حالة \"لم يتم الشراء\"؟",
     "CL_CF_FM_add_food_to_x": "أضف الطعام إلى \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "أضف الطعام المراد شراؤه",
     "CL_DV_OV_24_always_on": "دائما على",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "كمية",
     "CL_DV_HOB_cooking_grams": "## جرام",
     "CL_DV_HOB_monitoring_title": "يراقب",
-    "CL_DV_HOB_monitor_cooking": "الطبخ"
+    "CL_DV_HOB_monitor_cooking": "الطبخ",
+    "start_to_scan": "اضغط على START لمسح الجهاز",
+    "edit_food_amount_too_large": "القيمة لا يمكن أن تتجاوز 9999"
 }

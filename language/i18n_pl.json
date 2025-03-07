@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Nieszczelność zaworu wlotowego.",
     "cancel_share": "anulował udostępnianie",
     "items_added_to_shopping_list": "Pozycje dodane do listy zakupów",
-    "drum_illumination": "Oświetlenie bębna",
+    "drum_illumination": "Światło bębna",
     "bundling_detection": "Wykrywanie pakietowania",
     "change_language_tips": "Zmień język wyświetlania na swoim urządzeniu.",
     "change_brightness_tips": "Dostosuj jasność wyświetlacza urządzenia.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Inwentarz napojów",
     "ac_statistice_content": "Te dane statystyczne są oparte na statystykach sieciowych, a część danych jest oparta na warunkach laboratoryjnych, tylko dla informacji użytkowników.",
     "CL_CF_FM_x_items_selected": "*** wybrane pozycje",
-    "CL_CF_FM_remove_items": "Usuń elementy",
+    "CL_CF_FM_remove_items": "Usunąć",
     "p_try_again": "Proszę spróbować ponownie",
     "exit_report_i": "PROBLEM RAPORTOWANIA WYJŚCIA",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Szczegóły listy zakupów",
     "CL_CF_FM_no_shopping_list": "Brak listy zakupów",
     "CL_DV_OV_24_time_zone": "Strefa czasowa",
-    "CL_CF_FM_reset_purchased_tips": "Czy chcesz przywrócić wszystkim produktom spożywczym na tej liście status „niezakupione”?",
+    "CL_CF_FM_reset_purchased_tips": "Czy chcesz przywrócić wszystkim elementom na tej liście status „niezakupione”?",
     "CL_CF_FM_add_food_to_x": "Dodaj jedzenie do \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Dodaj żywność, którą chcesz kupić",
     "CL_DV_OV_24_always_on": "Zawsze włączony",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Ilość",
     "CL_DV_HOB_cooking_grams": "## gramów",
     "CL_DV_HOB_monitoring_title": "Monitorowanie",
-    "CL_DV_HOB_monitor_cooking": "Gotowanie"
+    "CL_DV_HOB_monitor_cooking": "Gotowanie",
+    "start_to_scan": "Naciśnij START, aby przeskanować urządzenie",
+    "edit_food_amount_too_large": "Wartość nie może przekroczyć 9999"
 }

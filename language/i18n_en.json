@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Inlet valve leakage.",
     "cancel_share": "has canceled sharing",
     "items_added_to_shopping_list": "Items added to the shopping list",
-    "drum_illumination": "Drum illumination",
+    "drum_illumination": "Drum light",
     "bundling_detection": "Bundling detection",
     "change_language_tips": "Change the display language on your device.",
     "change_brightness_tips": "Adjust the brightness on your device display.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Drink Inventory",
     "ac_statistice_content": "This statistical data is based on network statistics, and part of the data is based on laboratory conditions measured, only for user’s reference. ",
     "CL_CF_FM_x_items_selected": "*** items selected",
-    "CL_CF_FM_remove_items": "Remove Items",
+    "CL_CF_FM_remove_items": "Remove",
     "p_try_again": "please try again",
     "exit_report_i": "EXIT REPORTING ISSUE",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Shopping List Details",
     "CL_CF_FM_no_shopping_list": "No shopping list",
     "CL_DV_OV_24_time_zone": "Time zone",
-    "CL_CF_FM_reset_purchased_tips": "Do you want to reset all the foods in this list to the status of not purchased ?",
+    "CL_CF_FM_reset_purchased_tips": "Do you want to reset all the items in this list to the status of not purchased ?",
     "CL_CF_FM_add_food_to_x": "Add food to \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Add the food to be purchased",
     "CL_DV_OV_24_always_on": "Always On",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Quantity",
     "CL_DV_HOB_cooking_grams": "## grams",
     "CL_DV_HOB_monitoring_title": "Monitoring",
-    "CL_DV_HOB_monitor_cooking": "Cooking"
+    "CL_DV_HOB_monitor_cooking": "Cooking",
+    "start_to_scan": "Press START to scan the device",
+    "edit_food_amount_too_large": "The amount cannot exceed 9999"
 }

@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Цурење улазног вентила.",
     "cancel_share": "је отказао дељење",
     "items_added_to_shopping_list": "Ставке додате на листу за куповину",
-    "drum_illumination": "Осветљење бубња",
+    "drum_illumination": "Светло бубња",
     "bundling_detection": "Откривање груписања",
     "change_language_tips": "Промените језик приказа на свом уређају.",
     "change_brightness_tips": "Подесите осветљеност на екрану уређаја.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Инвентар пића",
     "ac_statistice_content": "Ови статистички подаци се заснивају на мрежној статистици, а део података се заснива на лабораторијским условима мерења, само за кориснике.",
     "CL_CF_FM_x_items_selected": "*** одабране ставке",
-    "CL_CF_FM_remove_items": "Уклони ставке",
+    "CL_CF_FM_remove_items": "Уклони",
     "p_try_again": "покушајте поново",
     "exit_report_i": "ПРОБЛЕМ ИЗВЕШТАВАЊА ИЗЛАЗА",
     "AW": "Аруба",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Детаљи листе за куповину",
     "CL_CF_FM_no_shopping_list": "Нема листе за куповину",
     "CL_DV_OV_24_time_zone": "Временска зона",
-    "CL_CF_FM_reset_purchased_tips": "Да ли желите да све намирнице на овој листи ресетујете на статус некупљене?",
+    "CL_CF_FM_reset_purchased_tips": "Да ли желите да ресетујете све ставке на овој листи на статус нису купљене?",
     "CL_CF_FM_add_food_to_x": "Додајте храну у \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Додајте храну коју желите да купите",
     "CL_DV_OV_24_always_on": "Алваис Он",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Количина",
     "CL_DV_HOB_cooking_grams": "## грама",
     "CL_DV_HOB_monitoring_title": "Мониторинг",
-    "CL_DV_HOB_monitor_cooking": "Aparati za kuvanje"
+    "CL_DV_HOB_monitor_cooking": "Aparati za kuvanje",
+    "start_to_scan": "Притисните СТАРТ да скенирате уређај",
+    "edit_food_amount_too_large": "Вредност не може бити већа од 9999"
 }

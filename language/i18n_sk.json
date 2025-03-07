@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Netesnosť vstupného ventilu.",
     "cancel_share": "Zrušil zdieľanie",
     "items_added_to_shopping_list": "Položky pridané do nákupného zoznamu",
-    "drum_illumination": "Osvetlenie bubna",
+    "drum_illumination": "Svetlo bubna",
     "bundling_detection": "Detekcia viazania",
     "change_language_tips": "Zmeňte jazyk zobrazenia na vašom zariadení.",
     "change_brightness_tips": "Upravte jas displeja vášho zariadenia.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Nápojový inventár",
     "ac_statistice_content": "Tieto štatistické údaje sú založené na štatistikách siete a časť údajov je založená na laboratórnych podmienkach meraných, len pre používateľov na referenciu.",
     "CL_CF_FM_x_items_selected": "*** vybraných položiek",
-    "CL_CF_FM_remove_items": "Odstrániť položky",
+    "CL_CF_FM_remove_items": "Odstrániť",
     "p_try_again": "skúste to znova",
     "exit_report_i": "UKONČIŤ HLÁSENIE PROBLÉMU",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Podrobnosti nákupného zoznamu",
     "CL_CF_FM_no_shopping_list": "Žiadny nákupný zoznam",
     "CL_DV_OV_24_time_zone": "Časové pásmo",
-    "CL_CF_FM_reset_purchased_tips": "Chcete obnoviť všetky potraviny v tomto zozname do stavu nekúpené?",
+    "CL_CF_FM_reset_purchased_tips": "Chcete obnoviť všetky položky v tomto zozname do stavu nezakúpené?",
     "CL_CF_FM_add_food_to_x": "Pridať jedlo do \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Pridajte jedlo, ktoré chcete zakúpiť",
     "CL_DV_OV_24_always_on": "Vždy zapnuté",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Množstvo",
     "CL_DV_HOB_cooking_grams": "## gramov",
     "CL_DV_HOB_monitoring_title": "Monitorovanie",
-    "CL_DV_HOB_monitor_cooking": "Varenie"
+    "CL_DV_HOB_monitor_cooking": "Varenie",
+    "start_to_scan": "Stlačte START pre skenovanie zariadenia",
+    "edit_food_amount_too_large": "Hodnota nemôže presiahnuť 9999"
 }

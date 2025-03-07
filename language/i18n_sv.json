@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Flödesmätarfel",
     "cancel_share": "har avbrutit delning",
     "items_added_to_shopping_list": "Artiklar läggs till i inköpslistan",
-    "drum_illumination": "Trumbelysning",
+    "drum_illumination": "Trumljus",
     "bundling_detection": "Buntningsdetektering",
     "change_language_tips": "Ändra visningsspråket på din enhet.",
     "change_brightness_tips": "Justera ljusstyrkan på enhetens skärm.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Drycksinventering",
     "ac_statistice_content": "Dessa statistiska data är baserade på nätverksstatistik, och en del av datan är baserad på laboratorieförhållanden som mätts, endast för användarnas referens.",
     "CL_CF_FM_x_items_selected": "*** objekt valda",
-    "CL_CF_FM_remove_items": "Ta bort objekt",
+    "CL_CF_FM_remove_items": "Ta bort",
     "p_try_again": "försök igen",
     "exit_report_i": "AVSLUTA RAPPORTERINGSFRÅGET",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Inköpslista Detaljer",
     "CL_CF_FM_no_shopping_list": "Ingen inköpslista",
     "CL_DV_OV_24_time_zone": "Tidszon",
-    "CL_CF_FM_reset_purchased_tips": "Vill du återställa alla livsmedel i den här listan till statusen ej köpt?",
+    "CL_CF_FM_reset_purchased_tips": "Vill du återställa alla artiklar i den här listan till statusen ej köpt?",
     "CL_CF_FM_add_food_to_x": "Lägg till mat till \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Lägg till maten som ska köpas",
     "CL_DV_OV_24_always_on": "Alltid på",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Kvantitet",
     "CL_DV_HOB_cooking_grams": "## gram",
     "CL_DV_HOB_monitoring_title": "Övervakning",
-    "CL_DV_HOB_monitor_cooking": "Matlagning"
+    "CL_DV_HOB_monitor_cooking": "Matlagning",
+    "start_to_scan": "Tryck på START för att skanna enheten",
+    "edit_food_amount_too_large": "Värdet får inte överstiga 9999"
 }

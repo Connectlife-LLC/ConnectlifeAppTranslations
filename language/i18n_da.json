@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Indløbsventil lækage.",
     "cancel_share": "Har annulleret deling",
     "items_added_to_shopping_list": "Varer tilføjet til indkøbslisten",
-    "drum_illumination": "Tromle belysning",
+    "drum_illumination": "Tromme lys",
     "bundling_detection": "Bundling detektion",
     "change_language_tips": "Skift visningssproget på din enhed.",
     "change_brightness_tips": "Juster lysstyrken på din enheds skærm.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Drikkevareopgørelse",
     "ac_statistice_content": "Disse statistiske data er baseret på netværksstatistikker, og en del af dataene er baseret på laboratorieforhold, der er målt, kun til brugernes reference.",
     "CL_CF_FM_x_items_selected": "*** elementer valgt",
-    "CL_CF_FM_remove_items": "Fjern elementer",
+    "CL_CF_FM_remove_items": "Fjern",
     "p_try_again": "prøv venligst igen",
     "exit_report_i": "AFSLUT RAPPORTERINGSPROBLEM",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Indkøbsliste detaljer",
     "CL_CF_FM_no_shopping_list": "Ingen indkøbsliste",
     "CL_DV_OV_24_time_zone": "Tidszone",
-    "CL_CF_FM_reset_purchased_tips": "Vil du nulstille alle fødevarerne på denne liste til status som ikke købt?",
+    "CL_CF_FM_reset_purchased_tips": "Vil du nulstille alle varer på denne liste til status som ikke købt?",
     "CL_CF_FM_add_food_to_x": "Tilføj mad til \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Tilføj den mad, der skal købes",
     "CL_DV_OV_24_always_on": "Altid TIL",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Mængde",
     "CL_DV_HOB_cooking_grams": "## gram",
     "CL_DV_HOB_monitoring_title": "Overvågning",
-    "CL_DV_HOB_monitor_cooking": "Madlavning"
+    "CL_DV_HOB_monitor_cooking": "Madlavning",
+    "start_to_scan": "Tryk på START for at scanne enheden",
+    "edit_food_amount_too_large": "Værdien må ikke overstige 9999"
 }

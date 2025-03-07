@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Истекување на влезниот вентил.",
     "cancel_share": "Го откажа споделувањето",
     "items_added_to_shopping_list": "Предметите се додадени во списокот за купување",
-    "drum_illumination": "Осветлување на барабанот",
+    "drum_illumination": "Светло на барабанот",
     "bundling_detection": "Откривање на здружување",
     "change_language_tips": "Променете го јазикот на прикажување на вашиот уред.",
     "change_brightness_tips": "Прилагодете ја осветленоста на екранот на вашиот уред.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Инвентар за пијалоци",
     "ac_statistice_content": "Овие статистички податоци се базираат на мрежна статистика, а дел од податоците се базираат на измерени лабораториски услови, само за упатување на корисникот. ",
     "CL_CF_FM_x_items_selected": "Избрани се *** ставки",
-    "CL_CF_FM_remove_items": "Отстрани ставки",
+    "CL_CF_FM_remove_items": "Отстрани",
     "p_try_again": "ве молиме обидете се повторно",
     "exit_report_i": "ИЗЛЕЗЕТЕ ГО ПРОБРАЛОТ СО ИЗВЕСТУВАЊЕ",
     "AW": "аруба",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Детали за списокот за купување",
     "CL_CF_FM_no_shopping_list": "Нема список за купување",
     "CL_DV_OV_24_time_zone": "Временска зона",
-    "CL_CF_FM_reset_purchased_tips": "Дали сакате да ја ресетирате целата храна во оваа листа на статусот на некупена?",
+    "CL_CF_FM_reset_purchased_tips": "Дали сакате да ги ресетирате сите ставки во оваа листа на статусот на некупени?",
     "CL_CF_FM_add_food_to_x": "Додајте храна во „***“",
     "CL_CF_FM_add_food_to_be_purchased": "Додадете ја храната што треба да се купи",
     "CL_DV_OV_24_always_on": "Секогаш вклучено",
@@ -5099,5 +5099,7 @@
     "CL_DV_HOB_cooking_quantity": "Количина",
     "CL_DV_HOB_cooking_grams": "## грама",
     "CL_DV_HOB_monitoring_title": "Мониторинг",
-    "CL_DV_HOB_monitor_cooking": "Готвење"
+    "CL_DV_HOB_monitor_cooking": "Готвење",
+    "start_to_scan": "Притиснете СТАРТ за да го скенирате уредот",
+    "edit_food_amount_too_large": "Вредноста не може да надмине 9999"
 }
