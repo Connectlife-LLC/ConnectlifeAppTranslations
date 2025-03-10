@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Innløpsventillekkasje.",
     "cancel_share": "Har avbrutt deling",
     "items_added_to_shopping_list": "Varer lagt til handlelisten",
-    "drum_illumination": "Trommelbelysning",
+    "drum_illumination": "Trommelys",
     "bundling_detection": "Bunting deteksjon",
     "change_language_tips": "Endre visningsspråket på enheten.",
     "change_brightness_tips": "Juster lysstyrken på enhetens skjerm.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Drikkelager",
     "ac_statistice_content": "Disse statistiske dataene er basert på nettverksstatistikk, og en del av dataene er basert på laboratorieforhold som er målt, kun for brukernes referanse.",
     "CL_CF_FM_x_items_selected": "*** elementer valgt",
-    "CL_CF_FM_remove_items": "Fjern elementer",
+    "CL_CF_FM_remove_items": "Fjerne",
     "p_try_again": "vennligst prøv igjen",
     "exit_report_i": "AVSLUTT RAPPORTERINGSPROBLEM",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Handlelistedetaljer",
     "CL_CF_FM_no_shopping_list": "Ingen handleliste",
     "CL_DV_OV_24_time_zone": "Tidssone",
-    "CL_CF_FM_reset_purchased_tips": "Vil du tilbakestille alle matvarene i denne listen til statusen ikke kjøpt?",
+    "CL_CF_FM_reset_purchased_tips": "Vil du tilbakestille alle varene i denne listen til statusen ikke kjøpt?",
     "CL_CF_FM_add_food_to_x": "Legg til mat i \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Legg til maten som skal kjøpes",
     "CL_DV_OV_24_always_on": "Alltid på",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "Mengde",
     "CL_DV_HOB_cooking_grams": "## gram",
     "CL_DV_HOB_monitoring_title": "Overvåking",
-    "CL_DV_HOB_monitor_cooking": "Tilberedning"
+    "CL_DV_HOB_monitor_cooking": "Tilberedning",
+    "start_to_scan": "Trykk på START for å skanne enheten",
+    "edit_food_amount_too_large": "Verdien kan ikke overstige 9999",
+    "CL_CF_FM_automatically_create_shopping_list": "Du har ikke en handleliste ennå, den blir automatisk opprettet for deg."
 }

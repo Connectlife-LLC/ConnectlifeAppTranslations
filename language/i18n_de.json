@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Undichtigkeit am Einlassventil.",
     "cancel_share": "Hat das Teilen abgebrochen",
     "items_added_to_shopping_list": "Zur Einkaufsliste hinzugefügte Artikel",
-    "drum_illumination": "Trommelbeleuchtung",
+    "drum_illumination": "Trommellicht",
     "bundling_detection": "Bündelungserkennung",
     "change_language_tips": "Ändern Sie die Anzeigesprache auf Ihrem Gerät.",
     "change_brightness_tips": "Passen Sie die Helligkeit des Displays Ihres Geräts an.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Getränkeinventar",
     "ac_statistice_content": "Diese statistischen Daten basieren auf Netzwerkstatistiken, und ein Teil der Daten basiert auf im Labor gemessenen Bedingungen, nur zur Referenz der Benutzer.",
     "CL_CF_FM_x_items_selected": "*** Elemente ausgewählt",
-    "CL_CF_FM_remove_items": "Elemente entfernen",
+    "CL_CF_FM_remove_items": "Entfernen",
     "p_try_again": "Bitte versuchen Sie es erneut",
     "exit_report_i": "PROBLEM BEIM BEENDEN DER BERICHTERSTATTUNG",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Einkaufslistendetails",
     "CL_CF_FM_no_shopping_list": "Keine Einkaufsliste",
     "CL_DV_OV_24_time_zone": "Zeitzone",
-    "CL_CF_FM_reset_purchased_tips": "Möchten Sie alle Lebensmittel in dieser Liste auf den Status „Nicht gekauft“ zurücksetzen?",
+    "CL_CF_FM_reset_purchased_tips": "Möchten Sie alle Artikel in dieser Liste auf den Status „Nicht gekauft“ zurücksetzen?",
     "CL_CF_FM_add_food_to_x": "Essen zu \"***\" hinzufügen",
     "CL_CF_FM_add_food_to_be_purchased": "Fügen Sie die zu kaufenden Lebensmittel hinzu",
     "CL_DV_OV_24_always_on": "Immer an",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "Menge",
     "CL_DV_HOB_cooking_grams": "## Gramm",
     "CL_DV_HOB_monitoring_title": "Überwachung",
-    "CL_DV_HOB_monitor_cooking": "Kochen"
+    "CL_DV_HOB_monitor_cooking": "Kochen",
+    "start_to_scan": "Drücken Sie START, um das Gerät zu scannen",
+    "edit_food_amount_too_large": "Der Wert darf nicht größer als 9999 sein.",
+    "CL_CF_FM_automatically_create_shopping_list": "Du hast noch keine Einkaufsliste, diese wird automatisch für Dich erstellt."
 }

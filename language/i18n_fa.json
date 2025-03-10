@@ -3077,7 +3077,7 @@
     "dw_error_f40": "نشتی دریچه ورودی.",
     "cancel_share": "لغو اشتراک",
     "items_added_to_shopping_list": "اقلام اضافه شده به لیست خرید",
-    "drum_illumination": "نورپردازی درام",
+    "drum_illumination": "نور طبل",
     "bundling_detection": "تشخیص بسته بندی",
     "change_language_tips": "زبان نمایش دستگاه خود را تغییر دهید.",
     "change_brightness_tips": "روشنایی صفحه نمایش دستگاه خود را تنظیم کنید.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "موجودی نوشیدنی",
     "ac_statistice_content": "این داده‌های آماری مبتنی بر آمارهای شبکه و بخشی از داده‌های مبتنی بر شرایط اندازه‌گیری‌شده در آزمایشگاه، فقط جهت اطلاع کاربران است.",
     "CL_CF_FM_x_items_selected": "*** موارد انتخاب شده است",
-    "CL_CF_FM_remove_items": "موارد را حذف کنید",
+    "CL_CF_FM_remove_items": "حذف کنید",
     "p_try_again": "لطفا دوباره امتحان کنید",
     "exit_report_i": "خروج از مسئله گزارش",
     "AW": "آروبا",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "جزئیات لیست خرید",
     "CL_CF_FM_no_shopping_list": "بدون لیست خرید",
     "CL_DV_OV_24_time_zone": "منطقه زمانی",
-    "CL_CF_FM_reset_purchased_tips": "آیا می خواهید همه غذاهای این لیست را به وضعیت خریداری نشده بازنشانی کنید؟",
+    "CL_CF_FM_reset_purchased_tips": "آیا می خواهید همه موارد موجود در این لیست را به وضعیت خریداری نشده بازنشانی کنید؟",
     "CL_CF_FM_add_food_to_x": "اضافه کردن غذا به \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "غذای خریداری شده را اضافه کنید",
     "CL_DV_OV_24_always_on": "همیشه روشن",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "مقدار",
     "CL_DV_HOB_cooking_grams": "## گرم",
     "CL_DV_HOB_monitoring_title": "نظارت",
-    "CL_DV_HOB_monitor_cooking": "پخت"
+    "CL_DV_HOB_monitor_cooking": "پخت",
+    "start_to_scan": "برای اسکن دستگاه، START را فشار دهید",
+    "edit_food_amount_too_large": "مقدار نمی تواند از 9999 تجاوز کند",
+    "CL_CF_FM_automatically_create_shopping_list": "شما هنوز لیست خرید ندارید، به طور خودکار برای شما ایجاد می شود."
 }

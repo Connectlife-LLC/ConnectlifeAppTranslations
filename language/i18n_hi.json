@@ -3077,7 +3077,7 @@
     "dw_error_f40": "इनलेट वाल्व रिसाव.",
     "cancel_share": "ने साझा करना रद्द कर दिया है",
     "items_added_to_shopping_list": "खरीदारी सूची में आइटम जोड़े गए",
-    "drum_illumination": "ड्रम रोशनी",
+    "drum_illumination": "ड्रम लाइट",
     "bundling_detection": "बंडलिंग का पता लगाना",
     "change_language_tips": "अपने डिवाइस पर डिस्प्ले भाषा बदलें.",
     "change_brightness_tips": "अपने डिवाइस डिस्प्ले पर चमक समायोजित करें।",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "पेय सूची",
     "ac_statistice_content": "यह सांख्यिकीय डेटा नेटवर्क सांख्यिकियों पर आधारित है, और डेटा का हिस्सा प्रयोगशाला स्थितियों पर मापा गया है, केवल उपयोगकर्ताओं के संदर्भ के लिए।",
     "CL_CF_FM_x_items_selected": "*** आइटम चयनित",
-    "CL_CF_FM_remove_items": "आइटम हटाएँ",
+    "CL_CF_FM_remove_items": "निकालना",
     "p_try_again": "कृपया पुन: प्रयास करें",
     "exit_report_i": "निकास रिपोर्टिंग समस्या",
     "AW": "अरूबा",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "खरीदारी सूची विवरण",
     "CL_CF_FM_no_shopping_list": "कोई खरीदारी सूची नहीं",
     "CL_DV_OV_24_time_zone": "समय क्षेत्र",
-    "CL_CF_FM_reset_purchased_tips": "क्या आप इस सूची में शामिल सभी खाद्य पदार्थों को 'नहीं खरीदा गया' की स्थिति पर रीसेट करना चाहते हैं?",
+    "CL_CF_FM_reset_purchased_tips": "क्या आप इस सूची में सभी आइटमों को 'नहीं खरीदा गया' की स्थिति पर रीसेट करना चाहते हैं?",
     "CL_CF_FM_add_food_to_x": "\"***\" में भोजन जोड़ें",
     "CL_CF_FM_add_food_to_be_purchased": "खरीदे जाने वाले खाद्य पदार्थ जोड़ें",
     "CL_DV_OV_24_always_on": "हमेशा बने रहें",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "मात्रा",
     "CL_DV_HOB_cooking_grams": "## ग्राम",
     "CL_DV_HOB_monitoring_title": "निगरानी",
-    "CL_DV_HOB_monitor_cooking": "खाना बनाना"
+    "CL_DV_HOB_monitor_cooking": "खाना बनाना",
+    "start_to_scan": "डिवाइस को स्कैन करने के लिए START दबाएँ",
+    "edit_food_amount_too_large": "मान 9999 से अधिक नहीं हो सकता",
+    "CL_CF_FM_automatically_create_shopping_list": "यदि आपके पास अभी तक खरीदारी की सूची नहीं है, तो वह आपके लिए स्वचालित रूप से बना दी जाएगी।"
 }

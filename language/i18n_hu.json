@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Áramlásmérő hiba",
     "cancel_share": "megszakította a megosztást",
     "items_added_to_shopping_list": "A bevásárlólistára felvett tételek",
-    "drum_illumination": "Dob megvilágítás",
+    "drum_illumination": "Dobfény",
     "bundling_detection": "Kötegészlelés",
     "change_language_tips": "Módosítsa a kijelző nyelvét az eszközön.",
     "change_brightness_tips": "Állítsa be az eszköz kijelzőjének fényerejét.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Italkészlet",
     "ac_statistice_content": "Ez a statisztikai adatok a hálózati statisztikákra épülnek, és az adatok egy része laboratóriumi körülmények között mértek, csak a felhasználók számára.",
     "CL_CF_FM_x_items_selected": "*** elemek kiválasztva",
-    "CL_CF_FM_remove_items": "Elemek eltávolítása",
+    "CL_CF_FM_remove_items": "Távolítsa el",
     "p_try_again": "próbáld újra",
     "exit_report_i": "KILÉPÉS A JELENTÉSI PROBLÉMÁBÓL",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Bevásárlólista részletei",
     "CL_CF_FM_no_shopping_list": "Nincs bevásárlólista",
     "CL_DV_OV_24_time_zone": "Időzóna",
-    "CL_CF_FM_reset_purchased_tips": "Vissza szeretné állítani a listán szereplő összes élelmiszert a nem vásárolt állapotba?",
+    "CL_CF_FM_reset_purchased_tips": "Szeretné visszaállítani a listán szereplő összes elemet a nem vásárolt állapotba?",
     "CL_CF_FM_add_food_to_x": "Élelmiszer hozzáadása a \"***\"-hoz",
     "CL_CF_FM_add_food_to_be_purchased": "Adja hozzá a megvásárolni kívánt élelmiszert",
     "CL_DV_OV_24_always_on": "Mindig bekapcsolva",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "Mennyiség",
     "CL_DV_HOB_cooking_grams": "## gramm",
     "CL_DV_HOB_monitoring_title": "Monitoring",
-    "CL_DV_HOB_monitor_cooking": "Főzés"
+    "CL_DV_HOB_monitor_cooking": "Főzés",
+    "start_to_scan": "Nyomja meg a START gombot az eszköz beolvasásához",
+    "edit_food_amount_too_large": "Az érték nem haladhatja meg a 9999-et",
+    "CL_CF_FM_automatically_create_shopping_list": "Még nincs bevásárlólistája, az automatikusan létrejön Önnek."
 }
