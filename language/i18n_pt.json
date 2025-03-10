@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Fuga na válvula de entrada.",
     "cancel_share": "cancelou a partilha",
     "items_added_to_shopping_list": "Artigos adicionados à lista de compras",
-    "drum_illumination": "Iluminação do tambor",
+    "drum_illumination": "Luz de tambor",
     "bundling_detection": "Detecção de agrupamento",
     "change_language_tips": "Alterar o idioma de apresentação no seu equipamento.",
     "change_brightness_tips": "Ajustar o brilho do ecrã do equipamento.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Inventário de bebidas",
     "ac_statistice_content": "Estes dados estatísticos baseiam-se em estatísticas de rede e parte dos dados baseia-se em condições laboratoriais medidas, apenas para referência do utilizador. ",
     "CL_CF_FM_x_items_selected": "*** itens selecionados",
-    "CL_CF_FM_remove_items": "Remover itens",
+    "CL_CF_FM_remove_items": "Remover",
     "p_try_again": "por favor tente novamente",
     "exit_report_i": "PROBLEMA DE RELATÓRIO DE SAÍDA",
     "AW": "Aruba",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "Quantidade",
     "CL_DV_HOB_cooking_grams": "## gramas",
     "CL_DV_HOB_monitoring_title": "Monitoramento",
-    "CL_DV_HOB_monitor_cooking": "Cozinhar"
+    "CL_DV_HOB_monitor_cooking": "Cozinhar",
+    "start_to_scan": "Pressione START para escanear o dispositivo",
+    "edit_food_amount_too_large": "O valor não pode exceder 9999",
+    "CL_CF_FM_automatically_create_shopping_list": "Você ainda não tem uma lista de compras, ela será criada automaticamente para você."
 }

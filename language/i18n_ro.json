@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Scurgeri la supapa de admisie.",
     "cancel_share": "a anulat distribuirea",
     "items_added_to_shopping_list": "Articole adăugate la lista de cumpărături",
-    "drum_illumination": "Iluminarea tamburului",
+    "drum_illumination": "Lumină tambur",
     "bundling_detection": "Detectarea grupării",
     "change_language_tips": "Schimbați limba de afișare pe dispozitiv.",
     "change_brightness_tips": "Reglați luminozitatea afișajului dispozitivului dvs.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Inventarul băuturilor",
     "ac_statistice_content": "Aceste date statistice se bazează pe statisticile rețelei, iar o parte din date se bazează pe condițiile de laborator măsurate, doar pentru referință de către utilizator.",
     "CL_CF_FM_x_items_selected": "*** articole selectate",
-    "CL_CF_FM_remove_items": "Eliminați articole",
+    "CL_CF_FM_remove_items": "Elimina",
     "p_try_again": "vă rugăm să încercați din nou",
     "exit_report_i": "PROBLEMA DE RAPORTARE LA IEȘI",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Detalii Lista de cumpărături",
     "CL_CF_FM_no_shopping_list": "Fără listă de cumpărături",
     "CL_DV_OV_24_time_zone": "Fus orar",
-    "CL_CF_FM_reset_purchased_tips": "Doriți să resetați toate alimentele din această listă la statutul de neachiziționat?",
+    "CL_CF_FM_reset_purchased_tips": "Doriți să resetați toate articolele din această listă la starea de neachiziționat?",
     "CL_CF_FM_add_food_to_x": "Adăugați mâncare la „***”",
     "CL_CF_FM_add_food_to_be_purchased": "Adăugați mâncarea de cumpărat",
     "CL_DV_OV_24_always_on": "Întotdeauna Pornit",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "Cantitate",
     "CL_DV_HOB_cooking_grams": "## de grame",
     "CL_DV_HOB_monitoring_title": "Monitorizare",
-    "CL_DV_HOB_monitor_cooking": "GĂTEȘTE"
+    "CL_DV_HOB_monitor_cooking": "GĂTEȘTE",
+    "start_to_scan": "Apăsați START pentru a scana dispozitivul",
+    "edit_food_amount_too_large": "Valoarea nu poate depăși 9999",
+    "CL_CF_FM_automatically_create_shopping_list": "Nu ai încă o listă de cumpărături, aceasta va fi creată automat pentru tine."
 }

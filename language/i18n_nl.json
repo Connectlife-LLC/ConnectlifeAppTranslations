@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Fout stroommeter",
     "cancel_share": "heeft het delen geannuleerd",
     "items_added_to_shopping_list": "Artikelen toegevoegd aan het boodschappenlijstje",
-    "drum_illumination": "Trommelverlichting",
+    "drum_illumination": "Trommel licht",
     "bundling_detection": "Detectie van bundeling",
     "change_language_tips": "Wijzig de weergavetaal op uw apparaat.",
     "change_brightness_tips": "Pas de helderheid op het scherm van uw apparaat aan.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Drankinventaris",
     "ac_statistice_content": "Deze statistische gegevens zijn gebaseerd op netwerkstatistieken, en een deel van de gegevens is gebaseerd op laboratoriumomstandigheden gemeten, alleen ter referentie van gebruikers.",
     "CL_CF_FM_x_items_selected": "*** items geselecteerd",
-    "CL_CF_FM_remove_items": "Items verwijderen",
+    "CL_CF_FM_remove_items": "Verwijder",
     "p_try_again": "probeer het nog eens",
     "exit_report_i": "EXIT-RAPPORTAGEPROBLEEM",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Boodschappenlijstje Details",
     "CL_CF_FM_no_shopping_list": "Geen boodschappenlijstje",
     "CL_DV_OV_24_time_zone": "Tijdzone",
-    "CL_CF_FM_reset_purchased_tips": "Wilt u alle voedingsmiddelen in deze lijst terugzetten naar de status 'niet gekocht'?",
+    "CL_CF_FM_reset_purchased_tips": "Wilt u alle artikelen in deze lijst terugzetten naar de status 'niet gekocht'?",
     "CL_CF_FM_add_food_to_x": "Voeg voedsel toe aan \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Voeg het te kopen voedsel toe",
     "CL_DV_OV_24_always_on": "Altijd aan",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "Hoeveelheid",
     "CL_DV_HOB_cooking_grams": "## gram",
     "CL_DV_HOB_monitoring_title": "Toezicht",
-    "CL_DV_HOB_monitor_cooking": "Koken"
+    "CL_DV_HOB_monitor_cooking": "Koken",
+    "start_to_scan": "Druk op START om het apparaat te scannen",
+    "edit_food_amount_too_large": "De waarde mag niet groter zijn dan 9999",
+    "CL_CF_FM_automatically_create_shopping_list": "U heeft nog geen boodschappenlijstje, deze wordt automatisch voor u aangemaakt."
 }

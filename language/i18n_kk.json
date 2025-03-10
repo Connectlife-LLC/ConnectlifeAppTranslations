@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Кіріс клапанының ағуы.",
     "cancel_share": "Бөлісуді тоқтатты",
     "items_added_to_shopping_list": "Сатып алу тізіміне қосылған элементтер",
-    "drum_illumination": "Барабанды жарықтандыру",
+    "drum_illumination": "Барабан шамы",
     "bundling_detection": "Топтаманы анықтау",
     "change_language_tips": "Құрылғыдағы дисплей тілін өзгертіңіз.",
     "change_brightness_tips": "Құрылғы дисплейіндегі жарықтылықты реттеңіз.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Сусынды түгендеу",
     "ac_statistice_content": "Бұл статистикалық деректер желілік статистикаларға негізделген және бір бөлігі деректер лабораториялық шарттарында мөлшерленген, тек пайдаланушылардың сілтемесі үшін.",
     "CL_CF_FM_x_items_selected": "*** элементтер таңдалды",
-    "CL_CF_FM_remove_items": "Элементтерді жою",
+    "CL_CF_FM_remove_items": "Жою",
     "p_try_again": "қайталап көріңіз",
     "exit_report_i": "ЕСЕП БЕРУ МӘСЕЛЕСІН ШЫҒУ",
     "AW": "Аруба",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Сатып алу тізімінің мәліметтері",
     "CL_CF_FM_no_shopping_list": "Сатып алу тізімі жоқ",
     "CL_DV_OV_24_time_zone": "Уақыт белдеуі",
-    "CL_CF_FM_reset_purchased_tips": "Осы тізімдегі барлық тағамдарды сатып алынбаған күйіне қайтарғыңыз келе ме?",
+    "CL_CF_FM_reset_purchased_tips": "Осы тізімдегі барлық элементтерді сатып алынбаған күйіне қайтарғыңыз келе ме?",
     "CL_CF_FM_add_food_to_x": "\"***\" ішіне тағам қосыңыз",
     "CL_CF_FM_add_food_to_be_purchased": "Сатып алынатын тағамды қосыңыз",
     "CL_DV_OV_24_always_on": "Әрқашан қосулы",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "Саны",
     "CL_DV_HOB_cooking_grams": "## грамм",
     "CL_DV_HOB_monitoring_title": "Бақылау",
-    "CL_DV_HOB_monitor_cooking": "Тағам дайындау"
+    "CL_DV_HOB_monitor_cooking": "Тағам дайындау",
+    "start_to_scan": "Құрылғыны сканерлеу үшін START түймесін басыңыз",
+    "edit_food_amount_too_large": "Мән 9999-дан аспауы керек",
+    "CL_CF_FM_automatically_create_shopping_list": "Сізде әлі сатып алу тізімі жоқ, ол сіз үшін автоматты түрде жасалады."
 }

@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Virtausmittarin vika",
     "cancel_share": "on peruuttanut jakamisen",
     "items_added_to_shopping_list": "Ostoslistalle lisätyt tuotteet",
-    "drum_illumination": "Rummun valaistus",
+    "drum_illumination": "Rummun valo",
     "bundling_detection": "Niputuksen tunnistus",
     "change_language_tips": "Vaihda laitteesi näytön kieli.",
     "change_brightness_tips": "Säädä laitteesi näytön kirkkautta.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Juomavarasto",
     "ac_statistice_content": "Tämä tilastotieto perustuu verkkotilastoihin, ja osa tiedoista perustuu laboratorio-olosuhteisiin mitattuina, vain käyttäjien viitteeksi.",
     "CL_CF_FM_x_items_selected": "*** kohteita valittu",
-    "CL_CF_FM_remove_items": "Poista kohteita",
+    "CL_CF_FM_remove_items": "Poista",
     "p_try_again": "yritä uudelleen",
     "exit_report_i": "POISTU RAPORTOINTIANGESTISTA",
     "AW": "Aruba",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Ostoslistan tiedot",
     "CL_CF_FM_no_shopping_list": "Ei ostoslistaa",
     "CL_DV_OV_24_time_zone": "Aikavyöhyke",
-    "CL_CF_FM_reset_purchased_tips": "Haluatko palauttaa kaikki tämän luettelon ruoat ostamatta oleviin?",
+    "CL_CF_FM_reset_purchased_tips": "Haluatko palauttaa kaikki tämän luettelon kohteet tilaan ei ostettu?",
     "CL_CF_FM_add_food_to_x": "Lisää ruokaa kohtaan \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Lisää ostettava ruoka",
     "CL_DV_OV_24_always_on": "Pysyvästi",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "Määrä",
     "CL_DV_HOB_cooking_grams": "## grammaa",
     "CL_DV_HOB_monitoring_title": "Valvonta",
-    "CL_DV_HOB_monitor_cooking": "Ruoanvalmistus"
+    "CL_DV_HOB_monitor_cooking": "Ruoanvalmistus",
+    "start_to_scan": "Skannaa laite painamalla START",
+    "edit_food_amount_too_large": "Arvo ei voi ylittää 9999",
+    "CL_CF_FM_automatically_create_shopping_list": "Sinulla ei ole vielä ostoslistaa, se luodaan automaattisesti puolestasi."
 }
