@@ -3077,7 +3077,7 @@
     "dw_error_f40": "Изтичане на входния клапан.",
     "cancel_share": "Отказал споделянето",
     "items_added_to_shopping_list": "Артикулите са добавени към списъка за пазаруване",
-    "drum_illumination": "Осветление на барабана",
+    "drum_illumination": "Светлина на барабана",
     "bundling_detection": "Откриване на групиране",
     "change_language_tips": "Променете езика на дисплея на вашето устройство.",
     "change_brightness_tips": "Регулирайте яркостта на дисплея на вашето устройство.",
@@ -4248,7 +4248,7 @@
     "drink_inventory": "Опис на напитки",
     "ac_statistice_content": "Тези статистически данни се основават на мрежови статистики, а част от данните се основава на измерени лабораторни условия, само за справка на потребителите.",
     "CL_CF_FM_x_items_selected": "*** избрани елементи",
-    "CL_CF_FM_remove_items": "Премахване на елементи",
+    "CL_CF_FM_remove_items": "Премахнете",
     "p_try_again": "моля опитайте отново",
     "exit_report_i": "ПРОБЛЕМ С ОТЧЕТВАНЕ НА ИЗХОД",
     "AW": "Аруба",
@@ -4294,7 +4294,7 @@
     "CL_CF_FM_shopping_list_details": "Подробности за списъка за пазаруване",
     "CL_CF_FM_no_shopping_list": "Няма списък за пазаруване",
     "CL_DV_OV_24_time_zone": "Часова зона",
-    "CL_CF_FM_reset_purchased_tips": "Искате ли да върнете статуса на всички храни в този списък на незакупени?",
+    "CL_CF_FM_reset_purchased_tips": "Искате ли да нулирате всички артикули в този списък до състояние на некупени?",
     "CL_CF_FM_add_food_to_x": "Добавете храна към \"***\"",
     "CL_CF_FM_add_food_to_be_purchased": "Добавете храната, която ще закупите",
     "CL_DV_OV_24_always_on": "Винаги включен",
@@ -5099,5 +5099,8 @@
     "CL_DV_HOB_cooking_quantity": "Количество",
     "CL_DV_HOB_cooking_grams": "## грама",
     "CL_DV_HOB_monitoring_title": "Мониторинг",
-    "CL_DV_HOB_monitor_cooking": "Готвене"
+    "CL_DV_HOB_monitor_cooking": "Готвене",
+    "start_to_scan": "Натиснете START, за да сканирате устройството",
+    "edit_food_amount_too_large": "Стойността не може да надвишава 9999",
+    "CL_CF_FM_automatically_create_shopping_list": "Все още нямате списък за пазаруване, той ще бъде създаден автоматично за вас."
 }
