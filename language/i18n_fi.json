@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "Yötilan avulla voit vähentää valaistusta tietyn ajan.",
     "CL_DV_OV_bio24PE_proofing_desc": "Suunniteltu luomaan ihanteelliset olosuhteet taikinan kohoamiselle. Se ylläpitää lämpimän, tasaisen lämpötilan, mikä sopii täydellisesti hiivan käymiseen. Se auttaa taikinaa laajentumaan, jolloin saadaan kevyitä, ilmavia ja pörröisiä leivonnaisia.",
     "CL_CF_WC_night_end_select": "Valitse, milloin yötilan pitäisi päättyä.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "ÄLÄ NOLLAA",
+    "self_diagnosis_SCAN_Btn": "SKANNATA"
 }

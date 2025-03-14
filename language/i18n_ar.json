@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "يسمح لك الوضع الليلي بخفض الإضاءة لفترة زمنية محددة.",
     "CL_DV_OV_bio24PE_proofing_desc": "مُصمم لتوفير الظروف المثالية لارتفاع العجين. يحافظ على درجة حرارة دافئة وثابتة، مثالية لتخمير الخميرة. يساعد على تمدد العجين، مما ينتج عنه مخبوزات خفيفة، منعشة، ورقيقة.",
     "CL_CF_WC_night_end_select": "حدد متى يجب أن ينتهي الوضع الليلي.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "لا تقم بإعادة الضبط",
+    "self_diagnosis_SCAN_Btn": "مسح ضوئي"
 }

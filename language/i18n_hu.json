@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "Az éjszakai üzemmód lehetővé teszi, hogy meghatározott ideig csökkentse a megvilágítást.",
     "CL_DV_OV_bio24PE_proofing_desc": "Úgy tervezték, hogy ideális feltételeket teremtsen a tészta keléséhez. Meleg, egyenletes hőmérsékletet tart fenn, ami tökéletes az élesztő fermentációjához. Segíti a tészta kitágulását, könnyű, levegős és puha pékárut eredményezve.",
     "CL_CF_WC_night_end_select": "Válassza ki, hogy mikor fejeződjön be az éjszakai mód.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NE RESET",
+    "self_diagnosis_SCAN_Btn": "LETAPOGATÁS"
 }

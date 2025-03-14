@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "La modalità notturna consente di ridurre l'illuminazione per un periodo di tempo specifico.",
     "CL_DV_OV_bio24PE_proofing_desc": "Progettato per creare le condizioni ideali per la lievitazione dell'impasto. Mantiene una temperatura calda e costante, perfetta per la fermentazione del lievito. Aiuta l'impasto a espandersi, dando origine a prodotti da forno leggeri, ariosi e soffici.",
     "CL_CF_WC_night_end_select": "Seleziona quando terminare la modalità notturna.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NON RESETTARE",
+    "self_diagnosis_SCAN_Btn": "SCANSIONE"
 }
