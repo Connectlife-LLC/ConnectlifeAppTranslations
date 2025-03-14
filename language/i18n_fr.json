@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Appuyez et maintenez la touche \"remote\" pendant 3 secondes, jusqu'à ce que \"C\" apparaisse sur l'écran.",
     "CL_CM_CS_dw_502.f_cn_step4": "Le réseau de l'appareil est maintenant ouvert pour la connexion. \nCliquez sur SUIVANT pour continuer.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Appuyez sur la touche « Connect » pendant 5 secondes jusqu'à ce que « P » apparaisse sur l'écran.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "En voyant l'appareil entrer dans le compte à rebours, cliquez sur « SUIVANT » pour continuer."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "En voyant l'appareil entrer dans le compte à rebours, cliquez sur « SUIVANT » pour continuer.",
+    "CL_CF_WC_reset_tips": "Êtes-vous sûr de vouloir réinitialiser votre appareil aux paramètres d'usine ?",
+    "CL_CF_WC_reset_content": "En exécutant une réinitialisation d'usine, tous les paramètres personnels et les données stockées sont perdus.",
+    "CL_CF_WC_night_content": "Le mode nuit vous permet de réduire l'éclairage pendant une durée spécifique.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Conçu pour créer les conditions idéales pour la levée de la pâte. Il maintient une température constante et chaude, idéale pour la fermentation des levures. Il favorise le gonflement de la pâte, pour des viennoiseries légères, aérées et moelleuses.",
+    "CL_CF_WC_night_end_select": "Sélectionnez quand le mode Nuit doit se terminer.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Tik en houd de toets \"remote\" 3 seconden ingedrukt totdat \"C\" op het display verschijnt.",
     "CL_CM_CS_dw_502.f_cn_step4": "Het netwerk van het apparaat is nu open voor verbinding. \nKlik op VOLGENDE om door te gaan.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Druk 5 seconden op de knop \"Verbinden\" totdat \"P\" op het display verschijnt.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Wanneer u ziet dat het apparaat de aftelling start, klikt u op “VOLGENDE” om door te gaan."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Wanneer u ziet dat het apparaat de aftelling start, klikt u op “VOLGENDE” om door te gaan.",
+    "CL_CF_WC_reset_tips": "Weet u zeker dat u uw apparaat wilt terugzetten naar de fabrieksinstellingen?",
+    "CL_CF_WC_reset_content": "Wanneer u de fabrieksinstellingen herstelt, gaan alle persoonlijke instellingen en opgeslagen gegevens verloren.",
+    "CL_CF_WC_night_content": "Met de nachtmodus kunt u de verlichting gedurende een bepaalde tijd dimmen.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Ontworpen om de ideale omstandigheden te creëren voor het rijzen van deeg. Het handhaaft een warme, constante temperatuur, wat perfect is voor gistfermentatie. Het helpt het deeg te laten uitzetten, wat resulteert in lichte, luchtige en luchtige bakwaren.",
+    "CL_CF_WC_night_end_select": "Selecteer wanneer de nachtmodus moet eindigen.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

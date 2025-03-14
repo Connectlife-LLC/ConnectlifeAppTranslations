@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Napauta ja pidä \"remote\"-näppäintä painettuna 3 sekunnin ajan, kunnes \"C\" tulee näyttöön.",
     "CL_CM_CS_dw_502.f_cn_step4": "Laiteverkko on nyt avoinna yhteyden muodostamista varten. \nJatka napsauttamalla SEURAAVA.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Paina \"Connect\"-näppäintä 5 sekunnin ajan, kunnes \"P\" tulee näyttöön.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Kun näet laitteen siirtyvän lähtölaskentaan, jatka napsauttamalla \"NEXT\"."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Kun näet laitteen siirtyvän lähtölaskentaan, jatka napsauttamalla \"NEXT\".",
+    "CL_CF_WC_reset_tips": "Haluatko varmasti palauttaa laitteesi tehdasasetukset?",
+    "CL_CF_WC_reset_content": "Kun tehdasasetukset palautetaan, kaikki henkilökohtaiset asetukset ja tallennetut tiedot menetetään.",
+    "CL_CF_WC_night_content": "Yötilan avulla voit vähentää valaistusta tietyn ajan.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Suunniteltu luomaan ihanteelliset olosuhteet taikinan kohoamiselle. Se ylläpitää lämpimän, tasaisen lämpötilan, mikä sopii täydellisesti hiivan käymiseen. Se auttaa taikinaa laajentumaan, jolloin saadaan kevyitä, ilmavia ja pörröisiä leivonnaisia.",
+    "CL_CF_WC_night_end_select": "Valitse, milloin yötilan pitäisi päättyä.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Ťuknite na tlačidlo „remote“ a podržte ho 3 sekundy, kým sa na displeji nezobrazí „C“.",
     "CL_CM_CS_dw_502.f_cn_step4": "Sieť zariadenia je teraz otvorená na pripojenie. \nPokračujte kliknutím na ĎALEJ.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Stlačte tlačidlo \"Connect\" na 5 sekúnd, kým sa na displeji nezobrazí \"P\".",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Keď uvidíte, že zariadenie zadáva odpočítavanie, pokračujte kliknutím na „NEXT“."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Keď uvidíte, že zariadenie zadáva odpočítavanie, pokračujte kliknutím na „NEXT“.",
+    "CL_CF_WC_reset_tips": "Naozaj chcete obnoviť výrobné nastavenia zariadenia?",
+    "CL_CF_WC_reset_content": "Vykonaním obnovenia továrenských nastavení sa stratia všetky osobné nastavenia a uložené údaje.",
+    "CL_CF_WC_night_content": "Nočný režim vám umožňuje znížiť osvetlenie na určitý čas.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Navrhnuté tak, aby vytvárali ideálne podmienky na kysnutie cesta. Udržuje teplú, stálu teplotu, ktorá je ideálna na kvasenie kvasníc. Pomáha cesto expandovať, výsledkom čoho je ľahké, vzdušné a nadýchané pečivo.",
+    "CL_CF_WC_night_end_select": "Vyberte, kedy sa má nočný režim skončiť.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

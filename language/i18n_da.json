@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Tryk og hold \"remote\"-tasten nede i 3 sekunder, indtil \"C\" vises på displayet.",
     "CL_CM_CS_dw_502.f_cn_step4": "Enhedens netværk er nu åbent for tilslutning. \nKlik på NÆSTE for at fortsætte.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Tryk på \"Connect\"-tasten i 5 sekunder, indtil \"P\" vises på displayet.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Når du ser enheden gå i gang med nedtællingen, klik på \"NÆSTE\" for at fortsætte."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Når du ser enheden gå i gang med nedtællingen, klik på \"NÆSTE\" for at fortsætte.",
+    "CL_CF_WC_reset_tips": "Er du sikker på, at du vil nulstille dit apparat til fabriksindstillingerne?",
+    "CL_CF_WC_reset_content": "Ved at udføre en fabriksnulstilling går alle personlige indstillinger og gemte data tabt.",
+    "CL_CF_WC_night_content": "Nattilstand giver dig mulighed for at sænke belysningen i et bestemt tidsrum.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Designet til at skabe de ideelle forhold for dejen at hæve. Den holder en varm, ensartet temperatur, som er perfekt til gærgæring. Det hjælper med at hjælpe dejen med at udvide sig, hvilket resulterer i lette, luftige og luftige bagværk.",
+    "CL_CF_WC_night_end_select": "Vælg, hvornår nattilstand skal afsluttes.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

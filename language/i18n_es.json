@@ -4762,7 +4762,7 @@
     "CL_CF_AC_interlock_sub_title": "CONTROL DE CALEFACCIÓN AUXILIAR DE 12 VCC DESDE LA IDU",
     "CL_CF_AC_interlock_off_tips": "Revise los materiales de instalación para conocer la configuración adecuada si se va a activar el interbloqueo.",
     "CL_CF_AC_8c_sub_tips": "OPCIONES DE MODO FRÍO/VENTILADOR/SECO",
-    "CL_CF_AC_8c_item_tips": "Protección contra congelamiento",
+    "CL_CF_AC_8c_item_tips": "Protección contra la congelación",
     "CL_CF_AC_head_mode": "OPCIONES DEL MODO CALOR",
     "CL_CF_AC_control_logic_1": "Calefacción de alta presión y auxiliar",
     "CL_CF_AC_control_logic_2": "Sólo calefacción auxiliar",
@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Toque y mantenga presionada la tecla \"remote\" durante 3 segundos, hasta que aparezca \"C\" en la pantalla.",
     "CL_CM_CS_dw_502.f_cn_step4": "La red del dispositivo ahora está abierta para la conexión. \nHaga clic en SIGUIENTE para continuar.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Presione la tecla “Conectar” durante 5 segundos hasta que aparezca “P” en la pantalla.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Cuando vea que el dispositivo ingresa a la cuenta regresiva, haga clic en “SIGUIENTE” para continuar."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Cuando vea que el dispositivo ingresa a la cuenta regresiva, haga clic en “SIGUIENTE” para continuar.",
+    "CL_CF_WC_reset_tips": "¿Estás seguro de que deseas restablecer tu aparato a la configuración de fábrica?",
+    "CL_CF_WC_reset_content": "Al ejecutar un restablecimiento de fábrica, se pierden todas las configuraciones personales y los datos almacenados.",
+    "CL_CF_WC_night_content": "El modo nocturno le permite reducir la iluminación durante un período de tiempo específico.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Diseñado para crear las condiciones ideales para el levado de la masa. Mantiene una temperatura cálida y constante, ideal para la fermentación de la levadura. Facilita la expansión de la masa, dando como resultado productos horneados ligeros, aireados y esponjosos.",
+    "CL_CF_WC_night_end_select": "Seleccione cuándo debe finalizar el modo Noche.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

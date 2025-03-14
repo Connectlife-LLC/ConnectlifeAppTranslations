@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Dodirnite i držite tipku \"remote\" 3 sekunde, dok se na zaslonu ne pojavi \"C\".",
     "CL_CM_CS_dw_502.f_cn_step4": "Mreža uređaja sada je otvorena za povezivanje. \nKliknite DALJE kako bi nastavili.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Pritisnite tipku \"Poveži\" 5 sekundi dok se na zaslonu ne pojavi \"P\".",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Kad vidite da uređaj počinje odbrojavati, kliknite \"DALJE\" za nastavak."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Kad vidite da uređaj počinje odbrojavati, kliknite \"DALJE\" za nastavak.",
+    "CL_CF_WC_reset_tips": "Jeste li sigurni da želite vratiti svoj uređaj na tvorničke postavke?",
+    "CL_CF_WC_reset_content": "Izvršavanjem vraćanja na tvorničke postavke, sve osobne postavke i pohranjeni podaci se gube.",
+    "CL_CF_WC_night_content": "Noćni način rada omogućuje vam da smanjite osvjetljenje na određeno vrijeme.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Dizajnirano za stvaranje idealnih uvjeta za dizanje tijesta. Održava toplu, postojanu temperaturu, koja je savršena za fermentaciju kvasca. Pomaže u proširenju tijesta, što rezultira laganim, prozračnim i pahuljastim pečenim proizvodima.",
+    "CL_CF_WC_night_end_select": "Odaberite kada noćni način rada treba završiti.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

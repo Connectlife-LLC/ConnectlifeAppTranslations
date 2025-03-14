@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Érintse meg és tartsa lenyomva a „remote” gombot 3 másodpercig, amíg a „C” meg nem jelenik a kijelzőn.",
     "CL_CM_CS_dw_502.f_cn_step4": "Az eszköz hálózata most megnyílt a csatlakozáshoz. \nA folytatáshoz kattintson a KÖVETKEZŐ gombra.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Nyomja meg a \"Connect\" gombot 5 másodpercig, amíg a \"P\" meg nem jelenik a kijelzőn.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Ha látja, hogy az eszköz belép a visszaszámlálásba, kattintson a „NEXT” gombra a folytatáshoz."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Ha látja, hogy az eszköz belép a visszaszámlálásba, kattintson a „NEXT” gombra a folytatáshoz.",
+    "CL_CF_WC_reset_tips": "Biztosan vissza szeretné állítani a készüléket a gyári beállításokra?",
+    "CL_CF_WC_reset_content": "A gyári beállítások visszaállításával minden személyes beállítás és tárolt adat elveszik.",
+    "CL_CF_WC_night_content": "Az éjszakai üzemmód lehetővé teszi, hogy meghatározott ideig csökkentse a megvilágítást.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Úgy tervezték, hogy ideális feltételeket teremtsen a tészta keléséhez. Meleg, egyenletes hőmérsékletet tart fenn, ami tökéletes az élesztő fermentációjához. Segíti a tészta kitágulását, könnyű, levegős és puha pékárut eredményezve.",
+    "CL_CF_WC_night_end_select": "Válassza ki, hogy mikor fejeződjön be az éjszakai mód.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

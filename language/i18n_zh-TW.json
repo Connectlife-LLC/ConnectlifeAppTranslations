@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "點選並按住「連線」鍵 3 秒鐘，直到顯示幕上出現「C」。",
     "CL_CM_CS_dw_502.f_cn_step4": "設備網絡現在已經打開以進行連接。\n點擊“下一步”繼續。",
     "CL_CM_CS_dw_502.f_cn_p_step2": "按住「Connect」鍵5秒鐘，直到顯示幕上出現「P」。",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "看到裝置進入倒數計時，點擊「NEXT」繼續。"
+    "CL_CM_CS_dw_502.f_cn_p_step3": "看到裝置進入倒數計時，點擊「NEXT」繼續。",
+    "CL_CF_WC_reset_tips": "您確定要將您的設備重設為原廠設定嗎？",
+    "CL_CF_WC_reset_content": "恢復出廠設定後，所有個人設定和儲存的資料都將遺失。",
+    "CL_CF_WC_night_content": "夜間模式可讓您在特定時間內降低照明。",
+    "CL_DV_OV_bio24PE_proofing_desc": "旨在為麵團發酵創造理想條件。它能保持溫暖、恆定的溫度，非常適合酵母發酵。它有助於麵團膨脹，從而製作出輕盈、蓬鬆的烘焙食品。",
+    "CL_CF_WC_night_end_select": "選擇夜間模式的結束時間。",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

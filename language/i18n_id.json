@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Ketuk dan tahan tombol \"remote\" selama 3 detik, hingga \"C\" muncul di layar.",
     "CL_CM_CS_dw_502.f_cn_step4": "Jaringan perangkat sekarang terbuka untuk koneksi. \nKlik BERIKUTNYA untuk melanjutkan.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Tekan tombol \"Connect\" selama 5 detik hingga \"P\" muncul di layar.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Melihat perangkat memasuki hitungan mundur, klik “LANJUTKAN” untuk melanjutkan."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Melihat perangkat memasuki hitungan mundur, klik “LANJUTKAN” untuk melanjutkan.",
+    "CL_CF_WC_reset_tips": "Apakah Anda yakin ingin mengatur ulang peralatan Anda ke pengaturan pabrik?",
+    "CL_CF_WC_reset_content": "Dengan melakukan reset pabrik, semua pengaturan pribadi dan data yang tersimpan akan hilang.",
+    "CL_CF_WC_night_content": "Mode malam memungkinkan Anda menurunkan pencahayaan untuk jangka waktu tertentu.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Dirancang untuk menciptakan kondisi ideal agar adonan mengembang. Suhu yang hangat dan konsisten sangat cocok untuk fermentasi ragi. Membantu adonan mengembang, menghasilkan makanan panggang yang ringan, lapang, dan lembut.",
+    "CL_CF_WC_night_end_select": "Pilih kapan Mode Malam harus berakhir.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }
