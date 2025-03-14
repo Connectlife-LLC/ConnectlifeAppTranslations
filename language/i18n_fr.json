@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "Le mode nuit vous permet de réduire l'éclairage pendant une durée spécifique.",
     "CL_DV_OV_bio24PE_proofing_desc": "Conçu pour créer les conditions idéales pour la levée de la pâte. Il maintient une température constante et chaude, idéale pour la fermentation des levures. Il favorise le gonflement de la pâte, pour des viennoiseries légères, aérées et moelleuses.",
     "CL_CF_WC_night_end_select": "Sélectionnez quand le mode Nuit doit se terminer.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NE PAS RÉINITIALISER",
+    "self_diagnosis_SCAN_Btn": "BALAYAGE"
 }

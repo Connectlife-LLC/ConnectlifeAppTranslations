@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "Nattmodus lar deg senke belysningen i en bestemt tidsperiode.",
     "CL_DV_OV_bio24PE_proofing_desc": "Designet for å skape de ideelle forholdene for deigen å heve. Den holder en varm, jevn temperatur, som er perfekt for gjærgjæring. Det hjelper med å hjelpe deigen med å utvide seg, noe som resulterer i lette, luftige og luftige bakevarer.",
     "CL_CF_WC_night_end_select": "Velg når nattmodus skal avsluttes.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "IKKE RESETT",
+    "self_diagnosis_SCAN_Btn": "SKANNING"
 }

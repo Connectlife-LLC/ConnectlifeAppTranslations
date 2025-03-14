@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "Chế độ ban đêm cho phép bạn giảm độ sáng trong một khoảng thời gian cụ thể.",
     "CL_DV_OV_bio24PE_proofing_desc": "Được thiết kế để tạo ra điều kiện lý tưởng cho bột nở. Nó duy trì nhiệt độ ấm, ổn định, hoàn hảo cho quá trình lên men nấm men. Nó giúp bột nở ra, tạo ra các loại bánh nướng nhẹ, xốp và xốp.",
     "CL_CF_WC_night_end_select": "Chọn thời điểm kết thúc chế độ Ban đêm.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "KHÔNG ĐẶT LẠI",
+    "self_diagnosis_SCAN_Btn": "QUÉT"
 }

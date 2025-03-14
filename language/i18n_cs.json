@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "Noční režim umožňuje snížit osvětlení na určitou dobu.",
     "CL_DV_OV_bio24PE_proofing_desc": "Navrženo tak, aby vytvořilo ideální podmínky pro kynutí těsta. Udržuje teplou, stálou teplotu, což je ideální pro kvasné kvašení. Pomáhá těstu expandovat a výsledkem je lehké, vzdušné a nadýchané pečivo.",
     "CL_CF_WC_night_end_select": "Vyberte, kdy má noční režim skončit.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NERESETOVAT",
+    "self_diagnosis_SCAN_Btn": "SKENOVAT"
 }

@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "Noćni način rada omogućuje vam da smanjite osvjetljenje na određeno vrijeme.",
     "CL_DV_OV_bio24PE_proofing_desc": "Dizajnirano za stvaranje idealnih uvjeta za dizanje tijesta. Održava toplu, postojanu temperaturu, koja je savršena za fermentaciju kvasca. Pomaže u proširenju tijesta, što rezultira laganim, prozračnim i pahuljastim pečenim proizvodima.",
     "CL_CF_WC_night_end_select": "Odaberite kada noćni način rada treba završiti.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NEMOJTE RESETIRATI",
+    "self_diagnosis_SCAN_Btn": "SKENIRATI"
 }

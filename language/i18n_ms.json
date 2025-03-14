@@ -5117,5 +5117,7 @@
     "CL_CF_WC_night_content": "Mod malam membolehkan anda merendahkan pencahayaan untuk jangka masa tertentu.",
     "CL_DV_OV_bio24PE_proofing_desc": "Direka bentuk untuk mewujudkan keadaan yang ideal untuk doh mengembang. Ia mengekalkan suhu yang hangat dan konsisten, yang sesuai untuk penapaian yis. Ia membantu doh mengembang, menghasilkan barangan bakar yang ringan, lapang dan gebu.",
     "CL_CF_WC_night_end_select": "Pilih bila mod Malam akan tamat.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "JANGAN TETAP SEMULA",
+    "self_diagnosis_SCAN_Btn": "IMBAS"
 }
