@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Trykk og hold \"remote\"-tasten i 3 sekunder, til \"C\" vises på skjermen.",
     "CL_CM_CS_dw_502.f_cn_step4": "Enhetsnettverket er nå åpent for tilkobling. \nKlikk NESTE for å fortsette.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Trykk på \"Koble til\"-tasten i 5 sekunder til \"P\" vises på skjermen.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Når du ser enheten gå inn i nedtellingen, klikker du på \"NESTE\" for å fortsette."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Når du ser enheten gå inn i nedtellingen, klikker du på \"NESTE\" for å fortsette.",
+    "CL_CF_WC_reset_tips": "Er du sikker på at du vil tilbakestille apparatet til fabrikkinnstillingene?",
+    "CL_CF_WC_reset_content": "Ved å utføre en fabrikktilbakestilling går alle personlige innstillinger og lagrede data tapt.",
+    "CL_CF_WC_night_content": "Nattmodus lar deg senke belysningen i en bestemt tidsperiode.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Designet for å skape de ideelle forholdene for deigen å heve. Den holder en varm, jevn temperatur, som er perfekt for gjærgjæring. Det hjelper med å hjelpe deigen med å utvide seg, noe som resulterer i lette, luftige og luftige bakevarer.",
+    "CL_CF_WC_night_end_select": "Velg når nattmodus skal avsluttes.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

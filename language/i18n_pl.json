@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Dotknij i przytrzymaj przycisk „remote” przez 3 sekundy, aż na wyświetlaczu pojawi się „C”.",
     "CL_CM_CS_dw_502.f_cn_step4": "Sieć urządzenia jest teraz otwarta do połączenia. \nKliknij DALEJ, aby kontynuować.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Naciśnij przycisk „Połącz” przez 5 sekund, aż na wyświetlaczu pojawi się „P”.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Gdy urządzenie rozpocznie odliczanie, kliknij „DALEJ”, aby kontynuować."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Gdy urządzenie rozpocznie odliczanie, kliknij „DALEJ”, aby kontynuować.",
+    "CL_CF_WC_reset_tips": "Czy na pewno chcesz przywrócić ustawienia fabryczne urządzenia?",
+    "CL_CF_WC_reset_content": "Po przywróceniu ustawień fabrycznych wszystkie ustawienia osobiste i zapisane dane zostaną utracone.",
+    "CL_CF_WC_night_content": "Tryb nocny umożliwia obniżenie oświetlenia na określony czas.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Zaprojektowany, aby stworzyć idealne warunki do wyrastania ciasta. Utrzymuje ciepłą, stałą temperaturę, która jest idealna do fermentacji drożdżowej. Pomaga ciastu się rozrastać, co skutkuje lekkimi, przewiewnymi i puszystymi wypiekami.",
+    "CL_CF_WC_night_end_select": "Wybierz, kiedy tryb nocny ma się zakończyć.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Ekranda \"C\" görünene kadar \"remote\" tuşuna 3 saniye basılı tutun.",
     "CL_CM_CS_dw_502.f_cn_step4": "Cihaz ağı artık bağlantı için açıktır. \nDevam etmek için İLERİ'yi tıklayın.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Ekranda \"P\" görünene kadar \"Bağlan\" tuşuna 5 saniye basın.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Cihazın geri sayıma girdiğini gördüğünüzde devam etmek için “İLERİ” butonuna tıklayın."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Cihazın geri sayıma girdiğini gördüğünüzde devam etmek için “İLERİ” butonuna tıklayın.",
+    "CL_CF_WC_reset_tips": "Cihazınızı fabrika ayarlarına sıfırlamak istediğinizden emin misiniz?",
+    "CL_CF_WC_reset_content": "Fabrika ayarlarına sıfırlama işlemi yapıldığında tüm kişisel ayarlar ve saklanan veriler kaybolur.",
+    "CL_CF_WC_night_content": "Gece modu, aydınlatmayı belirli bir süre için kısmanıza olanak tanır.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Hamurun kabarması için ideal koşulları yaratmak üzere tasarlanmıştır. Maya fermantasyonu için mükemmel olan sıcak, sabit bir sıcaklığı korur. Hamurun genişlemesine yardımcı olur ve bunun sonucunda hafif, havadar ve kabarık pişmiş ürünler elde edilir.",
+    "CL_CF_WC_night_end_select": "Gece modunun ne zaman sonlanacağını seçin.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

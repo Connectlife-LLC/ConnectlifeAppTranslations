@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Toccare e tenere premuto il tasto \"remote\" per 3 secondi, fino a quando \"C\" appare sul display.",
     "CL_CM_CS_dw_502.f_cn_step4": "La rete del dispositivo è ora aperta per la connessione. \nFai clic su AVANTI per continuare.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Premere il tasto \"Connetti\" per 5 secondi finché non compare \"P\" sul display.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Quando il dispositivo entra nel conto alla rovescia, fare clic su \"AVANTI\" per continuare."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Quando il dispositivo entra nel conto alla rovescia, fare clic su \"AVANTI\" per continuare.",
+    "CL_CF_WC_reset_tips": "Vuoi davvero ripristinare le impostazioni di fabbrica del tuo elettrodomestico?",
+    "CL_CF_WC_reset_content": "Eseguendo un ripristino delle impostazioni di fabbrica, tutte le impostazioni personali e i dati memorizzati andranno persi.",
+    "CL_CF_WC_night_content": "La modalità notturna consente di ridurre l'illuminazione per un periodo di tempo specifico.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Progettato per creare le condizioni ideali per la lievitazione dell'impasto. Mantiene una temperatura calda e costante, perfetta per la fermentazione del lievito. Aiuta l'impasto a espandersi, dando origine a prodotti da forno leggeri, ariosi e soffici.",
+    "CL_CF_WC_night_end_select": "Seleziona quando terminare la modalità notturna.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

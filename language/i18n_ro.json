@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Atingeți și mențineți apăsată tasta „remote” timp de 3 secunde, până când „C” apare pe afișaj.",
     "CL_CM_CS_dw_502.f_cn_step4": "Rețeaua dispozitivului este acum deschisă pentru conectare. \nFaceți clic pe NEXT pentru a continua.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Apăsați tasta „Conectare” timp de 5 secunde până când „P” apare pe afișaj.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Văzând că dispozitivul intră în numărătoarea inversă, faceți clic pe „URMĂTOR” pentru a continua."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Văzând că dispozitivul intră în numărătoarea inversă, faceți clic pe „URMĂTOR” pentru a continua.",
+    "CL_CF_WC_reset_tips": "Sigur doriți să resetați aparatul la setările din fabrică?",
+    "CL_CF_WC_reset_content": "Prin executarea unei resetari din fabrică, toate setările personale și datele stocate se pierd.",
+    "CL_CF_WC_night_content": "Modul de noapte vă permite să reduceți iluminarea pentru o anumită perioadă de timp.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Conceput pentru a crea condițiile ideale pentru ca aluatul să crească. Menține o temperatură caldă, constantă, care este perfectă pentru fermentarea drojdiei. Ajută la extinderea aluatului, rezultând produse de copt ușoare, aerisite și pufoase.",
+    "CL_CF_WC_night_end_select": "Selectați când trebuie să se încheie modul Noapte.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

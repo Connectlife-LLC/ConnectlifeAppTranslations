@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Tryck och håll ner \"remote\"-tangenten i 3 sekunder, tills \"C\" visas på displayen.",
     "CL_CM_CS_dw_502.f_cn_step4": "Enhetens nätverk är nu öppet för anslutning. \nKlicka på NÄSTA för att fortsätta.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Tryck på knappen \"Anslut\" i 5 sekunder tills \"P\" visas på displayen.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "När du ser enheten gå in i nedräkningen, klicka på \"NÄSTA\" för att fortsätta."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "När du ser enheten gå in i nedräkningen, klicka på \"NÄSTA\" för att fortsätta.",
+    "CL_CF_WC_reset_tips": "Är du säker på att du vill återställa apparaten till fabriksinställningarna?",
+    "CL_CF_WC_reset_content": "Genom att utföra en fabriksåterställning förloras alla personliga inställningar och lagrad data.",
+    "CL_CF_WC_night_content": "Nattläge låter dig sänka belysningen under en viss tid.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Designad för att skapa de idealiska förutsättningarna för degen att jäsa. Den håller en varm, jämn temperatur, vilket är perfekt för jästjäsning. Det hjälper till att hjälpa degen att expandera, vilket resulterar i lätta, luftiga och fluffiga bakverk.",
+    "CL_CF_WC_night_end_select": "Välj när nattläget ska avslutas.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

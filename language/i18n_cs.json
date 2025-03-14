@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Klepněte a podržte tlačítko \"remote\" po dobu 3 sekund, dokud se na displeji nezobrazí \"C\".",
     "CL_CM_CS_dw_502.f_cn_step4": "Síť zařízení je nyní otevřena pro připojení. \nPokračujte kliknutím na NEXT.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Stiskněte tlačítko \"Connect\" na 5 sekund, dokud se na displeji nezobrazí \"P\".",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Když vidíte, že zařízení vstupuje do odpočítávání, pokračujte kliknutím na „NEXT“."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Když vidíte, že zařízení vstupuje do odpočítávání, pokračujte kliknutím na „NEXT“.",
+    "CL_CF_WC_reset_tips": "Opravdu chcete obnovit tovární nastavení spotřebiče?",
+    "CL_CF_WC_reset_content": "Provedením obnovení továrního nastavení budou všechna osobní nastavení a uložená data ztracena.",
+    "CL_CF_WC_night_content": "Noční režim umožňuje snížit osvětlení na určitou dobu.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Navrženo tak, aby vytvořilo ideální podmínky pro kynutí těsta. Udržuje teplou, stálou teplotu, což je ideální pro kvasné kvašení. Pomáhá těstu expandovat a výsledkem je lehké, vzdušné a nadýchané pečivo.",
+    "CL_CF_WC_night_end_select": "Vyberte, kdy má noční režim skončit.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

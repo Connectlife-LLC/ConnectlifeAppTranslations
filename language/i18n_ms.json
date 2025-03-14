@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Ketik dan tahan kekunci \"remote\" selama 3 saat, sehingga \"C\" muncul pada paparan.",
     "CL_CM_CS_dw_502.f_cn_step4": "Rangkaian peranti kini dibuka untuk sambungan. \nKlik SETERUSNYA untuk meneruskan.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Tekan kekunci \"Sambung\" selama 5 saat sehingga \"P\" muncul pada paparan.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Melihat peranti memasuki kira detik，klik “SETERUSNYA” untuk meneruskan."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Melihat peranti memasuki kira detik，klik “SETERUSNYA” untuk meneruskan.",
+    "CL_CF_WC_reset_tips": "Adakah anda pasti mahu menetapkan semula perkakas anda kepada tetapan kilang?",
+    "CL_CF_WC_reset_content": "Dengan melaksanakan tetapan semula kilang, semua tetapan peribadi dan data yang disimpan hilang.",
+    "CL_CF_WC_night_content": "Mod malam membolehkan anda merendahkan pencahayaan untuk jangka masa tertentu.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Direka bentuk untuk mewujudkan keadaan yang ideal untuk doh mengembang. Ia mengekalkan suhu yang hangat dan konsisten, yang sesuai untuk penapaian yis. Ia membantu doh mengembang, menghasilkan barangan bakar yang ringan, lapang dan gebu.",
+    "CL_CF_WC_night_end_select": "Pilih bila mod Malam akan tamat.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

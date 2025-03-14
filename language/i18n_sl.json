@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Pritisnite in držite tipko \"remote\" 3 sekunde, dokler se na zaslonu ne prikaže \"C\".",
     "CL_CM_CS_dw_502.f_cn_step4": "Omrežje naprave je zdaj odprto za povezavo. \nKliknite NAPREJ za nadaljevanje.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Pritisnite tipko \"Poveži\" za 5 sekund, dokler se na zaslonu ne prikaže \"P\".",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Ko vidite, da naprava začne odštevanje, za nadaljevanje kliknite »NAPREJ«."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Ko vidite, da naprava začne odštevanje, za nadaljevanje kliknite »NAPREJ«.",
+    "CL_CF_WC_reset_tips": "Ali ste prepričani, da želite ponastaviti vaš aparat na tovarniške nastavitve?",
+    "CL_CF_WC_reset_content": "Z izvedbo ponastavitve na tovarniške nastavitve se izgubijo vse osebne nastavitve in shranjeni podatki.",
+    "CL_CF_WC_night_content": "Nočni način vam omogoča nižjo osvetlitev za določen čas.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Zasnovan za ustvarjanje idealnih pogojev za vzhajanje testa. Ohranja toplo in stalno temperaturo, ki je popolna za fermentacijo kvasa. Pomaga pri narastku testa, rezultat pa je lahko, zračno in puhasto pecivo.",
+    "CL_CF_WC_night_end_select": "Izberite, kdaj naj se nočni način konča.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

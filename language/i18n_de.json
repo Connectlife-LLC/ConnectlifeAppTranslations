@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Halten Sie die „remote“-Taste 3 Sekunden lang gedrückt, bis „C“ auf dem Display erscheint.",
     "CL_CM_CS_dw_502.f_cn_step4": "Das Gerätenetzwerk ist jetzt für die Verbindung geöffnet. \nKlicken Sie auf WEITER, um fortzufahren.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Drücken Sie die Taste „Connect“ 5 Sekunden lang, bis „P“ im Display erscheint.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Wenn Sie sehen, dass der Countdown des Geräts beginnt, klicken Sie auf „WEITER“, um fortzufahren."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Wenn Sie sehen, dass der Countdown des Geräts beginnt, klicken Sie auf „WEITER“, um fortzufahren.",
+    "CL_CF_WC_reset_tips": "Möchten Sie Ihr Gerät wirklich auf die Werkseinstellungen zurücksetzen?",
+    "CL_CF_WC_reset_content": "Durch die Durchführung eines Werksresets gehen alle persönlichen Einstellungen und gespeicherten Daten verloren.",
+    "CL_CF_WC_night_content": "Im Nachtmodus können Sie die Beleuchtung für eine bestimmte Zeit verringern.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Entwickelt, um ideale Bedingungen für das Aufgehen von Teig zu schaffen. Es hält eine warme, konstante Temperatur aufrecht, die perfekt für die Hefegärung ist. Es unterstützt das Aufgehen des Teigs und sorgt für leichte, luftige und lockere Backwaren.",
+    "CL_CF_WC_night_end_select": "Wählen Sie aus, wann der Nachtmodus enden soll.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

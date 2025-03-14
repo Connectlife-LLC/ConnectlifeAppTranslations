@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "点击并按住“连接”键 3 秒钟，直到显示屏上出现“C”。",
     "CL_CM_CS_dw_502.f_cn_step4": "设备网络现在已经打开以进行连接。\n点击“下一步”继续。",
     "CL_CM_CS_dw_502.f_cn_p_step2": "按住“Connect”键5秒钟，直到显示屏上出现“P”。",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "看到设备进入倒计时，点击“NEXT”继续。"
+    "CL_CM_CS_dw_502.f_cn_p_step3": "看到设备进入倒计时，点击“NEXT”继续。",
+    "CL_CF_WC_reset_tips": "您确定要将您的设备重置为出厂设置吗？",
+    "CL_CF_WC_reset_content": "恢复出厂设置后，所有个人设置和存储的数据都将丢失。",
+    "CL_CF_WC_night_content": "夜间模式允许您在特定时间内降低照明。",
+    "CL_DV_OV_bio24PE_proofing_desc": "旨在为面团发酵创造理想条件。它保持温暖、恒定的温度，非常适合酵母发酵。它有助于面团膨胀，从而制作出轻盈、蓬松的烘焙食品。",
+    "CL_CF_WC_night_end_select": "选择夜间模式的结束时间。",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

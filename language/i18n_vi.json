@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Nhấn và giữ phím \"remote\" (điều khiển từ xa) trong 3 giây cho đến khi chữ \"C\" xuất hiện trên màn hình.",
     "CL_CM_CS_dw_502.f_cn_step4": "Lúc này mạng thiết bị đã mở để kết nối. \nNhấp vào NEXT (TIẾP THEO) để tiếp tục.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Nhấn phím \"Kết nối\" trong 5 giây cho đến khi chữ \"P\" xuất hiện trên màn hình.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Khi thấy thiết bị bắt đầu đếm ngược, hãy nhấp vào “TIẾP THEO” để tiếp tục."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Khi thấy thiết bị bắt đầu đếm ngược, hãy nhấp vào “TIẾP THEO” để tiếp tục.",
+    "CL_CF_WC_reset_tips": "Bạn có chắc chắn muốn khôi phục cài đặt gốc cho thiết bị của mình không?",
+    "CL_CF_WC_reset_content": "Khi thực hiện khôi phục cài đặt gốc, mọi cài đặt cá nhân và dữ liệu đã lưu trữ sẽ bị mất.",
+    "CL_CF_WC_night_content": "Chế độ ban đêm cho phép bạn giảm độ sáng trong một khoảng thời gian cụ thể.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Được thiết kế để tạo ra điều kiện lý tưởng cho bột nở. Nó duy trì nhiệt độ ấm, ổn định, hoàn hảo cho quá trình lên men nấm men. Nó giúp bột nở ra, tạo ra các loại bánh nướng nhẹ, xốp và xốp.",
+    "CL_CF_WC_night_end_select": "Chọn thời điểm kết thúc chế độ Ban đêm.",
+    "CL_DV_RF_cleaning_reminders_maximum": ""
 }

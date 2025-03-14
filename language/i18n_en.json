@@ -4762,7 +4762,7 @@
     "CL_CF_AC_interlock_sub_title": "AUX. HEAT 12 VDC CONTROL FROM IDU",
     "CL_CF_AC_interlock_off_tips": "Please review installation materials for proper settings if Interlock is to be turned on.",
     "CL_CF_AC_8c_sub_tips": "COOL/FAN/DRY MODE OPTIONS",
-    "CL_CF_AC_8c_item_tips": "Frozen protection",
+    "CL_CF_AC_8c_item_tips": "Freeze protection",
     "CL_CF_AC_head_mode": "HEAT MODE OPTIONS",
     "CL_CF_AC_control_logic_1": "HP and Aux. Heat",
     "CL_CF_AC_control_logic_2": "Aux. Heat Only",
@@ -5111,5 +5111,11 @@
     "CL_CM_CS_dw_502.f_cn_step3": "Tap and hold the \"Connect\" key for 3 seconds until \"C\" appears on the display.",
     "CL_CM_CS_dw_502.f_cn_step4": "The device network is now open for connection. Click \"NEXT\" to continue.",
     "CL_CM_CS_dw_502.f_cn_p_step2": "Press \"Connect\" key for 5 sec until \"P\" appears on the display.",
-    "CL_CM_CS_dw_502.f_cn_p_step3": "Seeing the device enter the countdown，click “NEXT” to continue."
+    "CL_CM_CS_dw_502.f_cn_p_step3": "Seeing the device enter the countdown，click “NEXT” to continue.",
+    "CL_CF_WC_reset_tips": "Are you sure you want to reset your appliance to the factory settings?",
+    "CL_CF_WC_reset_content": "By executing a factory reset, all personal settings and stored data is lost.",
+    "CL_CF_WC_night_content": "Night mode allows you to lower illumination for a specific amount of time.",
+    "CL_DV_OV_bio24PE_proofing_desc": "Designed to create the ideal conditions for dough to rise. It maintains a warm, consistent temperature, which is perfect for yeast fermentation. It helps the dough expand, resulting in light, airy, and fluffy baked goods.",
+    "CL_CF_WC_night_end_select": "Select when Night mode should end.",
+    "CL_DV_RF_cleaning_reminders_maximum": "A maximum of 20 can be added"
 }
