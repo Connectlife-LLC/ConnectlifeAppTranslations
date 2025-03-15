@@ -5117,5 +5117,8 @@
     "CL_CF_WC_night_content": "Met de nachtmodus kunt u de verlichting gedurende een bepaalde tijd dimmen.",
     "CL_DV_OV_bio24PE_proofing_desc": "Ontworpen om de ideale omstandigheden te creëren voor het rijzen van deeg. Het handhaaft een warme, constante temperatuur, wat perfect is voor gistfermentatie. Het helpt het deeg te laten uitzetten, wat resulteert in lichte, luchtige en luchtige bakwaren.",
     "CL_CF_WC_night_end_select": "Selecteer wanneer de nachtmodus moet eindigen.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NIET RESETTEN",
+    "self_diagnosis_SCAN_Btn": "SCANNEN",
+    "CL_CF_WC_add_bottle": "VOEG een fles toe"
 }

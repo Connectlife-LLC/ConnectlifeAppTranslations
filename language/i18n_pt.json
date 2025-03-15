@@ -5117,5 +5117,8 @@
     "CL_CF_WC_night_content": "O modo noturno permite que você diminua a iluminação por um período específico de tempo.",
     "CL_DV_OV_bio24PE_proofing_desc": "Projetado para criar as condições ideais para a massa crescer. Ele mantém uma temperatura quente e consistente, o que é perfeito para a fermentação do fermento. Ajuda a massa a expandir, resultando em assados leves, arejados e fofos.",
     "CL_CF_WC_night_end_select": "Selecione quando o modo noturno deve terminar.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NÃO REINICIAR",
+    "self_diagnosis_SCAN_Btn": "ESCANEAMENTO",
+    "CL_CF_WC_add_bottle": "ADICIONE uma garrafa"
 }
