@@ -5117,5 +5117,9 @@
     "CL_CF_WC_night_content": "Modul de noapte vă permite să reduceți iluminarea pentru o anumită perioadă de timp.",
     "CL_DV_OV_bio24PE_proofing_desc": "Conceput pentru a crea condițiile ideale pentru ca aluatul să crească. Menține o temperatură caldă, constantă, care este perfectă pentru fermentarea drojdiei. Ajută la extinderea aluatului, rezultând produse de copt ușoare, aerisite și pufoase.",
     "CL_CF_WC_night_end_select": "Selectați când trebuie să se încheie modul Noapte.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NU RESETARE",
+    "self_diagnosis_SCAN_Btn": "SCANĂ",
+    "CL_CF_WC_add_bottle": "Adăugați o sticlă",
+    "CL_CF_LG_enduser_consent_content_tip": "Cu acest consimțământ confirmați că sunteți pe deplin conștient de scopul prelucrării datelor dumneavoastră cu caracter personal, așa cum este determinat de <u> Politica de protecție a datelor (URL) </u> și sunteți de acord ca compania ConnectLife, LLC. poate utiliza datele dumneavoastră cu caracter personal pentru serviciile menționate mai jos."
 }

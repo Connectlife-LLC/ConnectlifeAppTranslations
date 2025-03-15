@@ -5117,5 +5117,9 @@
     "CL_CF_WC_night_content": "El modo nocturno le permite reducir la iluminación durante un período de tiempo específico.",
     "CL_DV_OV_bio24PE_proofing_desc": "Diseñado para crear las condiciones ideales para el levado de la masa. Mantiene una temperatura cálida y constante, ideal para la fermentación de la levadura. Facilita la expansión de la masa, dando como resultado productos horneados ligeros, aireados y esponjosos.",
     "CL_CF_WC_night_end_select": "Seleccione cuándo debe finalizar el modo Noche.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NO REINICIAR",
+    "self_diagnosis_SCAN_Btn": "ESCANEAR",
+    "CL_CF_WC_add_bottle": "AÑADIR una botella",
+    "CL_CF_LG_enduser_consent_content_tip": "Con este consentimiento usted confirma que tiene pleno conocimiento de la finalidad del procesamiento de sus datos personales según lo determina la Política de Protección de Datos (URL) y acepta que la empresa ConnectLife, LLC. podrá utilizar sus datos personales para los servicios que se indican a continuación."
 }
