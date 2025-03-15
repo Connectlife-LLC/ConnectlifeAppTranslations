@@ -5117,5 +5117,8 @@
     "CL_CF_WC_night_content": "מצב לילה מאפשר לך להנמיך את התאורה לפרק זמן מסוים.",
     "CL_DV_OV_bio24PE_proofing_desc": "נועד ליצור את התנאים האידיאליים לתפיחת הבצק. הוא שומר על טמפרטורה חמה ועקבית, שהיא מושלמת לתסיסת שמרים. זה עוזר לעזור לבצק להתרחב, וכתוצאה מכך מאפים קלילים, אווריריים ואווריריים.",
     "CL_CF_WC_night_end_select": "בחר מתי מצב לילה אמור להסתיים.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "אל תאפס",
+    "self_diagnosis_SCAN_Btn": "לִסְרוֹק",
+    "CL_CF_WC_add_bottle": "הוסף בקבוק"
 }

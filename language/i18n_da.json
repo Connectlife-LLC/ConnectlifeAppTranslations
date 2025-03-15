@@ -5117,5 +5117,8 @@
     "CL_CF_WC_night_content": "Nattilstand giver dig mulighed for at sænke belysningen i et bestemt tidsrum.",
     "CL_DV_OV_bio24PE_proofing_desc": "Designet til at skabe de ideelle forhold for dejen at hæve. Den holder en varm, ensartet temperatur, som er perfekt til gærgæring. Det hjælper med at hjælpe dejen med at udvide sig, hvilket resulterer i lette, luftige og luftige bagværk.",
     "CL_CF_WC_night_end_select": "Vælg, hvornår nattilstand skal afsluttes.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NULSTIL IKKE",
+    "self_diagnosis_SCAN_Btn": "SCAN",
+    "CL_CF_WC_add_bottle": "TILFØJ en flaske"
 }

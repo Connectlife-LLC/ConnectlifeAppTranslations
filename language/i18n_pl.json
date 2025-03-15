@@ -5117,5 +5117,8 @@
     "CL_CF_WC_night_content": "Tryb nocny umożliwia obniżenie oświetlenia na określony czas.",
     "CL_DV_OV_bio24PE_proofing_desc": "Zaprojektowany, aby stworzyć idealne warunki do wyrastania ciasta. Utrzymuje ciepłą, stałą temperaturę, która jest idealna do fermentacji drożdżowej. Pomaga ciastu się rozrastać, co skutkuje lekkimi, przewiewnymi i puszystymi wypiekami.",
     "CL_CF_WC_night_end_select": "Wybierz, kiedy tryb nocny ma się zakończyć.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NIE RESETUJ",
+    "self_diagnosis_SCAN_Btn": "SKANOWANIE",
+    "CL_CF_WC_add_bottle": "DODAJ butelkę"
 }

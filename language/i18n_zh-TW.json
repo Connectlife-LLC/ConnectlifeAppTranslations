@@ -1586,7 +1586,7 @@
     "d_Select_settings": "選擇你想要傳輸的設置",
     "d_to": "去",
     "request_timeout": "請求超時",
-    "hours": "小時後",
+    "hours": "小時",
     "after_one_minute": "1分鐘",
     "display_after_one_minute": "1分鐘之後",
     "display_after_five_minute": "5分鐘之後",
@@ -4409,7 +4409,7 @@
     "CL_SL_CM_washing_temperature_detail": "根據統計，較低的溫度更節能，因此您下次可能想嘗試較低的水溫。",
     "add_appliance_connect_wifi_atos": "在智慧型手機的 Wi-Fi 設定中連接到「ConnectLife」網路。 \n\n退出 ConnectLife 應用程序，前往智慧型手機的 WiFi 設定。連接到“ConnectLife”網絡，輸入密碼“ConnectLife”，然後返回 ConnectLife 應用程式。",
     "after_sale_report_failed_desc_new": "發生意外錯誤，無法回報問題。",
-    "CL_DV_RF_sf_remaining": "目前處於急速冷凍結狀態，還剩 ** 分鐘。",
+    "CL_DV_RF_sf_remaining": "目前處於急速冷凍結模式，還剩 ** 分鐘。",
     "CL_SL_CM_library_title": "洗衣庫",
     "CL_SL_CM_how_to_wash": "如何清洗",
     "CL_SL_CM_how_to_care": "如何護理",
@@ -4974,7 +4974,7 @@
     "CL_DV_WM86_stain_type_oil": "油",
     "CL_DV_WM86_stain_type_tomato_sauce": "番茄醬",
     "CL_CF_FM_fridge_position": "冰箱位置",
-    "CL_DV_RF_sf_remaining_mins": "目前處於急速冷凍狀態，剩餘 ** 分鐘。",
+    "CL_DV_RF_sf_remaining_mins": "目前處於急速冷凍模式，剩餘 ** 分鐘。",
     "edit_food_delete_tips_title": "去掉這個食物嗎？",
     "edit_food_delete_tips_content": "移除這些食物意味著它們將不再存在於你的冰箱中，除非你下次重新放入。",
     "remove_food": "確認",
@@ -5117,5 +5117,8 @@
     "CL_CF_WC_night_content": "夜間模式可讓您在特定時間內降低照明。",
     "CL_DV_OV_bio24PE_proofing_desc": "旨在為麵團發酵創造理想條件。它能保持溫暖、恆定的溫度，非常適合酵母發酵。它有助於麵團膨脹，從而製作出輕盈、蓬鬆的烘焙食品。",
     "CL_CF_WC_night_end_select": "選擇夜間模式的結束時間。",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "不要重置",
+    "self_diagnosis_SCAN_Btn": "掃描",
+    "CL_CF_WC_add_bottle": "加入一瓶"
 }

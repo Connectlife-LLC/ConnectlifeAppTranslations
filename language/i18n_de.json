@@ -5117,5 +5117,8 @@
     "CL_CF_WC_night_content": "Im Nachtmodus können Sie die Beleuchtung für eine bestimmte Zeit verringern.",
     "CL_DV_OV_bio24PE_proofing_desc": "Entwickelt, um ideale Bedingungen für das Aufgehen von Teig zu schaffen. Es hält eine warme, konstante Temperatur aufrecht, die perfekt für die Hefegärung ist. Es unterstützt das Aufgehen des Teigs und sorgt für leichte, luftige und lockere Backwaren.",
     "CL_CF_WC_night_end_select": "Wählen Sie aus, wann der Nachtmodus enden soll.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NICHT ZURÜCKSETZEN",
+    "self_diagnosis_SCAN_Btn": "SCAN",
+    "CL_CF_WC_add_bottle": "Eine Flasche hinzufügen"
 }

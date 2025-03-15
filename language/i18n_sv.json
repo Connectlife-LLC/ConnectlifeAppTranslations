@@ -5117,5 +5117,8 @@
     "CL_CF_WC_night_content": "Nattläge låter dig sänka belysningen under en viss tid.",
     "CL_DV_OV_bio24PE_proofing_desc": "Designad för att skapa de idealiska förutsättningarna för degen att jäsa. Den håller en varm, jämn temperatur, vilket är perfekt för jästjäsning. Det hjälper till att hjälpa degen att expandera, vilket resulterar i lätta, luftiga och fluffiga bakverk.",
     "CL_CF_WC_night_end_select": "Välj när nattläget ska avslutas.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "ÅTERSTÄLL INTE",
+    "self_diagnosis_SCAN_Btn": "AVSÖKA",
+    "CL_CF_WC_add_bottle": "LÄGG TILL en flaska"
 }
