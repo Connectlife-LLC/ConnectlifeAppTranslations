@@ -5117,5 +5117,9 @@
     "CL_CF_WC_night_content": "Noćni način rada omogućuje vam da smanjite osvjetljenje na određeno vrijeme.",
     "CL_DV_OV_bio24PE_proofing_desc": "Dizajnirano za stvaranje idealnih uvjeta za dizanje tijesta. Održava toplu, postojanu temperaturu, koja je savršena za fermentaciju kvasca. Pomaže u proširenju tijesta, što rezultira laganim, prozračnim i pahuljastim pečenim proizvodima.",
     "CL_CF_WC_night_end_select": "Odaberite kada noćni način rada treba završiti.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NEMOJTE RESETIRATI",
+    "self_diagnosis_SCAN_Btn": "SKENIRATI",
+    "CL_CF_WC_add_bottle": "DODAJTE bocu",
+    "CL_CF_LG_enduser_consent_content_tip": "Ovim privolom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka (URL) </u> i slažete se da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku."
 }

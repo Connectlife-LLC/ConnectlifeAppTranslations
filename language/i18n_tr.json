@@ -5117,5 +5117,9 @@
     "CL_CF_WC_night_content": "Gece modu, aydınlatmayı belirli bir süre için kısmanıza olanak tanır.",
     "CL_DV_OV_bio24PE_proofing_desc": "Hamurun kabarması için ideal koşulları yaratmak üzere tasarlanmıştır. Maya fermantasyonu için mükemmel olan sıcak, sabit bir sıcaklığı korur. Hamurun genişlemesine yardımcı olur ve bunun sonucunda hafif, havadar ve kabarık pişmiş ürünler elde edilir.",
     "CL_CF_WC_night_end_select": "Gece modunun ne zaman sonlanacağını seçin.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "Sıfırlama yapmayın",
+    "self_diagnosis_SCAN_Btn": "TARAMA",
+    "CL_CF_WC_add_bottle": "Bir şişe EKLE",
+    "CL_CF_LG_enduser_consent_content_tip": "Bu onayla, <u> Veri Koruma Politikası (URL) </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tamamen bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz."
 }

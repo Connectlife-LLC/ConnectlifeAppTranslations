@@ -5117,5 +5117,9 @@
     "CL_CF_WC_night_content": "Nočni način vam omogoča nižjo osvetlitev za določen čas.",
     "CL_DV_OV_bio24PE_proofing_desc": "Zasnovan za ustvarjanje idealnih pogojev za vzhajanje testa. Ohranja toplo in stalno temperaturo, ki je popolna za fermentacijo kvasa. Pomaga pri narastku testa, rezultat pa je lahko, zračno in puhasto pecivo.",
     "CL_CF_WC_night_end_select": "Izberite, kdaj naj se nočni način konča.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NE PONASTAVLJAJ",
+    "self_diagnosis_SCAN_Btn": "SCAN",
+    "CL_CF_WC_add_bottle": "DODAJ steklenico",
+    "CL_CF_LG_enduser_consent_content_tip": "S tem soglasjem potrjujete, da ste v celoti seznanjeni z namenom obdelave vaših osebnih podatkov, kot ga določa <u> Politika varstva podatkov (URL) </u> in se strinjate, da podjetje ConnectLife, LLC. lahko vaše osebne podatke uporabi za storitve, kot je navedeno spodaj."
 }
