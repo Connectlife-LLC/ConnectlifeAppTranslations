@@ -4409,7 +4409,7 @@
     "CL_SL_CM_washing_temperature_detail": "Lower temperatures are statistically more energy efficient, so you may want to try a lower water temperature next time.",
     "add_appliance_connect_wifi_atos": "Connect to “ConnectLife” network in the Wi-Fi settings of your smartphone.\n\nExit ConnectLife app, go to your smartphone’s WiFi settings. Connect to “ConnectLife” network type in password “ConnectLife” and return back to ConnectLife app.",
     "after_sale_report_failed_desc_new": "An unexpected error occured and the issue could not be reported.",
-    "CL_DV_RF_sf_remaining": "Currently in super freeze with ** min remaining.",
+    "CL_DV_RF_sf_remaining": "Currently in Super Freeze mode with ** min remaining.",
     "CL_SL_CM_library_title": "Laundry library",
     "CL_SL_CM_how_to_wash": "How to wash",
     "CL_SL_CM_how_to_care": "How to care",
@@ -4974,7 +4974,7 @@
     "CL_DV_WM86_stain_type_oil": "Oil",
     "CL_DV_WM86_stain_type_tomato_sauce": "Tomato sauce",
     "CL_CF_FM_fridge_position": "FRIDGE POSITION",
-    "CL_DV_RF_sf_remaining_mins": "Currently in super freeze with ** mins remaining.",
+    "CL_DV_RF_sf_remaining_mins": "Currently in Super Freeze mode with ** mins remaining.",
     "edit_food_delete_tips_title": "REMOVE THIS FOOD ?",
     "edit_food_delete_tips_content": "Removing this food means that it is no longer in your fridge unless you restock it next time.",
     "remove_food": "CONFIRM",
@@ -4995,7 +4995,7 @@
     "CL_DV_WM_send_as_local": "SEND AS LOCAL",
     "CL_DV_WM_local_flag": "Local",
     "CL_DV_HOB_count_down_set_new_time": "SET NEW TIME",
-    "CL_DV_RF_sf_less_than_one_min": "Currently in Super Freeze mode, with less than 1 minute remaining.",
+    "CL_DV_RF_sf_less_than_one_min": "Currently in Super Freeze mode with less than 1 minute remaining.",
     "CL_CF_FM_delete_success": "Successfully deleted",
     "CL_SL_CM_laundry_softer": "Softer",
     "CL_SL_CM_laundry_consumables_title": "Consumables",
@@ -5117,5 +5117,10 @@
     "CL_CF_WC_night_content": "Night mode allows you to lower illumination for a specific amount of time.",
     "CL_DV_OV_bio24PE_proofing_desc": "Designed to create the ideal conditions for dough to rise. It maintains a warm, consistent temperature, which is perfect for yeast fermentation. It helps the dough expand, resulting in light, airy, and fluffy baked goods.",
     "CL_CF_WC_night_end_select": "Select when Night mode should end.",
-    "CL_DV_RF_cleaning_reminders_maximum": "A maximum of 20 can be added"
+    "CL_DV_RF_cleaning_reminders_maximum": "A maximum of 20 can be added",
+    "CL_CF_WC_do_not_reset": "DON’T RESET",
+    "self_diagnosis_SCAN_Btn": "SCAN",
+    "CL_CF_WC_add_bottle": "ADD a bottle",
+    "CL_CF_LG_enduser_consent_content_tip": "With this consent you confirm that you are fully aware of the purpose of the processing of your personal data as determined by the <u>Data Protection Policy (URL)</u> and you agree that the company ConnectLife, LLC. may use your personal data for the services as stated below.",
+    "CL_CF_LG_enduser_consent_content_tip2": "With this consent you confirm that you are fully aware of the purpose of the processing of your personal data as determined by the <u>Data Protection Policy</u> and you agree that the company ConnectLife, LLC. may use your personal data for the services as stated below."
 }

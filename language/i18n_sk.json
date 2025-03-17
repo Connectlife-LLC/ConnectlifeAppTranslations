@@ -5117,5 +5117,10 @@
     "CL_CF_WC_night_content": "Nočný režim vám umožňuje znížiť osvetlenie na určitý čas.",
     "CL_DV_OV_bio24PE_proofing_desc": "Navrhnuté tak, aby vytvárali ideálne podmienky na kysnutie cesta. Udržuje teplú, stálu teplotu, ktorá je ideálna na kvasenie kvasníc. Pomáha cesto expandovať, výsledkom čoho je ľahké, vzdušné a nadýchané pečivo.",
     "CL_CF_WC_night_end_select": "Vyberte, kedy sa má nočný režim skončiť.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NERESETOVAŤ",
+    "self_diagnosis_SCAN_Btn": "SKENOVAŤ",
+    "CL_CF_WC_add_bottle": "PRIDAJTE fľašu",
+    "CL_CF_LG_enduser_consent_content_tip": "Týmto súhlasom potvrdzujete, že ste si plne vedomý účelu spracovania vašich osobných údajov, ako je určený <u> Zásadami ochrany údajov (URL) </u> a súhlasíte s tým, že spoločnosť ConnectLife, LLC. môže použiť vaše osobné údaje pre služby, ako je uvedené nižšie.",
+    "CL_CF_LG_enduser_consent_content_tip2": "Týmto súhlasom potvrdzujete, že ste si plne vedomý účelu spracovania vašich osobných údajov, ako je určený <u> Zásadami ochrany údajov </u> a súhlasíte s tým, že spoločnosť ConnectLife, LLC. môže použiť vaše osobné údaje pre služby, ako je uvedené nižšie."
 }
