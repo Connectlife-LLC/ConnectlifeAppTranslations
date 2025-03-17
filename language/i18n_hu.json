@@ -5121,6 +5121,6 @@
     "CL_CF_WC_do_not_reset": "NE RESET",
     "self_diagnosis_SCAN_Btn": "LETAPOGATÁS",
     "CL_CF_WC_add_bottle": "ADJ hozzá egy üveget",
-    "CL_CF_LG_enduser_consent_content_tip": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az <u> Adatvédelmi szabályzatban (URL) </u> meghatározott céljával, és beleegyezik abba, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az <u> Adatvédelmi szabályzatban </u> meghatározott céljával, és elfogadja, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz."
+    "CL_DV_WM_detergent_value_too_large": "Az érték túl nagy!",
+    "CL_CF_LG_enduser_consent_tips": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az <u> Adatvédelmi szabályzatban </u> meghatározott céljával, és elfogadja, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz."
 }

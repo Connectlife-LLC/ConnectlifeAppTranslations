@@ -5121,6 +5121,6 @@
     "CL_CF_WC_do_not_reset": "不要重置",
     "self_diagnosis_SCAN_Btn": "扫描",
     "CL_CF_WC_add_bottle": "添加一瓶",
-    "CL_CF_LG_enduser_consent_content_tip": "通过此同意，您确认您完全了解<u>数据保护政策（URL） </u>所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。",
-    "CL_CF_LG_enduser_consent_content_tip2": "通过此同意，您确认您完全了解<u>数据保护政策</u>所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。"
+    "CL_DV_WM_detergent_value_too_large": "该值太大！",
+    "CL_CF_LG_enduser_consent_tips": "通过此同意，您确认您完全了解<u>数据保护政策</u>所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。"
 }
