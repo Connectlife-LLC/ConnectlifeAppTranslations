@@ -5117,5 +5117,10 @@
     "CL_CF_WC_night_content": "Le mode nuit vous permet de réduire l'éclairage pendant une durée spécifique.",
     "CL_DV_OV_bio24PE_proofing_desc": "Conçu pour créer les conditions idéales pour la levée de la pâte. Il maintient une température constante et chaude, idéale pour la fermentation des levures. Il favorise le gonflement de la pâte, pour des viennoiseries légères, aérées et moelleuses.",
     "CL_CF_WC_night_end_select": "Sélectionnez quand le mode Nuit doit se terminer.",
-    "CL_DV_RF_cleaning_reminders_maximum": ""
+    "CL_DV_RF_cleaning_reminders_maximum": "",
+    "CL_CF_WC_do_not_reset": "NE PAS RÉINITIALISER",
+    "self_diagnosis_SCAN_Btn": "BALAYAGE",
+    "CL_CF_WC_add_bottle": "AJOUTER une bouteille",
+    "CL_CF_LG_enduser_consent_content_tip": "Avec ce consentement, vous confirmez que vous êtes pleinement conscient de la finalité du traitement de vos données personnelles telle que déterminée par la <u> Politique de protection des données (URL) </u> et vous acceptez que la société ConnectLife, LLC. puisse utiliser vos données personnelles pour les services comme indiqué ci-dessous.",
+    "CL_CF_LG_enduser_consent_content_tip2": "Avec ce consentement, vous confirmez que vous êtes pleinement conscient de la finalité du traitement de vos données personnelles telle que déterminée par la <u> Politique de protection des données </u> et vous acceptez que la société ConnectLife, LLC. puisse utiliser vos données personnelles pour les services comme indiqué ci-dessous."
 }
