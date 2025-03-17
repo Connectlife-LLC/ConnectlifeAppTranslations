@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Termos e Condições",
     "CL_CF_LG_enduser_terms": "Termos e condições do utilizador final",
     "CL_CF_LG_enduser_consent_title": "Consentimento de privacidade de dados",
-    "CL_CF_LG_enduser_consent_content": "Com este consentimento, confirma que tem pleno conhecimento da finalidade do tratamento dos seus dados pessoais, tal como determinado pela Política de Proteção de Dados (URL), e concorda que a empresa ConnectLife, LLC. utilize os seus dados pessoais para os serviços abaixo indicados.",
+    "CL_CF_LG_enduser_consent_content": "Com este consentimento, confirma que tem pleno conhecimento da finalidade do tratamento dos seus dados pessoais, tal como determinado pela <u>Política de Proteção de Dados (URL)</u>, e concorda que a empresa ConnectLife, LLC. utilize os seus dados pessoais para os serviços abaixo indicados.",
     "CL_CF_LG_accept_all": "Aceitar tudo",
     "CL_CF_LG_product_feedback": "Convite para enviar a sua opinião sobre o produto",
     "CL_CF_LG_product_feedback_content": "Estamos empenhados em melhorar os nossos produtos. O nosso objetivo é garantir que as avaliações dos produtos sejam enviadas ao comprador ou utilizador final com o seu consentimento. Poderemos contactá-lo no prazo de 30 dias após a entrega, com base no nosso interesse legítimo em melhorar o produto, garantir a qualidade e a satisfação do cliente.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NÃO REINICIAR",
     "self_diagnosis_SCAN_Btn": "ESCANEAMENTO",
     "CL_CF_WC_add_bottle": "ADICIONE uma garrafa",
-    "CL_CF_LG_enduser_consent_content_tip": "Com este consentimento, confirma que tem pleno conhecimento da finalidade do tratamento dos seus dados pessoais, tal como determinado pela Política de Proteção de Dados (URL), e concorda que a empresa ConnectLife, LLC. utilize os seus dados pessoais para os serviços abaixo indicados.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Com este consentimento, confirma que tem pleno conhecimento da finalidade do tratamento dos seus dados pessoais, tal como determinado pela Política de Proteção de Dados (URL), e concorda que a empresa ConnectLife, LLC. utilize os seus dados pessoais para os serviços abaixo indicados."
+    "CL_DV_WM_detergent_value_too_large": "O valor é muito grande!"
 }

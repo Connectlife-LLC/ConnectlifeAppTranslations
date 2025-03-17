@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Terms and conditions",
     "CL_CF_LG_enduser_terms": "End user terms and conditions",
     "CL_CF_LG_enduser_consent_title": "Data Privacy Consent",
-    "CL_CF_LG_enduser_consent_content": "With this consent you confirm that you are fully aware of the purpose of the processing of your personal data as determined by the Data Protection Policy (URL) and you agree that the company ConnectLife, LLC. may use your personal data for the services as stated below.",
+    "CL_CF_LG_enduser_consent_content": "With this consent you confirm that you are fully aware of the purpose of the processing of your personal data as determined by the <u>Data Protection Policy</u> and you agree that the company ConnectLife, LLC. may use your personal data for the services as stated below.",
     "CL_CF_LG_accept_all": "Accept All",
     "CL_CF_LG_product_feedback": "Invitation to Submit Product Feedback",
     "CL_CF_LG_product_feedback_content": "We are committed to improve our products. We aim  to ensure that product reviews are submitted to actual purchaser or user with consent. We may contact you within 30 days of product delivery based on our legitimate interest to enhance product improvement, quality assurance, and customer satisfaction.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "DON’T RESET",
     "self_diagnosis_SCAN_Btn": "SCAN",
     "CL_CF_WC_add_bottle": "ADD a bottle",
-    "CL_CF_LG_enduser_consent_content_tip": "With this consent you confirm that you are fully aware of the purpose of the processing of your personal data as determined by the <u>Data Protection Policy (URL)</u> and you agree that the company ConnectLife, LLC. may use your personal data for the services as stated below.",
-    "CL_CF_LG_enduser_consent_content_tip2": "With this consent you confirm that you are fully aware of the purpose of the processing of your personal data as determined by the <u>Data Protection Policy</u> and you agree that the company ConnectLife, LLC. may use your personal data for the services as stated below."
+    "CL_DV_WM_detergent_value_too_large": "The value is too large!"
 }

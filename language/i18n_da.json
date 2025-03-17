@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Vilkår og betingelser",
     "CL_CF_LG_enduser_terms": "Slutbrugervilkår og -betingelser",
     "CL_CF_LG_enduser_consent_title": "Samtykke til databeskyttelse",
-    "CL_CF_LG_enduser_consent_content": "Med dette samtykke bekræfter du, at du er fuldt ud klar over formålet med behandlingen af ​​dine personlige data som bestemt af databeskyttelsespolitikken (URL), og du accepterer, at virksomheden ConnectLife, LLC. kan bruge dine personlige data til tjenesterne som angivet nedenfor.",
+    "CL_CF_LG_enduser_consent_content": "Med dette samtykke bekræfter du, at du er fuldt ud klar over formålet med behandlingen af ​​dine personlige data som bestemt af <u> Databeskyttelsespolitik </u> og du accepterer, at virksomheden ConnectLife, LLC. kan bruge dine personlige data til tjenesterne som angivet nedenfor.",
     "CL_CF_LG_accept_all": "Accepter alle",
     "CL_CF_LG_product_feedback": "Invitation til at indsende produktfeedback",
     "CL_CF_LG_product_feedback_content": "Vi er forpligtet til at forbedre vores produkter. Vi tilstræber at sikre, at produktanmeldelser sendes til den faktiske køber eller bruger med samtykke. Vi kan kontakte dig inden for 30 dage efter produktlevering baseret på vores legitime interesse i at forbedre produktforbedringer, kvalitetssikring og kundetilfredshed.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NULSTIL IKKE",
     "self_diagnosis_SCAN_Btn": "SCAN",
     "CL_CF_WC_add_bottle": "TILFØJ en flaske",
-    "CL_CF_LG_enduser_consent_content_tip": "Med dette samtykke bekræfter du, at du er fuldt ud klar over formålet med behandlingen af ​​dine personlige data som bestemt af <u> Databeskyttelsespolitik (URL) </u>, og du accepterer, at virksomheden ConnectLife, LLC. kan bruge dine personlige data til tjenesterne som angivet nedenfor.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Med dette samtykke bekræfter du, at du er fuldt ud klar over formålet med behandlingen af ​​dine personlige data som bestemt af <u> Databeskyttelsespolitik </u> og du accepterer, at virksomheden ConnectLife, LLC. kan bruge dine personlige data til tjenesterne som angivet nedenfor."
+    "CL_DV_WM_detergent_value_too_large": "Værdien er for stor!"
 }

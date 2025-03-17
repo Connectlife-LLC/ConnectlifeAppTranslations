@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Regulamin",
     "CL_CF_LG_enduser_terms": "Warunki użytkownika końcowego",
     "CL_CF_LG_enduser_consent_title": "Zgoda na prywatność danych",
-    "CL_CF_LG_enduser_consent_content": "Poprzez tę zgodę potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych określonego w Polityce ochrony danych (URL) i wyrażasz zgodę na to, aby firma ConnectLife, LLC. może wykorzystywać Twoje dane osobowe do świadczenia usług określonych poniżej.",
+    "CL_CF_LG_enduser_consent_content": "Wyrażając niniejszą zgodę, potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych, zgodnie z <u> Polityką ochrony danych </u> i wyrażasz zgodę, aby firma ConnectLife, LLC. mogła wykorzystywać Twoje dane osobowe w celu świadczenia usług, jak wskazano poniżej.",
     "CL_CF_LG_accept_all": "Akceptuj wszystkie",
     "CL_CF_LG_product_feedback": "Zaproszenie do przesyłania opinii o produkcie",
     "CL_CF_LG_product_feedback_content": "Zależy nam na ulepszaniu naszych produktów. Naszym celem jest zapewnienie, że recenzje produktów są przesyłane faktycznemu nabywcy lub użytkownikowi za jego zgodą. Możemy skontaktować się z Tobą w ciągu 30 dni od dostawy produktu w oparciu o nasz uzasadniony interes, polegający na ulepszaniu produktów, zapewnianiu jakości i zadowoleniu klienta.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NIE RESETUJ",
     "self_diagnosis_SCAN_Btn": "SKANOWANIE",
     "CL_CF_WC_add_bottle": "DODAJ butelkę",
-    "CL_CF_LG_enduser_consent_content_tip": "Wyrażając niniejszą zgodę, potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych, zgodnie z <u> Polityką ochrony danych (URL) </u> i wyrażasz zgodę na to, aby firma ConnectLife, LLC. mogła wykorzystywać Twoje dane osobowe w celu świadczenia usług, jak wskazano poniżej.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Wyrażając niniejszą zgodę, potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych, zgodnie z <u> Polityką ochrony danych </u> i wyrażasz zgodę, aby firma ConnectLife, LLC. mogła wykorzystywać Twoje dane osobowe w celu świadczenia usług, jak wskazano poniżej."
+    "CL_DV_WM_detergent_value_too_large": "Wartość jest za duża!"
 }

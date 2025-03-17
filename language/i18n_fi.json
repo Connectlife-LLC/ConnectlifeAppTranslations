@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Käyttöehdot",
     "CL_CF_LG_enduser_terms": "Loppukäyttäjän käyttöehdot",
     "CL_CF_LG_enduser_consent_title": "Tietosuojan suostumus",
-    "CL_CF_LG_enduser_consent_content": "Tällä suostumuksella vahvistat, että olet täysin tietoinen henkilötietojesi käsittelyn tarkoituksesta, joka on määritelty tietosuojakäytännössä (URL) ja hyväksyt, että yritys ConnectLife, LLC. voi käyttää henkilötietojasi palveluihin alla mainitulla tavalla.",
+    "CL_CF_LG_enduser_consent_content": "Tällä suostumuksella vahvistat, että olet täysin tietoinen henkilötietojesi käsittelyn tarkoituksesta <u> tietosuojakäytännön </u> mukaisesti ja hyväksyt, että ConnectLife, LLC. voi käyttää henkilötietojasi palveluihin alla mainitulla tavalla.",
     "CL_CF_LG_accept_all": "Hyväksy kaikki",
     "CL_CF_LG_product_feedback": "Kutsu antaa palautetta tuotteesta",
     "CL_CF_LG_product_feedback_content": "Olemme sitoutuneet parantamaan tuotteitamme. Pyrimme varmistamaan, että tuotearvostelut lähetetään todelliselle ostajalle tai käyttäjälle suostumuksella. Saatamme ottaa sinuun yhteyttä 30 päivän kuluessa tuotteen toimituksesta oikeutetun etumme perusteella parantaa tuotteen parantamista, laadunvarmistusta ja asiakastyytyväisyyttä.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "ÄLÄ NOLLAA",
     "self_diagnosis_SCAN_Btn": "SKANNATA",
     "CL_CF_WC_add_bottle": "LISÄÄ pullo",
-    "CL_CF_LG_enduser_consent_content_tip": "Tällä suostumuksella vahvistat, että olet täysin tietoinen henkilötietojesi käsittelyn tarkoituksesta, sellaisena kuin se on määritelty <u> tietosuojakäytännössä (URL) </u>, ja hyväksyt, että yritys ConnectLife, LLC. voi käyttää henkilötietojasi palveluihin alla mainitulla tavalla.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Tällä suostumuksella vahvistat, että olet täysin tietoinen henkilötietojesi käsittelyn tarkoituksesta <u> tietosuojakäytännön </u> mukaisesti ja hyväksyt, että ConnectLife, LLC. voi käyttää henkilötietojasi palveluihin alla mainitulla tavalla."
+    "CL_DV_WM_detergent_value_too_large": "Arvo on liian suuri!"
 }

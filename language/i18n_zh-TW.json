@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "條款與條件",
     "CL_CF_LG_enduser_terms": "最終用戶條款和條件",
     "CL_CF_LG_enduser_consent_title": "資料隱私同意書",
-    "CL_CF_LG_enduser_consent_content": "同意後，您確認您完全了解資料保護政策 (URL) 確定的個人資料處理目的，並且您同意 ConnectLife, LLC.可能會將您的個人資料用於下述服務。",
+    "CL_CF_LG_enduser_consent_content": "透過此同意，您確認您完全了解<u>資料保護政策</u>所確定的處理您的個人資料的目的，並且您同意 ConnectLife, LLC 公司。可能會使用您的個人資訊來提供下述服務。",
     "CL_CF_LG_accept_all": "全都接受",
     "CL_CF_LG_product_feedback": "邀請提交產品回饋",
     "CL_CF_LG_product_feedback_content": "我們致力於改進我們的產品。我們的目標是確保產品評論在同意的情況下提交給實際購買者或使用者。基於我們的合法利益，我們可能會在產品交付後 30 天內與您聯繫，以加強產品改進、品質保證和客戶滿意度。",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "不要重置",
     "self_diagnosis_SCAN_Btn": "掃描",
     "CL_CF_WC_add_bottle": "加入一瓶",
-    "CL_CF_LG_enduser_consent_content_tip": "透過此同意，您確認您完全了解<u>資料保護政策 (URL) </u>所確定的處理您的個人資料的目的，並且您同意 ConnectLife, LLC 公司。可能會使用您的個人資訊來提供下述服務。",
-    "CL_CF_LG_enduser_consent_content_tip2": "透過此同意，您確認您完全了解<u>資料保護政策</u>所確定的處理您的個人資料的目的，並且您同意 ConnectLife, LLC 公司。可能會使用您的個人資訊來提供下述服務。"
+    "CL_DV_WM_detergent_value_too_large": "該值太大！"
 }

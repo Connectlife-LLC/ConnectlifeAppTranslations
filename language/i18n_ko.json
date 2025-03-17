@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "이용약관",
     "CL_CF_LG_enduser_terms": "최종 사용자 이용약관",
     "CL_CF_LG_enduser_consent_title": "데이터 개인정보 보호 동의",
-    "CL_CF_LG_enduser_consent_content": "이 동의를 통해 귀하는 데이터 보호 정책(URL)에 따라 귀하의 개인 데이터 처리 목적을 완전히 인식하고 회사 ConnectLife, LLC가 동의한다는 것을 확인합니다. 아래 명시된 서비스를 위해 귀하의 개인정보를 사용할 수 있습니다.",
+    "CL_CF_LG_enduser_consent_content": "이러한 동의를 통해 귀하는 <u> 데이터 보호 정책 </u> 에 따라 결정된 귀하의 개인 데이터 처리 목적을 충분히 인지하고 있으며 ConnectLife, LLC.가 아래에 명시된 서비스를 위해 귀하의 개인 데이터를 사용할 수 있다는 데 동의합니다.",
     "CL_CF_LG_accept_all": "모든것을 받아 들인다",
     "CL_CF_LG_product_feedback": "제품 피드백 제출 초대",
     "CL_CF_LG_product_feedback_content": "우리는 제품을 개선하기 위해 최선을 다하고 있습니다. 우리는 제품 리뷰가 실제 구매자 또는 사용자에게 동의를 받아 제출되도록 하는 것을 목표로 합니다. 당사는 제품 개선, 품질 보증 및 고객 만족을 향상시키기 위한 정당한 이익을 바탕으로 제품 배송 후 30일 이내에 귀하에게 연락할 수 있습니다.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "재설정하지 마세요",
     "self_diagnosis_SCAN_Btn": "주사",
     "CL_CF_WC_add_bottle": "병을 추가하세요",
-    "CL_CF_LG_enduser_consent_content_tip": "이러한 동의를 통해 귀하는 <u> 데이터 보호 정책(URL) </u> 에 따라 결정된 귀하의 개인 데이터 처리 목적을 충분히 인지하고 있으며, ConnectLife, LLC.가 아래에 명시된 서비스를 위해 귀하의 개인 데이터를 사용할 수 있다는 데 동의합니다.",
-    "CL_CF_LG_enduser_consent_content_tip2": "이러한 동의를 통해 귀하는 <u> 데이터 보호 정책 </u> 에 따라 결정된 귀하의 개인 데이터 처리 목적을 충분히 인지하고 있으며 ConnectLife, LLC.가 아래에 명시된 서비스를 위해 귀하의 개인 데이터를 사용할 수 있다는 데 동의합니다."
+    "CL_DV_WM_detergent_value_too_large": "값이 너무 큽니다!"
 }

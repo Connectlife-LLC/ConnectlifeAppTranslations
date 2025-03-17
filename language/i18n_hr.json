@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Odredbe i uvjeti",
     "CL_CF_LG_enduser_terms": "Uvjeti i odredbe za krajnjeg korisnika",
     "CL_CF_LG_enduser_consent_title": "Pristanak na privatnost podataka",
-    "CL_CF_LG_enduser_consent_content": "Ovom privolom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno Politikom zaštite podataka (URL) te ste suglasni da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku.",
+    "CL_CF_LG_enduser_consent_content": "Ovim pristankom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka </u> te ste suglasni da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku.",
     "CL_CF_LG_accept_all": "Prihvatiti sve",
     "CL_CF_LG_product_feedback": "Slanje povratnih informacija o proizvodu",
     "CL_CF_LG_product_feedback_content": "Poboljšavamo naše proizvode. Cilj nam je osigurati da se recenzije proizvoda podnose stvarnom kupcu ili korisniku uz pristanak. Možemo vas kontaktirati u roku od 30 dana od isporuke proizvoda na temelju našeg legitimnog interesa da unaprijedimo poboljšanje proizvoda, osiguranje kvalitete i zadovoljstvo kupaca.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NEMOJTE RESETIRATI",
     "self_diagnosis_SCAN_Btn": "SKENIRATI",
     "CL_CF_WC_add_bottle": "DODAJTE bocu",
-    "CL_CF_LG_enduser_consent_content_tip": "Ovim privolom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka (URL) </u> i slažete se da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Ovim pristankom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka </u> te ste suglasni da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku."
+    "CL_DV_WM_detergent_value_too_large": "Vrijednost je prevelika!"
 }

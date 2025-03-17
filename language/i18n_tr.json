@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Şartlar ve koşullar",
     "CL_CF_LG_enduser_terms": "Son kullanıcı şartlar ve koşulları",
     "CL_CF_LG_enduser_consent_title": "Veri Gizliliği Onayı",
-    "CL_CF_LG_enduser_consent_content": "Bu onayla, kişisel verilerinizin Veri Koruma Politikası (URL) tarafından belirlenen işlenme amacını tam olarak bildiğinizi onaylıyor ve ConnectLife, LLC şirketinin bunu kabul ettiğini onaylıyorsunuz. kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabilir.",
+    "CL_CF_LG_enduser_consent_content": "Bu onayla, <u> Veri Koruma Politikası </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tamamen bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz.",
     "CL_CF_LG_accept_all": "Hepsini kabul et",
     "CL_CF_LG_product_feedback": "Ürün Geri Bildirimi Gönderme Daveti",
     "CL_CF_LG_product_feedback_content": "Ürünlerimizi geliştirmeye kararlıyız. Ürün incelemelerinin gerçek alıcıya veya kullanıcıya rızası alınarak sunulmasını sağlamayı hedefliyoruz. Ürün iyileştirmeyi, kalite güvencesini ve müşteri memnuniyetini artırmaya yönelik meşru menfaatimize dayanarak, ürün teslimatından sonraki 30 gün içinde sizinle iletişime geçebiliriz.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "Sıfırlama yapmayın",
     "self_diagnosis_SCAN_Btn": "TARAMA",
     "CL_CF_WC_add_bottle": "Bir şişe EKLE",
-    "CL_CF_LG_enduser_consent_content_tip": "Bu onayla, <u> Veri Koruma Politikası (URL) </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tamamen bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Bu onayla, <u> Veri Koruma Politikası </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tam olarak bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz."
+    "CL_DV_WM_detergent_value_too_large": "Değer çok büyük!"
 }

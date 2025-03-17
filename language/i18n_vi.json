@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Các điều khoản và điều kiện",
     "CL_CF_LG_enduser_terms": "Điều khoản và điều kiện của người dùng cuối",
     "CL_CF_LG_enduser_consent_title": "Đồng ý bảo mật dữ liệu",
-    "CL_CF_LG_enduser_consent_content": "Với sự đồng ý này, bạn xác nhận rằng bạn hoàn toàn nhận thức được mục đích xử lý dữ liệu cá nhân của mình như được xác định bởi Chính sách bảo vệ dữ liệu (URL) và bạn đồng ý rằng công ty ConnectLife, LLC. có thể sử dụng dữ liệu cá nhân của bạn cho các dịch vụ như được nêu dưới đây.",
+    "CL_CF_LG_enduser_consent_content": "Với sự đồng ý này, bạn xác nhận rằng bạn hoàn toàn nhận thức được mục đích xử lý dữ liệu cá nhân của bạn theo quy định của <u> Chính sách bảo vệ dữ liệu </u> và bạn đồng ý rằng công ty ConnectLife, LLC. có thể sử dụng dữ liệu cá nhân của bạn cho các dịch vụ như đã nêu dưới đây.",
     "CL_CF_LG_accept_all": "Chấp nhận tất cả",
     "CL_CF_LG_product_feedback": "Lời mời gửi phản hồi về sản phẩm",
     "CL_CF_LG_product_feedback_content": "Chúng tôi cam kết cải tiến sản phẩm của mình. Chúng tôi mong muốn đảm bảo rằng các bài đánh giá sản phẩm được gửi tới người mua hoặc người dùng thực tế với sự đồng ý. Chúng tôi có thể liên hệ với bạn trong vòng 30 ngày kể từ ngày giao sản phẩm dựa trên mong muốn chính đáng của chúng tôi là nâng cao chất lượng cải tiến sản phẩm, đảm bảo chất lượng và sự hài lòng của khách hàng.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "KHÔNG ĐẶT LẠI",
     "self_diagnosis_SCAN_Btn": "QUÉT",
     "CL_CF_WC_add_bottle": "THÊM một chai",
-    "CL_CF_LG_enduser_consent_content_tip": "Với sự đồng ý này, bạn xác nhận rằng bạn hoàn toàn nhận thức được mục đích xử lý dữ liệu cá nhân của bạn theo quy định của <u> Chính sách bảo vệ dữ liệu (URL) </u> và bạn đồng ý rằng công ty ConnectLife, LLC. có thể sử dụng dữ liệu cá nhân của bạn cho các dịch vụ như đã nêu dưới đây.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Với sự đồng ý này, bạn xác nhận rằng bạn hoàn toàn nhận thức được mục đích xử lý dữ liệu cá nhân của bạn theo quy định của <u> Chính sách bảo vệ dữ liệu </u> và bạn đồng ý rằng công ty ConnectLife, LLC. có thể sử dụng dữ liệu cá nhân của bạn cho các dịch vụ như đã nêu dưới đây."
+    "CL_DV_WM_detergent_value_too_large": "Giá trị quá lớn!"
 }

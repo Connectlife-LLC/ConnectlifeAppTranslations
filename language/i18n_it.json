@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Termini e condizioni",
     "CL_CF_LG_enduser_terms": "Termini e condizioni per l'utente finale",
     "CL_CF_LG_enduser_consent_title": "Consenso alla Privacy dei Dati",
-    "CL_CF_LG_enduser_consent_content": "Con questo consenso confermi di essere pienamente consapevole dello scopo del trattamento dei tuoi dati personali come determinato dalla Politica sulla protezione dei dati (URL) e accetti che la società ConnectLife, LLC. potrà utilizzare i tuoi dati personali per i servizi indicati di seguito.",
+    "CL_CF_LG_enduser_consent_content": "Con questo consenso confermi di essere pienamente consapevole dello scopo del trattamento dei tuoi dati personali come determinato dalla <u> Informativa sulla protezione dei dati </u> e accetti che la società ConnectLife, LLC. possa utilizzare i tuoi dati personali per i servizi come indicato di seguito.",
     "CL_CF_LG_accept_all": "Accettare Tutti",
     "CL_CF_LG_product_feedback": "Invito a Inviare Feedback sul Prodotto",
     "CL_CF_LG_product_feedback_content": "Ci impegniamo a migliorare i nostri prodotti. Il nostro obiettivo è garantire che le recensioni dei prodotti vengano inviate all'acquirente o all'utilizzatore effettivo con il consenso. Potremmo contattarti entro 30 giorni dalla consegna del prodotto in base al nostro legittimo interesse di miglioramento del prodotto, la garanzia della qualità e la soddisfazione del cliente.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NON RESETTARE",
     "self_diagnosis_SCAN_Btn": "SCANSIONE",
     "CL_CF_WC_add_bottle": "AGGIUNGI una bottiglia",
-    "CL_CF_LG_enduser_consent_content_tip": "Con questo consenso confermi di essere pienamente consapevole dello scopo del trattamento dei tuoi dati personali come determinato dalla <u> Informativa sulla protezione dei dati (URL) </u> e accetti che la società ConnectLife, LLC. possa utilizzare i tuoi dati personali per i servizi come indicato di seguito.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Con questo consenso confermi di essere pienamente consapevole dello scopo del trattamento dei tuoi dati personali come determinato dalla <u> Informativa sulla protezione dei dati </u> e accetti che la società ConnectLife, LLC. possa utilizzare i tuoi dati personali per i servizi come indicato di seguito."
+    "CL_DV_WM_detergent_value_too_large": "Il valore è troppo grande!"
 }
