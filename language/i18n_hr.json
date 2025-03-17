@@ -5121,6 +5121,6 @@
     "CL_CF_WC_do_not_reset": "NEMOJTE RESETIRATI",
     "self_diagnosis_SCAN_Btn": "SKENIRATI",
     "CL_CF_WC_add_bottle": "DODAJTE bocu",
-    "CL_CF_LG_enduser_consent_content_tip": "Ovim privolom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka (URL) </u> i slažete se da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Ovim pristankom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka </u> te ste suglasni da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku."
+    "CL_DV_WM_detergent_value_too_large": "Vrijednost je prevelika!",
+    "CL_CF_LG_enduser_consent_tips": "Ovim pristankom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka </u> te ste suglasni da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku."
 }
