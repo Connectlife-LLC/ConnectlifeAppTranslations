@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Syarat dan Ketentuan",
     "CL_CF_LG_enduser_terms": "Syarat dan ketentuan pengguna akhir",
     "CL_CF_LG_enduser_consent_title": "Persetujuan Privasi Data",
-    "CL_CF_LG_enduser_consent_content": "Dengan persetujuan ini Anda mengonfirmasi bahwa Anda sepenuhnya menyadari tujuan pemrosesan data pribadi Anda sebagaimana ditentukan oleh Kebijakan Perlindungan Data (URL) dan Anda setuju bahwa perusahaan ConnectLife, LLC. dapat menggunakan data pribadi Anda untuk layanan sebagaimana tercantum di bawah ini.",
+    "CL_CF_LG_enduser_consent_content": "Dengan persetujuan ini, Anda mengonfirmasi bahwa Anda sepenuhnya menyadari tujuan pemrosesan data pribadi Anda sebagaimana ditentukan oleh <u> Kebijakan Perlindungan Data </u> dan Anda setuju bahwa perusahaan ConnectLife, LLC. dapat menggunakan data pribadi Anda untuk layanan sebagaimana dinyatakan di bawah ini.",
     "CL_CF_LG_accept_all": "Terima semua",
     "CL_CF_LG_product_feedback": "Undangan untuk Mengirimkan Masukan Produk",
     "CL_CF_LG_product_feedback_content": "Kami berkomitmen untuk meningkatkan produk kami. Kami bertujuan untuk memastikan bahwa ulasan produk dikirimkan kepada pembeli atau pengguna sebenarnya dengan persetujuan. Kami dapat menghubungi Anda dalam waktu 30 hari setelah pengiriman produk berdasarkan kepentingan sah kami untuk meningkatkan peningkatan produk, jaminan kualitas, dan kepuasan pelanggan.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "JANGAN DI-RESET",
     "self_diagnosis_SCAN_Btn": "PEMINDAIAN",
     "CL_CF_WC_add_bottle": "TAMBAHKAN botol",
-    "CL_CF_LG_enduser_consent_content_tip": "Dengan persetujuan ini, Anda mengonfirmasi bahwa Anda sepenuhnya menyadari tujuan pemrosesan data pribadi Anda sebagaimana ditentukan oleh <u> Kebijakan Perlindungan Data (URL) </u> dan Anda setuju bahwa perusahaan ConnectLife, LLC. dapat menggunakan data pribadi Anda untuk layanan sebagaimana dinyatakan di bawah ini.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Dengan persetujuan ini, Anda mengonfirmasi bahwa Anda sepenuhnya menyadari tujuan pemrosesan data pribadi Anda sebagaimana ditentukan oleh <u> Kebijakan Perlindungan Data </u> dan Anda setuju bahwa perusahaan ConnectLife, LLC. dapat menggunakan data pribadi Anda untuk layanan sebagaimana dinyatakan di bawah ini."
+    "CL_DV_WM_detergent_value_too_large": "Nilainya terlalu besar!"
 }

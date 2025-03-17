@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Pravidla a podmínky",
     "CL_CF_LG_enduser_terms": "Podmínky pro koncové uživatele",
     "CL_CF_LG_enduser_consent_title": "Souhlas s ochranou osobních údajů",
-    "CL_CF_LG_enduser_consent_content": "Tímto souhlasem potvrzujete, že jste si plně vědomi účelu zpracování vašich osobních údajů, jak je stanoveno Zásadami ochrany osobních údajů (URL) a souhlasíte s tím, aby společnost ConnectLife, LLC. může použít vaše osobní údaje pro služby, jak je uvedeno níže.",
+    "CL_CF_LG_enduser_consent_content": "Tímto souhlasem potvrzujete, že jste si plně vědomi účelu zpracování vašich osobních údajů, jak je stanoveno <u> Zásadami ochrany osobních údajů </u> a souhlasíte s tím, že společnost ConnectLife, LLC. může použít vaše osobní údaje pro služby, jak je uvedeno níže.",
     "CL_CF_LG_accept_all": "Přijmout vše",
     "CL_CF_LG_product_feedback": "Výzva k odeslání zpětné vazby k produktu",
     "CL_CF_LG_product_feedback_content": "Zavázali jsme se zlepšovat naše produkty. Naším cílem je zajistit, aby byly recenze produktů předloženy skutečnému kupujícímu nebo uživateli se souhlasem. Můžeme vás kontaktovat do 30 dnů od doručení produktu na základě našeho oprávněného zájmu zlepšit produkt, zajistit kvalitu a spokojenost zákazníků.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NERESETOVAT",
     "self_diagnosis_SCAN_Btn": "SKENOVAT",
     "CL_CF_WC_add_bottle": "PŘIDEJTE láhev",
-    "CL_CF_LG_enduser_consent_content_tip": "Tímto souhlasem potvrzujete, že jste si plně vědomi účelu zpracování vašich osobních údajů, jak je stanoveno <u> Zásadami ochrany osobních údajů (URL) </u> a souhlasíte s tím, že společnost ConnectLife, LLC. může použít vaše osobní údaje pro služby, jak je uvedeno níže.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Tímto souhlasem potvrzujete, že jste si plně vědomi účelu zpracování vašich osobních údajů, jak je stanoveno <u> Zásadami ochrany osobních údajů </u> a souhlasíte s tím, že společnost ConnectLife, LLC. může použít vaše osobní údaje pro služby, jak je uvedeno níže."
+    "CL_DV_WM_detergent_value_too_large": "Hodnota je příliš velká!"
 }

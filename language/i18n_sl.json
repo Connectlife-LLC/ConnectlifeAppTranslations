@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Pogoji",
     "CL_CF_LG_enduser_terms": "Pogoji in določila za končnega uporabnika",
     "CL_CF_LG_enduser_consent_title": "Soglasje o zasebnosti podatkov",
-    "CL_CF_LG_enduser_consent_content": "S tem soglasjem potrjujete, da ste v celoti seznanjeni z namenom obdelave vaših osebnih podatkov, kot ga določa Politika varstva podatkov (URL), in se strinjate, da podjetje ConnectLife, LLC. lahko vaše osebne podatke uporabi za storitve, kot je navedeno spodaj.",
+    "CL_CF_LG_enduser_consent_content": "S tem soglasjem potrjujete, da ste v celoti seznanjeni z namenom obdelave vaših osebnih podatkov, kot ga določa <u> Politika varstva podatkov </u> in se strinjate, da podjetje ConnectLife, LLC. lahko vaše osebne podatke uporabi za storitve, kot je navedeno spodaj.",
     "CL_CF_LG_accept_all": "Sprejmi vse",
     "CL_CF_LG_product_feedback": "Povabilo k oddaji povratnih informacij o izdelku",
     "CL_CF_LG_product_feedback_content": "Zavezani smo k izboljšanju naših izdelkov. Naš cilj je zagotoviti, da se ocene izdelkov predložijo dejanskemu kupcu ali uporabniku s soglasjem. Z vami se lahko obrnemo v 30 dneh po dostavi izdelka na podlagi našega zakonitega interesa za izboljšanje izdelkov, zagotavljanje kakovosti in zadovoljstvo strank.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NE PONASTAVLJAJ",
     "self_diagnosis_SCAN_Btn": "SCAN",
     "CL_CF_WC_add_bottle": "DODAJ steklenico",
-    "CL_CF_LG_enduser_consent_content_tip": "S tem soglasjem potrjujete, da ste v celoti seznanjeni z namenom obdelave vaših osebnih podatkov, kot ga določa <u> Politika varstva podatkov (URL) </u> in se strinjate, da podjetje ConnectLife, LLC. lahko vaše osebne podatke uporabi za storitve, kot je navedeno spodaj.",
-    "CL_CF_LG_enduser_consent_content_tip2": "S tem soglasjem potrjujete, da ste v celoti seznanjeni z namenom obdelave vaših osebnih podatkov, kot ga določa <u> Politika varstva podatkov </u> in se strinjate, da podjetje ConnectLife, LLC. lahko vaše osebne podatke uporabi za storitve, kot je navedeno spodaj."
+    "CL_DV_WM_detergent_value_too_large": "Vrednost je prevelika!"
 }

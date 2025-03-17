@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "条款和条件",
     "CL_CF_LG_enduser_terms": "最终用户条款和条件",
     "CL_CF_LG_enduser_consent_title": "数据隐私同意",
-    "CL_CF_LG_enduser_consent_content": "通过此同意，您确认您完全了解数据保护政策 (URL) 所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。",
+    "CL_CF_LG_enduser_consent_content": "通过此同意，您确认您完全了解<u>数据保护政策</u>所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。",
     "CL_CF_LG_accept_all": "全都接受",
     "CL_CF_LG_product_feedback": "邀请提交产品反馈",
     "CL_CF_LG_product_feedback_content": "我们致力于改进我们的产品。我们力求确保产品评论提交给实际购买者或用户并征得其同意。我们可能会在产品交付后 30 天内根据我们的合法利益与您联系，以加强产品改进、质量保证和客户满意度。",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "不要重置",
     "self_diagnosis_SCAN_Btn": "扫描",
     "CL_CF_WC_add_bottle": "添加一瓶",
-    "CL_CF_LG_enduser_consent_content_tip": "通过此同意，您确认您完全了解<u>数据保护政策（URL） </u>所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。",
-    "CL_CF_LG_enduser_consent_content_tip2": "通过此同意，您确认您完全了解<u>数据保护政策</u>所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。"
+    "CL_DV_WM_detergent_value_too_large": "该值太大！"
 }

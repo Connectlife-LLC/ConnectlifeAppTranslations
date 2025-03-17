@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Terma dan syarat",
     "CL_CF_LG_enduser_terms": "Terma dan syarat pengguna akhir",
     "CL_CF_LG_enduser_consent_title": "Persetujuan Privasi Data",
-    "CL_CF_LG_enduser_consent_content": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh Dasar Perlindungan Data (URL) dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah.",
+    "CL_CF_LG_enduser_consent_content": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh <u> Dasar Perlindungan Data </u> dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah.",
     "CL_CF_LG_accept_all": "Terima semua",
     "CL_CF_LG_product_feedback": "Jemputan untuk Menghantar Maklum Balas Produk",
     "CL_CF_LG_product_feedback_content": "Kami komited untuk menambah baik produk kami. Kami berhasrat untuk memastikan ulasan produk diserahkan kepada pembeli atau pengguna sebenar dengan persetujuan. Kami mungkin menghubungi anda dalam masa 30 hari selepas penghantaran produk berdasarkan minat sah kami untuk meningkatkan penambahbaikan produk, jaminan kualiti dan kepuasan pelanggan.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "JANGAN TETAP SEMULA",
     "self_diagnosis_SCAN_Btn": "IMBAS",
     "CL_CF_WC_add_bottle": "TAMBAH sebotol",
-    "CL_CF_LG_enduser_consent_content_tip": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh <u> Dasar Perlindungan Data (URL) </u> dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh <u> Dasar Perlindungan Data </u> dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah."
+    "CL_DV_WM_detergent_value_too_large": "Nilainya terlalu besar!"
 }

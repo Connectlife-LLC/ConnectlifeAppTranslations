@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Voorwaarden",
     "CL_CF_LG_enduser_terms": "Algemene voorwaarden voor eindgebruikers",
     "CL_CF_LG_enduser_consent_title": "Toestemming voor gegevensprivacy",
-    "CL_CF_LG_enduser_consent_content": "Met deze toestemming bevestigt u dat u volledig op de hoogte bent van het doel van de verwerking van uw persoonlijke gegevens zoals bepaald in het Gegevensbeschermingsbeleid (URL) en gaat u ermee akkoord dat het bedrijf ConnectLife, LLC. kan uw persoonsgegevens gebruiken voor de diensten zoals hieronder vermeld.",
+    "CL_CF_LG_enduser_consent_content": "Met deze toestemming bevestigt u dat u volledig op de hoogte bent van het doel van de verwerking van uw persoonsgegevens zoals bepaald in het <u> Gegevensbeschermingsbeleid </u> en u gaat ermee akkoord dat het bedrijf ConnectLife, LLC. uw persoonsgegevens mag gebruiken voor de hieronder vermelde diensten.",
     "CL_CF_LG_accept_all": "Accepteer alles",
     "CL_CF_LG_product_feedback": "Uitnodiging om productfeedback in te dienen",
     "CL_CF_LG_product_feedback_content": "Wij streven ernaar onze producten te verbeteren. We streven ernaar ervoor te zorgen dat productrecensies met toestemming aan de daadwerkelijke koper of gebruiker worden voorgelegd. We kunnen binnen 30 dagen na levering van het product contact met u opnemen op basis van ons legitieme belang om de productverbetering, kwaliteitsborging en klanttevredenheid te verbeteren.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NIET RESETTEN",
     "self_diagnosis_SCAN_Btn": "SCANNEN",
     "CL_CF_WC_add_bottle": "VOEG een fles toe",
-    "CL_CF_LG_enduser_consent_content_tip": "Met deze toestemming bevestigt u dat u volledig op de hoogte bent van het doel van de verwerking van uw persoonsgegevens zoals bepaald in het <u> Gegevensbeschermingsbeleid (URL) </u> en u gaat ermee akkoord dat het bedrijf ConnectLife, LLC. uw persoonsgegevens mag gebruiken voor de hieronder vermelde diensten.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Met deze toestemming bevestigt u dat u volledig op de hoogte bent van het doel van de verwerking van uw persoonsgegevens zoals bepaald in het <u> Gegevensbeschermingsbeleid </u> en u gaat ermee akkoord dat het bedrijf ConnectLife, LLC. uw persoonsgegevens mag gebruiken voor de hieronder vermelde diensten."
+    "CL_DV_WM_detergent_value_too_large": "De waarde is te groot!"
 }

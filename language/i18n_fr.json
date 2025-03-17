@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Termes et conditions",
     "CL_CF_LG_enduser_terms": "Conditions générales d'utilisation",
     "CL_CF_LG_enduser_consent_title": "Consentement à la confidentialité des données",
-    "CL_CF_LG_enduser_consent_content": "Avec ce consentement, vous confirmez que vous êtes pleinement conscient de la finalité du traitement de vos données personnelles telle que déterminée par la politique de protection des données (URL) et vous acceptez que la société ConnectLife, LLC. peut utiliser vos données personnelles pour les services comme indiqué ci-dessous.",
+    "CL_CF_LG_enduser_consent_content": "Avec ce consentement, vous confirmez que vous êtes pleinement conscient de la finalité du traitement de vos données personnelles telle que déterminée par la <u> Politique de protection des données </u> et vous acceptez que la société ConnectLife, LLC. puisse utiliser vos données personnelles pour les services comme indiqué ci-dessous.",
     "CL_CF_LG_accept_all": "Accepter tout",
     "CL_CF_LG_product_feedback": "Invitation à soumettre des commentaires sur le produit",
     "CL_CF_LG_product_feedback_content": "Nous nous engageons à améliorer nos produits. Notre objectif est de garantir que les avis sur les produits sont soumis à l'acheteur ou à l'utilisateur réel avec son consentement. Nous pouvons vous contacter dans les 30 jours suivant la livraison du produit en fonction de notre intérêt légitime à améliorer l'amélioration du produit, l'assurance qualité et la satisfaction du client.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NE PAS RÉINITIALISER",
     "self_diagnosis_SCAN_Btn": "BALAYAGE",
     "CL_CF_WC_add_bottle": "AJOUTER une bouteille",
-    "CL_CF_LG_enduser_consent_content_tip": "Avec ce consentement, vous confirmez que vous êtes pleinement conscient de la finalité du traitement de vos données personnelles telle que déterminée par la <u> Politique de protection des données (URL) </u> et vous acceptez que la société ConnectLife, LLC. puisse utiliser vos données personnelles pour les services comme indiqué ci-dessous.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Avec ce consentement, vous confirmez que vous êtes pleinement conscient de la finalité du traitement de vos données personnelles telle que déterminée par la <u> Politique de protection des données </u> et vous acceptez que la société ConnectLife, LLC. puisse utiliser vos données personnelles pour les services comme indiqué ci-dessous."
+    "CL_DV_WM_detergent_value_too_large": "La valeur est trop grande !"
 }

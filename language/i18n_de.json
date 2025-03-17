@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Geschäftsbedingungen",
     "CL_CF_LG_enduser_terms": "Endbenutzerbedingungen",
     "CL_CF_LG_enduser_consent_title": "Datenschutzeinwilligung",
-    "CL_CF_LG_enduser_consent_content": "Mit dieser Einwilligung bestätigen Sie, dass Sie sich über den Zweck der Verarbeitung Ihrer personenbezogenen Daten gemäß der Datenschutzrichtlinie (URL) im Klaren sind und erklären sich damit einverstanden, dass die Firma ConnectLife, LLC. Ihre personenbezogenen Daten für die unten angegebenen Dienste verwendet.",
+    "CL_CF_LG_enduser_consent_content": "Mit dieser Einwilligung bestätigen Sie, dass Sie sich über den Zweck der Verarbeitung Ihrer personenbezogenen Daten gemäß der <u> Datenschutzrichtlinie </u> im Klaren sind und stimmen zu, dass das Unternehmen ConnectLife, LLC. Ihre personenbezogenen Daten für die unten angegebenen Dienste verwenden darf.",
     "CL_CF_LG_accept_all": "Akzeptiere alle",
     "CL_CF_LG_product_feedback": "Einladung zur Abgabe von Produktfeedback",
     "CL_CF_LG_product_feedback_content": "Wir sind bestrebt, unsere Produkte zu verbessern. Wir möchten sicherstellen, dass Produktbewertungen dem tatsächlichen Käufer oder Benutzer mit dessen Zustimmung vorgelegt werden. Wir können Sie innerhalb von 30 Tagen nach der Produktlieferung kontaktieren, basierend auf unserem berechtigten Interesse, Produktverbesserungen, Qualitätssicherung und Kundenzufriedenheit zu fördern.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NICHT ZURÜCKSETZEN",
     "self_diagnosis_SCAN_Btn": "SCAN",
     "CL_CF_WC_add_bottle": "Eine Flasche hinzufügen",
-    "CL_CF_LG_enduser_consent_content_tip": "Mit dieser Einwilligung bestätigen Sie, dass Sie sich über den Zweck der Verarbeitung Ihrer personenbezogenen Daten gemäß der <u> Datenschutzrichtlinie (URL) </u> im Klaren sind und stimmen zu, dass das Unternehmen ConnectLife, LLC. Ihre personenbezogenen Daten für die unten angegebenen Dienste verwenden darf.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Mit dieser Einwilligung bestätigen Sie, dass Sie sich über den Zweck der Verarbeitung Ihrer personenbezogenen Daten gemäß der <u> Datenschutzrichtlinie </u> im Klaren sind und stimmen zu, dass das Unternehmen ConnectLife, LLC. Ihre personenbezogenen Daten für die unten angegebenen Dienste verwenden darf."
+    "CL_DV_WM_detergent_value_too_large": "Der Wert ist zu groß!"
 }

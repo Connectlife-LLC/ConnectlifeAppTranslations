@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "利用規約",
     "CL_CF_LG_enduser_terms": "エンドユーザー利用規約",
     "CL_CF_LG_enduser_consent_title": "データプライバシー同意",
-    "CL_CF_LG_enduser_consent_content": "この同意により、お客様は、データ保護ポリシー (URL) で定められた個人データの処理目的を完全に認識していることを確認し、ConnectLife, LLC が以下に記載されているサービスのためにお客様の個人データを使用することに同意するものとします。",
+    "CL_CF_LG_enduser_consent_content": "この同意により、お客様は、 <u>データ保護ポリシー</u>によって定められた個人データの処理目的を完全に認識していることを確認し、ConnectLife, LLC. が以下に記載されているサービスのためにお客様の個人データを使用することに同意するものとします。",
     "CL_CF_LG_accept_all": "すべて受け入れる",
     "CL_CF_LG_product_feedback": "製品フィードバックの送信の招待",
     "CL_CF_LG_product_feedback_content": "当社は製品の改善に尽力しています。製品レビューは実際の購入者またはユーザーの同意を得て提出されることを目指しています。製品の改善、品質保証、顧客満足度の向上という当社の正当な利益に基づき、製品の納品後 30 日以内にお客様に連絡することがあります。",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "リセットしないでください",
     "self_diagnosis_SCAN_Btn": "診断",
     "CL_CF_WC_add_bottle": "ボトルを追加",
-    "CL_CF_LG_enduser_consent_content_tip": "この同意により、お客様は、 <u>データ保護ポリシー (URL) </u>で定められた個人データの処理目的を完全に認識していることを確認し、ConnectLife, LLC が以下に記載されているサービスのためにお客様の個人データを使用することに同意するものとします。",
-    "CL_CF_LG_enduser_consent_content_tip2": "この同意により、お客様は、 <u>データ保護ポリシー</u>によって定められた個人データの処理目的を完全に認識していることを確認し、ConnectLife, LLC. が以下に記載されているサービスのためにお客様の個人データを使用することに同意するものとします。"
+    "CL_DV_WM_detergent_value_too_large": "値が大きすぎます。"
 }

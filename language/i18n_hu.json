@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Felhasználási feltételek",
     "CL_CF_LG_enduser_terms": "Végfelhasználói feltételek",
     "CL_CF_LG_enduser_consent_title": "Adatvédelmi hozzájárulás",
-    "CL_CF_LG_enduser_consent_content": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az Adatvédelmi szabályzatban (URL) meghatározott céljával, és beleegyezik abba, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz.",
+    "CL_CF_LG_enduser_consent_content": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az <u> Adatvédelmi szabályzatban </u> meghatározott céljával, és elfogadja, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz.",
     "CL_CF_LG_accept_all": "Mindent elfogad",
     "CL_CF_LG_product_feedback": "Felhívás termékvisszajelzés benyújtására",
     "CL_CF_LG_product_feedback_content": "Elkötelezettek vagyunk termékeink fejlesztése iránt. Célunk, hogy a termékértékeléseket a tényleges vásárló vagy felhasználó beleegyezésével küldjék el. A termék kiszállítását követő 30 napon belül felvesszük Önnel a kapcsolatot a termékfejlesztés, a minőségbiztosítás és a vevői elégedettség fokozására irányuló jogos érdekünk alapján.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "NE RESET",
     "self_diagnosis_SCAN_Btn": "LETAPOGATÁS",
     "CL_CF_WC_add_bottle": "ADJ hozzá egy üveget",
-    "CL_CF_LG_enduser_consent_content_tip": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az <u> Adatvédelmi szabályzatban (URL) </u> meghatározott céljával, és beleegyezik abba, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az <u> Adatvédelmi szabályzatban </u> meghatározott céljával, és elfogadja, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz."
+    "CL_DV_WM_detergent_value_too_large": "Az érték túl nagy!"
 }

@@ -3987,7 +3987,7 @@
     "CL_CF_AB_term_and_cond": "Villkor",
     "CL_CF_LG_enduser_terms": "Användarvillkor för slutanvändare",
     "CL_CF_LG_enduser_consent_title": "Datasekretesssamtycke",
-    "CL_CF_LG_enduser_consent_content": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt dataskyddspolicyn (URL) och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan.",
+    "CL_CF_LG_enduser_consent_content": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt <u> Dataskyddspolicyn </u> och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan.",
     "CL_CF_LG_accept_all": "Acceptera alla",
     "CL_CF_LG_product_feedback": "Inbjudan att skicka produktfeedback",
     "CL_CF_LG_product_feedback_content": "Vi har åtagit oss att förbättra våra produkter. Vi strävar efter att säkerställa att produktrecensioner skickas till den faktiska köparen eller användaren med samtycke. Vi kan kontakta dig inom 30 dagar efter produktleverans baserat på vårt berättigade intresse att förbättra produktförbättringar, kvalitetssäkring och kundnöjdhet.",
@@ -5121,6 +5121,5 @@
     "CL_CF_WC_do_not_reset": "ÅTERSTÄLL INTE",
     "self_diagnosis_SCAN_Btn": "AVSÖKA",
     "CL_CF_WC_add_bottle": "LÄGG TILL en flaska",
-    "CL_CF_LG_enduser_consent_content_tip": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt <u> Dataskyddspolicy (URL) </u> och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt <u> Dataskyddspolicyn </u> och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan."
+    "CL_DV_WM_detergent_value_too_large": "Värdet är för stort!"
 }
