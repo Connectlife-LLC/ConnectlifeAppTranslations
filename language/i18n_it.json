@@ -5121,6 +5121,6 @@
     "CL_CF_WC_do_not_reset": "NON RESETTARE",
     "self_diagnosis_SCAN_Btn": "SCANSIONE",
     "CL_CF_WC_add_bottle": "AGGIUNGI una bottiglia",
-    "CL_CF_LG_enduser_consent_content_tip": "Con questo consenso confermi di essere pienamente consapevole dello scopo del trattamento dei tuoi dati personali come determinato dalla <u> Informativa sulla protezione dei dati (URL) </u> e accetti che la società ConnectLife, LLC. possa utilizzare i tuoi dati personali per i servizi come indicato di seguito.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Con questo consenso confermi di essere pienamente consapevole dello scopo del trattamento dei tuoi dati personali come determinato dalla <u> Informativa sulla protezione dei dati </u> e accetti che la società ConnectLife, LLC. possa utilizzare i tuoi dati personali per i servizi come indicato di seguito."
+    "CL_DV_WM_detergent_value_too_large": "Il valore è troppo grande!",
+    "CL_CF_LG_enduser_consent_tips": "Con questo consenso confermi di essere pienamente consapevole dello scopo del trattamento dei tuoi dati personali come determinato dalla <u> Informativa sulla protezione dei dati </u> e accetti che la società ConnectLife, LLC. possa utilizzare i tuoi dati personali per i servizi come indicato di seguito."
 }

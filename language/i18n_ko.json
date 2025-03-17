@@ -5121,6 +5121,6 @@
     "CL_CF_WC_do_not_reset": "재설정하지 마세요",
     "self_diagnosis_SCAN_Btn": "주사",
     "CL_CF_WC_add_bottle": "병을 추가하세요",
-    "CL_CF_LG_enduser_consent_content_tip": "이러한 동의를 통해 귀하는 <u> 데이터 보호 정책(URL) </u> 에 따라 결정된 귀하의 개인 데이터 처리 목적을 충분히 인지하고 있으며, ConnectLife, LLC.가 아래에 명시된 서비스를 위해 귀하의 개인 데이터를 사용할 수 있다는 데 동의합니다.",
-    "CL_CF_LG_enduser_consent_content_tip2": "이러한 동의를 통해 귀하는 <u> 데이터 보호 정책 </u> 에 따라 결정된 귀하의 개인 데이터 처리 목적을 충분히 인지하고 있으며 ConnectLife, LLC.가 아래에 명시된 서비스를 위해 귀하의 개인 데이터를 사용할 수 있다는 데 동의합니다."
+    "CL_DV_WM_detergent_value_too_large": "값이 너무 큽니다!",
+    "CL_CF_LG_enduser_consent_tips": "이러한 동의를 통해 귀하는 <u> 데이터 보호 정책 </u> 에 따라 결정된 귀하의 개인 데이터 처리 목적을 충분히 인지하고 있으며 ConnectLife, LLC.가 아래에 명시된 서비스를 위해 귀하의 개인 데이터를 사용할 수 있다는 데 동의합니다."
 }
