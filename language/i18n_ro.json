@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Curatenie",
     "CL_DV_OV_extra_cleaning_desc": "Programe de curățare pas cu pas și instrucțiuni despre cum să vă mențineți cuptorul în stare optimă.",
     "CL_DV_OV_extra_stage_cooking": "Gătitul în scenă",
-    "CL_DV_OV_extra_stage_cooking_desc": "Creați programe de gătit personalizate, folosind până la 5 etape diferite.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Creați programe de gătit personalizate, folosind până la {##} etape diferite.",
     "CL_DV_OV_extra_defrost_desc": "Un set de programe predefinite pentru a dezgheța corect alimentele pentru a asigura calitatea după ce au fost congelate.",
     "CL_DV_OV_extra_warming_desc": "Reîncălziți alimentele gătite anterior utilizând programele de cuptor predefinite. Pastreaza aroma si textura maxima.",
     "CL_DV_OV_extra_non_food": "Nealimentare",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "NU RESETARE",
     "self_diagnosis_SCAN_Btn": "SCANĂ",
     "CL_CF_WC_add_bottle": "Adăugați o sticlă",
-    "CL_CF_LG_enduser_consent_content_tip": "Cu acest consimțământ confirmați că sunteți pe deplin conștient de scopul prelucrării datelor dumneavoastră cu caracter personal, așa cum este determinat de <u> Politica de protecție a datelor (URL) </u> și sunteți de acord ca compania ConnectLife, LLC. poate utiliza datele dumneavoastră cu caracter personal pentru serviciile menționate mai jos.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Cu acest consimțământ confirmați că sunteți pe deplin conștient de scopul prelucrării datelor dumneavoastră cu caracter personal, așa cum este determinat de <u> Politica de protecție a datelor </u> și sunteți de acord ca compania ConnectLife, LLC. poate utiliza datele dumneavoastră cu caracter personal pentru serviciile menționate mai jos."
+    "CL_DV_WM_detergent_value_too_large": "Valoarea este prea mare!",
+    "CL_CF_LG_enduser_consent_tips": "Cu acest consimțământ confirmați că sunteți pe deplin conștient de scopul prelucrării datelor dumneavoastră cu caracter personal, așa cum este determinat de <u> Politica de protecție a datelor </u> și sunteți de acord ca compania ConnectLife, LLC. poate utiliza datele dumneavoastră cu caracter personal pentru serviciile menționate mai jos.",
+    "CL_CF_HP_hob_zone": "## Zone Running",
+    "CL_CF_HP_hi_wanshing_tips": "Blocarea pentru copii este activată, iar dispozitivul nu poate răspunde la operațiuni.",
+    "ios_widget_extension_routine_empty": "Nicio rutină disponibilă",
+    "ios_widget_extension_routine_sub_title": "Rutine inteligente",
+    "ios_widget_extension_routine_describe": "Executați rapid rutine manuale.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Atingeți widgetul pentru a accesa fila „Automatizare” din ConnectLife. \\n \\n Apăsați lung pe widget și atingeți „Editați widget” pentru a gestiona rutinele; vă rugăm să consultați secțiunea „Dispozitive” pentru operațiuni specifice. \\n \\n Rutinele automate sunt efectuate prin declanșare, nu prin atingere, astfel încât numai rutinele manuale sunt acceptate în widget. Pentru rutinele care au fost adăugate la widget, puteți apăsa pentru a sări la „Automatizare” în ConnectLife și a rula rapid.",
+    "ios_widget_extension_devices_content": "Atingeți widgetul pentru a accesa fila „Dispozitive” din ConnectLife. \\n \\n Apăsați lung pe widget și atingeți „Editați widget” pentru a gestiona dispozitivele, puteți selecta un nou dispozitiv pentru afișare în widget sau puteți înlocui dispozitivul care se află deja în widget și ajustați ordinea dintre ele pentru widgetul care acceptă mai multe dispozitive. Pentru dispozitivele care au fost adăugate la widget, le puteți verifica rapid starea. \\n \\n Dacă dispozitivul acceptă comutare rapidă, un buton care acceptă comutare rapidă este afișat suplimentar în widget. Alte dispozitive pot fi adăugate la „Rutine” pentru comutare rapidă și alte operațiuni complexe.",
+    "ios_widget_extension_room_title": "Aer condiționat în cameră",
+    "ios_widget_extension_room_content": "Atingeți widgetul pentru a accesa pagina „Îngrijirea aerului” din ConnectLife. \\n \\n Apăsați lung pe widget și atingeți „Editați widget” pentru a gestiona sălile; vă rugăm să consultați secțiunea „Dispozitive” pentru operațiuni specifice. \\n \\n Informațiile despre mediul camerei sunt asociate cu dispozitive precum aparatele de aer condiționat și detectoarele de la terți și nu pot fi afișate de widget atunci când nu sunt legate de dispozitiv sau dispozitivul este offline.",
+    "ios_widget_extension_energy_content": "Atingeți widgetul pentru a accesa pagina „Energie” din ConnectLife. \\n \\n Demonstrați „produs”, „Consumat”, „Reduceri de carbon” și „Facturi estimate” în widget dacă casa este echipată cu un invertor, în caz contrar doar „Consumat” este afișat."
 }

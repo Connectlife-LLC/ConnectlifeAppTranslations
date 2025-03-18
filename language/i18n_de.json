@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Reinigung",
     "CL_DV_OV_extra_cleaning_desc": "Schritt-für-Schritt-Reinigungsprogramme und Anleitungen, wie Sie Ihren Ofen in optimalem Zustand halten.",
     "CL_DV_OV_extra_stage_cooking": "Bühnenkochen",
-    "CL_DV_OV_extra_stage_cooking_desc": "Erstellen Sie individuelle Kochprogramme mit bis zu 5 verschiedenen Stufen.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Erstellen Sie individuelle Kochprogramme mit bis zu {##} verschiedenen Stufen.",
     "CL_DV_OV_extra_defrost_desc": "Eine Reihe vordefinierter Programme zum korrekten Auftauen von Lebensmitteln, um die Qualität nach dem Einfrieren sicherzustellen.",
     "CL_DV_OV_extra_warming_desc": "Erwärmen Sie bereits gekochte Speisen mit den vordefinierten Ofenprogrammen. Bewahren Sie das Maximum an Geschmack und Konsistenz.",
     "CL_DV_OV_extra_non_food": "Nicht-Lebensmittel",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "NICHT ZURÜCKSETZEN",
     "self_diagnosis_SCAN_Btn": "SCAN",
     "CL_CF_WC_add_bottle": "Eine Flasche hinzufügen",
-    "CL_CF_LG_enduser_consent_content_tip": "Mit dieser Einwilligung bestätigen Sie, dass Sie sich über den Zweck der Verarbeitung Ihrer personenbezogenen Daten gemäß der <u> Datenschutzrichtlinie (URL) </u> im Klaren sind und stimmen zu, dass das Unternehmen ConnectLife, LLC. Ihre personenbezogenen Daten für die unten angegebenen Dienste verwenden darf.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Mit dieser Einwilligung bestätigen Sie, dass Sie sich über den Zweck der Verarbeitung Ihrer personenbezogenen Daten gemäß der <u> Datenschutzrichtlinie </u> im Klaren sind und stimmen zu, dass das Unternehmen ConnectLife, LLC. Ihre personenbezogenen Daten für die unten angegebenen Dienste verwenden darf."
+    "CL_DV_WM_detergent_value_too_large": "Der Wert ist zu groß!",
+    "CL_CF_LG_enduser_consent_tips": "Mit dieser Einwilligung bestätigen Sie, dass Sie sich über den Zweck der Verarbeitung Ihrer personenbezogenen Daten gemäß der <u> Datenschutzrichtlinie </u> im Klaren sind und stimmen zu, dass das Unternehmen ConnectLife, LLC. Ihre personenbezogenen Daten für die unten angegebenen Dienste verwenden darf.",
+    "CL_CF_HP_hob_zone": "## Zonenlauf",
+    "CL_CF_HP_hi_wanshing_tips": "Die Kindersicherung ist aktiviert und das Gerät reagiert nicht auf Bedienungen.",
+    "ios_widget_extension_routine_empty": "Keine Routine verfügbar",
+    "ios_widget_extension_routine_sub_title": "Intelligente Routinen",
+    "ios_widget_extension_routine_describe": "Führen Sie schnell manuelle Routinen aus.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Tippen Sie auf das Widget, um zur Registerkarte „Automatisierung“ von ConnectLife zu gelangen. \\n \\n Halten Sie das Widget gedrückt und tippen Sie auf „Widget bearbeiten“, um die Routinen zu verwalten. Weitere Informationen finden Sie im Abschnitt „Geräte“. \\n \\n Automatische Routinen werden durch Auslösen und nicht durch Tippen ausgeführt. Daher werden im Widget nur manuelle Routinen unterstützt. Für Routinen, die dem Widget hinzugefügt wurden, können Sie durch Tippen zu „Automatisierung“ in ConnectLife springen und diese schnell ausführen.",
+    "ios_widget_extension_devices_content": "Tippen Sie auf das Widget, um zur Registerkarte „Geräte“ von ConnectLife zu gelangen. \\n \\n Halten Sie das Widget gedrückt und tippen Sie auf „Widget bearbeiten“, um die Geräte zu verwalten. Sie können ein neues Gerät zur Anzeige im Widget auswählen oder das vorhandene Gerät ersetzen und die Reihenfolge der Geräte für das Widget anpassen, das mehrere Geräte unterstützt. Der Status der zum Widget hinzugefügten Geräte lässt sich schnell überprüfen. \\n \\n Wenn das Gerät die Schnellzugriffsfunktion unterstützt, wird im Widget zusätzlich eine entsprechende Schaltfläche angezeigt. Weitere Geräte können zu „Routinen“ für Schnellzugriffsfunktionen und andere komplexe Vorgänge hinzugefügt werden.",
+    "ios_widget_extension_room_title": "Raumklima",
+    "ios_widget_extension_room_content": "Tippen Sie auf das Widget, um zur Seite „Air Care“ von ConnectLife zu gelangen. \\n \\n Drücken Sie lange auf das Widget und tippen Sie auf „Widget bearbeiten“, um die Räume zu verwalten. Weitere Informationen zu bestimmten Vorgängen finden Sie im Abschnitt „Geräte“. \\n \\n Die Informationen zur Raumumgebung sind mit Geräten wie Klimaanlagen und Detektoren von Drittanbietern verknüpft und können vom Widget nicht angezeigt werden, wenn es nicht an das Gerät gebunden ist oder das Gerät offline ist.",
+    "ios_widget_extension_energy_content": "Tippen Sie auf das Widget, um zur Seite „Energie“ von ConnectLife zu gelangen. \\n \\n Zeigen Sie im Widget „produziert“, „verbraucht“, „CO2-Einsparungen“ und „geschätzte Rechnungen“ an, wenn das Haus mit einem Wechselrichter ausgestattet ist, andernfalls wird nur „verbraucht“ angezeigt."
 }

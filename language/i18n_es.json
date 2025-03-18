@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Limpieza",
     "CL_DV_OV_extra_cleaning_desc": "Programas de limpieza paso a paso e instrucciones sobre cómo mantener su horno en óptimas condiciones.",
     "CL_DV_OV_extra_stage_cooking": "Cocina escénica",
-    "CL_DV_OV_extra_stage_cooking_desc": "Crea programas de cocción personalizados, utilizando hasta 5 etapas diferentes.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Crea programas de cocción personalizados, utilizando hasta {##} etapas diferentes.",
     "CL_DV_OV_extra_defrost_desc": "Un conjunto de programas predefinidos para descongelar correctamente los alimentos para garantizar la calidad después de su congelación.",
     "CL_DV_OV_extra_warming_desc": "Recalienta alimentos ya cocinados utilizando los programas predefinidos del horno. Mantiene el máximo sabor y textura.",
     "CL_DV_OV_extra_non_food": "No comida",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "NO REINICIAR",
     "self_diagnosis_SCAN_Btn": "ESCANEAR",
     "CL_CF_WC_add_bottle": "AÑADIR una botella",
-    "CL_CF_LG_enduser_consent_content_tip": "Con este consentimiento usted confirma que tiene pleno conocimiento de la finalidad del procesamiento de sus datos personales según lo determina la Política de Protección de Datos (URL) y acepta que la empresa ConnectLife, LLC. podrá utilizar sus datos personales para los servicios que se indican a continuación.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Con este consentimiento usted confirma que tiene pleno conocimiento de la finalidad del procesamiento de sus datos personales según lo determina la Política de Protección de Datos (URL) y acepta que la empresa ConnectLife, LLC. podrá utilizar sus datos personales para los servicios que se indican a continuación."
+    "CL_DV_WM_detergent_value_too_large": "¡El valor es demasiado grande!",
+    "CL_CF_LG_enduser_consent_tips": "Con este consentimiento usted confirma que tiene pleno conocimiento de la finalidad del procesamiento de sus datos personales según lo determina la Política de <u>Protección de Datos (URL)</u> y acepta que la empresa ConnectLife, LLC. podrá utilizar sus datos personales para los servicios que se indican a continuación.",
+    "CL_CF_HP_hob_zone": "## Zona de carrera",
+    "CL_CF_HP_hi_wanshing_tips": "El bloqueo para niños está activado y el dispositivo no puede responder a las operaciones.",
+    "ios_widget_extension_routine_empty": "No hay rutina disponible",
+    "ios_widget_extension_routine_sub_title": "Rutinas inteligentes",
+    "ios_widget_extension_routine_describe": "Ejecute rápidamente rutinas manuales.",
+    "ios_widget_extension_routine_sub_describe": "subdescripción de la rutina de extensión del widget iOS",
+    "ios_widget_extension_routine_content": "Toque el widget para ir a la pestaña \"Automatización\" de ConnectLife. \\n \\n Mantenga presionado el widget y toque \"Editar widget\" para administrar las rutinas. Consulte la sección \"Dispositivos\" para obtener información sobre las operaciones específicas. \\n \\n Las rutinas automáticas se ejecutan al activarlas, no al tocarlas, por lo que el widget solo admite rutinas manuales. Para las rutinas agregadas al widget, puede tocarlas para ir a \"Automatización\" en ConnectLife y ejecutarlas rápidamente.",
+    "ios_widget_extension_devices_content": "Toque el widget para ir a la pestaña \"Dispositivos\" de ConnectLife. \\n \\n Mantenga presionado el widget y toque \"Editar widget\" para administrar los dispositivos. Puede seleccionar un nuevo dispositivo para mostrarlo en el widget o reemplazar el que ya está en él, y ajustar el orden entre ellos para el widget que admite varios dispositivos. Puede consultar rápidamente el estado de los dispositivos que se han agregado al widget. \\n \\n Si el dispositivo admite el acceso directo, se mostrará un botón adicional en el widget. Se pueden agregar otros dispositivos a \"Rutinas\" para el acceso directo y otras operaciones complejas.",
+    "ios_widget_extension_room_title": "Aire acondicionado de la habitación",
+    "ios_widget_extension_room_content": "Toque el widget para ir a la página \"Cuidado del aire\" de ConnectLife. \\n \\n Mantenga presionado el widget y toque \"Editar widget\" para administrar las habitaciones. Consulte la sección \"Dispositivos\" para obtener información específica. \\n \\n La información del entorno de la habitación está asociada a dispositivos como aires acondicionados y detectores de terceros, y el widget no puede mostrarla si no está vinculado al dispositivo o si este no está conectado.",
+    "ios_widget_extension_energy_content": "Toque el widget para ir a la página \"Energía\" de ConnectLife. \\n \\n Muestre 'producido', 'Consumido', 'Reducciones de carbono' y 'Facturas estimadas' en el widget si la casa está equipada con un inversor; de lo contrario, solo se muestra 'Consumido'."
 }

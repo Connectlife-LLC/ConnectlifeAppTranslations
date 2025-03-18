@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Čištění",
     "CL_DV_OV_extra_cleaning_desc": "Čisticí programy krok za krokem a pokyny, jak udržet troubu v optimálním stavu.",
     "CL_DV_OV_extra_stage_cooking": "Jevištní vaření",
-    "CL_DV_OV_extra_stage_cooking_desc": "Vytvořte si vlastní programy vaření s použitím až 5 různých fází.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Vytvořte si vlastní programy vaření s použitím až {##} různých fází.",
     "CL_DV_OV_extra_defrost_desc": "Sada předdefinovaných programů pro správné rozmrazování potravin, aby byla zajištěna jejich kvalita po zmražení.",
     "CL_DV_OV_extra_warming_desc": "Ohřejte dříve uvařená jídla pomocí předdefinovaných programů trouby. Zachovává maximální chuť a texturu.",
     "CL_DV_OV_extra_non_food": "Bez jídla",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "NERESETOVAT",
     "self_diagnosis_SCAN_Btn": "SKENOVAT",
     "CL_CF_WC_add_bottle": "PŘIDEJTE láhev",
-    "CL_CF_LG_enduser_consent_content_tip": "Tímto souhlasem potvrzujete, že jste si plně vědomi účelu zpracování vašich osobních údajů, jak je stanoveno <u> Zásadami ochrany osobních údajů (URL) </u> a souhlasíte s tím, že společnost ConnectLife, LLC. může použít vaše osobní údaje pro služby, jak je uvedeno níže.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Tímto souhlasem potvrzujete, že jste si plně vědomi účelu zpracování vašich osobních údajů, jak je stanoveno <u> Zásadami ochrany osobních údajů </u> a souhlasíte s tím, že společnost ConnectLife, LLC. může použít vaše osobní údaje pro služby, jak je uvedeno níže."
+    "CL_DV_WM_detergent_value_too_large": "Hodnota je příliš velká!",
+    "CL_CF_LG_enduser_consent_tips": "Tímto souhlasem potvrzujete, že jste si plně vědomi účelu zpracování vašich osobních údajů, jak je stanoveno <u> Zásadami ochrany osobních údajů </u> a souhlasíte s tím, že společnost ConnectLife, LLC. může použít vaše osobní údaje pro služby, jak je uvedeno níže.",
+    "CL_CF_HP_hob_zone": "## Spuštění zóny",
+    "CL_CF_HP_hi_wanshing_tips": "Dětský zámek je aktivován a zařízení nemůže reagovat na operace.",
+    "ios_widget_extension_routine_empty": "Žádná rutina není k dispozici",
+    "ios_widget_extension_routine_sub_title": "Chytré rutiny",
+    "ios_widget_extension_routine_describe": "Rychle spusťte ruční rutiny.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Klepnutím na widget přejděte na kartu „Automatizace“ ConnectLife. \\n \\n Chcete-li spravovat rutiny, dlouze stiskněte widget a klepněte na „Upravit widget“. Konkrétní operace naleznete v části „Zařízení“. \\n \\n Automatické rutiny se provádějí spouštěním, nikoli klepnutím, takže ve widgetu jsou podporovány pouze ruční rutiny. U rutin, které byly přidány do widgetu, můžete klepnutím přejít na „Automatizace“ v ConnectLife a rychle ji spustit.",
+    "ios_widget_extension_devices_content": "Klepnutím na widget přejděte na kartu „Zařízení“ ConnectLife. \\n \\n Dlouze podržte widget a klepněte na \"Upravit widget\" pro správu zařízení, můžete vybrat nové zařízení, které se má zobrazit ve widgetu, nebo nahradit zařízení, které již ve widgetu je, a upravit pořadí mezi nimi pro widget, který podporuje více zařízení. U zařízení, která byla přidána do widgetu, můžete rychle zkontrolovat jejich stav. \\n \\n Pokud zařízení podporuje přepínání zkratek, ve widgetu se navíc zobrazí tlačítko, které podporuje přepínání zkratek. Do \"Routines\" lze přidat další zařízení pro přepínání zkratek a další složité operace.",
+    "ios_widget_extension_room_title": "Pokojová klimatizace",
+    "ios_widget_extension_room_content": "Klepnutím na widget přejděte na stránku „Air Care“ ConnectLife. \\n \\n Chcete-li spravovat místnosti, dlouze stiskněte widget a klepněte na „Upravit widget“. Konkrétní operace naleznete v části „Zařízení“. \\n \\n Informace o prostředí místnosti jsou spojeny se zařízeními, jako jsou klimatizace a detektory třetích stran, a nemůže je widget zobrazit, pokud nejsou svázány se zařízením nebo je zařízení offline.",
+    "ios_widget_extension_energy_content": "Klepnutím na widget přejděte na stránku „Energy“ ConnectLife. \\n \\n Pokud je domácnost vybavena invertorem, ukažte ve widgetu 'vyrobeno', 'Spotřebováno', 'Spotřeba uhlíku' a 'Odhadované účty', jinak se zobrazuje pouze 'Spotřeba'."
 }

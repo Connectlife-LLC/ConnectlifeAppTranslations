@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Rengöring",
     "CL_DV_OV_extra_cleaning_desc": "Steg-för-steg rengöringsprogram och instruktioner om hur du håller din ugn i optimalt skick.",
     "CL_DV_OV_extra_stage_cooking": "Scenisk matlagning",
-    "CL_DV_OV_extra_stage_cooking_desc": "Skapa anpassade matlagningsprogram med upp till 5 olika steg.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Skapa anpassade matlagningsprogram med upp till {##} olika steg.",
     "CL_DV_OV_extra_defrost_desc": "En uppsättning fördefinierade program för att korrekt tina mat för att säkerställa kvaliteten efter att den har frysts.",
     "CL_DV_OV_extra_warming_desc": "Värm upp tidigare tillagad mat med de fördefinierade ugnsprogrammen. Behåller maximal smak och konsistens.",
     "CL_DV_OV_extra_non_food": "Icke mat",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "ÅTERSTÄLL INTE",
     "self_diagnosis_SCAN_Btn": "AVSÖKA",
     "CL_CF_WC_add_bottle": "LÄGG TILL en flaska",
-    "CL_CF_LG_enduser_consent_content_tip": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt <u> Dataskyddspolicy (URL) </u> och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt <u> Dataskyddspolicyn </u> och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan."
+    "CL_DV_WM_detergent_value_too_large": "Värdet är för stort!",
+    "CL_CF_LG_enduser_consent_tips": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt <u> Dataskyddspolicyn </u> och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan.",
+    "CL_CF_HP_hob_zone": "## Zon igång",
+    "CL_CF_HP_hi_wanshing_tips": "Barnlåset är aktiverat och enheten kan inte svara på operationer.",
+    "ios_widget_extension_routine_empty": "Ingen rutin tillgänglig",
+    "ios_widget_extension_routine_sub_title": "Smarta rutiner",
+    "ios_widget_extension_routine_describe": "Kör snabbt manuella rutiner.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Tryck på widgeten för att gå till fliken \"Automation\" i ConnectLife. \\n \\n Tryck länge på widgeten och tryck på \"Redigera widget\" för att hantera rutinerna. Se avsnittet \"Enheter\" för specifika åtgärder. \\n \\n Automatiska rutiner utförs genom att trigga, inte trycka, så endast manuella rutiner stöds i widgeten. För rutiner som har lagts till i widgeten kan du trycka för att hoppa till \"Automation\" i ConnectLife och köra den snabbt.",
+    "ios_widget_extension_devices_content": "Tryck på widgeten för att gå till fliken \"Enheter\" i ConnectLife. \\n \\n Tryck länge på widgeten och tryck på \"Redigera widget\" för att hantera enheterna, du kan välja en ny enhet att visa i widgeten eller ersätta enheten som redan finns i widgeten och justera ordningen mellan dem för widgeten som stöder flera enheter. För enheter som har lagts till i widgeten kan du snabbt kontrollera deras status. \\n \\n Om enheten stöder genvägsswitch, visas dessutom en knapp som stöder genvägsswitch i widgeten. Andra enheter kan läggas till \"Rutiner\" för genvägsswitch och andra komplexa operationer.",
+    "ios_widget_extension_room_title": "Luftkonditionering på rummet",
+    "ios_widget_extension_room_content": "Tryck på widgeten för att gå till sidan \"Air Care\" i ConnectLife. \\n \\n Tryck länge på widgeten och tryck på \"Redigera widget\" för att hantera rummen. Se avsnittet \"Enheter\" för specifika åtgärder. \\n \\n Informationen om rumsmiljön är associerad med enheter som luftkonditionering och tredjepartsdetektorer och kan inte visas av widgeten när den inte är bunden till enheten eller när enheten är offline.",
+    "ios_widget_extension_energy_content": "Tryck på widgeten för att gå till sidan \"Energi\" i ConnectLife. \\n \\n Demonstrera 'producerat', 'Förbrukat', 'Kolsänkningar' och 'Beräknade räkningar' i widgeten om bostaden är utrustad med en växelriktare, annars visas bara 'Förbrukad'."
 }

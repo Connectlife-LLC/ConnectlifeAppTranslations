@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Schoonmaak",
     "CL_DV_OV_extra_cleaning_desc": "Stapsgewijze reinigingsprogramma's en instructies over hoe u uw oven in optimale conditie houdt.",
     "CL_DV_OV_extra_stage_cooking": "Meerfase koken",
-    "CL_DV_OV_extra_stage_cooking_desc": "Maak aangepaste kookprogramma's met maximaal 5 verschillende fasen.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Maak aangepaste kookprogramma's met maximaal {##} verschillende fasen.",
     "CL_DV_OV_extra_defrost_desc": "Een reeks vooraf gedefinieerde programma's om voedsel op de juiste manier te ontdooien, zodat de kwaliteit ervan na het invriezen gewaarborgd blijft.",
     "CL_DV_OV_extra_warming_desc": "Verwarm eerder gekookte gerechten opnieuw met behulp van de vooraf ingestelde ovenprogramma's. Behoudt maximale smaak en textuur.",
     "CL_DV_OV_extra_non_food": "Niet-eetbaar",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "NIET RESETTEN",
     "self_diagnosis_SCAN_Btn": "SCANNEN",
     "CL_CF_WC_add_bottle": "VOEG een fles toe",
-    "CL_CF_LG_enduser_consent_content_tip": "Met deze toestemming bevestigt u dat u volledig op de hoogte bent van het doel van de verwerking van uw persoonsgegevens zoals bepaald in het <u> Gegevensbeschermingsbeleid (URL) </u> en u gaat ermee akkoord dat het bedrijf ConnectLife, LLC. uw persoonsgegevens mag gebruiken voor de hieronder vermelde diensten.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Met deze toestemming bevestigt u dat u volledig op de hoogte bent van het doel van de verwerking van uw persoonsgegevens zoals bepaald in het <u> Gegevensbeschermingsbeleid </u> en u gaat ermee akkoord dat het bedrijf ConnectLife, LLC. uw persoonsgegevens mag gebruiken voor de hieronder vermelde diensten."
+    "CL_DV_WM_detergent_value_too_large": "De waarde is te groot!",
+    "CL_CF_LG_enduser_consent_tips": "Met deze toestemming bevestigt u dat u volledig op de hoogte bent van het doel van de verwerking van uw persoonsgegevens zoals bepaald in het <u> Gegevensbeschermingsbeleid </u> en u gaat ermee akkoord dat het bedrijf ConnectLife, LLC. uw persoonsgegevens mag gebruiken voor de hieronder vermelde diensten.",
+    "CL_CF_HP_hob_zone": "## Zone-rennen",
+    "CL_CF_HP_hi_wanshing_tips": "Het kinderslot is geactiveerd en het apparaat kan niet op handelingen reageren.",
+    "ios_widget_extension_routine_empty": "Geen routine beschikbaar",
+    "ios_widget_extension_routine_sub_title": "Slimme routines",
+    "ios_widget_extension_routine_describe": "Snel handmatige routines uitvoeren.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extensie_routine_sub_beschrijf",
+    "ios_widget_extension_routine_content": "Tik op de widget om naar het tabblad \"Automatisering\" van ConnectLife te gaan. \\n \\n Houd de widget lang ingedrukt en tik op \"Widget bewerken\" om de routines te beheren. Raadpleeg de sectie \"Apparaten\" voor specifieke bewerkingen. \\n \\n Automatische routines worden uitgevoerd door triggeren, niet door te tikken. Alleen handmatige routines worden dus ondersteund in de widget. Voor routines die aan de widget zijn toegevoegd, kunt u tikken om naar \"Automatisering\" in ConnectLife te springen en deze snel uit te voeren.",
+    "ios_widget_extension_devices_content": "Tik op de widget om naar het tabblad \"Apparaten\" van ConnectLife te gaan. \\n \\n Houd de widget lang ingedrukt en tik op \"Widget bewerken\" om de apparaten te beheren. U kunt een nieuw apparaat selecteren om weer te geven in de widget of het apparaat vervangen dat al in de widget staat, en de volgorde tussen de apparaten aanpassen voor de widget die meerdere apparaten ondersteunt. Voor apparaten die aan de widget zijn toegevoegd, kunt u snel hun status controleren. \\n \\n Als het apparaat snelkoppelingen ondersteunt, wordt er in de widget ook een knop weergegeven die snelkoppelingen ondersteunt. Andere apparaten kunnen worden toegevoegd aan \"Routines\" voor snelkoppelingen en andere complexe bewerkingen.",
+    "ios_widget_extension_room_title": "Kamer airconditioning",
+    "ios_widget_extension_room_content": "Tik op de widget om naar de pagina 'Air Care' van ConnectLife te gaan. \\n \\n Houd de widget lang ingedrukt en tik op 'Widget bewerken' om de kamers te beheren. Raadpleeg het gedeelte 'Apparaten' voor specifieke handelingen. \\n \\n De informatie over de kameromgeving is gekoppeld aan apparaten zoals airconditioners en detectoren van derden en kan niet door de widget worden weergegeven wanneer deze niet aan het apparaat is gekoppeld of wanneer het apparaat offline is.",
+    "ios_widget_extension_energy_content": "Tik op de widget om naar de 'Energie'-pagina van ConnectLife te gaan. \\n \\n Geef 'geproduceerd', 'Verbruikt', 'Koolstofbesparing' en 'Geschatte rekeningen' weer in de widget als de woning is uitgerust met een omvormer. Anders wordt alleen 'Verbruikt' weergegeven."
 }

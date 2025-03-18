@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Vệ sinh",
     "CL_DV_OV_extra_cleaning_desc": "Chương trình vệ sinh từng bước và hướng dẫn cách giữ lò nướng luôn ở tình trạng tốt nhất.",
     "CL_DV_OV_extra_stage_cooking": "Giai đoạn nấu ăn",
-    "CL_DV_OV_extra_stage_cooking_desc": "Tạo chương trình nấu ăn tùy chỉnh, sử dụng tối đa 5 giai đoạn khác nhau.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Tạo chương trình nấu ăn tùy chỉnh, sử dụng tối đa {##} giai đoạn khác nhau.",
     "CL_DV_OV_extra_defrost_desc": "Một bộ chương trình được thiết lập sẵn để rã đông thực phẩm đúng cách nhằm đảm bảo chất lượng sau khi đông lạnh.",
     "CL_DV_OV_extra_warming_desc": "Làm nóng lại thực phẩm đã nấu trước đó bằng các chương trình lò nướng được thiết lập sẵn. Giữ được hương vị và kết cấu tối đa.",
     "CL_DV_OV_extra_non_food": "Không phải thực phẩm",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "KHÔNG ĐẶT LẠI",
     "self_diagnosis_SCAN_Btn": "QUÉT",
     "CL_CF_WC_add_bottle": "THÊM một chai",
-    "CL_CF_LG_enduser_consent_content_tip": "Với sự đồng ý này, bạn xác nhận rằng bạn hoàn toàn nhận thức được mục đích xử lý dữ liệu cá nhân của bạn theo quy định của <u> Chính sách bảo vệ dữ liệu (URL) </u> và bạn đồng ý rằng công ty ConnectLife, LLC. có thể sử dụng dữ liệu cá nhân của bạn cho các dịch vụ như đã nêu dưới đây.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Với sự đồng ý này, bạn xác nhận rằng bạn hoàn toàn nhận thức được mục đích xử lý dữ liệu cá nhân của bạn theo quy định của <u> Chính sách bảo vệ dữ liệu </u> và bạn đồng ý rằng công ty ConnectLife, LLC. có thể sử dụng dữ liệu cá nhân của bạn cho các dịch vụ như đã nêu dưới đây."
+    "CL_DV_WM_detergent_value_too_large": "Giá trị quá lớn!",
+    "CL_CF_LG_enduser_consent_tips": "Với sự đồng ý này, bạn xác nhận rằng bạn hoàn toàn nhận thức được mục đích xử lý dữ liệu cá nhân của bạn theo quy định của <u> Chính sách bảo vệ dữ liệu </u> và bạn đồng ý rằng công ty ConnectLife, LLC. có thể sử dụng dữ liệu cá nhân của bạn cho các dịch vụ như đã nêu dưới đây.",
+    "CL_CF_HP_hob_zone": "## Chạy theo vùng",
+    "CL_CF_HP_hi_wanshing_tips": "Khóa trẻ em được kích hoạt và thiết bị không thể phản hồi các thao tác.",
+    "ios_widget_extension_routine_empty": "Không có thói quen nào có sẵn",
+    "ios_widget_extension_routine_sub_title": "Thói quen thông minh",
+    "ios_widget_extension_routine_describe": "Chạy nhanh các thao tác thủ công.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Nhấn vào tiện ích để đi đến tab \"Tự động hóa\" của ConnectLife. \\n \\n Nhấn và giữ tiện ích và nhấn \"Chỉnh sửa tiện ích\" để quản lý các Thói quen, vui lòng tham khảo phần \"Thiết bị\" để biết các thao tác cụ thể. \\n \\n Các thói quen tự động được thực hiện bằng cách kích hoạt, không phải chạm, do đó chỉ các thói quen thủ công được hỗ trợ trong tiện ích. Đối với các thói quen đã được thêm vào tiện ích, bạn có thể chạm để chuyển đến \"Tự động hóa\" trong ConnectLife và chạy nhanh.",
+    "ios_widget_extension_devices_content": "Nhấn vào tiện ích để đi đến tab \"Thiết bị\" của ConnectLife. \\n \\n Nhấn và giữ tiện ích và nhấn \"Chỉnh sửa tiện ích\" để quản lý các thiết bị, bạn có thể chọn một thiết bị mới để hiển thị trong tiện ích hoặc thay thế thiết bị đã có trong tiện ích và điều chỉnh thứ tự giữa chúng cho tiện ích hỗ trợ nhiều thiết bị. Đối với các thiết bị đã được thêm vào tiện ích, bạn có thể nhanh chóng kiểm tra trạng thái của chúng. \\n \\n Nếu thiết bị hỗ trợ chuyển đổi phím tắt, một nút hỗ trợ chuyển đổi phím tắt sẽ được hiển thị thêm trong tiện ích. Có thể thêm các thiết bị khác vào \"Thói quen\" để chuyển đổi phím tắt và các thao tác phức tạp khác.",
+    "ios_widget_extension_room_title": "Điều hòa không khí trong phòng",
+    "ios_widget_extension_room_content": "Nhấn vào tiện ích để đến trang \"Chăm sóc không khí\" của ConnectLife. \\n \\n Nhấn và giữ tiện ích và nhấn \"Chỉnh sửa tiện ích\" để quản lý Phòng, vui lòng tham khảo phần \"Thiết bị\" để biết các thao tác cụ thể. \\n \\n Thông tin môi trường phòng được liên kết với các thiết bị như máy điều hòa không khí và máy dò của bên thứ ba và không thể được tiện ích hiển thị khi không được liên kết với thiết bị hoặc thiết bị ngoại tuyến.",
+    "ios_widget_extension_energy_content": "Nhấn vào tiện ích để đến trang \"Năng lượng\" của ConnectLife. \\n \\n Hiển thị 'sản xuất', 'Tiêu thụ', 'Cắt giảm carbon' và 'Hóa đơn ước tính' trong tiện ích nếu ngôi nhà được trang bị bộ biến tần, nếu không thì chỉ hiển thị 'Tiêu thụ'."
 }

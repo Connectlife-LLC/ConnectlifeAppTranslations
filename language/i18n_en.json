@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Cleaning",
     "CL_DV_OV_extra_cleaning_desc": "Step-by-step cleaning programs and instructions on how to keep your oven in optimal condition.",
     "CL_DV_OV_extra_stage_cooking": "Stage cooking",
-    "CL_DV_OV_extra_stage_cooking_desc": "Create custom cooking programs, using up to 5 different stages.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Create custom cooking programs, using up to {##} different stages.",
     "CL_DV_OV_extra_defrost_desc": "A set of predefined programs to correctly thaw foods to ensure the quality after it has been frozen.",
     "CL_DV_OV_extra_warming_desc": "Reheat previously cooked foods using  the predefined oven programs. Keeps maximum flavor and texture.",
     "CL_DV_OV_extra_non_food": "Non food",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "DON’T RESET",
     "self_diagnosis_SCAN_Btn": "SCAN",
     "CL_CF_WC_add_bottle": "ADD a bottle",
-    "CL_CF_LG_enduser_consent_content_tip": "With this consent you confirm that you are fully aware of the purpose of the processing of your personal data as determined by the <u>Data Protection Policy (URL)</u> and you agree that the company ConnectLife, LLC. may use your personal data for the services as stated below.",
-    "CL_CF_LG_enduser_consent_content_tip2": "With this consent you confirm that you are fully aware of the purpose of the processing of your personal data as determined by the <u>Data Protection Policy</u> and you agree that the company ConnectLife, LLC. may use your personal data for the services as stated below."
+    "CL_DV_WM_detergent_value_too_large": "The value is too large!",
+    "CL_CF_LG_enduser_consent_tips": "With this consent you confirm that you are fully aware of the purpose of the processing of your personal data as determined by the <u>Data Protection Policy</u> and you agree that the company ConnectLife, LLC. may use your personal data for the services as stated below.",
+    "CL_CF_HP_hob_zone": "## Zone Running",
+    "CL_CF_HP_hi_wanshing_tips": "The Child Lock is activated, and the device cannot respond to operations.",
+    "ios_widget_extension_routine_empty": "No routine avaliable",
+    "ios_widget_extension_routine_sub_title": "Smart Routines",
+    "ios_widget_extension_routine_describe": "Quickly run manual routines.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Tap the widget to go to the \"Automation\" tab of ConnectLife.\\n\\nLong press the widget and tap \"Edit widget\" to manage the Routines, please refer to the \"Devices\" section for specific operations.\\n\\nAutomatic routines are performed by triggering, not tapping, so only manual routines are supported in the widget.  For routines that have been added to the widget, you can tap to jump to “Automation” in ConnectLife and run it quickly.",
+    "ios_widget_extension_devices_content": "Tap the widget to go to the \"Devices\" tab of ConnectLife.\\n\\nLong press the widget and tap \"Edit widget\" to manage the devices, you can select a new device to display in the widget or replace the device that is already in the widget, and adjust the order between them for the widget that supports multiple devices. For devices that have been added to the widget, you can quickly check their status.\\n\\nIf the device supports shortcut-switch, a button that supports shortcut-switch is additionally displayed in the widget. Other devices can be added to \"Routines\" for shortcut-switch and other complex operations.",
+    "ios_widget_extension_room_title": "Room air condition",
+    "ios_widget_extension_room_content": "Tap the widget to go to the \"Air Care\" page of ConnectLife.\\n\\nLong press the widget and tap \"Edit widget\" to manage the Rooms, please refer to the \"Devices\" section for specific operations.\\n\\nThe room environment information is associated with devices such as air conditioners and third-party detectors, and cannot be displayed by the widget when it is not bound to the device or the device is offline.",
+    "ios_widget_extension_energy_content": "Tap the widget to go to the \"Energy\" page of ConnectLife.\\n\\nDemonstrate ‘produced’, ‘Consumed’, ‘Carbon cuts‘ and ‘Estimated bills’ in the widget if the home is equipped with an inverter, otherwise only ‘Consumed’ are shown."
 }

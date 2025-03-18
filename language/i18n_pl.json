@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Czyszczenie",
     "CL_DV_OV_extra_cleaning_desc": "Programy czyszczenia krok po kroku i instrukcje, jak utrzymać piekarnik w optymalnym stanie.",
     "CL_DV_OV_extra_stage_cooking": "Gotowanie na scenie",
-    "CL_DV_OV_extra_stage_cooking_desc": "Twórz spersonalizowane programy gotowania, wykorzystując do 5 różnych etapów.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Twórz spersonalizowane programy gotowania, wykorzystując do {##} różnych etapów.",
     "CL_DV_OV_extra_defrost_desc": "Zestaw predefiniowanych programów umożliwiających prawidłowe rozmrażanie żywności, co pozwala zapewnić jej odpowiednią jakość po zamrożeniu.",
     "CL_DV_OV_extra_warming_desc": "Podgrzewaj wcześniej ugotowane potrawy, korzystając z predefiniowanych programów piekarnika. Zachowuje maksymalny smak i konsystencję.",
     "CL_DV_OV_extra_non_food": "Nieżywność",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "NIE RESETUJ",
     "self_diagnosis_SCAN_Btn": "SKANOWANIE",
     "CL_CF_WC_add_bottle": "DODAJ butelkę",
-    "CL_CF_LG_enduser_consent_content_tip": "Wyrażając niniejszą zgodę, potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych, zgodnie z <u> Polityką ochrony danych (URL) </u> i wyrażasz zgodę na to, aby firma ConnectLife, LLC. mogła wykorzystywać Twoje dane osobowe w celu świadczenia usług, jak wskazano poniżej.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Wyrażając niniejszą zgodę, potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych, zgodnie z <u> Polityką ochrony danych </u> i wyrażasz zgodę, aby firma ConnectLife, LLC. mogła wykorzystywać Twoje dane osobowe w celu świadczenia usług, jak wskazano poniżej."
+    "CL_DV_WM_detergent_value_too_large": "Wartość jest za duża!",
+    "CL_CF_LG_enduser_consent_tips": "Wyrażając niniejszą zgodę, potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych, zgodnie z <u> Polityką ochrony danych </u> i wyrażasz zgodę, aby firma ConnectLife, LLC. mogła wykorzystywać Twoje dane osobowe w celu świadczenia usług, jak wskazano poniżej.",
+    "CL_CF_HP_hob_zone": "## Bieganie strefowe",
+    "CL_CF_HP_hi_wanshing_tips": "Blokada rodzicielska jest włączona i urządzenie nie może reagować na operacje.",
+    "ios_widget_extension_routine_empty": "Brak dostępnej rutyny",
+    "ios_widget_extension_routine_sub_title": "Inteligentne rutyny",
+    "ios_widget_extension_routine_describe": "Szybkie uruchamianie procedur ręcznych.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Stuknij widżet, aby przejść do zakładki „Automatyzacja” w ConnectLife. \\n \\n Naciśnij i przytrzymaj widżet, a następnie stuknij „Edytuj widżet”, aby zarządzać procedurami. Zapoznaj się z sekcją „Urządzenia”, aby uzyskać informacje o konkretnych operacjach. \\n \\n Automatyczne procedury są wykonywane przez wyzwalanie, a nie stukanie, więc widżet obsługuje tylko procedury ręczne. W przypadku procedur, które zostały dodane do widżetu, możesz stuknąć, aby przejść do „Automatyzacji” w ConnectLife i szybko je uruchomić.",
+    "ios_widget_extension_devices_content": "Stuknij widżet, aby przejść do zakładki „Urządzenia” w ConnectLife. \\n \\n Naciśnij i przytrzymaj widżet i stuknij „Edytuj widżet”, aby zarządzać urządzeniami. Możesz wybrać nowe urządzenie do wyświetlenia w widżecie lub zastąpić urządzenie, które już znajduje się w widżecie, i dostosować kolejność między nimi dla widżetu, który obsługuje wiele urządzeń. W przypadku urządzeń, które zostały dodane do widżetu, możesz szybko sprawdzić ich status. \\n \\n Jeśli urządzenie obsługuje przełączanie skrótów, przycisk obsługujący przełączanie skrótów jest dodatkowo wyświetlany w widżecie. Inne urządzenia można dodać do „Routines” w celu przełączania skrótów i innych złożonych operacji.",
+    "ios_widget_extension_room_title": "Klimatyzacja w pokoju",
+    "ios_widget_extension_room_content": "Dotknij widżetu, aby przejść do strony „Air Care” w ConnectLife. \\n \\n Naciśnij i przytrzymaj widżet, a następnie dotknij opcji „Edytuj widżet”, aby zarządzać pokojami. Aby uzyskać informacje o konkretnych operacjach, zapoznaj się z sekcją „Urządzenia”. \\n \\n Informacje o środowisku w pomieszczeniu są powiązane z urządzeniami, takimi jak klimatyzatory i detektory innych firm, i nie można ich wyświetlić za pomocą widżetu, gdy nie jest on powiązany z urządzeniem lub gdy urządzenie jest offline.",
+    "ios_widget_extension_energy_content": "Kliknij widżet, aby przejść do strony „Energia” w ConnectLife. \\n \\n Pokaż „wyprodukowano”, „zużyto”, „ograniczenie emisji dwutlenku węgla” i „szacunkowe rachunki” w widżecie, jeśli dom jest wyposażony w inwerter; w przeciwnym razie wyświetlana jest tylko opcja „zużyto”."
 }
