@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "JANGAN TETAP SEMULA",
     "self_diagnosis_SCAN_Btn": "IMBAS",
     "CL_CF_WC_add_bottle": "TAMBAH sebotol",
-    "CL_CF_LG_enduser_consent_content_tip": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh <u> Dasar Perlindungan Data (URL) </u> dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh <u> Dasar Perlindungan Data </u> dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah."
+    "CL_DV_WM_detergent_value_too_large": "Nilainya terlalu besar!",
+    "CL_CF_LG_enduser_consent_tips": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh <u> Dasar Perlindungan Data </u> dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah.",
+    "CL_CF_HP_hob_zone": "## Larian Zon"
 }

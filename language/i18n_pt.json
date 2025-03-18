@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "NÃO REINICIAR",
     "self_diagnosis_SCAN_Btn": "ESCANEAMENTO",
     "CL_CF_WC_add_bottle": "ADICIONE uma garrafa",
-    "CL_CF_LG_enduser_consent_content_tip": "Com este consentimento, confirma que tem pleno conhecimento da finalidade do tratamento dos seus dados pessoais, tal como determinado pela Política de Proteção de Dados (URL), e concorda que a empresa ConnectLife, LLC. utilize os seus dados pessoais para os serviços abaixo indicados.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Com este consentimento, confirma que tem pleno conhecimento da finalidade do tratamento dos seus dados pessoais, tal como determinado pela Política de Proteção de Dados (URL), e concorda que a empresa ConnectLife, LLC. utilize os seus dados pessoais para os serviços abaixo indicados."
+    "CL_DV_WM_detergent_value_too_large": "O valor é muito grande!",
+    "CL_CF_LG_enduser_consent_tips": "Com este consentimento, confirma que tem pleno conhecimento da finalidade do tratamento dos seus dados pessoais, tal como determinado pela <u>Política de Proteção de Dados (URL)</u>, e concorda que a empresa ConnectLife, LLC. utilize os seus dados pessoais para os serviços abaixo indicados.",
+    "CL_CF_HP_hob_zone": "## Corrida de Zona"
 }

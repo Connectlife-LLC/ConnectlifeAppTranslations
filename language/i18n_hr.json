@@ -5092,7 +5092,7 @@
     "CL_DV_WM_left_times": "Otprilike ## puta",
     "CL_CM_Special_offers": "Posebne ponude",
     "CL_DV_DW_permanent_control_warning": "Uređaj treba biti uključen, ali ne u ciklusu pranja.",
-    "CL_CM_Laundry_shop": "Praonica rublja",
+    "CL_CM_Laundry_shop": "Trgovina",
     "CL_CM_Kitchen_shop": "Trgovina kuhinja",
     "CL_CF_how_to_enable_remote_control": "Kako omogućiti daljinsko upravljanje",
     "CL_CF_AB_ru_policy": "POLITIKA ZAŠTITE PODATAKA",
@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "NEMOJTE RESETIRATI",
     "self_diagnosis_SCAN_Btn": "SKENIRATI",
     "CL_CF_WC_add_bottle": "DODAJTE bocu",
-    "CL_CF_LG_enduser_consent_content_tip": "Ovim privolom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka (URL) </u> i slažete se da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Ovim pristankom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka </u> te ste suglasni da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku."
+    "CL_DV_WM_detergent_value_too_large": "Vrijednost je prevelika!",
+    "CL_CF_LG_enduser_consent_tips": "Ovim pristankom potvrđujete da ste u potpunosti upoznati sa svrhom obrade Vaših osobnih podataka kako je utvrđeno <u> Politikom zaštite podataka </u> te ste suglasni da tvrtka ConnectLife, LLC. može koristiti vaše osobne podatke za usluge kako je navedeno u nastavku.",
+    "CL_CF_HP_hob_zone": "## Zonsko trčanje"
 }

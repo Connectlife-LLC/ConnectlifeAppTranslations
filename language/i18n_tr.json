@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "Sıfırlama yapmayın",
     "self_diagnosis_SCAN_Btn": "TARAMA",
     "CL_CF_WC_add_bottle": "Bir şişe EKLE",
-    "CL_CF_LG_enduser_consent_content_tip": "Bu onayla, <u> Veri Koruma Politikası (URL) </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tamamen bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Bu onayla, <u> Veri Koruma Politikası </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tam olarak bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz."
+    "CL_DV_WM_detergent_value_too_large": "Değer çok büyük!",
+    "CL_CF_LG_enduser_consent_tips": "Bu onayla, <u> Veri Koruma Politikası </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tamamen bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz.",
+    "CL_CF_HP_hob_zone": "## Bölge Koşusu"
 }

@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "JANGAN DI-RESET",
     "self_diagnosis_SCAN_Btn": "PEMINDAIAN",
     "CL_CF_WC_add_bottle": "TAMBAHKAN botol",
-    "CL_CF_LG_enduser_consent_content_tip": "Dengan persetujuan ini, Anda mengonfirmasi bahwa Anda sepenuhnya menyadari tujuan pemrosesan data pribadi Anda sebagaimana ditentukan oleh <u> Kebijakan Perlindungan Data (URL) </u> dan Anda setuju bahwa perusahaan ConnectLife, LLC. dapat menggunakan data pribadi Anda untuk layanan sebagaimana dinyatakan di bawah ini.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Dengan persetujuan ini, Anda mengonfirmasi bahwa Anda sepenuhnya menyadari tujuan pemrosesan data pribadi Anda sebagaimana ditentukan oleh <u> Kebijakan Perlindungan Data </u> dan Anda setuju bahwa perusahaan ConnectLife, LLC. dapat menggunakan data pribadi Anda untuk layanan sebagaimana dinyatakan di bawah ini."
+    "CL_DV_WM_detergent_value_too_large": "Nilainya terlalu besar!",
+    "CL_CF_LG_enduser_consent_tips": "Dengan persetujuan ini, Anda mengonfirmasi bahwa Anda sepenuhnya menyadari tujuan pemrosesan data pribadi Anda sebagaimana ditentukan oleh <u> Kebijakan Perlindungan Data </u> dan Anda setuju bahwa perusahaan ConnectLife, LLC. dapat menggunakan data pribadi Anda untuk layanan sebagaimana dinyatakan di bawah ini.",
+    "CL_CF_HP_hob_zone": "## Zona Lari"
 }

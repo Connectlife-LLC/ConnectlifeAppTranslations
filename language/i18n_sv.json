@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "ÅTERSTÄLL INTE",
     "self_diagnosis_SCAN_Btn": "AVSÖKA",
     "CL_CF_WC_add_bottle": "LÄGG TILL en flaska",
-    "CL_CF_LG_enduser_consent_content_tip": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt <u> Dataskyddspolicy (URL) </u> och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt <u> Dataskyddspolicyn </u> och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan."
+    "CL_DV_WM_detergent_value_too_large": "Värdet är för stort!",
+    "CL_CF_LG_enduser_consent_tips": "Med detta samtycke bekräftar du att du är fullt medveten om syftet med behandlingen av dina personuppgifter enligt <u> Dataskyddspolicyn </u> och du samtycker till att företaget ConnectLife, LLC. kan använda dina personuppgifter för de tjänster som anges nedan.",
+    "CL_CF_HP_hob_zone": "## Zon igång"
 }
