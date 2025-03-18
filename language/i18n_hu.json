@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Tisztítás",
     "CL_DV_OV_extra_cleaning_desc": "Lépésről lépésre tisztító programok és utasítások a sütő optimális állapotának megőrzéséhez.",
     "CL_DV_OV_extra_stage_cooking": "Színpadi főzés",
-    "CL_DV_OV_extra_stage_cooking_desc": "Hozzon létre egyedi főzési programokat akár 5 különböző fokozat használatával.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Hozzon létre egyedi főzési programokat akár {##} különböző fokozat használatával.",
     "CL_DV_OV_extra_defrost_desc": "Előre definiált programok készlete az élelmiszerek megfelelő felolvasztásához, így biztosítva a minőséget a fagyasztás után.",
     "CL_DV_OV_extra_warming_desc": "Melegítse újra a korábban elkészített ételeket az előre meghatározott sütőprogramokkal. Megőrzi a maximális ízt és állagot.",
     "CL_DV_OV_extra_non_food": "Nem élelmiszer",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "NE RESET",
     "self_diagnosis_SCAN_Btn": "LETAPOGATÁS",
     "CL_CF_WC_add_bottle": "ADJ hozzá egy üveget",
-    "CL_CF_LG_enduser_consent_content_tip": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az <u> Adatvédelmi szabályzatban (URL) </u> meghatározott céljával, és beleegyezik abba, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az <u> Adatvédelmi szabályzatban </u> meghatározott céljával, és elfogadja, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz."
+    "CL_DV_WM_detergent_value_too_large": "Az érték túl nagy!",
+    "CL_CF_LG_enduser_consent_tips": "Ezzel a hozzájárulással megerősíti, hogy teljes mértékben tisztában van személyes adatai feldolgozásának az <u> Adatvédelmi szabályzatban </u> meghatározott céljával, és elfogadja, hogy a ConnectLife, LLC. az alábbiak szerint felhasználhatja személyes adatait a szolgáltatásokhoz.",
+    "CL_CF_HP_hob_zone": "## Zóna futás",
+    "CL_CF_HP_hi_wanshing_tips": "A gyermekzár be van kapcsolva, és a készülék nem tud reagálni a műveletekre.",
+    "ios_widget_extension_routine_empty": "Nincs rutin",
+    "ios_widget_extension_routine_sub_title": "Intelligens rutinok",
+    "ios_widget_extension_routine_describe": "Gyorsan futtasson kézi rutinokat.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Érintse meg a widgetet, hogy a ConnectLife „Automatizálás” lapjára lépjen. \\n \\n Nyomja meg hosszan a widgetet, és koppintson a „Modul szerkesztése” elemre a rutinok kezeléséhez. A konkrét műveletekért tekintse meg az „Eszközök” részt. \\n \\n Az automatikus rutinok végrehajtása triggereléssel történik, nem koppintással, így csak a kézi rutinok támogatottak a widgetben. A widgethez hozzáadott rutinok esetében érintse meg a gombot, hogy ugorjon a ConnectLife „Automatizálás” elemére, és gyorsan futtassa.",
+    "ios_widget_extension_devices_content": "Érintse meg a widgetet, hogy a ConnectLife „Eszközök” lapjára lépjen. \\n \\n Nyomja meg hosszan a widgetet, és koppintson a „Modul szerkesztése” elemre az eszközök kezeléséhez. Kiválaszthat egy új eszközt a widgetben való megjelenítéshez, vagy lecserélheti a már a widgetben lévő eszközt, és módosíthatja a köztük lévő sorrendet a több eszközt támogató widget esetében. A widgethez hozzáadott eszközök állapotát gyorsan ellenőrizheti. \\n \\n Ha az eszköz támogatja a gyorsbillentyűket, akkor a widgetben megjelenik egy gomb, amely támogatja a gyorsbillentyűket. Más eszközök is hozzáadhatók a \"Rutinokhoz\" a gyorsbillentyűkhöz és más összetett műveletekhez.",
+    "ios_widget_extension_room_title": "Szoba klíma",
+    "ios_widget_extension_room_content": "Érintse meg a widgetet, hogy a ConnectLife „Air Care” oldalára lépjen. \\n \\n Nyomja meg hosszan a widgetet, és koppintson a „Modul szerkesztése” elemre a szobák kezeléséhez. A konkrét műveletekért tekintse meg az „Eszközök” részt. \\n \\n A szobakörnyezet információi olyan eszközökhöz vannak társítva, mint például a légkondicionálók és a külső gyártók érzékelői, és a widget nem jeleníti meg őket, ha nincs az eszközhöz kötve, vagy az eszköz offline állapotban van.",
+    "ios_widget_extension_energy_content": "Érintse meg a widgetet, hogy a ConnectLife „Energia” oldalára lépjen. \\n \\n Mutassa be a 'termelt', 'Fogyaszt', 'szén-kibocsátáscsökkentést' és 'Becsült számlákat' a widgetben, ha az otthon fel van szerelve inverterrel, ellenkező esetben csak a 'Fogyaszt' jelenik meg."
 }

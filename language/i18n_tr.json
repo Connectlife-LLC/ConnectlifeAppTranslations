@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Temizlik",
     "CL_DV_OV_extra_cleaning_desc": "Fırınınızı en iyi durumda tutmak için adım adım temizleme programları ve talimatlar.",
     "CL_DV_OV_extra_stage_cooking": "Sahne pişirme",
-    "CL_DV_OV_extra_stage_cooking_desc": "5 farklı aşamaya kadar kullanarak özel pişirme programları oluşturun.",
+    "CL_DV_OV_extra_stage_cooking_desc": "{##} adede kadar farklı aşama kullanarak özel pişirme programları oluşturun.",
     "CL_DV_OV_extra_defrost_desc": "Dondurulduktan sonra gıdaların kalitesinin korunmasını sağlamak için doğru şekilde çözdürülmesini sağlayan önceden tanımlanmış programlar kümesi.",
     "CL_DV_OV_extra_warming_desc": "Önceden pişirilmiş yiyecekleri önceden tanımlanmış fırın programlarını kullanarak yeniden ısıtın. Maksimum lezzet ve dokuyu korur.",
     "CL_DV_OV_extra_non_food": "Gıda dışı",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "Sıfırlama yapmayın",
     "self_diagnosis_SCAN_Btn": "TARAMA",
     "CL_CF_WC_add_bottle": "Bir şişe EKLE",
-    "CL_CF_LG_enduser_consent_content_tip": "Bu onayla, <u> Veri Koruma Politikası (URL) </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tamamen bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Bu onayla, <u> Veri Koruma Politikası </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tam olarak bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz."
+    "CL_DV_WM_detergent_value_too_large": "Değer çok büyük!",
+    "CL_CF_LG_enduser_consent_tips": "Bu onayla, <u> Veri Koruma Politikası </u> tarafından belirlenen kişisel verilerinizin işlenme amacını tamamen bildiğinizi teyit ediyor ve ConnectLife, LLC. şirketinin kişisel verilerinizi aşağıda belirtilen hizmetler için kullanabileceğini kabul ediyorsunuz.",
+    "CL_CF_HP_hob_zone": "## Bölge Koşusu",
+    "CL_CF_HP_hi_wanshing_tips": "Çocuk Kilidi aktiftir ve cihaz işlemlere yanıt veremez.",
+    "ios_widget_extension_routine_empty": "Rutin mevcut değil",
+    "ios_widget_extension_routine_sub_title": "Akıllı Rutinler",
+    "ios_widget_extension_routine_describe": "Manuel rutinleri hızla çalıştırın.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "ConnectLife'ın \"Otomasyon\" sekmesine gitmek için widget'a dokunun. \\n \\n Widget'a uzun basın ve Rutinleri yönetmek için \"Widget'ı düzenle\"ye dokunun, lütfen belirli işlemler için \"Cihazlar\" bölümüne bakın. \\n \\n Otomatik rutinler dokunarak değil tetikleyerek gerçekleştirilir, bu nedenle widget'ta yalnızca manuel rutinler desteklenir. Widget'a eklenen rutinler için ConnectLife'ta \"Otomasyon\"a atlamak ve hızlıca çalıştırmak için dokunabilirsiniz.",
+    "ios_widget_extension_devices_content": "Widget'a dokunarak ConnectLife'ın \"Cihazlar\" sekmesine gidin. \\n \\n Widget'a uzun basın ve cihazları yönetmek için \"Widget'ı düzenle\"ye dokunun, widget'ta görüntülenecek yeni bir cihaz seçebilir veya widget'ta zaten bulunan cihazı değiştirebilir ve birden fazla cihazı destekleyen widget için bunlar arasındaki sırayı ayarlayabilirsiniz. Widget'a eklenen cihazlar için durumlarını hızlıca kontrol edebilirsiniz. \\n \\n Cihaz kısayol geçişini destekliyorsa, widget'ta kısayol geçişini destekleyen bir düğme de görüntülenir. Kısayol geçişi ve diğer karmaşık işlemler için \"Rutinler\"e başka cihazlar eklenebilir.",
+    "ios_widget_extension_room_title": "Oda kliması",
+    "ios_widget_extension_room_content": "ConnectLife'ın \"Air Care\" sayfasına gitmek için widget'a dokunun. \\n \\n Widget'a uzun basın ve Odaları yönetmek için \"Widget'ı düzenle\"ye dokunun; belirli işlemler için lütfen \"Cihazlar\" bölümüne bakın. \\n \\n Oda ortamı bilgileri, klimalar ve üçüncü taraf dedektörler gibi cihazlarla ilişkilidir ve cihaza bağlı olmadığında veya cihaz çevrimdışı olduğunda widget tarafından görüntülenemez.",
+    "ios_widget_extension_energy_content": "ConnectLife'ın \"Enerji\" sayfasına gitmek için widget'a dokunun. \\n \\n Evde bir invertör varsa, widget'ta 'Üretildi', 'Tüketilen', 'Karbon kesintileri' ve 'Tahmini faturalar'ı gösterin, aksi takdirde yalnızca 'Tüketilen' gösterilir."
 }

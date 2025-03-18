@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Pembersihan",
     "CL_DV_OV_extra_cleaning_desc": "Program pembersihan langkah demi langkah dan arahan tentang cara memastikan ketuhar anda dalam keadaan optimum.",
     "CL_DV_OV_extra_stage_cooking": "Memasak pentas",
-    "CL_DV_OV_extra_stage_cooking_desc": "Buat program memasak tersuai, menggunakan sehingga 5 peringkat berbeza.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Buat program memasak tersuai, menggunakan sehingga {##} peringkat berbeza.",
     "CL_DV_OV_extra_defrost_desc": "Satu set program yang dipratentukan untuk mencairkan makanan dengan betul untuk memastikan kualiti selepas ia dibekukan.",
     "CL_DV_OV_extra_warming_desc": "Panaskan semula makanan yang telah dimasak sebelum ini menggunakan program ketuhar yang telah ditetapkan. Mengekalkan rasa dan tekstur maksimum.",
     "CL_DV_OV_extra_non_food": "Bukan makanan",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "JANGAN TETAP SEMULA",
     "self_diagnosis_SCAN_Btn": "IMBAS",
     "CL_CF_WC_add_bottle": "TAMBAH sebotol",
-    "CL_CF_LG_enduser_consent_content_tip": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh <u> Dasar Perlindungan Data (URL) </u> dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh <u> Dasar Perlindungan Data </u> dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah."
+    "CL_DV_WM_detergent_value_too_large": "Nilainya terlalu besar!",
+    "CL_CF_LG_enduser_consent_tips": "Dengan persetujuan ini anda mengesahkan bahawa anda mengetahui sepenuhnya tujuan pemprosesan data peribadi anda seperti yang ditentukan oleh <u> Dasar Perlindungan Data </u> dan anda bersetuju bahawa syarikat ConnectLife, LLC. boleh menggunakan data peribadi anda untuk perkhidmatan seperti yang dinyatakan di bawah.",
+    "CL_CF_HP_hob_zone": "## Larian Zon",
+    "CL_CF_HP_hi_wanshing_tips": "Kunci Kanak-kanak diaktifkan, dan peranti tidak boleh bertindak balas kepada operasi.",
+    "ios_widget_extension_routine_empty": "Tiada rutin yang tersedia",
+    "ios_widget_extension_routine_sub_title": "Rutin Pintar",
+    "ios_widget_extension_routine_describe": "Jalankan rutin manual dengan cepat.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Ketik widget untuk pergi ke tab \"Automasi\" ConnectLife. \\n \\n Tekan lama widget dan ketik \"Edit widget\" untuk mengurus Rutin, sila rujuk bahagian \"Peranti\" untuk operasi tertentu. \\n \\n Rutin automatik dilakukan dengan mencetuskan, bukan mengetik, jadi hanya rutin manual disokong dalam widget. Untuk rutin yang telah ditambahkan pada widget, anda boleh mengetik untuk melompat ke \"Automasi\" dalam ConnectLife dan menjalankannya dengan cepat.",
+    "ios_widget_extension_devices_content": "Ketik widget untuk pergi ke tab \"Peranti\" ConnectLife. \\n \\n Tekan lama widget dan ketik \"Edit widget\" untuk mengurus peranti, anda boleh memilih peranti baharu untuk dipaparkan dalam widget atau menggantikan peranti yang sudah ada dalam widget dan melaraskan susunan antara widget tersebut untuk widget yang menyokong berbilang peranti. Untuk peranti yang telah ditambahkan pada widget, anda boleh menyemak statusnya dengan cepat. \\n \\n Jika peranti menyokong suis pintasan, butang yang menyokong suis pintasan turut dipaparkan dalam widget. Peranti lain boleh ditambahkan pada \"Rutin\" untuk suis pintasan dan operasi kompleks lain.",
+    "ios_widget_extension_room_title": "Penghawa dingin bilik",
+    "ios_widget_extension_room_content": "Ketik widget untuk pergi ke halaman \"Penjagaan Udara\" ConnectLife. \\n \\n Tekan lama widget dan ketik \"Edit widget\" untuk mengurus Bilik, sila rujuk bahagian \"Peranti\" untuk operasi tertentu. \\n \\n Maklumat persekitaran bilik dikaitkan dengan peranti seperti penghawa dingin dan pengesan pihak ketiga dan tidak boleh dipaparkan oleh widget apabila ia tidak terikat pada peranti atau peranti di luar talian.",
+    "ios_widget_extension_energy_content": "Ketik widget untuk pergi ke halaman \"Tenaga\" ConnectLife. \\n \\n Tunjukkan 'dihasilkan', 'Digunakan', 'Pemotongan karbon' dan 'Anggaran bil' dalam widget jika rumah dilengkapi dengan penyongsang, jika tidak hanya 'Digunakan' ditunjukkan."
 }

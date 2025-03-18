@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Nettoyage",
     "CL_DV_OV_extra_cleaning_desc": "Programmes de nettoyage étape par étape et instructions pour maintenir votre four dans des conditions optimales.",
     "CL_DV_OV_extra_stage_cooking": "Cuisine de scène",
-    "CL_DV_OV_extra_stage_cooking_desc": "Créez des programmes de cuisson personnalisés, utilisant jusqu'à 5 étapes différentes.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Créez des programmes de cuisson personnalisés, utilisant jusqu'à {##} étapes différentes.",
     "CL_DV_OV_extra_defrost_desc": "Un ensemble de programmes prédéfinis pour décongeler correctement les aliments afin d'en garantir la qualité après leur congélation.",
     "CL_DV_OV_extra_warming_desc": "Réchauffez les aliments déjà cuits grâce aux programmes de cuisson prédéfinis. Conservez un maximum de saveur et de texture.",
     "CL_DV_OV_extra_non_food": "Non alimentaire",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "NE PAS RÉINITIALISER",
     "self_diagnosis_SCAN_Btn": "BALAYAGE",
     "CL_CF_WC_add_bottle": "AJOUTER une bouteille",
-    "CL_CF_LG_enduser_consent_content_tip": "Avec ce consentement, vous confirmez que vous êtes pleinement conscient de la finalité du traitement de vos données personnelles telle que déterminée par la <u> Politique de protection des données (URL) </u> et vous acceptez que la société ConnectLife, LLC. puisse utiliser vos données personnelles pour les services comme indiqué ci-dessous.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Avec ce consentement, vous confirmez que vous êtes pleinement conscient de la finalité du traitement de vos données personnelles telle que déterminée par la <u> Politique de protection des données </u> et vous acceptez que la société ConnectLife, LLC. puisse utiliser vos données personnelles pour les services comme indiqué ci-dessous."
+    "CL_DV_WM_detergent_value_too_large": "La valeur est trop grande !",
+    "CL_CF_LG_enduser_consent_tips": "Avec ce consentement, vous confirmez que vous êtes pleinement conscient de la finalité du traitement de vos données personnelles telle que déterminée par la <u> Politique de protection des données </u> et vous acceptez que la société ConnectLife, LLC. puisse utiliser vos données personnelles pour les services comme indiqué ci-dessous.",
+    "CL_CF_HP_hob_zone": "## Course en zone",
+    "CL_CF_HP_hi_wanshing_tips": "Le verrouillage enfant est activé et l'appareil ne peut pas répondre aux opérations.",
+    "ios_widget_extension_routine_empty": "Aucune routine disponible",
+    "ios_widget_extension_routine_sub_title": "Routines intelligentes",
+    "ios_widget_extension_routine_describe": "Exécutez rapidement des routines manuelles.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Appuyez sur le widget pour accéder à l'onglet « Automatisation » de ConnectLife \\n Appuyez longuement \\n le widget, puis appuyez sur « Modifier le widget » pour gérer les routines \\n Veuillez consulter la section « Appareils » pour plus \\n informations. Les routines automatiques s'exécutent par déclenchement, et non par simple pression ; seules les routines manuelles sont donc prises en charge par le widget. Pour les routines ajoutées au widget, appuyez sur l'icône pour accéder à « Automatisation » dans ConnectLife et les exécuter rapidement.",
+    "ios_widget_extension_devices_content": "Appuyez sur le widget pour accéder à l'onglet « Appareils \\n de ConnectLife. Appuyez longuement \\n le widget et appuyez sur « Modifier le widget » pour gérer les appareils. Vous pouvez sélectionner un nouvel appareil à afficher dans le widget ou remplacer l'appareil déjà présent, et ajuster l'ordre entre eux pour le widget prenant en charge plusieurs appareils. Pour les appareils ajoutés au widget, vous pouvez rapidement vérifier leur état. Si l'appareil prend en charge le changement de raccourci, un bouton correspondant s'affiche également dans le widget. D'autres appareils peuvent être ajoutés aux « Routines » pour \\n changement de raccourci et d'autres \\n complexes.",
+    "ios_widget_extension_room_title": "Climatisation de la pièce",
+    "ios_widget_extension_room_content": "Appuyez sur le widget pour accéder à la page « Air Care \\n de ConnectLife. Appuyez longuement sur le widget et appuyez sur « Modifier le widget » pour gérer les pièces. Veuillez \\n référer à la section « Appareils » pour des opérations spécifiques. \\n \\n sur l'environnement de la pièce sont associées à des appareils tels que les climatiseurs et les détecteurs tiers, et ne peuvent pas être affichées par le widget lorsqu'il n'est pas lié à l'appareil ou que l'appareil est hors ligne.",
+    "ios_widget_extension_energy_content": "Appuyez sur le widget pour accéder à la page « Énergie » de ConnectLife. \\n \\n Affichez « produit », « consommé », « réductions de carbone » et « factures estimées » dans le widget si la maison est équipée d'un onduleur, sinon seul « consommé » est affiché."
 }

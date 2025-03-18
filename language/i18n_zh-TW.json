@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "打掃",
     "CL_DV_OV_extra_cleaning_desc": "有關如何使烤箱保持最佳狀態的逐步清潔程序和說明。",
     "CL_DV_OV_extra_stage_cooking": "舞台烹飪",
-    "CL_DV_OV_extra_stage_cooking_desc": "建立自訂烹飪程序，使用最多 5 個不同的階段。",
+    "CL_DV_OV_extra_stage_cooking_desc": "建立自訂烹飪程序，使用最多{##}個不同的階段。",
     "CL_DV_OV_extra_defrost_desc": "一組預先定義的程序，用於正確解凍食品，以確保冷凍後的品質。",
     "CL_DV_OV_extra_warming_desc": "使用預先定義的烤箱程序重新加熱之前煮熟的食物。保持最大的風味和質地。",
     "CL_DV_OV_extra_non_food": "非食品",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "不要重置",
     "self_diagnosis_SCAN_Btn": "掃描",
     "CL_CF_WC_add_bottle": "加入一瓶",
-    "CL_CF_LG_enduser_consent_content_tip": "透過此同意，您確認您完全了解<u>資料保護政策 (URL) </u>所確定的處理您的個人資料的目的，並且您同意 ConnectLife, LLC 公司。可能會使用您的個人資訊來提供下述服務。",
-    "CL_CF_LG_enduser_consent_content_tip2": "透過此同意，您確認您完全了解<u>資料保護政策</u>所確定的處理您的個人資料的目的，並且您同意 ConnectLife, LLC 公司。可能會使用您的個人資訊來提供下述服務。"
+    "CL_DV_WM_detergent_value_too_large": "該值太大！",
+    "CL_CF_LG_enduser_consent_tips": "透過此同意，您確認您完全了解<u>資料保護政策</u>所確定的處理您的個人資料的目的，並且您同意 ConnectLife, LLC 公司。可能會使用您的個人資訊來提供下述服務。",
+    "CL_CF_HP_hob_zone": "## 區域跑步",
+    "CL_CF_HP_hi_wanshing_tips": "兒童鎖已激活，設備無法回應操作。",
+    "ios_widget_extension_routine_empty": "沒有可用的例程",
+    "ios_widget_extension_routine_sub_title": "智慧例程",
+    "ios_widget_extension_routine_describe": "快速運行手動例程。",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "點擊該小工具以前往 ConnectLife 的「自動化」標籤。 \\n \\n長按小工具，點選「編輯小工具」即可管理日常事務，具體操作請參考「裝置」部分。 \\n \\n自動例程是透過觸發而不是點擊來執行的，因此小部件中僅支援手動例程。對於已新增至小工具的例程，您可以點擊跳到 ConnectLife 中的「自動化」並快速運行它。",
+    "ios_widget_extension_devices_content": "點擊該小工具以前往 ConnectLife 的「裝置」標籤。 \\n \\n長按小部件，點擊「編輯小部件」可以管理設備，您可以選擇新的設備在小部件中顯示或替換小部件中已有的設備，對於支援多設備的小部件，還可以調整它們之間的順序。對於已新增至小工具的設備，您可以快速檢查其狀態。 \\n \\n如果裝置支援快捷切換，則小工具中會額外顯示一個支援快捷切換的按鈕。可以將其他裝置新增至「例程」中，以便進行快速切換等複雜操作。",
+    "ios_widget_extension_room_title": "房間空調",
+    "ios_widget_extension_room_content": "點擊該小工具進入 ConnectLife 的「空氣護理」頁面。 \\n \\n長按小工具，點選「編輯小工具」即可管理房間，具體操作請參考「裝置」部分。 \\n \\n房間環境資訊與空調、第三方偵測器等設備關聯，未與設備綁定或設備離線時，小組件無法顯示。",
+    "ios_widget_extension_energy_content": "點擊該小工具前往 ConnectLife 的「能源」頁面。 \\n \\n如果家中配備了逆變器，則在小部件中顯示“生產”、“消耗”、“碳減排”和“估計賬單”，否則只顯示“消耗”。"
 }

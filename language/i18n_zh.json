@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "打扫",
     "CL_DV_OV_extra_cleaning_desc": "一步一步的清洁程序和有关如何保持烤箱处于最佳状态的说明。",
     "CL_DV_OV_extra_stage_cooking": "阶段烹饪",
-    "CL_DV_OV_extra_stage_cooking_desc": "创建自定义烹饪程序，最多可使用 5 个不同阶段。",
+    "CL_DV_OV_extra_stage_cooking_desc": "创建自定义烹饪程序，最多可使用{##}个不同阶段。",
     "CL_DV_OV_extra_defrost_desc": "一组预定义程序，用于正确解冻食物以确保冷冻后的质量。",
     "CL_DV_OV_extra_warming_desc": "使用预定义的烤箱程序重新加热之前烹制的食物。最大程度地保持风味和口感。",
     "CL_DV_OV_extra_non_food": "非食品",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "不要重置",
     "self_diagnosis_SCAN_Btn": "扫描",
     "CL_CF_WC_add_bottle": "添加一瓶",
-    "CL_CF_LG_enduser_consent_content_tip": "通过此同意，您确认您完全了解<u>数据保护政策（URL） </u>所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。",
-    "CL_CF_LG_enduser_consent_content_tip2": "通过此同意，您确认您完全了解<u>数据保护政策</u>所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。"
+    "CL_DV_WM_detergent_value_too_large": "该值太大！",
+    "CL_CF_LG_enduser_consent_tips": "通过此同意，您确认您完全了解<u>数据保护政策</u>所确定的处理您的个人数据的目的，并且您同意 ConnectLife, LLC. 公司可以将您的个人数据用于下述服务。",
+    "CL_CF_HP_hob_zone": "## 区域跑步",
+    "CL_CF_HP_hi_wanshing_tips": "儿童锁已激活，设备无法响应操作。",
+    "ios_widget_extension_routine_empty": "没有可用的例程",
+    "ios_widget_extension_routine_sub_title": "智能例程",
+    "ios_widget_extension_routine_describe": "快速运行手动例程。",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "点击小部件进入 ConnectLife 的“自动化”选项卡。 \\n \\n长按小部件并点击“编辑小部件”可管理例程，具体操作请参考“设备”部分。 \\n \\n自动例程是通过触发而不是点击来执行的，因此小部件仅支持手动例程。对于已添加到小部件的例程，您可以点击跳转到 ConnectLife 中的“自动化”并快速运行。",
+    "ios_widget_extension_devices_content": "点击小部件进入 ConnectLife 的“设备”选项卡。 \\n \\n长按小部件并点击“编辑小部件”可管理设备，您可以选择新设备在小部件中显示或替换小部件中已有的设备，对于支持多设备的小部件，可以调整设备之间的顺序。对于已添加到小部件的设备，您可以快速查看设备状态。 \\n \\n如果设备支持快捷切换，小部件中会额外显示一个支持快捷切换的按钮。其他设备可以添加到“常规”中，以便进行快捷切换等复杂操作。",
+    "ios_widget_extension_room_title": "房间空调",
+    "ios_widget_extension_room_content": "点击插件可以进入ConnectLife的“空气护理”页面。 \\n \\n长按插件，点击“编辑插件”可以对房间进行管理，具体操作请参考“设备”部分。 \\n \\n房间环境信息与空调、第三方检测器等设备关联，未与设备绑定或设备离线时，插件无法显示。",
+    "ios_widget_extension_energy_content": "点击该小部件转到 ConnectLife 的“能源”页面。 \\n \\n如果家中配备了逆变器，则在小部件中显示“生产”、“消耗”、“碳减排”和“估计账单”，否则只显示“消耗”。"
 }

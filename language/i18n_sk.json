@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Upratovanie",
     "CL_DV_OV_extra_cleaning_desc": "Programy čistenia krok za krokom a pokyny, ako udržať vašu rúru v optimálnom stave.",
     "CL_DV_OV_extra_stage_cooking": "Etapové varenie",
-    "CL_DV_OV_extra_stage_cooking_desc": "Vytvorte si vlastné programy varenia s použitím až 5 rôznych fáz.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Vytvorte si vlastné programy varenia s použitím až {##} rôznych fáz.",
     "CL_DV_OV_extra_defrost_desc": "Sada preddefinovaných programov na správne rozmrazovanie potravín, aby sa zabezpečila ich kvalita po zmrazení.",
     "CL_DV_OV_extra_warming_desc": "Zohrejte predtým uvarené jedlá pomocou preddefinovaných programov rúry. Zachováva maximálnu chuť a textúru.",
     "CL_DV_OV_extra_non_food": "Bez jedla",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "NERESETOVAŤ",
     "self_diagnosis_SCAN_Btn": "SKENOVAŤ",
     "CL_CF_WC_add_bottle": "PRIDAJTE fľašu",
-    "CL_CF_LG_enduser_consent_content_tip": "Týmto súhlasom potvrdzujete, že ste si plne vedomý účelu spracovania vašich osobných údajov, ako je určený <u> Zásadami ochrany údajov (URL) </u> a súhlasíte s tým, že spoločnosť ConnectLife, LLC. môže použiť vaše osobné údaje pre služby, ako je uvedené nižšie.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Týmto súhlasom potvrdzujete, že ste si plne vedomý účelu spracovania vašich osobných údajov, ako je určený <u> Zásadami ochrany údajov </u> a súhlasíte s tým, že spoločnosť ConnectLife, LLC. môže použiť vaše osobné údaje pre služby, ako je uvedené nižšie."
+    "CL_DV_WM_detergent_value_too_large": "Hodnota je príliš veľká!",
+    "CL_CF_LG_enduser_consent_tips": "Týmto súhlasom potvrdzujete, že ste si plne vedomý účelu spracovania vašich osobných údajov, ako je určený <u> Zásadami ochrany údajov </u> a súhlasíte s tým, že spoločnosť ConnectLife, LLC. môže použiť vaše osobné údaje pre služby, ako je uvedené nižšie.",
+    "CL_CF_HP_hob_zone": "## Spustenie zóny",
+    "CL_CF_HP_hi_wanshing_tips": "Detská zámka je aktivovaná a zariadenie nemôže reagovať na operácie.",
+    "ios_widget_extension_routine_empty": "Nie je k dispozícii žiadna rutina",
+    "ios_widget_extension_routine_sub_title": "Inteligentné rutiny",
+    "ios_widget_extension_routine_describe": "Rýchlo spustite manuálne rutiny.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Klepnutím na miniaplikáciu prejdite na kartu „Automatizácia“ ConnectLife. \\n \\n Dlho stlačte miniaplikáciu a klepnite na „Upraviť miniaplikáciu“, aby ste mohli spravovať postupy. Konkrétne operácie nájdete v časti „Zariadenia“. \\n \\n Automatické rutiny sa vykonávajú spustením, nie klepnutím, takže widget podporuje iba manuálne rutiny. V prípade rutín, ktoré boli pridané do miniaplikácie, môžete klepnutím na preskočiť na „Automatizácia“ v ConnectLife a rýchlo ju spustiť.",
+    "ios_widget_extension_devices_content": "Klepnutím na miniaplikáciu prejdite na kartu „Zariadenia“ ConnectLife. \\n \\n Dlho stlačte miniaplikáciu a klepnite na „Upraviť miniaplikáciu“, aby ste mohli spravovať zariadenia, môžete vybrať nové zariadenie, ktoré sa má zobraziť v miniaplikácii, alebo nahradiť zariadenie, ktoré už v miniaplikácii je, a upraviť poradie medzi nimi pre miniaplikáciu, ktorá podporuje viacero zariadení. V prípade zariadení, ktoré boli pridané do miniaplikácie, môžete rýchlo skontrolovať ich stav. \\n \\n Ak zariadenie podporuje prepínanie skratiek, v miniaplikácii sa navyše zobrazí tlačidlo, ktoré podporuje prepínanie skratiek. Do \"Rutín\" možno pridať ďalšie zariadenia na prepínanie skratiek a iné zložité operácie.",
+    "ios_widget_extension_room_title": "Klimatizácia v izbe",
+    "ios_widget_extension_room_content": "Klepnutím na miniaplikáciu prejdite na stránku „Air Care“ ConnectLife. \\n \\n Dlho stlačte miniaplikáciu a klepnite na „Upraviť miniaplikáciu“, aby ste spravovali miestnosti, konkrétne operácie nájdete v časti „Zariadenia“. \\n \\n Informácie o prostredí miestnosti sú spojené so zariadeniami, ako sú klimatizácie a detektory tretích strán, a miniaplikácia ich nemôže zobraziť, keď nie sú prepojené so zariadením alebo keď je zariadenie offline.",
+    "ios_widget_extension_energy_content": "Klepnutím na miniaplikáciu prejdite na stránku „Energia“ ConnectLife. \\n \\n Ak je dom vybavený invertorom, ukážte v miniaplikácii 'vyrobené', 'spotrebované', 'úbytok uhlíka' a 'odhadované účty', inak sa zobrazuje len 'spotreba'."
 }

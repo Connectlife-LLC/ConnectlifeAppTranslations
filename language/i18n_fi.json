@@ -4092,7 +4092,7 @@
     "CL_DV_OV_extra_cleaning": "Puhdistus",
     "CL_DV_OV_extra_cleaning_desc": "Vaiheittaiset puhdistusohjelmat ja ohjeet uunin pitämiseen optimaalisessa kunnossa.",
     "CL_DV_OV_extra_stage_cooking": "Lavakeittiö",
-    "CL_DV_OV_extra_stage_cooking_desc": "Luo mukautettuja kypsennysohjelmia käyttämällä jopa 5 eri vaihetta.",
+    "CL_DV_OV_extra_stage_cooking_desc": "Luo mukautettuja kypsennysohjelmia käyttämällä jopa {##} eri vaihetta.",
     "CL_DV_OV_extra_defrost_desc": "Joukko ennalta määritettyjä ohjelmia ruokien sulattamiseksi oikein laadun varmistamiseksi pakastamisen jälkeen.",
     "CL_DV_OV_extra_warming_desc": "Lämmitä aiemmin kypsennetyt ruoat ennalta määritettyjen uuniohjelmien avulla. Säilyttää maksimaalisen maun ja koostumuksen.",
     "CL_DV_OV_extra_non_food": "Ei ruokaa",
@@ -5121,6 +5121,17 @@
     "CL_CF_WC_do_not_reset": "ÄLÄ NOLLAA",
     "self_diagnosis_SCAN_Btn": "SKANNATA",
     "CL_CF_WC_add_bottle": "LISÄÄ pullo",
-    "CL_CF_LG_enduser_consent_content_tip": "Tällä suostumuksella vahvistat, että olet täysin tietoinen henkilötietojesi käsittelyn tarkoituksesta, sellaisena kuin se on määritelty <u> tietosuojakäytännössä (URL) </u>, ja hyväksyt, että yritys ConnectLife, LLC. voi käyttää henkilötietojasi palveluihin alla mainitulla tavalla.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Tällä suostumuksella vahvistat, että olet täysin tietoinen henkilötietojesi käsittelyn tarkoituksesta <u> tietosuojakäytännön </u> mukaisesti ja hyväksyt, että ConnectLife, LLC. voi käyttää henkilötietojasi palveluihin alla mainitulla tavalla."
+    "CL_DV_WM_detergent_value_too_large": "Arvo on liian suuri!",
+    "CL_CF_LG_enduser_consent_tips": "Tällä suostumuksella vahvistat, että olet täysin tietoinen henkilötietojesi käsittelyn tarkoituksesta <u> tietosuojakäytännön </u> mukaisesti ja hyväksyt, että ConnectLife, LLC. voi käyttää henkilötietojasi palveluihin alla mainitulla tavalla.",
+    "CL_CF_HP_hob_zone": "## Aluejuoksu",
+    "CL_CF_HP_hi_wanshing_tips": "Lapsilukko on aktivoitu, eikä laite voi reagoida toimintoihin.",
+    "ios_widget_extension_routine_empty": "Rutiinia ei ole saatavilla",
+    "ios_widget_extension_routine_sub_title": "Älykkäät rutiinit",
+    "ios_widget_extension_routine_describe": "Suorita manuaaliset rutiinit nopeasti.",
+    "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
+    "ios_widget_extension_routine_content": "Napauta widgetiä siirtyäksesi ConnectLifen \"Automaatio\"-välilehteen. \\n \\n Paina widgetiä pitkään ja napauta \"Muokkaa widgetiä\" hallitaksesi rutiineja. Katso \"Laitteet\"-osiosta tiettyjä toimintoja. \\n \\n Automaattiset rutiinit suoritetaan käynnistämällä, ei napauttamalla, joten widget tukee vain manuaalisia rutiineja. Widgetiin lisättyjen rutiinien kohdalla voit napauttaa siirtyäksesi kohtaan \"Automaatio\" ConnectLifessa ja suorittaaksesi sen nopeasti.",
+    "ios_widget_extension_devices_content": "Napauta widgetiä siirtyäksesi ConnectLifen \"Laitteet\"-välilehteen. \\n \\n Paina widgetiä pitkään ja napauta \"Muokkaa widgetiä\" hallitaksesi laitteita. Voit valita uuden laitteen näytettäväksi widgetissä tai korvata widgetissä jo olevan laitteen ja säätää niiden välistä järjestystä widgetille, joka tukee useita laitteita. Voit tarkistaa widgetiin lisättyjen laitteiden tilan nopeasti. \\n \\n Jos laite tukee pikavalintakytkintä, widgetissä näkyy lisäksi pikavalintakytkintä tukeva painike. Muita laitteita voidaan lisätä \"Rutiineihin\" pikavalintakytkimiä ja muita monimutkaisia ​​toimintoja varten.",
+    "ios_widget_extension_room_title": "Huoneen ilmastointi",
+    "ios_widget_extension_room_content": "Napauta widgetiä siirtyäksesi ConnectLifen Air Care -sivulle. \\n \\n Paina widgetiä pitkään ja napauta \"Muokkaa widgetiä\" hallitaksesi huoneita. Katso \"Laitteet\"-osiosta tiettyjä toimintoja. \\n \\n Huoneympäristön tiedot liittyvät laitteisiin, kuten ilmastointilaitteisiin ja kolmannen osapuolen ilmaisimiin, eikä widget voi näyttää niitä, kun se ei ole sidottu laitteeseen tai laite on offline-tilassa.",
+    "ios_widget_extension_energy_content": "Napauta widgetiä siirtyäksesi ConnectLifen \"Energia\"-sivulle. \\n \\n Näytä widgetissä 'tuotettu', 'Kulutus', 'Hiilipäästöt' ja 'Arvioidut laskut' widgetissä, jos koti on varustettu invertterillä, muuten vain 'Kulutus' näytetään."
 }
