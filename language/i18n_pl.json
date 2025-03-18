@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "NIE RESETUJ",
     "self_diagnosis_SCAN_Btn": "SKANOWANIE",
     "CL_CF_WC_add_bottle": "DODAJ butelkę",
-    "CL_CF_LG_enduser_consent_content_tip": "Wyrażając niniejszą zgodę, potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych, zgodnie z <u> Polityką ochrony danych (URL) </u> i wyrażasz zgodę na to, aby firma ConnectLife, LLC. mogła wykorzystywać Twoje dane osobowe w celu świadczenia usług, jak wskazano poniżej.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Wyrażając niniejszą zgodę, potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych, zgodnie z <u> Polityką ochrony danych </u> i wyrażasz zgodę, aby firma ConnectLife, LLC. mogła wykorzystywać Twoje dane osobowe w celu świadczenia usług, jak wskazano poniżej."
+    "CL_DV_WM_detergent_value_too_large": "Wartość jest za duża!",
+    "CL_CF_LG_enduser_consent_tips": "Wyrażając niniejszą zgodę, potwierdzasz, że jesteś w pełni świadomy celu przetwarzania Twoich danych osobowych, zgodnie z <u> Polityką ochrony danych </u> i wyrażasz zgodę, aby firma ConnectLife, LLC. mogła wykorzystywać Twoje dane osobowe w celu świadczenia usług, jak wskazano poniżej.",
+    "CL_CF_HP_hob_zone": "## Bieganie strefowe"
 }
