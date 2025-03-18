@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "NU RESETARE",
     "self_diagnosis_SCAN_Btn": "SCANĂ",
     "CL_CF_WC_add_bottle": "Adăugați o sticlă",
-    "CL_CF_LG_enduser_consent_content_tip": "Cu acest consimțământ confirmați că sunteți pe deplin conștient de scopul prelucrării datelor dumneavoastră cu caracter personal, așa cum este determinat de <u> Politica de protecție a datelor (URL) </u> și sunteți de acord ca compania ConnectLife, LLC. poate utiliza datele dumneavoastră cu caracter personal pentru serviciile menționate mai jos.",
-    "CL_CF_LG_enduser_consent_content_tip2": "Cu acest consimțământ confirmați că sunteți pe deplin conștient de scopul prelucrării datelor dumneavoastră cu caracter personal, așa cum este determinat de <u> Politica de protecție a datelor </u> și sunteți de acord ca compania ConnectLife, LLC. poate utiliza datele dumneavoastră cu caracter personal pentru serviciile menționate mai jos."
+    "CL_DV_WM_detergent_value_too_large": "Valoarea este prea mare!",
+    "CL_CF_LG_enduser_consent_tips": "Cu acest consimțământ confirmați că sunteți pe deplin conștient de scopul prelucrării datelor dumneavoastră cu caracter personal, așa cum este determinat de <u> Politica de protecție a datelor </u> și sunteți de acord ca compania ConnectLife, LLC. poate utiliza datele dumneavoastră cu caracter personal pentru serviciile menționate mai jos.",
+    "CL_CF_HP_hob_zone": "## Zone Running"
 }
