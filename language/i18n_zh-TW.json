@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "不要重置",
     "self_diagnosis_SCAN_Btn": "掃描",
     "CL_CF_WC_add_bottle": "加入一瓶",
-    "CL_CF_LG_enduser_consent_content_tip": "透過此同意，您確認您完全了解<u>資料保護政策 (URL) </u>所確定的處理您的個人資料的目的，並且您同意 ConnectLife, LLC 公司。可能會使用您的個人資訊來提供下述服務。",
-    "CL_CF_LG_enduser_consent_content_tip2": "透過此同意，您確認您完全了解<u>資料保護政策</u>所確定的處理您的個人資料的目的，並且您同意 ConnectLife, LLC 公司。可能會使用您的個人資訊來提供下述服務。"
+    "CL_DV_WM_detergent_value_too_large": "該值太大！",
+    "CL_CF_LG_enduser_consent_tips": "透過此同意，您確認您完全了解<u>資料保護政策</u>所確定的處理您的個人資料的目的，並且您同意 ConnectLife, LLC 公司。可能會使用您的個人資訊來提供下述服務。",
+    "CL_CF_HP_hob_zone": "## 區域跑步"
 }

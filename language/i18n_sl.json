@@ -5092,7 +5092,7 @@
     "CL_DV_WM_left_times": "Približno ##-krat",
     "CL_CM_Special_offers": "Posebne ponudbe",
     "CL_DV_DW_permanent_control_warning": "Naprava mora biti vklopljena, vendar ne v ciklu pranja.",
-    "CL_CM_Laundry_shop": "Pralnica perila",
+    "CL_CM_Laundry_shop": "Trgovina",
     "CL_CM_Kitchen_shop": "Trgovina-Kuhinja",
     "CL_CF_how_to_enable_remote_control": "Kako omogočiti daljinski upravljalnik",
     "CL_CF_AB_ru_policy": "POLITIKA VARSTVA PODATKOV",
@@ -5121,6 +5121,7 @@
     "CL_CF_WC_do_not_reset": "NE PONASTAVLJAJ",
     "self_diagnosis_SCAN_Btn": "SCAN",
     "CL_CF_WC_add_bottle": "DODAJ steklenico",
-    "CL_CF_LG_enduser_consent_content_tip": "S tem soglasjem potrjujete, da ste v celoti seznanjeni z namenom obdelave vaših osebnih podatkov, kot ga določa <u> Politika varstva podatkov (URL) </u> in se strinjate, da podjetje ConnectLife, LLC. lahko vaše osebne podatke uporabi za storitve, kot je navedeno spodaj.",
-    "CL_CF_LG_enduser_consent_content_tip2": "S tem soglasjem potrjujete, da ste v celoti seznanjeni z namenom obdelave vaših osebnih podatkov, kot ga določa <u> Politika varstva podatkov </u> in se strinjate, da podjetje ConnectLife, LLC. lahko vaše osebne podatke uporabi za storitve, kot je navedeno spodaj."
+    "CL_DV_WM_detergent_value_too_large": "Vrednost je prevelika!",
+    "CL_CF_LG_enduser_consent_tips": "S tem soglasjem potrjujete, da ste v celoti seznanjeni z namenom obdelave vaših osebnih podatkov, kot ga določa <u> Politika varstva podatkov </u> in se strinjate, da podjetje ConnectLife, LLC. lahko vaše osebne podatke uporabi za storitve, kot je navedeno spodaj.",
+    "CL_CF_HP_hob_zone": "## Območni tek"
 }
