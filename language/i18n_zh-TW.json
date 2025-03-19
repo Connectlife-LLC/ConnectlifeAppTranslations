@@ -5129,9 +5129,13 @@
     "ios_widget_extension_routine_sub_title": "智慧例程",
     "ios_widget_extension_routine_describe": "快速運行手動例程。",
     "ios_widget_extension_routine_sub_describe": "ios_widget_extension_routine_sub_describe",
-    "ios_widget_extension_routine_content": "點擊該小工具以前往 ConnectLife 的「自動化」標籤。 \\n \\n長按小工具，點選「編輯小工具」即可管理日常事務，具體操作請參考「裝置」部分。 \\n \\n自動例程是透過觸發而不是點擊來執行的，因此小部件中僅支援手動例程。對於已新增至小工具的例程，您可以點擊跳到 ConnectLife 中的「自動化」並快速運行它。",
-    "ios_widget_extension_devices_content": "點擊該小工具以前往 ConnectLife 的「裝置」標籤。 \\n \\n長按小部件，點擊「編輯小部件」可以管理設備，您可以選擇新的設備在小部件中顯示或替換小部件中已有的設備，對於支援多設備的小部件，還可以調整它們之間的順序。對於已新增至小工具的設備，您可以快速檢查其狀態。 \\n \\n如果裝置支援快捷切換，則小工具中會額外顯示一個支援快捷切換的按鈕。可以將其他裝置新增至「例程」中，以便進行快速切換等複雜操作。",
     "ios_widget_extension_room_title": "房間空調",
-    "ios_widget_extension_room_content": "點擊該小工具進入 ConnectLife 的「空氣護理」頁面。 \\n \\n長按小工具，點選「編輯小工具」即可管理房間，具體操作請參考「裝置」部分。 \\n \\n房間環境資訊與空調、第三方偵測器等設備關聯，未與設備綁定或設備離線時，小組件無法顯示。",
-    "ios_widget_extension_energy_content": "點擊該小工具前往 ConnectLife 的「能源」頁面。 \\n \\n如果家中配備了逆變器，則在小部件中顯示“生產”、“消耗”、“碳減排”和“估計賬單”，否則只顯示“消耗”。"
+    "ios_widget_extension_guide_title": "如何使用小工具？",
+    "CL_CM_routines": "慣例",
+    "CL_CM_Product_page": "產品頁面",
+    "ios_widget_extension_routine_content": "點擊該小工具以前往 ConnectLife 的「自動化」標籤。 \n \n長按小部件，點擊「編輯小部件」即可管理日常事務，具體操作請參考「設備」部分。 \n \n自動例程是透過觸發而不是點擊來執行的，因此小部件中僅支援手動例程。對於已新增至小工具的例程，您可以點擊跳到 ConnectLife 中的「自動化」並快速運行它。",
+    "ios_widget_extension_devices_content": "點擊該小工具以前往 ConnectLife 的「裝置」標籤。 \n \n長按小部件，點擊「編輯小部件」來管理設備，您可以選擇新設備在小部件中顯示或替換小部件中已有的設備，並調整它們之間的順序，以支援多設備的小部件。對於已新增至小工具的設備，您可以快速檢查其狀態。 \n \n如果裝置支援快速切換，則小工具會額外顯示一個支援快速切換的按鈕。可以將其他裝置新增至「例程」中，以便進行快速切換等複雜操作。",
+    "ios_widget_extension_room_content": "點擊該小工具進入 ConnectLife 的「空氣護理」頁面。 \n \n長按小部件，點擊「編輯小部件」即可管理房間，具體操作請參考「設備」部分。 \n \n房間環境資訊與空調、第三方偵測器等設備關聯，在未綁定設備或設備離線時，小部件無法顯示。",
+    "ios_widget_extension_energy_content": "點擊該小工具前往 ConnectLife 的「能源」頁面。 \n \n如果家中配備了逆變器，則在小部件中顯示“生產”、“消耗”、“碳減排”和“估計賬單”，否則只顯示“消耗”。",
+    "CL_CF_WC_no_bottles": "庫存中尚無任何瓶子"
 }
