@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Ελέγξτε αυτόματα τις συσκευές σας όταν πλησιάζετε στο σπίτι.",
     "CL_CF_GEO_enable_leaving_sf": "Ενεργοποιήστε την έξοδο από το Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Ελέγξτε αυτόματα τις συσκευές σας όταν φεύγετε από το σπίτι.",
-    "CL_CF_GEO_fencing_setting": "Ρύθμιση φράχτη"
+    "CL_CF_GEO_fencing_setting": "Ρύθμιση φράχτη",
+    "NSPhotoLibraryUsageDescription": "Η εφαρμογή χρειάζεται πρόσβαση στις άδειες της βιβλιοθήκης φωτογραφιών σας για τις προσωπικές ρυθμίσεις avatar",
+    "NSLocationWhenInUseUsageDescription": "Η εφαρμογή πρέπει να εκχωρήσει την τοποθεσία στη συσκευή όταν δεσμεύετε τη συσκευή",
+    "NSLocationAlwaysUsageDescription": "Η εφαρμογή πρέπει να εκχωρήσει την τοποθεσία στη συσκευή όταν δεσμεύετε τη συσκευή",
+    "NSBluetoothAlwaysUsageDescription": "Η εφαρμογή ζητά πρόσβαση στο Bluetooth για τη διαχείριση κοντινών συμβατών συσκευών.",
+    "NSLocalNetworkUsageDescription": "Η εφαρμογή πρέπει να εκχωρήσει το δίκτυο στη συσκευή όταν συνδέετε τη συσκευή",
+    "CL_AC_cooling_capacity": "Ψυκτική ικανότητα",
+    "CL_AC_heating_capacity": "Ικανότητα θέρμανσης"
 }

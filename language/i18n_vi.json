@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Tự động điều khiển các thiết bị khi bạn về đến nhà.",
     "CL_CF_GEO_enable_leaving_sf": "Bật chức năng Rời khỏi Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Tự động điều khiển các thiết bị của bạn khi bạn ra khỏi nhà.",
-    "CL_CF_GEO_fencing_setting": "Thiết lập hàng rào"
+    "CL_CF_GEO_fencing_setting": "Thiết lập hàng rào",
+    "NSPhotoLibraryUsageDescription": "Ứng dụng cần quyền truy cập vào thư viện ảnh của bạn để cài đặt hình đại diện cá nhân",
+    "NSLocationWhenInUseUsageDescription": "Ứng dụng cần phải chỉ định vị trí cho thiết bị khi bạn liên kết thiết bị",
+    "NSLocationAlwaysUsageDescription": "Ứng dụng cần phải chỉ định vị trí cho thiết bị khi bạn liên kết thiết bị",
+    "NSBluetoothAlwaysUsageDescription": "Ứng dụng đang yêu cầu quyền truy cập Bluetooth để quản lý các thiết bị tương thích ở gần.",
+    "NSLocalNetworkUsageDescription": "Ứng dụng cần phải gán mạng cho thiết bị khi bạn liên kết thiết bị",
+    "CL_AC_cooling_capacity": "Công suất làm mát",
+    "CL_AC_heating_capacity": "Công suất sưởi ấm"
 }

@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Керуйте своїми пристроями автоматично, коли підходите додому.",
     "CL_CF_GEO_enable_leaving_sf": "Увімкнути вихід із Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Керуйте своїми пристроями автоматично, коли виходите з дому.",
-    "CL_CF_GEO_fencing_setting": "Установка огорожі"
+    "CL_CF_GEO_fencing_setting": "Установка огорожі",
+    "NSPhotoLibraryUsageDescription": "Додатку потрібен доступ до дозволів вашої бібліотеки фотографій для налаштувань особистого аватара",
+    "NSLocationWhenInUseUsageDescription": "Програма повинна призначити місцезнаходження пристрою, коли ви прив’язуєте пристрій",
+    "NSLocationAlwaysUsageDescription": "Програма повинна призначити місцезнаходження пристрою, коли ви прив’язуєте пристрій",
+    "NSBluetoothAlwaysUsageDescription": "Програма запитує доступ до Bluetooth для керування сумісними пристроями поблизу.",
+    "NSLocalNetworkUsageDescription": "Програма повинна призначити мережу для пристрою, коли ви прив’язуєте пристрій",
+    "CL_AC_cooling_capacity": "Потужність охолодження",
+    "CL_AC_heating_capacity": "Теплова потужність"
 }

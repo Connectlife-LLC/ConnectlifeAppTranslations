@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "ควบคุมอุปกรณ์ของคุณโดยอัตโนมัติเมื่อคุณใกล้ถึงบ้าน",
     "CL_CF_GEO_enable_leaving_sf": "เปิดใช้งานการออกจาก Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "ควบคุมอุปกรณ์ของคุณโดยอัตโนมัติเมื่อคุณออกจากบ้าน",
-    "CL_CF_GEO_fencing_setting": "การตั้งรั้ว"
+    "CL_CF_GEO_fencing_setting": "การตั้งรั้ว",
+    "NSPhotoLibraryUsageDescription": "แอปจำเป็นต้องเข้าถึงสิทธิ์การเข้าถึงคลังภาพของคุณเพื่อตั้งค่าอวาตาร์ส่วนตัว",
+    "NSLocationWhenInUseUsageDescription": "แอปจำเป็นต้องกำหนดตำแหน่งให้กับอุปกรณ์เมื่อคุณเชื่อมโยงอุปกรณ์",
+    "NSLocationAlwaysUsageDescription": "แอปจำเป็นต้องกำหนดตำแหน่งให้กับอุปกรณ์เมื่อคุณเชื่อมโยงอุปกรณ์",
+    "NSBluetoothAlwaysUsageDescription": "แอปกำลังร้องขอการเข้าถึงบลูทูธเพื่อจัดการอุปกรณ์ที่เข้ากันได้ในบริเวณใกล้เคียง",
+    "NSLocalNetworkUsageDescription": "แอปจำเป็นต้องกำหนดเครือข่ายให้กับอุปกรณ์เมื่อคุณเชื่อมโยงอุปกรณ์",
+    "CL_AC_cooling_capacity": "ความสามารถในการทำความเย็น",
+    "CL_AC_heating_capacity": "ความสามารถในการให้ความร้อน"
 }

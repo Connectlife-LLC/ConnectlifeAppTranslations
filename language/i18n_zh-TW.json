@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "當您快到家時自動控制您的設備。",
     "CL_CF_GEO_enable_leaving_sf": "啟用離開智慧圍欄",
     "CL_CF_GEO_enable_leaving_sf_desp": "當您離開家時自動控制您的裝置。",
-    "CL_CF_GEO_fencing_setting": "圍欄設置"
+    "CL_CF_GEO_fencing_setting": "圍欄設置",
+    "NSPhotoLibraryUsageDescription": "應用程式需要存取您的照片庫權限才能進行個人頭像設置",
+    "NSLocationWhenInUseUsageDescription": "綁定設備時，App需要為設備分配位置",
+    "NSLocationAlwaysUsageDescription": "綁定設備時，App需要為設備分配位置",
+    "NSBluetoothAlwaysUsageDescription": "應用程式正在請求存取藍牙來管理附近的相容設備。",
+    "NSLocalNetworkUsageDescription": "綁定設備時，App需要為設備分配網絡",
+    "CL_AC_cooling_capacity": "冷卻能力",
+    "CL_AC_heating_capacity": "加熱能力"
 }

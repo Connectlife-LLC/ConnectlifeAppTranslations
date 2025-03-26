@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Ovládajte svoje zariadenia automaticky, keď sa blížite domov.",
     "CL_CF_GEO_enable_leaving_sf": "Povoliť opustenie Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Ovládajte svoje zariadenia automaticky, keď odchádzate z domu.",
-    "CL_CF_GEO_fencing_setting": "Nastavenie plotu"
+    "CL_CF_GEO_fencing_setting": "Nastavenie plotu",
+    "NSPhotoLibraryUsageDescription": "Aplikácia potrebuje prístup k povoleniam vašej knižnice fotiek na nastavenia osobných avatarov",
+    "NSLocationWhenInUseUsageDescription": "Keď pripojíte zariadenie, aplikácia musí priradiť polohu k zariadeniu",
+    "NSLocationAlwaysUsageDescription": "Aplikácia potrebuje priradiť polohu k zariadeniu, keď spájate zariadenie",
+    "NSBluetoothAlwaysUsageDescription": "Aplikácia vyžaduje prístup k Bluetooth na správu kompatibilných zariadení v okolí.",
+    "NSLocalNetworkUsageDescription": "Keď pripojíte zariadenie, aplikácia musí priradiť sieť k zariadeniu",
+    "CL_AC_cooling_capacity": "Chladiaca kapacita",
+    "CL_AC_heating_capacity": "Kapacita vykurovania"
 }

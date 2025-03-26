@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "שלוט במכשירים שלך באופן אוטומטי כאשר אתה מתקרב הביתה.",
     "CL_CF_GEO_enable_leaving_sf": "אפשר Leaving Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "שלוט במכשירים שלך באופן אוטומטי כאשר אתה עוזב את הבית.",
-    "CL_CF_GEO_fencing_setting": "הגדרת גדר"
+    "CL_CF_GEO_fencing_setting": "הגדרת גדר",
+    "NSPhotoLibraryUsageDescription": "האפליקציה צריכה גישה להרשאות ספריית התמונות שלך עבור הגדרות אווטאר אישיות",
+    "NSLocationWhenInUseUsageDescription": "האפליקציה צריכה להקצות את המיקום למכשיר כאשר אתה מקשר את המכשיר",
+    "NSLocationAlwaysUsageDescription": "האפליקציה צריכה להקצות את המיקום למכשיר כאשר אתה מקשר את המכשיר",
+    "NSBluetoothAlwaysUsageDescription": "האפליקציה מבקשת גישה ל-Bluetooth כדי לנהל מכשירים תואמים בקרבת מקום.",
+    "NSLocalNetworkUsageDescription": "האפליקציה צריכה להקצות את הרשת למכשיר כאשר אתה מקשר את המכשיר",
+    "CL_AC_cooling_capacity": "קיבולת קירור",
+    "CL_AC_heating_capacity": "קיבולת חימום"
 }

@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Үйге жақындаған кезде құрылғыларды автоматты түрде басқарыңыз.",
     "CL_CF_GEO_enable_leaving_sf": "Ақылды қоршаудан шығуды қосыңыз",
     "CL_CF_GEO_enable_leaving_sf_desp": "Үйден шыққан кезде құрылғыларды автоматты түрде басқарыңыз.",
-    "CL_CF_GEO_fencing_setting": "Қоршауды орнату"
+    "CL_CF_GEO_fencing_setting": "Қоршауды орнату",
+    "NSPhotoLibraryUsageDescription": "Қолданбаға жеке аватар параметрлері үшін фото кітапхана рұқсаттарыңызға кіру қажет",
+    "NSLocationWhenInUseUsageDescription": "Құрылғыны байланыстырған кезде қолданба құрылғыға орынды тағайындауы керек",
+    "NSLocationAlwaysUsageDescription": "Құрылғыны байланыстырған кезде қолданба құрылғыға орынды тағайындауы керек",
+    "NSBluetoothAlwaysUsageDescription": "Қолданба жақын маңдағы үйлесімді құрылғыларды басқару үшін Bluetooth желісіне кіруді сұрауда.",
+    "NSLocalNetworkUsageDescription": "Құрылғыны байланыстырған кезде қолданба желіні құрылғыға тағайындауы керек",
+    "CL_AC_cooling_capacity": "Салқындату сыйымдылығы",
+    "CL_AC_heating_capacity": "Жылыту сыйымдылығы"
 }

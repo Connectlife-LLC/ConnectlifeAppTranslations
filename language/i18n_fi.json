@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Ohjaa laitteitasi automaattisesti, kun lähestyt kotia.",
     "CL_CF_GEO_enable_leaving_sf": "Ota Smart-Fencesta poistuminen käyttöön",
     "CL_CF_GEO_enable_leaving_sf_desp": "Ohjaa laitteitasi automaattisesti, kun lähdet kotoa.",
-    "CL_CF_GEO_fencing_setting": "Aidan asetus"
+    "CL_CF_GEO_fencing_setting": "Aidan asetus",
+    "NSPhotoLibraryUsageDescription": "Sovellus tarvitsee pääsyn valokuvakirjastosi käyttöoikeuksiin henkilökohtaisten avatar-asetusten käyttöä varten",
+    "NSLocationWhenInUseUsageDescription": "Sovelluksen on määritettävä sijainti laitteelle, kun sitot laitteen",
+    "NSLocationAlwaysUsageDescription": "Sovelluksen on määritettävä sijainti laitteelle, kun sitot laitteen",
+    "NSBluetoothAlwaysUsageDescription": "Sovellus pyytää pääsyä Bluetoothiin hallitakseen lähellä olevia yhteensopivia laitteita.",
+    "NSLocalNetworkUsageDescription": "Sovelluksen on määritettävä verkko laitteelle, kun yhdistät laitteen",
+    "CL_AC_cooling_capacity": "Jäähdytyskapasiteetti",
+    "CL_AC_heating_capacity": "Lämmityskapasiteetti"
 }

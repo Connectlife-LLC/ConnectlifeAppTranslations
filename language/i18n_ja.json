@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "家に近づくとデバイスを自動的に制御します。",
     "CL_CF_GEO_enable_leaving_sf": "スマートフェンスからの退出を有効にする",
     "CL_CF_GEO_enable_leaving_sf_desp": "家を出るときにデバイスを自動的に制御します。",
-    "CL_CF_GEO_fencing_setting": "フェンスの設定"
+    "CL_CF_GEO_fencing_setting": "フェンスの設定",
+    "NSPhotoLibraryUsageDescription": "アプリは個人のアバター設定のために写真ライブラリの権限にアクセスする必要があります",
+    "NSLocationWhenInUseUsageDescription": "デバイスをバインドするときにアプリがデバイスに位置情報を割り当てる必要がある",
+    "NSLocationAlwaysUsageDescription": "デバイスをバインドするときにアプリがデバイスに位置情報を割り当てる必要がある",
+    "NSBluetoothAlwaysUsageDescription": "アプリは近くの互換性のあるデバイスを管理するために Bluetooth へのアクセスを要求しています。",
+    "NSLocalNetworkUsageDescription": "デバイスをバインドするときに、アプリはデバイスにネットワークを割り当てる必要があります",
+    "CL_AC_cooling_capacity": "冷却能力",
+    "CL_AC_heating_capacity": "暖房能力"
 }

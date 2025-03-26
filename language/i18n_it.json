@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Controlla automaticamente i tuoi dispositivi quando ti avvicini a casa.",
     "CL_CF_GEO_enable_leaving_sf": "Abilita l'uscita da Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Controlla automaticamente i tuoi dispositivi quando esci di casa.",
-    "CL_CF_GEO_fencing_setting": "Impostazione della recinzione"
+    "CL_CF_GEO_fencing_setting": "Impostazione della recinzione",
+    "NSPhotoLibraryUsageDescription": "L'app necessita di accesso alle autorizzazioni della tua libreria di foto per le impostazioni dell'avatar personale",
+    "NSLocationWhenInUseUsageDescription": "L'app deve assegnare la posizione al dispositivo quando si associa il dispositivo",
+    "NSLocationAlwaysUsageDescription": "L'app deve assegnare la posizione al dispositivo quando si associa il dispositivo",
+    "NSBluetoothAlwaysUsageDescription": "L'app richiede l'accesso al Bluetooth per gestire i dispositivi compatibili nelle vicinanze.",
+    "NSLocalNetworkUsageDescription": "L'app deve assegnare la rete al dispositivo quando si associa il dispositivo",
+    "CL_AC_cooling_capacity": "Capacità di raffreddamento",
+    "CL_AC_heating_capacity": "Capacità di riscaldamento"
 }

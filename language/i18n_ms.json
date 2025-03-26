@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Kawal peranti anda secara automatik apabila anda hampir ke rumah.",
     "CL_CF_GEO_enable_leaving_sf": "Dayakan Leving Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Kawal peranti anda secara automatik apabila anda meninggalkan rumah.",
-    "CL_CF_GEO_fencing_setting": "Tetapan pagar"
+    "CL_CF_GEO_fencing_setting": "Tetapan pagar",
+    "NSPhotoLibraryUsageDescription": "Apl memerlukan akses kepada kebenaran pustaka foto anda untuk tetapan avatar peribadi",
+    "NSLocationWhenInUseUsageDescription": "Apl perlu menetapkan lokasi kepada peranti apabila anda mengikat peranti",
+    "NSLocationAlwaysUsageDescription": "Apl perlu menetapkan lokasi kepada peranti apabila anda mengikat peranti",
+    "NSBluetoothAlwaysUsageDescription": "Apl meminta akses kepada Bluetooth untuk mengurus peranti serasi berdekatan.",
+    "NSLocalNetworkUsageDescription": "Apl perlu memperuntukkan rangkaian kepada peranti apabila anda mengikat peranti",
+    "CL_AC_cooling_capacity": "Kapasiti Penyejukan",
+    "CL_AC_heating_capacity": "Kapasiti Pemanasan"
 }

@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Automatikusan vezérelheti eszközeit, amikor közeledik otthonához.",
     "CL_CF_GEO_enable_leaving_sf": "A Smart-Fence elhagyása engedélyezése",
     "CL_CF_GEO_enable_leaving_sf_desp": "Automatikusan vezérelheti eszközeit, amikor elhagyja otthonát.",
-    "CL_CF_GEO_fencing_setting": "Kerítés beállítása"
+    "CL_CF_GEO_fencing_setting": "Kerítés beállítása",
+    "NSPhotoLibraryUsageDescription": "Az alkalmazásnak hozzá kell férnie a fotókönyvtár engedélyeihez a személyes avatar-beállításokhoz",
+    "NSLocationWhenInUseUsageDescription": "Az alkalmazásnak hozzá kell rendelnie a helyet az eszközhöz, amikor összekapcsolja az eszközt",
+    "NSLocationAlwaysUsageDescription": "Az alkalmazásnak hozzá kell rendelnie a helyet az eszközhöz, amikor összekapcsolja az eszközt",
+    "NSBluetoothAlwaysUsageDescription": "Az alkalmazás hozzáférést kér a Bluetooth-hoz a közeli kompatibilis eszközök kezeléséhez.",
+    "NSLocalNetworkUsageDescription": "Az alkalmazásnak hozzá kell rendelnie a hálózatot az eszközhöz, amikor összekapcsolja az eszközt",
+    "CL_AC_cooling_capacity": "Hűtési kapacitás",
+    "CL_AC_heating_capacity": "Fűtési kapacitás"
 }

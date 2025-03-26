@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "قم بالتحكم في أجهزتك تلقائيًا عند اقترابك من المنزل.",
     "CL_CF_GEO_enable_leaving_sf": "تمكين مغادرة السياج الذكي",
     "CL_CF_GEO_enable_leaving_sf_desp": "قم بالتحكم في أجهزتك تلقائيًا عند مغادرة المنزل.",
-    "CL_CF_GEO_fencing_setting": "إعداد السياج"
+    "CL_CF_GEO_fencing_setting": "إعداد السياج",
+    "NSPhotoLibraryUsageDescription": "يحتاج التطبيق إلى الوصول إلى أذونات مكتبة الصور الخاصة بك لإعدادات الصورة الرمزية الشخصية",
+    "NSLocationWhenInUseUsageDescription": "يحتاج التطبيق إلى تعيين الموقع للجهاز عند ربط الجهاز",
+    "NSLocationAlwaysUsageDescription": "يحتاج التطبيق إلى تعيين الموقع للجهاز عند ربط الجهاز",
+    "NSBluetoothAlwaysUsageDescription": "يطلب التطبيق الوصول إلى البلوتوث لإدارة الأجهزة المتوافقة القريبة.",
+    "NSLocalNetworkUsageDescription": "يحتاج التطبيق إلى تعيين الشبكة للجهاز عند ربط الجهاز",
+    "CL_AC_cooling_capacity": "سعة التبريد",
+    "CL_AC_heating_capacity": "سعة التدفئة"
 }

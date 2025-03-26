@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Controlați automat dispozitivele când vă apropiați de casă.",
     "CL_CF_GEO_enable_leaving_sf": "Activați Ieșirea Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Controlați automat dispozitivele când plecați de acasă.",
-    "CL_CF_GEO_fencing_setting": "Setarea gardului"
+    "CL_CF_GEO_fencing_setting": "Setarea gardului",
+    "NSPhotoLibraryUsageDescription": "Aplicația are nevoie de acces la permisiunile bibliotecii dvs. de fotografii pentru setările personale pentru avatar",
+    "NSLocationWhenInUseUsageDescription": "Aplicația trebuie să atribuie locația dispozitivului atunci când legați dispozitivul",
+    "NSLocationAlwaysUsageDescription": "Aplicația trebuie să atribuie locația dispozitivului atunci când legați dispozitivul",
+    "NSBluetoothAlwaysUsageDescription": "Aplicația solicită acces la Bluetooth pentru a gestiona dispozitivele compatibile din apropiere.",
+    "NSLocalNetworkUsageDescription": "Aplicația trebuie să atribuie rețeaua dispozitivului atunci când legați dispozitivul",
+    "CL_AC_cooling_capacity": "Capacitatea de racire",
+    "CL_AC_heating_capacity": "Capacitatea de incalzire"
 }
