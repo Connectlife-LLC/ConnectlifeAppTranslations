@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "هنگامی که به خانه نزدیک می شوید، دستگاه های خود را به طور خودکار کنترل کنید.",
     "CL_CF_GEO_enable_leaving_sf": "خروج از حصار هوشمند را فعال کنید",
     "CL_CF_GEO_enable_leaving_sf_desp": "هنگامی که خانه را ترک می کنید، دستگاه های خود را به طور خودکار کنترل کنید.",
-    "CL_CF_GEO_fencing_setting": "تنظیم حصار"
+    "CL_CF_GEO_fencing_setting": "تنظیم حصار",
+    "NSPhotoLibraryUsageDescription": "برنامه برای تنظیمات آواتار شخصی نیاز به دسترسی به مجوزهای کتابخانه عکس شما دارد",
+    "NSLocationWhenInUseUsageDescription": "وقتی دستگاه را متصل می‌کنید، برنامه باید مکان را به دستگاه اختصاص دهد",
+    "NSLocationAlwaysUsageDescription": "وقتی دستگاه را متصل می‌کنید، برنامه باید مکان را به دستگاه اختصاص دهد",
+    "NSBluetoothAlwaysUsageDescription": "برنامه در حال درخواست دسترسی به بلوتوث برای مدیریت دستگاه‌های سازگار نزدیک است.",
+    "NSLocalNetworkUsageDescription": "وقتی دستگاه را متصل می‌کنید، برنامه باید شبکه را به دستگاه اختصاص دهد",
+    "CL_AC_cooling_capacity": "ظرفیت خنک کننده",
+    "CL_AC_heating_capacity": "ظرفیت گرمایشی"
 }

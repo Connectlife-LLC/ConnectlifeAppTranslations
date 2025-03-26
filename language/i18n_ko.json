@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "집에 가까워지면 자동으로 기기를 제어하세요.",
     "CL_CF_GEO_enable_leaving_sf": "스마트펜스 떠나기 활성화",
     "CL_CF_GEO_enable_leaving_sf_desp": "집을 나설 때 자동으로 기기를 제어하세요.",
-    "CL_CF_GEO_fencing_setting": "울타리 설정"
+    "CL_CF_GEO_fencing_setting": "울타리 설정",
+    "NSPhotoLibraryUsageDescription": "앱은 개인 아바타 설정을 위해 사진 라이브러리 권한에 액세스해야 합니다.",
+    "NSLocationWhenInUseUsageDescription": "기기를 바인딩할 때 앱은 기기에 위치를 할당해야 합니다.",
+    "NSLocationAlwaysUsageDescription": "기기를 바인딩할 때 앱은 기기에 위치를 할당해야 합니다.",
+    "NSBluetoothAlwaysUsageDescription": "앱은 근처의 호환 기기를 관리하기 위해 Bluetooth에 대한 액세스를 요청합니다.",
+    "NSLocalNetworkUsageDescription": "장치를 바인딩할 때 앱은 장치에 네트워크를 할당해야 합니다.",
+    "CL_AC_cooling_capacity": "냉각 용량",
+    "CL_AC_heating_capacity": "가열 용량"
 }

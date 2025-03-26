@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Kendalikan perangkat Anda secara otomatis saat Anda mendekati rumah.",
     "CL_CF_GEO_enable_leaving_sf": "Aktifkan Keluar dari Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Kendalikan perangkat Anda secara otomatis saat Anda meninggalkan rumah.",
-    "CL_CF_GEO_fencing_setting": "Pengaturan pagar"
+    "CL_CF_GEO_fencing_setting": "Pengaturan pagar",
+    "NSPhotoLibraryUsageDescription": "Aplikasi memerlukan akses ke izin perpustakaan foto Anda untuk pengaturan avatar pribadi",
+    "NSLocationWhenInUseUsageDescription": "Aplikasi perlu menetapkan lokasi ke perangkat saat Anda mengikat perangkat",
+    "NSLocationAlwaysUsageDescription": "Aplikasi perlu menetapkan lokasi ke perangkat saat Anda mengikat perangkat",
+    "NSBluetoothAlwaysUsageDescription": "Aplikasi meminta akses ke Bluetooth untuk mengelola perangkat kompatibel di dekatnya.",
+    "NSLocalNetworkUsageDescription": "Aplikasi perlu menetapkan jaringan ke perangkat saat Anda mengikat perangkat",
+    "CL_AC_cooling_capacity": "Kapasitas Pendinginan",
+    "CL_AC_heating_capacity": "Kapasitas Pemanasan"
 }

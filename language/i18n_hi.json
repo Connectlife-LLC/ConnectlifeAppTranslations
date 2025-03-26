@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "जब आप घर के पास पहुंचें तो अपने डिवाइस को स्वचालित रूप से नियंत्रित करें।",
     "CL_CF_GEO_enable_leaving_sf": "स्मार्ट-फ़ेंस छोड़ना सक्षम करें",
     "CL_CF_GEO_enable_leaving_sf_desp": "जब आप घर से बाहर जा रहे हों तो अपने डिवाइस को स्वचालित रूप से नियंत्रित करें।",
-    "CL_CF_GEO_fencing_setting": "बाड़ लगाना"
+    "CL_CF_GEO_fencing_setting": "बाड़ लगाना",
+    "NSPhotoLibraryUsageDescription": "ऐप को व्यक्तिगत अवतार सेटिंग के लिए आपकी फोटो लाइब्रेरी अनुमतियों तक पहुंच की आवश्यकता है",
+    "NSLocationWhenInUseUsageDescription": "जब आप डिवाइस को बाइंड करते हैं तो ऐप को डिवाइस को स्थान निर्दिष्ट करने की आवश्यकता होती है",
+    "NSLocationAlwaysUsageDescription": "जब आप डिवाइस को बाइंड करते हैं तो ऐप को डिवाइस को स्थान निर्दिष्ट करने की आवश्यकता होती है",
+    "NSBluetoothAlwaysUsageDescription": "ऐप आस-पास के संगत डिवाइसों को प्रबंधित करने के लिए ब्लूटूथ तक पहुंच का अनुरोध कर रहा है।",
+    "NSLocalNetworkUsageDescription": "जब आप डिवाइस को बाइंड करते हैं तो ऐप को डिवाइस को नेटवर्क असाइन करना पड़ता है",
+    "CL_AC_cooling_capacity": "शीतलन क्षमता",
+    "CL_AC_heating_capacity": "ताप क्षमता"
 }

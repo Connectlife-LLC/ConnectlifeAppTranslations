@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Samodejno upravljajte svoje naprave, ko se približujete domu.",
     "CL_CF_GEO_enable_leaving_sf": "Omogoči zapuščanje Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Samodejno upravljajte svoje naprave, ko greste od doma.",
-    "CL_CF_GEO_fencing_setting": "Postavitev ograje"
+    "CL_CF_GEO_fencing_setting": "Postavitev ograje",
+    "NSPhotoLibraryUsageDescription": "Aplikacija potrebuje dostop do dovoljenj vaše knjižnice fotografij za nastavitve osebnega avatarja",
+    "NSLocationWhenInUseUsageDescription": "Aplikacija mora napravi dodeliti lokacijo, ko napravo povežete",
+    "NSLocationAlwaysUsageDescription": "Aplikacija mora napravi dodeliti lokacijo, ko napravo povežete",
+    "NSBluetoothAlwaysUsageDescription": "Aplikacija zahteva dostop do Bluetootha za upravljanje združljivih naprav v bližini.",
+    "NSLocalNetworkUsageDescription": "Aplikacija mora napravi dodeliti omrežje, ko napravo povežete",
+    "CL_AC_cooling_capacity": "Hladilna zmogljivost",
+    "CL_AC_heating_capacity": "Zmogljivost ogrevanja"
 }

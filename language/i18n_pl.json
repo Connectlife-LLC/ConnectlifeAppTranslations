@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Steruj urządzeniami automatycznie, gdy zbliżasz się do domu.",
     "CL_CF_GEO_enable_leaving_sf": "Włącz opuszczanie inteligentnego ogrodzenia",
     "CL_CF_GEO_enable_leaving_sf_desp": "Automatycznie steruj swoimi urządzeniami, gdy wychodzisz z domu.",
-    "CL_CF_GEO_fencing_setting": "Ustawienie ogrodzenia"
+    "CL_CF_GEO_fencing_setting": "Ustawienie ogrodzenia",
+    "NSPhotoLibraryUsageDescription": "Aplikacja potrzebuje dostępu do Twojej biblioteki zdjęć, aby móc korzystać z ustawień osobistego awatara",
+    "NSLocationWhenInUseUsageDescription": "Aplikacja musi przypisać lokalizację do urządzenia podczas jego łączenia",
+    "NSLocationAlwaysUsageDescription": "Aplikacja musi przypisać lokalizację do urządzenia podczas jego łączenia",
+    "NSBluetoothAlwaysUsageDescription": "Aplikacja żąda dostępu do Bluetooth w celu zarządzania pobliskimi kompatybilnymi urządzeniami.",
+    "NSLocalNetworkUsageDescription": "Aplikacja musi przypisać sieć do urządzenia podczas łączenia urządzenia",
+    "CL_AC_cooling_capacity": "Wydajność chłodzenia",
+    "CL_AC_heating_capacity": "Moc grzewcza"
 }

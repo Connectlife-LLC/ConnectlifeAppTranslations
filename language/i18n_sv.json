@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Styr dina enheter automatiskt när du närmar dig hem.",
     "CL_CF_GEO_enable_leaving_sf": "Aktivera Leaving Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Styr dina enheter automatiskt när du går hemifrån.",
-    "CL_CF_GEO_fencing_setting": "Inställning av staket"
+    "CL_CF_GEO_fencing_setting": "Inställning av staket",
+    "NSPhotoLibraryUsageDescription": "Appen behöver åtkomst till ditt fotobiblioteks behörigheter för personliga avatarinställningar",
+    "NSLocationWhenInUseUsageDescription": "Appen måste tilldela platsen till enheten när du binder enheten",
+    "NSLocationAlwaysUsageDescription": "Appen måste tilldela platsen till enheten när du binder enheten",
+    "NSBluetoothAlwaysUsageDescription": "Appen begär åtkomst till Bluetooth för att hantera kompatibla enheter i närheten.",
+    "NSLocalNetworkUsageDescription": "Appen måste tilldela nätverket till enheten när du binder enheten",
+    "CL_AC_cooling_capacity": "Kylkapacitet",
+    "CL_AC_heating_capacity": "Värmekapacitet"
 }

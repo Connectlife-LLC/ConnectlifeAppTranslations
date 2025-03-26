@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Eve yaklaştığınızda cihazlarınızı otomatik olarak kontrol edin.",
     "CL_CF_GEO_enable_leaving_sf": "Akıllı Çitten Çıkmayı Etkinleştir",
     "CL_CF_GEO_enable_leaving_sf_desp": "Evden çıktığınızda cihazlarınızı otomatik olarak kontrol edin.",
-    "CL_CF_GEO_fencing_setting": "Çit kurulumu"
+    "CL_CF_GEO_fencing_setting": "Çit kurulumu",
+    "NSPhotoLibraryUsageDescription": "Uygulamanın kişisel avatar ayarları için fotoğraf kitaplığı izinlerinize erişmesi gerekiyor",
+    "NSLocationWhenInUseUsageDescription": "Cihazı bağladığınızda uygulamanın cihaza konumu ataması gerekir",
+    "NSLocationAlwaysUsageDescription": "Cihazı bağladığınızda uygulamanın cihaza konumu ataması gerekir",
+    "NSBluetoothAlwaysUsageDescription": "Uygulama, yakındaki uyumlu cihazları yönetmek için Bluetooth'a erişim istiyor.",
+    "NSLocalNetworkUsageDescription": "Cihazı bağladığınızda uygulamanın ağ bağlantısını cihaza ataması gerekir",
+    "CL_AC_cooling_capacity": "Soğutma Kapasitesi",
+    "CL_AC_heating_capacity": "Isıtma Kapasitesi"
 }

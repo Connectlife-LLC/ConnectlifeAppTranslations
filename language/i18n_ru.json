@@ -467,7 +467,7 @@
     "warm": "ТЕПЛЫЙ",
     "cold": "Охлаждение",
     "firmware_confirm_foa_fail": "Требуется разрешение от прибора.",
-    "ok": "OK",
+    "ok": "ХОРОШО",
     "unselected_delete_user": "Проверьте удаление пользователя",
     "ac_input_email": "Введите адрес электронной почты учетной записи",
     "ac_wrong_email": "Адрес электронной почты недействителен",
@@ -5153,5 +5153,12 @@
     "CL_CF_GEO_enable_arriving_sf_desp": "Автоматически управляйте своими устройствами, когда вы приближаетесь к дому.",
     "CL_CF_GEO_enable_leaving_sf": "Включить выход из Smart-Fence",
     "CL_CF_GEO_enable_leaving_sf_desp": "Управляйте своими устройствами автоматически, когда вы уходите из дома.",
-    "CL_CF_GEO_fencing_setting": "Установка забора"
+    "CL_CF_GEO_fencing_setting": "Установка забора",
+    "NSPhotoLibraryUsageDescription": "Приложению необходим доступ к разрешениям вашей библиотеки фотографий для настройки персонального аватара.",
+    "NSLocationWhenInUseUsageDescription": "Приложению необходимо назначить местоположение устройству при его привязке.",
+    "NSLocationAlwaysUsageDescription": "Приложению необходимо назначить местоположение устройству при его привязке.",
+    "NSBluetoothAlwaysUsageDescription": "Приложение запрашивает доступ к Bluetooth для управления близлежащими совместимыми устройствами.",
+    "NSLocalNetworkUsageDescription": "Приложению необходимо назначить сеть устройству при его привязке.",
+    "CL_AC_cooling_capacity": "Мощность охлаждения",
+    "CL_AC_heating_capacity": "Теплопроизводительность"
 }
