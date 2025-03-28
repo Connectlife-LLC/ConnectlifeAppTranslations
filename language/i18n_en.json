@@ -5176,5 +5176,6 @@
     "CL_TV_DV_dish_done": "Your dishes are clean !",
     "CL_TV_RM_click_on_the": "Click on the",
     "CL_TV_RM_favorite_button_on": "Favorite Button on the recipe page to add a favorite recipe.",
-    "CL_TV_DV_offline_tips": "Some functionalities can’t be used when the appliance is offline. Try to reconnect your appliance."
+    "CL_TV_DV_offline_tips": "Some functionalities can’t be used when the appliance is offline. Try to reconnect your appliance.",
+    "CL_CF_GEO_geo_widget_desp": "Control devices automatically based on your location"
 }
