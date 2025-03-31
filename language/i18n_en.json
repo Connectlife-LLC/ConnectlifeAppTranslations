@@ -4269,8 +4269,8 @@
     "CL_CF_FM_set_deadline": "Set a deadline",
     "CL_CF_FM_expiry_date_must_be_selected": "Expiry date must be selected",
     "CL_CF_FM_add_custom_food_desc": "Add a new customized item",
-    "CL_CF_FM_delete_selected_items": "Delete Selected Items",
-    "CL_CF_FM_delete_selected": "Delete Selected",
+    "CL_CF_FM_delete_selected_items": "Delete Selected",
+    "CL_CF_FM_delete_selected": "Delete",
     "CL_DV_HOB_residual_heat_content": "The cooking zone is still hot. Be careful not to touch it.",
     "CL_CF_FM_add_custom_food": "Add Food Not Included in The Library",
     "air_care_temp_title": "Temperature evaluation standard:",
@@ -5176,5 +5176,6 @@
     "CL_TV_DV_dish_done": "Your dishes are clean !",
     "CL_TV_RM_click_on_the": "Click on the",
     "CL_TV_RM_favorite_button_on": "Favorite Button on the recipe page to add a favorite recipe.",
-    "CL_TV_DV_offline_tips": "Some functionalities can’t be used when the appliance is offline. Try to reconnect your appliance."
+    "CL_TV_DV_offline_tips": "Some functionalities can’t be used when the appliance is offline. Try to reconnect your appliance.",
+    "CL_CF_GEO_geo_widget_desp": "Control devices automatically based on your location"
 }
