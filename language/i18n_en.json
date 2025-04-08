@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Set the mode of the hood. When the hood is in automatic mode, it will start as soon as the cooking process starts.",
     "CL_DV_HOB_hood_mode_setting_hint": "If the automatic mode is off, the mode will be manual.",
     "CL_DV_HOB_automatic_mode": "Automatic mode",
-    "CL_DV_HOB_refresh_setting_hint": "If the refresh mode is on, the appliance will automatically start using Refresh mode when the hood is active.",
+    "CL_DV_HOB_refresh_setting_hint": "With Refresh mode on, the hood automatically runs for selected duration, every hour to maintain clean air.",
     "CL_DV_HOB_grease_filter_profile_content": "Set the longevity of the grease filter. \n\nP1 is used mainly for boiling and light frying.\nP2 is used for balanced boiling and average frying. P3 is used for heavy frying.",
     "CL_DV_HOB_hood_mode_manual": "Manual",
     "CL_DV_HOB_remove_accessory_content": "Are you sure you want to remove this accessory?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Hover",
     "CL_DV_OV_start_during_sabbath_mode": "Select when the oven program should start during Sabbath mode.",
     "CL_DV_OV_stop_during_sabbath_mode": "Select when the oven program should stop during Sabbath mode.",
-    "CL_DV_OV_stop_time": "Stop time"
+    "CL_DV_OV_stop_time": "Stop time",
+    "CL_DV_OV_sabbath_mode_end": "Select when Sabbath mode should end.",
+    "CL_DV_LC_select_lock_tips": "You can control current door lock and  selected lock at once after turning on.",
+    "CL_DV_LC_auto_lock_tips": "When the door is unlocked, it will automatically lock after  # minutes and @ seconds."
 }

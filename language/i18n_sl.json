@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Nastavite način nape. Ko je napa v samodejnem načinu, se zažene takoj, ko se začne postopek kuhanja.",
     "CL_DV_HOB_hood_mode_setting_hint": "Če je samodejni način izklopljen, bo način ročni.",
     "CL_DV_HOB_automatic_mode": "Samodejni način",
-    "CL_DV_HOB_refresh_setting_hint": "Če je način osveževanja vklopljen, bo naprava samodejno začela uporabljati način osveževanja, ko je napa aktivna.",
+    "CL_DV_HOB_refresh_setting_hint": "Ko je vklopljen način osveževanja, napa samodejno deluje izbrano trajanje vsako uro, da ohranja čist zrak.",
     "CL_DV_HOB_grease_filter_profile_content": "Nastavite dolgo življenjsko dobo maščobnega filtra. \n\n P1 se uporablja predvsem za vrenje in rahlo cvrtje. P2 se uporablja za uravnoteženo vrenje in srednje cvrtje. P3 se uporablja za močno cvrtje.",
     "CL_DV_HOB_hood_mode_manual": "Priročnik",
     "CL_DV_HOB_remove_accessory_content": "Ali ste prepričani, da želite odstraniti to dodatno opremo?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Lebdite",
     "CL_DV_OV_start_during_sabbath_mode": "Izberite, kdaj naj se program pečice začne med načinom Sabbath.",
     "CL_DV_OV_stop_during_sabbath_mode": "Izberite, kdaj naj se program pečice ustavi med načinom Sabbath.",
-    "CL_DV_OV_stop_time": "Ustavi čas"
+    "CL_DV_OV_stop_time": "Ustavi čas",
+    "CL_DV_OV_sabbath_mode_end": "Izberite, kdaj naj se način Sabbath konča.",
+    "CL_DV_LC_select_lock_tips": "Po vklopu lahko hkrati nadzirate trenutno ključavnico vrat in izbrano ključavnico.",
+    "CL_DV_LC_auto_lock_tips": "Ko so vrata odklenjena, se samodejno zaklenejo po 0 minutah in 1 sekundi."
 }

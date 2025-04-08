@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Still inn modus for panseret. Når ventilatoren er i automatisk modus, vil den starte så snart tilberedningsprosessen starter.",
     "CL_DV_HOB_hood_mode_setting_hint": "Hvis den automatiske modusen er av, vil modusen være manuell.",
     "CL_DV_HOB_automatic_mode": "Automatisk modus",
-    "CL_DV_HOB_refresh_setting_hint": "Hvis oppdateringsmodus er på, vil apparatet automatisk begynne å bruke oppdateringsmodus når ventilatoren er aktiv.",
+    "CL_DV_HOB_refresh_setting_hint": "Med oppdateringsmodus på, kjører hetten automatisk i valgt varighet hver time for å opprettholde ren luft.",
     "CL_DV_HOB_grease_filter_profile_content": "Still inn levetiden til fettfilteret. \n\n P1 brukes hovedsakelig til koking og lett steking. P2 brukes til balansert koking og gjennomsnittssteking. P3 brukes til kraftig steking.",
     "CL_DV_HOB_hood_mode_manual": "Håndbok",
     "CL_DV_HOB_remove_accessory_content": "Er du sikker på at du vil fjerne dette tilbehøret?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Hold musepekeren",
     "CL_DV_OV_start_during_sabbath_mode": "Velg når ovnsprogrammet skal starte i sabbatsmodus.",
     "CL_DV_OV_stop_during_sabbath_mode": "Velg når ovnsprogrammet skal stoppe under sabbatsmodus.",
-    "CL_DV_OV_stop_time": "Stopptid"
+    "CL_DV_OV_stop_time": "Stopptid",
+    "CL_DV_OV_sabbath_mode_end": "Velg når sabbatsmodus skal avsluttes.",
+    "CL_DV_LC_select_lock_tips": "Du kan kontrollere gjeldende dørlås og valgt lås samtidig etter at den er slått på.",
+    "CL_DV_LC_auto_lock_tips": "Når døren er ulåst, låses den automatisk etter 0 minutter og 1 sekunder."
 }

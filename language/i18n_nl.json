@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Stel de modus van de afzuigkap in. Wanneer de afzuigkap in de automatische modus staat, start deze zodra het kookproces begint.",
     "CL_DV_HOB_hood_mode_setting_hint": "Als de automatische modus is uitgeschakeld, wordt de modus handmatig ingesteld.",
     "CL_DV_HOB_automatic_mode": "Automatische modus",
-    "CL_DV_HOB_refresh_setting_hint": "Als de refresh-modus is ingeschakeld, start het apparaat automatisch met de Refresh-modus wanneer de afzuigkap actief is.",
+    "CL_DV_HOB_refresh_setting_hint": "Als de Refresh-modus is ingeschakeld, draait de afzuigkap automatisch elk uur gedurende de geselecteerde tijdsduur om de lucht schoon te houden.",
     "CL_DV_HOB_grease_filter_profile_content": "Stel de levensduur van het vetfilter in. \n\n P1 wordt voornamelijk gebruikt voor koken en licht frituren. P2 wordt gebruikt voor gebalanceerd koken en gemiddeld frituren. P3 wordt gebruikt voor zwaar frituren.",
     "CL_DV_HOB_hood_mode_manual": "Handmatig",
     "CL_DV_HOB_remove_accessory_content": "Weet u zeker dat u dit accessoire wilt verwijderen?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Zweven",
     "CL_DV_OV_start_during_sabbath_mode": "Selecteer wanneer het ovenprogramma moet starten tijdens de sabbatmodus.",
     "CL_DV_OV_stop_during_sabbath_mode": "Selecteer wanneer het ovenprogramma moet stoppen tijdens de sabbatmodus.",
-    "CL_DV_OV_stop_time": "Stop de tijd"
+    "CL_DV_OV_stop_time": "Stop de tijd",
+    "CL_DV_OV_sabbath_mode_end": "Selecteer wanneer de sabbatmodus moet eindigen.",
+    "CL_DV_LC_select_lock_tips": "U kunt het huidige deurslot en het geselecteerde slot tegelijk bedienen nadat u het apparaat hebt ingeschakeld.",
+    "CL_DV_LC_auto_lock_tips": "Wanneer de deur ontgrendeld is, wordt deze automatisch vergrendeld na 0 minuten en 1 seconde."
 }

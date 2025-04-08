@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "設定引擎蓋的模式。當抽油煙機處於自動模式時，烹調過程一開始，抽油煙機就會啟動。",
     "CL_DV_HOB_hood_mode_setting_hint": "如果自動模式關閉，則模式將為手動。",
     "CL_DV_HOB_automatic_mode": "自動模式",
-    "CL_DV_HOB_refresh_setting_hint": "如果刷新模式已開啟，則當抽油煙機處於活動狀態時，裝置將自動開始使用刷新模式。",
+    "CL_DV_HOB_refresh_setting_hint": "開啟清新模式後，抽油煙機每小時自動運轉選定的時長，以保持空氣清潔。",
     "CL_DV_HOB_grease_filter_profile_content": "設定油脂過濾器的壽命。 \n\n P1主要用於煮和輕煎。 P2用於平衡煮和平均煎。 P3用於重型油炸。",
     "CL_DV_HOB_hood_mode_manual": "手動的",
     "CL_DV_HOB_remove_accessory_content": "您確定要刪除該附件嗎？",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "徘徊",
     "CL_DV_OV_start_during_sabbath_mode": "選擇在安息日模式下何時啟動烤箱程序。",
     "CL_DV_OV_stop_during_sabbath_mode": "選擇安息日模式下烤箱程序停止的時間。",
-    "CL_DV_OV_stop_time": "停止時間"
+    "CL_DV_OV_stop_time": "停止時間",
+    "CL_DV_OV_sabbath_mode_end": "選擇安息日模式的結束時間。",
+    "CL_DV_LC_select_lock_tips": "開機後可同時控制目前門鎖和選定的鎖。",
+    "CL_DV_LC_auto_lock_tips": "當門解鎖時，0分1秒後會自動上鎖。"
 }

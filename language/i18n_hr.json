@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Postavite način rada nape. Kada je napa u automatskom načinu rada, pokrenuti će se čim započne proces kuhanja.",
     "CL_DV_HOB_hood_mode_setting_hint": "Ako je automatski način rada isključen, način rada bit će ručni.",
     "CL_DV_HOB_automatic_mode": "Automatski način rada",
-    "CL_DV_HOB_refresh_setting_hint": "Ako je uključen način rada za osvježavanje, uređaj će automatski početi koristiti način rada za osvježavanje kada je napa aktivna.",
+    "CL_DV_HOB_refresh_setting_hint": "S uključenim načinom osvježavanja, napa automatski radi odabrano vrijeme, svakih sat vremena kako bi održala čist zrak.",
     "CL_DV_HOB_grease_filter_profile_content": "Dugovječnost filtera za masnoću. \n\n P1 se uglavnom koristi za kuhanje i lagano prženje. P2 se koristi za uravnoteženo vrenje i srednje prženje. P3 se koristi za jako prženje.",
     "CL_DV_HOB_hood_mode_manual": "Priručnik",
     "CL_DV_HOB_remove_accessory_content": "Jeste li sigurni da želite ukloniti?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Lebdjeti",
     "CL_DV_OV_start_during_sabbath_mode": "Odaberite kada program pećnice treba započeti tijekom subotnjeg načina rada.",
     "CL_DV_OV_stop_during_sabbath_mode": "Odaberite kada se program pećnice treba zaustaviti tijekom subotnjeg načina rada.",
-    "CL_DV_OV_stop_time": "Zaustavi vrijeme"
+    "CL_DV_OV_stop_time": "Zaustavi vrijeme",
+    "CL_DV_OV_sabbath_mode_end": "Odaberite kada treba završiti subotnji način rada.",
+    "CL_DV_LC_select_lock_tips": "Možete kontrolirati trenutnu bravu na vratima i odabranu bravu odjednom nakon uključivanja.",
+    "CL_DV_LC_auto_lock_tips": "Kada su vrata otključana, automatski će se zaključati nakon 0 minuta i 1 sekunde."
 }

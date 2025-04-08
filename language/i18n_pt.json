@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Defina o modo de funcionamento do exaustor. Quando o exaustor está no modo automático, ele liga-se assim que o processo de confeção começar.",
     "CL_DV_HOB_hood_mode_setting_hint": "Se o modo automático estiver desativado, o modo será manual.",
     "CL_DV_HOB_automatic_mode": "Modo automático",
-    "CL_DV_HOB_refresh_setting_hint": "Se o modo de atualização estiver ativado, o equipamento começará a usar automaticamente o modo de atualização quando o exaustor estiver ativo.",
+    "CL_DV_HOB_refresh_setting_hint": "Com o modo Refresh ativado, o exaustor funciona automaticamente durante a duração selecionada a cada hora para manter o ar limpo.",
     "CL_DV_HOB_grease_filter_profile_content": "Defina a longevidade do filtro de gorduras. \n\nP1 é utilizado principalmente para cozer e fritar levemente.\nP2 é utilizado para uma cozedura equilibrada e um fritar médio. P3 é utilizado para um fritar mais intenso.",
     "CL_DV_HOB_hood_mode_manual": "Manual",
     "CL_DV_HOB_remove_accessory_content": "Tem a certeza de que pretende remover este acessório?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Passe o mouse",
     "CL_DV_OV_start_during_sabbath_mode": "Selecione quando o programa do forno deve iniciar durante o modo Sabbath.",
     "CL_DV_OV_stop_during_sabbath_mode": "Selecione quando o programa do forno deve parar durante o modo Sabbath.",
-    "CL_DV_OV_stop_time": "Parar o tempo"
+    "CL_DV_OV_stop_time": "Parar o tempo",
+    "CL_DV_OV_sabbath_mode_end": "Selecione quando o modo Sabbath deve terminar.",
+    "CL_DV_LC_select_lock_tips": "Você pode controlar a fechadura atual da porta e a fechadura selecionada ao mesmo tempo após ligá-la.",
+    "CL_DV_LC_auto_lock_tips": "Quando a porta for destrancada, ela será travada automaticamente após 0 minutos e 1 segundo."
 }

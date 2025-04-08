@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Imposta la modalità della cappa. Quando la cappa è in modalità automatica, si avvia non appena inizia il processo di cottura.",
     "CL_DV_HOB_hood_mode_setting_hint": "Se la modalità automatica è disattivata, la modalità sarà manuale.",
     "CL_DV_HOB_automatic_mode": "Modalità automatica",
-    "CL_DV_HOB_refresh_setting_hint": "Se la modalità Refresh è attiva, l'apparecchio si avvierà automaticamente in modalità Refresh quando la cappa è attiva.",
+    "CL_DV_HOB_refresh_setting_hint": "Con la modalità Refresh attivata, la cappa funziona automaticamente per la durata selezionata ogni ora per mantenere l'aria pulita.",
     "CL_DV_HOB_grease_filter_profile_content": "Imposta la longevità del filtro antigrasso. \n\nP1 è utilizzato principalmente per la bollitura e la frittura leggera. P2 è utilizzato per la bollitura bilanciata e la frittura media. P3 è utilizzato per la frittura intensa.",
     "CL_DV_HOB_hood_mode_manual": "Manuale",
     "CL_DV_HOB_remove_accessory_content": "Sei sicuro di voler rimuovere questo accessorio?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Passare il mouse",
     "CL_DV_OV_start_during_sabbath_mode": "Selezionare quando avviare il programma del forno durante la modalità Sabbath.",
     "CL_DV_OV_stop_during_sabbath_mode": "Selezionare quando il programma del forno deve interrompersi durante la modalità Sabbath.",
-    "CL_DV_OV_stop_time": "Fermare il tempo"
+    "CL_DV_OV_stop_time": "Fermare il tempo",
+    "CL_DV_OV_sabbath_mode_end": "Seleziona quando terminare la modalità Sabbath.",
+    "CL_DV_LC_select_lock_tips": "Dopo l'accensione, è possibile controllare contemporaneamente la serratura della porta corrente e quella selezionata.",
+    "CL_DV_LC_auto_lock_tips": "Quando la porta viene sbloccata, si bloccherà automaticamente dopo 0 minuti e 1 secondo."
 }
