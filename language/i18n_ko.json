@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "후드 모드를 설정합니다. 후드가 자동 모드에 있으면 조리 과정이 시작되자마자 시작됩니다.",
     "CL_DV_HOB_hood_mode_setting_hint": "자동 모드가 꺼져 있으면 수동 모드가 됩니다.",
     "CL_DV_HOB_automatic_mode": "자동 모드",
-    "CL_DV_HOB_refresh_setting_hint": "새로 고침 모드가 켜져 있는 경우, 후드가 작동하면 기기가 자동으로 새로 고침 모드를 시작합니다.",
+    "CL_DV_HOB_refresh_setting_hint": "새로고침 모드를 켜면 후드가 선택한 시간 동안 자동으로 작동하여 깨끗한 공기를 유지합니다.",
     "CL_DV_HOB_grease_filter_profile_content": "그리스 필터의 수명을 설정합니다. \n\n P1은 주로 끓이고 가볍게 튀기는 데 사용됩니다. P2는 균형 잡힌 끓이고 보통 튀기는 데 사용됩니다. P3은 강하게 튀기는 데 사용됩니다.",
     "CL_DV_HOB_hood_mode_manual": "수동",
     "CL_DV_HOB_remove_accessory_content": "이 액세서리를 제거하시겠습니까?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "호버",
     "CL_DV_OV_start_during_sabbath_mode": "안식일 모드에서 오븐 프로그램을 시작할 시간을 선택하세요.",
     "CL_DV_OV_stop_during_sabbath_mode": "안식일 모드 중에 오븐 프로그램을 언제 멈출지 선택하세요.",
-    "CL_DV_OV_stop_time": "시간을 멈추다"
+    "CL_DV_OV_stop_time": "시간을 멈추다",
+    "CL_DV_OV_sabbath_mode_end": "안식일 모드를 종료할 시기를 선택하세요.",
+    "CL_DV_LC_select_lock_tips": "전원을 켠 후 현재 문 잠금장치와 선택된 잠금장치를 동시에 제어할 수 있습니다.",
+    "CL_DV_LC_auto_lock_tips": "문이 잠금 해제되면 0분 1초 후에 자동으로 잠깁니다."
 }

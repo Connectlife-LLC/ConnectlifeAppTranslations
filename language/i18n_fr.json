@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Réglez le mode de la hotte. Lorsque la hotte est en mode automatique, elle démarre dès que le processus de cuisson commence.",
     "CL_DV_HOB_hood_mode_setting_hint": "Si le mode automatique est désactivé, le mode sera manuel.",
     "CL_DV_HOB_automatic_mode": "Mode automatique",
-    "CL_DV_HOB_refresh_setting_hint": "Si le mode Rafraîchissement est activé, l'appareil démarrera automatiquement en utilisant le mode Rafraîchissement lorsque la hotte est active.",
+    "CL_DV_HOB_refresh_setting_hint": "Lorsque le mode Rafraîchissement est activé, la hotte fonctionne automatiquement pendant la durée sélectionnée toutes les heures pour maintenir l'air pur.",
     "CL_DV_HOB_grease_filter_profile_content": "Réglez la longévité du filtre à graisse. \n\n Le P1 est principalement utilisé pour l'ébullition et la friture légère. Le P2 est utilisé pour l'ébullition équilibrée et la friture moyenne. Le P3 est utilisé pour la friture lourde.",
     "CL_DV_HOB_hood_mode_manual": "Manuel",
     "CL_DV_HOB_remove_accessory_content": "Etes-vous sûr de vouloir supprimer cet accessoire ?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Flotter",
     "CL_DV_OV_start_during_sabbath_mode": "Sélectionnez le moment où le programme du four doit démarrer pendant le mode Sabbat.",
     "CL_DV_OV_stop_during_sabbath_mode": "Sélectionnez le moment où le programme du four doit s'arrêter pendant le mode Sabbat.",
-    "CL_DV_OV_stop_time": "Arrêter le temps"
+    "CL_DV_OV_stop_time": "Arrêter le temps",
+    "CL_DV_OV_sabbath_mode_end": "Sélectionnez quand le mode Sabbat doit se terminer.",
+    "CL_DV_LC_select_lock_tips": "Vous pouvez contrôler le verrouillage de porte actuel et le verrouillage sélectionné en même temps après la mise sous tension.",
+    "CL_DV_LC_auto_lock_tips": "Lorsque la porte est déverrouillée, elle se verrouille automatiquement après 0 minute et 1 seconde."
 }

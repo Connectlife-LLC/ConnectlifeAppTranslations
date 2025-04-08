@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Ställ in huvens läge. När fläkten är i automatiskt läge startar den så snart tillagningsprocessen startar.",
     "CL_DV_HOB_hood_mode_setting_hint": "Om det automatiska läget är avstängt kommer läget att vara manuellt.",
     "CL_DV_HOB_automatic_mode": "Automatiskt läge",
-    "CL_DV_HOB_refresh_setting_hint": "Om uppdateringsläget är på, kommer apparaten automatiskt att börja använda uppdateringsläget när fläkten är aktiv.",
+    "CL_DV_HOB_refresh_setting_hint": "Med uppdateringsläget på körs huven automatiskt under vald tid varje timme för att bibehålla ren luft.",
     "CL_DV_HOB_grease_filter_profile_content": "Ställ in fettfiltrets livslängd. \n\n P1 används främst för kokning och lätt stekning. P2 används för balanserad kokning och medelstekning. P3 används för kraftig stekning.",
     "CL_DV_HOB_hood_mode_manual": "Manuell",
     "CL_DV_HOB_remove_accessory_content": "Är du säker på att du vill ta bort det här tillbehöret?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Sväva",
     "CL_DV_OV_start_during_sabbath_mode": "Välj när ugnsprogrammet ska starta under sabbatsläget.",
     "CL_DV_OV_stop_during_sabbath_mode": "Välj när ugnsprogrammet ska stoppas under sabbatsläget.",
-    "CL_DV_OV_stop_time": "Stopptid"
+    "CL_DV_OV_stop_time": "Stopptid",
+    "CL_DV_OV_sabbath_mode_end": "Välj när sabbatsläget ska avslutas.",
+    "CL_DV_LC_select_lock_tips": "Du kan styra aktuellt dörrlås och valt lås på en gång efter påslagning.",
+    "CL_DV_LC_auto_lock_tips": "När dörren är olåst låses den automatiskt efter 0 minuter och 1 sekunder."
 }

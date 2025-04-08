@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Tetapkan mod tudung. Apabila hud berada dalam mod automatik, ia akan bermula sebaik sahaja proses memasak bermula.",
     "CL_DV_HOB_hood_mode_setting_hint": "Jika mod automatik dimatikan, mod akan manual.",
     "CL_DV_HOB_automatic_mode": "Mod automatik",
-    "CL_DV_HOB_refresh_setting_hint": "Jika mod muat semula dihidupkan, perkakas akan mula menggunakan mod Muat semula secara automatik apabila hud aktif.",
+    "CL_DV_HOB_refresh_setting_hint": "Dengan mod Muat Semula dihidupkan, hud berjalan secara automatik untuk tempoh yang dipilih setiap jam untuk mengekalkan udara bersih.",
     "CL_DV_HOB_grease_filter_profile_content": "Tetapkan jangka hayat penapis gris. \n\n P1 digunakan terutamanya untuk merebus dan menggoreng ringan. P2 digunakan untuk pendidihan seimbang dan penggorengan sederhana. P3 digunakan untuk menggoreng berat.",
     "CL_DV_HOB_hood_mode_manual": "Manual",
     "CL_DV_HOB_remove_accessory_content": "Adakah anda pasti mahu mengalih keluar aksesori ini?",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Tuding",
     "CL_DV_OV_start_during_sabbath_mode": "Pilih bila program ketuhar harus dimulakan semasa mod Sabat.",
     "CL_DV_OV_stop_during_sabbath_mode": "Pilih bila program ketuhar akan berhenti semasa mod Sabat.",
-    "CL_DV_OV_stop_time": "Hentikan masa"
+    "CL_DV_OV_stop_time": "Hentikan masa",
+    "CL_DV_OV_sabbath_mode_end": "Pilih bila mod Sabat akan tamat.",
+    "CL_DV_LC_select_lock_tips": "Anda boleh mengawal kunci pintu semasa dan kunci terpilih sekaligus selepas dihidupkan.",
+    "CL_DV_LC_auto_lock_tips": "Apabila pintu dibuka, ia akan terkunci secara automatik selepas 0 minit dan 1 saat."
 }
