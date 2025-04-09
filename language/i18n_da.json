@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Indstil emhættens tilstand. Når emhætten er i automatisk tilstand, starter den, så snart tilberedningen starter.",
     "CL_DV_HOB_hood_mode_setting_hint": "Hvis den automatiske tilstand er slået fra, vil tilstanden være manuel.",
     "CL_DV_HOB_automatic_mode": "Automatisk tilstand",
-    "CL_DV_HOB_refresh_setting_hint": "Hvis opdateringstilstanden er aktiveret, begynder apparatet automatisk at bruge opdateringstilstand, når emhætten er aktiv.",
+    "CL_DV_HOB_refresh_setting_hint": "Med opdateringstilstand aktiveret kører emhætten automatisk i den valgte varighed hver time for at opretholde ren luft.",
     "CL_DV_HOB_grease_filter_profile_content": "Indstil fedtfilterets levetid. \n\n P1 bruges hovedsageligt til kogning og let stegning. P2 bruges til balanceret kogning og gennemsnitsstegning. P3 bruges til kraftig stegning.",
     "CL_DV_HOB_hood_mode_manual": "Manuel",
     "CL_DV_HOB_remove_accessory_content": "Er du sikker på, at du vil fjerne dette tilbehør?",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "mulige løsninger",
     "load_more_potential_solutions": "indlæse flere potentielle løsninger",
     "ai_troubleshooting_none_solutions": "Hvis ingen af løsningerne ovenfor løser dit problem, kan du prøve at omformulere eller rapportere problemet.",
-    "ai_troubleshooting_bottom_tip": "AI-råd er muligvis ikke altid nøjagtige. Dobbelttjek forslagene, og kontakt os, hvis du har brug for yderligere hjælp.",
+    "ai_troubleshooting_bottom_tip": "AI-løsninger og -forslag er muligvis ikke nøjagtige. Kontakt support, hvis der er behov for yderligere hjælp. <u> Vilkår og betingelser </u> gælder.",
     "describe_your_issue": "beskriv dit problem",
     "issue_solved": "problem løst",
     "ai_troubleshooting_top_tip": "Spar tid og kræfter med AI-fejlfinding! Her er potentielle løsninger på den fejl, du oplever.",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Svæv",
     "CL_DV_OV_start_during_sabbath_mode": "Vælg, hvornår ovnprogrammet skal starte under sabbatstilstand.",
     "CL_DV_OV_stop_during_sabbath_mode": "Vælg, hvornår ovnprogrammet skal stoppe under sabbatstilstand.",
-    "CL_DV_OV_stop_time": "Stop tid"
+    "CL_DV_OV_stop_time": "Stop tid",
+    "CL_DV_OV_sabbath_mode_end": "Vælg, hvornår sabbatstilstanden skal slutte.",
+    "CL_DV_LC_select_lock_tips": "Du kan kontrollere den aktuelle dørlås og den valgte lås på én gang efter tænding.",
+    "CL_DV_LC_auto_lock_tips": "Når døren låses op, låses den automatisk efter 0 minutter og 1 sekund."
 }
