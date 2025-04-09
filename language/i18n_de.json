@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Stellen Sie den Modus der Dunstabzugshaube ein. Wenn sich die Dunstabzugshaube im Automatikmodus befindet, startet sie, sobald der Kochvorgang beginnt.",
     "CL_DV_HOB_hood_mode_setting_hint": "Wenn der Automatikmodus ausgeschaltet ist, wird auf manuellen Modus umgeschaltet.",
     "CL_DV_HOB_automatic_mode": "Automatischer Modus",
-    "CL_DV_HOB_refresh_setting_hint": "Wenn der Aktualisierungsmodus eingeschaltet ist, startet das Gerät automatisch den Aktualisierungsmodus, wenn die Haube aktiv ist.",
+    "CL_DV_HOB_refresh_setting_hint": "Wenn der Auffrischungsmodus aktiviert ist, läuft die Dunstabzugshaube automatisch jede Stunde für die ausgewählte Dauer, um die Luft sauber zu halten.",
     "CL_DV_HOB_grease_filter_profile_content": "Stellen Sie die Lebensdauer des Fettfilters ein. \n\n P1 wird hauptsächlich zum Kochen und leichten Braten verwendet. P2 wird zum ausgewogenen Kochen und normalen Braten verwendet. P3 wird zum starken Braten verwendet.",
     "CL_DV_HOB_hood_mode_manual": "Handbuch",
     "CL_DV_HOB_remove_accessory_content": "Möchten Sie dieses Zubehör wirklich entfernen?",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "Mögliche Lösungen",
     "load_more_potential_solutions": "weitere mögliche Lösungen laden",
     "ai_troubleshooting_none_solutions": "Wenn keine der oben genannten Lösungen Ihr Problem behebt, können Sie versuchen, das Problem umzuformulieren oder zu melden.",
-    "ai_troubleshooting_bottom_tip": "KI-Ratschläge sind möglicherweise nicht immer genau. Überprüfen Sie die Vorschläge noch einmal und kontaktieren Sie uns, wenn Sie weitere Hilfe benötigen.",
+    "ai_troubleshooting_bottom_tip": "KI-Lösungen und -Vorschläge sind möglicherweise nicht genau. Wenden Sie sich an den Support, wenn Sie weitere Unterstützung benötigen. Es gelten die <u> Allgemeinen Geschäftsbedingungen </u>.",
     "describe_your_issue": "Beschreiben Sie Ihr Problem",
     "issue_solved": "Problem gelöst",
     "ai_troubleshooting_top_tip": "Sparen Sie Zeit und Aufwand mit der KI-basierten Fehlerbehebung! Hier finden Sie mögliche Lösungen für den aufgetretenen Fehler.",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Schweben",
     "CL_DV_OV_start_during_sabbath_mode": "Wählen Sie aus, wann das Ofenprogramm im Sabbatmodus starten soll.",
     "CL_DV_OV_stop_during_sabbath_mode": "Wählen Sie, wann das Ofenprogramm im Sabbatmodus stoppen soll.",
-    "CL_DV_OV_stop_time": "Stoppen Sie die Zeit"
+    "CL_DV_OV_stop_time": "Stoppen Sie die Zeit",
+    "CL_DV_OV_sabbath_mode_end": "Wählen Sie aus, wann der Sabbatmodus enden soll.",
+    "CL_DV_LC_select_lock_tips": "Sie können das aktuelle Türschloss und das ausgewählte Schloss nach dem Einschalten gleichzeitig steuern.",
+    "CL_DV_LC_auto_lock_tips": "Wenn die Tür entriegelt ist, wird sie nach 0 Minuten und 1 Sekunde automatisch verriegelt."
 }

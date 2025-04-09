@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Davlumbazın modunu ayarlayın. Davlumbaz otomatik modda olduğunda, pişirme işlemi başlar başlamaz çalışmaya başlayacaktır.",
     "CL_DV_HOB_hood_mode_setting_hint": "Otomatik mod kapalı ise manuel mod olacaktır.",
     "CL_DV_HOB_automatic_mode": "Otomatik mod",
-    "CL_DV_HOB_refresh_setting_hint": "Yenileme modu açıksa, davlumbaz aktif olduğunda cihaz otomatik olarak Yenileme modunu kullanmaya başlayacaktır.",
+    "CL_DV_HOB_refresh_setting_hint": "Yenileme modu açıkken, davlumbaz temiz havayı korumak için her saat seçilen süre boyunca otomatik olarak çalışır.",
     "CL_DV_HOB_grease_filter_profile_content": "Yağ filtresinin ömrünü ayarlayın. \n\n P1 esas olarak kaynatma ve hafif kızartma için kullanılır. P2 dengeli kaynatma ve orta kızartma için kullanılır. P3 ise ağır kızartma için kullanılır.",
     "CL_DV_HOB_hood_mode_manual": "Manuel",
     "CL_DV_HOB_remove_accessory_content": "Bu aksesuarı kaldırmak istediğinizden emin misiniz?",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "olası çözümler",
     "load_more_potential_solutions": "daha fazla potansiyel çözüm yükleyin",
     "ai_troubleshooting_none_solutions": "Yukarıdaki çözümlerden hiçbiri sorununuzu çözmezse, sorunu yeniden ifade etmeyi veya bildirmeyi deneyebilirsiniz.",
-    "ai_troubleshooting_bottom_tip": "AI tavsiyeleri her zaman doğru olmayabilir. Önerileri iki kez kontrol edin ve daha fazla yardıma ihtiyacınız olursa bizimle iletişime geçin.",
+    "ai_troubleshooting_bottom_tip": "AI çözümleri ve önerileri doğru olmayabilir. Daha fazla yardıma ihtiyaç duyulursa destekle iletişime geçin. <u> Şartlar ve koşullar </u> geçerlidir.",
     "describe_your_issue": "sorununuzu açıklayın",
     "issue_solved": "sorun çözüldü",
     "ai_troubleshooting_top_tip": "AI sorun giderme ile zamandan ve emekten tasarruf edin! Yaşadığınız hata için olası çözümler şunlardır.",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Gezinme",
     "CL_DV_OV_start_during_sabbath_mode": "Sabbath modu sırasında fırın programının ne zaman başlayacağını seçin.",
     "CL_DV_OV_stop_during_sabbath_mode": "Sabbath modu sırasında fırın programının ne zaman duracağını seçin.",
-    "CL_DV_OV_stop_time": "Zamanı durdur"
+    "CL_DV_OV_stop_time": "Zamanı durdur",
+    "CL_DV_OV_sabbath_mode_end": "Sabbath modunun ne zaman sona ereceğini seçin.",
+    "CL_DV_LC_select_lock_tips": "Açtıktan sonra mevcut kapı kilidinizi ve seçili kilidi aynı anda kontrol edebilirsiniz.",
+    "CL_DV_LC_auto_lock_tips": "Kapı kilidi açıldığında 0 dakika 1 saniye sonra otomatik olarak kilitlenecektir."
 }
