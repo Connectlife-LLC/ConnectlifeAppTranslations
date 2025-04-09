@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "设置抽油烟机的模式。当抽油烟机处于自动模式时，烹饪过程开始时抽油烟机就会启动。",
     "CL_DV_HOB_hood_mode_setting_hint": "如果自动模式关闭，则模式将为手动。",
     "CL_DV_HOB_automatic_mode": "自动模式",
-    "CL_DV_HOB_refresh_setting_hint": "如果刷新模式已打开，则当抽油烟机处于活动状态时，设备将自动开始使用刷新模式。",
+    "CL_DV_HOB_refresh_setting_hint": "开启清新模式后，抽油烟机每小时自动运行选定的时长，以保持空气清洁。",
     "CL_DV_HOB_grease_filter_profile_content": "设定油脂过滤器的使用寿命。 \n\n P1主要用于煮和轻煎，P2用于均衡煮和中度煎，P3用于重煎。",
     "CL_DV_HOB_hood_mode_manual": "手动的",
     "CL_DV_HOB_remove_accessory_content": "您确实要移除此配件吗？",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "可能的解决方案",
     "load_more_potential_solutions": "加载更多潜在解决方案",
     "ai_troubleshooting_none_solutions": "如果上述解决方案都不能解决您的问题，您可以尝试重新表述或报告该问题。",
-    "ai_troubleshooting_bottom_tip": "AI 建议可能并不总是准确的。请仔细检查建议，如果您需要进一步的帮助，请联系我们。",
+    "ai_troubleshooting_bottom_tip": "AI 解决方案和建议可能不准确。如需进一步帮助，请联系客服。 <u>条款和条件</u>适用。",
     "describe_your_issue": "描述你的问题",
     "issue_solved": "问题解决了",
     "ai_troubleshooting_top_tip": "使用 AI 故障排除节省时间和精力！以下是针对您遇到的错误的潜在解决方案。",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "徘徊",
     "CL_DV_OV_start_during_sabbath_mode": "选择在安息日模式下何时启动烤箱程序。",
     "CL_DV_OV_stop_during_sabbath_mode": "选择安息日模式下烤箱程序停止的时间。",
-    "CL_DV_OV_stop_time": "停止时间"
+    "CL_DV_OV_stop_time": "停止时间",
+    "CL_DV_OV_sabbath_mode_end": "选择安息日模式的结束时间。",
+    "CL_DV_LC_select_lock_tips": "开机后可以同时控制当前门锁和选定的锁。",
+    "CL_DV_LC_auto_lock_tips": "当门被解锁时，0分1秒后会自动锁上。"
 }

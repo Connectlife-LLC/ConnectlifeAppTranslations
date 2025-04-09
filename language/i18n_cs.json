@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Nastavte režim odsavače par. Když je odsavač par v automatickém režimu, spustí se, jakmile začne proces vaření.",
     "CL_DV_HOB_hood_mode_setting_hint": "Pokud je automatický režim vypnutý, režim bude manuální.",
     "CL_DV_HOB_automatic_mode": "Automatický režim",
-    "CL_DV_HOB_refresh_setting_hint": "Pokud je zapnutý režim osvěžení, spotřebič automaticky začne používat režim obnovení, když je digestoř aktivní.",
+    "CL_DV_HOB_refresh_setting_hint": "Se zapnutým režimem Refresh se digestoř automaticky spustí po zvolenou dobu každou hodinu, aby byl zachován čistý vzduch.",
     "CL_DV_HOB_grease_filter_profile_content": "Nastavte životnost tukového filtru. \n\n P1 se používá hlavně k varu a lehkému smažení. P2 se používá pro vyvážené vaření a průměrné smažení. P3 se používá pro těžké smažení.",
     "CL_DV_HOB_hood_mode_manual": "Manuál",
     "CL_DV_HOB_remove_accessory_content": "Opravdu chcete toto příslušenství odebrat?",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "možná řešení",
     "load_more_potential_solutions": "načíst více potenciálních řešení",
     "ai_troubleshooting_none_solutions": "Pokud žádné z výše uvedených řešení váš problém nevyřeší, můžete zkusit přeformulovat nebo problém nahlásit.",
-    "ai_troubleshooting_bottom_tip": "Rady AI nemusí být vždy přesné. Zkontrolujte návrhy a pokud potřebujete další pomoc, kontaktujte nás.",
+    "ai_troubleshooting_bottom_tip": "Řešení a návrhy AI nemusí být přesné. V případě potřeby další pomoci kontaktujte podporu. Platí <u> Smluvní podmínky </u>.",
     "describe_your_issue": "popište svůj problém",
     "issue_solved": "problém vyřešen",
     "ai_troubleshooting_top_tip": "Ušetřete čas a námahu s řešením problémů s umělou inteligencí! Zde jsou možná řešení chyby, ke které dochází.",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Vznášet se",
     "CL_DV_OV_start_during_sabbath_mode": "Zvolte, kdy se má program trouby spustit během režimu Sabbath.",
     "CL_DV_OV_stop_during_sabbath_mode": "Zvolte, kdy se má program trouby zastavit během režimu Sabbath.",
-    "CL_DV_OV_stop_time": "Zastavit čas"
+    "CL_DV_OV_stop_time": "Zastavit čas",
+    "CL_DV_OV_sabbath_mode_end": "Vyberte, kdy má režim Sabbath skončit.",
+    "CL_DV_LC_select_lock_tips": "Po zapnutí můžete ovládat aktuální zámek dveří a vybraný zámek najednou.",
+    "CL_DV_LC_auto_lock_tips": "Když jsou dveře odemčeny, automaticky se uzamknou po 0 minutách a 1 sekundách."
 }
