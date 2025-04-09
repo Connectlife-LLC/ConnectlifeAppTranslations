@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Atur mode penghisap asap. Jika penghisap asap dalam mode otomatis, penghisap asap akan menyala segera setelah proses memasak dimulai.",
     "CL_DV_HOB_hood_mode_setting_hint": "Jika mode otomatis mati, mode akan menjadi manual.",
     "CL_DV_HOB_automatic_mode": "Mode otomatis",
-    "CL_DV_HOB_refresh_setting_hint": "Jika mode penyegaran aktif, peralatan akan secara otomatis mulai menggunakan mode Penyegaran saat kap aktif.",
+    "CL_DV_HOB_refresh_setting_hint": "Dengan mode Refresh aktif, kap mesin otomatis bekerja selama durasi tertentu setiap jam untuk menjaga udara bersih.",
     "CL_DV_HOB_grease_filter_profile_content": "Mengatur umur filter minyak. \n\n P1 terutama digunakan untuk merebus dan menggoreng ringan. P2 digunakan untuk merebus seimbang dan menggoreng sedang. P3 digunakan untuk menggoreng berat.",
     "CL_DV_HOB_hood_mode_manual": "Buku petunjuk",
     "CL_DV_HOB_remove_accessory_content": "Apakah Anda yakin ingin menghapus aksesori ini?",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "solusi yang mungkin",
     "load_more_potential_solutions": "memuat lebih banyak solusi potensial",
     "ai_troubleshooting_none_solutions": "Jika tidak ada solusi di atas yang menyelesaikan masalah Anda, Anda dapat mencoba mengulanginya atau melaporkan masalah tersebut.",
-    "ai_troubleshooting_bottom_tip": "Saran AI mungkin tidak selalu akurat. Periksa kembali saran tersebut dan hubungi kami jika Anda memerlukan bantuan lebih lanjut.",
+    "ai_troubleshooting_bottom_tip": "Solusi dan saran AI mungkin tidak akurat. Hubungi dukungan jika memerlukan bantuan lebih lanjut. <u> Syarat dan ketentuan </u> berlaku.",
     "describe_your_issue": "jelaskan masalah Anda",
     "issue_solved": "Masalah terpecahkan",
     "ai_troubleshooting_top_tip": "Hemat waktu dan tenaga dengan pemecahan masalah AI! Berikut adalah solusi potensial untuk kesalahan yang Anda alami.",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Arahkan kursor",
     "CL_DV_OV_start_during_sabbath_mode": "Pilih kapan program oven harus dimulai selama mode Sabat.",
     "CL_DV_OV_stop_during_sabbath_mode": "Pilih kapan program oven harus berhenti selama mode Sabat.",
-    "CL_DV_OV_stop_time": "Hentikan waktu"
+    "CL_DV_OV_stop_time": "Hentikan waktu",
+    "CL_DV_OV_sabbath_mode_end": "Pilih kapan mode Sabat harus berakhir.",
+    "CL_DV_LC_select_lock_tips": "Anda dapat mengontrol kunci pintu saat ini dan kunci yang dipilih sekaligus setelah menyalakannya.",
+    "CL_DV_LC_auto_lock_tips": "Ketika pintu tidak terkunci, pintu akan otomatis terkunci setelah 0 menit 1 detik."
 }
