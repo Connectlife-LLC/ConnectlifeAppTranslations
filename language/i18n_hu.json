@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Állítsa be a páraelszívó üzemmódját. Ha az elszívó automata üzemmódban van, a főzési folyamat megkezdésekor azonnal elindul.",
     "CL_DV_HOB_hood_mode_setting_hint": "Ha az automata üzemmód ki van kapcsolva, az üzemmód kézi lesz.",
     "CL_DV_HOB_automatic_mode": "Automata üzemmód",
-    "CL_DV_HOB_refresh_setting_hint": "Ha a frissítési mód be van kapcsolva, a készülék automatikusan elkezdi használni a Frissítés módot, amikor az elszívó aktív.",
+    "CL_DV_HOB_refresh_setting_hint": "Ha a Frissítés üzemmód be van kapcsolva, a páraelszívó óránként automatikusan működik a kiválasztott ideig a tiszta levegő fenntartása érdekében.",
     "CL_DV_HOB_grease_filter_profile_content": "Állítsa be a zsírszűrő élettartamát. \n\n A P1 főként forralásra és könnyű sütésre szolgál. A P2-t a kiegyensúlyozott forraláshoz és átlagos sütéshez használják. A P3 erős sütéshez használatos.",
     "CL_DV_HOB_hood_mode_manual": "Kézikönyv",
     "CL_DV_HOB_remove_accessory_content": "Biztosan eltávolítja ezt a tartozékot?",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "lehetséges megoldások",
     "load_more_potential_solutions": "több lehetséges megoldást betölteni",
     "ai_troubleshooting_none_solutions": "Ha a fenti megoldások egyike sem oldja meg a problémát, megpróbálhatja átfogalmazni vagy jelenteni a problémát.",
-    "ai_troubleshooting_bottom_tip": "Az AI tanácsai nem mindig pontosak. Ellenőrizze még egyszer a javaslatokat, és lépjen kapcsolatba velünk, ha további segítségre van szüksége.",
+    "ai_troubleshooting_bottom_tip": "Előfordulhat, hogy az AI-megoldások és javaslatok nem pontosak. Ha további segítségre van szüksége, lépjen kapcsolatba az ügyfélszolgálattal. <u> Általános Szerződési Feltételek </u> érvényesek.",
     "describe_your_issue": "írja le a problémáját",
     "issue_solved": "probléma megoldva",
     "ai_troubleshooting_top_tip": "Takarítson meg időt és erőfeszítést az AI hibaelhárítással! Íme a lehetséges megoldások a tapasztalt hibára.",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Lebeg",
     "CL_DV_OV_start_during_sabbath_mode": "Válassza ki, hogy a sütőprogram mikor induljon el szombat üzemmódban.",
     "CL_DV_OV_stop_during_sabbath_mode": "Válassza ki, hogy mikor álljon le a sütőprogram szombat üzemmódban.",
-    "CL_DV_OV_stop_time": "Állítsd meg az időt"
+    "CL_DV_OV_stop_time": "Állítsd meg az időt",
+    "CL_DV_OV_sabbath_mode_end": "Válassza ki, hogy mikor ér véget a szombat mód.",
+    "CL_DV_LC_select_lock_tips": "Bekapcsolás után egyszerre vezérelheti az aktuális ajtózárat és a kiválasztott zárat.",
+    "CL_DV_LC_auto_lock_tips": "Ha az ajtót kinyitják, az automatikusan bezárul 0 perc és 1 másodperc múlva."
 }

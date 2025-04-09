@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Cài đặt chế độ của máy hút mùi. Khi máy hút mùi ở chế độ tự động, nó sẽ bắt đầu ngay khi quá trình nấu bắt đầu.",
     "CL_DV_HOB_hood_mode_setting_hint": "Nếu chế độ tự động tắt, chế độ sẽ là thủ công.",
     "CL_DV_HOB_automatic_mode": "Chế độ tự động",
-    "CL_DV_HOB_refresh_setting_hint": "Nếu chế độ làm mới được bật, thiết bị sẽ tự động bắt đầu sử dụng chế độ Làm mới khi máy hút mùi hoạt động.",
+    "CL_DV_HOB_refresh_setting_hint": "Khi bật chế độ Làm mới, máy hút mùi sẽ tự động chạy trong khoảng thời gian đã chọn mỗi giờ để duy trì không khí sạch.",
     "CL_DV_HOB_grease_filter_profile_content": "Thiết lập tuổi thọ của bộ lọc mỡ. \n\n P1 chủ yếu dùng để luộc và chiên nhẹ. P2 dùng để luộc cân bằng và chiên vừa. P3 dùng để chiên nặng.",
     "CL_DV_HOB_hood_mode_manual": "Thủ công",
     "CL_DV_HOB_remove_accessory_content": "Bạn có chắc chắn muốn xóa phụ kiện này không?",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "giải pháp khả thi",
     "load_more_potential_solutions": "tải thêm các giải pháp tiềm năng",
     "ai_troubleshooting_none_solutions": "Nếu không có giải pháp nào ở trên giải quyết được vấn đề của bạn, bạn có thể thử diễn đạt lại hoặc báo cáo sự cố.",
-    "ai_troubleshooting_bottom_tip": "Lời khuyên của AI không phải lúc nào cũng chính xác. Hãy kiểm tra lại các đề xuất và liên hệ với chúng tôi nếu bạn cần thêm trợ giúp.",
+    "ai_troubleshooting_bottom_tip": "Các giải pháp và đề xuất AI có thể không chính xác. Liên hệ với bộ phận hỗ trợ nếu cần thêm trợ giúp. <u> Điều khoản và điều kiện </u> được áp dụng.",
     "describe_your_issue": "mô tả vấn đề của bạn",
     "issue_solved": "vấn đề đã được giải quyết",
     "ai_troubleshooting_top_tip": "Tiết kiệm thời gian và công sức với AI khắc phục sự cố! Sau đây là các giải pháp tiềm năng cho lỗi bạn đang gặp phải.",
@@ -5248,5 +5248,8 @@
     "CL_DV_LC_hover": "Di chuột",
     "CL_DV_OV_start_during_sabbath_mode": "Chọn thời điểm chương trình lò nướng sẽ bắt đầu trong chế độ Sabbath.",
     "CL_DV_OV_stop_during_sabbath_mode": "Chọn thời điểm dừng chương trình lò nướng trong chế độ Sabbath.",
-    "CL_DV_OV_stop_time": "Dừng thời gian"
+    "CL_DV_OV_stop_time": "Dừng thời gian",
+    "CL_DV_OV_sabbath_mode_end": "Chọn thời điểm kết thúc chế độ ngày Sa-bát.",
+    "CL_DV_LC_select_lock_tips": "Bạn có thể kiểm soát khóa cửa hiện tại và khóa đã chọn cùng lúc sau khi bật.",
+    "CL_DV_LC_auto_lock_tips": "Khi cửa không khóa, cửa sẽ tự động khóa sau 0 phút 1 giây."
 }
