@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Aseta liesituulettimen tila. Kun liesituuletin on automaattitilassa, se käynnistyy heti, kun kypsennysprosessi alkaa.",
     "CL_DV_HOB_hood_mode_setting_hint": "Jos automaattitila on pois päältä, tila on manuaalinen.",
     "CL_DV_HOB_automatic_mode": "Automaattinen tila",
-    "CL_DV_HOB_refresh_setting_hint": "Jos virkistystila on päällä, laite alkaa automaattisesti käyttää Refresh-tilaa, kun liesituuletin on aktiivinen.",
+    "CL_DV_HOB_refresh_setting_hint": "Kun Refresh-tila on päällä, liesituuletin käy automaattisesti valitun ajan joka tunti ilman puhtaana pitämiseksi.",
     "CL_DV_HOB_grease_filter_profile_content": "Aseta rasvasuodattimen pitkäikäisyys. \n\n P1:tä käytetään pääasiassa keittämiseen ja kevyeen paistamiseen. P2:ta käytetään tasapainoiseen keittämiseen ja keskimääräiseen paistamiseen. P3:ta käytetään raskaaseen paistamiseen.",
     "CL_DV_HOB_hood_mode_manual": "Manuaalinen",
     "CL_DV_HOB_remove_accessory_content": "Haluatko varmasti poistaa tämän lisävarusteen?",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "mahdollisia ratkaisuja",
     "load_more_potential_solutions": "lataa lisää mahdollisia ratkaisuja",
     "ai_troubleshooting_none_solutions": "Jos mikään yllä olevista ratkaisuista ei ratkaise ongelmaasi, voit yrittää muotoilla ongelman uudelleen tai ilmoittaa siitä.",
-    "ai_troubleshooting_bottom_tip": "Tekoälyn neuvot eivät välttämättä aina ole tarkkoja. Tarkista ehdotukset ja ota meihin yhteyttä, jos tarvitset lisäapua.",
+    "ai_troubleshooting_bottom_tip": "Tekoälyratkaisut ja ehdotukset eivät välttämättä ole tarkkoja. Ota yhteyttä tukeen, jos tarvitset lisäapua. <u> Ehdot </u> ovat voimassa.",
     "describe_your_issue": "kuvaile ongelmaasi",
     "issue_solved": "ongelma ratkaistu",
     "ai_troubleshooting_top_tip": "Säästä aikaa ja vaivaa tekoälyn vianmäärityksen avulla! Tässä on mahdollisia ratkaisuja kokemaasi virheeseen.",
@@ -5248,5 +5248,14 @@
     "CL_DV_LC_hover": "Vie hiiri",
     "CL_DV_OV_start_during_sabbath_mode": "Valitse, milloin uuniohjelman tulee käynnistyä sapattitilan aikana.",
     "CL_DV_OV_stop_during_sabbath_mode": "Valitse, milloin uuniohjelman tulee pysähtyä sapattitilan aikana.",
-    "CL_DV_OV_stop_time": "Pysäytä aika"
+    "CL_DV_OV_stop_time": "Pysäytä aika",
+    "CL_DV_OV_sabbath_mode_end": "Valitse, milloin sapattitilan tulee päättyä.",
+    "CL_DV_LC_select_lock_tips": "Voit ohjata nykyistä oven lukkoa ja valittua lukkoa kerralla päälle kytkemisen jälkeen.",
+    "CL_DV_LC_auto_lock_tips": "Kun ovi avataan, se lukittuu automaattisesti 0 minuutin ja 1 sekunnin kuluttua.",
+    "away_mode": "Poissa tila",
+    "CL_DV_RF_combi_away_mode_desc": "Kun tämä toiminto on käytössä, ConnectLife lähettää ilmoituksen aina, kun jääkaapin ovet avataan.",
+    "CL_DV_WM_TD_exclusive_visible_tips": "Onnittelut, että olet tehnyt kaikki ConnectLife-yleisohjelmat näkyväksi.",
+    "CL_DV_WM_TD_connectlife_exclusive": "ConnectLife yksinoikeudella",
+    "btaudio_audio_device": "Äänilaite",
+    "btaudio_soundbar": "Soundbar"
 }

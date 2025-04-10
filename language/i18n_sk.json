@@ -4013,7 +4013,7 @@
     "CL_DV_HOB_hood_mode_setting_content": "Nastavte režim odsávača pár. Keď je odsávač pár v automatickom režime, spustí sa hneď po spustení procesu varenia.",
     "CL_DV_HOB_hood_mode_setting_hint": "Ak je automatický režim vypnutý, režim bude manuálny.",
     "CL_DV_HOB_automatic_mode": "Automatický režim",
-    "CL_DV_HOB_refresh_setting_hint": "Ak je zapnutý režim obnovenia, spotrebič začne automaticky používať režim obnovenia, keď je digestor aktívny.",
+    "CL_DV_HOB_refresh_setting_hint": "Keď je režim obnovenia zapnutý, odsávač pár sa každú hodinu automaticky spustí na zvolenú dobu, aby sa udržal čistý vzduch.",
     "CL_DV_HOB_grease_filter_profile_content": "Nastavte životnosť tukového filtra. \n\n P1 sa používa hlavne na varenie a ľahké vyprážanie. P2 sa používa na vyvážené varenie a priemerné vyprážanie. P3 sa používa na silné vyprážanie.",
     "CL_DV_HOB_hood_mode_manual": "manuál",
     "CL_DV_HOB_remove_accessory_content": "Naozaj chcete odstrániť toto príslušenstvo?",
@@ -4705,7 +4705,7 @@
     "possible_solutions": "možné riešenia",
     "load_more_potential_solutions": "načítať viac potenciálnych riešení",
     "ai_troubleshooting_none_solutions": "Ak žiadne z vyššie uvedených riešení nevyrieši váš problém, môžete skúsiť preformulovať alebo nahlásiť problém.",
-    "ai_troubleshooting_bottom_tip": "Rady AI nemusia byť vždy presné. Skontrolujte návrhy a ak potrebujete ďalšiu pomoc, kontaktujte nás.",
+    "ai_troubleshooting_bottom_tip": "Riešenia a návrhy AI nemusia byť presné. V prípade potreby ďalšej pomoci kontaktujte podporu. Platia <u> zmluvné podmienky </u>.",
     "describe_your_issue": "popíšte svoj problém",
     "issue_solved": "problém vyriešený",
     "ai_troubleshooting_top_tip": "Ušetrite čas a námahu s riešením problémov s AI! Tu sú možné riešenia chyby, ktorá sa vyskytla.",
@@ -5248,5 +5248,14 @@
     "CL_DV_LC_hover": "Umiestnite kurzor myši",
     "CL_DV_OV_start_during_sabbath_mode": "Zvoľte, kedy sa má program rúry spustiť počas režimu Sabbath.",
     "CL_DV_OV_stop_during_sabbath_mode": "Zvoľte, kedy sa má program rúry zastaviť počas režimu Sabbath.",
-    "CL_DV_OV_stop_time": "Zastaviť čas"
+    "CL_DV_OV_stop_time": "Zastaviť čas",
+    "CL_DV_OV_sabbath_mode_end": "Vyberte, kedy sa má režim Sabbath skončiť.",
+    "CL_DV_LC_select_lock_tips": "Po zapnutí môžete ovládať aktuálny zámok dverí a vybraný zámok naraz.",
+    "CL_DV_LC_auto_lock_tips": "Keď sú dvierka odomknuté, automaticky sa uzamknú po 0 minútach a 1 sekunde.",
+    "away_mode": "Režim preč",
+    "CL_DV_RF_combi_away_mode_desc": "Keď je táto funkcia povolená, ConnectLife odošle upozornenie pri každom otvorení dverí chladničky.",
+    "CL_DV_WM_TD_exclusive_visible_tips": "Gratulujeme, že ste zviditeľnili všetky svoje exkluzívne programy ConnectLife.",
+    "CL_DV_WM_TD_connectlife_exclusive": "Exkluzívne pre ConnectLife",
+    "btaudio_audio_device": "Zvukové zariadenie",
+    "btaudio_soundbar": "Soundbar"
 }
