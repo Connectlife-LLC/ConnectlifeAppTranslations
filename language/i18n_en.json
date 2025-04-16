@@ -2292,7 +2292,7 @@
     "firmware_cannot_update_notice": "Put the device on standby mode to start the update. You won't be able to use the device for the duration of the firmware update. The device interface may blink during the process.",
     "ac_old": "For Old",
     "ac_young": "For Young",
-    "ac_kid": "For Kid",
+    "ac_kid": "For Kids",
     "fridge_temp_sens_head_failure": "xxxxx temperature sensor",
     "set_room_name_notice": "Please set the room name.",
     "ac_clothes_dry": "Clothes dry",
@@ -5263,5 +5263,7 @@
     "problem_title_btaudio_soundbar_q1": "How to pair the soundbar",
     "CL_CF_VA_you_can_link": "You can link *** to your ConnectLife account.",
     "device_status_program_wrinkle_care": "Wrinkle Care",
-    "CL_DV_DW_ai_eco": "AI Eco mode"
+    "CL_DV_DW_ai_eco": "AI Eco mode",
+    "CL_DV_HOB_step2_cooking_can_not_used": "This zone can not be used.",
+    "CL_DV_HOOD_room_settings": "Room settings"
 }
