@@ -5263,5 +5263,7 @@
     "problem_title_btaudio_soundbar_q1": "Πώς να ζευγαρώσετε τη γραμμή ήχου",
     "CL_CF_VA_you_can_link": "Μπορείτε να συνδέσετε το *** στον λογαριασμό σας στο ConnectLife.",
     "device_status_program_wrinkle_care": "Περιποίηση ρυτίδων",
-    "CL_DV_DW_ai_eco": "AI Eco mode"
+    "CL_DV_DW_ai_eco": "AI Eco mode",
+    "CL_DV_HOB_step2_cooking_can_not_used": "Αυτή η ζώνη δεν μπορεί να χρησιμοποιηθεί.",
+    "CL_DV_HOOD_room_settings": "Ρυθμίσεις δωματίου"
 }

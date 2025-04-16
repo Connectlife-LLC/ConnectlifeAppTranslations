@@ -5263,5 +5263,7 @@
     "problem_title_btaudio_soundbar_q1": "Comment coupler la barre de son",
     "CL_CF_VA_you_can_link": "Vous pouvez lier *** à votre compte ConnectLife.",
     "device_status_program_wrinkle_care": "Soins antirides",
-    "CL_DV_DW_ai_eco": "Mode Éco IA"
+    "CL_DV_DW_ai_eco": "Mode Éco IA",
+    "CL_DV_HOB_step2_cooking_can_not_used": "Cette zone ne peut pas être utilisée.",
+    "CL_DV_HOOD_room_settings": "Paramètres de la pièce"
 }

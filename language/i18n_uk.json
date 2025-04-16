@@ -5263,5 +5263,7 @@
     "problem_title_btaudio_soundbar_q1": "Як підключити звукову панель",
     "CL_CF_VA_you_can_link": "Ви можете прив’язати *** до свого облікового запису ConnectLife.",
     "device_status_program_wrinkle_care": "Догляд за зморшками",
-    "CL_DV_DW_ai_eco": "Режим AI Eco"
+    "CL_DV_DW_ai_eco": "Режим AI Eco",
+    "CL_DV_HOB_step2_cooking_can_not_used": "Ця зона не може бути використана.",
+    "CL_DV_HOOD_room_settings": "Налаштування кімнати"
 }

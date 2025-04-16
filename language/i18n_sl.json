@@ -3513,7 +3513,7 @@
     "name_and_assign_to_room": "Poimenujte svojo napravo in jo dodelite sobi.",
     "fridge_refr_dry_wet_room_sens_failure": "Pametni senzor vlažnosti v predalu",
     "fridge_refr_var_room_sens_failure": "Senzor predala Cool Fresh",
-    "td_paused_tips": "Pranje v \"##\" je začasno ustavljeno.",
+    "td_paused_tips": "Sušenje v xx je na premoru.",
     "drying_is_stopping": "Sušenje se ustavlja.",
     "drying_stoppint_tips": "Sušenje v \"xx\" je v fazi ustavljanja. Ko se trenutni program ustavi, lahko v sušilni stroj pošljete drug program.",
     "tuya_device_bind_failed": "Naprave ni mogoče seznaniti z aplikacijo. Poskusite znova ali znova zaženite aplikacijo.",
@@ -5263,5 +5263,7 @@
     "problem_title_btaudio_soundbar_q1": "Kako seznaniti zvočno vrstico",
     "CL_CF_VA_you_can_link": "*** lahko povežete s svojim računom ConnectLife.",
     "device_status_program_wrinkle_care": "Nega gub",
-    "CL_DV_DW_ai_eco": "Način AI Eco"
+    "CL_DV_DW_ai_eco": "Način AI Eco",
+    "CL_DV_HOB_step2_cooking_can_not_used": "Te cone ni mogoče uporabiti.",
+    "CL_DV_HOOD_room_settings": "Nastavitve sobe"
 }

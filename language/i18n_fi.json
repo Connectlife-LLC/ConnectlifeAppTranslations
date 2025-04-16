@@ -5263,5 +5263,7 @@
     "problem_title_btaudio_soundbar_q1": "Kuinka muodostaa laitepari soundbarista",
     "CL_CF_VA_you_can_link": "Voit linkittää *** ConnectLife-tiliisi.",
     "device_status_program_wrinkle_care": "Ryppyjen hoito",
-    "CL_DV_DW_ai_eco": "AI Eco -tila"
+    "CL_DV_DW_ai_eco": "AI Eco -tila",
+    "CL_DV_HOB_step2_cooking_can_not_used": "Tätä vyöhykettä ei voi käyttää.",
+    "CL_DV_HOOD_room_settings": "Huoneen asetukset"
 }

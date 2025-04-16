@@ -5263,5 +5263,7 @@
     "problem_title_btaudio_soundbar_q1": "साउंडबार को कैसे जोड़ा जाए",
     "CL_CF_VA_you_can_link": "आप *** को अपने कनेक्टलाइफ खाते से लिंक कर सकते हैं।",
     "device_status_program_wrinkle_care": "झुर्रियों की देखभाल",
-    "CL_DV_DW_ai_eco": "एआई इको मोड"
+    "CL_DV_DW_ai_eco": "एआई इको मोड",
+    "CL_DV_HOB_step2_cooking_can_not_used": "इस क्षेत्र का उपयोग नहीं किया जा सकता.",
+    "CL_DV_HOOD_room_settings": "कमरे की सेटिंग"
 }
