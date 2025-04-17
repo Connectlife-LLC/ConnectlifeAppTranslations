@@ -3999,7 +3999,7 @@
     "CL_SM_CM_devices_are_running_eco_mode_key": "## urządzenia działają w trybie ECO",
     "CL_CF_UC_full_name_with_title": "{title} {firstName} {surName}",
     "CL_AU_AC_automation_features_may_not_execute_key": "W zależności od trybu pracy urządzenia niektóre funkcje mogą nie zostać pomyślnie wykonane.",
-    "CL_DV_OV_g800_mode_grill_fan_micro": "Duży grill +  wentylator + mikrofale",
+    "CL_DV_OV_g800_mode_grill_fan_micro": "Duży grill +  termoobieg + mikrofale",
     "CL_DV_OV_baking_stopped": "Pieczenie w ## zostało zatrzymane.",
     "CL_DV_OV_check_to_confirm": "Sprawdź piekarnik, aby potwierdzić.",
     "CL_CF_CO_buy": "Kupić",
@@ -5265,5 +5265,6 @@
     "device_status_program_wrinkle_care": "Pielęgnacja zmarszczek",
     "CL_DV_DW_ai_eco": "Tryb eko AI",
     "CL_DV_HOB_step2_cooking_can_not_used": "Nie można korzystać z tej strefy.",
-    "CL_DV_HOOD_room_settings": "Ustawienia pokoju"
+    "CL_DV_HOOD_room_settings": "Ustawienia pokoju",
+    "CL_DV_LC_new_notification": "Nowe powiadomienie"
 }

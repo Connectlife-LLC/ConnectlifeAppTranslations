@@ -5265,5 +5265,6 @@
     "device_status_program_wrinkle_care": "シワケア",
     "CL_DV_DW_ai_eco": "AIエコモード",
     "CL_DV_HOB_step2_cooking_can_not_used": "このゾーンは使用できません。",
-    "CL_DV_HOOD_room_settings": "部屋の設定"
+    "CL_DV_HOOD_room_settings": "部屋の設定",
+    "CL_DV_LC_new_notification": "新しい通知"
 }

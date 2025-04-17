@@ -5265,5 +5265,6 @@
     "device_status_program_wrinkle_care": "Догляд за зморшками",
     "CL_DV_DW_ai_eco": "Режим AI Eco",
     "CL_DV_HOB_step2_cooking_can_not_used": "Ця зона не може бути використана.",
-    "CL_DV_HOOD_room_settings": "Налаштування кімнати"
+    "CL_DV_HOOD_room_settings": "Налаштування кімнати",
+    "CL_DV_LC_new_notification": "Нове сповіщення"
 }

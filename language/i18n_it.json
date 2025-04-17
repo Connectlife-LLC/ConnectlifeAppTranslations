@@ -5265,5 +5265,6 @@
     "device_status_program_wrinkle_care": "Cura delle rughe",
     "CL_DV_DW_ai_eco": "Modalità AI Eco",
     "CL_DV_HOB_step2_cooking_can_not_used": "Questa zona non può essere utilizzata.",
-    "CL_DV_HOOD_room_settings": "Impostazioni della stanza"
+    "CL_DV_HOOD_room_settings": "Impostazioni della stanza",
+    "CL_DV_LC_new_notification": "Nuova notifica"
 }
