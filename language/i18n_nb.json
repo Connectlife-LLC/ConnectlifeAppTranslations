@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Stemmekontroll",
     "CL_CF_AC_voice_control_tips": "Samhandle med klimaanlegget gjennom stemmen",
     "CL_CF_AC_voice_language": "Stemmespråk",
-    "CL_CF_AC_voice_volume": " Stemmevolum",
     "CL_CF_AC_voice_sensitivity": "Wake-word-sensitivitet",
     "CL_CF_AC_voice_sensitivity_tips": "Justerer mikrofonens respons til aktiveringsfrase. Større tall betyr høyere følsomhet.",
     "CL_CF_AC_voice_conversation": "Kontinuerlig samtale",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Nattfokusmodus",
     "CL_CF_AC_voice_night_tips": "Optimaliserer bruk om natten ved å minimere utilsiktede aktiveringer og senke lydtilbakemeldingsvolumet for roligere drift.",
     "CL_CF_AC_voice_night_period": "Aktiveringsperiode",
-    "ai_troubleshooting_bottom_tip": "AI-råd er kanskje ikke alltid nøyaktige. Dobbeltsjekk forslagene og kontakt oss hvis du trenger mer hjelp."
+    "ai_troubleshooting_bottom_tip": "AI-råd er kanskje ikke alltid nøyaktige. Dobbeltsjekk forslagene og kontakt oss hvis du trenger mer hjelp.",
+    "CL_CF_FM_shopping_list_total": "Total",
+    "CL_CF_FM_shopping_list_purchased": "Kjøpt",
+    "CL_DV_Hood_recirculation": "Resirkulering",
+    "CL_DV_HOOD_room_size": "Romstørrelse",
+    "CL_CF_AC_voice_volume": "Stemmevolum",
+    "btaudio_party_speaker": "Festtaler",
+    "btaudio_color_looping": "Fargeløkker",
+    "btaudio_model_name": "Modellnavn",
+    "btaudio_software_version": "Programvareversjon",
+    "btaudio_release_date": "Utgivelsesdato",
+    "btaudio_one_speaker_is_offline": "{1} er frakoblet",
+    "CL_DV_hood_clean_filter": "Rengjør filteret",
+    "CL_DV_WM_program_download_to_use": "Vennligst last ned for å bruke"
 }

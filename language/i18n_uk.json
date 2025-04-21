@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Голосове керування",
     "CL_CF_AC_voice_control_tips": "Взаємодія з блоком кондиціонера за допомогою голосу",
     "CL_CF_AC_voice_language": "Мова голосу",
-    "CL_CF_AC_voice_volume": " Гучність голосу",
     "CL_CF_AC_voice_sensitivity": "Чутливість до пробуджувального слова",
     "CL_CF_AC_voice_sensitivity_tips": "Налаштовує реакцію мікрофона на фразу активації. Більше число означає вищу чутливість.",
     "CL_CF_AC_voice_conversation": "Безперервна розмова",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Нічний режим фокусування",
     "CL_CF_AC_voice_night_tips": "Оптимізує використання вночі, зводячи до мінімуму випадкові активації та знижуючи гучність голосового зворотного зв’язку для тихішої роботи.",
     "CL_CF_AC_voice_night_period": "Період активації",
-    "ai_troubleshooting_bottom_tip": "Поради ШІ не завжди можуть бути точними. Ще раз перевірте пропозиції та зв’яжіться з нами, якщо вам потрібна додаткова допомога."
+    "ai_troubleshooting_bottom_tip": "Поради ШІ не завжди можуть бути точними. Ще раз перевірте пропозиції та зв’яжіться з нами, якщо вам потрібна додаткова допомога.",
+    "CL_CF_FM_shopping_list_total": "Всього",
+    "CL_CF_FM_shopping_list_purchased": "Придбаний",
+    "CL_DV_Hood_recirculation": "Рециркуляція",
+    "CL_DV_HOOD_room_size": "Розмір кімнати",
+    "CL_CF_AC_voice_volume": "Гучність голосу",
+    "btaudio_party_speaker": "Спікер партії",
+    "btaudio_color_looping": "Колірний цикл",
+    "btaudio_model_name": "Model Name:",
+    "btaudio_software_version": "Версія програмного забезпечення",
+    "btaudio_release_date": "Дата випуску",
+    "btaudio_one_speaker_is_offline": "{1} не в мережі",
+    "CL_DV_hood_clean_filter": "Очистити фільтр",
+    "CL_DV_WM_program_download_to_use": "Завантажте, щоб використовувати"
 }

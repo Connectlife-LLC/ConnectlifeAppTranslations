@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Sprachsteuerung",
     "CL_CF_AC_voice_control_tips": "Interagieren Sie per Sprache mit der Klimaanlage",
     "CL_CF_AC_voice_language": "Sprachsprache",
-    "CL_CF_AC_voice_volume": " Sprachlautstärke",
     "CL_CF_AC_voice_sensitivity": "Aktivierungswortempfindlichkeit",
     "CL_CF_AC_voice_sensitivity_tips": "Passt die Reaktion des Mikrofons auf die Aktivierungsphrase an. Ein größerer Wert bedeutet eine höhere Empfindlichkeit.",
     "CL_CF_AC_voice_conversation": "Kontinuierliche Konversation",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Nachtfokusmodus",
     "CL_CF_AC_voice_night_tips": "Optimiert die nächtliche Nutzung durch Minimierung versehentlicher Aktivierungen und Verringerung der Lautstärke der Sprachrückmeldung für einen leiseren Betrieb.",
     "CL_CF_AC_voice_night_period": "Aktivierungszeitraum",
-    "ai_troubleshooting_bottom_tip": "KI-Ratschläge sind möglicherweise nicht immer genau. Überprüfen Sie die Vorschläge noch einmal und kontaktieren Sie uns, wenn Sie weitere Hilfe benötigen."
+    "ai_troubleshooting_bottom_tip": "KI-Ratschläge sind möglicherweise nicht immer genau. Überprüfen Sie die Vorschläge noch einmal und kontaktieren Sie uns, wenn Sie weitere Hilfe benötigen.",
+    "CL_CF_FM_shopping_list_total": "Gesamt",
+    "CL_CF_FM_shopping_list_purchased": "Gekauft",
+    "CL_DV_Hood_recirculation": "Umluft",
+    "CL_DV_HOOD_room_size": "Zimmergröße",
+    "CL_CF_AC_voice_volume": "Sprachlautstärke",
+    "btaudio_party_speaker": "Parteisprecher",
+    "btaudio_color_looping": "Farbschleife",
+    "btaudio_model_name": "Model Name:",
+    "btaudio_software_version": "Softwareversion",
+    "btaudio_release_date": "Veröffentlichungsdatum",
+    "btaudio_one_speaker_is_offline": "{1} ist offline",
+    "CL_DV_hood_clean_filter": "Filter reinigen",
+    "CL_DV_WM_program_download_to_use": "Zur Verwendung bitte herunterladen"
 }

@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Hangvezérlés",
     "CL_CF_AC_voice_control_tips": "Hangon keresztül léphet kapcsolatba a légkondicionáló egységgel",
     "CL_CF_AC_voice_language": "Hang nyelve",
-    "CL_CF_AC_voice_volume": " Hangerő",
     "CL_CF_AC_voice_sensitivity": "Ébresztőszó érzékenység",
     "CL_CF_AC_voice_sensitivity_tips": "Beállítja a mikrofon reakciókészségét az aktiválási kifejezésre. A nagyobb szám nagyobb érzékenységet jelent.",
     "CL_CF_AC_voice_conversation": "Folyamatos Beszélgetés",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Éjszakai fókusz mód",
     "CL_CF_AC_voice_night_tips": "Optimalizálja az éjszakai használatot a véletlen aktiválások minimalizálásával és a hangvisszajelzés hangerejének csökkentésével a csendesebb működés érdekében.",
     "CL_CF_AC_voice_night_period": "Aktiválási időszak",
-    "ai_troubleshooting_bottom_tip": "Az AI tanácsai nem mindig pontosak. Ellenőrizze még egyszer a javaslatokat, és lépjen kapcsolatba velünk, ha további segítségre van szüksége."
+    "ai_troubleshooting_bottom_tip": "Az AI tanácsai nem mindig pontosak. Ellenőrizze még egyszer a javaslatokat, és lépjen kapcsolatba velünk, ha további segítségre van szüksége.",
+    "CL_CF_FM_shopping_list_total": "Teljes",
+    "CL_CF_FM_shopping_list_purchased": "Vásárolt",
+    "CL_DV_Hood_recirculation": "Recirkuláció",
+    "CL_DV_HOOD_room_size": "Szoba mérete",
+    "CL_CF_AC_voice_volume": "Hangerő",
+    "btaudio_party_speaker": "Párt hangszóró",
+    "btaudio_color_looping": "Color Looping",
+    "btaudio_model_name": "Modell neve",
+    "btaudio_software_version": "Szoftver verzió",
+    "btaudio_release_date": "Megjelenés dátuma",
+    "btaudio_one_speaker_is_offline": "{1} offline állapotban van",
+    "CL_DV_hood_clean_filter": "Tisztítsa meg a szűrőt",
+    "CL_DV_WM_program_download_to_use": "Kérjük, töltse le a használathoz"
 }

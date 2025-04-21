@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Spraakbesturing",
     "CL_CF_AC_voice_control_tips": "Communiceer met de airconditioner via uw stem",
     "CL_CF_AC_voice_language": "Stemtaal",
-    "CL_CF_AC_voice_volume": " Stemvolume",
     "CL_CF_AC_voice_sensitivity": "Gevoeligheid voor wekwoorden",
     "CL_CF_AC_voice_sensitivity_tips": "Past de gevoeligheid van de microfoon aan op de activeringszin. Een hoger getal betekent een hogere gevoeligheid.",
     "CL_CF_AC_voice_conversation": "Doorlopend gesprek",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Nachtfocusmodus",
     "CL_CF_AC_voice_night_tips": "Optimaliseert nachtelijk gebruik door onbedoelde activeringen te minimaliseren en het volume van de gesproken feedback te verlagen voor een stillere werking.",
     "CL_CF_AC_voice_night_period": "Activeringsperiode",
-    "ai_troubleshooting_bottom_tip": "AI-advies is mogelijk niet altijd accuraat. Controleer de suggesties nogmaals en neem contact met ons op als u verdere assistentie nodig hebt."
+    "ai_troubleshooting_bottom_tip": "AI-advies is mogelijk niet altijd accuraat. Controleer de suggesties nogmaals en neem contact met ons op als u verdere assistentie nodig hebt.",
+    "CL_CF_FM_shopping_list_total": "Totaal",
+    "CL_CF_FM_shopping_list_purchased": "Gekocht",
+    "CL_DV_Hood_recirculation": "Recirculatie",
+    "CL_DV_HOOD_room_size": "Kamergrootte",
+    "CL_CF_AC_voice_volume": "Stemvolume",
+    "btaudio_party_speaker": "Partijvoorzitter",
+    "btaudio_color_looping": "Kleurlus",
+    "btaudio_model_name": "Model Name:",
+    "btaudio_software_version": "Softwareversie",
+    "btaudio_release_date": "Releasedatum",
+    "btaudio_one_speaker_is_offline": "{1} is offline",
+    "CL_DV_hood_clean_filter": "Filter schoonmaken",
+    "CL_DV_WM_program_download_to_use": "Downloaden om te gebruiken"
 }

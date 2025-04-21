@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Ovládanie hlasom",
     "CL_CF_AC_voice_control_tips": "Interakcia s klimatizačnou jednotkou prostredníctvom hlasu",
     "CL_CF_AC_voice_language": "Jazyk hlasu",
-    "CL_CF_AC_voice_volume": " Hlasitosť hlasu",
     "CL_CF_AC_voice_sensitivity": "Citlivosť na budenie",
     "CL_CF_AC_voice_sensitivity_tips": "Upraví odozvu mikrofónu na aktivačnú frázu. Väčšie číslo znamená vyššiu citlivosť.",
     "CL_CF_AC_voice_conversation": "Nepretržitá konverzácia",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Režim nočného zaostrovania",
     "CL_CF_AC_voice_night_tips": "Optimalizuje nočné používanie minimalizovaním náhodných aktivácií a znížením hlasitosti hlasovej odozvy pre tichšiu prevádzku.",
     "CL_CF_AC_voice_night_period": "Obdobie aktivácie",
-    "ai_troubleshooting_bottom_tip": "Rady AI nemusia byť vždy presné. Skontrolujte návrhy a ak potrebujete ďalšiu pomoc, kontaktujte nás."
+    "ai_troubleshooting_bottom_tip": "Rady AI nemusia byť vždy presné. Skontrolujte návrhy a ak potrebujete ďalšiu pomoc, kontaktujte nás.",
+    "CL_CF_FM_shopping_list_total": "Celkom",
+    "CL_CF_FM_shopping_list_purchased": "Kúpené",
+    "CL_DV_Hood_recirculation": "Recirkulácia",
+    "CL_DV_HOOD_room_size": "Veľkosť izby",
+    "CL_CF_AC_voice_volume": "Hlasitosť hlasu",
+    "btaudio_party_speaker": "Predsedníčka strany",
+    "btaudio_color_looping": "Color Looping",
+    "btaudio_model_name": "Model Name:",
+    "btaudio_software_version": "Verzia softvéru",
+    "btaudio_release_date": "Dátum vydania",
+    "btaudio_one_speaker_is_offline": "{1} je offline",
+    "CL_DV_hood_clean_filter": "Vyčistite filter",
+    "CL_DV_WM_program_download_to_use": "Ak chcete použiť, stiahnite si"
 }

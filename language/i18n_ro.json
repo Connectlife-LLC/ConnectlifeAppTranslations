@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Control vocal",
     "CL_CF_AC_voice_control_tips": "Interacționați cu unitatea de aer condiționat prin voce",
     "CL_CF_AC_voice_language": "Limba vocii",
-    "CL_CF_AC_voice_volume": " Volumul vocii",
     "CL_CF_AC_voice_sensitivity": "Sensibilitatea cuvântului trezit",
     "CL_CF_AC_voice_sensitivity_tips": "Reglează răspunsul microfonului la fraza de activare. Un număr mai mare înseamnă o sensibilitate mai mare.",
     "CL_CF_AC_voice_conversation": "Conversație continuă",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Mod focalizare nocturnă",
     "CL_CF_AC_voice_night_tips": "Optimizează utilizarea pe timp de noapte prin minimizarea activărilor accidentale și scăderea volumului feedback-ului vocal pentru o funcționare mai silențioasă.",
     "CL_CF_AC_voice_night_period": "Perioada de activare",
-    "ai_troubleshooting_bottom_tip": "Sfaturile AI pot să nu fie întotdeauna exacte. Verificați din nou sugestiile și contactați-ne dacă aveți nevoie de ajutor suplimentar."
+    "ai_troubleshooting_bottom_tip": "Sfaturile AI pot să nu fie întotdeauna exacte. Verificați din nou sugestiile și contactați-ne dacă aveți nevoie de ajutor suplimentar.",
+    "CL_CF_FM_shopping_list_total": "Total",
+    "CL_CF_FM_shopping_list_purchased": "Achizitionat",
+    "CL_DV_Hood_recirculation": "Recircularea",
+    "CL_DV_HOOD_room_size": "Dimensiunea camerei",
+    "CL_CF_AC_voice_volume": "Volumul vocii",
+    "btaudio_party_speaker": "Președinte de partid",
+    "btaudio_color_looping": "Bucle de culoare",
+    "btaudio_model_name": "Numele modelului",
+    "btaudio_software_version": "Versiune software",
+    "btaudio_release_date": "Data de lansare",
+    "btaudio_one_speaker_is_offline": "{1} este offline",
+    "CL_DV_hood_clean_filter": "Curățați filtrul",
+    "CL_DV_WM_program_download_to_use": "Vă rugăm să descărcați pentru a utiliza"
 }

@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Controllo vocale",
     "CL_CF_AC_voice_control_tips": "Interagisci con l'unità del condizionatore d'aria tramite voce",
     "CL_CF_AC_voice_language": "Linguaggio vocale",
-    "CL_CF_AC_voice_volume": " Volume della voce",
     "CL_CF_AC_voice_sensitivity": "Sensibilità alle parole di attivazione",
     "CL_CF_AC_voice_sensitivity_tips": "Regola la reattività del microfono alla frase di attivazione. Un numero più alto indica una maggiore sensibilità.",
     "CL_CF_AC_voice_conversation": "Conversazione continua",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Modalità di messa a fuoco notturna",
     "CL_CF_AC_voice_night_tips": "Ottimizza l'utilizzo notturno riducendo al minimo le attivazioni accidentali e abbassando il volume del feedback vocale per un funzionamento più silenzioso.",
     "CL_CF_AC_voice_night_period": "Periodo di attivazione",
-    "ai_troubleshooting_bottom_tip": "I consigli dell'IA potrebbero non essere sempre accurati. Ricontrolla i suggerimenti e contattaci se hai bisogno di ulteriore assistenza."
+    "ai_troubleshooting_bottom_tip": "I consigli dell'IA potrebbero non essere sempre accurati. Ricontrolla i suggerimenti e contattaci se hai bisogno di ulteriore assistenza.",
+    "CL_CF_FM_shopping_list_total": "Totale",
+    "CL_CF_FM_shopping_list_purchased": "Acquistato",
+    "CL_DV_Hood_recirculation": "Ricircolo",
+    "CL_DV_HOOD_room_size": "Dimensioni della stanza",
+    "CL_CF_AC_voice_volume": "Volume della voce",
+    "btaudio_party_speaker": "Oratore del partito",
+    "btaudio_color_looping": "Looping di colore",
+    "btaudio_model_name": "Model Name:",
+    "btaudio_software_version": "Versione software",
+    "btaudio_release_date": "Data di rilascio",
+    "btaudio_one_speaker_is_offline": "{1} è offline",
+    "CL_DV_hood_clean_filter": "Pulisci filtro",
+    "CL_DV_WM_program_download_to_use": "Si prega di scaricare per utilizzare"
 }

@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "التحكم الصوتي",
     "CL_CF_AC_voice_control_tips": "التفاعل مع وحدة مكيف الهواء من خلال الصوت",
     "CL_CF_AC_voice_language": "لغة الصوت",
-    "CL_CF_AC_voice_volume": " مستوى الصوت",
     "CL_CF_AC_voice_sensitivity": "حساسية كلمة الاستيقاظ",
     "CL_CF_AC_voice_sensitivity_tips": "يضبط استجابة الميكروفون لعبارة التنشيط. كلما زاد الرقم، زادت الحساسية.",
     "CL_CF_AC_voice_conversation": "محادثة مستمرة",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "وضع التركيز الليلي",
     "CL_CF_AC_voice_night_tips": "يعمل على تحسين الاستخدام الليلي من خلال تقليل عمليات التنشيط العرضية وخفض مستوى صوت ردود الفعل الصوتية للحصول على عملية تشغيل أكثر هدوءًا.",
     "CL_CF_AC_voice_night_period": "فترة التنشيط",
-    "ai_troubleshooting_bottom_tip": "قد لا تكون نصائح الذكاء الاصطناعي دقيقة دائمًا. تحقق من الاقتراحات جيدًا واتصل بنا إذا كنت بحاجة إلى مزيد من المساعدة."
+    "ai_troubleshooting_bottom_tip": "قد لا تكون نصائح الذكاء الاصطناعي دقيقة دائمًا. تحقق من الاقتراحات جيدًا واتصل بنا إذا كنت بحاجة إلى مزيد من المساعدة.",
+    "CL_CF_FM_shopping_list_total": "مجموع",
+    "CL_CF_FM_shopping_list_purchased": "تم الشراء",
+    "CL_DV_Hood_recirculation": "إعادة التدوير",
+    "CL_DV_HOOD_room_size": "حجم الغرفة",
+    "CL_CF_AC_voice_volume": "مستوى الصوت",
+    "btaudio_party_speaker": "رئيس الحزب",
+    "btaudio_color_looping": "تكرار الألوان",
+    "btaudio_model_name": "اسم الموديل",
+    "btaudio_software_version": "إصدار البرنامج",
+    "btaudio_release_date": "تاريخ الافراج عنه",
+    "btaudio_one_speaker_is_offline": "{1} غير متصل",
+    "CL_DV_hood_clean_filter": "فلتر نظيف",
+    "CL_DV_WM_program_download_to_use": "يرجى التنزيل للاستخدام"
 }
