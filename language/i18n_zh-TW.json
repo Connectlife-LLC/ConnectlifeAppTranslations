@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "語音控制",
     "CL_CF_AC_voice_control_tips": "透過語音與空調機組交互",
     "CL_CF_AC_voice_language": "語音語言",
-    "CL_CF_AC_voice_volume": " 音量",
     "CL_CF_AC_voice_sensitivity": "喚醒詞敏感度",
     "CL_CF_AC_voice_sensitivity_tips": "調整麥克風對啟動短語的反應。數字越大，靈敏度越高。",
     "CL_CF_AC_voice_conversation": "持續對話",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "夜間對焦模式",
     "CL_CF_AC_voice_night_tips": "透過最大限度地減少意外啟動並降低語音回饋音量以實現更安靜的操作，優化夜間使用。",
     "CL_CF_AC_voice_night_period": "啟用設定期",
-    "ai_troubleshooting_bottom_tip": "人工智慧的建議可能並不總是準確的。請仔細檢查建議，如果您需要進一步協助，請聯絡我們。"
+    "ai_troubleshooting_bottom_tip": "人工智慧的建議可能並不總是準確的。請仔細檢查建議，如果您需要進一步協助，請聯絡我們。",
+    "CL_CF_FM_shopping_list_total": "全部",
+    "CL_CF_FM_shopping_list_purchased": "已購",
+    "CL_DV_Hood_recirculation": "再循環",
+    "CL_DV_HOOD_room_size": "房間大小",
+    "CL_CF_AC_voice_volume": "音量",
+    "btaudio_party_speaker": "黨內發言人",
+    "btaudio_color_looping": "色彩循環",
+    "btaudio_model_name": "Model Name:",
+    "btaudio_software_version": "軟體版本",
+    "btaudio_release_date": "發布日期",
+    "btaudio_one_speaker_is_offline": "{1}處於離線狀態",
+    "CL_DV_hood_clean_filter": "清潔過濾器",
+    "CL_DV_WM_program_download_to_use": "請下載使用"
 }

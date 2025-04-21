@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "음성 제어",
     "CL_CF_AC_voice_control_tips": "음성으로 에어컨 장치와 상호 작용",
     "CL_CF_AC_voice_language": "음성 언어",
-    "CL_CF_AC_voice_volume": " 음성 볼륨",
     "CL_CF_AC_voice_sensitivity": "웨이크워드 감도",
     "CL_CF_AC_voice_sensitivity_tips": "활성화 문구에 대한 마이크의 반응성을 조절합니다. 숫자가 클수록 민감도가 높아집니다.",
     "CL_CF_AC_voice_conversation": "지속적인 대화",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "야간 초점 모드",
     "CL_CF_AC_voice_night_tips": "우발적인 작동을 최소화하고 음성 피드백 볼륨을 낮춰 조용한 작동을 구현하여 야간 사용을 최적화합니다.",
     "CL_CF_AC_voice_night_period": "활성화 기간",
-    "ai_troubleshooting_bottom_tip": "AI 조언이 항상 정확하지는 않을 수 있습니다. 제안을 다시 확인하고 추가 지원이 필요하면 저희에게 연락하세요."
+    "ai_troubleshooting_bottom_tip": "AI 조언이 항상 정확하지는 않을 수 있습니다. 제안을 다시 확인하고 추가 지원이 필요하면 저희에게 연락하세요.",
+    "CL_CF_FM_shopping_list_total": "총",
+    "CL_CF_FM_shopping_list_purchased": "구매함",
+    "CL_DV_Hood_recirculation": "재순환",
+    "CL_DV_HOOD_room_size": "객실 크기",
+    "CL_CF_AC_voice_volume": "음성 볼륨",
+    "btaudio_party_speaker": "당 대변인",
+    "btaudio_color_looping": "색상 루핑",
+    "btaudio_model_name": "모델명",
+    "btaudio_software_version": "소프트웨어 버전",
+    "btaudio_release_date": "출시일",
+    "btaudio_one_speaker_is_offline": "{1} (는) 오프라인 상태입니다.",
+    "CL_DV_hood_clean_filter": "필터 청소",
+    "CL_DV_WM_program_download_to_use": "다운로드해서 사용하세요"
 }

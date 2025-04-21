@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Kawalan Suara",
     "CL_CF_AC_voice_control_tips": "Berinteraksi dengan unit penghawa dingin melalui suara",
     "CL_CF_AC_voice_language": "Bahasa Suara",
-    "CL_CF_AC_voice_volume": " Kelantangan Suara",
     "CL_CF_AC_voice_sensitivity": "Sensitiviti Wake-word",
     "CL_CF_AC_voice_sensitivity_tips": "Melaraskan tindak balas mikrofon kepada frasa pengaktifan. Nombor yang lebih besar bermakna sensitiviti yang lebih tinggi.",
     "CL_CF_AC_voice_conversation": "Perbualan Berterusan",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Mod Fokus Malam",
     "CL_CF_AC_voice_night_tips": "Mengoptimumkan penggunaan waktu malam dengan meminimumkan pengaktifan tidak sengaja dan merendahkan volum maklum balas suara untuk operasi yang lebih senyap.",
     "CL_CF_AC_voice_night_period": "Tempoh Pengaktifan",
-    "ai_troubleshooting_bottom_tip": "Nasihat AI mungkin tidak selalu tepat. Semak semula cadangan dan hubungi kami jika anda memerlukan bantuan lanjut."
+    "ai_troubleshooting_bottom_tip": "Nasihat AI mungkin tidak selalu tepat. Semak semula cadangan dan hubungi kami jika anda memerlukan bantuan lanjut.",
+    "CL_CF_FM_shopping_list_total": "Jumlah",
+    "CL_CF_FM_shopping_list_purchased": "Dibeli",
+    "CL_DV_Hood_recirculation": "Edaran semula",
+    "CL_DV_HOOD_room_size": "Saiz bilik",
+    "CL_CF_AC_voice_volume": "Kelantangan Suara",
+    "btaudio_party_speaker": "Speaker Parti",
+    "btaudio_color_looping": "Gelung Warna",
+    "btaudio_model_name": "Nama Model",
+    "btaudio_software_version": "Versi Perisian",
+    "btaudio_release_date": "Tarikh Tayangan",
+    "btaudio_one_speaker_is_offline": "{1} berada di luar talian",
+    "CL_DV_hood_clean_filter": "Penapis bersih",
+    "CL_DV_WM_program_download_to_use": "Sila muat turun untuk digunakan"
 }

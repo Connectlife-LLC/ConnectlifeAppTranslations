@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Воице Цонтрол",
     "CL_CF_AC_voice_control_tips": "Интеракција са јединицом клима уређаја путем гласа",
     "CL_CF_AC_voice_language": "Гласовни језик",
-    "CL_CF_AC_voice_volume": " Јачина гласа",
     "CL_CF_AC_voice_sensitivity": "Осетљивост на буђење",
     "CL_CF_AC_voice_sensitivity_tips": "Подешава одзив микрофона на фразу за активацију. Већи број значи већу осетљивост.",
     "CL_CF_AC_voice_conversation": "Цонтинуоус Цонверсатион",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Режим ноћног фокуса",
     "CL_CF_AC_voice_night_tips": "Оптимизује употребу током ноћи минимизирањем случајних активација и смањењем јачине гласовних повратних информација за тиши рад.",
     "CL_CF_AC_voice_night_period": "Период активације",
-    "ai_troubleshooting_bottom_tip": "Савети вештачке интелигенције можда нису увек тачни. Још једном проверите предлоге и контактирајте нас ако вам је потребна додатна помоћ."
+    "ai_troubleshooting_bottom_tip": "Савети вештачке интелигенције можда нису увек тачни. Још једном проверите предлоге и контактирајте нас ако вам је потребна додатна помоћ.",
+    "CL_CF_FM_shopping_list_total": "Укупно",
+    "CL_CF_FM_shopping_list_purchased": "Купљено",
+    "CL_DV_Hood_recirculation": "Рециркулација",
+    "CL_DV_HOOD_room_size": "Величина собе",
+    "CL_CF_AC_voice_volume": "Јачина гласа",
+    "btaudio_party_speaker": "Парти Спеакер",
+    "btaudio_color_looping": "Боја петља",
+    "btaudio_model_name": "Назив модела",
+    "btaudio_software_version": "Верзија софтвера",
+    "btaudio_release_date": "Датум изласка",
+    "btaudio_one_speaker_is_offline": "{1} је ван мреже",
+    "CL_DV_hood_clean_filter": "Очистите филтер",
+    "CL_DV_WM_program_download_to_use": "Молимо преузмите за коришћење"
 }

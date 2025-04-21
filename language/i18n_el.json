@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Φωνητικός έλεγχος",
     "CL_CF_AC_voice_control_tips": "Αλληλεπίδραση με τη μονάδα κλιματιστικού μέσω φωνής",
     "CL_CF_AC_voice_language": "Γλώσσα φωνής",
-    "CL_CF_AC_voice_volume": " Ένταση φωνής",
     "CL_CF_AC_voice_sensitivity": "Ευαισθησία αφύπνισης",
     "CL_CF_AC_voice_sensitivity_tips": "Προσαρμόζει την απόκριση του μικροφώνου στη φράση ενεργοποίησης. Μεγαλύτερος αριθμός σημαίνει μεγαλύτερη ευαισθησία.",
     "CL_CF_AC_voice_conversation": "Συνεχής Συνομιλία",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Λειτουργία νυχτερινής εστίασης",
     "CL_CF_AC_voice_night_tips": "Βελτιστοποιεί τη νυχτερινή χρήση ελαχιστοποιώντας τις τυχαίες ενεργοποιήσεις και μειώνοντας την ένταση της φωνητικής ανάδρασης για πιο αθόρυβη λειτουργία.",
     "CL_CF_AC_voice_night_period": "Περίοδος ενεργοποίησης",
-    "ai_troubleshooting_bottom_tip": "Οι συμβουλές AI μπορεί να μην είναι πάντα ακριβείς. Ελέγξτε ξανά τις προτάσεις και επικοινωνήστε μαζί μας εάν χρειάζεστε περαιτέρω βοήθεια."
+    "ai_troubleshooting_bottom_tip": "Οι συμβουλές AI μπορεί να μην είναι πάντα ακριβείς. Ελέγξτε ξανά τις προτάσεις και επικοινωνήστε μαζί μας εάν χρειάζεστε περαιτέρω βοήθεια.",
+    "CL_CF_FM_shopping_list_total": "Σύνολο",
+    "CL_CF_FM_shopping_list_purchased": "Αγορασμένο",
+    "CL_DV_Hood_recirculation": "Ανακυκλοφορία",
+    "CL_DV_HOOD_room_size": "Μέγεθος δωματίου",
+    "CL_CF_AC_voice_volume": "Ένταση φωνής",
+    "btaudio_party_speaker": "Ομιλητής του κόμματος",
+    "btaudio_color_looping": "Χρώμα Looping",
+    "btaudio_model_name": "Όνομα μοντέλου",
+    "btaudio_software_version": "Έκδοση λογισμικού",
+    "btaudio_release_date": "Ημερομηνία κυκλοφορίας",
+    "btaudio_one_speaker_is_offline": "{1} είναι εκτός σύνδεσης",
+    "CL_DV_hood_clean_filter": "Καθαρίστε το φίλτρο",
+    "CL_DV_WM_program_download_to_use": "Κάντε λήψη για χρήση"
 }

@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Controle de voz",
     "CL_CF_AC_voice_control_tips": "Interaja com a unidade de ar condicionado por voz",
     "CL_CF_AC_voice_language": "Linguagem de voz",
-    "CL_CF_AC_voice_volume": " Volume da voz",
     "CL_CF_AC_voice_sensitivity": "Sensibilidade da palavra de ativação",
     "CL_CF_AC_voice_sensitivity_tips": "Ajusta a resposta do microfone à frase de ativação. Um número maior significa maior sensibilidade.",
     "CL_CF_AC_voice_conversation": "Conversação Contínua",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Modo de foco noturno",
     "CL_CF_AC_voice_night_tips": "Otimiza o uso noturno minimizando ativações acidentais e diminuindo o volume do feedback de voz para uma operação mais silenciosa.",
     "CL_CF_AC_voice_night_period": "Período de ativação",
-    "ai_troubleshooting_bottom_tip": "Os conselhos de IA podem nem sempre ser precisos. Verifique novamente as sugestões e entre em contato conosco se precisar de mais assistência."
+    "ai_troubleshooting_bottom_tip": "Os conselhos de IA podem nem sempre ser precisos. Verifique novamente as sugestões e entre em contato conosco se precisar de mais assistência.",
+    "CL_CF_FM_shopping_list_total": "Total",
+    "CL_CF_FM_shopping_list_purchased": "Comprado",
+    "CL_DV_Hood_recirculation": "Recirculação",
+    "CL_DV_HOOD_room_size": "Tamanho do quarto",
+    "CL_CF_AC_voice_volume": "Volume da voz",
+    "btaudio_party_speaker": "Presidente do Partido",
+    "btaudio_color_looping": "Loop de cores",
+    "btaudio_model_name": "Model Name:",
+    "btaudio_software_version": "Versão do software",
+    "btaudio_release_date": "Data de lançamento",
+    "btaudio_one_speaker_is_offline": "{1} está offline",
+    "CL_DV_hood_clean_filter": "Filtro limpo",
+    "CL_DV_WM_program_download_to_use": "Por favor, faça o download para usar"
 }

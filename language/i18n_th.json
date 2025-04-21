@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "การควบคุมด้วยเสียง",
     "CL_CF_AC_voice_control_tips": "โต้ตอบกับเครื่องปรับอากาศผ่านเสียง",
     "CL_CF_AC_voice_language": "ภาษาเสียง",
-    "CL_CF_AC_voice_volume": " ระดับเสียง",
     "CL_CF_AC_voice_sensitivity": "ความไวต่อคำปลุก",
     "CL_CF_AC_voice_sensitivity_tips": "ปรับการตอบสนองของไมโครโฟนต่อวลีการเปิดใช้งาน ตัวเลขที่มากขึ้นหมายถึงความไวที่มากขึ้น",
     "CL_CF_AC_voice_conversation": "การสนทนาอย่างต่อเนื่อง",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "โหมดโฟกัสกลางคืน",
     "CL_CF_AC_voice_night_tips": "เพิ่มประสิทธิภาพการใช้งานในเวลากลางคืนด้วยการลดการเปิดใช้งานโดยไม่ได้ตั้งใจและลดระดับเสียงตอบรับเพื่อให้การทำงานเงียบขึ้น",
     "CL_CF_AC_voice_night_period": "ระยะเวลาการเปิดใช้งาน",
-    "ai_troubleshooting_bottom_tip": "คำแนะนำจาก AI อาจไม่แม่นยำเสมอไป ตรวจสอบคำแนะนำอีกครั้งและติดต่อเราหากคุณต้องการความช่วยเหลือเพิ่มเติม"
+    "ai_troubleshooting_bottom_tip": "คำแนะนำจาก AI อาจไม่แม่นยำเสมอไป ตรวจสอบคำแนะนำอีกครั้งและติดต่อเราหากคุณต้องการความช่วยเหลือเพิ่มเติม",
+    "CL_CF_FM_shopping_list_total": "ทั้งหมด",
+    "CL_CF_FM_shopping_list_purchased": "ซื้อแล้ว",
+    "CL_DV_Hood_recirculation": "การหมุนเวียน",
+    "CL_DV_HOOD_room_size": "ขนาดห้อง",
+    "CL_CF_AC_voice_volume": "ระดับเสียง",
+    "btaudio_party_speaker": "ลำโพงปาร์ตี้",
+    "btaudio_color_looping": "การวนซ้ำสี",
+    "btaudio_model_name": "ชื่อรุ่น",
+    "btaudio_software_version": "เวอร์ชันซอฟต์แวร์",
+    "btaudio_release_date": "วันที่วางจำหน่าย",
+    "btaudio_one_speaker_is_offline": "{1} ออฟไลน์",
+    "CL_DV_hood_clean_filter": "ทำความสะอาดตัวกรอง",
+    "CL_DV_WM_program_download_to_use": "กรุณาดาวน์โหลดเพื่อใช้งาน"
 }

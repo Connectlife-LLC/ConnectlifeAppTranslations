@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Дауыспен басқару",
     "CL_CF_AC_voice_control_tips": "Дауыс арқылы кондиционермен өзара әрекеттесу",
     "CL_CF_AC_voice_language": "Дауыс тілі",
-    "CL_CF_AC_voice_volume": " Дауыс деңгейі",
     "CL_CF_AC_voice_sensitivity": "Ояну сөзінің сезімталдығы",
     "CL_CF_AC_voice_sensitivity_tips": "Микрофонның белсендіру фразасына жауап беруін реттейді. Үлкен сан жоғары сезімталдықты білдіреді.",
     "CL_CF_AC_voice_conversation": "Үздіксіз әңгіме",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Түнгі фокус режимі",
     "CL_CF_AC_voice_night_tips": "Тыныш жұмыс істеу үшін кездейсоқ белсендірулерді азайту және дауыстық кері байланыс дыбыс деңгейін төмендету арқылы түнде пайдалануды оңтайландырады.",
     "CL_CF_AC_voice_night_period": "Іске қосу кезеңі",
-    "ai_troubleshooting_bottom_tip": "AI кеңесі әрқашан дәл болмауы мүмкін. Ұсыныстарды екі рет тексеріп, қосымша көмек қажет болса, бізге хабарласыңыз."
+    "ai_troubleshooting_bottom_tip": "AI кеңесі әрқашан дәл болмауы мүмкін. Ұсыныстарды екі рет тексеріп, қосымша көмек қажет болса, бізге хабарласыңыз.",
+    "CL_CF_FM_shopping_list_total": "Барлығы",
+    "CL_CF_FM_shopping_list_purchased": "Сатып алынды",
+    "CL_DV_Hood_recirculation": "Рециркуляция",
+    "CL_DV_HOOD_room_size": "Бөлме өлшемі",
+    "CL_CF_AC_voice_volume": "Дауыс деңгейі",
+    "btaudio_party_speaker": "Партия спикері",
+    "btaudio_color_looping": "Түсті цикл",
+    "btaudio_model_name": "Модель атауы",
+    "btaudio_software_version": "Бағдарламалық құрал нұсқасы",
+    "btaudio_release_date": "Шығарылған күні",
+    "btaudio_one_speaker_is_offline": "{1} желіден тыс",
+    "CL_DV_hood_clean_filter": "Таза сүзгі",
+    "CL_DV_WM_program_download_to_use": "Қолдану үшін жүктеп алыңыз"
 }

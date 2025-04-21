@@ -5210,7 +5210,6 @@
     "CL_CF_AC_voice_control": "Ääniohjaus",
     "CL_CF_AC_voice_control_tips": "Ole vuorovaikutuksessa ilmastointilaitteen kanssa äänellä",
     "CL_CF_AC_voice_language": "Äänen kieli",
-    "CL_CF_AC_voice_volume": " Äänenvoimakkuus",
     "CL_CF_AC_voice_sensitivity": "Herätyssanan herkkyys",
     "CL_CF_AC_voice_sensitivity_tips": "Säätää mikrofonin vastetta aktivointilauseeseen. Suurempi luku tarkoittaa suurempaa herkkyyttä.",
     "CL_CF_AC_voice_conversation": "Jatkuva keskustelu",
@@ -5219,5 +5218,18 @@
     "CL_CF_AC_voice_night": "Yötarkennustila",
     "CL_CF_AC_voice_night_tips": "Optimoi yökäyttöä minimoimalla tahattomat aktivoinnit ja alentamalla äänipalautteen äänenvoimakkuutta hiljaisemman toiminnan takaamiseksi.",
     "CL_CF_AC_voice_night_period": "Aktivointijakso",
-    "ai_troubleshooting_bottom_tip": "Tekoälyn neuvot eivät välttämättä aina ole tarkkoja. Tarkista ehdotukset ja ota meihin yhteyttä, jos tarvitset lisäapua."
+    "ai_troubleshooting_bottom_tip": "Tekoälyn neuvot eivät välttämättä aina ole tarkkoja. Tarkista ehdotukset ja ota meihin yhteyttä, jos tarvitset lisäapua.",
+    "CL_CF_FM_shopping_list_total": "Koko",
+    "CL_CF_FM_shopping_list_purchased": "Ostettu",
+    "CL_DV_Hood_recirculation": "Kierrätys",
+    "CL_DV_HOOD_room_size": "Huoneen koko",
+    "CL_CF_AC_voice_volume": "Äänenvoimakkuus",
+    "btaudio_party_speaker": "Puolueen puhuja",
+    "btaudio_color_looping": "Värisilmukka",
+    "btaudio_model_name": "Model Name:",
+    "btaudio_software_version": "Ohjelmistoversio",
+    "btaudio_release_date": "Julkaisupäivä",
+    "btaudio_one_speaker_is_offline": "{1} on offline-tilassa",
+    "CL_DV_hood_clean_filter": "Puhdista suodatin",
+    "CL_DV_WM_program_download_to_use": "Lataa käytettäväksi"
 }
