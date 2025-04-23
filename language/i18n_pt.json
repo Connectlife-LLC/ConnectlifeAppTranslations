@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "O dispositivo não deve estar em um ciclo de lavagem.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Ative o controle remoto pressionando o botão \"Confirmar\" no dispositivo em até 3 minutos. Certifique-se de que o dispositivo esteja ligado, mas sem nenhum ciclo em execução.",
     "CL_DV_DW_confirm_on_device_desc_his": "Ative o controle remoto pressionando o botão \"Conectar\" piscante no dispositivo em até 3 minutos. Certifique-se de que o dispositivo esteja ligado, mas sem nenhum ciclo em execução.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Ative o controle remoto pressionando o botão \"Conectar\" piscante no dispositivo em até 3 minutos. Certifique-se de que o dispositivo não esteja executando um ciclo."
+    "CL_DV_DW_confirm_on_device_desc_g": "Ative o controle remoto pressionando o botão \"Conectar\" piscante no dispositivo em até 3 minutos. Certifique-se de que o dispositivo não esteja executando um ciclo.",
+    "CL_DV_LC_door_lock_management": "Gerenciamento de fechaduras de portas",
+    "CL_DV_LC_unlock_two_doors": "Destranque duas portas",
+    "CL_DV_LC_false_input_lock": "Bloqueio de entrada falsa",
+    "CL_DV_LC_two_lock_tips": "A chave pode controlar duas fechaduras inteligentes após ser ligada.",
+    "CL_DV_LC_add_password": "ADICIONAR SENHA",
+    "CL_DV_LC_no_password": "Sem senha",
+    "CL_DV_LC_password_name": "NOME DA SENHA",
+    "CL_DV_LC_password_6_10": "SENHA (6-10 dígitos)",
+    "CL_DV_LC_no_pairing_lock": "Sem fechadura de porta de pareamento",
+    "CL_DV_LC_add_door_lock": "ADICIONE TRAVA DA PORTA"
 }

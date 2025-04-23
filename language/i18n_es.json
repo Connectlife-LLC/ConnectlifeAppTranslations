@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "El dispositivo no debe estar en un ciclo de lavado.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Active el control remoto pulsando el botón \"Confirmar\" en el dispositivo dentro de 3 minutos. Asegúrese de que el dispositivo esté encendido, pero sin ningún ciclo en marcha.",
     "CL_DV_DW_confirm_on_device_desc_his": "Active el control remoto pulsando el botón \"Conectar\" del dispositivo en un plazo de 3 minutos. Asegúrese de que el dispositivo esté encendido, pero sin ningún ciclo en marcha.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Active el control remoto pulsando el botón \"Conectar\" del dispositivo en los próximos 3 minutos. Asegúrese de que el dispositivo no esté en ciclo."
+    "CL_DV_DW_confirm_on_device_desc_g": "Active el control remoto pulsando el botón \"Conectar\" del dispositivo en los próximos 3 minutos. Asegúrese de que el dispositivo no esté en ciclo.",
+    "CL_DV_LC_door_lock_management": "Gestión de cerraduras de puertas",
+    "CL_DV_LC_unlock_two_doors": "Desbloquear dos puertas",
+    "CL_DV_LC_false_input_lock": "Bloqueo de entrada falsa",
+    "CL_DV_LC_two_lock_tips": "La llave puede controlar dos cerraduras de puertas inteligentes después de encenderla.",
+    "CL_DV_LC_add_password": "AÑADIR CONTRASEÑA",
+    "CL_DV_LC_no_password": "Sin contraseña",
+    "CL_DV_LC_password_name": "NOMBRE DE LA CONTRASEÑA",
+    "CL_DV_LC_password_6_10": "CONTRASEÑA (6-10 dígitos)",
+    "CL_DV_LC_no_pairing_lock": "Cerradura de puerta sin emparejamiento",
+    "CL_DV_LC_add_door_lock": "AÑADIR CERRADURA DE PUERTA"
 }
