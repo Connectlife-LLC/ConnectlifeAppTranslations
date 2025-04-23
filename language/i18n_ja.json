@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "装置は洗濯サイクル中であってはなりません。",
     "CL_DV_DW_confirm_on_device_desc_tft": "3分以内にデバイスの「確認」ボタンを押して、リモートコントロールを有効にしてください。デバイスの電源はオンになっていますが、サイクル動作はしていないことを確認してください。",
     "CL_DV_DW_confirm_on_device_desc_his": "3分以内にデバイスの点滅している「接続」ボタンを押して、リモートコントロールを有効にしてください。デバイスの電源はオンになっていますが、サイクル動作はしていないことを確認してください。",
-    "CL_DV_DW_confirm_on_device_desc_g": "3分以内にデバイスの点滅している「接続」ボタンを押して、リモートコントロールを有効にしてください。デバイスがサイクル動作していないことを確認してください。"
+    "CL_DV_DW_confirm_on_device_desc_g": "3分以内にデバイスの点滅している「接続」ボタンを押して、リモートコントロールを有効にしてください。デバイスがサイクル動作していないことを確認してください。",
+    "CL_DV_LC_door_lock_management": "ドアロック管理",
+    "CL_DV_LC_unlock_two_doors": "2つのドアのロックを解除",
+    "CL_DV_LC_false_input_lock": "誤入力ロック",
+    "CL_DV_LC_two_lock_tips": "キーをオンにすると、2 つのスマート ドア ロックを制御できます。",
+    "CL_DV_LC_add_password": "パスワードを追加",
+    "CL_DV_LC_no_password": "パスワードなし",
+    "CL_DV_LC_password_name": "パスワード名",
+    "CL_DV_LC_password_6_10": "パスワード（6～10桁）",
+    "CL_DV_LC_no_pairing_lock": "ペアリングドアロックなし",
+    "CL_DV_LC_add_door_lock": "ドアロックを追加"
 }

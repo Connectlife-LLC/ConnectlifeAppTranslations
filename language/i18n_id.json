@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Perangkat tidak boleh berada dalam siklus pencucian.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Aktifkan kendali jarak jauh dengan menekan tombol 'Konfirmasi' pada perangkat dalam waktu 3 menit. Pastikan perangkat menyala tetapi tidak menjalankan siklus.",
     "CL_DV_DW_confirm_on_device_desc_his": "Aktifkan kendali jarak jauh dengan menekan tombol 'Hubungkan' yang berkedip pada perangkat dalam waktu 3 menit. Pastikan perangkat menyala tetapi tidak menjalankan siklus.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktifkan kendali jarak jauh dengan menekan tombol 'Hubungkan' yang berkedip pada perangkat dalam waktu 3 menit. Pastikan perangkat tidak sedang menjalankan siklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktifkan kendali jarak jauh dengan menekan tombol 'Hubungkan' yang berkedip pada perangkat dalam waktu 3 menit. Pastikan perangkat tidak sedang menjalankan siklus.",
+    "CL_DV_LC_door_lock_management": "Manajemen Kunci Pintu",
+    "CL_DV_LC_unlock_two_doors": "Buka Dua Pintu",
+    "CL_DV_LC_false_input_lock": "Kunci Input Palsu",
+    "CL_DV_LC_two_lock_tips": "Kunci tersebut dapat mengendalikan dua kunci pintu pintar setelah dihidupkan.",
+    "CL_DV_LC_add_password": "TAMBAHKAN KATA SANDI",
+    "CL_DV_LC_no_password": "Tidak ada kata sandi",
+    "CL_DV_LC_password_name": "NAMA KATA SANDI",
+    "CL_DV_LC_password_6_10": "PASSWORD (6-10 digit)",
+    "CL_DV_LC_no_pairing_lock": "Tidak ada kunci pintu berpasangan",
+    "CL_DV_LC_add_door_lock": "TAMBAHKAN KUNCI PINTU"
 }

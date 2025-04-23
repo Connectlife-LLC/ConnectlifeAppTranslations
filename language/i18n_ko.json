@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "세탁기를 세탁하면 안 됩니다.",
     "CL_DV_DW_confirm_on_device_desc_tft": "3분 이내에 기기의 '확인' 버튼을 눌러 원격 제어를 활성화하세요. 기기의 전원은 켜져 있지만 사이클이 실행 중이 아닌지 확인하세요.",
     "CL_DV_DW_confirm_on_device_desc_his": "3분 이내에 기기의 깜빡이는 '연결' 버튼을 눌러 원격 제어를 활성화하세요. 기기의 전원은 켜져 있지만 사이클이 실행 중이 아닌지 확인하세요.",
-    "CL_DV_DW_confirm_on_device_desc_g": "3분 이내에 기기의 깜빡이는 '연결' 버튼을 눌러 원격 제어를 활성화하세요. 기기가 사이클을 실행하고 있지 않은지 확인하세요."
+    "CL_DV_DW_confirm_on_device_desc_g": "3분 이내에 기기의 깜빡이는 '연결' 버튼을 눌러 원격 제어를 활성화하세요. 기기가 사이클을 실행하고 있지 않은지 확인하세요.",
+    "CL_DV_LC_door_lock_management": "도어 잠금 관리",
+    "CL_DV_LC_unlock_two_doors": "두 개의 문을 열어라",
+    "CL_DV_LC_false_input_lock": "거짓 입력 잠금",
+    "CL_DV_LC_two_lock_tips": "이 키는 전원을 켠 후 두 개의 스마트 도어 잠금장치를 제어할 수 있습니다.",
+    "CL_DV_LC_add_password": "비밀번호 추가",
+    "CL_DV_LC_no_password": "비밀번호 없음",
+    "CL_DV_LC_password_name": "비밀번호 이름",
+    "CL_DV_LC_password_6_10": "비밀번호(6~10자리)",
+    "CL_DV_LC_no_pairing_lock": "페어링 도어 잠금 장치 없음",
+    "CL_DV_LC_add_door_lock": "도어락 추가"
 }

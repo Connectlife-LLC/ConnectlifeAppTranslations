@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "L'apparecchio non deve essere sottoposto a un ciclo di lavaggio.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Abilitare il controllo remoto premendo il pulsante \"Conferma\" sul dispositivo entro 3 minuti. Assicurarsi che il dispositivo sia acceso ma non in fase di esecuzione.",
     "CL_DV_DW_confirm_on_device_desc_his": "Abilitare il controllo remoto premendo il pulsante lampeggiante \"Connetti\" sul dispositivo entro 3 minuti. Assicurarsi che il dispositivo sia acceso ma non in fase di ciclo.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Abilitare il controllo remoto premendo il pulsante lampeggiante \"Connetti\" sul dispositivo entro 3 minuti. Assicurarsi che il dispositivo non sia in fase di ciclo."
+    "CL_DV_DW_confirm_on_device_desc_g": "Abilitare il controllo remoto premendo il pulsante lampeggiante \"Connetti\" sul dispositivo entro 3 minuti. Assicurarsi che il dispositivo non sia in fase di ciclo.",
+    "CL_DV_LC_door_lock_management": "Gestione delle serrature delle porte",
+    "CL_DV_LC_unlock_two_doors": "Sblocca due porte",
+    "CL_DV_LC_false_input_lock": "Blocco falso input",
+    "CL_DV_LC_two_lock_tips": "Una volta accesa, la chiave può controllare due serrature intelligenti.",
+    "CL_DV_LC_add_password": "AGGIUNGI PASSWORD",
+    "CL_DV_LC_no_password": "Nessuna password",
+    "CL_DV_LC_password_name": "NOME PASSWORD",
+    "CL_DV_LC_password_6_10": "PASSWORD (6-10 cifre)",
+    "CL_DV_LC_no_pairing_lock": "Nessuna serratura della porta di accoppiamento",
+    "CL_DV_LC_add_door_lock": "AGGIUNGI SERRATURA PORTA"
 }

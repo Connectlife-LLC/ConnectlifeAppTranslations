@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Peranti tidak seharusnya berada dalam kitaran pencucian.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Dayakan alat kawalan jauh dengan menekan butang 'Sahkan' pada peranti dalam masa 3 minit. Pastikan peranti dihidupkan tetapi tidak menjalankan kitaran.",
     "CL_DV_DW_confirm_on_device_desc_his": "Dayakan alat kawalan jauh dengan menekan butang 'Sambung' yang berkelip pada peranti dalam masa 3 minit. Pastikan peranti dihidupkan tetapi tidak menjalankan kitaran.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Dayakan alat kawalan jauh dengan menekan butang 'Sambung' yang berkelip pada peranti dalam masa 3 minit. Pastikan peranti tidak menjalankan kitaran."
+    "CL_DV_DW_confirm_on_device_desc_g": "Dayakan alat kawalan jauh dengan menekan butang 'Sambung' yang berkelip pada peranti dalam masa 3 minit. Pastikan peranti tidak menjalankan kitaran.",
+    "CL_DV_LC_door_lock_management": "Pengurusan Kunci Pintu",
+    "CL_DV_LC_unlock_two_doors": "Buka Kunci Dua Pintu",
+    "CL_DV_LC_false_input_lock": "Kunci input palsu",
+    "CL_DV_LC_two_lock_tips": "Kunci boleh mengawal dua kunci pintu pintar selepas dihidupkan.",
+    "CL_DV_LC_add_password": "TAMBAH KATA LALUAN",
+    "CL_DV_LC_no_password": "Tiada kata laluan",
+    "CL_DV_LC_password_name": "NAMA KATA LALUAN",
+    "CL_DV_LC_password_6_10": "KATA LALUAN (6-10 digit)",
+    "CL_DV_LC_no_pairing_lock": "Tiada kunci pintu berpasangan",
+    "CL_DV_LC_add_door_lock": "TAMBAH KUNCI PINTU"
 }

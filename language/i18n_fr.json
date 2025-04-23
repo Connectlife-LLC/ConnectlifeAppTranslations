@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "L'appareil ne doit pas être en cycle de lavage.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Activez la commande à distance en appuyant sur le bouton « Confirmer » de l'appareil dans les 3 minutes. Assurez-vous que l'appareil est sous tension, mais qu'il n'exécute pas de cycle.",
     "CL_DV_DW_confirm_on_device_desc_his": "Activez la télécommande en appuyant sur le bouton clignotant « Connecter » de l'appareil dans les 3 minutes. Assurez-vous que l'appareil est sous tension, mais qu'il n'exécute pas de cycle.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Activez la télécommande en appuyant sur le bouton clignotant « Connecter » de l'appareil dans les 3 minutes. Assurez-vous que l'appareil n'est pas en cours d'exécution."
+    "CL_DV_DW_confirm_on_device_desc_g": "Activez la télécommande en appuyant sur le bouton clignotant « Connecter » de l'appareil dans les 3 minutes. Assurez-vous que l'appareil n'est pas en cours d'exécution.",
+    "CL_DV_LC_door_lock_management": "Gestion des serrures de porte",
+    "CL_DV_LC_unlock_two_doors": "Déverrouiller deux portes",
+    "CL_DV_LC_false_input_lock": "Verrouillage des fausses entrées",
+    "CL_DV_LC_two_lock_tips": "La clé peut contrôler deux serrures de porte intelligentes après avoir été allumée.",
+    "CL_DV_LC_add_password": "AJOUTER UN MOT DE PASSE",
+    "CL_DV_LC_no_password": "Pas de mot de passe",
+    "CL_DV_LC_password_name": "MOT DE PASSE NOM",
+    "CL_DV_LC_password_6_10": "MOT DE PASSE (6 à 10 chiffres)",
+    "CL_DV_LC_no_pairing_lock": "Pas de verrouillage de porte appairé",
+    "CL_DV_LC_add_door_lock": "AJOUTER UN VERROU DE PORTE"
 }

@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "המכשיר לא צריך להיות במחזור כביסה.",
     "CL_DV_DW_confirm_on_device_desc_tft": "אפשר שלט רחוק על ידי לחיצה על כפתור 'אישור' במכשיר תוך 3 דקות. ודא שהמכשיר מופעל אך אינו מפעיל מחזור.",
     "CL_DV_DW_confirm_on_device_desc_his": "אפשר שלט רחוק על ידי לחיצה על כפתור 'התחבר' המהבהב במכשיר תוך 3 דקות. ודא שהמכשיר מופעל אך אינו מפעיל מחזור.",
-    "CL_DV_DW_confirm_on_device_desc_g": "אפשר שלט רחוק על ידי לחיצה על כפתור 'התחבר' המהבהב במכשיר תוך 3 דקות. ודא שהמכשיר אינו מפעיל מחזור."
+    "CL_DV_DW_confirm_on_device_desc_g": "אפשר שלט רחוק על ידי לחיצה על כפתור 'התחבר' המהבהב במכשיר תוך 3 דקות. ודא שהמכשיר אינו מפעיל מחזור.",
+    "CL_DV_LC_door_lock_management": "ניהול מנעול דלת",
+    "CL_DV_LC_unlock_two_doors": "פתח שתי דלתות",
+    "CL_DV_LC_false_input_lock": "נעילת קלט כוזב",
+    "CL_DV_LC_two_lock_tips": "המפתח יכול לשלוט בשני מנעולי דלת חכמים לאחר ההדלקה.",
+    "CL_DV_LC_add_password": "הוסף סיסמה",
+    "CL_DV_LC_no_password": "אין סיסמה",
+    "CL_DV_LC_password_name": "שם סיסמה",
+    "CL_DV_LC_password_6_10": "סיסמה (6-10 ספרות)",
+    "CL_DV_LC_no_pairing_lock": "אין מנעול דלת זיווג",
+    "CL_DV_LC_add_door_lock": "הוסף נעילת דלת"
 }
