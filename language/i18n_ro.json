@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Aparatul nu trebuie să fie într-un ciclu de spălare.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Activați telecomanda apăsând butonul „Confirmare” de pe dispozitiv în decurs de 3 minute. Asigurați-vă că dispozitivul este pornit, dar nu rulează un ciclu.",
     "CL_DV_DW_confirm_on_device_desc_his": "Activați telecomanda apăsând butonul intermitent „Conectare” de pe dispozitiv în decurs de 3 minute. Asigurați-vă că dispozitivul este pornit, dar nu rulează un ciclu.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Activați telecomanda apăsând butonul intermitent „Conectare” de pe dispozitiv în decurs de 3 minute. Asigurați-vă că dispozitivul nu rulează un ciclu."
+    "CL_DV_DW_confirm_on_device_desc_g": "Activați telecomanda apăsând butonul intermitent „Conectare” de pe dispozitiv în decurs de 3 minute. Asigurați-vă că dispozitivul nu rulează un ciclu.",
+    "CL_DV_LC_door_lock_management": "Managementul încuietorilor ușilor",
+    "CL_DV_LC_unlock_two_doors": "Deblocați două uși",
+    "CL_DV_LC_false_input_lock": "Blocare cu intrare falsă",
+    "CL_DV_LC_two_lock_tips": "Cheia poate controla două încuietori inteligente după pornire.",
+    "CL_DV_LC_add_password": "ADAUGĂ PAROLA",
+    "CL_DV_LC_no_password": "Fără parolă",
+    "CL_DV_LC_password_name": "NUME PAROLA",
+    "CL_DV_LC_password_6_10": "PAROLA (6-10 cifre)",
+    "CL_DV_LC_no_pairing_lock": "Fără împerechere a ușii",
+    "CL_DV_LC_add_door_lock": "ADAUGĂ BLOCARE UȘĂ"
 }
