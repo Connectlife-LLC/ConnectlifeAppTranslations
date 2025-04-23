@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Cihazın yıkama modunda olmaması gerekir.",
     "CL_DV_DW_confirm_on_device_desc_tft": "3 dakika içinde cihaz üzerindeki 'Onayla' düğmesine basarak uzaktan kumandayı etkinleştirin. Cihazın açık olduğundan ancak bir döngü çalıştırmadığından emin olun.",
     "CL_DV_DW_confirm_on_device_desc_his": "3 dakika içinde cihazda yanıp sönen 'Bağlan' düğmesine basarak uzaktan kumandayı etkinleştirin. Cihazın açık olduğundan ancak bir döngüde çalışmadığından emin olun.",
-    "CL_DV_DW_confirm_on_device_desc_g": "3 dakika içinde cihazda yanıp sönen 'Bağlan' düğmesine basarak uzaktan kumandayı etkinleştirin. Cihazın bir döngü çalıştırmadığından emin olun."
+    "CL_DV_DW_confirm_on_device_desc_g": "3 dakika içinde cihazda yanıp sönen 'Bağlan' düğmesine basarak uzaktan kumandayı etkinleştirin. Cihazın bir döngü çalıştırmadığından emin olun.",
+    "CL_DV_LC_door_lock_management": "Kapı Kilidi Yönetimi",
+    "CL_DV_LC_unlock_two_doors": "İki Kapıyı Aç",
+    "CL_DV_LC_false_input_lock": "Yanlış giriş kilidi",
+    "CL_DV_LC_two_lock_tips": "Anahtar açıldığında iki akıllı kapı kilidi kontrol edilebiliyor.",
+    "CL_DV_LC_add_password": "ŞİFRE EKLE",
+    "CL_DV_LC_no_password": "Şifre yok",
+    "CL_DV_LC_password_name": "ŞİFRE ADI",
+    "CL_DV_LC_password_6_10": "ŞİFRE (6-10 haneli)",
+    "CL_DV_LC_no_pairing_lock": "Eşleşmeyen kapı kilidi",
+    "CL_DV_LC_add_door_lock": "KAPI KİLİDİ EKLE"
 }

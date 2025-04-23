@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Das Gerät sollte sich nicht im Waschgang befinden.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Aktivieren Sie die Fernbedienung, indem Sie innerhalb von 3 Minuten die Bestätigungstaste am Gerät drücken. Stellen Sie sicher, dass das Gerät eingeschaltet ist, aber keinen Zyklus durchführt.",
     "CL_DV_DW_confirm_on_device_desc_his": "Aktivieren Sie die Fernbedienung, indem Sie innerhalb von 3 Minuten die blinkende „Verbinden“-Taste am Gerät drücken. Stellen Sie sicher, dass das Gerät eingeschaltet ist, aber keinen Zyklus durchführt.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktivieren Sie die Fernbedienung, indem Sie innerhalb von 3 Minuten die blinkende „Verbinden“-Taste am Gerät drücken. Stellen Sie sicher, dass das Gerät keinen Zyklus durchführt."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktivieren Sie die Fernbedienung, indem Sie innerhalb von 3 Minuten die blinkende „Verbinden“-Taste am Gerät drücken. Stellen Sie sicher, dass das Gerät keinen Zyklus durchführt.",
+    "CL_DV_LC_door_lock_management": "Türschlossverwaltung",
+    "CL_DV_LC_unlock_two_doors": "Öffne zwei Türen",
+    "CL_DV_LC_false_input_lock": "Sperre für falsche Eingaben",
+    "CL_DV_LC_two_lock_tips": "Der Schlüssel kann nach dem Einschalten zwei smarte Türschlösser steuern.",
+    "CL_DV_LC_add_password": "PASSWORT HINZUFÜGEN",
+    "CL_DV_LC_no_password": "Kein Passwort",
+    "CL_DV_LC_password_name": "PASSWORTNAME",
+    "CL_DV_LC_password_6_10": "PASSWORT (6-10 Ziffern)",
+    "CL_DV_LC_no_pairing_lock": "Kein Pairing-Türschloss",
+    "CL_DV_LC_add_door_lock": "TÜRSCHLOSS HINZUFÜGEN"
 }

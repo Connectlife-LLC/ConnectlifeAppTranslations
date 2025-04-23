@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Zariadenie by nemalo byť v umývacom cykle.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Aktivujte diaľkové ovládanie stlačením tlačidla „Potvrdiť“ na zariadení do 3 minút. Uistite sa, že je zariadenie zapnuté, ale neprebieha žiadny cyklus.",
     "CL_DV_DW_confirm_on_device_desc_his": "Aktivujte diaľkové ovládanie stlačením blikajúceho tlačidla „Pripojiť“ na zariadení do 3 minút. Uistite sa, že je zariadenie zapnuté, ale neprebieha žiadny cyklus.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktivujte diaľkové ovládanie stlačením blikajúceho tlačidla „Pripojiť“ na zariadení do 3 minút. Uistite sa, že zariadenie neprebieha cyklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktivujte diaľkové ovládanie stlačením blikajúceho tlačidla „Pripojiť“ na zariadení do 3 minút. Uistite sa, že zariadenie neprebieha cyklus.",
+    "CL_DV_LC_door_lock_management": "Správa zámku dverí",
+    "CL_DV_LC_unlock_two_doors": "Odomknite dvoje dvere",
+    "CL_DV_LC_false_input_lock": "Zámok falošného vstupu",
+    "CL_DV_LC_two_lock_tips": "Kľúč dokáže po zapnutí ovládať dva inteligentné zámky dverí.",
+    "CL_DV_LC_add_password": "PRIDAŤ HESLO",
+    "CL_DV_LC_no_password": "Žiadne heslo",
+    "CL_DV_LC_password_name": "MENO HESLA",
+    "CL_DV_LC_password_6_10": "HESLO (6-10 číslic)",
+    "CL_DV_LC_no_pairing_lock": "Žiadny párovací zámok dverí",
+    "CL_DV_LC_add_door_lock": "PRIDAŤ ZÁMOK DVERÍ"
 }

@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "A készülék nem lehet mosási ciklusban.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Engedélyezze a távirányítót az eszköz 'Megerősítés' gombjának 3 percen belüli megnyomásával. Győződjön meg arról, hogy a készülék be van kapcsolva, de nem fut ciklus.",
     "CL_DV_DW_confirm_on_device_desc_his": "Engedélyezze a távirányítót az eszköz villogó „Csatlakozás” gombjának 3 percen belüli megnyomásával. Győződjön meg arról, hogy a készülék be van kapcsolva, de nem fut ciklus.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Engedélyezze a távirányítót az eszköz villogó „Csatlakozás” gombjának 3 percen belüli megnyomásával. Győződjön meg arról, hogy a készülék nem fut ciklust."
+    "CL_DV_DW_confirm_on_device_desc_g": "Engedélyezze a távirányítót az eszköz villogó „Csatlakozás” gombjának 3 percen belüli megnyomásával. Győződjön meg arról, hogy a készülék nem fut ciklust.",
+    "CL_DV_LC_door_lock_management": "Ajtózár kezelés",
+    "CL_DV_LC_unlock_two_doors": "Nyisson ki két ajtót",
+    "CL_DV_LC_false_input_lock": "Hamis beviteli zár",
+    "CL_DV_LC_two_lock_tips": "A kulccsal bekapcsolás után két intelligens ajtózár vezérelhető.",
+    "CL_DV_LC_add_password": "JELSZÓ HOZZÁADÁSA",
+    "CL_DV_LC_no_password": "Nincs jelszó",
+    "CL_DV_LC_password_name": "JELSZÓ NÉV",
+    "CL_DV_LC_password_6_10": "JELSZÓ (6-10 számjegy)",
+    "CL_DV_LC_no_pairing_lock": "Nincs párosítási ajtózár",
+    "CL_DV_LC_add_door_lock": "AZ AJTÓZÁR HOZZÁADÁSA"
 }

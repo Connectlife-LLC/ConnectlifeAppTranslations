@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Het apparaat mag niet in een wasprogramma worden gebruikt.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Schakel de afstandsbediening in door binnen 3 minuten op de knop 'Bevestigen' op het apparaat te drukken. Zorg ervoor dat het apparaat is ingeschakeld, maar geen cyclus draait.",
     "CL_DV_DW_confirm_on_device_desc_his": "Schakel de afstandsbediening in door binnen 3 minuten op de knipperende 'Connect'-knop op het apparaat te drukken. Zorg ervoor dat het apparaat is ingeschakeld, maar geen cyclus draait.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Schakel de afstandsbediening in door binnen 3 minuten op de knipperende 'Connect'-knop op het apparaat te drukken. Zorg ervoor dat het apparaat geen wasprogramma draait."
+    "CL_DV_DW_confirm_on_device_desc_g": "Schakel de afstandsbediening in door binnen 3 minuten op de knipperende 'Connect'-knop op het apparaat te drukken. Zorg ervoor dat het apparaat geen wasprogramma draait.",
+    "CL_DV_LC_door_lock_management": "Deurslotbeheer",
+    "CL_DV_LC_unlock_two_doors": "Ontgrendel twee deuren",
+    "CL_DV_LC_false_input_lock": "Slot met valse invoer",
+    "CL_DV_LC_two_lock_tips": "Na het inschakelen kan de sleutel twee slimme deursloten bedienen.",
+    "CL_DV_LC_add_password": "WACHTWOORD TOEVOEGEN",
+    "CL_DV_LC_no_password": "Geen wachtwoord",
+    "CL_DV_LC_password_name": "WACHTWOORDNAAM",
+    "CL_DV_LC_password_6_10": "WACHTWOORD (6-10 cijfers)",
+    "CL_DV_LC_no_pairing_lock": "Geen koppeling deurslot",
+    "CL_DV_LC_add_door_lock": "DEURSLOT TOEVOEGEN"
 }
