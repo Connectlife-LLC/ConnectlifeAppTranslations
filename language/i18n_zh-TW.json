@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "該設備不應處於清洗循環中。",
     "CL_DV_DW_confirm_on_device_desc_tft": "在 3 分鐘內按下裝置上的「確認」按鈕即可啟用遠端控制。確保設備已通電但未運轉循環。",
     "CL_DV_DW_confirm_on_device_desc_his": "在 3 分鐘內按下裝置上閃爍的「連線」按鈕即可啟用遠端控制。確保設備已通電但未運轉循環。",
-    "CL_DV_DW_confirm_on_device_desc_g": "在 3 分鐘內按下裝置上閃爍的「連線」按鈕即可啟用遠端控制。確保設備沒有循環運作。"
+    "CL_DV_DW_confirm_on_device_desc_g": "在 3 分鐘內按下裝置上閃爍的「連線」按鈕即可啟用遠端控制。確保設備沒有循環運作。",
+    "CL_DV_LC_door_lock_management": "門鎖管理",
+    "CL_DV_LC_unlock_two_doors": "打開兩扇門",
+    "CL_DV_LC_false_input_lock": "誤輸入鎖",
+    "CL_DV_LC_two_lock_tips": "此鑰匙開啟後可控制兩把智慧門鎖。",
+    "CL_DV_LC_add_password": "新增密碼",
+    "CL_DV_LC_no_password": "沒有密碼",
+    "CL_DV_LC_password_name": "密碼名稱",
+    "CL_DV_LC_password_6_10": "密碼（6-10位數字）",
+    "CL_DV_LC_no_pairing_lock": "未配對門鎖",
+    "CL_DV_LC_add_door_lock": "添加門鎖"
 }

@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Naprava ne sme biti v ciklu pranja.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Omogočite daljinsko upravljanje tako, da v 3 minutah pritisnete gumb 'Potrdi' na napravi. Prepričajte se, da je naprava vklopljena, vendar ne izvaja cikla.",
     "CL_DV_DW_confirm_on_device_desc_his": "Omogočite daljinsko upravljanje tako, da v 3 minutah pritisnete utripajoč gumb »Poveži« na napravi. Prepričajte se, da je naprava vklopljena, vendar ne izvaja cikla.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Omogočite daljinsko upravljanje tako, da v 3 minutah pritisnete utripajoč gumb »Poveži« na napravi. Prepričajte se, da naprava ne izvaja cikla."
+    "CL_DV_DW_confirm_on_device_desc_g": "Omogočite daljinsko upravljanje tako, da v 3 minutah pritisnete utripajoč gumb »Poveži« na napravi. Prepričajte se, da naprava ne izvaja cikla.",
+    "CL_DV_LC_door_lock_management": "Upravljanje zaklepanja vrat",
+    "CL_DV_LC_unlock_two_doors": "Odkleni dvoje vrat",
+    "CL_DV_LC_false_input_lock": "Zaklepanje napačnega vnosa",
+    "CL_DV_LC_two_lock_tips": "Ključ lahko po vklopu upravlja dve pametni ključavnici vrat.",
+    "CL_DV_LC_add_password": "DODAJ GESLO",
+    "CL_DV_LC_no_password": "Brez gesla",
+    "CL_DV_LC_password_name": "GESLO IME",
+    "CL_DV_LC_password_6_10": "GESLO (6-10 mest)",
+    "CL_DV_LC_no_pairing_lock": "Ni ključavnice za seznanjanje vrat",
+    "CL_DV_LC_add_door_lock": "DODAJ KLJUČAVNICO"
 }

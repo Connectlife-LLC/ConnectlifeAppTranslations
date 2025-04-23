@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Thiết bị không nên ở chế độ giặt.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Bật điều khiển từ xa bằng cách nhấn nút 'Xác nhận' trên thiết bị trong vòng 3 phút. Đảm bảo thiết bị được bật nguồn nhưng không chạy chu kỳ.",
     "CL_DV_DW_confirm_on_device_desc_his": "Bật điều khiển từ xa bằng cách nhấn nút 'Kết nối' nhấp nháy trên thiết bị trong vòng 3 phút. Đảm bảo thiết bị được bật nguồn nhưng không chạy chu kỳ.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Bật điều khiển từ xa bằng cách nhấn nút 'Kết nối' nhấp nháy trên thiết bị trong vòng 3 phút. Đảm bảo thiết bị không chạy chu kỳ."
+    "CL_DV_DW_confirm_on_device_desc_g": "Bật điều khiển từ xa bằng cách nhấn nút 'Kết nối' nhấp nháy trên thiết bị trong vòng 3 phút. Đảm bảo thiết bị không chạy chu kỳ.",
+    "CL_DV_LC_door_lock_management": "Quản lý khóa cửa",
+    "CL_DV_LC_unlock_two_doors": "Mở khóa hai cánh cửa",
+    "CL_DV_LC_false_input_lock": "Khóa đầu vào sai",
+    "CL_DV_LC_two_lock_tips": "Chìa khóa có thể điều khiển hai ổ khóa cửa thông minh sau khi bật.",
+    "CL_DV_LC_add_password": "THÊM MẬT KHẨU",
+    "CL_DV_LC_no_password": "Không có mật khẩu",
+    "CL_DV_LC_password_name": "TÊN MẬT KHẨU",
+    "CL_DV_LC_password_6_10": "MẬT KHẨU (6-10 chữ số)",
+    "CL_DV_LC_no_pairing_lock": "Không có khóa cửa ghép nối",
+    "CL_DV_LC_add_door_lock": "THÊM KHÓA CỬA"
 }

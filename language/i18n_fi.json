@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Laite ei saa olla pesuohjelmassa.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Ota kauko-ohjain käyttöön painamalla laitteen Vahvista-painiketta 3 minuutin kuluessa. Varmista, että laitteeseen on kytketty virta, mutta se ei ole käynnissä.",
     "CL_DV_DW_confirm_on_device_desc_his": "Ota kauko-ohjain käyttöön painamalla laitteen vilkkuvaa Yhdistä-painiketta 3 minuutin kuluessa. Varmista, että laitteeseen on kytketty virta, mutta se ei ole käynnissä.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Ota kauko-ohjain käyttöön painamalla laitteen vilkkuvaa Yhdistä-painiketta 3 minuutin kuluessa. Varmista, että laite ei ole käynnissä."
+    "CL_DV_DW_confirm_on_device_desc_g": "Ota kauko-ohjain käyttöön painamalla laitteen vilkkuvaa Yhdistä-painiketta 3 minuutin kuluessa. Varmista, että laite ei ole käynnissä.",
+    "CL_DV_LC_door_lock_management": "Ovien lukkojen hallinta",
+    "CL_DV_LC_unlock_two_doors": "Avaa kaksi ovea",
+    "CL_DV_LC_false_input_lock": "Väärän syötön lukitus",
+    "CL_DV_LC_two_lock_tips": "Avaimella voidaan ohjata kahta älykästä ovenlukkoa päälle kytkemisen jälkeen.",
+    "CL_DV_LC_add_password": "LISÄÄ SALASANA",
+    "CL_DV_LC_no_password": "Ei salasanaa",
+    "CL_DV_LC_password_name": "SALASANA NIMI",
+    "CL_DV_LC_password_6_10": "SALASANA (6-10 numeroa)",
+    "CL_DV_LC_no_pairing_lock": "Ei pariliitoslukkoa",
+    "CL_DV_LC_add_door_lock": "LISÄÄ OVEN LUKKO"
 }
