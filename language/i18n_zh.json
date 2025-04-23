@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "该设备不应处于清洗循环中。",
     "CL_DV_DW_confirm_on_device_desc_tft": "在 3 分钟内按下设备上的“确认”按钮启用远程控制。确保设备已开启但未运行任何循环。",
     "CL_DV_DW_confirm_on_device_desc_his": "在 3 分钟内按下设备上闪烁的“连接”按钮，即可启用远程控制。确保设备已开启但未运行任何循环。",
-    "CL_DV_DW_confirm_on_device_desc_g": "在 3 分钟内按下设备上闪烁的“连接”按钮，启用远程控制。确保设备未处于循环运行状态。"
+    "CL_DV_DW_confirm_on_device_desc_g": "在 3 分钟内按下设备上闪烁的“连接”按钮，启用远程控制。确保设备未处于循环运行状态。",
+    "CL_DV_LC_door_lock_management": "门锁管理",
+    "CL_DV_LC_unlock_two_doors": "打开两扇门",
+    "CL_DV_LC_false_input_lock": "误输入锁",
+    "CL_DV_LC_two_lock_tips": "该钥匙开启后可控制两把智能门锁。",
+    "CL_DV_LC_add_password": "添加密码",
+    "CL_DV_LC_no_password": "没有密码",
+    "CL_DV_LC_password_name": "密码名称",
+    "CL_DV_LC_password_6_10": "密码（6-10位数字）",
+    "CL_DV_LC_no_pairing_lock": "未配对门锁",
+    "CL_DV_LC_add_door_lock": "添加门锁"
 }

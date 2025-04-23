@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "The device should not be in a washing cycle.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Enable remote control by pressing the 'Confirm' button on the device within 3 minutes. Ensure the device is powered on but not running a cycle.",
     "CL_DV_DW_confirm_on_device_desc_his": "Enable remote control by pressing the flashing 'Connect' button on the device within 3 minutes. Ensure the device is powered on but not running a cycle.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Enable remote control by pressing the flashing 'Connect' button on the device within 3 minutes. Ensure the device is not running a cycle."
+    "CL_DV_DW_confirm_on_device_desc_g": "Enable remote control by pressing the flashing 'Connect' button on the device within 3 minutes. Ensure the device is not running a cycle.",
+    "CL_DV_LC_door_lock_management": "Door Lock Management",
+    "CL_DV_LC_unlock_two_doors": "Unlock Two Doors",
+    "CL_DV_LC_false_input_lock": "False-input Lock",
+    "CL_DV_LC_two_lock_tips": "The key can control two smart door locks after turning on.",
+    "CL_DV_LC_add_password": "ADD PASSWORD",
+    "CL_DV_LC_no_password": "No password",
+    "CL_DV_LC_password_name": "PASSWORD NAME",
+    "CL_DV_LC_password_6_10": "PASSWORD (6-10 digit)",
+    "CL_DV_LC_no_pairing_lock": "No pairing door lock",
+    "CL_DV_LC_add_door_lock": "ADD DOOR LOCK"
 }

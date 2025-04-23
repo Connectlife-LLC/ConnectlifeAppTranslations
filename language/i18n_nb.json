@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Enheten skal ikke være i en vaskesyklus.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Aktiver fjernkontrollen ved å trykke på \"Bekreft\"-knappen på enheten innen 3 minutter. Sørg for at enheten er slått på, men ikke kjører en syklus.",
     "CL_DV_DW_confirm_on_device_desc_his": "Aktiver fjernkontrollen ved å trykke på den blinkende 'Koble til'-knappen på enheten innen 3 minutter. Sørg for at enheten er slått på, men ikke kjører en syklus.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktiver fjernkontrollen ved å trykke på den blinkende 'Koble til'-knappen på enheten innen 3 minutter. Sørg for at enheten ikke kjører en syklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktiver fjernkontrollen ved å trykke på den blinkende 'Koble til'-knappen på enheten innen 3 minutter. Sørg for at enheten ikke kjører en syklus.",
+    "CL_DV_LC_door_lock_management": "Dørlåsstyring",
+    "CL_DV_LC_unlock_two_doors": "Lås opp to dører",
+    "CL_DV_LC_false_input_lock": "Falsk-input lås",
+    "CL_DV_LC_two_lock_tips": "Nøkkelen kan styre to smarte dørlåser etter at den er slått på.",
+    "CL_DV_LC_add_password": "LEGG TIL PASSORD",
+    "CL_DV_LC_no_password": "Ingen passord",
+    "CL_DV_LC_password_name": "PASSORDNAVN",
+    "CL_DV_LC_password_6_10": "PASSORD (6–10 sifre)",
+    "CL_DV_LC_no_pairing_lock": "Ingen sammenkoblingsdørlås",
+    "CL_DV_LC_add_door_lock": "LEGG TIL DØRLÅS"
 }

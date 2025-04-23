@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Uređaj ne smije biti u ciklusu pranja.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Omogućite daljinsko upravljanje pritiskom na gumb 'Potvrdi' na uređaju unutar 3 minute. Provjerite je li uređaj uključen, ali ne izvodi ciklus.",
     "CL_DV_DW_confirm_on_device_desc_his": "Omogućite daljinsko upravljanje pritiskom na trepćući gumb 'Poveži' na uređaju unutar 3 minute. Provjerite je li uređaj uključen, ali ne izvodi ciklus.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Omogućite daljinsko upravljanje pritiskom na trepćući gumb 'Poveži' na uređaju unutar 3 minute. Uvjerite se da uređaj ne izvodi ciklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Omogućite daljinsko upravljanje pritiskom na trepćući gumb 'Poveži' na uređaju unutar 3 minute. Uvjerite se da uređaj ne izvodi ciklus.",
+    "CL_DV_LC_door_lock_management": "Upravljanje zaključavanjem vrata",
+    "CL_DV_LC_unlock_two_doors": "Otključaj dvoja vrata",
+    "CL_DV_LC_false_input_lock": "Zaključavanje lažnog unosa",
+    "CL_DV_LC_two_lock_tips": "Ključ može kontrolirati dvije pametne brave nakon uključivanja.",
+    "CL_DV_LC_add_password": "DODAJTE LOZINKU",
+    "CL_DV_LC_no_password": "Nema lozinke",
+    "CL_DV_LC_password_name": "IME LOZINKE",
+    "CL_DV_LC_password_6_10": "LOZINKA (6-10 znamenki)",
+    "CL_DV_LC_no_pairing_lock": "Nema brave za uparivanje vrata",
+    "CL_DV_LC_add_door_lock": "DODAJTE BRAVU ZA VRATA"
 }

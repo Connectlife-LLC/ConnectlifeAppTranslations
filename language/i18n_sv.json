@@ -5324,5 +5324,15 @@
     "CL_DV_DW_permanent_control_warning_g": "Enheten bör inte vara i en tvättcykel.",
     "CL_DV_DW_confirm_on_device_desc_tft": "Aktivera fjärrkontrollen genom att trycka på \"Bekräfta\"-knappen på enheten inom 3 minuter. Se till att enheten är påslagen men inte kör en cykel.",
     "CL_DV_DW_confirm_on_device_desc_his": "Aktivera fjärrkontrollen genom att trycka på den blinkande 'Anslut'-knappen på enheten inom 3 minuter. Se till att enheten är påslagen men inte kör en cykel.",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktivera fjärrkontrollen genom att trycka på den blinkande 'Anslut'-knappen på enheten inom 3 minuter. Se till att enheten inte kör en cykel."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktivera fjärrkontrollen genom att trycka på den blinkande 'Anslut'-knappen på enheten inom 3 minuter. Se till att enheten inte kör en cykel.",
+    "CL_DV_LC_door_lock_management": "Dörrlåshantering",
+    "CL_DV_LC_unlock_two_doors": "Lås upp två dörrar",
+    "CL_DV_LC_false_input_lock": "Lås med falsk ingång",
+    "CL_DV_LC_two_lock_tips": "Nyckeln kan styra två smarta dörrlås efter påslagning.",
+    "CL_DV_LC_add_password": "LÄGG TILL LÖSENORD",
+    "CL_DV_LC_no_password": "Inget lösenord",
+    "CL_DV_LC_password_name": "LÖSENORD NAMN",
+    "CL_DV_LC_password_6_10": "LÖSENORD (6–10 siffror)",
+    "CL_DV_LC_no_pairing_lock": "Inget parningsdörrlås",
+    "CL_DV_LC_add_door_lock": "LÄGG TILL DÖRRLÅS"
 }
