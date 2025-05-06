@@ -4014,7 +4014,7 @@
     "CL_DV_HOB_hood_mode_setting_hint": "如果自动模式关闭，则模式将为手动。",
     "CL_DV_HOB_automatic_mode": "自动模式",
     "CL_DV_HOB_refresh_setting_hint": "开启清新模式后，抽油烟机每小时自动运行选定的时长，以保持空气清洁。",
-    "CL_DV_HOB_grease_filter_profile_content": "设定油脂过滤器的使用寿命。 \n\n P1主要用于煮和轻煎，P2用于均衡煮和中度煎，P3用于重煎。",
+    "CL_DV_HOB_grease_filter_profile_content": "根据烹饪风格设置油脂过滤器的清洁间隔。__ \n \n P1 - 主要用于水煮和轻煎\n P2 - 主要用于均衡水煮和中等煎炸\n P3 - 用于重煎",
     "CL_DV_HOB_hood_mode_manual": "手动的",
     "CL_DV_HOB_remove_accessory_content": "您确实要移除此配件吗？",
     "CL_DV_HOB_remove_accessory_tips": "当您移除配件时，您将不再收到该配件的固件更新。",
@@ -5368,7 +5368,7 @@
     "CL_CF_CS_Add_professional_device": "添加专业设备",
     "CL_CS_CF_manual_enter_pay_attention_tip": "注意：注意区分数字0和字母O。",
     "CL_CF_CS_Choose_the_controller_which_your_device_uses": "选择您的设备使用的控制器。",
-    "CL_CF_CS_air_wired_controller_type_2_step3_blod": "按下@wire遥控器#中的“睡眠”按钮8次。",
+    "CL_CF_CS_air_wired_controller_type_2_step3_blod": "按@线控器#中的“睡眠”按钮8次。",
     "CL_CF_when_temperature": "当温度为##时",
     "CL_CF_when_humidity": "当湿度为##",
     "CL_CF_when_weather_phenomenon": "当天气现象是##",
@@ -5380,5 +5380,11 @@
     "CL_CF_CS_air_remote_controller_type_1_step3": "连续按遥控器“水平摆动”键6次。",
     "CL_CF_CS_heating_device_name": "加热",
     "CL_DV_LC_blue_connect_fail": "蓝牙连接失败，请重试。",
-    "CL_CF_CS_search_for_manuals": "搜索手册"
+    "CL_CF_CS_search_for_manuals": "搜索手册",
+    "CL_CF_CS_Where_to_find_the_device_label": "在哪里可以找到设备标签？",
+    "CL_DV_LC_connect_by_other": "当前设备已被其他设备连接，请稍后重试。",
+    "CL_DV_LC_pair_error_tips": "设备绑定失败，请稍后重新绑定。",
+    "CL_DV_LC_mul_bind_tips": "绑定后，请使用应用程序测试锁定和解锁以区分设备。__ \n",
+    "CL_DV_LC_no_pairing_accessory": "无配对配件",
+    "CL_DV_LC_add_accessores": "添加配件"
 }
