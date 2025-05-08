@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Nastavite velikost pisave za besedilo na zaslonu pečice.",
     "asko_oven_show_date_content": "Prikaži datum na zaslonu ure ali ne.",
     "asko_oven_show_bg_content": "Prikaz ozadja na zaslonu pečice ali ne.",
-    "asko_oven_light_setting_content": "Nastavite {} {} {} po svojih željah.",
+    "asko_oven_light_setting_content": "Konfigurirajte nastavitve za luči v pečici.",
     "asko_oven_stage_light_content": "Osvetlitev pod nadzorno ploščo pečice za osvetlitev jedi, ko jo vzamete iz pečice.",
     "asko_oven_stage_light": "Scenska luč",
     "asko_oven_color_temperature": "TEMPERATURA BARVE",

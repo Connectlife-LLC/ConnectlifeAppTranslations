@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Şarap ekranındaki metnin yazı tipi boyutunu ayarlayın.",
     "asko_oven_show_date_content": "Saat ekranında tarih gösterilsin mi gösterilmesin mi?",
     "asko_oven_show_bg_content": "Fırın ekranında arka planların gösterilmesi veya gösterilmemesi.",
-    "asko_oven_light_setting_content": "{} {} {} öğesini tercihlerinize göre ayarlayın.",
+    "asko_oven_light_setting_content": "Fırın ışıklarınızın ayarlarını yapılandırın.",
     "asko_oven_stage_light_content": "Fırın kontrol panelinin altında, yemeğiniz fırından çıkarıldığında aydınlatılmasını sağlayan aydınlatma.",
     "asko_oven_stage_light": "Sahne ışığı",
     "asko_oven_color_temperature": "RENK SICAKLIĞI",

@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Nastavte velikost písma pro text na displeji vína.",
     "asko_oven_show_date_content": "Zobrazit datum na obrazovce hodin nebo ne.",
     "asko_oven_show_bg_content": "Zobrazit pozadí na displeji trouby nebo ne.",
-    "asko_oven_light_setting_content": "Nastavte {} {} {} podle svých preferencí.",
+    "asko_oven_light_setting_content": "Nakonfigurujte nastavení osvětlení trouby.",
     "asko_oven_stage_light_content": "Osvětlení pod ovládacím panelem trouby pro osvětlení pokrmu při vyjímání z trouby.",
     "asko_oven_stage_light": "Jevištní světlo",
     "asko_oven_color_temperature": "TEPLOTA BAREV",

@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Állítsa be a borkijelzőn megjelenő szöveg betűméretét.",
     "asko_oven_show_date_content": "A dátum megjelenítése az óra képernyőjén vagy sem.",
     "asko_oven_show_bg_content": "Megjeleníti-e a hátteret a sütő kijelzőjén, vagy sem.",
-    "asko_oven_light_setting_content": "Állítsa be a {} {} {} értéket a saját preferenciái szerint.",
+    "asko_oven_light_setting_content": "Konfigurálja a sütő világításának beállításait.",
     "asko_oven_stage_light_content": "Világítás a sütő kezelőpanelje alatt, hogy megvilágítsa az edényt, miközben kiemeli az üregből.",
     "asko_oven_stage_light": "Színpadi fény",
     "asko_oven_color_temperature": "SZÍNHŐMÉRSÉKLET",

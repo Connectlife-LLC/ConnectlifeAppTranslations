@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "वाइन डिस्प्ले पर टेक्स्ट के लिए फ़ॉन्ट आकार सेट करें।",
     "asko_oven_show_date_content": "घड़ी स्क्रीन पर तारीख दिखाओ या नहीं।",
     "asko_oven_show_bg_content": "ओवन डिस्प्ले पर पृष्ठभूमि दिखाएं या नहीं।",
-    "asko_oven_light_setting_content": "{} {} {} को अपनी प्राथमिकता के अनुसार सेट करें।",
+    "asko_oven_light_setting_content": "अपने ओवन लाइट के लिए सेटिंग्स कॉन्फ़िगर करें।",
     "asko_oven_stage_light_content": "ओवन नियंत्रण पैनल के नीचे प्रकाश व्यवस्था, जिससे आपके बर्तन को गुहा से बाहर निकालते समय प्रकाश मिलता है।",
     "asko_oven_stage_light": "स्टेज लाइट",
     "asko_oven_color_temperature": "रंग तापमान",

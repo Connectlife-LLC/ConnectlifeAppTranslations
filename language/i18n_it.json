@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Impostare la dimensione dei caratteri per il testo sul display del forno.",
     "asko_oven_show_date_content": "Visualizzare o meno la data sullo schermo dell'orologio.",
     "asko_oven_show_bg_content": "Visualizzare o meno gli sfondi sul display del forno.",
-    "asko_oven_light_setting_content": "Imposta {} {} {} in base alle tue preferenze.",
+    "asko_oven_light_setting_content": "Configura le impostazioni per le luci del forno.",
     "asko_oven_stage_light_content": "Illuminazione posizionata sotto il pannello di controllo del forno per illuminare la pietanza quando viene tolta dalla cavità.",
     "asko_oven_stage_light": "Luce scenica",
     "asko_oven_color_temperature": "TEMPERATURA DEL COLORE",

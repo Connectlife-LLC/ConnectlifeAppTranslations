@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Set the font size for text on the oven display.",
     "asko_oven_show_date_content": "Show date on clock screen or not.",
     "asko_oven_show_bg_content": "Show backgrounds on the oven display or not.",
-    "asko_oven_light_setting_content": "Set the {} {} {} to your preferences.",
+    "asko_oven_light_setting_content": "Configure the settings for your oven lights.",
     "asko_oven_stage_light_content": "Lighting below the oven control panel to illuminate your dish while taken out of the cavity.",
     "asko_oven_stage_light": "Stage light",
     "asko_oven_color_temperature": "COLOR TEMPERATURE",

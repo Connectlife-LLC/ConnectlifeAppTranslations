@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Establezca el tamaño de fuente para el texto en la exhibición de vinos.",
     "asko_oven_show_date_content": "Mostrar la fecha en la pantalla del reloj o no.",
     "asko_oven_show_bg_content": "Mostrar fondos en la pantalla del horno o no.",
-    "asko_oven_light_setting_content": "Establezca {} {} {} según sus preferencias.",
+    "asko_oven_light_setting_content": "Configure los ajustes de las luces de su horno.",
     "asko_oven_stage_light_content": "Iluminación debajo del panel de control del horno para iluminar su plato mientras lo saca de la cavidad.",
     "asko_oven_stage_light": "Luz de escenario",
     "asko_oven_color_temperature": "TEMPERATURA DEL COLOR",

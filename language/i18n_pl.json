@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Ustaw rozmiar czcionki tekstu na wyświetlaczu piekarnika.",
     "asko_oven_show_date_content": "Czy pokazywać datę na ekranie zegara, czy nie.",
     "asko_oven_show_bg_content": "Czy na wyświetlaczu piekarnika ma być widoczne tło?",
-    "asko_oven_light_setting_content": "Ustaw {} {} {} zgodnie ze swoimi preferencjami.",
+    "asko_oven_light_setting_content": "Skonfiguruj ustawienia oświetlenia piekarnika.",
     "asko_oven_stage_light_content": "Oświetlenie pod panelem sterowania piekarnika, umożliwiające oświetlenie potrawy po wyjęciu jej z piekarnika.",
     "asko_oven_stage_light": "Światło sceniczne",
     "asko_oven_color_temperature": "TEMPERATURA BARWOWA",

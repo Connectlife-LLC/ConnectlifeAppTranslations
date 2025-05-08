@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Aseta viininäytön tekstin fonttikoko.",
     "asko_oven_show_date_content": "Näytä päivämäärä kellonäytössä vai ei.",
     "asko_oven_show_bg_content": "Näytä taustat uunin näytössä vai ei.",
-    "asko_oven_light_setting_content": "Aseta {} {} {} omien mieltymystesi mukaan.",
+    "asko_oven_light_setting_content": "Määritä uunin valojen asetukset.",
     "asko_oven_stage_light_content": "Uunin ohjauspaneelin alapuolella oleva valaistus, joka valaisee astiasi, kun se otetaan ulos ontelosta.",
     "asko_oven_stage_light": "Lavavalo",
     "asko_oven_color_temperature": "VÄRILÄMPÖTILA",

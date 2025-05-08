@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Still inn skriftstørrelsen for tekst på vindisplayet.",
     "asko_oven_show_date_content": "Vis dato på klokkeskjermen eller ikke.",
     "asko_oven_show_bg_content": "Vis bakgrunn på ovnsdisplayet eller ikke.",
-    "asko_oven_light_setting_content": "Sett {} {} {} til dine preferanser.",
+    "asko_oven_light_setting_content": "Konfigurer innstillingene for ovnslysene.",
     "asko_oven_stage_light_content": "Belysning under ovnens kontrollpanel for å lyse opp retten mens den tas ut av hulrommet.",
     "asko_oven_stage_light": "Scenelys",
     "asko_oven_color_temperature": "FARGETEMPERATUR",

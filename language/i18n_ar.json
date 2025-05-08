@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "اضبط حجم الخط للنص على شاشة النبيذ.",
     "asko_oven_show_date_content": "إظهار التاريخ على شاشة الساعة أم لا.",
     "asko_oven_show_bg_content": "إظهار الخلفيات على شاشة الفرن أم لا.",
-    "asko_oven_light_setting_content": "قم بضبط {} {} {} حسب تفضيلاتك.",
+    "asko_oven_light_setting_content": "قم بتكوين الإعدادات الخاصة بأضواء الفرن لديك.",
     "asko_oven_stage_light_content": "إضاءة أسفل لوحة التحكم بالفرن لإضاءة الطبق أثناء إخراجه من تجويف الفرن.",
     "asko_oven_stage_light": "ضوء المسرح",
     "asko_oven_color_temperature": "درجة حرارة اللون",

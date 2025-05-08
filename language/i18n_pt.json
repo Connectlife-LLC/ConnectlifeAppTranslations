@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Definir o tamanho da fonte para o texto no ecrã do forno.",
     "asko_oven_show_date_content": "Mostrar ou não a data no ecrã do relógio.",
     "asko_oven_show_bg_content": "Mostrar ou não fundos no ecrã do forno.",
-    "asko_oven_light_setting_content": "Defina {} {} {} de acordo com suas preferências.",
+    "asko_oven_light_setting_content": "Configure as definições das luzes do seu forno.",
     "asko_oven_stage_light_content": "Iluminação por baixo do painel de controlo para iluminar o prato quando o retira.",
     "asko_oven_stage_light": "Luz",
     "asko_oven_color_temperature": "TEMPERATURA DA COR",
