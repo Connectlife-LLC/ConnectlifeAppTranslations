@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "กำหนดขนาดตัวอักษรสำหรับข้อความบนจอแสดงผลไวน์",
     "asko_oven_show_date_content": "แสดงวันที่บนหน้าจอนาฬิกาหรือไม่",
     "asko_oven_show_bg_content": "แสดงพื้นหลังบนจอแสดงผลเตาอบหรือไม่",
-    "asko_oven_light_setting_content": "ตั้งค่า {} {} {} ตามความต้องการของคุณ",
+    "asko_oven_light_setting_content": "กำหนดค่าการตั้งค่าสำหรับไฟเตาอบของคุณ",
     "asko_oven_stage_light_content": "แสงสว่างใต้แผงควบคุมเตาอบเพื่อส่องสว่างจานของคุณในขณะที่นำออกจากช่อง",
     "asko_oven_stage_light": "ไฟเวที",
     "asko_oven_color_temperature": "อุณหภูมิสี",

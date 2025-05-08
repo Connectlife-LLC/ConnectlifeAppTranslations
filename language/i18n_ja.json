@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "ワインディスプレイ上のテキストのフォントサイズを設定します。",
     "asko_oven_show_date_content": "時計画面に日付を表示するかどうか。",
     "asko_oven_show_bg_content": "オーブンのディスプレイに背景を表示するかどうか。",
-    "asko_oven_light_setting_content": "{} {} {} を好みに合わせて設定します。",
+    "asko_oven_light_setting_content": "オーブンのライトの設定を構成します。",
     "asko_oven_stage_light_content": "オーブンのコントロール パネルの下にある照明で、オーブンから取り出した料理を照らします。",
     "asko_oven_stage_light": "ステージライト",
     "asko_oven_color_temperature": "色温度",

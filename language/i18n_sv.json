@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Ställ in teckenstorleken för text på vindisplayen.",
     "asko_oven_show_date_content": "Visa datum på klockskärmen eller inte.",
     "asko_oven_show_bg_content": "Visa bakgrunder på ugnsdisplayen eller inte.",
-    "asko_oven_light_setting_content": "Ställ in {} {} {} efter dina inställningar.",
+    "asko_oven_light_setting_content": "Konfigurera inställningarna för ugnsbelysningen.",
     "asko_oven_stage_light_content": "Belysning under ugnens kontrollpanel för att lysa upp din tallrik när den tas ut ur ugnen.",
     "asko_oven_stage_light": "Scenljus",
     "asko_oven_color_temperature": "FÄRGTEMPERATUR",

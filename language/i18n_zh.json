@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "设置葡萄酒显示屏上文本的字体大小。",
     "asko_oven_show_date_content": "是否在时钟屏幕上显示日期。",
     "asko_oven_show_bg_content": "是否在烤箱显示屏上显示背景。",
-    "asko_oven_light_setting_content": "将 {} {} {} 设置为您的偏好设置。",
+    "asko_oven_light_setting_content": "配置烤箱灯的设置。",
     "asko_oven_stage_light_content": "烤箱控制面板下方的照明灯可在您将菜肴从烤箱中取出时照亮它。",
     "asko_oven_stage_light": "舞台灯光",
     "asko_oven_color_temperature": "色温",

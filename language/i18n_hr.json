@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Postavite veličinu fonta za tekst na zaslonu.",
     "asko_oven_show_date_content": "Prikaži datum na zaslonu sata ili ne.",
     "asko_oven_show_bg_content": "Prikaži pozadinu na zaslonu pećnice ili ne.",
-    "asko_oven_light_setting_content": "Postavite {} {} {} prema svojim preferencijama.",
+    "asko_oven_light_setting_content": "Konfigurirajte postavke za svjetla u pećnici.",
     "asko_oven_stage_light_content": "Osvjetljenje ispod upravljačke ploče pećnice za osvjetljavanje vašeg jela prilikom izvlačenja iz pećnice.",
     "asko_oven_stage_light": "Svjetlo",
     "asko_oven_color_temperature": "TEMPERATURA",

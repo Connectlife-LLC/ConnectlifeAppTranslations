@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Задайте размера на шрифта за текст на дисплея за вино.",
     "asko_oven_show_date_content": "Показване на дата на екрана на часовника или не.",
     "asko_oven_show_bg_content": "Показване на фонове на дисплея на фурната или не.",
-    "asko_oven_light_setting_content": "Задайте {} {} {} според вашите предпочитания.",
+    "asko_oven_light_setting_content": "Конфигурирайте настройките за осветлението на фурната.",
     "asko_oven_stage_light_content": "Осветление под контролния панел на фурната, за да освети ястието ви, докато е извадено от кухината.",
     "asko_oven_stage_light": "Сценична светлина",
     "asko_oven_color_temperature": "ЦВЕТНА ТЕМПЕРАТУРА",

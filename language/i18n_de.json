@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Legen Sie die Schriftgröße für den Text auf der Weinanzeige fest.",
     "asko_oven_show_date_content": "Datum auf dem Uhrbildschirm anzeigen oder nicht.",
     "asko_oven_show_bg_content": "Hintergründe auf dem Ofendisplay anzeigen oder nicht.",
-    "asko_oven_light_setting_content": "Stellen Sie die {} {} {} nach Ihren Wünschen ein.",
+    "asko_oven_light_setting_content": "Konfigurieren Sie die Einstellungen für Ihre Backofenbeleuchtung.",
     "asko_oven_stage_light_content": "Beleuchtung unter dem Bedienfeld des Ofens, um Ihr Gericht zu beleuchten, wenn es aus dem Garraum genommen wird.",
     "asko_oven_stage_light": "Bühnenlicht",
     "asko_oven_color_temperature": "FARBTEMPERATUR",

@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Установите размер шрифта для текста на дисплее вина.",
     "asko_oven_show_date_content": "Показывать дату на экране часов или нет.",
     "asko_oven_show_bg_content": "Показывать фон на дисплее духовки или нет.",
-    "asko_oven_light_setting_content": "Установите {} {} {} в соответствии с вашими предпочтениями.",
+    "asko_oven_light_setting_content": "Настройте параметры освещения духовки.",
     "asko_oven_stage_light_content": "Подсветка под панелью управления духовки для освещения блюда, когда оно извлечено из камеры.",
     "asko_oven_stage_light": "Сценический свет",
     "asko_oven_color_temperature": "ЦВЕТОВАЯ ТЕМПЕРАТУРА",

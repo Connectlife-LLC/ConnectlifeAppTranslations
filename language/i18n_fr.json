@@ -3661,7 +3661,7 @@
     "asko_oven_display_content": "Définissez la taille de la police du texte sur l'écran du vin.",
     "asko_oven_show_date_content": "Afficher la date sur l'écran de l'horloge ou non.",
     "asko_oven_show_bg_content": "Afficher ou non les arrière-plans sur l'écran du four.",
-    "asko_oven_light_setting_content": "Définissez le {} {} {} selon vos préférences.",
+    "asko_oven_light_setting_content": "Configurez les paramètres des lumières de votre four.",
     "asko_oven_stage_light_content": "Éclairage sous le panneau de commande du four pour éclairer votre plat dès sa sortie de la cavité.",
     "asko_oven_stage_light": "Lumière de scène",
     "asko_oven_color_temperature": "TEMPÉRATURE DE COULEUR",
