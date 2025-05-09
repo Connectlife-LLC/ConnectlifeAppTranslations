@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Activez cette fonction si vous souhaitez que l'heure change automatiquement en fonction des règles locales d'heure d'été.",
     "CL_CF_CM_favorite_name_blank_tip": "Le nom ne peut pas être vide",
     "CL_CF_AC_add_group": "Ajouter un groupe",
-    "CL_CF_AC_edit_group": "Modifier un groupe"
+    "CL_CF_AC_edit_group": "Modifier un groupe",
+    "CL_CF_WM_cloud_program_title": "Programmes Cloud",
+    "CL_CF_WM_download_to_device": "Télécharger sur les appareils",
+    "CL_CF_WM_download_to": "Télécharger sur"
 }

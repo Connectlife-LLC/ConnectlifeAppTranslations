@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "如果您希望根据当地夏令时规则自动更改时间，请启用此功能。",
     "CL_CF_CM_favorite_name_blank_tip": "名称不能为空",
     "CL_CF_AC_add_group": "添加群组",
-    "CL_CF_AC_edit_group": "编辑群组"
+    "CL_CF_AC_edit_group": "编辑群组",
+    "CL_CF_WM_cloud_program_title": "云程序",
+    "CL_CF_WM_download_to_device": "下载至设备",
+    "CL_CF_WM_download_to": "下载至"
 }
