@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "點擊並按住 Wi-Fi 鍵 3 秒鐘，直到 Wi-Fi 開始閃爍。設備網路現已開放連接，持續時間為 5 分鐘。 \n點選「下一步」繼續。",
     "CL_CF_CS_hob_hi_6_p_2": "點擊並按住 Wi-Fi 鍵 6 秒鐘，直到 Wi-Fi 開始閃爍。該設備現在已準備好配對，等待 3 分鐘。 \n點選「下一步」繼續。",
     "CL_DV_OV_calibration_active": "校準激活",
-    "CL_DV_OV_calibration_active_desc": "您的烤箱正在校準。這可能需要長達 4 小時。在此期間，功能受到限制。"
+    "CL_DV_OV_calibration_active_desc": "您的烤箱正在校準。這可能需要長達 4 小時。在此期間，功能受到限制。",
+    "ai_trouble_shooting_eg": "您可以詢問以下問題：",
+    "ai_trouble_shooting_eg1": "設備上的 E3 是什麼意思？",
+    "ai_trouble_shooting_eg2": "為什麼我的洗衣機不排水？",
+    "ai_trouble_shooting_eg3": "我的機器無法啟動。"
 }

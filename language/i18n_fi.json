@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Napauta ja pidä Wi-Fi-näppäintä painettuna 3 sekuntia, kunnes Wi-Fi-merkkivalo alkaa vilkkua. Laitteen verkko on nyt avoinna yhteydelle 5 minuutiksi. \n Jatka napsauttamalla SEURAAVA.",
     "CL_CF_CS_hob_hi_6_p_2": "Napauta ja pidä Wi-Fi-näppäintä painettuna 6 sekuntia, kunnes Wi-Fi alkaa vilkkua. Laite on nyt valmis pariliitokseen 3 minuutin ajan. \n Jatka napsauttamalla SEURAAVA.",
     "CL_DV_OV_calibration_active": "Kalibrointi aktiivinen",
-    "CL_DV_OV_calibration_active_desc": "Uuni kalibroituu. Tämä voi kestää jopa 4 tuntia. Toiminnot ovat rajoitettuja tänä aikana."
+    "CL_DV_OV_calibration_active_desc": "Uuni kalibroituu. Tämä voi kestää jopa 4 tuntia. Toiminnot ovat rajoitettuja tänä aikana.",
+    "ai_trouble_shooting_eg": "Esimerkkejä siitä, mitä voit kysyä:",
+    "ai_trouble_shooting_eg1": "Mitä laitteen E3-koodi tarkoittaa?",
+    "ai_trouble_shooting_eg2": "Miksi pesukoneeni ei tyhjennä vettä?",
+    "ai_trouble_shooting_eg3": "Koneeni ei käynnisty."
 }
