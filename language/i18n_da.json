@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Indstil kanalforstærkningen",
     "CL_CF_WM_download_program_first": "Download venligst cloud-programmet til din lokale maskine først, og kør det derefter.",
     "CL_DV_LRC_water_drain_desc": "Denne funktion lader dig vælge, hvad apparatet skal gøre med det kondensvand, der produceres under tørring. \"Tank\" betyder, at dette vand opsamles i den dedikerede vandtank og bør tømmes med jævne mellemrum. \"Dræn\" betyder, at brugeren har tilsluttet apparatet til et afløbsafløb, så vandet kan bortskaffes direkte uden om tanken.",
-    "CL_DV_DW_pause": "Pause",
+    "CL_DV_DW_paused": "Pause",
     "confirm_tv_network_connected_ios": "Sørg for, at appen har aktiveret tilladelse til lokalt netværk, og at din telefon og dit tv er på samme Wi-Fi.",
     "CL_CF_CS_device_name_air_conditioner": "Klimaanlæg",
     "CL_CS_CF_Portable_air_conditioner": "Bærbart airconditionapparat",

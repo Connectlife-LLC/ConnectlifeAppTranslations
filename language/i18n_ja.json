@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "チャンネルゲインを設定する",
     "CL_CF_WM_download_program_first": "まずクラウド プログラムをローカル マシンにダウンロードしてから実行してください。",
     "CL_DV_LRC_water_drain_desc": "この機能を使用すると、乾燥中に生成された凝縮水をアプライアンスがどのように処理するかを選択できます。 「タンク」とは、この水が専用の水タンクに集められ、定期的に空にする必要があることを意味します。 「排水管」とは、ユーザーがアプライアンスを排水管に接続し、タンクをバイパスして水を直接廃棄できることを意味します。",
-    "CL_DV_DW_pause": "一時停止",
+    "CL_DV_DW_paused": "一時停止",
     "confirm_tv_network_connected_ios": "アプリでローカルネットワークの許可がオンになっていること、および携帯電話とテレビが同じ WiFi に接続されていることを確認してください。",
     "CL_CF_CS_device_name_air_conditioner": "エアコン",
     "CL_CS_CF_Portable_air_conditioner": "スポットエアコン",

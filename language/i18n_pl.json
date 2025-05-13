@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Ustaw wzmocnienie kanału",
     "CL_CF_WM_download_program_first": "Najpierw pobierz program w chmurze na komputer lokalny i dopiero wtedy go uruchom.",
     "CL_DV_LRC_water_drain_desc": "Ta funkcja pozwala wybrać, co urządzenie ma zrobić ze skroplinami powstającymi podczas suszenia. „Zbiornik” oznacza, że woda ta jest gromadzona w dedykowanym zbiorniku na wodę i powinna być okresowo opróżniana. „Odpływ” oznacza, że użytkownik podłączył urządzenie do odpływu ścieków, aby woda mogła zostać usunięta bezpośrednio, omijając zbiornik.",
-    "CL_DV_DW_pause": "Pauza",
+    "CL_DV_DW_paused": "Pauza",
     "confirm_tv_network_connected_ios": "Upewnij się, że aplikacja ma włączone uprawnienia do sieci lokalnej i że telefon i telewizor są podłączone do tej samej sieci Wi-Fi.",
     "CL_CF_CS_device_name_air_conditioner": "Klimatyzator",
     "CL_CS_CF_Portable_air_conditioner": "Klimatyzator przenośny",

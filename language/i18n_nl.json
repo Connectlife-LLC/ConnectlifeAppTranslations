@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Stel de kanaalversterking in",
     "CL_CF_WM_download_program_first": "Download eerst het cloudprogramma naar uw lokale computer en voer het vervolgens uit.",
     "CL_DV_LRC_water_drain_desc": "Met deze functie kunt u kiezen wat het apparaat moet doen met het condenswater dat tijdens het drogen ontstaat. “Tank” betekent dat dit water wordt opgevangen in de speciale watertank en periodiek moet worden geleegd. “Afvoer” betekent dat de gebruiker het apparaat heeft aangesloten op een afvoer, zodat het water direct kan worden afgevoerd, zonder de tank te hoeven passeren.",
-    "CL_DV_DW_pause": "Pauze",
+    "CL_DV_DW_paused": "Pauze",
     "confirm_tv_network_connected_ios": "Zorg ervoor dat de app lokale netwerkrechten heeft ingeschakeld en dat uw telefoon en tv op hetzelfde wifi-netwerk zijn aangesloten.",
     "CL_CF_CS_device_name_air_conditioner": "Airconditioner",
     "CL_CS_CF_Portable_air_conditioner": "Draagbare airco",

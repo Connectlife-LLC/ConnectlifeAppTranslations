@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Đặt mức tăng kênh",
     "CL_CF_WM_download_program_first": "Trước tiên, hãy tải chương trình đám mây xuống máy cục bộ của bạn rồi mới chạy.",
     "CL_DV_LRC_water_drain_desc": "Tính năng này cho phép bạn chọn những gì thiết bị sẽ làm với nước ngưng tụ được tạo ra trong khi sấy. “Bể chứa” có nghĩa là nước này được thu vào bể chứa nước chuyên dụng và phải được đổ đi định kỳ. “Xả” có nghĩa là người dùng kết nối thiết bị với cống thoát nước thải, do đó nước có thể được xử lý trực tiếp mà không cần đến bể chứa.",
-    "CL_DV_DW_pause": "Tạm dừng",
+    "CL_DV_DW_paused": "Tạm dừng",
     "confirm_tv_network_connected_ios": "Hãy đảm bảo ứng dụng đã bật quyền truy cập mạng cục bộ và điện thoại và TV của bạn đều kết nối cùng một mạng WiFi.",
     "CL_CF_CS_device_name_air_conditioner": "Máy điều hòa",
     "CL_CS_CF_Portable_air_conditioner": "Điều hòa không khí di động",

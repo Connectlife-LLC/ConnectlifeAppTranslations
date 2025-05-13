@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "設定通道增益",
     "CL_CF_WM_download_program_first": "請先將雲端程式下載到本機，然後執行。",
     "CL_DV_LRC_water_drain_desc": "排水功能可讓您選擇設備如何處理乾燥過程中產生的冷凝水。 「水箱」是指這些水被收集在專用水箱中，並應定期清空。 「排水」表示使用者將設備連接到廢水排水管，這樣就可以繞過水箱直接排出水。",
-    "CL_DV_DW_pause": "暫停",
+    "CL_DV_DW_paused": "已暫停",
     "confirm_tv_network_connected_ios": "請確保應用程式已開啟本地網路權限，並且您的手機和電視在同一個WiFi上。",
     "CL_CF_CS_device_name_air_conditioner": "空调",
     "CL_CS_CF_Portable_air_conditioner": "移動式空調",

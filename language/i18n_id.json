@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Mengatur penguatan saluran",
     "CL_CF_WM_download_program_first": "Silakan unduh program cloud ke komputer lokal Anda terlebih dahulu, lalu jalankan.",
     "CL_DV_LRC_water_drain_desc": "Fitur ini memungkinkan Anda memilih apa yang harus dilakukan alat terhadap air kondensat yang dihasilkan saat pengeringan. “Tangki” berarti air ini dikumpulkan dalam tangki air khusus dan harus dikosongkan secara berkala. “Tiriskan” artinya pengguna menghubungkan alat ke saluran pembuangan limbah, sehingga air dapat langsung dibuang, tanpa melewati tangki.",
-    "CL_DV_DW_pause": "Berhenti sebentar",
+    "CL_DV_DW_paused": "Berhenti sebentar",
     "confirm_tv_network_connected_ios": "Pastikan aplikasi telah mengaktifkan izin jaringan lokal, dan ponsel serta TV Anda berada di WiFi yang sama.",
     "CL_CF_CS_device_name_air_conditioner": "Pendingin ruangan",
     "CL_CS_CF_Portable_air_conditioner": "Pendingin ruangan portabel",

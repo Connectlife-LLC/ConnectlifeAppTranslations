@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Állítsa be a csatornaerősítést",
     "CL_CF_WM_download_program_first": "Kérjük, először töltse le a felhőalapú programot a helyi gépére, majd futtassa.",
     "CL_DV_LRC_water_drain_desc": "Ezzel a funkcióval kiválaszthatja, hogy a készülék mit kezdjen a szárítás során keletkező kondenzvízzel. A „tartály” azt jelenti, hogy ez a víz a külön erre a célra szolgáló víztartályban gyűlik össze, és rendszeresen ki kell üríteni. A „leeresztés” azt jelenti, hogy a felhasználó a készüléket egy hulladéklefolyóhoz csatlakoztatta, így a víz közvetlenül, a tartály megkerülésével ártalmatlanítható.",
-    "CL_DV_DW_pause": "Szünet",
+    "CL_DV_DW_paused": "Szünet",
     "confirm_tv_network_connected_ios": "Kérjük, győződjön meg arról, hogy az alkalmazásnak be van kapcsolva a helyi hálózati engedélye, és hogy a telefonja és a tévéje ugyanazon a Wi-Fi-hálózaton van.",
     "CL_CF_CS_device_name_air_conditioner": "Légkondicionáló",
     "CL_CS_CF_Portable_air_conditioner": "Mobilklíma",

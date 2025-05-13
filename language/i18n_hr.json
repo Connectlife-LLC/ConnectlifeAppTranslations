@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Postavite pojačanje kanala",
     "CL_CF_WM_download_program_first": "Prvo preuzmite program u oblaku na svoje lokalno računalo, a zatim ga pokrenite.",
     "CL_DV_LRC_water_drain_desc": "Ova značajka vam omogućuje da odaberete što će uređaj učiniti s kondenziranom vodom koja nastaje tijekom sušenja. \"Tank\" (spremnik) znači da se ta voda skuplja u namjenskom spremniku za vodu i treba ga povremeno prazniti. „Drain“ (odvod) znači da je korisnik priključio uređaj na odvod, tako da se voda može zbrinuti izravno, zaobilazeći spremnik.",
-    "CL_DV_DW_pause": "Pauza",
+    "CL_DV_DW_paused": "Pauza",
     "confirm_tv_network_connected_ios": "Provjerite ima li aplikacija uključeno dopuštenje za lokalnu mrežu i jesu li vaš telefon i TV na istoj WiFi mreži.",
     "CL_CF_CS_device_name_air_conditioner": "Klima uređaj",
     "CL_CS_CF_Portable_air_conditioner": "Prijenosni klima uređaj",

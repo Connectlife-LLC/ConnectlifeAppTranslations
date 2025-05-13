@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "채널 게인을 설정하세요",
     "CL_CF_WM_download_program_first": "먼저 클라우드 프로그램을 로컬 컴퓨터에 다운로드한 후 실행하세요.",
     "CL_DV_LRC_water_drain_desc": "이 기능을 사용하면 건조 중에 생성된 응축수를 제품이 어떻게 처리할지 선택할 수 있습니다. “탱크”란 이 물을 전용 물탱크에 모아서 주기적으로 비워주어야 함을 의미합니다. \"배수구\"는 사용자가 제품을 배수구에 연결하여 물이 탱크를 거치지 않고 직접 폐기될 수 있음을 의미합니다.",
-    "CL_DV_DW_pause": "정지시키다",
+    "CL_DV_DW_paused": "정지시키다",
     "confirm_tv_network_connected_ios": "앱에 로컬 네트워크 권한이 켜져 있는지 확인하고, 휴대폰과 TV가 동일한 WiFi에 연결되어 있는지 확인하세요.",
     "CL_CF_CS_device_name_air_conditioner": "에어컨",
     "CL_CS_CF_Portable_air_conditioner": "휴대용 에어컨",

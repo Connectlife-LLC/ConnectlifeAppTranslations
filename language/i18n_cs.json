@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Nastavení zesílení kanálu",
     "CL_CF_WM_download_program_first": "Nejprve si stáhněte cloudový program do svého lokálního počítače a poté jej spusťte.",
     "CL_DV_LRC_water_drain_desc": "Tato funkce vám umožňuje zvolit, co má spotřebič dělat s kondenzovanou vodou vznikající při sušení. „Nádrž“ znamená, že tato voda se shromažďuje ve vyhrazené nádrži na vodu a měla by být pravidelně vypouštěna. „Vypouštění“ znamená, že uživatel připojil spotřebič k odpadu, takže voda může být likvidována přímo obtokem nádrže.",
-    "CL_DV_DW_pause": "Pauza",
+    "CL_DV_DW_paused": "Pauza",
     "confirm_tv_network_connected_ios": "Ujistěte se, že má aplikace zapnutá oprávnění k místní síti a že váš telefon a televizor jsou ve stejné Wi-Fi síti.",
     "CL_CF_CS_device_name_air_conditioner": "Klimatizace",
     "CL_CS_CF_Portable_air_conditioner": "Přenosná AC",

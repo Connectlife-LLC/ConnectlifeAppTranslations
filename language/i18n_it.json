@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Imposta il guadagno del canale",
     "CL_CF_WM_download_program_first": "Scarica prima il programma cloud sul tuo computer locale e poi eseguilo.",
     "CL_DV_LRC_water_drain_desc": "Questa funzione consente di scegliere cosa deve fare l'apparecchiatura con l'acqua di condensa prodotta durante l'asciugatura. “Serbatoio” significa che quest'acqua viene raccolta nell'apposito serbatoio e deve essere periodicamente svuotata. “Scarico” significa che l'utente ha collegato l'apparecchio ad uno scarico di scarico, in modo che l'acqua possa essere smaltita direttamente, bypassando il serbatoio.",
-    "CL_DV_DW_pause": "Pausa",
+    "CL_DV_DW_paused": "In pausa",
     "confirm_tv_network_connected_ios": "Assicurati che l'app abbia attivato l'autorizzazione di rete locale e che il telefono e la TV siano connessi alla stessa rete WiFi.",
     "CL_CF_CS_device_name_air_conditioner": "Condizionatore",
     "CL_CS_CF_Portable_air_conditioner": "AC Portatile",

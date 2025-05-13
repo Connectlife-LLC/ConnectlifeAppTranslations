@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Set the channel gain",
     "CL_CF_WM_download_program_first": "Please download the cloud program to your local machine first and then execute it.",
     "CL_DV_LRC_water_drain_desc": "Water drain lets you choose what the appliance should do with the condensate water produced while drying. \"Tank\" means that this water is collected in the dedicated water tank and should be periodically emptied. \"Drain\" means that the user connected the appliance to a waste drain, so the water can be disposed of directly, bypassing the tank.",
-    "CL_DV_DW_pause": "Pause",
+    "CL_DV_DW_paused": "Paused",
     "confirm_tv_network_connected_ios": "Please make sure the app has local network permission turned on, and that your phone and TV are on the same WiFi.",
     "CL_CF_CS_device_name_air_conditioner": "Air conditioner",
     "CL_CS_CF_Portable_air_conditioner": "Portable air conditioner",
