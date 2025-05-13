@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Tap and hold the Wi-Fi key for 3 seconds until the Wi-Fi starts to blink.\u2028The device network is now open for connection for 5 minutes. \nClick NEXT to continue.",
     "CL_CF_CS_hob_hi_6_p_2": "Tap and hold the Wi-Fi key for 6 seconds until the Wi-Fi starts to blink.\u2028The device is now ready for pairing for 3 minutes.\nClick NEXT to continue.",
     "CL_DV_OV_calibration_active": "Calibration active",
-    "CL_DV_OV_calibration_active_desc": "Your oven is calibrating. This can take up to 4 hours. Functions are limited during this time."
+    "CL_DV_OV_calibration_active_desc": "Your oven is calibrating. This can take up to 4 hours. Functions are limited during this time.",
+    "ai_trouble_shooting_eg": "Examples of what you can ask:",
+    "ai_trouble_shooting_eg1": "What does E3 on the appliance mean?",
+    "ai_trouble_shooting_eg2": "Why is my washing machine not draining water?",
+    "ai_trouble_shooting_eg3": "My machine doesn't start."
 }

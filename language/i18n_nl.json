@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Houd de wifi-knop 3 seconden ingedrukt totdat de wifi-indicator begint te knipperen. Het netwerk van het apparaat is nu 5 minuten open voor verbinding. \n Klik op VOLGENDE om door te gaan.",
     "CL_CF_CS_hob_hi_6_p_2": "Houd de wifi-knop 6 seconden ingedrukt totdat de wifi-knop begint te knipperen. Het apparaat is nu 3 minuten klaar om te koppelen. \n Klik op VOLGENDE om door te gaan.",
     "CL_DV_OV_calibration_active": "Kalibratie actief",
-    "CL_DV_OV_calibration_active_desc": "Je oven wordt gekalibreerd. Dit kan tot 4 uur duren. De functies zijn gedurende deze tijd beperkt."
+    "CL_DV_OV_calibration_active_desc": "Je oven wordt gekalibreerd. Dit kan tot 4 uur duren. De functies zijn gedurende deze tijd beperkt.",
+    "ai_trouble_shooting_eg": "Voorbeelden van wat u kunt vragen:",
+    "ai_trouble_shooting_eg1": "Wat betekent E3 op het apparaat?",
+    "ai_trouble_shooting_eg2": "Waarom pompt mijn wasmachine geen water af?",
+    "ai_trouble_shooting_eg3": "Mijn machine start niet."
 }

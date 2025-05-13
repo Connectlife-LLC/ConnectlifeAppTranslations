@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Appuyez sur la touche Wi-Fi et maintenez-la enfoncée pendant 3 secondes jusqu'à ce que le Wi-Fi commence à clignoter. Le réseau de l'appareil est alors ouvert à la connexion pendant 5 minutes. Cliquez sur \n pour continuer.",
     "CL_CF_CS_hob_hi_6_p_2": "Appuyez sur la touche Wi-Fi et maintenez-la enfoncée pendant 6 secondes jusqu'à ce que le Wi-Fi commence à clignoter. L'appareil est alors prêt à être couplé pendant 3 minutes. Cliquez sur \n pour continuer.",
     "CL_DV_OV_calibration_active": "Calibrage actif",
-    "CL_DV_OV_calibration_active_desc": "Votre four est en cours d'étalonnage. Cette opération peut prendre jusqu'à 4 heures. Les fonctions sont limitées pendant cette période."
+    "CL_DV_OV_calibration_active_desc": "Votre four est en cours d'étalonnage. Cette opération peut prendre jusqu'à 4 heures. Les fonctions sont limitées pendant cette période.",
+    "ai_trouble_shooting_eg": "Exemples de ce que vous pouvez demander :",
+    "ai_trouble_shooting_eg1": "Que signifie E3 sur l'appareil ?",
+    "ai_trouble_shooting_eg2": "Pourquoi ma machine à laver ne vidange-t-elle pas l’eau ?",
+    "ai_trouble_shooting_eg3": "Ma machine ne démarre pas."
 }

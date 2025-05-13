@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Atingeți și mențineți apăsată tasta Wi-Fi timp de 3 secunde, până când indicatorul Wi-Fi începe să clipească. Rețeaua dispozitivului este acum deschisă pentru conectare timp de 5 minute. \n Faceți clic pe URMĂTORUL pentru a continua.",
     "CL_CF_CS_hob_hi_6_p_2": "Atingeți și mențineți apăsată tasta Wi-Fi timp de 6 secunde, până când indicatorul Wi-Fi începe să clipească. Dispozitivul este acum gata de asociere timp de 3 minute. \n Faceți clic pe URMĂTORUL pentru a continua.",
     "CL_DV_OV_calibration_active": "Calibrare activă",
-    "CL_DV_OV_calibration_active_desc": "Cuptorul dumneavoastră se calibrează. Acest proces poate dura până la 4 ore. Funcțiile sunt limitate în acest timp."
+    "CL_DV_OV_calibration_active_desc": "Cuptorul dumneavoastră se calibrează. Acest proces poate dura până la 4 ore. Funcțiile sunt limitate în acest timp.",
+    "ai_trouble_shooting_eg": "Exemple de ce puteți întreba:",
+    "ai_trouble_shooting_eg1": "Ce înseamnă E3 pe aparat?",
+    "ai_trouble_shooting_eg2": "De ce mașina mea de spălat nu scurge apa?",
+    "ai_trouble_shooting_eg3": "Mașina mea nu pornește."
 }

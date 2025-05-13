@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Halten Sie die WLAN-Taste drei Sekunden lang gedrückt, bis das WLAN zu blinken beginnt. Das Gerätenetzwerk ist nun fünf Minuten lang für Verbindungen geöffnet. Klicken Sie auf \n, um fortzufahren.",
     "CL_CF_CS_hob_hi_6_p_2": "Halten Sie die WLAN-Taste 6 Sekunden lang gedrückt, bis das WLAN zu blinken beginnt. Das Gerät ist nun 3 Minuten lang für die Kopplung bereit. \n Klicken Sie auf WEITER, um fortzufahren.",
     "CL_DV_OV_calibration_active": "Kalibrierung aktiv",
-    "CL_DV_OV_calibration_active_desc": "Ihr Backofen kalibriert. Dies kann bis zu 4 Stunden dauern. Während dieser Zeit sind die Funktionen eingeschränkt."
+    "CL_DV_OV_calibration_active_desc": "Ihr Backofen kalibriert. Dies kann bis zu 4 Stunden dauern. Während dieser Zeit sind die Funktionen eingeschränkt.",
+    "ai_trouble_shooting_eg": "Beispiele für Fragen, die Sie stellen können:",
+    "ai_trouble_shooting_eg1": "Was bedeutet E3 auf dem Gerät?",
+    "ai_trouble_shooting_eg2": "Warum pumpt meine Waschmaschine kein Wasser ab?",
+    "ai_trouble_shooting_eg3": "Meine Maschine startet nicht."
 }
