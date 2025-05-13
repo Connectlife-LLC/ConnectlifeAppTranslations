@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Tetapkan keuntungan saluran",
     "CL_CF_WM_download_program_first": "Sila muat turun program awan ke mesin tempatan anda dahulu dan kemudian laksanakannya.",
     "CL_DV_LRC_water_drain_desc": "Ciri ini membolehkan anda memilih perkara yang perlu dilakukan oleh perkakas dengan air kondensat yang dihasilkan semasa pengeringan. “Tangki” bermaksud air ini dikumpulkan dalam tangki air khusus dan hendaklah dikosongkan secara berkala. “Longkang” bermaksud pengguna menyambungkan perkakas ke longkang sisa, supaya air boleh dibuang terus, memintas tangki.",
-    "CL_DV_DW_pause": "jeda",
+    "CL_DV_DW_paused": "jeda",
     "confirm_tv_network_connected_ios": "Sila pastikan apl mempunyai kebenaran rangkaian tempatan dihidupkan dan telefon serta TV anda menggunakan WiFi yang sama.",
     "CL_CF_CS_device_name_air_conditioner": "Penghawa dingin",
     "CL_CS_CF_Portable_air_conditioner": "Penghawa dingin mudah alih",

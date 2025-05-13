@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Setați amplificarea canalului",
     "CL_CF_WM_download_program_first": "Te rugăm să descarci mai întâi programul în cloud pe mașina ta locală și apoi să-l execuți.",
     "CL_DV_LRC_water_drain_desc": "Această caracteristică vă permite să alegeți ce ar trebui să facă aparatul cu apa de condens produsă în timpul uscării. „Rezervă” înseamnă că această apă este colectată în rezervorul de apă dedicat și trebuie golită periodic. „Scurgere” înseamnă că utilizatorul a conectat aparatul la canalizare, astfel încât apa să poată fi eliminată direct, ocolind rezervorul.",
-    "CL_DV_DW_pause": "Pauză",
+    "CL_DV_DW_paused": "Pauză",
     "confirm_tv_network_connected_ios": "Asigurați-vă că aplicația are activată permisiunea de rețea locală și că telefonul și televizorul dvs. sunt conectate la aceeași rețea WiFi.",
     "CL_CF_CS_device_name_air_conditioner": "Aer condiționat",
     "CL_CS_CF_Portable_air_conditioner": "Aparat de aer condiționat portabil",

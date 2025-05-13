@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Aseta kanavan vahvistus",
     "CL_CF_WM_download_program_first": "Lataa pilviohjelma ensin paikalliselle koneellesi ja suorita se sitten.",
     "CL_DV_LRC_water_drain_desc": "Tämän ominaisuuden avulla voit valita, mitä laite tekee kuivauksen aikana syntyvälle kondenssivedelle. \"Säiliö\" tarkoittaa, että tämä vesi kerätään sille tarkoitettuun vesisäiliöön ja se tulee tyhjentää säännöllisesti. \"Tyhjennys\" tarkoittaa, että käyttäjä on liittänyt laitteen jäteviemäriin, jotta vesi voidaan hävittää suoraan, säiliön ohi.",
-    "CL_DV_DW_pause": "Tauko",
+    "CL_DV_DW_paused": "Tauko",
     "confirm_tv_network_connected_ios": "Varmista, että sovelluksella on lähiverkon käyttöoikeus käytössä ja että puhelimesi ja televisiosi ovat samassa Wi-Fi-verkossa.",
     "CL_CF_CS_device_name_air_conditioner": "Ilmastointilaite",
     "CL_CS_CF_Portable_air_conditioner": "Kannettava ilmastointilaite",

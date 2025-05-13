@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Angi kanalforsterkning",
     "CL_CF_WM_download_program_first": "Last ned skyprogrammet til din lokale maskin først, og kjør det deretter.",
     "CL_DV_LRC_water_drain_desc": "Denne funksjonen lar deg velge hva apparatet skal gjøre med kondensatvannet som produseres under tørking. \"Tank\" betyr at dette vannet samles i den dedikerte vanntanken og bør tømmes med jevne mellomrom. \"Tømming\" betyr at brukeren koblet apparatet til et avløpsavløp, slik at vannet kan kastes direkte ved å omgå tanken.",
-    "CL_DV_DW_pause": "Pause",
+    "CL_DV_DW_paused": "Pause",
     "confirm_tv_network_connected_ios": "Sørg for at appen har tillatelse til lokalt nettverk aktivert, og at telefonen og TV-en er på samme Wi-Fi-nettverk.",
     "CL_CF_CS_device_name_air_conditioner": "Klimaanlegg",
     "CL_CS_CF_Portable_air_conditioner": "Bærbar vekselstrøm",

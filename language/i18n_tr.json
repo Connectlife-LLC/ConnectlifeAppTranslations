@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Kanal kazanımını ayarlayın",
     "CL_CF_WM_download_program_first": "Lütfen öncelikle bulut programını yerel makinenize indirin ve ardından çalıştırın.",
     "CL_DV_LRC_water_drain_desc": "Bu özellik, cihazın kurutma sırasında oluşan yoğuşma suyuyla ne yapması gerektiğini seçmenizi sağlar. “Depo”, bu suyun özel su deposunda toplandığını ve periyodik olarak boşaltılması gerektiğini ifade eder. \"Boşaltma\", kullanıcının cihazı bir atık giderine bağlaması ve böylece suyun depoyu atlayarak doğrudan atılabilmesi anlamına gelir.",
-    "CL_DV_DW_pause": "Duraklama",
+    "CL_DV_DW_paused": "Duraklama",
     "confirm_tv_network_connected_ios": "Lütfen uygulamada yerel ağ izninin açık olduğundan ve telefonunuzla televizyonunuzun aynı WiFi üzerinde olduğundan emin olun.",
     "CL_CF_CS_device_name_air_conditioner": "Klima",
     "CL_CS_CF_Portable_air_conditioner": "Taşınabilir klima",
