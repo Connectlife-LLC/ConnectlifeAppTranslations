@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Klepnite a podržte tlačidlo Wi-Fi 3 sekundy, kým nezačne blikať Wi-Fi. Sieť zariadenia je teraz otvorená na pripojenie na 5 minút. \n Kliknite na ĎALEJ pre pokračovanie.",
     "CL_CF_CS_hob_hi_6_p_2": "Klepnite a podržte tlačidlo Wi-Fi 6 sekúnd, kým nezačne blikať Wi-Fi. Zariadenie je teraz pripravené na párovanie po dobu 3 minút. \n Kliknite na ĎALEJ pre pokračovanie.",
     "CL_DV_OV_calibration_active": "Kalibrácia aktívna",
-    "CL_DV_OV_calibration_active_desc": "Vaša rúra sa kalibruje. Môže to trvať až 4 hodiny. Funkcie sú počas tejto doby obmedzené."
+    "CL_DV_OV_calibration_active_desc": "Vaša rúra sa kalibruje. Môže to trvať až 4 hodiny. Funkcie sú počas tejto doby obmedzené.",
+    "ai_trouble_shooting_eg": "Príklady toho, čo sa môžete opýtať:",
+    "ai_trouble_shooting_eg1": "Čo znamená E3 na spotrebiči?",
+    "ai_trouble_shooting_eg2": "Prečo moja práčka nevypúšťa vodu?",
+    "ai_trouble_shooting_eg3": "Môj stroj sa nespustí."
 }

@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Nhấn và giữ phím Wi-Fi trong 3 giây cho đến khi Wi-Fi bắt đầu nhấp nháy. Mạng của thiết bị hiện đã mở để kết nối trong 5 phút. \n Nhấp vào NEXT để tiếp tục.",
     "CL_CF_CS_hob_hi_6_p_2": "Nhấn và giữ phím Wi-Fi trong 6 giây cho đến khi Wi-Fi bắt đầu nhấp nháy. Thiết bị hiện đã sẵn sàng để ghép nối trong 3 phút. \n Nhấp vào NEXT để tiếp tục.",
     "CL_DV_OV_calibration_active": "Hiệu chuẩn đang hoạt động",
-    "CL_DV_OV_calibration_active_desc": "Lò nướng của bạn đang hiệu chuẩn. Quá trình này có thể mất tới 4 giờ. Các chức năng bị hạn chế trong thời gian này."
+    "CL_DV_OV_calibration_active_desc": "Lò nướng của bạn đang hiệu chuẩn. Quá trình này có thể mất tới 4 giờ. Các chức năng bị hạn chế trong thời gian này.",
+    "ai_trouble_shooting_eg": "Ví dụ về những điều bạn có thể hỏi:",
+    "ai_trouble_shooting_eg1": "Mã E3 trên thiết bị có nghĩa là gì?",
+    "ai_trouble_shooting_eg2": "Tại sao máy giặt của tôi không xả nước?",
+    "ai_trouble_shooting_eg3": "Máy của tôi không khởi động."
 }

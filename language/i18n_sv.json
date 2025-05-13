@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Håll Wi-Fi-knappen nedtryckt i 3 sekunder tills Wi-Fi-knappen börjar blinka. Enhetens nätverk är nu öppet för anslutning i 5 minuter. \n Klicka på NÄSTA för att fortsätta.",
     "CL_CF_CS_hob_hi_6_p_2": "Håll Wi-Fi-knappen intryckt i 6 sekunder tills Wi-Fi-knappen börjar blinka. Enheten är nu redo för parkoppling i 3 minuter. \n Klicka på NÄSTA för att fortsätta.",
     "CL_DV_OV_calibration_active": "Kalibrering aktiv",
-    "CL_DV_OV_calibration_active_desc": "Din ugn kalibreras. Detta kan ta upp till 4 timmar. Funktionerna är begränsade under denna tid."
+    "CL_DV_OV_calibration_active_desc": "Din ugn kalibreras. Detta kan ta upp till 4 timmar. Funktionerna är begränsade under denna tid.",
+    "ai_trouble_shooting_eg": "Exempel på vad du kan fråga:",
+    "ai_trouble_shooting_eg1": "Vad betyder E3 på apparaten?",
+    "ai_trouble_shooting_eg2": "Varför tömmer inte min tvättmaskin ut vatten?",
+    "ai_trouble_shooting_eg3": "Min maskin startar inte."
 }
