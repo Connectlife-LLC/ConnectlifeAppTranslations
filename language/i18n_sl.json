@@ -4827,7 +4827,7 @@
     "CL_CF_AS_start_download": "Zaženite prenos",
     "CL_DV_OV_try_following_solutions": "Za ponovno priključitev pečice poskusite naslednje rešitve:",
     "CL_DV_OV_check_power": "Preverite, ali je vaša naprava priključena in ali je vklopljena.",
-    "CL_DV_OV_connect_network": "Prepričajte se, da je vaša pečica povezana z lokalnim brezžičnim omrežjem.",
+    "CL_DV_OV_connect_network": "Preverite, ali je vaša pečica povezana z lokalnim brezžičnim omrežjem.",
     "CL_DV_OV_check_wifi_signal": "Preverite moč signala WiFi. Če je signal šibek, je morda usmerjevalnik predaleč od omare.",
     "CL_DV_WM_stopped_due_to_error": "Pranje v \"{WM}\" je bilo ustavljeno zaradi napake ",
     "CL_DV_OV_summer_winter_automatically_desc": "Omogočite to funkcijo, če želite, da se čas samodejno spremeni v skladu z lokalnimi pravili poletnega časa.",
@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Dotaknite se tipke Wi-Fi in jo držite 3 sekunde, dokler Wi-Fi ne začne utripati. Omrežje naprave je zdaj odprto za povezavo 5 minut. \n Za nadaljevanje kliknite NAPREJ.",
     "CL_CF_CS_hob_hi_6_p_2": "Dotaknite se tipke Wi-Fi in jo držite 6 sekund, dokler Wi-Fi ne začne utripati. Naprava je zdaj pripravljena za seznanjanje 3 minute. \n Za nadaljevanje kliknite NAPREJ.",
     "CL_DV_OV_calibration_active": "Kalibracija aktivna",
-    "CL_DV_OV_calibration_active_desc": "Vaša pečica se kalibrira. To lahko traja do 4 ure. V tem času so funkcije omejene."
+    "CL_DV_OV_calibration_active_desc": "Vaša pečica se kalibrira. To lahko traja do 4 ure. V tem času so funkcije omejene.",
+    "ai_trouble_shooting_eg": "Primeri tega, kar lahko vprašate:",
+    "ai_trouble_shooting_eg1": "Kaj pomeni E3 na napravi?",
+    "ai_trouble_shooting_eg2": "Zakaj moj pralni stroj ne izčrpava vode?",
+    "ai_trouble_shooting_eg3": "Moj stroj se ne zažene."
 }

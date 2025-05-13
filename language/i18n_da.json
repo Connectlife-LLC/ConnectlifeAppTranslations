@@ -5415,5 +5415,9 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Tryk og hold Wi-Fi-tasten nede i 3 sekunder, indtil Wi-Fi-signalet begynder at blinke. Enhedens netværk er nu åbent for forbindelse i 5 minutter. \n Klik på NÆSTE for at fortsætte.",
     "CL_CF_CS_hob_hi_6_p_2": "Tryk og hold Wi-Fi-tasten nede i 6 sekunder, indtil Wi-Fi-signalet begynder at blinke. Enheden er nu klar til parring i 3 minutter. \n Klik på NÆSTE for at fortsætte.",
     "CL_DV_OV_calibration_active": "Kalibrering aktiv",
-    "CL_DV_OV_calibration_active_desc": "Din ovn kalibrerer. Dette kan tage op til 4 timer. Funktionerne er begrænsede i denne periode."
+    "CL_DV_OV_calibration_active_desc": "Din ovn kalibrerer. Dette kan tage op til 4 timer. Funktionerne er begrænsede i denne periode.",
+    "ai_trouble_shooting_eg": "Eksempler på hvad du kan spørge om:",
+    "ai_trouble_shooting_eg1": "Hvad betyder E3 på apparatet?",
+    "ai_trouble_shooting_eg2": "Hvorfor tømmer min vaskemaskine ikke vand ud?",
+    "ai_trouble_shooting_eg3": "Min maskine starter ikke."
 }
