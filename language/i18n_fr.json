@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Régler le gain du canal",
     "CL_CF_WM_download_program_first": "Veuillez d’abord télécharger le programme cloud sur votre machine locale, puis l’exécuter.",
     "CL_DV_LRC_water_drain_desc": "Cette fonctionnalité vous permet de choisir ce que l'appareil doit faire avec l'eau de condensation produite lors du séchage. « Réservoir » signifie que cette eau est collectée dans le réservoir d'eau dédié et doit être vidée périodiquement. « Vidange » signifie que l'utilisateur a raccordé l'appareil à une évacuation des eaux usées, afin que l'eau puisse être évacuée directement, en contournant le réservoir.",
-    "CL_DV_DW_pause": "Pause",
+    "CL_DV_DW_pause": "En pause",
     "confirm_tv_network_connected_ios": "Assurez-vous que l'autorisation de réseau local est activée sur l'application et que votre téléphone et votre téléviseur sont sur le même réseau Wi-Fi.",
     "CL_CF_CS_device_name_air_conditioner": "Climatiseur",
     "CL_CS_CF_Portable_air_conditioner": "Climatiseur portable",

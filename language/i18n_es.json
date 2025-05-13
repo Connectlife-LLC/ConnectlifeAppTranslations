@@ -5393,7 +5393,7 @@
     "btaudio_settings_channel_gain_desc": "Establecer la ganancia del canal",
     "CL_CF_WM_download_program_first": "Primero descargue el programa en la nube a su máquina local y luego ejecútelo.",
     "CL_DV_LRC_water_drain_desc": "Esta función le permite elegir qué debe hacer el aparato con el agua condensada producida durante el secado. \"Tanque\" significa que esta agua se recoge en el tanque de agua exclusivo y debe vaciarse periódicamente. \"Drenaje\" significa que el usuario conectó el aparato a un desagüe, por lo que el agua se puede eliminar directamente, sin pasar por el tanque.",
-    "CL_DV_DW_pause": "Pausa",
+    "CL_DV_DW_pause": "En pausa",
     "confirm_tv_network_connected_ios": "Asegúrese de que la aplicación tenga activado el permiso de red local y que su teléfono y televisor estén en la misma red WiFi.",
     "CL_CF_CS_device_name_air_conditioner": "Aire acondicionado",
     "CL_CS_CF_Portable_air_conditioner": "Aire acondicionado portátil",
