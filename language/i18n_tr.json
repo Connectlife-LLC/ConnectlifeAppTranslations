@@ -5415,5 +5415,10 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Wi-Fi yanıp sönmeye başlayana kadar Wi-Fi tuşuna 3 saniye basılı tutun. Cihaz ağı artık 5 dakika boyunca bağlantıya açıktır. \n Devam etmek için NEXT'e tıklayın.",
     "CL_CF_CS_hob_hi_6_p_2": "Wi-Fi yanıp sönmeye başlayana kadar Wi-Fi tuşuna 6 saniye basılı tutun. Cihaz artık 3 dakika boyunca eşleştirmeye hazırdır. \n Devam etmek için NEXT'e tıklayın.",
     "CL_DV_OV_calibration_active": "Kalibrasyon aktif",
-    "CL_DV_OV_calibration_active_desc": "Fırınınız kalibre ediliyor. Bu işlem 4 saate kadar sürebilir. Bu süre zarfında işlevler sınırlıdır."
+    "CL_DV_OV_calibration_active_desc": "Fırınınız kalibre ediliyor. Bu işlem 4 saate kadar sürebilir. Bu süre zarfında işlevler sınırlıdır.",
+    "ai_trouble_shooting_eg": "Sorabileceğiniz sorulara örnekler:",
+    "ai_trouble_shooting_eg1": "Cihazda E3 uyarısı ne anlama geliyor?",
+    "ai_trouble_shooting_eg2": "Çamaşır makinem neden su boşaltmıyor?",
+    "ai_trouble_shooting_eg3": "Makinem çalışmıyor.",
+    "CL_DV_OV_sabbath_mode_start_desc": "Sabbath modunun ne zaman başlayacağını seçin. Bitiş saati, 25 saatlik standart Sabbath süresine göre otomatik olarak ayarlanacaktır. Bitiş saatini her zaman tercihinize göre değiştirebilirsiniz."
 }

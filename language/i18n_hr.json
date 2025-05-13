@@ -5415,5 +5415,10 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Dodirnite i držite tipku Wi-Fi 3 sekunde dok Wi-Fi ne počne treptati. Mreža uređaja sada je otvorena za povezivanje 5 minuta. \n Kliknite DALJE za nastavak.",
     "CL_CF_CS_hob_hi_6_p_2": "Dodirnite i držite tipku Wi-Fi 6 sekundi dok Wi-Fi ne počne treptati. Uređaj je sada spreman za uparivanje 3 minute. \n Kliknite DALJE za nastavak.",
     "CL_DV_OV_calibration_active": "Kalibracija aktivna",
-    "CL_DV_OV_calibration_active_desc": "Vaša pećnica se kalibrira. To može potrajati do 4 sata. Funkcije su tijekom tog vremena ograničene."
+    "CL_DV_OV_calibration_active_desc": "Vaša pećnica se kalibrira. To može potrajati do 4 sata. Funkcije su tijekom tog vremena ograničene.",
+    "ai_trouble_shooting_eg": "Primjeri onoga što možete pitati:",
+    "ai_trouble_shooting_eg1": "Što znači E3 na uređaju?",
+    "ai_trouble_shooting_eg2": "Zašto moja perilica rublja ne ispušta vodu?",
+    "ai_trouble_shooting_eg3": "Moj stroj se ne pokreće.",
+    "CL_DV_OV_sabbath_mode_start_desc": "Odaberite kada bi način rada Sabat trebao započeti. Vrijeme završetka bit će automatski postavljeno na temelju standardnog trajanja Sabata od 25 sati. Vrijeme završetka uvijek možete promijeniti prema svojim željama."
 }

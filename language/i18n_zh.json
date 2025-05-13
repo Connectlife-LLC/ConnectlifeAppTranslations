@@ -5415,5 +5415,10 @@
     "CL_CF_CS_hob_hi_6_cs_2": "长按 Wi-Fi 键 3 秒，直到 Wi-Fi 指示灯开始闪烁。设备网络现已开放连接，有效期为 5 分钟。L__NEWLINE__ 点击 \n下一步”继续。",
     "CL_CF_CS_hob_hi_6_p_2": "轻触并按住 Wi-Fi 键 6 秒钟，直到 Wi-Fi 指示灯开始闪烁。设备现在已准备好配对，等待 3 分钟。__ \n点击“下一步”继续。",
     "CL_DV_OV_calibration_active": "校准激活",
-    "CL_DV_OV_calibration_active_desc": "您的烤箱正在校准。这可能需要最多 4 个小时。在此期间，所有功能将受到限制。"
+    "CL_DV_OV_calibration_active_desc": "您的烤箱正在校准。这可能需要最多 4 个小时。在此期间，所有功能将受到限制。",
+    "ai_trouble_shooting_eg": "您可以询问以下问题：",
+    "ai_trouble_shooting_eg1": "设备上的 E3 是什么意思？",
+    "ai_trouble_shooting_eg2": "为什么我的洗衣机不排水？",
+    "ai_trouble_shooting_eg3": "我的机器无法启动。",
+    "CL_DV_OV_sabbath_mode_start_desc": "选择安息日模式的开始时间。结束时间将根据 25 小时的标准安息日时长自动设置。您可以随时根据自己的偏好更改结束时间。"
 }

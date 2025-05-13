@@ -5415,5 +5415,10 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Naciśnij i przytrzymaj przycisk Wi-Fi przez 3 sekundy, aż Wi-Fi zacznie migać. Sieć urządzenia jest teraz otwarta na połączenie przez 5 minut. \n Kliknij DALEJ, aby kontynuować.",
     "CL_CF_CS_hob_hi_6_p_2": "Naciśnij i przytrzymaj przycisk Wi-Fi przez 6 sekund, aż Wi-Fi zacznie migać. Urządzenie jest teraz gotowe do sparowania przez 3 minuty. \n Kliknij DALEJ, aby kontynuować.",
     "CL_DV_OV_calibration_active": "Kalibracja aktywna",
-    "CL_DV_OV_calibration_active_desc": "Piekarnik kalibruje się. Może to potrwać do 4 godzin. Funkcje są ograniczone w tym czasie."
+    "CL_DV_OV_calibration_active_desc": "Piekarnik kalibruje się. Może to potrwać do 4 godzin. Funkcje są ograniczone w tym czasie.",
+    "ai_trouble_shooting_eg": "Przykłady pytań, o które możesz zapytać:",
+    "ai_trouble_shooting_eg1": "Co oznacza E3 na urządzeniu?",
+    "ai_trouble_shooting_eg2": "Dlaczego pralka nie wypompowuje wody?",
+    "ai_trouble_shooting_eg3": "Mój komputer się nie uruchamia.",
+    "CL_DV_OV_sabbath_mode_start_desc": "Wybierz, kiedy tryb Sabbath powinien się rozpocząć. Czas zakończenia zostanie automatycznie ustawiony na podstawie standardowego czasu trwania Sabbath wynoszącego 25 godzin. Zawsze możesz zmienić czas zakończenia według własnych preferencji."
 }

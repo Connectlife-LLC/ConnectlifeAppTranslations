@@ -5415,5 +5415,10 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Trykk og hold inne Wi-Fi-tasten i 3 sekunder til Wi-Fi-en begynner å blinke. Enhetens nettverk er nå åpent for tilkobling i 5 minutter. \n Klikk på NESTE for å fortsette.",
     "CL_CF_CS_hob_hi_6_p_2": "Trykk og hold inne Wi-Fi-tasten i 6 sekunder til Wi-Fi-en begynner å blinke. Enheten er nå klar for paring i 3 minutter. \n Klikk på NESTE for å fortsette.",
     "CL_DV_OV_calibration_active": "Kalibrering aktiv",
-    "CL_DV_OV_calibration_active_desc": "Ovnen din kalibreres. Dette kan ta opptil 4 timer. Funksjonene er begrenset i løpet av denne tiden."
+    "CL_DV_OV_calibration_active_desc": "Ovnen din kalibreres. Dette kan ta opptil 4 timer. Funksjonene er begrenset i løpet av denne tiden.",
+    "ai_trouble_shooting_eg": "Eksempler på hva du kan spørre om:",
+    "ai_trouble_shooting_eg1": "Hva betyr E3 på apparatet?",
+    "ai_trouble_shooting_eg2": "Hvorfor tømmer ikke vaskemaskinen min ut vann?",
+    "ai_trouble_shooting_eg3": "Maskinen min starter ikke.",
+    "CL_DV_OV_sabbath_mode_start_desc": "Velg når sabbatmodus skal starte. Sluttiden stilles inn automatisk basert på standard sabbatsvarighet på 25 timer. Du kan når som helst endre slutttiden etter eget ønske."
 }

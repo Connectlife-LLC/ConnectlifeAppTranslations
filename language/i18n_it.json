@@ -5415,5 +5415,10 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Tieni premuto il tasto Wi-Fi per 3 secondi finché il Wi-Fi non inizia a lampeggiare. La rete del dispositivo è ora aperta alla connessione per 5 minuti. \n Fai clic su AVANTI per continuare.",
     "CL_CF_CS_hob_hi_6_p_2": "Tieni premuto il tasto Wi-Fi per 6 secondi finché il Wi-Fi non inizia a lampeggiare. Il dispositivo è ora pronto per l'associazione per 3 minuti. \n Fai clic su AVANTI per continuare.",
     "CL_DV_OV_calibration_active": "Calibrazione attiva",
-    "CL_DV_OV_calibration_active_desc": "Il forno è in fase di calibrazione. Questa operazione può richiedere fino a 4 ore. Durante questo periodo, le funzioni sono limitate."
+    "CL_DV_OV_calibration_active_desc": "Il forno è in fase di calibrazione. Questa operazione può richiedere fino a 4 ore. Durante questo periodo, le funzioni sono limitate.",
+    "ai_trouble_shooting_eg": "Esempi di ciò che puoi chiedere:",
+    "ai_trouble_shooting_eg1": "Cosa significa E3 sull'apparecchio?",
+    "ai_trouble_shooting_eg2": "Perché la mia lavatrice non scarica l'acqua?",
+    "ai_trouble_shooting_eg3": "La mia macchina non si avvia.",
+    "CL_DV_OV_sabbath_mode_start_desc": "Seleziona l'orario di inizio della modalità Sabbath. L'orario di fine verrà impostato automaticamente in base alla durata standard dello Sabbath di 25 ore. Puoi sempre modificare l'orario di fine a tuo piacimento."
 }
