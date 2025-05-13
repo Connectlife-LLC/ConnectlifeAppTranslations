@@ -5415,5 +5415,10 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Ketuk dan tahan tombol Wi-Fi selama 3 detik hingga Wi-Fi mulai berkedip. Jaringan perangkat kini terbuka untuk koneksi selama 5 menit. \n Klik NEXT untuk melanjutkan.",
     "CL_CF_CS_hob_hi_6_p_2": "Ketuk dan tahan tombol Wi-Fi selama 6 detik hingga Wi-Fi mulai berkedip. Perangkat kini siap untuk dipasangkan selama 3 menit. \n Klik NEXT untuk melanjutkan.",
     "CL_DV_OV_calibration_active": "Kalibrasi aktif",
-    "CL_DV_OV_calibration_active_desc": "Oven Anda sedang dikalibrasi. Proses ini dapat memakan waktu hingga 4 jam. Fungsi terbatas selama waktu ini."
+    "CL_DV_OV_calibration_active_desc": "Oven Anda sedang dikalibrasi. Proses ini dapat memakan waktu hingga 4 jam. Fungsi terbatas selama waktu ini.",
+    "ai_trouble_shooting_eg": "Contoh pertanyaan yang dapat Anda ajukan:",
+    "ai_trouble_shooting_eg1": "Apa arti E3 pada alat tersebut?",
+    "ai_trouble_shooting_eg2": "Mengapa mesin cuci saya tidak membuang air?",
+    "ai_trouble_shooting_eg3": "Mesin saya tidak bisa menyala.",
+    "CL_DV_OV_sabbath_mode_start_desc": "Pilih kapan mode Sabat akan dimulai. Waktu berakhir akan ditetapkan secara otomatis berdasarkan durasi Sabat standar selama 25 jam. Anda selalu dapat mengubah waktu berakhir sesuai keinginan Anda."
 }

@@ -5415,5 +5415,10 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Wi-Fi가 깜빡이기 시작할 때까지 Wi-Fi 키를 3초간 길게 누르세요. 이제 기기 네트워크가 5분 동안 연결될 수 있습니다. \n 계속하려면 '다음'을 클릭하세요.",
     "CL_CF_CS_hob_hi_6_p_2": "Wi-Fi 버튼을 6초간 길게 눌러 Wi-Fi 표시등이 깜빡이기 시작하면 기기가 3분간 페어링할 준비가 됩니다. \n 계속하려면 '다음'을 클릭하세요.",
     "CL_DV_OV_calibration_active": "교정 활성화",
-    "CL_DV_OV_calibration_active_desc": "오븐 보정 중입니다. 최대 4시간이 걸릴 수 있습니다. 이 시간 동안에는 기능이 제한됩니다."
+    "CL_DV_OV_calibration_active_desc": "오븐 보정 중입니다. 최대 4시간이 걸릴 수 있습니다. 이 시간 동안에는 기능이 제한됩니다.",
+    "ai_trouble_shooting_eg": "질문할 수 있는 내용의 예:",
+    "ai_trouble_shooting_eg1": "가전제품의 E3는 무엇을 의미합니까?",
+    "ai_trouble_shooting_eg2": "세탁기에서 물이 빠지지 않는 이유는 무엇인가요?",
+    "ai_trouble_shooting_eg3": "내 기계가 시작되지 않아요.",
+    "CL_DV_OV_sabbath_mode_start_desc": "안식일 모드 시작 시간을 선택하세요. 종료 시간은 표준 안식일 기간인 25시간을 기준으로 자동 설정됩니다. 언제든지 원하는 대로 종료 시간을 변경할 수 있습니다."
 }

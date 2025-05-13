@@ -5415,5 +5415,10 @@
     "CL_CF_CS_hob_hi_6_cs_2": "Wi-Fiキーを3秒間長押しすると、Wi-Fiが点滅し始めます。デバイスのネットワークは5分間接続可能 \nなります。L__NEWLINE__ 「次へ」をクリックして続行してください。",
     "CL_CF_CS_hob_hi_6_p_2": "Wi-Fiキーを6秒間長押しすると、Wi-Fiが点滅し始めます。これでデバイスは3分間ペアリングできる状態になります。__ \n 「次へ」をクリックして続行してください。",
     "CL_DV_OV_calibration_active": "キャリブレーション有効",
-    "CL_DV_OV_calibration_active_desc": "オーブンの調整中です。この処理には最大4時間かかる場合があります。この間は機能が制限されます。"
+    "CL_DV_OV_calibration_active_desc": "オーブンの調整中です。この処理には最大4時間かかる場合があります。この間は機能が制限されます。",
+    "ai_trouble_shooting_eg": "質問できる内容の例:",
+    "ai_trouble_shooting_eg1": "アプライアンスの E3 は何を意味しますか?",
+    "ai_trouble_shooting_eg2": "洗濯機から水が排出されないのはなぜですか?",
+    "ai_trouble_shooting_eg3": "マシンが起動しません。",
+    "CL_DV_OV_sabbath_mode_start_desc": "安息日モードを開始する時間を選択してください。終了時間は、標準的な安息日期間である25時間に基づいて自動的に設定されます。終了時間はいつでもお好みに合わせて変更できます。"
 }
