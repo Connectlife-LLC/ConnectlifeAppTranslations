@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "कृपया चयन कीजिए",
     "btaudio_dimmer": "डिमर",
     "btaudio_soundeffect": "साउंड इफेक्ट",
-    "CL_DV_DW_confirm_on_device_desc_g": "5 मिनट के भीतर डिवाइस पर चमकते 'कनेक्ट' बटन को दबाकर रिमोट कंट्रोल सक्षम करें। सुनिश्चित करें कि डिवाइस एक चक्र नहीं चला रहा है।"
+    "CL_DV_DW_confirm_on_device_desc_g": "5 मिनट के भीतर डिवाइस पर चमकते 'कनेक्ट' बटन को दबाकर रिमोट कंट्रोल सक्षम करें। सुनिश्चित करें कि डिवाइस एक चक्र नहीं चला रहा है।",
+    "btaudio_channellevel": "चैनल स्तर",
+    "general_logout_confirm_button": "लॉग आउट",
+    "btaudio_surround": "चारों ओर से घेरना"
 }
