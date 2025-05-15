@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/Model NO.",
     "select_device_type": "Pilih jenis perangkat",
     "title": "Judul",
-    "discrepancy_in_length": "Nomor AUID harus sepanjang 37 karakter dan SN harus sepanjang 23 karakter",
+    "discrepancy_in_length": "Nomor AUID harus sepanjang 37 karakter dan SN harus sepanjang 23 karakter.",
     "device_not_found": "Perangkat Tidak Ditemukan",
     "no_network_tips": "Tidak dapat mengambil informasi. Silakan periksa koneksi internet Anda dan coba lagi",
     "select_device": "Pilih alat",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Silakan Pilih",
     "btaudio_dimmer": "Peredup",
     "btaudio_soundeffect": "Efek Suara",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktifkan kendali jarak jauh dengan menekan tombol 'Hubungkan' yang berkedip pada perangkat dalam waktu 5 menit. Pastikan perangkat tidak sedang menjalankan siklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktifkan kendali jarak jauh dengan menekan tombol 'Hubungkan' yang berkedip pada perangkat dalam waktu 5 menit. Pastikan perangkat tidak sedang menjalankan siklus.",
+    "btaudio_channellevel": "Tingkat Saluran",
+    "general_logout_confirm_button": "KELUAR",
+    "btaudio_surround": "Mengelilingi"
 }
