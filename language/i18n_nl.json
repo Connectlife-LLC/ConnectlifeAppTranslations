@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/Model NR.",
     "select_device_type": "Selecteer apparaattype",
     "title": "Titel",
-    "discrepancy_in_length": "Het AUID-nummer moet 37 tekens lang zijn en het SN moet 23 tekens lang zijn",
+    "discrepancy_in_length": "Het AUID-nummer moet 37 tekens lang zijn en het SN moet 23 tekens lang zijn.",
     "device_not_found": "Apparaat niet gevonden",
     "no_network_tips": "Kan geen informatie ophalen. Controleer uw internetverbinding en probeer het opnieuw",
     "select_device": "Selecteer apparaat",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Selecteer alstublieft",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Geluidseffect",
-    "CL_DV_DW_confirm_on_device_desc_g": "Schakel de afstandsbediening in door binnen 5 minuten op de knipperende 'Connect'-knop op het apparaat te drukken. Zorg ervoor dat het apparaat geen wasprogramma draait."
+    "CL_DV_DW_confirm_on_device_desc_g": "Schakel de afstandsbediening in door binnen 5 minuten op de knipperende 'Connect'-knop op het apparaat te drukken. Zorg ervoor dat het apparaat geen wasprogramma draait.",
+    "btaudio_channellevel": "Kanaalniveau",
+    "general_logout_confirm_button": "UITLOGGEN",
+    "btaudio_surround": "Omringen"
 }

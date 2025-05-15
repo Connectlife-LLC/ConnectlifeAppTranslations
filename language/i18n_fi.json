@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/malli nro.",
     "select_device_type": "Valitse laitetyyppi",
     "title": "Nimike",
-    "discrepancy_in_length": "AUID-numeron tulee olla 37 merkkiä pitkä ja SN:n 23 merkkiä pitkä",
+    "discrepancy_in_length": "AUID-numeron tulee olla 37 merkkiä pitkä ja SN:n 23 merkkiä pitkä.",
     "device_not_found": "Laitetta ei löydy",
     "no_network_tips": "Tietoja ei voi noutaa. Tarkista internetyhteytesi ja yritä uudelleen",
     "select_device": "Valitse laite",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Valitse",
     "btaudio_dimmer": "Himmennin",
     "btaudio_soundeffect": "Äänitehoste",
-    "CL_DV_DW_confirm_on_device_desc_g": "Ota kaukosäädin käyttöön painamalla laitteen vilkkuvaa Yhdistä-painiketta 5 minuutin kuluessa. Varmista, ettei laite ole käynnissä."
+    "CL_DV_DW_confirm_on_device_desc_g": "Ota kaukosäädin käyttöön painamalla laitteen vilkkuvaa Yhdistä-painiketta 5 minuutin kuluessa. Varmista, ettei laite ole käynnissä.",
+    "btaudio_channellevel": "Kanavataso",
+    "general_logout_confirm_button": "KIRJAUDU ULOS",
+    "btaudio_surround": "Ympäröivä"
 }

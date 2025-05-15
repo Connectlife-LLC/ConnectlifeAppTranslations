@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/Modellszám.",
     "select_device_type": "Válassza ki az eszköz típusát",
     "title": "Cím",
-    "discrepancy_in_length": "Az AUID számnak 37 karakternek, az SN-nek pedig 23 karakternek kell lennie",
+    "discrepancy_in_length": "Az AUID számnak 37 karakternek, az SN-nek pedig 23 karakternek kell lennie.",
     "device_not_found": "Az eszköz nem található",
     "no_network_tips": "Nem lehet információt lekérni. Kérjük, ellenőrizze internetkapcsolatát, és próbálja újra",
     "select_device": "Válassza ki az eszközt",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Kérjük, válasszon",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Hangeffektus",
-    "CL_DV_DW_confirm_on_device_desc_g": "A távirányító engedélyezéséhez 5 percen belül nyomja meg a készüléken villogó „Csatlakozás” gombot. Győződjön meg arról, hogy a készülék nem futtat ciklust."
+    "CL_DV_DW_confirm_on_device_desc_g": "A távirányító engedélyezéséhez 5 percen belül nyomja meg a készüléken villogó „Csatlakozás” gombot. Győződjön meg arról, hogy a készülék nem futtat ciklust.",
+    "btaudio_channellevel": "Csatornaszint",
+    "general_logout_confirm_button": "KIJELENTKEZÉS",
+    "btaudio_surround": "Térhatású"
 }

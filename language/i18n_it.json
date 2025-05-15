@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/Modello n.",
     "select_device_type": "Seleziona il tipo di dispositivo",
     "title": "Titolo",
-    "discrepancy_in_length": "Il numero AUID deve essere lungo 37 caratteri e il numero SN deve essere lungo 23 caratteri",
+    "discrepancy_in_length": "Il numero AUID deve essere lungo 37 caratteri e il numero SN deve essere lungo 23 caratteri.",
     "device_not_found": "Dispositivo non trovato",
     "no_network_tips": "Impossibile recuperare le informazioni. per favore controlla la tua connessione Internet e prova di nuovo",
     "select_device": "Seleziona dispositivo",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Si prega di selezionare",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Effetto sonoro",
-    "CL_DV_DW_confirm_on_device_desc_g": "Abilitare il controllo remoto premendo il pulsante lampeggiante \"Connetti\" sul dispositivo entro 5 minuti. Assicurarsi che il dispositivo non sia in fase di ciclo."
+    "CL_DV_DW_confirm_on_device_desc_g": "Abilitare il controllo remoto premendo il pulsante lampeggiante \"Connetti\" sul dispositivo entro 5 minuti. Assicurarsi che il dispositivo non sia in fase di ciclo.",
+    "btaudio_channellevel": "Livello del canale",
+    "general_logout_confirm_button": "ESCI",
+    "btaudio_surround": "Circondare"
 }
