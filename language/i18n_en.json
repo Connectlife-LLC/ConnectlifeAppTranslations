@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Please Select",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Sound Effect",
-    "CL_DV_DW_confirm_on_device_desc_g": "Enable remote control by pressing the flashing 'Connect' button on the device within 5 minutes. Ensure the device is not running a cycle."
+    "CL_DV_DW_confirm_on_device_desc_g": "Enable remote control by pressing the flashing 'Connect' button on the device within 5 minutes. Ensure the device is not running a cycle.",
+    "btaudio_channellevel": "Channel Level",
+    "general_logout_confirm_button": "LOG OUT",
+    "btaudio_surround": "Surround"
 }
