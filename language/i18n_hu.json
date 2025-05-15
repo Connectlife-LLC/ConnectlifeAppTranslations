@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Kérjük, válasszon",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Hangeffektus",
-    "CL_DV_DW_confirm_on_device_desc_g": "A távirányító engedélyezéséhez 5 percen belül nyomja meg a készüléken villogó „Csatlakozás” gombot. Győződjön meg arról, hogy a készülék nem futtat ciklust."
+    "CL_DV_DW_confirm_on_device_desc_g": "A távirányító engedélyezéséhez 5 percen belül nyomja meg a készüléken villogó „Csatlakozás” gombot. Győződjön meg arról, hogy a készülék nem futtat ciklust.",
+    "btaudio_channellevel": "Csatornaszint",
+    "general_logout_confirm_button": "KIJELENTKEZÉS",
+    "btaudio_surround": "Térhatású"
 }

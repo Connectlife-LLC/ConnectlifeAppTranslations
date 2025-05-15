@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "请选择",
     "btaudio_dimmer": "LED灯显",
     "btaudio_soundeffect": "音效",
-    "CL_DV_DW_confirm_on_device_desc_g": "在 5 分钟内按下设备上闪烁的“连接”按钮，启用远程控制。确保设备未处于循环运行状态。"
+    "CL_DV_DW_confirm_on_device_desc_g": "在 5 分钟内按下设备上闪烁的“连接”按钮，启用远程控制。确保设备未处于循环运行状态。",
+    "btaudio_channellevel": "渠道级别",
+    "general_logout_confirm_button": "确认",
+    "btaudio_surround": "环绕"
 }

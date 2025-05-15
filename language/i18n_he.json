@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "אנא בחר",
     "btaudio_dimmer": "דימר",
     "btaudio_soundeffect": "אפקט צליל",
-    "CL_DV_DW_confirm_on_device_desc_g": "הפעל את השליטה מרחוק על ידי לחיצה על כפתור 'התחבר' המהבהב במכשיר תוך 5 דקות. ודא שהמכשיר אינו פועל במחזור."
+    "CL_DV_DW_confirm_on_device_desc_g": "הפעל את השליטה מרחוק על ידי לחיצה על כפתור 'התחבר' המהבהב במכשיר תוך 5 דקות. ודא שהמכשיר אינו פועל במחזור.",
+    "btaudio_channellevel": "רמת הערוץ",
+    "general_logout_confirm_button": "התנתק",
+    "btaudio_surround": "לְהַקִיף"
 }
