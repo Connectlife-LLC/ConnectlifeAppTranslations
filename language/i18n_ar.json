@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "الرجاء الاختيار",
     "btaudio_dimmer": "باهته",
     "btaudio_soundeffect": "تأثير صوتي",
-    "CL_DV_DW_confirm_on_device_desc_g": "فعّل جهاز التحكم عن بُعد بالضغط على زر \"اتصال\" الوامض بالجهاز خلال 5 دقائق. تأكد من عدم تشغيل الجهاز بشكل متكرر."
+    "CL_DV_DW_confirm_on_device_desc_g": "فعّل جهاز التحكم عن بُعد بالضغط على زر \"اتصال\" الوامض بالجهاز خلال 5 دقائق. تأكد من عدم تشغيل الجهاز بشكل متكرر.",
+    "btaudio_channellevel": "مستوى القناة",
+    "general_logout_confirm_button": "تسجيل الخروج",
+    "btaudio_surround": "محيطي"
 }

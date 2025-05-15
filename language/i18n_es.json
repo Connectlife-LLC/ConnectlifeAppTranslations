@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Por favor seleccione",
     "btaudio_dimmer": "Regulador de intensidad",
     "btaudio_soundeffect": "Efecto de sonido",
-    "CL_DV_DW_confirm_on_device_desc_g": "Active el control remoto pulsando el botón \"Conectar\" del dispositivo en los próximos 5 minutos. Asegúrese de que el dispositivo no esté en ciclo."
+    "CL_DV_DW_confirm_on_device_desc_g": "Active el control remoto pulsando el botón \"Conectar\" del dispositivo en los próximos 5 minutos. Asegúrese de que el dispositivo no esté en ciclo.",
+    "btaudio_channellevel": "Nivel de canal",
+    "general_logout_confirm_button": "FINALIZAR LA SESIÓN",
+    "btaudio_surround": "Rodear"
 }
