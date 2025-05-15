@@ -996,7 +996,7 @@
     "washer_atag_odor_control": "التحكم في الرائحة",
     "washer_atag_display_logotype": "عرض الشعار",
     "washer_atag_display_contrast": "تباين الشاشة",
-    "washer_atag_detergent_tab": "المنظفات TAB",
+    "washer_atag_detergent_tab": "علامة تبويب المنظف",
     "send_and_start": "إرسال وبدء",
     "language_english_gb": "(EN)\nالإنجليزية_بريطانيا العظمى",
     "language_swedish": "السويدية (SV)",
@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "فعّل جهاز التحكم عن بُعد بالضغط على زر \"اتصال\" الوامض بالجهاز خلال 5 دقائق. تأكد من عدم تشغيل الجهاز بشكل متكرر.",
     "btaudio_channellevel": "مستوى القناة",
     "general_logout_confirm_button": "تسجيل الخروج",
-    "btaudio_surround": "محيطي"
+    "btaudio_surround": "محيطي",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "اختر فئة الجهاز",
+    "choose_device_category_desc_2": "اختر الفئة التي ينتمي إليها جهازك."
 }

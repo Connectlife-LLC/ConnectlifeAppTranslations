@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Schakel de afstandsbediening in door binnen 5 minuten op de knipperende 'Connect'-knop op het apparaat te drukken. Zorg ervoor dat het apparaat geen wasprogramma draait.",
     "btaudio_channellevel": "Kanaalniveau",
     "general_logout_confirm_button": "UITLOGGEN",
-    "btaudio_surround": "Omringen"
+    "btaudio_surround": "Omringen",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "KIES DE APPARAATCATEGORIE",
+    "choose_device_category_desc_2": "Kies de categorie waartoe uw toestel behoort."
 }

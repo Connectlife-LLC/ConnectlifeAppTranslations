@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Включите дистанционное управление, нажав мигающую кнопку «Подключить» на устройстве в течение 5 минут. Убедитесь, что устройство не выполняет цикл.",
     "btaudio_channellevel": "Уровень канала",
     "general_logout_confirm_button": "ВЫЙТИ",
-    "btaudio_surround": "Объемный"
+    "btaudio_surround": "Объемный",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ВЫБЕРИТЕ КАТЕГОРИЮ УСТРОЙСТВА",
+    "choose_device_category_desc_2": "Выберите категорию, к которой принадлежит ваше устройство."
 }

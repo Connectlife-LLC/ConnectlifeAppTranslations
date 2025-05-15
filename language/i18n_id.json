@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Aktifkan kendali jarak jauh dengan menekan tombol 'Hubungkan' yang berkedip pada perangkat dalam waktu 5 menit. Pastikan perangkat tidak sedang menjalankan siklus.",
     "btaudio_channellevel": "Tingkat Saluran",
     "general_logout_confirm_button": "KELUAR",
-    "btaudio_surround": "Mengelilingi"
+    "btaudio_surround": "Mengelilingi",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "PILIH KATEGORI PERANGKAT",
+    "choose_device_category_desc_2": "Pilih kategori tempat perangkat Anda berada."
 }

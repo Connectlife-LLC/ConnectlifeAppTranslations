@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Dayakan alat kawalan jauh dengan menekan butang 'Sambung' yang berkelip pada peranti dalam masa 5 minit. Pastikan peranti tidak menjalankan kitaran.",
     "btaudio_channellevel": "Tahap Saluran",
     "general_logout_confirm_button": "LOG KELUAR",
-    "btaudio_surround": "Keliling"
+    "btaudio_surround": "Keliling",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "PILIH KATEGORI PERANTI",
+    "choose_device_category_desc_2": "Pilih kategori di mana peranti anda berada."
 }

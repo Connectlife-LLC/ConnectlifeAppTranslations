@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "A távirányító engedélyezéséhez 5 percen belül nyomja meg a készüléken villogó „Csatlakozás” gombot. Győződjön meg arról, hogy a készülék nem futtat ciklust.",
     "btaudio_channellevel": "Csatornaszint",
     "general_logout_confirm_button": "KIJELENTKEZÉS",
-    "btaudio_surround": "Térhatású"
+    "btaudio_surround": "Térhatású",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "VÁLASSZA KI AZ ESZKÖZKATEGÓRIÁT",
+    "choose_device_category_desc_2": "Válassza ki a kategóriát, amelybe a készüléke tartozik."
 }

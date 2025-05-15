@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Увімкніть дистанційне керування, натиснувши мигаючу кнопку «Підключення» на пристрої протягом 5 хвилин. Переконайтеся, що пристрій не виконує жодного циклу.",
     "btaudio_channellevel": "Рівень каналу",
     "general_logout_confirm_button": "ВИЙТИ",
-    "btaudio_surround": "Оточуючий"
+    "btaudio_surround": "Оточуючий",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ОБЕРІТЬ КАТЕГОРІЮ ПРИСТРОЮ",
+    "choose_device_category_desc_2": "Виберіть категорію, до якої належить ваш пристрій."
 }

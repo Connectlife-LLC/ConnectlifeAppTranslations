@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Abilitare il controllo remoto premendo il pulsante lampeggiante \"Connetti\" sul dispositivo entro 5 minuti. Assicurarsi che il dispositivo non sia in fase di ciclo.",
     "btaudio_channellevel": "Livello del canale",
     "general_logout_confirm_button": "ESCI",
-    "btaudio_surround": "Circondare"
+    "btaudio_surround": "Circondare",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "SCEGLI LA CATEGORIA DEL DISPOSITIVO",
+    "choose_device_category_desc_2": "Scegli la categoria a cui appartiene il tuo dispositivo."
 }

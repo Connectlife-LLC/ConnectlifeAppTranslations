@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Bật điều khiển từ xa bằng cách nhấn nút 'Kết nối' nhấp nháy trên thiết bị trong vòng 5 phút. Đảm bảo thiết bị không chạy chu kỳ.",
     "btaudio_channellevel": "Mức kênh",
     "general_logout_confirm_button": "ĐĂNG XUẤT",
-    "btaudio_surround": "Bao quanh"
+    "btaudio_surround": "Bao quanh",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "CHỌN DANH MỤC THIẾT BỊ",
+    "choose_device_category_desc_2": "Chọn danh mục mà thiết bị của bạn thuộc về."
 }

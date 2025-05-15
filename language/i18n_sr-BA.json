@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Омогућите даљинско управљање притиском на трепћуће дугме „Повежи“ на уређају у року од 5 минута. Уверите се да уређај не ради неки циклус.",
     "btaudio_channellevel": "Ниво канала",
     "general_logout_confirm_button": "ОДЈАВИ СЕ",
-    "btaudio_surround": "Окружни"
+    "btaudio_surround": "Окружни",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ИЗАБЕРИТЕ КАТЕГОРИЈУ УРЕЂАЈА",
+    "choose_device_category_desc_2": "Одаберите категорију којој припада ваш уређај."
 }

@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Activez la télécommande en appuyant sur le bouton clignotant « Connecter » de l'appareil dans les 5 minutes. Assurez-vous que l'appareil n'est pas en cours d'exécution.",
     "btaudio_channellevel": "Niveau du canal",
     "general_logout_confirm_button": "DÉCONNECTER",
-    "btaudio_surround": "Entourer"
+    "btaudio_surround": "Entourer",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "CHOISISSEZ LA CATÉGORIE D'APPAREIL",
+    "choose_device_category_desc_2": "Choisissez la catégorie à laquelle appartient votre appareil."
 }
