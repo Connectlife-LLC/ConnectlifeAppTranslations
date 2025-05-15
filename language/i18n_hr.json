@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/MODEL BR.",
     "select_device_type": "Odabir vrste uređaja",
     "title": "Naslov",
-    "discrepancy_in_length": "AUID broj treba imati 37 znakova, a SN 23",
+    "discrepancy_in_length": "AUID broj treba imati 37 znakova, a SN 23.",
     "device_not_found": "Uređaj nije pronađen",
     "no_network_tips": "Nije moguće dohvatiti informacije. Provjerite internet vezu i pokušajte ponovno",
     "select_device": "Odabir uređaja",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Molimo odaberite",
     "btaudio_dimmer": "Prigušivač",
     "btaudio_soundeffect": "Zvučni efekt",
-    "CL_DV_DW_confirm_on_device_desc_g": "Omogućite daljinsko upravljanje pritiskom na trepćući gumb 'Poveži' na uređaju unutar 5 minuta. Provjerite da uređaj ne izvodi ciklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Omogućite daljinsko upravljanje pritiskom na trepćući gumb 'Poveži' na uređaju unutar 5 minuta. Provjerite da uređaj ne izvodi ciklus.",
+    "btaudio_channellevel": "Razina kanala",
+    "general_logout_confirm_button": "ODJAVA",
+    "btaudio_surround": "Okružujući"
 }
