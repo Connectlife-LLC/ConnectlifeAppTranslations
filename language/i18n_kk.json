@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Құрылғыдағы жыпылықтайтын «Қосылу» түймесін 5 минут ішінде басу арқылы қашықтан басқару құралын қосыңыз. Құрылғы циклді орындамайтынына көз жеткізіңіз.",
     "btaudio_channellevel": "Арна деңгейі",
     "general_logout_confirm_button": "ШЫҒУ",
-    "btaudio_surround": "Айнала"
+    "btaudio_surround": "Айнала",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ҚҰРЫЛҒЫ САНАТЫН ТАҢДАҢЫЗ",
+    "choose_device_category_desc_2": "Құрылғыңыз тиесілі санатты таңдаңыз."
 }

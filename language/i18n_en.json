@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Enable remote control by pressing the flashing 'Connect' button on the device within 5 minutes. Ensure the device is not running a cycle.",
     "btaudio_channellevel": "Channel Level",
     "general_logout_confirm_button": "LOG OUT",
-    "btaudio_surround": "Surround"
+    "btaudio_surround": "Surround",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "CHOOESE THE DEVICE CATEGORY",
+    "choose_device_category_desc_2": "Choose the category to which your device belongs."
 }

@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Włącz zdalne sterowanie, naciskając migający przycisk „Połącz” na urządzeniu w ciągu 3 minut. Upewnij się, że urządzenie nie wykonuje cyklu.",
     "btaudio_channellevel": "Poziom kanału",
     "general_logout_confirm_button": "WYLOGUJ SIĘ",
-    "btaudio_surround": "Otaczać"
+    "btaudio_surround": "Otaczać",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "WYBIERZ KATEGORIĘ URZĄDZENIA",
+    "choose_device_category_desc_2": "Wybierz kategorię, do której należy Twoje urządzenie."
 }

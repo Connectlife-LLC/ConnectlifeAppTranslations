@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Овозможете го далечинскиот управувач со притискање на трепкачкото копче „Поврзи“ на уредот во рок од 5 минути. Уверете се дека уредот не работи на циклус.",
     "btaudio_channellevel": "Ниво на канал",
     "general_logout_confirm_button": "ОДЈАВИ СЕ",
-    "btaudio_surround": "Опкружувачки"
+    "btaudio_surround": "Опкружувачки",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ИЗБЕРЕТЕ ЈА КАТЕГОРИЈАТА НА УРЕДОТ",
+    "choose_device_category_desc_2": "Изберете ја категоријата во која припаѓа вашиот уред."
 }

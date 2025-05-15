@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Ενεργοποιήστε το τηλεχειριστήριο πατώντας το κουμπί «Σύνδεση» που αναβοσβήνει στη συσκευή εντός 5 λεπτών. Βεβαιωθείτε ότι η συσκευή δεν εκτελεί κανέναν κύκλο.",
     "btaudio_channellevel": "Επίπεδο καναλιού",
     "general_logout_confirm_button": "ΑΠΟΣΥΝΔΕΣΗ",
-    "btaudio_surround": "Περιβάλλω"
+    "btaudio_surround": "Περιβάλλω",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ΕΠΙΛΕΞΤΕ ΤΗΝ ΚΑΤΗΓΟΡΙΑ ΣΥΣΚΕΥΗΣ",
+    "choose_device_category_desc_2": "Επιλέξτε την κατηγορία στην οποία ανήκει η συσκευή σας."
 }

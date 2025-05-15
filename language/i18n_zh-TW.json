@@ -5257,7 +5257,7 @@
     "problem_title_btaudio_soundbar_q1": "如何配對條形音箱",
     "CL_CF_VA_you_can_link": "您可以將***連結到您的ConnectLife帳戶。",
     "device_status_program_wrinkle_care": "抗皺護理",
-    "CL_DV_DW_ai_eco": "AI 環保模式",
+    "CL_DV_DW_ai_eco": "環保模式",
     "CL_DV_HOB_step2_cooking_can_not_used": "該區域無法使用。",
     "CL_DV_HOOD_room_settings": "房間設置",
     "CL_DV_LC_new_notification": "新通知",
@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "在 5 分鐘內按下裝置上閃爍的「連線」按鈕即可啟用遠端控制。確保設備沒有循環運作。",
     "btaudio_channellevel": "頻道層級",
     "general_logout_confirm_button": "确认",
-    "btaudio_surround": "環繞"
+    "btaudio_surround": "環繞",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "選擇設備類別",
+    "choose_device_category_desc_2": "選擇您的設備所屬的類別。"
 }

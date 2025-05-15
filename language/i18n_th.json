@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "เปิดใช้งานรีโมทคอนโทรลโดยกดปุ่ม \"เชื่อมต่อ\" ที่กะพริบบนอุปกรณ์ภายใน 5 นาที ตรวจสอบให้แน่ใจว่าอุปกรณ์ไม่ได้ทำงานเป็นรอบ",
     "btaudio_channellevel": "ระดับช่องทาง",
     "general_logout_confirm_button": "ออกจากระบบ",
-    "btaudio_surround": "ล้อมรอบ"
+    "btaudio_surround": "ล้อมรอบ",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "เลือกหมวดหมู่อุปกรณ์",
+    "choose_device_category_desc_2": "เลือกหมวดหมู่ที่เป็นของอุปกรณ์ของคุณ"
 }

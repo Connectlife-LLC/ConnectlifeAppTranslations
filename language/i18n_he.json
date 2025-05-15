@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "הפעל את השליטה מרחוק על ידי לחיצה על כפתור 'התחבר' המהבהב במכשיר תוך 5 דקות. ודא שהמכשיר אינו פועל במחזור.",
     "btaudio_channellevel": "רמת הערוץ",
     "general_logout_confirm_button": "התנתק",
-    "btaudio_surround": "לְהַקִיף"
+    "btaudio_surround": "לְהַקִיף",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "בחר את קטגוריית המכשיר",
+    "choose_device_category_desc_2": "בחר את הקטגוריה שאליה שייך המכשיר שלך."
 }

@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "با فشار دادن دکمه چشمک‌زن «اتصال» روی دستگاه ظرف ۵ دقیقه، کنترل از راه دور را فعال کنید. مطمئن شوید که دستگاه در حال اجرا نباشد.",
     "btaudio_channellevel": "سطح کانال",
     "general_logout_confirm_button": "خروج",
-    "btaudio_surround": "فراگیر"
+    "btaudio_surround": "فراگیر",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "دسته بندی دستگاه را انتخاب کنید",
+    "choose_device_category_desc_2": "دسته ای که دستگاه شما به آن تعلق دارد را انتخاب کنید."
 }

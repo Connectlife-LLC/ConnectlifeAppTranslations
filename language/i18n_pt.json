@@ -988,7 +988,7 @@
     "appliance_statistics": "Estatísticas do aparelho",
     "washer_atag_notification_volume": "VOLUME DE NOTIFICAÇÃO",
     "washer_atag_feedback_volume": "VOLUME DE FEEDBACK",
-    "washer_atag_rinse_aid": "ABRILHANTADOR",
+    "washer_atag_rinse_aid": "ABRILHANTADO",
     "washer_atag_super_rinse": "Super Enxaguamento",
     "washer_atag_auto_dose_quantity": "QUANTIDADE AUTO DOSE (ml)",
     "washer_atag_water_saving": "Poupança de água",
@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Ative o controle remoto pressionando o botão \"Conectar\" piscante no dispositivo em até 5 minutos. Certifique-se de que o dispositivo não esteja executando um ciclo.",
     "btaudio_channellevel": "Nível do canal",
     "general_logout_confirm_button": "SAIR",
-    "btaudio_surround": "Cercar"
+    "btaudio_surround": "Cercar",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ESCOLHA A CATEGORIA DO DISPOSITIVO",
+    "choose_device_category_desc_2": "Escolha a categoria a que pertence o seu aparelho."
 }

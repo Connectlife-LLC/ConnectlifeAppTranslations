@@ -988,7 +988,7 @@
     "appliance_statistics": "Statistika naprave",
     "washer_atag_notification_volume": "GLASNOST OBVESTIL",
     "washer_atag_feedback_volume": "GLASNOST POVRATNIH OBVESTIL",
-    "washer_atag_rinse_aid": "SREDSTVO ZA IZPIRANJE",
+    "washer_atag_rinse_aid": "POMOČ ZA IZPRANJE",
     "washer_atag_super_rinse": "Super izpiranje",
     "washer_atag_auto_dose_quantity": "KOLIČINA SAMODEJNEGA ODMERKA (ml)",
     "washer_atag_water_saving": "Varčevanje z vodo",
@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Daljinsko upravljanje omogočite tako, da v 5 minutah pritisnete utripajoč gumb »Poveži« na napravi. Prepričajte se, da naprava ne izvaja nobenega cikla.",
     "btaudio_channellevel": "Raven kanala",
     "general_logout_confirm_button": "ODJAVA",
-    "btaudio_surround": "Obkrožajoči"
+    "btaudio_surround": "Obkrožajoči",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "IZBERITE KATEGORIJO NAPRAVE",
+    "choose_device_category_desc_2": "Izberite kategorijo, v katero spada vaša naprava."
 }

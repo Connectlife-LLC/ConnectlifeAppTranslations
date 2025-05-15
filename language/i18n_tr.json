@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "5 dakika içinde cihazda yanıp sönen 'Bağlan' düğmesine basarak uzaktan kumandayı etkinleştirin. Cihazın bir döngü çalıştırmadığından emin olun.",
     "btaudio_channellevel": "Kanal Seviyesi",
     "general_logout_confirm_button": "ÇIKIŞ YAP",
-    "btaudio_surround": "Çevrelemek"
+    "btaudio_surround": "Çevrelemek",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "CİHAZ KATEGORİSİNİ SEÇİN",
+    "choose_device_category_desc_2": "Cihazınızın ait olduğu kategoriyi seçin."
 }

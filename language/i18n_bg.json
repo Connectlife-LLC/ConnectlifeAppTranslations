@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Активирайте дистанционното управление, като натиснете мигащия бутон „Свързване“ на устройството в рамките на 5 минути. Уверете се, че устройството не работи в режим на работа.",
     "btaudio_channellevel": "Ниво на канала",
     "general_logout_confirm_button": "ИЗХОД",
-    "btaudio_surround": "Съраунд"
+    "btaudio_surround": "Съраунд",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ИЗБЕРЕТЕ КАТЕГОРИЯТА НА УСТРОЙСТВОТО",
+    "choose_device_category_desc_2": "Изберете категорията, към която принадлежи вашето устройство."
 }

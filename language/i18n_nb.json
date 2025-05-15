@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Aktiver fjernkontrollen ved å trykke på den blinkende «Koble til»-knappen på enheten innen 5 minutter. Sørg for at enheten ikke kjører en syklus.",
     "btaudio_channellevel": "Kanalnivå",
     "general_logout_confirm_button": "LOGG UT",
-    "btaudio_surround": "Omgi"
+    "btaudio_surround": "Omgi",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "VELG ENHETSKATEGORI",
+    "choose_device_category_desc_2": "Velg kategorien enheten din tilhører."
 }

@@ -988,7 +988,7 @@
     "appliance_statistics": "Gerätestatistik",
     "washer_atag_notification_volume": "Benachrichtigungen Lautstärke",
     "washer_atag_feedback_volume": "Feedback Lautstärke",
-    "washer_atag_rinse_aid": "Klarspüler",
+    "washer_atag_rinse_aid": "KLARSPÜLER",
     "washer_atag_super_rinse": "Extra Klarspüler",
     "washer_atag_auto_dose_quantity": "AUTO DOSIERUNG MENGE (ml)",
     "washer_atag_water_saving": "Wasser sparen",
@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Aktivieren Sie die Fernbedienung, indem Sie innerhalb von 5 Minuten die blinkende „Verbinden“-Taste am Gerät drücken. Stellen Sie sicher, dass das Gerät keinen Zyklus durchführt.",
     "btaudio_channellevel": "Kanalpegel",
     "general_logout_confirm_button": "ABMELDEN",
-    "btaudio_surround": "Umgeben"
+    "btaudio_surround": "Umgeben",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "WÄHLEN SIE DIE GERÄTEKATEGORIE",
+    "choose_device_category_desc_2": "Wählen Sie die Kategorie aus, zu der Ihr Gerät gehört."
 }

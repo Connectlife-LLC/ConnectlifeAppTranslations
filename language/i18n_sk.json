@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Povoľte diaľkové ovládanie stlačením blikajúceho tlačidla „Pripojiť“ na zariadení do 5 minút. Uistite sa, že zariadenie neprebieha žiadny cyklus.",
     "btaudio_channellevel": "Úroveň kanála",
     "general_logout_confirm_button": "ODHLÁSIŤ SA",
-    "btaudio_surround": "Priestorový zvuk"
+    "btaudio_surround": "Priestorový zvuk",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "VYBERTE SI KATEGÓRIU ZARIADENIA",
+    "choose_device_category_desc_2": "Vyberte kategóriu, do ktorej patrí vaše zariadenie."
 }

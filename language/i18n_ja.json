@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "5分以内にデバイスの点滅している「接続」ボタンを押して、リモートコントロールを有効にしてください。デバイスがサイクル動作していないことを確認してください。",
     "btaudio_channellevel": "チャンネルレベル",
     "general_logout_confirm_button": "ログアウトする",
-    "btaudio_surround": "囲む"
+    "btaudio_surround": "囲む",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "デバイスカテゴリーを選択",
+    "choose_device_category_desc_2": "製品所属カテゴリ選択："
 }

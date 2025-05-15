@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Ota kaukosäädin käyttöön painamalla laitteen vilkkuvaa Yhdistä-painiketta 5 minuutin kuluessa. Varmista, ettei laite ole käynnissä.",
     "btaudio_channellevel": "Kanavataso",
     "general_logout_confirm_button": "KIRJAUDU ULOS",
-    "btaudio_surround": "Ympäröivä"
+    "btaudio_surround": "Ympäröivä",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "VALITSE LAITEKATEGORIAN",
+    "choose_device_category_desc_2": "Valitse luokka, johon laitteesi kuuluu."
 }

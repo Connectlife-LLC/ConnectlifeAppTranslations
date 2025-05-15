@@ -5441,5 +5441,7 @@
     "CL_DV_DW_confirm_on_device_desc_g": "Activați telecomanda apăsând butonul „Conectare” care clipește de pe dispozitiv în decurs de 5 minute. Asigurați-vă că dispozitivul nu rulează un ciclu.",
     "btaudio_channellevel": "Nivelul canalului",
     "general_logout_confirm_button": "DECONECTARE",
-    "btaudio_surround": "Surround"
+    "btaudio_surround": "Surround",
+    "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ALEGEȚI CATEGORIA DE DISPOZITIV",
+    "choose_device_category_desc_2": "Alegeți categoria în care aparține dispozitivul dvs."
 }
