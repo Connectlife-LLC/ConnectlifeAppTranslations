@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Lütfen Seçin",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Ses Efekti",
-    "CL_DV_DW_confirm_on_device_desc_g": "5 dakika içinde cihazda yanıp sönen 'Bağlan' düğmesine basarak uzaktan kumandayı etkinleştirin. Cihazın bir döngü çalıştırmadığından emin olun."
+    "CL_DV_DW_confirm_on_device_desc_g": "5 dakika içinde cihazda yanıp sönen 'Bağlan' düğmesine basarak uzaktan kumandayı etkinleştirin. Cihazın bir döngü çalıştırmadığından emin olun.",
+    "btaudio_channellevel": "Kanal Seviyesi",
+    "general_logout_confirm_button": "ÇIKIŞ YAP",
+    "btaudio_surround": "Çevrelemek"
 }
