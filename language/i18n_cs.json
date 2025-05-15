@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/Č. modelu",
     "select_device_type": "Vyberte typ zařízení",
     "title": "Titul",
-    "discrepancy_in_length": "Číslo AUID by mělo být dlouhé 37 znaků a SN by mělo být dlouhé 23 znaků",
+    "discrepancy_in_length": "Číslo AUID by mělo být dlouhé 37 znaků a SN by mělo být dlouhé 23 znaků.",
     "device_not_found": "Zařízení nenalezeno",
     "no_network_tips": "Nelze načíst informace. Zkontrolujte prosím připojení k internetu a zkuste to znovu",
     "select_device": "Vyberte zařízení",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Prosím vyberte",
     "btaudio_dimmer": "Stmívač",
     "btaudio_soundeffect": "Zvukový efekt",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktivujte dálkové ovládání stisknutím blikajícího tlačítka „Připojit“ na zařízení do 5 minut. Ujistěte se, že zařízení neprobíhá žádný cyklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktivujte dálkové ovládání stisknutím blikajícího tlačítka „Připojit“ na zařízení do 5 minut. Ujistěte se, že zařízení neprobíhá žádný cyklus.",
+    "btaudio_channellevel": "Úroveň kanálu",
+    "general_logout_confirm_button": "ODHLÁSIT SE",
+    "btaudio_surround": "Prostorový zvuk"
 }

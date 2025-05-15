@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/modell NR.",
     "select_device_type": "Velg enhetstype",
     "title": "Tittel",
-    "discrepancy_in_length": "AUID-nummer skal være 37 tegn langt og SN skal være 23 tegn langt",
+    "discrepancy_in_length": "AUID-nummer skal være 37 tegn langt og SN skal være 23 tegn langt.",
     "device_not_found": "Enhet ikke funnet",
     "no_network_tips": "Kan ikke hente informasjon. Kontroller Internett-tilkoblingen din og prøv igjen",
     "select_device": "Velg enhet",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Vennligst velg",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Lydeffekt",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktiver fjernkontrollen ved å trykke på den blinkende «Koble til»-knappen på enheten innen 5 minutter. Sørg for at enheten ikke kjører en syklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktiver fjernkontrollen ved å trykke på den blinkende «Koble til»-knappen på enheten innen 5 minutter. Sørg for at enheten ikke kjører en syklus.",
+    "btaudio_channellevel": "Kanalnivå",
+    "general_logout_confirm_button": "LOGG UT",
+    "btaudio_surround": "Omgi"
 }

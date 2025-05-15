@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/Modell-NR.",
     "select_device_type": "Gerätetyp auswählen",
     "title": "Titel",
-    "discrepancy_in_length": "Die AUID-Nummer sollte 37 Zeichen lang sein und die SN sollte 23 Zeichen lang sein",
+    "discrepancy_in_length": "Die AUID-Nummer sollte 37 Zeichen lang sein und die SN sollte 23 Zeichen lang sein.",
     "device_not_found": "Gerät nicht gefunden",
     "no_network_tips": "Informationen können nicht abgerufen werden. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut",
     "select_device": "Gerät auswählen",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Bitte wählen Sie",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Soundeffekt",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktivieren Sie die Fernbedienung, indem Sie innerhalb von 5 Minuten die blinkende „Verbinden“-Taste am Gerät drücken. Stellen Sie sicher, dass das Gerät keinen Zyklus durchführt."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktivieren Sie die Fernbedienung, indem Sie innerhalb von 5 Minuten die blinkende „Verbinden“-Taste am Gerät drücken. Stellen Sie sicher, dass das Gerät keinen Zyklus durchführt.",
+    "btaudio_channellevel": "Kanalpegel",
+    "general_logout_confirm_button": "ABMELDEN",
+    "btaudio_surround": "Umgeben"
 }

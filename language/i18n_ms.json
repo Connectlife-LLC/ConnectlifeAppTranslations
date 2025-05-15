@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/Model NO.",
     "select_device_type": "Pilih jenis peranti",
     "title": "Tajuk",
-    "discrepancy_in_length": "Nombor AUID hendaklah sepanjang 37 aksara dan SN hendaklah 23 aksara",
+    "discrepancy_in_length": "Nombor AUID hendaklah sepanjang 37 aksara dan SN hendaklah 23 aksara.",
     "device_not_found": "Peranti tidak dijumpai",
     "no_network_tips": "Tidak dapat mendapatkan semula maklumat. Sila semak sambungan internet anda dan cuba lagi",
     "select_device": "Pilih peranti",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Sila Pilih",
     "btaudio_dimmer": "Peredup",
     "btaudio_soundeffect": "Kesan Bunyi",
-    "CL_DV_DW_confirm_on_device_desc_g": "Dayakan alat kawalan jauh dengan menekan butang 'Sambung' yang berkelip pada peranti dalam masa 5 minit. Pastikan peranti tidak menjalankan kitaran."
+    "CL_DV_DW_confirm_on_device_desc_g": "Dayakan alat kawalan jauh dengan menekan butang 'Sambung' yang berkelip pada peranti dalam masa 5 minit. Pastikan peranti tidak menjalankan kitaran.",
+    "btaudio_channellevel": "Tahap Saluran",
+    "general_logout_confirm_button": "LOG KELUAR",
+    "btaudio_surround": "Keliling"
 }

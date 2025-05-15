@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/Model NO.",
     "select_device_type": "Cihaz tipini seçin",
     "title": "Başlık",
-    "discrepancy_in_length": "AUID numarası 37 karakter uzunluğunda ve SN 23 karakter uzunluğunda olmalıdır",
+    "discrepancy_in_length": "AUID numarası 37 karakter uzunluğunda ve SN 23 karakter uzunluğunda olmalıdır.",
     "device_not_found": "Cihaz bulunamadı",
     "no_network_tips": "Bilgi alınamıyor. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin",
     "select_device": "Cihaz seç",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Lütfen Seçin",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Ses Efekti",
-    "CL_DV_DW_confirm_on_device_desc_g": "5 dakika içinde cihazda yanıp sönen 'Bağlan' düğmesine basarak uzaktan kumandayı etkinleştirin. Cihazın bir döngü çalıştırmadığından emin olun."
+    "CL_DV_DW_confirm_on_device_desc_g": "5 dakika içinde cihazda yanıp sönen 'Bağlan' düğmesine basarak uzaktan kumandayı etkinleştirin. Cihazın bir döngü çalıştırmadığından emin olun.",
+    "btaudio_channellevel": "Kanal Seviyesi",
+    "general_logout_confirm_button": "ÇIKIŞ YAP",
+    "btaudio_surround": "Çevrelemek"
 }

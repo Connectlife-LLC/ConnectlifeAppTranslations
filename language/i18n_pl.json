@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/NR modelu",
     "select_device_type": "Wybierz typ urządzenia",
     "title": "Tytuł",
-    "discrepancy_in_length": "Numer AUID powinien mieć długość 37 znaków, a numer SN powinien mieć długość 23 znaków",
+    "discrepancy_in_length": "Numer AUID powinien mieć długość 37 znaków, a numer SN powinien mieć długość 23 znaków.",
     "device_not_found": "Urządzenie nie zostało znalezione",
     "no_network_tips": "Nie można pobrać informacji. Sprawdź swoje połączenie internetowe i spróbuj ponownie",
     "select_device": "Wybierz urządzenie",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Proszę wybrać",
     "btaudio_dimmer": "Ściemniacz",
     "btaudio_soundeffect": "Efekt dźwiękowy",
-    "CL_DV_DW_confirm_on_device_desc_g": "Włącz zdalne sterowanie, naciskając migający przycisk „Połącz” na urządzeniu w ciągu 3 minut. Upewnij się, że urządzenie nie wykonuje cyklu."
+    "CL_DV_DW_confirm_on_device_desc_g": "Włącz zdalne sterowanie, naciskając migający przycisk „Połącz” na urządzeniu w ciągu 3 minut. Upewnij się, że urządzenie nie wykonuje cyklu.",
+    "btaudio_channellevel": "Poziom kanału",
+    "general_logout_confirm_button": "WYLOGUJ SIĘ",
+    "btaudio_surround": "Otaczać"
 }

@@ -3032,7 +3032,7 @@
     "auid_sn_modelNO": "AUID/SN/Model NR.",
     "select_device_type": "Selectați tipul dispozitivului",
     "title": "Titlu",
-    "discrepancy_in_length": "Numărul AUID trebuie să aibă 37 de caractere, iar SN trebuie să aibă 23 de caractere",
+    "discrepancy_in_length": "Numărul AUID trebuie să aibă 37 de caractere, iar SN trebuie să aibă 23 de caractere.",
     "device_not_found": "Dispozitivul nu a fost găsit",
     "no_network_tips": "Nu se pot prelua informații. Vă rugăm să vă verificați conexiunea la internet și să încercați din nou",
     "select_device": "Selecteaza dispozitivul",
@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Vă rugăm să selectați",
     "btaudio_dimmer": "Atenuator",
     "btaudio_soundeffect": "Efect sonor",
-    "CL_DV_DW_confirm_on_device_desc_g": "Activați telecomanda apăsând butonul „Conectare” care clipește de pe dispozitiv în decurs de 5 minute. Asigurați-vă că dispozitivul nu rulează un ciclu."
+    "CL_DV_DW_confirm_on_device_desc_g": "Activați telecomanda apăsând butonul „Conectare” care clipește de pe dispozitiv în decurs de 5 minute. Asigurați-vă că dispozitivul nu rulează un ciclu.",
+    "btaudio_channellevel": "Nivelul canalului",
+    "general_logout_confirm_button": "DECONECTARE",
+    "btaudio_surround": "Surround"
 }
