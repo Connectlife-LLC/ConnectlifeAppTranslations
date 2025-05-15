@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "Valitse",
     "btaudio_dimmer": "Himmennin",
     "btaudio_soundeffect": "Äänitehoste",
-    "CL_DV_DW_confirm_on_device_desc_g": "Ota kaukosäädin käyttöön painamalla laitteen vilkkuvaa Yhdistä-painiketta 5 minuutin kuluessa. Varmista, ettei laite ole käynnissä."
+    "CL_DV_DW_confirm_on_device_desc_g": "Ota kaukosäädin käyttöön painamalla laitteen vilkkuvaa Yhdistä-painiketta 5 minuutin kuluessa. Varmista, ettei laite ole käynnissä.",
+    "btaudio_channellevel": "Kanavataso",
+    "general_logout_confirm_button": "KIRJAUDU ULOS"
 }

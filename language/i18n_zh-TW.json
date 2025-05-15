@@ -5385,7 +5385,7 @@
     "CL_DV_LC_add_accessores": "添加配件",
     "asko_oven_door_wake_up_content": "如果門打開時 ## 偵測到您的存在，烤箱就會被喚醒。請注意，這會增加功耗。",
     "CL_DV_DW_mode_normal": "普通",
-    "CL_DV_DW_mode_speed": "風速",
+    "CL_DV_DW_mode_speed": "速度",
     "CL_DV_DW_mode_uvmode": "UV杀菌",
     "CL_DV_DW_Autodose": "自動投放",
     "CL_DV_DW_Child_Lock": "童鎖",
@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "請選擇",
     "btaudio_dimmer": "LED燈顯",
     "btaudio_soundeffect": "音效",
-    "CL_DV_DW_confirm_on_device_desc_g": "在 5 分鐘內按下裝置上閃爍的「連線」按鈕即可啟用遠端控制。確保設備沒有循環運作。"
+    "CL_DV_DW_confirm_on_device_desc_g": "在 5 分鐘內按下裝置上閃爍的「連線」按鈕即可啟用遠端控制。確保設備沒有循環運作。",
+    "btaudio_channellevel": "頻道層級",
+    "general_logout_confirm_button": "确认"
 }

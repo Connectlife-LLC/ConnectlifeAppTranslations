@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "Vui lòng chọn",
     "btaudio_dimmer": "Công tắc giảm độ sáng",
     "btaudio_soundeffect": "Hiệu ứng âm thanh",
-    "CL_DV_DW_confirm_on_device_desc_g": "Bật điều khiển từ xa bằng cách nhấn nút 'Kết nối' nhấp nháy trên thiết bị trong vòng 5 phút. Đảm bảo thiết bị không chạy chu kỳ."
+    "CL_DV_DW_confirm_on_device_desc_g": "Bật điều khiển từ xa bằng cách nhấn nút 'Kết nối' nhấp nháy trên thiết bị trong vòng 5 phút. Đảm bảo thiết bị không chạy chu kỳ.",
+    "btaudio_channellevel": "Mức kênh",
+    "general_logout_confirm_button": "ĐĂNG XUẤT"
 }

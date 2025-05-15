@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "Silakan Pilih",
     "btaudio_dimmer": "Peredup",
     "btaudio_soundeffect": "Efek Suara",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktifkan kendali jarak jauh dengan menekan tombol 'Hubungkan' yang berkedip pada perangkat dalam waktu 5 menit. Pastikan perangkat tidak sedang menjalankan siklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktifkan kendali jarak jauh dengan menekan tombol 'Hubungkan' yang berkedip pada perangkat dalam waktu 5 menit. Pastikan perangkat tidak sedang menjalankan siklus.",
+    "btaudio_channellevel": "Tingkat Saluran",
+    "general_logout_confirm_button": "KELUAR"
 }
