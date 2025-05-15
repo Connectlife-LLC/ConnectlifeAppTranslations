@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Vennligst velg",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Lydeffekt",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktiver fjernkontrollen ved å trykke på den blinkende «Koble til»-knappen på enheten innen 5 minutter. Sørg for at enheten ikke kjører en syklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktiver fjernkontrollen ved å trykke på den blinkende «Koble til»-knappen på enheten innen 5 minutter. Sørg for at enheten ikke kjører en syklus.",
+    "btaudio_channellevel": "Kanalnivå",
+    "general_logout_confirm_button": "LOGG UT",
+    "btaudio_surround": "Omgi"
 }
