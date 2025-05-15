@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Bitte wählen Sie",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Soundeffekt",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktivieren Sie die Fernbedienung, indem Sie innerhalb von 5 Minuten die blinkende „Verbinden“-Taste am Gerät drücken. Stellen Sie sicher, dass das Gerät keinen Zyklus durchführt."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktivieren Sie die Fernbedienung, indem Sie innerhalb von 5 Minuten die blinkende „Verbinden“-Taste am Gerät drücken. Stellen Sie sicher, dass das Gerät keinen Zyklus durchführt.",
+    "btaudio_channellevel": "Kanalpegel",
+    "general_logout_confirm_button": "ABMELDEN",
+    "btaudio_surround": "Umgeben"
 }
