@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Proszę wybrać",
     "btaudio_dimmer": "Ściemniacz",
     "btaudio_soundeffect": "Efekt dźwiękowy",
-    "CL_DV_DW_confirm_on_device_desc_g": "Włącz zdalne sterowanie, naciskając migający przycisk „Połącz” na urządzeniu w ciągu 3 minut. Upewnij się, że urządzenie nie wykonuje cyklu."
+    "CL_DV_DW_confirm_on_device_desc_g": "Włącz zdalne sterowanie, naciskając migający przycisk „Połącz” na urządzeniu w ciągu 3 minut. Upewnij się, że urządzenie nie wykonuje cyklu.",
+    "btaudio_channellevel": "Poziom kanału",
+    "general_logout_confirm_button": "WYLOGUJ SIĘ",
+    "btaudio_surround": "Otaczać"
 }

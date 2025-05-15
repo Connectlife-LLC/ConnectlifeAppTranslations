@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Veuillez sélectionner",
     "btaudio_dimmer": "Variateur",
     "btaudio_soundeffect": "Effet sonore",
-    "CL_DV_DW_confirm_on_device_desc_g": "Activez la télécommande en appuyant sur le bouton clignotant « Connecter » de l'appareil dans les 5 minutes. Assurez-vous que l'appareil n'est pas en cours d'exécution."
+    "CL_DV_DW_confirm_on_device_desc_g": "Activez la télécommande en appuyant sur le bouton clignotant « Connecter » de l'appareil dans les 5 minutes. Assurez-vous que l'appareil n'est pas en cours d'exécution.",
+    "btaudio_channellevel": "Niveau du canal",
+    "general_logout_confirm_button": "DÉCONNECTER",
+    "btaudio_surround": "Entourer"
 }

@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Prosím vyberte",
     "btaudio_dimmer": "Stmívač",
     "btaudio_soundeffect": "Zvukový efekt",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktivujte dálkové ovládání stisknutím blikajícího tlačítka „Připojit“ na zařízení do 5 minut. Ujistěte se, že zařízení neprobíhá žádný cyklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktivujte dálkové ovládání stisknutím blikajícího tlačítka „Připojit“ na zařízení do 5 minut. Ujistěte se, že zařízení neprobíhá žádný cyklus.",
+    "btaudio_channellevel": "Úroveň kanálu",
+    "general_logout_confirm_button": "ODHLÁSIT SE",
+    "btaudio_surround": "Prostorový zvuk"
 }
