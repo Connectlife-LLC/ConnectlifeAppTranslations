@@ -5438,5 +5438,8 @@
     "btaudio_pleaseselect": "Vänligen välj",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Ljudeffekt",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktivera fjärrstyrningen genom att trycka på den blinkande knappen \"Anslut\" på enheten inom 5 minuter. Se till att enheten inte kör en cykel."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktivera fjärrstyrningen genom att trycka på den blinkande knappen \"Anslut\" på enheten inom 5 minuter. Se till att enheten inte kör en cykel.",
+    "btaudio_channellevel": "Kanalnivå",
+    "general_logout_confirm_button": "LOGGA UT",
+    "btaudio_surround": "Omge"
 }
