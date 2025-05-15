@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "لطفا انتخاب کنید",
     "btaudio_dimmer": "دیمر",
     "btaudio_soundeffect": "جلوه صوتی",
-    "CL_DV_DW_confirm_on_device_desc_g": "با فشار دادن دکمه چشمک‌زن «اتصال» روی دستگاه ظرف ۵ دقیقه، کنترل از راه دور را فعال کنید. مطمئن شوید که دستگاه در حال اجرا نباشد."
+    "CL_DV_DW_confirm_on_device_desc_g": "با فشار دادن دکمه چشمک‌زن «اتصال» روی دستگاه ظرف ۵ دقیقه، کنترل از راه دور را فعال کنید. مطمئن شوید که دستگاه در حال اجرا نباشد.",
+    "btaudio_channellevel": "سطح کانال",
+    "general_logout_confirm_button": "خروج"
 }

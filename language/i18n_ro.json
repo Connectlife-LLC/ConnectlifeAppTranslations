@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "Vă rugăm să selectați",
     "btaudio_dimmer": "Atenuator",
     "btaudio_soundeffect": "Efect sonor",
-    "CL_DV_DW_confirm_on_device_desc_g": "Activați telecomanda apăsând butonul „Conectare” care clipește de pe dispozitiv în decurs de 5 minute. Asigurați-vă că dispozitivul nu rulează un ciclu."
+    "CL_DV_DW_confirm_on_device_desc_g": "Activați telecomanda apăsând butonul „Conectare” care clipește de pe dispozitiv în decurs de 5 minute. Asigurați-vă că dispozitivul nu rulează un ciclu.",
+    "btaudio_channellevel": "Nivelul canalului",
+    "general_logout_confirm_button": "DECONECTARE"
 }

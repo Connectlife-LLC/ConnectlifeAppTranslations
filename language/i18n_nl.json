@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "Selecteer alstublieft",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Geluidseffect",
-    "CL_DV_DW_confirm_on_device_desc_g": "Schakel de afstandsbediening in door binnen 5 minuten op de knipperende 'Connect'-knop op het apparaat te drukken. Zorg ervoor dat het apparaat geen wasprogramma draait."
+    "CL_DV_DW_confirm_on_device_desc_g": "Schakel de afstandsbediening in door binnen 5 minuten op de knipperende 'Connect'-knop op het apparaat te drukken. Zorg ervoor dat het apparaat geen wasprogramma draait.",
+    "btaudio_channellevel": "Kanaalniveau",
+    "general_logout_confirm_button": "UITLOGGEN"
 }

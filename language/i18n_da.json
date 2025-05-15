@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "Vælg venligst",
     "btaudio_dimmer": "Lysdæmper",
     "btaudio_soundeffect": "Lydeffekt",
-    "CL_DV_DW_confirm_on_device_desc_g": "Aktiver fjernbetjeningen ved at trykke på den blinkende 'Connect'-knap på enheden inden for 5 minutter. Sørg for, at enheden ikke kører en cyklus."
+    "CL_DV_DW_confirm_on_device_desc_g": "Aktiver fjernbetjeningen ved at trykke på den blinkende 'Connect'-knap på enheden inden for 5 minutter. Sørg for, at enheden ikke kører en cyklus.",
+    "btaudio_channellevel": "Kanalniveau",
+    "general_logout_confirm_button": "LOG UD"
 }

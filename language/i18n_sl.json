@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "Prosimo, izberite",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Zvočni učinek",
-    "CL_DV_DW_confirm_on_device_desc_g": "Daljinsko upravljanje omogočite tako, da v 5 minutah pritisnete utripajoč gumb »Poveži« na napravi. Prepričajte se, da naprava ne izvaja nobenega cikla."
+    "CL_DV_DW_confirm_on_device_desc_g": "Daljinsko upravljanje omogočite tako, da v 5 minutah pritisnete utripajoč gumb »Poveži« na napravi. Prepričajte se, da naprava ne izvaja nobenega cikla.",
+    "btaudio_channellevel": "Raven kanala",
+    "general_logout_confirm_button": "ODJAVA"
 }

@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "Por favor selecione",
     "btaudio_dimmer": "Dimmer",
     "btaudio_soundeffect": "Efeito sonoro",
-    "CL_DV_DW_confirm_on_device_desc_g": "Ative o controle remoto pressionando o botão \"Conectar\" piscante no dispositivo em até 5 minutos. Certifique-se de que o dispositivo não esteja executando um ciclo."
+    "CL_DV_DW_confirm_on_device_desc_g": "Ative o controle remoto pressionando o botão \"Conectar\" piscante no dispositivo em até 5 minutos. Certifique-se de que o dispositivo não esteja executando um ciclo.",
+    "btaudio_channellevel": "Nível do canal",
+    "general_logout_confirm_button": "SAIR"
 }

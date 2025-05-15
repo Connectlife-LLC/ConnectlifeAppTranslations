@@ -5438,5 +5438,7 @@
     "btaudio_pleaseselect": "Sila Pilih",
     "btaudio_dimmer": "Peredup",
     "btaudio_soundeffect": "Kesan Bunyi",
-    "CL_DV_DW_confirm_on_device_desc_g": "Dayakan alat kawalan jauh dengan menekan butang 'Sambung' yang berkelip pada peranti dalam masa 5 minit. Pastikan peranti tidak menjalankan kitaran."
+    "CL_DV_DW_confirm_on_device_desc_g": "Dayakan alat kawalan jauh dengan menekan butang 'Sambung' yang berkelip pada peranti dalam masa 5 minit. Pastikan peranti tidak menjalankan kitaran.",
+    "btaudio_channellevel": "Tahap Saluran",
+    "general_logout_confirm_button": "LOG KELUAR"
 }
