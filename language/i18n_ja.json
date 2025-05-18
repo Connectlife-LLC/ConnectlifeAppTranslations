@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ログアウトする",
     "btaudio_surround": "囲む",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "デバイスカテゴリーを選択",
-    "choose_device_category_desc_2": "製品所属カテゴリ選択："
+    "choose_device_category_desc_2": "製品所属カテゴリ選択：",
+    "CL_DV_LC_devices_availabel_for_paring": "ペアリング可能なデバイス",
+    "CL_DV_LC_paring_tips": "デバイスが表示されない場合は、デバイスに近づいて電源がオンになっていることを確認してください。",
+    "CL_DV_LC_one_only_two": "1つのスマートキーは2つのスマートドアロックとのみペアリングできます。もう一度ご確認ください。__ \n",
+    "CL_DV_LC_no_device_detected": "デバイスが検出されませんでした",
+    "CL_DV_LC_some_things_wrong": "エラー発生",
+    "CL_DV_LC_an_unexpected_error_occured": "予期しないエラーが発生しました。"
 }
