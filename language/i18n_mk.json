@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ОДЈАВИ СЕ",
     "btaudio_surround": "Опкружувачки",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ИЗБЕРЕТЕ ЈА КАТЕГОРИЈАТА НА УРЕДОТ",
-    "choose_device_category_desc_2": "Изберете ја категоријата во која припаѓа вашиот уред."
+    "choose_device_category_desc_2": "Изберете ја категоријата во која припаѓа вашиот уред.",
+    "CL_DV_LC_devices_availabel_for_paring": "ДОСТАПНИ УРЕДИ ЗА СПАРУВАЊЕ",
+    "CL_DV_LC_paring_tips": "Ако уредот не се појави, приближете се до уредот за да се уверите дека е вклучен.",
+    "CL_DV_LC_one_only_two": "Еден паметен клуч може да се спари само со две SmartDoor брави. Проверете повторно. \n",
+    "CL_DV_LC_no_device_detected": "Не е откриен уред",
+    "CL_DV_LC_some_things_wrong": "Нешто не е во ред.",
+    "CL_DV_LC_an_unexpected_error_occured": "Се појави неочекувана грешка."
 }

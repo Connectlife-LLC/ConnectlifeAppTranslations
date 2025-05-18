@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ออกจากระบบ",
     "btaudio_surround": "ล้อมรอบ",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "เลือกหมวดหมู่อุปกรณ์",
-    "choose_device_category_desc_2": "เลือกหมวดหมู่ที่เป็นของอุปกรณ์ของคุณ"
+    "choose_device_category_desc_2": "เลือกหมวดหมู่ที่เป็นของอุปกรณ์ของคุณ",
+    "CL_DV_LC_devices_availabel_for_paring": "อุปกรณ์ที่สามารถจับคู่ได้",
+    "CL_DV_LC_paring_tips": "หากอุปกรณ์ไม่ปรากฏขึ้น โปรดเข้าไปใกล้อุปกรณ์อีกครั้งเพื่อตรวจสอบว่าเปิดเครื่องอยู่",
+    "CL_DV_LC_one_only_two": "กุญแจอัจฉริยะหนึ่งดอกสามารถจับคู่กับกุญแจอัจฉริยะสองดอกได้เท่านั้น โปรดตรวจสอบอีกครั้ง \n",
+    "CL_DV_LC_no_device_detected": "ไม่พบอุปกรณ์",
+    "CL_DV_LC_some_things_wrong": "บางอย่างผิดพลาด.",
+    "CL_DV_LC_an_unexpected_error_occured": "เกิดข้อผิดพลาดที่ไม่คาดคิด"
 }

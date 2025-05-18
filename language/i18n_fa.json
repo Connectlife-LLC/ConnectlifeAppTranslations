@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "خروج",
     "btaudio_surround": "فراگیر",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "دسته بندی دستگاه را انتخاب کنید",
-    "choose_device_category_desc_2": "دسته ای که دستگاه شما به آن تعلق دارد را انتخاب کنید."
+    "choose_device_category_desc_2": "دسته ای که دستگاه شما به آن تعلق دارد را انتخاب کنید.",
+    "CL_DV_LC_devices_availabel_for_paring": "دستگاه‌های موجود برای جفت‌سازی",
+    "CL_DV_LC_paring_tips": "اگر دستگاه ظاهر نشد، لطفاً به دستگاه نزدیک‌تر شوید تا مطمئن شوید که روشن است.",
+    "CL_DV_LC_one_only_two": "یک کلید هوشمند فقط می‌تواند با دو قفل درب هوشمند جفت شود. لطفاً دوباره بررسی کنید. \n",
+    "CL_DV_LC_no_device_detected": "هیچ دستگاهی شناسایی نشد",
+    "CL_DV_LC_some_things_wrong": "مشکلی رخ داد.",
+    "CL_DV_LC_an_unexpected_error_occured": "یک خطای غیرمنتظره رخ داد."
 }

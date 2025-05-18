@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "تسجيل الخروج",
     "btaudio_surround": "محيطي",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "اختر فئة الجهاز",
-    "choose_device_category_desc_2": "اختر الفئة التي ينتمي إليها جهازك."
+    "choose_device_category_desc_2": "اختر الفئة التي ينتمي إليها جهازك.",
+    "CL_DV_LC_devices_availabel_for_paring": "الأجهزة المتاحة للإقران",
+    "CL_DV_LC_paring_tips": "إذا لم يظهر الجهاز، فيرجى التحرك بالقرب منه للتأكد من تشغيله.",
+    "CL_DV_LC_one_only_two": "مفتاح ذكي واحد لا يمكن إقرانه إلا بقفلَي أبواب ذكيين. يُرجى التحقق مرة أخرى. \n",
+    "CL_DV_LC_no_device_detected": "لم يتم اكتشاف أي جهاز",
+    "CL_DV_LC_some_things_wrong": "يوجد خطأ ما.",
+    "CL_DV_LC_an_unexpected_error_occured": "حدث خطأ غير متوقع."
 }

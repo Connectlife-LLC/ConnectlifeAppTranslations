@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "DECONECTARE",
     "btaudio_surround": "Surround",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ALEGEȚI CATEGORIA DE DISPOZITIV",
-    "choose_device_category_desc_2": "Alegeți categoria în care aparține dispozitivul dvs."
+    "choose_device_category_desc_2": "Alegeți categoria în care aparține dispozitivul dvs.",
+    "CL_DV_LC_devices_availabel_for_paring": "DISPOZITIVE DISPONIBILE PENTRU ASOCIERARE",
+    "CL_DV_LC_paring_tips": "Dacă dispozitivul nu apare, vă rugăm să vă apropiați de dispozitiv pentru a vă asigura că este pornit.",
+    "CL_DV_LC_one_only_two": "O cheie inteligentă se poate conecta doar cu două încuietori SmartDoor. Vă rugăm să verificați din nou. \n",
+    "CL_DV_LC_no_device_detected": "Niciun dispozitiv detectat",
+    "CL_DV_LC_some_things_wrong": "A apărut o problemă.",
+    "CL_DV_LC_an_unexpected_error_occured": "A apărut o eroare neașteptată."
 }

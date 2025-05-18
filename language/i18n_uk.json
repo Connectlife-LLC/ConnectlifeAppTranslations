@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ВИЙТИ",
     "btaudio_surround": "Оточуючий",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ОБЕРІТЬ КАТЕГОРІЮ ПРИСТРОЮ",
-    "choose_device_category_desc_2": "Виберіть категорію, до якої належить ваш пристрій."
+    "choose_device_category_desc_2": "Виберіть категорію, до якої належить ваш пристрій.",
+    "CL_DV_LC_devices_availabel_for_paring": "ПРИСТРОЇ, ДОСТУПНІ ДЛЯ СПАРЯННЯ",
+    "CL_DV_LC_paring_tips": "Якщо пристрій не відображається, підійдіть ближче до нього, щоб переконатися, що він увімкнений.",
+    "CL_DV_LC_one_only_two": "Один смарт-ключ можна підключити лише до двох замків SmartDoor Lock. Перевірте ще раз. \n",
+    "CL_DV_LC_no_device_detected": "Пристрій не виявлено",
+    "CL_DV_LC_some_things_wrong": "Сталася помилка.",
+    "CL_DV_LC_an_unexpected_error_occured": "Сталася неочікувана помилка."
 }

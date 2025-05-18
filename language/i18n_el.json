@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ΑΠΟΣΥΝΔΕΣΗ",
     "btaudio_surround": "Περιβάλλω",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ΕΠΙΛΕΞΤΕ ΤΗΝ ΚΑΤΗΓΟΡΙΑ ΣΥΣΚΕΥΗΣ",
-    "choose_device_category_desc_2": "Επιλέξτε την κατηγορία στην οποία ανήκει η συσκευή σας."
+    "choose_device_category_desc_2": "Επιλέξτε την κατηγορία στην οποία ανήκει η συσκευή σας.",
+    "CL_DV_LC_devices_availabel_for_paring": "ΔΙΑΘΕΣΙΜΕΣ ΣΥΣΚΕΥΕΣ ΓΙΑ ΣΥΖΕΥΞΗ",
+    "CL_DV_LC_paring_tips": "Εάν η συσκευή δεν εμφανιστεί, πλησιάστε τη συσκευή για να βεβαιωθείτε ότι είναι ενεργοποιημένη.",
+    "CL_DV_LC_one_only_two": "Ένα έξυπνο κλειδί μπορεί να συζευχθεί μόνο με δύο κλειδαριές SmartDoor. Ελέγξτε ξανά. \n",
+    "CL_DV_LC_no_device_detected": "Δεν εντοπίστηκε συσκευή",
+    "CL_DV_LC_some_things_wrong": "Προέκυψε κάποιο σφάλμα.",
+    "CL_DV_LC_an_unexpected_error_occured": "Παρουσιάστηκε ένα μη αναμενόμενο σφάλμα."
 }

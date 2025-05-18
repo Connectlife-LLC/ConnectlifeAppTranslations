@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ОДЈАВИ СЕ",
     "btaudio_surround": "Окружни",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ИЗАБЕРИТЕ КАТЕГОРИЈУ УРЕЂАЈА",
-    "choose_device_category_desc_2": "Одаберите категорију којој припада ваш уређај."
+    "choose_device_category_desc_2": "Одаберите категорију којој припада ваш уређај.",
+    "CL_DV_LC_devices_availabel_for_paring": "УРЕЂАЈИ ДОСТУПНИ ЗА УПАРИВАЊЕ",
+    "CL_DV_LC_paring_tips": "Ако се уређај не појави, приближите му се да бисте се уверили да је укључен.",
+    "CL_DV_LC_one_only_two": "Један паметни кључ може се упарити само са две паметне браве на вратима. Молимо вас да поново проверите. \n",
+    "CL_DV_LC_no_device_detected": "Ниједан уређај није детектован",
+    "CL_DV_LC_some_things_wrong": "Došlo je do greške.",
+    "CL_DV_LC_an_unexpected_error_occured": "Дошло је до неочекиване грешке."
 }

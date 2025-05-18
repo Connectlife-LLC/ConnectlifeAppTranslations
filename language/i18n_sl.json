@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ODJAVA",
     "btaudio_surround": "Obkrožajoči",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "IZBERITE KATEGORIJO NAPRAVE",
-    "choose_device_category_desc_2": "Izberite kategorijo, v katero spada vaša naprava."
+    "choose_device_category_desc_2": "Izberite kategorijo, v katero spada vaša naprava.",
+    "CL_DV_LC_devices_availabel_for_paring": "NAPRAVE, KI SO NA VOLJO ZA ZDRUŽEVANJE",
+    "CL_DV_LC_paring_tips": "Če se naprava ne prikaže, se ji približajte, da se prepričate, da je vklopljena.",
+    "CL_DV_LC_one_only_two": "En pametni ključ se lahko poveže samo z dvema ključavnicama SmartDoor. Preverite še enkrat. \n",
+    "CL_DV_LC_no_device_detected": "Ni zaznane naprave",
+    "CL_DV_LC_some_things_wrong": "Prišlo je do napake.",
+    "CL_DV_LC_an_unexpected_error_occured": "Prišlo je do nepričakovane napake."
 }

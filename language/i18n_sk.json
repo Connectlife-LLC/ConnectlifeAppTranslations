@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ODHLÁSIŤ SA",
     "btaudio_surround": "Priestorový zvuk",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "VYBERTE SI KATEGÓRIU ZARIADENIA",
-    "choose_device_category_desc_2": "Vyberte kategóriu, do ktorej patrí vaše zariadenie."
+    "choose_device_category_desc_2": "Vyberte kategóriu, do ktorej patrí vaše zariadenie.",
+    "CL_DV_LC_devices_availabel_for_paring": "ZARIADENIA DOSTUPNÉ NA PÁROVANIE",
+    "CL_DV_LC_paring_tips": "Ak sa zariadenie nezobrazí, priblížte sa k nemu, aby ste sa uistili, že je zapnuté.",
+    "CL_DV_LC_one_only_two": "Jeden inteligentný kľúč sa dá spárovať iba s dvoma zámkami SmartDoor. Skontrolujte to znova. \n",
+    "CL_DV_LC_no_device_detected": "Žiadne zariadenie nebolo zistené",
+    "CL_DV_LC_some_things_wrong": "Niečo sa pokazilo.",
+    "CL_DV_LC_an_unexpected_error_occured": "Vyskytla sa neočakávaná chyba."
 }

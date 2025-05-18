@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "התנתק",
     "btaudio_surround": "לְהַקִיף",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "בחר את קטגוריית המכשיר",
-    "choose_device_category_desc_2": "בחר את הקטגוריה שאליה שייך המכשיר שלך."
+    "choose_device_category_desc_2": "בחר את הקטגוריה שאליה שייך המכשיר שלך.",
+    "CL_DV_LC_devices_availabel_for_paring": "מכשירים זמינים לצימוד",
+    "CL_DV_LC_paring_tips": "אם המכשיר אינו מופיע, אנא התקרב אליו כדי לוודא שהוא דולק.",
+    "CL_DV_LC_one_only_two": "מפתח חכם אחד יכול להתחבר רק לשני מנעולי SmartDoor. אנא בדוק שוב. \n",
+    "CL_DV_LC_no_device_detected": "לא זוהה מכשיר",
+    "CL_DV_LC_some_things_wrong": "משהו השתבש.",
+    "CL_DV_LC_an_unexpected_error_occured": "אירעה שגיאה בלתי צפויה."
 }

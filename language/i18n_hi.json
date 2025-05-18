@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "लॉग आउट",
     "btaudio_surround": "चारों ओर से घेरना",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "डिवाइस श्रेणी चुनें",
-    "choose_device_category_desc_2": "वह श्रेणी चुनें जिसमें आपका उपकरण है।"
+    "choose_device_category_desc_2": "वह श्रेणी चुनें जिसमें आपका उपकरण है।",
+    "CL_DV_LC_devices_availabel_for_paring": "युग्मन के लिए उपलब्ध उपकरण",
+    "CL_DV_LC_paring_tips": "यदि डिवाइस दिखाई न दे, तो कृपया डिवाइस के पास जाएं और सुनिश्चित करें कि वह चालू है।",
+    "CL_DV_LC_one_only_two": "एक स्मार्ट कुंजी केवल दो स्मार्टडोर लॉक के साथ जोड़ी जा सकती है। कृपया फिर से जाँच करें। \n",
+    "CL_DV_LC_no_device_detected": "कोई डिवाइस नहीं मिला",
+    "CL_DV_LC_some_things_wrong": "कुछ गलती हुई",
+    "CL_DV_LC_an_unexpected_error_occured": "एक अप्रत्याशित त्रुटि घटित हुई."
 }

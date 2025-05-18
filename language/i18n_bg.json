@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ИЗХОД",
     "btaudio_surround": "Съраунд",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ИЗБЕРЕТЕ КАТЕГОРИЯТА НА УСТРОЙСТВОТО",
-    "choose_device_category_desc_2": "Изберете категорията, към която принадлежи вашето устройство."
+    "choose_device_category_desc_2": "Изберете категорията, към която принадлежи вашето устройство.",
+    "CL_DV_LC_devices_availabel_for_paring": "УСТРОЙСТВА, НАЛИЧНИ ЗА СДВОЯВАНЕ",
+    "CL_DV_LC_paring_tips": "Ако устройството не се появи, моля, приближете се до него, за да се уверите, че е включено.",
+    "CL_DV_LC_one_only_two": "Един интелигентен ключ може да се сдвои само с две ключалки SmartDoor. Моля, проверете отново. \n",
+    "CL_DV_LC_no_device_detected": "Не е открито устройство",
+    "CL_DV_LC_some_things_wrong": "Нещо се обърка.",
+    "CL_DV_LC_an_unexpected_error_occured": "Възникна неочаквана грешка."
 }

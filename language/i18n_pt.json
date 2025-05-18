@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "SAIR",
     "btaudio_surround": "Cercar",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ESCOLHA A CATEGORIA DO DISPOSITIVO",
-    "choose_device_category_desc_2": "Escolha a categoria a que pertence o seu aparelho."
+    "choose_device_category_desc_2": "Escolha a categoria a que pertence o seu aparelho.",
+    "CL_DV_LC_devices_availabel_for_paring": "DISPOSITIVOS DISPONÍVEIS PARA EMPARELHAMENTO",
+    "CL_DV_LC_paring_tips": "Se o dispositivo não aparecer, aproxime-se dele para garantir que esteja ligado.",
+    "CL_DV_LC_one_only_two": "Uma chave inteligente só pode ser pareada com duas fechaduras SmartDoor. Verifique novamente. \n",
+    "CL_DV_LC_no_device_detected": "Nenhum dispositivo detectado",
+    "CL_DV_LC_some_things_wrong": "Alguma coisa correu mal.",
+    "CL_DV_LC_an_unexpected_error_occured": "Ocorreu um erro inesperado."
 }

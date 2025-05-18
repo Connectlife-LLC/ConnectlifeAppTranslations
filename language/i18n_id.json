@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "KELUAR",
     "btaudio_surround": "Mengelilingi",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "PILIH KATEGORI PERANGKAT",
-    "choose_device_category_desc_2": "Pilih kategori tempat perangkat Anda berada."
+    "choose_device_category_desc_2": "Pilih kategori tempat perangkat Anda berada.",
+    "CL_DV_LC_devices_availabel_for_paring": "PERANGKAT YANG TERSEDIA UNTUK DIPASANGKAN",
+    "CL_DV_LC_paring_tips": "Jika perangkat tidak muncul, harap mendekat ke perangkat tersebut untuk memastikan perangkat tersebut menyala.",
+    "CL_DV_LC_one_only_two": "Satu kunci pintar hanya dapat dipasangkan dengan dua Kunci Pintu Pintar. Silakan periksa lagi. \n",
+    "CL_DV_LC_no_device_detected": "Tidak ada perangkat yang terdeteksi",
+    "CL_DV_LC_some_things_wrong": "Ada yang salah.",
+    "CL_DV_LC_an_unexpected_error_occured": "Terjadi kesalahan tak terduga."
 }

@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "LOGGA UT",
     "btaudio_surround": "Omge",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "VÄLJ ENHETSKATEGORI",
-    "choose_device_category_desc_2": "Välj den kategori som din enhet tillhör."
+    "choose_device_category_desc_2": "Välj den kategori som din enhet tillhör.",
+    "CL_DV_LC_devices_availabel_for_paring": "ENHETER TILLGÄNGLIGA FÖR PARKOPPLING",
+    "CL_DV_LC_paring_tips": "Om enheten inte visas, flytta dig närmare enheten för att säkerställa att den är påslagen.",
+    "CL_DV_LC_one_only_two": "En smartnyckel kan bara paras ihop med två SmartDoor-lås. Kontrollera igen. \n",
+    "CL_DV_LC_no_device_detected": "Ingen enhet upptäckt",
+    "CL_DV_LC_some_things_wrong": "Någonting gick fel.",
+    "CL_DV_LC_an_unexpected_error_occured": "Ett oväntat fel uppstod."
 }
