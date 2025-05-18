@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "WYLOGUJ SIĘ",
     "btaudio_surround": "Otaczać",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "WYBIERZ KATEGORIĘ URZĄDZENIA",
-    "choose_device_category_desc_2": "Wybierz kategorię, do której należy Twoje urządzenie."
+    "choose_device_category_desc_2": "Wybierz kategorię, do której należy Twoje urządzenie.",
+    "CL_DV_LC_devices_availabel_for_paring": "URZĄDZENIA DOSTĘPNE DO PAROWANIA",
+    "CL_DV_LC_paring_tips": "Jeżeli urządzenie nie jest widoczne, podejdź do niego bliżej, aby upewnić się, że jest włączone.",
+    "CL_DV_LC_one_only_two": "Jeden klucz Smart może być sparowany tylko z dwoma zamkami SmartDoor. Sprawdź ponownie. \n",
+    "CL_DV_LC_no_device_detected": "Nie wykryto urządzenia",
+    "CL_DV_LC_some_things_wrong": "Coś poszło nie tak.",
+    "CL_DV_LC_an_unexpected_error_occured": "Wystąpił nieoczekiwany błąd."
 }

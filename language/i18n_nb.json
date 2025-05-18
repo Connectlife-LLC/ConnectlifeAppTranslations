@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "LOGG UT",
     "btaudio_surround": "Omgi",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "VELG ENHETSKATEGORI",
-    "choose_device_category_desc_2": "Velg kategorien enheten din tilhører."
+    "choose_device_category_desc_2": "Velg kategorien enheten din tilhører.",
+    "CL_DV_LC_devices_availabel_for_paring": "ENHETER TILGJENGELIGE FOR PARING",
+    "CL_DV_LC_paring_tips": "Hvis enheten ikke vises, flytt deg nærmere enheten for å forsikre deg om at den er slått på.",
+    "CL_DV_LC_one_only_two": "Én smartnøkkel kan bare kobles til to SmartDoor-låser. Vennligst sjekk igjen. \n",
+    "CL_DV_LC_no_device_detected": "Ingen enhet oppdaget",
+    "CL_DV_LC_some_things_wrong": "Noe gikk galt.",
+    "CL_DV_LC_an_unexpected_error_occured": "Det oppsto en uventet feil."
 }

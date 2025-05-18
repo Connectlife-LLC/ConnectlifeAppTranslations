@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ĐĂNG XUẤT",
     "btaudio_surround": "Bao quanh",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "CHỌN DANH MỤC THIẾT BỊ",
-    "choose_device_category_desc_2": "Chọn danh mục mà thiết bị của bạn thuộc về."
+    "choose_device_category_desc_2": "Chọn danh mục mà thiết bị của bạn thuộc về.",
+    "CL_DV_LC_devices_availabel_for_paring": "THIẾT BỊ CÓ THỂ GHÉP NỐI",
+    "CL_DV_LC_paring_tips": "Nếu thiết bị không xuất hiện, vui lòng đến gần thiết bị hơn để đảm bảo thiết bị đã được bật nguồn.",
+    "CL_DV_LC_one_only_two": "Một chìa khóa thông minh chỉ có thể ghép nối với hai Khóa cửa thông minh. Vui lòng kiểm tra lại. \n",
+    "CL_DV_LC_no_device_detected": "Không phát hiện thấy thiết bị nào",
+    "CL_DV_LC_some_things_wrong": "Đã xảy ra sự cố.",
+    "CL_DV_LC_an_unexpected_error_occured": "Đã xảy ra lỗi không mong muốn."
 }

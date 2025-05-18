@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ESCI",
     "btaudio_surround": "Circondare",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "SCEGLI LA CATEGORIA DEL DISPOSITIVO",
-    "choose_device_category_desc_2": "Scegli la categoria a cui appartiene il tuo dispositivo."
+    "choose_device_category_desc_2": "Scegli la categoria a cui appartiene il tuo dispositivo.",
+    "CL_DV_LC_devices_availabel_for_paring": "DISPOSITIVI DISPONIBILI PER L'ASSOCIAZIONE",
+    "CL_DV_LC_paring_tips": "Se il dispositivo non viene visualizzato, avvicinarsi per verificare che sia acceso.",
+    "CL_DV_LC_one_only_two": "Una chiave Smart può essere abbinata solo a due serrature SmartDoor. Si prega di controllare di nuovo. \n",
+    "CL_DV_LC_no_device_detected": "Nessun dispositivo rilevato",
+    "CL_DV_LC_some_things_wrong": "Si è verificato un errore.",
+    "CL_DV_LC_an_unexpected_error_occured": "Si è verificato un errore imprevisto."
 }

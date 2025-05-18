@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "KIJELENTKEZÉS",
     "btaudio_surround": "Térhatású",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "VÁLASSZA KI AZ ESZKÖZKATEGÓRIÁT",
-    "choose_device_category_desc_2": "Válassza ki a kategóriát, amelybe a készüléke tartozik."
+    "choose_device_category_desc_2": "Válassza ki a kategóriát, amelybe a készüléke tartozik.",
+    "CL_DV_LC_devices_availabel_for_paring": "PÁROSÍTHATÓ ESZKÖZÖK",
+    "CL_DV_LC_paring_tips": "Ha az eszköz nem jelenik meg, kérjük, menjen közelebb hozzá, hogy megbizonyosodjon arról, hogy be van-e kapcsolva.",
+    "CL_DV_LC_one_only_two": "Egy intelligens kulcs csak két intelligens ajtózárral párosítható. Kérjük, ellenőrizze újra. \n",
+    "CL_DV_LC_no_device_detected": "Nem észlelhető eszköz",
+    "CL_DV_LC_some_things_wrong": "Valami hiba történt.",
+    "CL_DV_LC_an_unexpected_error_occured": "Váratlan hiba történt."
 }

@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ODHLÁSIT SE",
     "btaudio_surround": "Prostorový zvuk",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "VYBERTE KATEGORII ZAŘÍZENÍ",
-    "choose_device_category_desc_2": "Vyberte kategorii, do které vaše zařízení patří."
+    "choose_device_category_desc_2": "Vyberte kategorii, do které vaše zařízení patří.",
+    "CL_DV_LC_devices_availabel_for_paring": "ZAŘÍZENÍ DOSTUPNÁ PRO PÁROVÁNÍ",
+    "CL_DV_LC_paring_tips": "Pokud se zařízení nezobrazí, přibližte se k němu, abyste se ujistili, že je zapnuté.",
+    "CL_DV_LC_one_only_two": "Jeden chytrý klíč lze spárovat pouze se dvěma zámky SmartDoor Lock. Zkontrolujte to prosím znovu. \n",
+    "CL_DV_LC_no_device_detected": "Žádné zařízení nebylo detekováno",
+    "CL_DV_LC_some_things_wrong": "Něco se pokazilo.",
+    "CL_DV_LC_an_unexpected_error_occured": "Došlo k neočekávané chybě."
 }

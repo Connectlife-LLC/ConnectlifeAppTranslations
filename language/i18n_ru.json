@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ВЫЙТИ",
     "btaudio_surround": "Объемный",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ВЫБЕРИТЕ КАТЕГОРИЮ УСТРОЙСТВА",
-    "choose_device_category_desc_2": "Выберите категорию, к которой принадлежит ваше устройство."
+    "choose_device_category_desc_2": "Выберите категорию, к которой принадлежит ваше устройство.",
+    "CL_DV_LC_devices_availabel_for_paring": "УСТРОЙСТВА, ДОСТУПНЫЕ ДЛЯ СОПРЯЖЕНИЯ",
+    "CL_DV_LC_paring_tips": "Если устройство не отображается, подойдите к нему ближе, чтобы убедиться, что оно включено.",
+    "CL_DV_LC_one_only_two": "Один смарт-ключ может быть сопряжен только с двумя замками SmartDoor. Проверьте еще раз. \n",
+    "CL_DV_LC_no_device_detected": "Устройство не обнаружено",
+    "CL_DV_LC_some_things_wrong": "Что-то пошло не так.",
+    "CL_DV_LC_an_unexpected_error_occured": "Произошла непредвиденная ошибка."
 }

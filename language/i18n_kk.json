@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ШЫҒУ",
     "btaudio_surround": "Айнала",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "ҚҰРЫЛҒЫ САНАТЫН ТАҢДАҢЫЗ",
-    "choose_device_category_desc_2": "Құрылғыңыз тиесілі санатты таңдаңыз."
+    "choose_device_category_desc_2": "Құрылғыңыз тиесілі санатты таңдаңыз.",
+    "CL_DV_LC_devices_availabel_for_paring": "ЖҰПТАСТЫРУ ҮШІН ҚҰРЫЛҒЫЛАР",
+    "CL_DV_LC_paring_tips": "Құрылғы пайда болмаса, оның қосулы екеніне көз жеткізу үшін құрылғыға жақындаңыз.",
+    "CL_DV_LC_one_only_two": "Бір Smart кілт тек екі SmartDoor құлыпымен жұптаса алады. Қайта тексеріңіз. \n",
+    "CL_DV_LC_no_device_detected": "Ешқандай құрылғы анықталмады",
+    "CL_DV_LC_some_things_wrong": "Бір нәрсе дұрыс емес.",
+    "CL_DV_LC_an_unexpected_error_occured": "Күтпеген қате орын алды."
 }

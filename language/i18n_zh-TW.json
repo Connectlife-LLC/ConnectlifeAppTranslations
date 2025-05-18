@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "确认",
     "btaudio_surround": "環繞",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "選擇設備類別",
-    "choose_device_category_desc_2": "選擇您的設備所屬的類別。"
+    "choose_device_category_desc_2": "選擇您的設備所屬的類別。",
+    "CL_DV_LC_devices_availabel_for_paring": "可配對的設備",
+    "CL_DV_LC_paring_tips": "如果設備沒有出現，請靠近設備以確保其已開啟。",
+    "CL_DV_LC_one_only_two": "一個智慧鑰匙只能與兩個智慧門鎖配對。請再檢查一下。 \n",
+    "CL_DV_LC_no_device_detected": "未偵測到設備",
+    "CL_DV_LC_some_things_wrong": "出現問題。",
+    "CL_DV_LC_an_unexpected_error_occured": "發生了意外錯誤。"
 }

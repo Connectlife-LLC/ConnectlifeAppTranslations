@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "UITLOGGEN",
     "btaudio_surround": "Omringen",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "KIES DE APPARAATCATEGORIE",
-    "choose_device_category_desc_2": "Kies de categorie waartoe uw toestel behoort."
+    "choose_device_category_desc_2": "Kies de categorie waartoe uw toestel behoort.",
+    "CL_DV_LC_devices_availabel_for_paring": "BESCHIKBARE APPARATEN VOOR KOPPELING",
+    "CL_DV_LC_paring_tips": "Als het apparaat niet wordt weergegeven, ga dan dichterbij het apparaat staan om te controleren of het is ingeschakeld.",
+    "CL_DV_LC_one_only_two": "Eén Smart Key kan slechts met twee SmartDoor-sloten worden gekoppeld. Controleer het opnieuw. \n",
+    "CL_DV_LC_no_device_detected": "Geen apparaat gedetecteerd",
+    "CL_DV_LC_some_things_wrong": "Er is een fout opgetreden.",
+    "CL_DV_LC_an_unexpected_error_occured": "Er is een onverwachte fout opgetreden."
 }

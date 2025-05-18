@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "ÇIKIŞ YAP",
     "btaudio_surround": "Çevrelemek",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "CİHAZ KATEGORİSİNİ SEÇİN",
-    "choose_device_category_desc_2": "Cihazınızın ait olduğu kategoriyi seçin."
+    "choose_device_category_desc_2": "Cihazınızın ait olduğu kategoriyi seçin.",
+    "CL_DV_LC_devices_availabel_for_paring": "EŞLEŞTİRME İÇİN KULLANILABİLİR CİHAZLAR",
+    "CL_DV_LC_paring_tips": "Eğer cihaz görünmüyorsa, lütfen cihazın açık olduğundan emin olmak için ona yaklaşın.",
+    "CL_DV_LC_one_only_two": "Bir Akıllı anahtar yalnızca iki SmartDoor Kilidi ile eşleştirilebilir. Lütfen tekrar kontrol edin. \n",
+    "CL_DV_LC_no_device_detected": "Hiçbir cihaz algılanmadı",
+    "CL_DV_LC_some_things_wrong": "Bir şeyler yanlış gitti.",
+    "CL_DV_LC_an_unexpected_error_occured": "Beklenmeyen bir hata oluştu."
 }

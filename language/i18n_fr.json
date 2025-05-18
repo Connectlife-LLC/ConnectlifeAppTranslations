@@ -5443,5 +5443,11 @@
     "general_logout_confirm_button": "DÉCONNECTER",
     "btaudio_surround": "Entourer",
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "CHOISISSEZ LA CATÉGORIE D'APPAREIL",
-    "choose_device_category_desc_2": "Choisissez la catégorie à laquelle appartient votre appareil."
+    "choose_device_category_desc_2": "Choisissez la catégorie à laquelle appartient votre appareil.",
+    "CL_DV_LC_devices_availabel_for_paring": "APPAREILS DISPONIBLES POUR LE COUPLAGE",
+    "CL_DV_LC_paring_tips": "Si l'appareil n'apparaît pas, rapprochez-vous de l'appareil pour vous assurer qu'il est sous tension.",
+    "CL_DV_LC_one_only_two": "Une clé intelligente ne peut être appairée qu'avec deux serrures \n. Veuillez vérifier à nouveau.",
+    "CL_DV_LC_no_device_detected": "Aucun appareil détecté",
+    "CL_DV_LC_some_things_wrong": "Un problème est survenu.",
+    "CL_DV_LC_an_unexpected_error_occured": "Une erreur inattendue s'est produite."
 }
