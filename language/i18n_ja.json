@@ -5462,5 +5462,8 @@
     "CL_DV_RF_clean_mode_pop_btn_click": "クリーニングモードをオフにする",
     "CL_DV_RF_holiday_mode_pop_title": "休日モードが有効です",
     "CL_DV_RF_holiday_mode_pop_content": "エネルギー消費を抑えるため、クーラーとDuraFreshは15℃に設定されています。冷凍庫には影響はありません。",
-    "CL_DV_RF_holiday_mode_btn_click": "ホリデーモードをオフにする"
+    "CL_DV_RF_holiday_mode_btn_click": "ホリデーモードをオフにする",
+    "CL_CF_CS_combi_600_25_cs_7_2": "冷蔵庫のディスプレイの右隅にあるWi-Fiアイコンを3〜6秒間押し続けて、接続設定を有効にします。",
+    "CL_CF_CS_combi_600_25_cs_8_2": "デバイスのネットワークは5分間接続可能です。下の「次へ」ボタンをタップして、アプリで先に進むことができます。",
+    "CL_CF_CS_combi_600_25_p_7_2": "デバイスのネットワークは3分間接続可能です。下の「次へ」ボタンをタップして、アプリで先に進むことができます。"
 }

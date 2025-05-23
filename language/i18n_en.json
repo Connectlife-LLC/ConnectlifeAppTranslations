@@ -5462,5 +5462,8 @@
     "CL_DV_RF_clean_mode_pop_btn_click": "TURN OFF CLEANING MODE",
     "CL_DV_RF_holiday_mode_pop_title": "Holiday mode is active",
     "CL_DV_RF_holiday_mode_pop_content": "Cooler and DuraFresh are set to 15°C to reduce energy use. The freezer remains unaffected.",
-    "CL_DV_RF_holiday_mode_btn_click": "TURN OFF HOLIDAY MODE"
+    "CL_DV_RF_holiday_mode_btn_click": "TURN OFF HOLIDAY MODE",
+    "CL_CF_CS_combi_600_25_cs_7_2": "Press and hold the Wi-Fi icon in the right corner of the fridge display for 3-6 seconds to activate the connection setup",
+    "CL_CF_CS_combi_600_25_cs_8_2": "The device network is now open for connection for 5 minutes.\u2028You can now proceed in the app by tapping on the NEXT button below.",
+    "CL_CF_CS_combi_600_25_p_7_2": "The device network is now open for connection for 3 minutes.\u2028You can now proceed in the app by tapping on the NEXT button below."
 }
