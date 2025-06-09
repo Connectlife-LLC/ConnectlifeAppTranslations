@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Kje najdem oznako naprave?",
     "CL_DV_LC_connect_by_other": "Trenutna naprava je bila povezana z drugo napravo. Poskusite znova pozneje.",
     "CL_DV_LC_pair_error_tips": "Povezava # ni bila uspešna. Napravo ponovno povežite pozneje.",
-    "CL_DV_LC_mul_bind_tips": "Po povezovanju uporabite aplikacijo za preizkus zaklepanja in odklepanja, da ločite naprave. \n",
+    "CL_DV_LC_mul_bind_tips": "Po povezovanju uporabite aplikacijo za preizkus zaklepanja in odklepanja, da ločite naprave.",
     "CL_DV_LC_no_pairing_accessory": "Brez dodatne opreme za seznanjanje",
     "CL_DV_LC_add_accessores": "DODAJ DODATKE",
     "asko_oven_door_wake_up_content": "Pečica se lahko prebudi, če ob odpiranju vrat zazna vašo prisotnost s simbolom ##. Upoštevajte, da se bo s tem povečala poraba energije.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##-letna garancija",
     "warranty_month_duration": "##-mesečna garancija",
     "warranty_year_month_duration": "##-letna **-mesečna garancija",
-    "CL_DV_LC_ota_tips": "Postopek vdelane programske opreme bo za čas posodabljanja onemogočil uporabo naprave. Med posodabljanjem lahko vmesnik naprave utripa."
+    "CL_DV_LC_ota_tips": "Postopek vdelane programske opreme bo za čas posodabljanja onemogočil uporabo naprave. Med posodabljanjem lahko vmesnik naprave utripa.",
+    "CL_DV_LC_accessory_available_for_pairing": "DODATNA OPREMA NA VOLJO ZA ZDRUŽEVANJE"
 }

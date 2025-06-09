@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "장치 라벨은 어디에서 찾을 수 있나요?",
     "CL_DV_LC_connect_by_other": "현재 기기가 다른 기기에 연결되었습니다. 나중에 다시 시도해 주세요.",
     "CL_DV_LC_pair_error_tips": "#이(가) 바인딩되지 않았습니다. 나중에 다시 장치를 바인딩하세요.",
-    "CL_DV_LC_mul_bind_tips": "바인딩 후 앱을 사용하여 잠금 및 잠금 해제를 테스트하여 기기를 구별하세요. \n",
+    "CL_DV_LC_mul_bind_tips": "바인딩 후 앱을 사용하여 잠금 및 잠금 해제를 테스트하여 기기를 구별하세요.",
     "CL_DV_LC_no_pairing_accessory": "페어링 액세서리 없음",
     "CL_DV_LC_add_accessores": "액세서리 추가",
     "asko_oven_door_wake_up_content": "오븐 문 열림 시 ## 표시로 사용자의 존재를 감지하면 오븐이 작동할 수 있습니다. 이로 인해 전력 소비가 증가할 수 있으니 주의하세요.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##년 보증",
     "warranty_month_duration": "##개월 보증",
     "warranty_year_month_duration": "##-년 **-개월 보증",
-    "CL_DV_LC_ota_tips": "펌웨어 업데이트 과정에서 업데이트 기간 동안 기기 사용이 비활성화됩니다. 업데이트 중에는 기기 인터페이스가 깜빡일 수 있습니다."
+    "CL_DV_LC_ota_tips": "펌웨어 업데이트 과정에서 업데이트 기간 동안 기기 사용이 비활성화됩니다. 업데이트 중에는 기기 인터페이스가 깜빡일 수 있습니다.",
+    "CL_DV_LC_accessory_available_for_pairing": "페어링에 사용할 수 있는 액세서리"
 }

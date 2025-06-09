@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "在哪里可以找到设备标签？",
     "CL_DV_LC_connect_by_other": "当前设备已被其他设备连接，请稍后重试。",
     "CL_DV_LC_pair_error_tips": "设备绑定失败，请稍后重新绑定。",
-    "CL_DV_LC_mul_bind_tips": "绑定后，请使用应用程序测试锁定和解锁以区分设备。__ \n",
+    "CL_DV_LC_mul_bind_tips": "绑定后，请使用应用程序测试锁定和解锁以区分设备。",
     "CL_DV_LC_no_pairing_accessory": "无配对配件",
     "CL_DV_LC_add_accessores": "添加配件",
     "asko_oven_door_wake_up_content": "如果烤箱门打开时检测到您的存在（{##}），烤箱就会被唤醒。请注意，这会增加功耗。",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "## 年保修",
     "warranty_month_duration": "## 个月保修",
     "warranty_year_month_duration": "## 年 ** 个月保修",
-    "CL_DV_LC_ota_tips": "固件更新过程中，设备将无法使用。更新期间，设备界面可能会闪烁。"
+    "CL_DV_LC_ota_tips": "固件更新过程中，设备将无法使用。更新期间，设备界面可能会闪烁。",
+    "CL_DV_LC_accessory_available_for_pairing": "可配对的配件"
 }

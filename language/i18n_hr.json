@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Gdje pronaći oznaku uređaja?",
     "CL_DV_LC_connect_by_other": "Trenutni uređaj je povezan s drugim uređajem. Pokušajte ponovno kasnije.",
     "CL_DV_LC_pair_error_tips": "Povezivanje # nije uspjelo. Ponovno povežite uređaj kasnije.",
-    "CL_DV_LC_mul_bind_tips": "Nakon povezivanja, upotrijebite aplikaciju za testiranje zaključavanja i otključavanja kako biste razlikovali uređaje. \n",
+    "CL_DV_LC_mul_bind_tips": "Nakon povezivanja, upotrijebite aplikaciju za testiranje zaključavanja i otključavanja kako biste razlikovali uređaje.",
     "CL_DV_LC_no_pairing_accessory": "Nema pribora za uparivanje",
     "CL_DV_LC_add_accessores": "DODAJTE DODATKE",
     "asko_oven_door_wake_up_content": "Pećnica se može probuditi ako se vaša prisutnost otkrije ## prilikom otvaranja vrata. Imajte na umu da će to povećati potrošnju energije.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##-godišnje jamstvo",
     "warranty_month_duration": "##-mjesečno jamstvo",
     "warranty_year_month_duration": "##-godišnje **-mjesečno jamstvo",
-    "CL_DV_LC_ota_tips": "Proces ažuriranja firmvera onemogućit će korištenje uređaja tijekom trajanja ažuriranja. Sučelje uređaja može treptati tijekom ažuriranja."
+    "CL_DV_LC_ota_tips": "Proces ažuriranja firmvera onemogućit će korištenje uređaja tijekom trajanja ažuriranja. Sučelje uređaja može treptati tijekom ažuriranja.",
+    "CL_DV_LC_accessory_available_for_pairing": "DODATNA OPREMA DOSTUPNA ZA UPARIVANJE"
 }

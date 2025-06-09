@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Tìm nhãn thiết bị ở đâu?",
     "CL_DV_LC_connect_by_other": "Thiết bị hiện tại đã được kết nối bởi một thiết bị khác. Vui lòng thử lại sau.",
     "CL_DV_LC_pair_error_tips": "# không liên kết thành công. Vui lòng liên kết lại thiết bị sau.",
-    "CL_DV_LC_mul_bind_tips": "Sau khi liên kết, vui lòng sử dụng ứng dụng để kiểm tra khóa và mở khóa để phân biệt các thiết bị. \n",
+    "CL_DV_LC_mul_bind_tips": "Sau khi liên kết, vui lòng sử dụng ứng dụng để kiểm tra khóa và mở khóa để phân biệt các thiết bị.",
     "CL_DV_LC_no_pairing_accessory": "Không có phụ kiện ghép nối",
     "CL_DV_LC_add_accessores": "THÊM PHỤ KIỆN",
     "asko_oven_door_wake_up_content": "Lò nướng có thể thức dậy nếu phát hiện sự hiện diện của bạn bằng ## khi mở cửa. Lưu ý rằng điều này sẽ làm tăng mức tiêu thụ điện năng.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##-năm bảo hành",
     "warranty_month_duration": "##-tháng bảo hành",
     "warranty_year_month_duration": "##-năm **-tháng bảo hành",
-    "CL_DV_LC_ota_tips": "Quá trình phần mềm sẽ vô hiệu hóa việc sử dụng thiết bị trong thời gian cập nhật. Giao diện thiết bị có thể nhấp nháy trong quá trình cập nhật."
+    "CL_DV_LC_ota_tips": "Quá trình phần mềm sẽ vô hiệu hóa việc sử dụng thiết bị trong thời gian cập nhật. Giao diện thiết bị có thể nhấp nháy trong quá trình cập nhật.",
+    "CL_DV_LC_accessory_available_for_pairing": "PHỤ KIỆN CÓ SẴN ĐỂ GHÉP NỐI"
 }

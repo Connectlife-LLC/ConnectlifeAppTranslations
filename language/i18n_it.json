@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Dove trovare l'etichetta del dispositivo?",
     "CL_DV_LC_connect_by_other": "Il dispositivo corrente è stato connesso da un altro dispositivo. Riprova più tardi.",
     "CL_DV_LC_pair_error_tips": "Il # non è stato associato correttamente. Eseguire nuovamente l'associazione del dispositivo più tardi.",
-    "CL_DV_LC_mul_bind_tips": "Dopo l'associazione, utilizzare l'app per testare il blocco e lo sblocco per distinguere i dispositivi. \n",
+    "CL_DV_LC_mul_bind_tips": "Dopo l'associazione, utilizzare l'app per testare il blocco e lo sblocco per distinguere i dispositivi.",
     "CL_DV_LC_no_pairing_accessory": "Nessun accessorio di associazione",
     "CL_DV_LC_add_accessores": "AGGIUNGI ACCESSORI",
     "asko_oven_door_wake_up_content": "Il forno può attivarsi se la tua presenza viene rilevata dal simbolo ## all'apertura dello sportello. Tieni presente che questo aumenterà il consumo energetico.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "garanzia di ## anni",
     "warranty_month_duration": "garanzia di ## mesi",
     "warranty_year_month_duration": "Garanzia di ## anni **-mesi",
-    "CL_DV_LC_ota_tips": "Il processo di aggiornamento del firmware disabiliterà l'utilizzo del dispositivo per tutta la durata dell'aggiornamento. L'interfaccia del dispositivo potrebbe lampeggiare durante l'aggiornamento."
+    "CL_DV_LC_ota_tips": "Il processo di aggiornamento del firmware disabiliterà l'utilizzo del dispositivo per tutta la durata dell'aggiornamento. L'interfaccia del dispositivo potrebbe lampeggiare durante l'aggiornamento.",
+    "CL_DV_LC_accessory_available_for_pairing": "ACCESSORIO DISPONIBILE PER L'ASSOCIAZIONE"
 }

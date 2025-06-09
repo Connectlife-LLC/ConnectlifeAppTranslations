@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Où trouver l'étiquette de l'appareil ?",
     "CL_DV_LC_connect_by_other": "L'appareil actuel a été connecté à un autre appareil. Veuillez réessayer ultérieurement.",
     "CL_DV_LC_pair_error_tips": "Le # n'a pas été correctement lié. Veuillez relier à nouveau l'appareil ultérieurement.",
-    "CL_DV_LC_mul_bind_tips": "Après la liaison, veuillez utiliser l'application pour tester le verrouillage et le déverrouillage afin de distinguer les appareils. \n",
+    "CL_DV_LC_mul_bind_tips": "Après la liaison, veuillez utiliser l'application pour tester le verrouillage et le déverrouillage afin de distinguer les appareils.",
     "CL_DV_LC_no_pairing_accessory": "Aucun accessoire d'appairage",
     "CL_DV_LC_add_accessores": "AJOUTER DES ACCESSOIRES",
     "asko_oven_door_wake_up_content": "Le four peut se réveiller si votre présence est détectée par le ## à l'ouverture de la porte. Attention, cela augmentera la consommation d'énergie.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "Garantie de ## ans",
     "warranty_month_duration": "Garantie de ## mois",
     "warranty_year_month_duration": "Garantie de ## ans et ** mois",
-    "CL_DV_LC_ota_tips": "Le processus de mise à jour du micrologiciel désactivera l'utilisation de l'appareil pendant la durée de la mise à jour. L'interface de l'appareil peut clignoter pendant la mise à jour."
+    "CL_DV_LC_ota_tips": "Le processus de mise à jour du micrologiciel désactivera l'utilisation de l'appareil pendant la durée de la mise à jour. L'interface de l'appareil peut clignoter pendant la mise à jour.",
+    "CL_DV_LC_accessory_available_for_pairing": "ACCESSOIRE DISPONIBLE POUR L'ASSOCIATION"
 }

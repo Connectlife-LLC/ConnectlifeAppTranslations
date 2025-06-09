@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Di mana menemukan label perangkat?",
     "CL_DV_LC_connect_by_other": "Perangkat saat ini telah terhubung dengan perangkat lain. Coba lagi nanti.",
     "CL_DV_LC_pair_error_tips": "# tidak berhasil diikat. Harap ikat perangkat lagi nanti.",
-    "CL_DV_LC_mul_bind_tips": "Setelah mengikat, silakan gunakan aplikasi untuk menguji penguncian dan pembukaan kunci guna membedakan perangkat. \n",
+    "CL_DV_LC_mul_bind_tips": "Setelah mengikat, silakan gunakan aplikasi untuk menguji penguncian dan pembukaan kunci guna membedakan perangkat.",
     "CL_DV_LC_no_pairing_accessory": "Tidak ada aksesori yang dapat dipasangkan",
     "CL_DV_LC_add_accessores": "TAMBAHKAN AKSESORIS",
     "asko_oven_door_wake_up_content": "Oven dapat menyala jika kehadiran Anda terdeteksi oleh ## saat pintu dibuka. Perlu diketahui bahwa hal ini akan meningkatkan konsumsi daya.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "Garansi ##-tahun",
     "warranty_month_duration": "Garansi ##-bulan",
     "warranty_year_month_duration": "Garansi ##-tahun **-bulan",
-    "CL_DV_LC_ota_tips": "Proses firmware akan menonaktifkan penggunaan perangkat selama pembaruan berlangsung. Antarmuka perangkat mungkin berkedip selama pembaruan."
+    "CL_DV_LC_ota_tips": "Proses firmware akan menonaktifkan penggunaan perangkat selama pembaruan berlangsung. Antarmuka perangkat mungkin berkedip selama pembaruan.",
+    "CL_DV_LC_accessory_available_for_pairing": "AKSESORIS TERSEDIA UNTUK DIPASANGKAN"
 }

@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "¿Dónde encontrar la etiqueta del dispositivo?",
     "CL_DV_LC_connect_by_other": "Otro dispositivo se ha conectado al dispositivo actual. Inténtalo de nuevo más tarde.",
     "CL_DV_LC_pair_error_tips": "El número no se vinculó correctamente. Vuelva a vincular el dispositivo más tarde.",
-    "CL_DV_LC_mul_bind_tips": "Después de la vinculación, utilice la aplicación para probar el bloqueo y desbloqueo para distinguir los dispositivos. \n",
+    "CL_DV_LC_mul_bind_tips": "Después de la vinculación, utilice la aplicación para probar el bloqueo y desbloqueo para distinguir los dispositivos.",
     "CL_DV_LC_no_pairing_accessory": "Sin accesorio de emparejamiento",
     "CL_DV_LC_add_accessores": "AÑADIR ACCESORIOS",
     "asko_oven_door_wake_up_content": "El horno puede activarse si se detecta su presencia al abrir la puerta. Tenga en cuenta que esto aumentará el consumo de energía.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "## años de garantía",
     "warranty_month_duration": "## meses de garantía",
     "warranty_year_month_duration": "##-año **-mes de garantía",
-    "CL_DV_LC_ota_tips": "El proceso de actualización del firmware deshabilitará el uso del dispositivo durante la actualización. La interfaz del dispositivo podría parpadear durante la actualización."
+    "CL_DV_LC_ota_tips": "El proceso de actualización del firmware deshabilitará el uso del dispositivo durante la actualización. La interfaz del dispositivo podría parpadear durante la actualización.",
+    "CL_DV_LC_accessory_available_for_pairing": "ACCESORIO DISPONIBLE PARA EMPAREJAMIENTO"
 }

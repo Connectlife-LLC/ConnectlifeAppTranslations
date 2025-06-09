@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Hvor finder jeg enhedens etiket?",
     "CL_DV_LC_connect_by_other": "Den nuværende enhed er blevet forbundet med en anden enhed. Prøv igen senere.",
     "CL_DV_LC_pair_error_tips": "#-nummeret blev ikke forbundet. Bind venligst enheden igen senere.",
-    "CL_DV_LC_mul_bind_tips": "Efter binding skal du bruge appen til at teste låsning og oplåsning for at skelne mellem enhederne. \n",
+    "CL_DV_LC_mul_bind_tips": "Efter binding skal du bruge appen til at teste låsning og oplåsning for at skelne mellem enhederne.",
     "CL_DV_LC_no_pairing_accessory": "Intet parringstilbehør",
     "CL_DV_LC_add_accessores": "TILFØJ TILBEHØR",
     "asko_oven_door_wake_up_content": "Ovnen kan vågne op, hvis din tilstedeværelse registreres af ## ved åbning af døren. Vær opmærksom på, at dette vil øge strømforbruget.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "## års garanti",
     "warranty_month_duration": "## måneders garanti",
     "warranty_year_month_duration": "##-år **-måneders garanti",
-    "CL_DV_LC_ota_tips": "Firmwareprocessen vil deaktivere brugen af ​​apparatet i løbet af opdateringen. Enhedens grænseflade kan blinke under opdateringen."
+    "CL_DV_LC_ota_tips": "Firmwareprocessen vil deaktivere brugen af ​​apparatet i løbet af opdateringen. Enhedens grænseflade kan blinke under opdateringen.",
+    "CL_DV_LC_accessory_available_for_pairing": "TILBEHØR TILGÆNGELIGT TIL PARRING"
 }

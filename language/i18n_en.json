@@ -5379,8 +5379,8 @@
     "CL_CF_CS_search_for_manuals": "SEARCH FOR THE MANUAL",
     "CL_CF_CS_Where_to_find_the_device_label": "Where to find the device label?",
     "CL_DV_LC_connect_by_other": "The current device has been connected by another device. Please try again later.",
-    "CL_DV_LC_pair_error_tips": "The # was not successfuly bound. Please bind the device again later.",
-    "CL_DV_LC_mul_bind_tips": "After binding, please use the app to test lockand unlock to distinguish the devices.\n",
+    "CL_DV_LC_pair_error_tips": "The # was not successfully bound. Please bind the device again later.",
+    "CL_DV_LC_mul_bind_tips": "After binding, please use the app to test lock and unlock to distinguish the devices.",
     "CL_DV_LC_no_pairing_accessory": "No pairing accessory",
     "CL_DV_LC_add_accessores": "ADD ACCESSORIES",
     "asko_oven_door_wake_up_content": "The oven can wake up if your presence is detected by the on door opening. Be aware this will increase the power consumption.",
@@ -5445,7 +5445,7 @@
     "CL_CF_CS_CHOOESE_THE_DEVICE_CATEGORY": "CHOOESE THE DEVICE CATEGORY",
     "choose_device_category_desc_2": "Choose the category to which your device belongs.",
     "CL_DV_LC_devices_availabel_for_paring": "DEVICES AVAILABLE FOR PAIRING",
-    "CL_DV_LC_paring_tips": "If the device does not appear, please move closer to the device toensure it is powered on.",
+    "CL_DV_LC_paring_tips": "If the device does not appear, please move closer to the device to ensure it is powered on.",
     "CL_DV_LC_one_only_two": "One Smart key can only pair with two SmartDoor Locks. Please check again.\n",
     "CL_DV_LC_no_device_detected": "No device detected",
     "CL_DV_LC_some_things_wrong": "Something went wrong.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##-year warranty",
     "warranty_month_duration": "##-month warranty",
     "warranty_year_month_duration": "##-year **-month warranty",
-    "CL_DV_LC_ota_tips": "The process of firmware will disable the use of appliance for the duration of the update. Device interface may blink during update."
+    "CL_DV_LC_ota_tips": "The process of firmware will disable the use of appliance for the duration of the update. Device interface may blink during update.",
+    "CL_DV_LC_accessory_available_for_pairing": "ACCESSORY AVAILABLE FOR PAIRING"
 }

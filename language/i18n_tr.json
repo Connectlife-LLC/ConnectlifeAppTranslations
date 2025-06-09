@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##-yıl garanti",
     "warranty_month_duration": "##-ay garanti",
     "warranty_year_month_duration": "##-yıl **-ay garanti",
-    "CL_DV_LC_ota_tips": "Ürün yazılımı süreci, güncelleme süresince cihazın kullanımını devre dışı bırakacaktır. Güncelleme sırasında cihaz arayüzü yanıp sönebilir."
+    "CL_DV_LC_ota_tips": "Ürün yazılımı süreci, güncelleme süresince cihazın kullanımını devre dışı bırakacaktır. Güncelleme sırasında cihaz arayüzü yanıp sönebilir.",
+    "CL_DV_LC_accessory_available_for_pairing": "EŞLEŞTİRME İÇİN AKSESUAR MEVCUTTUR"
 }

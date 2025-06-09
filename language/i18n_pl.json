@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Gdzie znajdę etykietę urządzenia?",
     "CL_DV_LC_connect_by_other": "Obecne urządzenie zostało połączone z innym urządzeniem. Spróbuj ponownie później.",
     "CL_DV_LC_pair_error_tips": "# nie zostało pomyślnie powiązane. Proszę ponownie powiązać urządzenie później.",
-    "CL_DV_LC_mul_bind_tips": "Po sparowaniu użyj aplikacji, aby przetestować blokowanie i odblokowywanie w celu rozróżnienia urządzeń. \n",
+    "CL_DV_LC_mul_bind_tips": "Po sparowaniu użyj aplikacji, aby przetestować blokowanie i odblokowywanie w celu rozróżnienia urządzeń.",
     "CL_DV_LC_no_pairing_accessory": "Brak akcesoriów parujących",
     "CL_DV_LC_add_accessores": "DODAJ AKCESORIA",
     "asko_oven_door_wake_up_content": "Piekarnik może się obudzić, jeśli Twoja obecność zostanie wykryta przez ## przy otwieraniu drzwi. Pamiętaj, że zwiększy to zużycie energii.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##-letnia gwarancja",
     "warranty_month_duration": "##-miesięczna gwarancja",
     "warranty_year_month_duration": "##-rok **-miesiąc gwarancji",
-    "CL_DV_LC_ota_tips": "Proces oprogramowania sprzętowego wyłączy korzystanie z urządzenia na czas aktualizacji. Interfejs urządzenia może migać podczas aktualizacji."
+    "CL_DV_LC_ota_tips": "Proces oprogramowania sprzętowego wyłączy korzystanie z urządzenia na czas aktualizacji. Interfejs urządzenia może migać podczas aktualizacji.",
+    "CL_DV_LC_accessory_available_for_pairing": "AKCESORIA DOSTĘPNE DO PAROWANIA"
 }
