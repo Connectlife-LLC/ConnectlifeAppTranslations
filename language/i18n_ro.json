@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Unde găsesc eticheta dispozitivului?",
     "CL_DV_LC_connect_by_other": "Dispozitivul curent a fost conectat printr-un alt dispozitiv. Vă rugăm să încercați din nou mai târziu.",
     "CL_DV_LC_pair_error_tips": "Numărul nu a fost legat cu succes. Vă rugăm să legați din nou dispozitivul mai târziu.",
-    "CL_DV_LC_mul_bind_tips": "După conectare, vă rugăm să folosiți aplicația pentru a testa blocarea și deblocarea pentru a distinge dispozitivele. \n",
+    "CL_DV_LC_mul_bind_tips": "După conectare, vă rugăm să folosiți aplicația pentru a testa blocarea și deblocarea pentru a distinge dispozitivele.",
     "CL_DV_LC_no_pairing_accessory": "Niciun accesoriu de asociere",
     "CL_DV_LC_add_accessores": "ADĂUGAȚI ACCESORII",
     "asko_oven_door_wake_up_content": "Cuptorul se poate activa dacă prezența dumneavoastră este detectată de simbolul ## la deschiderea ușii. Rețineți că acest lucru va crește consumul de energie.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "Garanție de ## ani",
     "warranty_month_duration": "Garanție de ## luni",
     "warranty_year_month_duration": "## ani garanție ** luni",
-    "CL_DV_LC_ota_tips": "Procesul de actualizare a firmware-ului va dezactiva utilizarea dispozitivului pe durata actualizării. Interfața dispozitivului poate clipi în timpul actualizării."
+    "CL_DV_LC_ota_tips": "Procesul de actualizare a firmware-ului va dezactiva utilizarea dispozitivului pe durata actualizării. Interfața dispozitivului poate clipi în timpul actualizării.",
+    "CL_DV_LC_accessory_available_for_pairing": "ACCESORIU DISPONIBIL PENTRU ASOCIERARE"
 }

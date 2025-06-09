@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Mistä löydän laitteen etiketin?",
     "CL_DV_LC_connect_by_other": "Nykyinen laite on yhdistetty toisen laitteen kautta. Yritä myöhemmin uudelleen.",
     "CL_DV_LC_pair_error_tips": "Kohteen # sitominen ei onnistunut. Sido laite uudelleen myöhemmin.",
-    "CL_DV_LC_mul_bind_tips": "Yhdistämisen jälkeen testaa lukitus ja lukituksen avaus sovelluksen avulla laitteiden erottamiseksi toisistaan. \n",
+    "CL_DV_LC_mul_bind_tips": "Yhdistämisen jälkeen testaa lukitus ja lukituksen avaus sovelluksen avulla laitteiden erottamiseksi toisistaan.",
     "CL_DV_LC_no_pairing_accessory": "Ei pariliitoslisävarustetta",
     "CL_DV_LC_add_accessores": "LISÄÄ LISÄVARUSTEITA",
     "asko_oven_door_wake_up_content": "Uuni voi herätä, jos luukun avattaessa näkyy ##, jos läsnäolosi havaitaan. Huomaa, että tämä lisää virrankulutusta.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "## vuoden takuu",
     "warranty_month_duration": "## kuukauden takuu",
     "warranty_year_month_duration": "## vuoden ** kuukauden takuu",
-    "CL_DV_LC_ota_tips": "Laiteohjelmiston päivitysprosessi estää laitteen käytön päivityksen ajaksi. Laitteen käyttöliittymä saattaa vilkkua päivityksen aikana."
+    "CL_DV_LC_ota_tips": "Laiteohjelmiston päivitysprosessi estää laitteen käytön päivityksen ajaksi. Laitteen käyttöliittymä saattaa vilkkua päivityksen aikana.",
+    "CL_DV_LC_accessory_available_for_pairing": "Saatavilla oleva pariliitoslisävaruste"
 }

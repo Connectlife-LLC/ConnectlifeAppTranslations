@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Di mana untuk mencari label peranti?",
     "CL_DV_LC_connect_by_other": "Peranti semasa telah disambungkan oleh peranti lain. Sila cuba lagi kemudian.",
     "CL_DV_LC_pair_error_tips": "# tidak berjaya terikat. Sila ikat peranti itu semula kemudian.",
-    "CL_DV_LC_mul_bind_tips": "Selepas mengikat, sila gunakan aplikasi untuk menguji kunci dan buka kunci untuk membezakan peranti. \n",
+    "CL_DV_LC_mul_bind_tips": "Selepas mengikat, sila gunakan aplikasi untuk menguji kunci dan buka kunci untuk membezakan peranti.",
     "CL_DV_LC_no_pairing_accessory": "Tiada aksesori berpasangan",
     "CL_DV_LC_add_accessores": "TAMBAH AKSESOR",
     "asko_oven_door_wake_up_content": "Ketuhar boleh terjaga jika kehadiran anda dikesan oleh ## pada pembukaan pintu. Berhati-hati ini akan meningkatkan penggunaan kuasa.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "Waranti ## tahun",
     "warranty_month_duration": "Waranti ##-bulan",
     "warranty_year_month_duration": "Waranti ##-tahun **-bulan",
-    "CL_DV_LC_ota_tips": "Proses perisian tegar akan melumpuhkan penggunaan perkakas sepanjang tempoh kemas kini. Antara muka peranti mungkin berkelip semasa kemas kini."
+    "CL_DV_LC_ota_tips": "Proses perisian tegar akan melumpuhkan penggunaan perkakas sepanjang tempoh kemas kini. Antara muka peranti mungkin berkelip semasa kemas kini.",
+    "CL_DV_LC_accessory_available_for_pairing": "AKSESORI TERSEDIA UNTUK BERPADING"
 }

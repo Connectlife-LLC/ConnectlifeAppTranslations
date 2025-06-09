@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Kde nájdem štítok zariadenia?",
     "CL_DV_LC_connect_by_other": "Aktuálne zariadenie bolo pripojené k inému zariadeniu. Skúste to znova neskôr.",
     "CL_DV_LC_pair_error_tips": "# sa nepodarilo úspešne pripojiť. Spárujte zariadenie znova neskôr.",
-    "CL_DV_LC_mul_bind_tips": "Po spárovaní použite aplikáciu na otestovanie uzamknutia a odomknutia, aby ste rozlíšili zariadenia. \n",
+    "CL_DV_LC_mul_bind_tips": "Po spárovaní použite aplikáciu na otestovanie uzamknutia a odomknutia, aby ste rozlíšili zariadenia.",
     "CL_DV_LC_no_pairing_accessory": "Žiadne párovacie príslušenstvo",
     "CL_DV_LC_add_accessores": "PRIDAŤ PRÍSLUŠENSTVO",
     "asko_oven_door_wake_up_content": "Rúra sa môže prebudiť, ak pri otvorení dvierok rozpozná vašu prítomnosť ##. Upozorňujeme, že to zvýši spotrebu energie.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##-ročná záruka",
     "warranty_month_duration": "##-mesačná záruka",
     "warranty_year_month_duration": "##-ročná **-mesačná záruka",
-    "CL_DV_LC_ota_tips": "Proces aktualizácie firmvéru zablokuje používanie zariadenia počas trvania aktualizácie. Rozhranie zariadenia môže počas aktualizácie blikať."
+    "CL_DV_LC_ota_tips": "Proces aktualizácie firmvéru zablokuje používanie zariadenia počas trvania aktualizácie. Rozhranie zariadenia môže počas aktualizácie blikať.",
+    "CL_DV_LC_accessory_available_for_pairing": "PRÍSLUŠENSTVO K DISPOZÍCII NA PÁROVANIE"
 }

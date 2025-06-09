@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Waar kan ik het apparaatlabel vinden?",
     "CL_DV_LC_connect_by_other": "Het huidige apparaat is verbonden met een ander apparaat. Probeer het later opnieuw.",
     "CL_DV_LC_pair_error_tips": "De # is niet succesvol gekoppeld. Koppel het apparaat later opnieuw.",
-    "CL_DV_LC_mul_bind_tips": "Nadat u de apparaten hebt gekoppeld, kunt u de app gebruiken om het vergrendelen en ontgrendelen te testen en de apparaten te onderscheiden. \n",
+    "CL_DV_LC_mul_bind_tips": "Nadat u de apparaten hebt gekoppeld, kunt u de app gebruiken om het vergrendelen en ontgrendelen te testen en de apparaten te onderscheiden.",
     "CL_DV_LC_no_pairing_accessory": "Geen koppelingsaccessoire",
     "CL_DV_LC_add_accessores": "ACCESSOIRES TOEVOEGEN",
     "asko_oven_door_wake_up_content": "De oven kan ontwaken als uw aanwezigheid wordt gedetecteerd door de ## bij het openen van de deur. Houd er rekening mee dat dit het stroomverbruik verhoogt.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##-jaar garantie",
     "warranty_month_duration": "##-maanden garantie",
     "warranty_year_month_duration": "##-jaar **-maand garantie",
-    "CL_DV_LC_ota_tips": "Het firmwareproces schakelt het gebruik van het apparaat uit gedurende de update. De interface van het apparaat kan knipperen tijdens de update."
+    "CL_DV_LC_ota_tips": "Het firmwareproces schakelt het gebruik van het apparaat uit gedurende de update. De interface van het apparaat kan knipperen tijdens de update.",
+    "CL_DV_LC_accessory_available_for_pairing": "ACCESSOIRE BESCHIKBAAR VOOR KOPPELING"
 }

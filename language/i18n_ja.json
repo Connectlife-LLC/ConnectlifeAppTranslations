@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "デバイスラベルはどこにありますか?",
     "CL_DV_LC_connect_by_other": "現在のデバイスは別のデバイスによって接続されています。しばらくしてからもう一度お試しください。",
     "CL_DV_LC_pair_error_tips": "# のバインドに失敗しました。後ほどデバイスを再度バインドしてください。",
-    "CL_DV_LC_mul_bind_tips": "バインド後、アプリを使用してロックとロック解除をテストし、デバイスを区別してください。 \n",
+    "CL_DV_LC_mul_bind_tips": "バインド後、アプリを使用してロックとロック解除をテストし、デバイスを区別してください。",
     "CL_DV_LC_no_pairing_accessory": "ペアリングアクセサリなし",
     "CL_DV_LC_add_accessores": "アクセサリーを追加する",
     "asko_oven_door_wake_up_content": "ドア開閉時に##が点灯し、人の存在を検知するとオーブンが起動することがあります。これにより消費電力が増加することにご注意ください。",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "##年保証",
     "warranty_month_duration": "## か月保証",
     "warranty_year_month_duration": "##年**か月保証",
-    "CL_DV_LC_ota_tips": "ファームウェアのアップデート中は、アプライアンスの使用ができなくなります。アップデート中は、デバイスインターフェースが点滅する場合があります。"
+    "CL_DV_LC_ota_tips": "ファームウェアのアップデート中は、アプライアンスの使用ができなくなります。アップデート中は、デバイスインターフェースが点滅する場合があります。",
+    "CL_DV_LC_accessory_available_for_pairing": "ペアリング可能なアクセサリ"
 }

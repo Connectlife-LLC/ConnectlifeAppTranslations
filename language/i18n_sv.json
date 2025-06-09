@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Var hittar man enhetens etikett?",
     "CL_DV_LC_connect_by_other": "Den aktuella enheten har anslutits av en annan enhet. Försök igen senare.",
     "CL_DV_LC_pair_error_tips": "#-anslutningen misslyckades. Vänligen bind enheten igen senare.",
-    "CL_DV_LC_mul_bind_tips": "Efter koppling, använd appen för att testa låsning och upplåsning för att skilja enheterna åt. \n",
+    "CL_DV_LC_mul_bind_tips": "Efter koppling, använd appen för att testa låsning och upplåsning för att skilja enheterna åt.",
     "CL_DV_LC_no_pairing_accessory": "Inget parkopplingstillbehör",
     "CL_DV_LC_add_accessores": "LÄGG TILL TILLBEHÖR",
     "asko_oven_door_wake_up_content": "Ugnen kan vakna om din närvaro detekteras av ## när luckan öppnas. Var medveten om att detta kommer att öka strömförbrukningen.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "## års garanti",
     "warranty_month_duration": "## månaders garanti",
     "warranty_year_month_duration": "##-år **månaders garanti",
-    "CL_DV_LC_ota_tips": "Processen med den inbyggda programvaran kommer att inaktivera användningen av apparaten under uppdateringen. Enhetens gränssnitt kan blinka under uppdateringen."
+    "CL_DV_LC_ota_tips": "Processen med den inbyggda programvaran kommer att inaktivera användningen av apparaten under uppdateringen. Enhetens gränssnitt kan blinka under uppdateringen.",
+    "CL_DV_LC_accessory_available_for_pairing": "TILLBEHÖR TILLGÄNGLIGT FÖR PARKOPPLING"
 }

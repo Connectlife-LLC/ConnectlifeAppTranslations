@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Hol találom az eszköz címkéjét?",
     "CL_DV_LC_connect_by_other": "A jelenlegi eszközt egy másik eszköz csatlakoztatta. Kérjük, próbálja újra később.",
     "CL_DV_LC_pair_error_tips": "A # kötése sikertelen volt. Kérjük, kötést végezzen újra később.",
-    "CL_DV_LC_mul_bind_tips": "A párosítás után kérjük, az alkalmazás segítségével tesztelje a zárolást és a feloldást, hogy megkülönböztesse az eszközöket. \n",
+    "CL_DV_LC_mul_bind_tips": "A párosítás után kérjük, az alkalmazás segítségével tesztelje a zárolást és a feloldást, hogy megkülönböztesse az eszközöket.",
     "CL_DV_LC_no_pairing_accessory": "Nincs párosító tartozék",
     "CL_DV_LC_add_accessores": "TARTOZÉKOK HOZZÁADÁSA",
     "asko_oven_door_wake_up_content": "A sütő felébredhet, ha az ajtónyitáskor a ## jel érzékeli a jelenlétét. Legyen tudatában annak, hogy ez növeli az energiafogyasztást.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "## év garancia",
     "warranty_month_duration": "## hónapos garancia",
     "warranty_year_month_duration": "## év ** hónapos garancia",
-    "CL_DV_LC_ota_tips": "A firmware frissítési folyamata letiltja a készülék használatát a frissítés idejére. Az eszköz kezelőfelülete villoghat a frissítés során."
+    "CL_DV_LC_ota_tips": "A firmware frissítési folyamata letiltja a készülék használatát a frissítés idejére. Az eszköz kezelőfelülete villoghat a frissítés során.",
+    "CL_DV_LC_accessory_available_for_pairing": "PÁROSÍTÁSHOZ ELÉRHETŐ TARTOZÉK"
 }

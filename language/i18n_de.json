@@ -5380,7 +5380,7 @@
     "CL_CF_CS_Where_to_find_the_device_label": "Wo finde ich das Geräteetikett?",
     "CL_DV_LC_connect_by_other": "Das aktuelle Gerät wurde von einem anderen Gerät verbunden. Bitte versuchen Sie es später erneut.",
     "CL_DV_LC_pair_error_tips": "Die # konnte nicht erfolgreich gebunden werden. Bitte binden Sie das Gerät später erneut.",
-    "CL_DV_LC_mul_bind_tips": "Testen Sie nach der Bindung die Sperr- und Entsperrfunktion der App, um die Geräte zu unterscheiden. \n",
+    "CL_DV_LC_mul_bind_tips": "Testen Sie nach der Bindung die Sperr- und Entsperrfunktion der App, um die Geräte zu unterscheiden.",
     "CL_DV_LC_no_pairing_accessory": "Kein Pairing-Zubehör",
     "CL_DV_LC_add_accessores": "ZUBEHÖR HINZUFÜGEN",
     "asko_oven_door_wake_up_content": "Der Backofen kann aktiviert werden, wenn Ihre Anwesenheit durch das ## beim Öffnen der Tür erkannt wird. Beachten Sie, dass dies den Stromverbrauch erhöht.",
@@ -5574,5 +5574,6 @@
     "warranty_year_duration": "## Jahre Garantie",
     "warranty_month_duration": "## Monate Garantie",
     "warranty_year_month_duration": "##-Jahre **-Monate Garantie",
-    "CL_DV_LC_ota_tips": "Der Firmware-Prozess deaktiviert die Nutzung des Geräts für die Dauer des Updates. Die Geräteschnittstelle kann während des Updates blinken."
+    "CL_DV_LC_ota_tips": "Der Firmware-Prozess deaktiviert die Nutzung des Geräts für die Dauer des Updates. Die Geräteschnittstelle kann während des Updates blinken.",
+    "CL_DV_LC_accessory_available_for_pairing": "ZUBEHÖR ZUR KOPPELUNG VERFÜGBAR"
 }
