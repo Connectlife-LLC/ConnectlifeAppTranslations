@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "отворите апликацију",
     "CL_DV_TD_mode_desc": "Programski režim vam omogućava da prilagodite svoj program sušenja i prilagodite ga prema vašim potrebama. U nastavku možete pročitati o različitim režimima i njihovoj funkcionalnosti.",
     "refrigerator_door_was_opened": "Врата фрижидера су отворена док је режим „Одустајање“ био активан.",
-    "CL_DV_TD_extra_dry_desc": "Можете бирати између додатних нивоа сувоће, +, ++ и +++."
+    "CL_DV_TD_extra_dry_desc": "Можете бирати између додатних нивоа сувоће, +, ++ и +++.",
+    "CL_DV_RF_cleaning_delay": "Одлагање",
+    "CL_DV_RF_cleaning_weeks": "Недеље",
+    "CL_DV_RF_cleaning_months": "Месеци",
+    "CL_DV_RF_cleaning_days": "Dan",
+    "CL_DV_RF_cleaning_day": "Dnevna potrošnja",
+    "CL_DV_RF_cleaning_week": "Nedelja",
+    "CL_DV_RF_cleaning_month": "месец"
 }

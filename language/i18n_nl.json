@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "een app-programma openen",
     "CL_DV_TD_mode_desc": "Met de programmamodus kunt u uw droogprogramma aanpassen aan uw behoeften. Hieronder leest u over de verschillende modi en hun functionaliteit.",
     "refrigerator_door_was_opened": "De koelkastdeur is geopend terwijl de afwezigheidsmodus actief was.",
-    "CL_DV_TD_extra_dry_desc": "U kunt kiezen tussen extra droogheidsniveaus: +, ++ en +++."
+    "CL_DV_TD_extra_dry_desc": "U kunt kiezen tussen extra droogheidsniveaus: +, ++ en +++.",
+    "CL_DV_RF_cleaning_delay": "Uitstellen",
+    "CL_DV_RF_cleaning_weeks": "Weken",
+    "CL_DV_RF_cleaning_months": "Maanden",
+    "CL_DV_RF_cleaning_days": "dagen",
+    "CL_DV_RF_cleaning_day": "Dagelijks",
+    "CL_DV_RF_cleaning_week": "Week",
+    "CL_DV_RF_cleaning_month": "Maand"
 }

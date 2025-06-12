@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "앱 프로그램을 엽니다",
     "CL_DV_TD_mode_desc": "프로그램 모드를 사용하면 건조 프로그램을 사용자 정의하고 필요에 따라 조정할 수 있습니다. 아래에서 다양한 모드와 해당 기능에 대해 읽어볼 수 있습니다.",
     "refrigerator_door_was_opened": "외출 모드가 활성화된 상태에서 냉장고 문이 열렸습니다.",
-    "CL_DV_TD_extra_dry_desc": "매우 건조함 수준을 +, ++, +++ 중에서 선택할 수 있습니다."
+    "CL_DV_TD_extra_dry_desc": "매우 건조함 수준을 +, ++, +++ 중에서 선택할 수 있습니다.",
+    "CL_DV_RF_cleaning_delay": "지연",
+    "CL_DV_RF_cleaning_weeks": "주",
+    "CL_DV_RF_cleaning_months": "개월",
+    "CL_DV_RF_cleaning_days": "날",
+    "CL_DV_RF_cleaning_day": "하루 소비량",
+    "CL_DV_RF_cleaning_week": "주",
+    "CL_DV_RF_cleaning_month": "월"
 }

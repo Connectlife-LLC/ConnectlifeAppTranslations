@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "open an App program",
     "CL_DV_TD_mode_desc": "Program mode allows you to customise your drying program and adjust it based on your needs. Below you can read about the different modes and their functionality. ",
     "refrigerator_door_was_opened": "The refrigerator door was opened while Away Mode is active.",
-    "CL_DV_TD_extra_dry_desc": "You can choose between extra dryness levels, +, ++, and +++."
+    "CL_DV_TD_extra_dry_desc": "You can choose between extra dryness levels, +, ++, and +++.",
+    "CL_DV_RF_cleaning_delay": "Delay",
+    "CL_DV_RF_cleaning_weeks": "Weeks",
+    "CL_DV_RF_cleaning_months": "Months",
+    "CL_DV_RF_cleaning_days": "days",
+    "CL_DV_RF_cleaning_day": "Day",
+    "CL_DV_RF_cleaning_week": "Week",
+    "CL_DV_RF_cleaning_month": "Month"
 }

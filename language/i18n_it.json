@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "aprire un programma App",
     "CL_DV_TD_mode_desc": "La modalità Programma ti consente di personalizzare il tuo programma di asciugatura e regolarlo in base alle tue esigenze. Di seguito puoi leggere le diverse modalità e le loro funzionalità.",
     "refrigerator_door_was_opened": "La porta del frigorifero è stata aperta mentre era attiva la modalità Assente.",
-    "CL_DV_TD_extra_dry_desc": "È possibile scegliere tra i livelli di asciugatura extra +, ++ e +++."
+    "CL_DV_TD_extra_dry_desc": "È possibile scegliere tra i livelli di asciugatura extra +, ++ e +++.",
+    "CL_DV_RF_cleaning_delay": "Ritardo",
+    "CL_DV_RF_cleaning_weeks": "Settimane",
+    "CL_DV_RF_cleaning_months": "Mesi",
+    "CL_DV_RF_cleaning_days": "giorni",
+    "CL_DV_RF_cleaning_day": "Consumo giornaliero",
+    "CL_DV_RF_cleaning_week": "Settimana",
+    "CL_DV_RF_cleaning_month": "Mese"
 }

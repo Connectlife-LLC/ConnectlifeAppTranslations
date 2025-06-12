@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "nyisson meg egy alkalmazásprogramot",
     "CL_DV_TD_mode_desc": "A Program mód lehetővé teszi a szárítási program testreszabását és az igényeinek megfelelő beállítását. Az alábbiakban a különböző módokról és azok működéséről olvashat.",
     "refrigerator_door_was_opened": "A hűtőszekrény ajtaját kinyitották, miközben a Távollét mód aktív volt.",
-    "CL_DV_TD_extra_dry_desc": "Választhat az extra szárazsági szintek, a +, ++ és a +++ között."
+    "CL_DV_TD_extra_dry_desc": "Választhat az extra szárazsági szintek, a +, ++ és a +++ között.",
+    "CL_DV_RF_cleaning_delay": "Késleltetés",
+    "CL_DV_RF_cleaning_weeks": "Hetek",
+    "CL_DV_RF_cleaning_months": "Hónapok",
+    "CL_DV_RF_cleaning_days": "napok",
+    "CL_DV_RF_cleaning_day": "Napi fogyasztás",
+    "CL_DV_RF_cleaning_week": "Hét",
+    "CL_DV_RF_cleaning_month": "Hónap"
 }
