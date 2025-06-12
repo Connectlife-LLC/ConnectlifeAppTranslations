@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "buka program Aplikasi",
     "CL_DV_TD_mode_desc": "Mode program memungkinkan Anda menyesuaikan program pengeringan dan menyesuaikannya berdasarkan kebutuhan Anda. Di bawah ini Anda dapat membaca tentang berbagai mode dan fungsinya.",
     "refrigerator_door_was_opened": "Pintu kulkas dibuka saat Mode Jauh aktif.",
-    "CL_DV_TD_extra_dry_desc": "Anda dapat memilih antara tingkat kekeringan ekstra, +, ++, dan +++."
+    "CL_DV_TD_extra_dry_desc": "Anda dapat memilih antara tingkat kekeringan ekstra, +, ++, dan +++.",
+    "CL_DV_RF_cleaning_delay": "Menunda",
+    "CL_DV_RF_cleaning_weeks": "Minggu",
+    "CL_DV_RF_cleaning_months": "Bulan",
+    "CL_DV_RF_cleaning_days": "hari",
+    "CL_DV_RF_cleaning_day": "Pemakaian harian",
+    "CL_DV_RF_cleaning_week": "Minggu",
+    "CL_DV_RF_cleaning_month": "bulan"
 }

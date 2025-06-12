@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "mở một chương trình ứng dụng",
     "CL_DV_TD_mode_desc": "Chế độ chương trình cho phép bạn tùy chỉnh chương trình sấy và điều chỉnh nó dựa trên nhu cầu của bạn. Dưới đây bạn có thể đọc về các chế độ khác nhau và chức năng của chúng.",
     "refrigerator_door_was_opened": "Cửa tủ lạnh bị mở khi chế độ Vắng nhà đang hoạt động.",
-    "CL_DV_TD_extra_dry_desc": "Bạn có thể lựa chọn giữa các mức độ khô bổ sung +, ++ và +++."
+    "CL_DV_TD_extra_dry_desc": "Bạn có thể lựa chọn giữa các mức độ khô bổ sung +, ++ và +++.",
+    "CL_DV_RF_cleaning_delay": "Trì hoãn",
+    "CL_DV_RF_cleaning_weeks": "Tuần",
+    "CL_DV_RF_cleaning_months": "Tháng",
+    "CL_DV_RF_cleaning_days": "ngày",
+    "CL_DV_RF_cleaning_day": "Ngày",
+    "CL_DV_RF_cleaning_week": "Tuần",
+    "CL_DV_RF_cleaning_month": "tháng"
 }

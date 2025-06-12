@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "打开一个App程序",
     "CL_DV_TD_mode_desc": "程序模式允许您自定义烘干程序，并根据您的需求进行调整。您可以阅读下文，了解不同模式及其功能。 ",
     "refrigerator_door_was_opened": "在离开模式激活时冰箱门被打开。",
-    "CL_DV_TD_extra_dry_desc": "您可以选择额外的干燥程度 +、++ 和 +++。"
+    "CL_DV_TD_extra_dry_desc": "您可以选择额外的干燥程度 +、++ 和 +++。",
+    "CL_DV_RF_cleaning_delay": "延迟",
+    "CL_DV_RF_cleaning_weeks": "周",
+    "CL_DV_RF_cleaning_months": "月",
+    "CL_DV_RF_cleaning_days": "天",
+    "CL_DV_RF_cleaning_day": "天",
+    "CL_DV_RF_cleaning_week": "周",
+    "CL_DV_RF_cleaning_month": "月"
 }

@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "ouvrir un programme d'application",
     "CL_DV_TD_mode_desc": "Le mode Programme vous permet de personnaliser votre programme de séchage et de l'ajuster en fonction de vos besoins. Ci-dessous, vous pouvez en savoir plus sur les différents modes et leurs fonctionnalités.",
     "refrigerator_door_was_opened": "La porte du réfrigérateur a été ouverte alors que le mode Absent était actif.",
-    "CL_DV_TD_extra_dry_desc": "Vous pouvez choisir entre les niveaux de sécheresse supplémentaires +, ++ et +++."
+    "CL_DV_TD_extra_dry_desc": "Vous pouvez choisir entre les niveaux de sécheresse supplémentaires +, ++ et +++.",
+    "CL_DV_RF_cleaning_delay": "Retarder",
+    "CL_DV_RF_cleaning_weeks": "Semaines",
+    "CL_DV_RF_cleaning_months": "Mois",
+    "CL_DV_RF_cleaning_days": "jours",
+    "CL_DV_RF_cleaning_day": "Jour",
+    "CL_DV_RF_cleaning_week": "Semaine",
+    "CL_DV_RF_cleaning_month": "Mois"
 }

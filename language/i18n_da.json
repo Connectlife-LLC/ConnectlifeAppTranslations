@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "åbn et app-program",
     "CL_DV_TD_mode_desc": "Programtilstand giver dig mulighed for at tilpasse dit tørreprogram og justere det baseret på dine behov. Nedenfor kan du læse om de forskellige tilstande og deres funktionalitet.",
     "refrigerator_door_was_opened": "Køleskabsdøren blev åbnet, mens væk-tilstand var aktiv.",
-    "CL_DV_TD_extra_dry_desc": "Du kan vælge mellem ekstra tørhedsniveauer, +, ++ og +++."
+    "CL_DV_TD_extra_dry_desc": "Du kan vælge mellem ekstra tørhedsniveauer, +, ++ og +++.",
+    "CL_DV_RF_cleaning_delay": "Forsinke",
+    "CL_DV_RF_cleaning_weeks": "Uger",
+    "CL_DV_RF_cleaning_months": "måneder",
+    "CL_DV_RF_cleaning_days": "dagene",
+    "CL_DV_RF_cleaning_day": "Dagligt forbrug",
+    "CL_DV_RF_cleaning_week": "Uge",
+    "CL_DV_RF_cleaning_month": "Måned"
 }

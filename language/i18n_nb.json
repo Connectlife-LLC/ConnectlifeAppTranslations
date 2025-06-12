@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "åpne et appprogram",
     "CL_DV_TD_mode_desc": "Programmodus lar deg tilpasse tørkeprogrammet og justere det basert på dine behov. Nedenfor kan du lese om de forskjellige modusene og deres funksjonalitet.",
     "refrigerator_door_was_opened": "Kjøleskapsdøren ble åpnet mens Bortemodus var aktiv.",
-    "CL_DV_TD_extra_dry_desc": "Du kan velge mellom ekstra tørrhetsnivåer, +, ++ og +++."
+    "CL_DV_TD_extra_dry_desc": "Du kan velge mellom ekstra tørrhetsnivåer, +, ++ og +++.",
+    "CL_DV_RF_cleaning_delay": "Forsinkelse",
+    "CL_DV_RF_cleaning_weeks": "Uker",
+    "CL_DV_RF_cleaning_months": "Måneder",
+    "CL_DV_RF_cleaning_days": "dager",
+    "CL_DV_RF_cleaning_day": "Daglig forbruk",
+    "CL_DV_RF_cleaning_week": "Uke",
+    "CL_DV_RF_cleaning_month": "måned"
 }

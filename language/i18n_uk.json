@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "відкрити програму-додаток",
     "CL_DV_TD_mode_desc": "Програмний режим дозволяє налаштувати програму сушіння та налаштувати її відповідно до ваших потреб. Нижче ви можете прочитати про різні режими та їхні функції.",
     "refrigerator_door_was_opened": "Дверцята холодильника були відчинені, коли активовано режим «Відсутність».",
-    "CL_DV_TD_extra_dry_desc": "Ви можете вибрати між додатковим рівнем сухості: +, ++ та +++."
+    "CL_DV_TD_extra_dry_desc": "Ви можете вибрати між додатковим рівнем сухості: +, ++ та +++.",
+    "CL_DV_RF_cleaning_delay": "Затримка",
+    "CL_DV_RF_cleaning_weeks": "Тижні",
+    "CL_DV_RF_cleaning_months": "Місяці",
+    "CL_DV_RF_cleaning_days": "дн.",
+    "CL_DV_RF_cleaning_day": "День",
+    "CL_DV_RF_cleaning_week": "тиждень",
+    "CL_DV_RF_cleaning_month": "місяць"
 }
