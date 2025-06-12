@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "یک برنامه App باز کنید",
     "CL_DV_TD_mode_desc": "حالت برنامه به شما امکان می دهد برنامه خشک کردن خود را سفارشی کنید و آن را بر اساس نیاز خود تنظیم کنید. در زیر می توانید در مورد حالت های مختلف و عملکرد آنها مطالعه کنید.",
     "refrigerator_door_was_opened": "درب یخچال در حالی که حالت «حالت دور از دسترس» فعال است، باز شده است.",
-    "CL_DV_TD_extra_dry_desc": "می‌توانید بین سطوح خشکی اضافی، +، ++ و +++ یکی را انتخاب کنید."
+    "CL_DV_TD_extra_dry_desc": "می‌توانید بین سطوح خشکی اضافی، +، ++ و +++ یکی را انتخاب کنید.",
+    "CL_DV_RF_cleaning_delay": "تاخیر انداختن",
+    "CL_DV_RF_cleaning_weeks": "هفته‌ها",
+    "CL_DV_RF_cleaning_months": "ماه ها",
+    "CL_DV_RF_cleaning_days": "روز",
+    "CL_DV_RF_cleaning_day": "روز",
+    "CL_DV_RF_cleaning_week": "هفته",
+    "CL_DV_RF_cleaning_month": "ماه"
 }
