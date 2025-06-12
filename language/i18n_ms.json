@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "buka program Apl",
     "CL_DV_TD_mode_desc": "Mod program membolehkan anda menyesuaikan program pengeringan anda dan melaraskannya berdasarkan keperluan anda. Di bawah anda boleh membaca tentang mod yang berbeza dan fungsinya.",
     "refrigerator_door_was_opened": "Pintu peti sejuk dibuka semasa Mod Jauh aktif.",
-    "CL_DV_TD_extra_dry_desc": "Anda boleh memilih antara tahap kekeringan tambahan, +, ++ dan +++."
+    "CL_DV_TD_extra_dry_desc": "Anda boleh memilih antara tahap kekeringan tambahan, +, ++ dan +++.",
+    "CL_DV_RF_cleaning_delay": "Kelewatan",
+    "CL_DV_RF_cleaning_weeks": "minggu",
+    "CL_DV_RF_cleaning_months": "Berbulan-bulan",
+    "CL_DV_RF_cleaning_days": "hari",
+    "CL_DV_RF_cleaning_day": "Penggunaan harian",
+    "CL_DV_RF_cleaning_week": "Minggu",
+    "CL_DV_RF_cleaning_month": "bulan"
 }

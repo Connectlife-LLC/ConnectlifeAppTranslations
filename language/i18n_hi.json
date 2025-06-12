@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "ऐप प्रोग्राम खोलें",
     "CL_DV_TD_mode_desc": "प्रोग्राम मोड आपको अपने सुखाने के कार्यक्रम को अनुकूलित करने और अपनी आवश्यकताओं के आधार पर इसे समायोजित करने की अनुमति देता है। नीचे आप विभिन्न मोड और उनकी कार्यक्षमता के बारे में पढ़ सकते हैं।",
     "refrigerator_door_was_opened": "अवे मोड सक्रिय होने पर रेफ्रिजरेटर का दरवाज़ा खुला था।",
-    "CL_DV_TD_extra_dry_desc": "आप अतिरिक्त सूखापन स्तर, +, ++, और +++ के बीच चयन कर सकते हैं।"
+    "CL_DV_TD_extra_dry_desc": "आप अतिरिक्त सूखापन स्तर, +, ++, और +++ के बीच चयन कर सकते हैं।",
+    "CL_DV_RF_cleaning_delay": "देरी",
+    "CL_DV_RF_cleaning_weeks": "हफ्तों",
+    "CL_DV_RF_cleaning_months": "महीने",
+    "CL_DV_RF_cleaning_days": "दिनों",
+    "CL_DV_RF_cleaning_day": "दिन की खपत",
+    "CL_DV_RF_cleaning_week": "सप्ताह",
+    "CL_DV_RF_cleaning_month": "महीना"
 }

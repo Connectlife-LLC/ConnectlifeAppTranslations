@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "otevřít aplikaci",
     "CL_DV_TD_mode_desc": "Programový režim vám umožňuje přizpůsobit si program sušení a upravit jej podle vašich potřeb. Níže si můžete přečíst o různých režimech a jejich funkčnosti.",
     "refrigerator_door_was_opened": "Dveře chladničky byly otevřeny, když byl aktivní režim Pryč.",
-    "CL_DV_TD_extra_dry_desc": "Můžete si vybrat mezi extra stupni suchosti, +, ++ a +++."
+    "CL_DV_TD_extra_dry_desc": "Můžete si vybrat mezi extra stupni suchosti, +, ++ a +++.",
+    "CL_DV_RF_cleaning_delay": "Zpoždění",
+    "CL_DV_RF_cleaning_weeks": "Týdny",
+    "CL_DV_RF_cleaning_months": "měsíce",
+    "CL_DV_RF_cleaning_days": "dny",
+    "CL_DV_RF_cleaning_day": "Denní spotřeba",
+    "CL_DV_RF_cleaning_week": "Týden",
+    "CL_DV_RF_cleaning_month": "Měsíc"
 }
