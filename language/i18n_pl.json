@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "otwórz program aplikacji",
     "CL_DV_TD_mode_desc": "Tryb programu umożliwia dostosowanie programu suszenia do własnych potrzeb. Poniżej możesz przeczytać o różnych trybach i ich funkcjonalności.",
     "refrigerator_door_was_opened": "Drzwi lodówki zostały otwarte, gdy aktywny był tryb nieobecności.",
-    "CL_DV_TD_extra_dry_desc": "Możesz wybierać pomiędzy poziomami ekstra suchości +, ++ i +++."
+    "CL_DV_TD_extra_dry_desc": "Możesz wybierać pomiędzy poziomami ekstra suchości +, ++ i +++.",
+    "CL_DV_RF_cleaning_delay": "Opóżnienie",
+    "CL_DV_RF_cleaning_weeks": "Tygodnie",
+    "CL_DV_RF_cleaning_months": "Miesiące",
+    "CL_DV_RF_cleaning_days": "dni",
+    "CL_DV_RF_cleaning_day": "Zużycie dzienne",
+    "CL_DV_RF_cleaning_week": "Tydzień",
+    "CL_DV_RF_cleaning_month": "miesiąc"
 }

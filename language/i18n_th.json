@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "เปิดโปรแกรม App",
     "CL_DV_TD_mode_desc": "โหมดโปรแกรมช่วยให้คุณปรับแต่งโปรแกรมการอบแห้งและปรับเปลี่ยนตามความต้องการของคุณได้ ด้านล่างนี้คุณสามารถอ่านเกี่ยวกับโหมดต่างๆ และฟังก์ชันการทำงานได้",
     "refrigerator_door_was_opened": "ประตูตู้เย็นเปิดออกขณะที่โหมดไม่อยู่บ้านกำลังทำงาน",
-    "CL_DV_TD_extra_dry_desc": "คุณสามารถเลือกระดับความแห้งพิเศษ +, ++ และ +++ ได้"
+    "CL_DV_TD_extra_dry_desc": "คุณสามารถเลือกระดับความแห้งพิเศษ +, ++ และ +++ ได้",
+    "CL_DV_RF_cleaning_delay": "ล่าช้า",
+    "CL_DV_RF_cleaning_weeks": "สัปดาห์",
+    "CL_DV_RF_cleaning_months": "เดือน",
+    "CL_DV_RF_cleaning_days": "วัน",
+    "CL_DV_RF_cleaning_day": "วัน",
+    "CL_DV_RF_cleaning_week": "สัปดาห์",
+    "CL_DV_RF_cleaning_month": "เดือน"
 }

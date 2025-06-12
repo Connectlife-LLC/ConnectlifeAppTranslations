@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "öppna ett appprogram",
     "CL_DV_TD_mode_desc": "Programläget låter dig anpassa ditt torkprogram och justera det baserat på dina behov. Nedan kan du läsa om de olika lägena och deras funktionalitet.",
     "refrigerator_door_was_opened": "Kylskåpsdörren öppnades medan Bortaläge var aktivt.",
-    "CL_DV_TD_extra_dry_desc": "Du kan välja mellan extra torrhetsnivåer, +, ++ och +++."
+    "CL_DV_TD_extra_dry_desc": "Du kan välja mellan extra torrhetsnivåer, +, ++ och +++.",
+    "CL_DV_RF_cleaning_delay": "Dröjsmål",
+    "CL_DV_RF_cleaning_weeks": "Veckor",
+    "CL_DV_RF_cleaning_months": "månader",
+    "CL_DV_RF_cleaning_days": "dagar",
+    "CL_DV_RF_cleaning_day": "Dagskonsumtion",
+    "CL_DV_RF_cleaning_week": "Vecka",
+    "CL_DV_RF_cleaning_month": "Månad"
 }

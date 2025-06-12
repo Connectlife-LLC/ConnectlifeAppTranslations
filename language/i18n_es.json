@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "abrir un programa de aplicación",
     "CL_DV_TD_mode_desc": "El modo de programa le permite personalizar su programa de secado y ajustarlo según sus necesidades. A continuación puede leer sobre los diferentes modos y su funcionalidad.",
     "refrigerator_door_was_opened": "La puerta del refrigerador se abrió mientras el Modo Ausente estaba activo.",
-    "CL_DV_TD_extra_dry_desc": "Puede elegir entre niveles de sequedad adicionales, +, ++ y +++."
+    "CL_DV_TD_extra_dry_desc": "Puede elegir entre niveles de sequedad adicionales, +, ++ y +++.",
+    "CL_DV_RF_cleaning_delay": "Demorar",
+    "CL_DV_RF_cleaning_weeks": "Semanas",
+    "CL_DV_RF_cleaning_months": "Meses",
+    "CL_DV_RF_cleaning_days": "días",
+    "CL_DV_RF_cleaning_day": "Día",
+    "CL_DV_RF_cleaning_week": "Semana",
+    "CL_DV_RF_cleaning_month": "Mes"
 }

@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "افتح برنامج التطبيق",
     "CL_DV_TD_mode_desc": "يتيح لك وضع البرنامج تخصيص برنامج التجفيف الخاص بك وضبطه وفقًا لاحتياجاتك. أدناه يمكنك أن تقرأ عن الأوضاع المختلفة ووظائفها.",
     "refrigerator_door_was_opened": "تم فتح باب الثلاجة أثناء تنشيط الوضع بعيدًا.",
-    "CL_DV_TD_extra_dry_desc": "يمكنك الاختيار بين مستويات الجفاف الإضافية، +، ++، و +++."
+    "CL_DV_TD_extra_dry_desc": "يمكنك الاختيار بين مستويات الجفاف الإضافية، +، ++، و +++.",
+    "CL_DV_RF_cleaning_delay": "تأخر",
+    "CL_DV_RF_cleaning_weeks": "أسابيع",
+    "CL_DV_RF_cleaning_months": "شهور",
+    "CL_DV_RF_cleaning_days": "أيام",
+    "CL_DV_RF_cleaning_day": "استهلاك اليوم",
+    "CL_DV_RF_cleaning_week": "أسبوع",
+    "CL_DV_RF_cleaning_month": "شهر"
 }

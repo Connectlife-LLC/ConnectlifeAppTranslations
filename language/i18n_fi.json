@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "avaa sovellusohjelma",
     "CL_DV_TD_mode_desc": "Ohjelmatilan avulla voit mukauttaa kuivausohjelmaasi ja säätää sitä tarpeidesi mukaan. Alta voit lukea eri tiloista ja niiden toimivuudesta.",
     "refrigerator_door_was_opened": "Jääkaapin ovi avattiin poissaolotilan ollessa aktiivinen.",
-    "CL_DV_TD_extra_dry_desc": "Voit valita lisäkuivuustasojen +, ++ ja +++ väliltä."
+    "CL_DV_TD_extra_dry_desc": "Voit valita lisäkuivuustasojen +, ++ ja +++ väliltä.",
+    "CL_DV_RF_cleaning_delay": "Viive",
+    "CL_DV_RF_cleaning_weeks": "Viikot",
+    "CL_DV_RF_cleaning_months": "Kuukaudet",
+    "CL_DV_RF_cleaning_days": "päivää",
+    "CL_DV_RF_cleaning_day": "Päiväkulutus",
+    "CL_DV_RF_cleaning_week": "Viikko",
+    "CL_DV_RF_cleaning_month": "kuukausi"
 }
