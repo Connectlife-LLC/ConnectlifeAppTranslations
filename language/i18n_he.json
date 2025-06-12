@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "לפתוח תוכנית אפליקציה",
     "CL_DV_TD_mode_desc": "מצב תוכנית מאפשר לך להתאים אישית את תוכנית הייבוש שלך ולהתאים אותה בהתאם לצרכים שלך. להלן תוכלו לקרוא על המצבים השונים והפונקציונליות שלהם.",
     "refrigerator_door_was_opened": "דלת המקרר נפתחה בזמן שמצב \"היעדרות\" היה פעיל.",
-    "CL_DV_TD_extra_dry_desc": "ניתן לבחור בין רמות יובש נוספות, +, ++ ו-+++."
+    "CL_DV_TD_extra_dry_desc": "ניתן לבחור בין רמות יובש נוספות, +, ++ ו-+++.",
+    "CL_DV_RF_cleaning_delay": "לְעַכֵּב",
+    "CL_DV_RF_cleaning_weeks": "שבועות",
+    "CL_DV_RF_cleaning_months": "חודשים",
+    "CL_DV_RF_cleaning_days": "ימים",
+    "CL_DV_RF_cleaning_day": "צריכה יומית",
+    "CL_DV_RF_cleaning_week": "שָׁבוּעַ",
+    "CL_DV_RF_cleaning_month": "חודש"
 }

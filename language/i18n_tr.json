@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "Bir Uygulama programı açın",
     "CL_DV_TD_mode_desc": "Program modu, kurutma programınızı kişiselleştirmenize ve ihtiyaçlarınıza göre ayarlamanıza olanak tanır. Aşağıda farklı modlar ve işlevleri hakkında bilgi edinebilirsiniz.",
     "refrigerator_door_was_opened": "Uzakta Modu etkinken buzdolabı kapağı açıldı.",
-    "CL_DV_TD_extra_dry_desc": "Ekstra kuruluk seviyeleri olan +, ++ ve +++ arasından seçim yapabilirsiniz."
+    "CL_DV_TD_extra_dry_desc": "Ekstra kuruluk seviyeleri olan +, ++ ve +++ arasından seçim yapabilirsiniz.",
+    "CL_DV_RF_cleaning_delay": "Gecikme",
+    "CL_DV_RF_cleaning_weeks": "Haftalar",
+    "CL_DV_RF_cleaning_months": "Aylar",
+    "CL_DV_RF_cleaning_days": "günler",
+    "CL_DV_RF_cleaning_day": "Gün tüketimi",
+    "CL_DV_RF_cleaning_week": "Hafta",
+    "CL_DV_RF_cleaning_month": "ay"
 }

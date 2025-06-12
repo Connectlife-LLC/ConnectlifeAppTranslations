@@ -5599,5 +5599,12 @@
     "CL_CF_AM_tv_open_app_program": "deschideți un program de aplicație",
     "CL_DV_TD_mode_desc": "Modul program vă permite să personalizați programul de uscare și să îl ajustați în funcție de nevoile dvs. Mai jos puteți citi despre diferitele moduri și funcționalitatea acestora.",
     "refrigerator_door_was_opened": "Ușa frigiderului a fost deschisă în timp ce modul Plecat era activ.",
-    "CL_DV_TD_extra_dry_desc": "Poți alege între niveluri suplimentare de uscăciune, +, ++ și +++."
+    "CL_DV_TD_extra_dry_desc": "Poți alege între niveluri suplimentare de uscăciune, +, ++ și +++.",
+    "CL_DV_RF_cleaning_delay": "Întârziere",
+    "CL_DV_RF_cleaning_weeks": "Săptămâni",
+    "CL_DV_RF_cleaning_months": "Luni",
+    "CL_DV_RF_cleaning_days": "zile",
+    "CL_DV_RF_cleaning_day": "Consum pe zi",
+    "CL_DV_RF_cleaning_week": "Săptămână",
+    "CL_DV_RF_cleaning_month": "Lună"
 }
