@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "päivää",
     "CL_DV_RF_cleaning_day": "Päiväkulutus",
     "CL_DV_RF_cleaning_week": "Viikko",
-    "CL_DV_RF_cleaning_month": "kuukausi"
+    "CL_DV_RF_cleaning_month": "kuukausi",
+    "CL_CF_AU_delete_scene_tip": "Kohtaus \"##\" on poistettu",
+    "CL_CF_AU_added_to_homepage": "lisätty kotisivulle"
 }

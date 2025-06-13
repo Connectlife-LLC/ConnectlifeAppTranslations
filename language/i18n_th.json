@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "วัน",
     "CL_DV_RF_cleaning_day": "วัน",
     "CL_DV_RF_cleaning_week": "สัปดาห์",
-    "CL_DV_RF_cleaning_month": "เดือน"
+    "CL_DV_RF_cleaning_month": "เดือน",
+    "CL_CF_AU_delete_scene_tip": "ฉาก \"##\" ถูกลบไปแล้ว",
+    "CL_CF_AU_added_to_homepage": "เพิ่มไปยังหน้าแรกแล้ว"
 }
