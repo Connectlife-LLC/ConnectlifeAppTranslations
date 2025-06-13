@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "dnevi",
     "CL_DV_RF_cleaning_day": "Dan",
     "CL_DV_RF_cleaning_week": "teden",
-    "CL_DV_RF_cleaning_month": "mesec"
+    "CL_DV_RF_cleaning_month": "mesec",
+    "CL_CF_AU_delete_scene_tip": "Prizor \"##\" je bil izbrisan",
+    "CL_CF_AU_added_to_homepage": "dodano na domačo stran"
 }

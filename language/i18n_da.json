@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "dagene",
     "CL_DV_RF_cleaning_day": "Dagligt forbrug",
     "CL_DV_RF_cleaning_week": "Uge",
-    "CL_DV_RF_cleaning_month": "Måned"
+    "CL_DV_RF_cleaning_month": "Måned",
+    "CL_CF_AU_delete_scene_tip": "Scenen \"##\" er blevet slettet",
+    "CL_CF_AU_added_to_homepage": "tilføjet til hjemmesiden"
 }
