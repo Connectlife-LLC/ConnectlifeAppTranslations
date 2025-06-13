@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "jours",
     "CL_DV_RF_cleaning_day": "Jour",
     "CL_DV_RF_cleaning_week": "Semaine",
-    "CL_DV_RF_cleaning_month": "Mois"
+    "CL_DV_RF_cleaning_month": "Mois",
+    "CL_CF_AU_delete_scene_tip": "La scène \"##\" a été supprimée",
+    "CL_CF_AU_added_to_homepage": "ajouté à la page d'accueil"
 }

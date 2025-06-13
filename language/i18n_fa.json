@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "روز",
     "CL_DV_RF_cleaning_day": "روز",
     "CL_DV_RF_cleaning_week": "هفته",
-    "CL_DV_RF_cleaning_month": "ماه"
+    "CL_DV_RF_cleaning_month": "ماه",
+    "CL_CF_AU_delete_scene_tip": "صحنه‌ی «##» حذف شده است",
+    "CL_CF_AU_added_to_homepage": "به صفحه اصلی اضافه شد"
 }

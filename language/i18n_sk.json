@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "dni",
     "CL_DV_RF_cleaning_day": "Denná spotreba",
     "CL_DV_RF_cleaning_week": "týždeň",
-    "CL_DV_RF_cleaning_month": "mesiac"
+    "CL_DV_RF_cleaning_month": "mesiac",
+    "CL_CF_AU_delete_scene_tip": "Scéna „##“ bola odstránená",
+    "CL_CF_AU_added_to_homepage": "pridané na domovskú stránku"
 }

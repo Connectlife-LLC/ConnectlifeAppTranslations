@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "zile",
     "CL_DV_RF_cleaning_day": "Consum pe zi",
     "CL_DV_RF_cleaning_week": "Săptămână",
-    "CL_DV_RF_cleaning_month": "Lună"
+    "CL_DV_RF_cleaning_month": "Lună",
+    "CL_CF_AU_delete_scene_tip": "Scena „##” a fost ștearsă.",
+    "CL_CF_AU_added_to_homepage": "adăugat pe pagina principală"
 }
