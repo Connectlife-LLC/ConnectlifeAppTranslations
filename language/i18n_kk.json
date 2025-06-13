@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "күн",
     "CL_DV_RF_cleaning_day": "Күнделікті тұтыну",
     "CL_DV_RF_cleaning_week": "Апта",
-    "CL_DV_RF_cleaning_month": "Ай"
+    "CL_DV_RF_cleaning_month": "Ай",
+    "CL_CF_AU_delete_scene_tip": "\"##\" көрінісі жойылды",
+    "CL_CF_AU_added_to_homepage": "басты бетке қосылды"
 }

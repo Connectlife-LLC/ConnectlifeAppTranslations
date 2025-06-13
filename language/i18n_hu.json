@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "napok",
     "CL_DV_RF_cleaning_day": "Napi fogyasztás",
     "CL_DV_RF_cleaning_week": "Hét",
-    "CL_DV_RF_cleaning_month": "Hónap"
+    "CL_DV_RF_cleaning_month": "Hónap",
+    "CL_CF_AU_delete_scene_tip": "A(z) „##” jelenet törölve lett.",
+    "CL_CF_AU_added_to_homepage": "felvéve a kezdőlapra"
 }
