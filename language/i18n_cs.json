@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "dny",
     "CL_DV_RF_cleaning_day": "Denní spotřeba",
     "CL_DV_RF_cleaning_week": "Týden",
-    "CL_DV_RF_cleaning_month": "Měsíc"
+    "CL_DV_RF_cleaning_month": "Měsíc",
+    "CL_CF_AU_delete_scene_tip": "Scéna „##“ byla smazána.",
+    "CL_CF_AU_added_to_homepage": "přidáno na domovskou stránku"
 }

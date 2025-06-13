@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "giorni",
     "CL_DV_RF_cleaning_day": "Consumo giornaliero",
     "CL_DV_RF_cleaning_week": "Settimana",
-    "CL_DV_RF_cleaning_month": "Mese"
+    "CL_DV_RF_cleaning_month": "Mese",
+    "CL_CF_AU_delete_scene_tip": "La scena \"##\" è stata eliminata",
+    "CL_CF_AU_added_to_homepage": "aggiunto alla homepage"
 }

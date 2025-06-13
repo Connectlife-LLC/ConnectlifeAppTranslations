@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "天",
     "CL_DV_RF_cleaning_day": "天",
     "CL_DV_RF_cleaning_week": "周",
-    "CL_DV_RF_cleaning_month": "月"
+    "CL_DV_RF_cleaning_month": "月",
+    "CL_CF_AU_delete_scene_tip": "“##”场景已被删除",
+    "CL_CF_AU_added_to_homepage": "已添加到主页"
 }

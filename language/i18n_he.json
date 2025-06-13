@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "ימים",
     "CL_DV_RF_cleaning_day": "צריכה יומית",
     "CL_DV_RF_cleaning_week": "שָׁבוּעַ",
-    "CL_DV_RF_cleaning_month": "חודש"
+    "CL_DV_RF_cleaning_month": "חודש",
+    "CL_CF_AU_delete_scene_tip": "הסצנה \"##\" נמחקה",
+    "CL_CF_AU_added_to_homepage": "נוסף לדף הבית"
 }
