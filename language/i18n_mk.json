@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "денови",
     "CL_DV_RF_cleaning_day": "Дневна потрошувачка",
     "CL_DV_RF_cleaning_week": "Седмица",
-    "CL_DV_RF_cleaning_month": "месец"
+    "CL_DV_RF_cleaning_month": "месец",
+    "CL_CF_AU_delete_scene_tip": "Сцената „##“ е избришана",
+    "CL_CF_AU_added_to_homepage": "додадено на почетната страница"
 }

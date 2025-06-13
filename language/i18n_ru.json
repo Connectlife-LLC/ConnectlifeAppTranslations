@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "дн",
     "CL_DV_RF_cleaning_day": "Потребление в день",
     "CL_DV_RF_cleaning_week": "Неделя",
-    "CL_DV_RF_cleaning_month": "Месяц"
+    "CL_DV_RF_cleaning_month": "Месяц",
+    "CL_CF_AU_delete_scene_tip": "Сцена \"##\" удалена.",
+    "CL_CF_AU_added_to_homepage": "добавлено на домашнюю страницу"
 }

@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "dagar",
     "CL_DV_RF_cleaning_day": "Dagskonsumtion",
     "CL_DV_RF_cleaning_week": "Vecka",
-    "CL_DV_RF_cleaning_month": "Månad"
+    "CL_DV_RF_cleaning_month": "Månad",
+    "CL_CF_AU_delete_scene_tip": "Scenen \"##\" har raderats",
+    "CL_CF_AU_added_to_homepage": "tillagd på startsidan"
 }
