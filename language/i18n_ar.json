@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "أيام",
     "CL_DV_RF_cleaning_day": "استهلاك اليوم",
     "CL_DV_RF_cleaning_week": "أسبوع",
-    "CL_DV_RF_cleaning_month": "شهر"
+    "CL_DV_RF_cleaning_month": "شهر",
+    "CL_CF_AU_delete_scene_tip": "تم حذف المشهد \"##\"",
+    "CL_CF_AU_added_to_homepage": "تمت الإضافة إلى الصفحة الرئيسية"
 }

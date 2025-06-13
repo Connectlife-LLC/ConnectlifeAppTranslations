@@ -5606,5 +5606,7 @@
     "CL_DV_RF_cleaning_days": "날",
     "CL_DV_RF_cleaning_day": "하루 소비량",
     "CL_DV_RF_cleaning_week": "주",
-    "CL_DV_RF_cleaning_month": "월"
+    "CL_DV_RF_cleaning_month": "월",
+    "CL_CF_AU_delete_scene_tip": "\"##\" 장면이 삭제되었습니다.",
+    "CL_CF_AU_added_to_homepage": "홈페이지에 추가됨"
 }
