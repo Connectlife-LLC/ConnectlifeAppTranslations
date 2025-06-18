@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Thiết bị gần đó bị vô hiệu hóa cho ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth đã bị tắt đối với ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife cần các thiết bị Gần đó và vị trí chính xác để kết nối và xác định vị trí thiết bị. Bật chúng trong cài đặt điện thoại của bạn để có đầy đủ chức năng.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife cần quyền Bluetooth để kết nối và phát hiện vị trí thiết bị. Bật chúng trong cài đặt điện thoại của bạn để có đầy đủ chức năng.",
     "CL_CF_HP_enable_permissions": "BẬT QUYỀN",
     "CL_CF_HP_blue_power_off_title_android": "Bật Bluetooth cho thiết bị này",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth đã bị tắt đối với ConnectLife",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Tất cả các tài khoản đều không chính xác",
     "warranty_confirm_prompt_new": "Hãy đảm bảo thông tin bạn cung cấp là chính xác vì bạn sẽ không thể thay đổi thông tin sau khi nhấp vào \"Xác nhận và Tiếp tục\".",
     "CL_CF_SD_share_not_success": "Chia sẻ không thành công",
-    "CL_CF_SD_share_success": "Chia sẻ thành công"
+    "CL_CF_SD_share_success": "Chia sẻ thành công",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife cần quyền Bluetooth để kết nối và xác định vị trí thiết bị. Bật chúng trong cài đặt điện thoại của bạn để có đầy đủ chức năng.",
+    "CL_CF_name_not_more_25_length": "Tên thiết bị có độ dài tối đa là 25 ký tự"
 }

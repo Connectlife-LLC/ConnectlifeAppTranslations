@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "ConnectLife үшін жақын маңдағы құрылғылар өшірілген",
     "CL_CF_HP_blue_permission_off_title_ios": "ConnectLife үшін Bluetooth өшірілген",
     "CL_CF_HP_blue_permission_off_content_android": "Қосылу және құрылғы орындарын анықтау үшін ConnectLife қолданбасына Nearby құрылғылары мен нақты орын қажет. Толық жұмыс істеу үшін оларды телефон параметрлерінде қосыңыз.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife қолданбасына құрылғы орындарын қосу және анықтау үшін Bluetooth рұқсаты қажет. Толық жұмыс істеу үшін оларды телефон параметрлерінде қосыңыз.",
     "CL_CF_HP_enable_permissions": "РҰҚСАТТАРДЫ ҚОСУ",
     "CL_CF_HP_blue_power_off_title_android": "Осы құрылғы үшін Bluetooth қосыңыз",
     "CL_CF_HP_blue_power_off_title_ios": "ConnectLife үшін Bluetooth өшірілген",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Барлық тіркелгілер дұрыс емес",
     "warranty_confirm_prompt_new": "Сіз берген ақпараттың дұрыс екеніне көз жеткізіңіз, себебі «Растау және Жалғастыру» түймесін басқаннан кейін оны өзгерте алмайсыз.",
     "CL_CF_SD_share_not_success": "Бөлісу сәтсіз",
-    "CL_CF_SD_share_success": "Бөлісу сәтті болды"
+    "CL_CF_SD_share_success": "Бөлісу сәтті болды",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife қолданбасына қосылу және құрылғы орындарын анықтау үшін Bluetooth рұқсаты қажет. Толық жұмыс істеу үшін оларды телефон параметрлерінде қосыңыз.",
+    "CL_CF_name_not_more_25_length": "Құрылғы атауының максималды ұзындығы - 25 таңба"
 }

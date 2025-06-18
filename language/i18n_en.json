@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Nearby Devices Disabled for ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth Disabled for ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife needs Nearby devices and precise location to connect and determine device positions. Enable them in your phone's settings for full functionality.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife needs Bluetooth permission to connect and detect device positions. Enable them in your phone's settings for full functionality.",
     "CL_CF_HP_enable_permissions": "ENABLE PERMISSIONS",
     "CL_CF_HP_blue_power_off_title_android": "Turn on the Bluetooth for this device",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth Disabled for ConnectLife",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "All accounts is incorrect",
     "warranty_confirm_prompt_new": "Ensure the information you provide is correct, as you won’t be able to change it after clicking \"Confirm and Continue.\"",
     "CL_CF_SD_share_not_success": "Sharing not successful",
-    "CL_CF_SD_share_success": "Sharing successful"
+    "CL_CF_SD_share_success": "Sharing successful",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife needs Bluetooth permission to connect and determine device positions. Enable them in your phone's settings for full functionality.",
+    "CL_CF_name_not_more_25_length": "Appliance name maximum length is 25 characters"
 }

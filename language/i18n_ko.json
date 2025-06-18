@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "ConnectLife에서 근처 장치가 비활성화됨",
     "CL_CF_HP_blue_permission_off_title_ios": "ConnectLife에 대해 Bluetooth가 비활성화되었습니다.",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife는 연결 및 기기 위치 확인을 위해 주변 기기와 정확한 위치 정보를 필요로 합니다. 모든 기능을 사용하려면 휴대폰 설정에서 해당 기능을 활성화하세요.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife는 연결 및 기기 위치 감지를 위해 Bluetooth 권한이 필요합니다. 모든 기능을 사용하려면 휴대폰 설정에서 Bluetooth 권한을 활성화하세요.",
     "CL_CF_HP_enable_permissions": "권한 활성화",
     "CL_CF_HP_blue_power_off_title_android": "이 장치의 Bluetooth를 켜십시오.",
     "CL_CF_HP_blue_power_off_title_ios": "ConnectLife에 대해 Bluetooth가 비활성화되었습니다.",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "모든 계정이 올바르지 않습니다",
     "warranty_confirm_prompt_new": "\"확인 및 계속\"을 클릭한 후에는 정보를 변경할 수 없으므로 제공하는 정보가 정확한지 확인하세요.",
     "CL_CF_SD_share_not_success": "공유가 성공하지 못했습니다",
-    "CL_CF_SD_share_success": "공유 성공"
+    "CL_CF_SD_share_success": "공유 성공",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife는 연결 및 기기 위치 확인을 위해 Bluetooth 권한이 필요합니다. 모든 기능을 사용하려면 휴대폰 설정에서 Bluetooth 권한을 활성화하세요.",
+    "CL_CF_name_not_more_25_length": "기기 이름의 최대 길이는 25자입니다."
 }

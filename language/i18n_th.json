@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "อุปกรณ์ใกล้เคียงถูกปิดใช้งานสำหรับ ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "ปิดการใช้งาน Bluetooth สำหรับ ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife ต้องใช้อุปกรณ์ใกล้เคียงและตำแหน่งที่แม่นยำเพื่อเชื่อมต่อและระบุตำแหน่งอุปกรณ์ เปิดใช้งานในส่วนการตั้งค่าของโทรศัพท์เพื่อให้ใช้งานได้เต็มรูปแบบ",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife ต้องได้รับอนุญาตจาก Bluetooth เพื่อเชื่อมต่อและตรวจจับตำแหน่งอุปกรณ์ เปิดใช้งานในส่วนการตั้งค่าของโทรศัพท์เพื่อให้ใช้งานได้เต็มรูปแบบ",
     "CL_CF_HP_enable_permissions": "เปิดใช้งานการอนุญาต",
     "CL_CF_HP_blue_power_off_title_android": "เปิด Bluetooth สำหรับอุปกรณ์นี้",
     "CL_CF_HP_blue_power_off_title_ios": "ปิดการใช้งาน Bluetooth สำหรับ ConnectLife",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "บัญชีทั้งหมดไม่ถูกต้อง",
     "warranty_confirm_prompt_new": "ตรวจสอบให้แน่ใจว่าข้อมูลที่คุณให้ถูกต้อง เนื่องจากคุณจะไม่สามารถเปลี่ยนแปลงได้หลังจากคลิก \"ยืนยันและดำเนินการต่อ\"",
     "CL_CF_SD_share_not_success": "การแบ่งปันไม่ประสบผลสำเร็จ",
-    "CL_CF_SD_share_success": "แบ่งปันความสำเร็จ"
+    "CL_CF_SD_share_success": "แบ่งปันความสำเร็จ",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife ต้องได้รับอนุญาตจาก Bluetooth เพื่อเชื่อมต่อและกำหนดตำแหน่งอุปกรณ์ เปิดใช้งานในส่วนการตั้งค่าของโทรศัพท์เพื่อให้ใช้งานได้เต็มรูปแบบ",
+    "CL_CF_name_not_more_25_length": "ชื่ออุปกรณ์ต้องมีความยาวสูงสุด 25 อักขระ"
 }
