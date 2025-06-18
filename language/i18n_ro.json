@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "zile",
     "CL_DV_RF_cleaning_day": "Consum pe zi",
     "CL_DV_RF_cleaning_week": "Săptămână",
-    "CL_DV_RF_cleaning_month": "Lună"
+    "CL_DV_RF_cleaning_month": "Lună",
+    "CL_CF_AU_delete_scene_tip": "Scena „##” a fost ștearsă.",
+    "CL_CF_AU_added_to_homepage": "adăugat pe pagina principală",
+    "CL_DV_DW_close_the_door": "Închideți ușile pentru a porni un program",
+    "CL_CF_FW_update_tips_content": "Actualizăm periodic dispozitivul pentru a îmbunătăți funcțiile și securitatea. Actualizați acum pentru cele mai recente îmbunătățiri.",
+    "CL_CF_SD_share_enter_email": "Introduceți adresa de e-mail",
+    "no_wifi": "Fără Wi-Fi",
+    "CL_CF_AU_Time_period": "Perioadă de timp",
+    "CL_CF_SD_share_all_accounts_incorrect": "Toate conturile sunt incorecte",
+    "warranty_confirm_prompt_new": "Asigurați-vă că informațiile pe care le furnizați sunt corecte, deoarece nu le veți putea modifica după ce faceți clic pe „Confirmați și continuați”.",
+    "CL_CF_SD_share_not_success": "Partajarea nu a reușit",
+    "CL_CF_SD_share_success": "Partajare reușită"
 }

@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "päivää",
     "CL_DV_RF_cleaning_day": "Päiväkulutus",
     "CL_DV_RF_cleaning_week": "Viikko",
-    "CL_DV_RF_cleaning_month": "kuukausi"
+    "CL_DV_RF_cleaning_month": "kuukausi",
+    "CL_CF_AU_delete_scene_tip": "Kohtaus \"##\" on poistettu",
+    "CL_CF_AU_added_to_homepage": "lisätty kotisivulle",
+    "CL_DV_DW_close_the_door": "Sulje ovet aloittaaksesi ohjelman",
+    "CL_CF_FW_update_tips_content": "Päivitämme laitettasi säännöllisesti parantaaksemme ominaisuuksia ja turvallisuutta. Päivitä nyt saadaksesi uusimmat parannukset.",
+    "CL_CF_SD_share_enter_email": "Anna sähköpostiosoite",
+    "no_wifi": "Ei-WiFi",
+    "CL_CF_AU_Time_period": "Aikajakso",
+    "CL_CF_SD_share_all_accounts_incorrect": "Kaikki tilit ovat virheellisiä",
+    "warranty_confirm_prompt_new": "Varmista, että antamasi tiedot ovat oikein, sillä et voi muuttaa niitä napsautettuasi \"Vahvista ja jatka\".",
+    "CL_CF_SD_share_not_success": "Jakaminen ei onnistunut",
+    "CL_CF_SD_share_success": "Jakaminen onnistui"
 }

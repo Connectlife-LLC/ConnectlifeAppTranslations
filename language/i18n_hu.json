@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "napok",
     "CL_DV_RF_cleaning_day": "Napi fogyasztás",
     "CL_DV_RF_cleaning_week": "Hét",
-    "CL_DV_RF_cleaning_month": "Hónap"
+    "CL_DV_RF_cleaning_month": "Hónap",
+    "CL_CF_AU_delete_scene_tip": "A(z) „##” jelenet törölve lett.",
+    "CL_CF_AU_added_to_homepage": "felvéve a kezdőlapra",
+    "CL_DV_DW_close_the_door": "Zárja be az ajtókat a program elindításához",
+    "CL_CF_FW_update_tips_content": "Rendszeresen frissítjük az eszközödet a funkciók és a biztonság fejlesztése érdekében. Frissíts most a legújabb fejlesztésekért.",
+    "CL_CF_SD_share_enter_email": "Írja be az e-mail címét",
+    "no_wifi": "Nem Wi-Fi",
+    "CL_CF_AU_Time_period": "Időszak",
+    "CL_CF_SD_share_all_accounts_incorrect": "Minden számla hibás",
+    "warranty_confirm_prompt_new": "Győződjön meg róla, hogy a megadott információk helyesek, mivel a „Megerősítés és folytatás” gombra kattintás után már nem tudja módosítani azokat.",
+    "CL_CF_SD_share_not_success": "A megosztás nem sikerült",
+    "CL_CF_SD_share_success": "Sikeres megosztás"
 }

@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "dnevi",
     "CL_DV_RF_cleaning_day": "Dan",
     "CL_DV_RF_cleaning_week": "teden",
-    "CL_DV_RF_cleaning_month": "mesec"
+    "CL_DV_RF_cleaning_month": "mesec",
+    "CL_CF_AU_delete_scene_tip": "Prizor \"##\" je bil izbrisan",
+    "CL_CF_AU_added_to_homepage": "dodano na domačo stran",
+    "CL_DV_DW_close_the_door": "Zaprite vrata, da zaženete program",
+    "CL_CF_FW_update_tips_content": "Vašo napravo redno posodabljamo za izboljšanje funkcij in varnosti. Posodobite zdaj za najnovejše izboljšave.",
+    "CL_CF_SD_share_enter_email": "Vnesite e-poštni naslov",
+    "no_wifi": "Brez omrežja Wi-Fi",
+    "CL_CF_AU_Time_period": "Časovno obdobje",
+    "CL_CF_SD_share_all_accounts_incorrect": "Vsi računi so napačni",
+    "warranty_confirm_prompt_new": "Prepričajte se, da so podatki, ki ste jih posredovali, pravilni, saj jih po kliku na »Potrdi in nadaljuj« ne boste mogli več spremeniti.",
+    "CL_CF_SD_share_not_success": "Deljenje ni uspelo",
+    "CL_CF_SD_share_success": "Deljenje je bilo uspešno"
 }

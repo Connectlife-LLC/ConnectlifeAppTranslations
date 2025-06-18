@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "दिनों",
     "CL_DV_RF_cleaning_day": "दिन की खपत",
     "CL_DV_RF_cleaning_week": "सप्ताह",
-    "CL_DV_RF_cleaning_month": "महीना"
+    "CL_DV_RF_cleaning_month": "महीना",
+    "CL_CF_AU_delete_scene_tip": "\"##\" दृश्य हटा दिया गया है",
+    "CL_CF_AU_added_to_homepage": "मुखपृष्ठ पर जोड़ा गया",
+    "CL_DV_DW_close_the_door": "कार्यक्रम शुरू करने के लिए दरवाज़े बंद करें",
+    "CL_CF_FW_update_tips_content": "हम आपके डिवाइस की सुविधाओं और सुरक्षा को बेहतर बनाने के लिए नियमित रूप से अपडेट करते हैं। नवीनतम सुधारों के लिए अभी अपडेट करें।",
+    "CL_CF_SD_share_enter_email": "ई-मेल दर्ज करें",
+    "no_wifi": "गैर वाईफ़ाई",
+    "CL_CF_AU_Time_period": "समय सीमा",
+    "CL_CF_SD_share_all_accounts_incorrect": "सभी खाते ग़लत हैं",
+    "warranty_confirm_prompt_new": "सुनिश्चित करें कि आपके द्वारा दी गई जानकारी सही है, क्योंकि \"पुष्टि करें और जारी रखें\" पर क्लिक करने के बाद आप इसमें कोई परिवर्तन नहीं कर पाएंगे।",
+    "CL_CF_SD_share_not_success": "साझाकरण सफल नहीं हुआ",
+    "CL_CF_SD_share_success": "साझाकरण सफल"
 }

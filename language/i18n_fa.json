@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "روز",
     "CL_DV_RF_cleaning_day": "روز",
     "CL_DV_RF_cleaning_week": "هفته",
-    "CL_DV_RF_cleaning_month": "ماه"
+    "CL_DV_RF_cleaning_month": "ماه",
+    "CL_CF_AU_delete_scene_tip": "صحنه‌ی «##» حذف شده است",
+    "CL_CF_AU_added_to_homepage": "به صفحه اصلی اضافه شد",
+    "CL_DV_DW_close_the_door": "برای شروع برنامه، درها را ببندید",
+    "CL_CF_FW_update_tips_content": "ما مرتباً دستگاه شما را به‌روزرسانی می‌کنیم تا ویژگی‌ها و امنیت را بهبود بخشیم. اکنون برای آخرین پیشرفت‌ها به‌روزرسانی کنید.",
+    "CL_CF_SD_share_enter_email": "ایمیل را وارد کنید",
+    "no_wifi": "غیر وای فای",
+    "CL_CF_AU_Time_period": "دوره زمانی",
+    "CL_CF_SD_share_all_accounts_incorrect": "همه حساب‌ها نادرست است",
+    "warranty_confirm_prompt_new": "مطمئن شوید اطلاعاتی که ارائه می‌دهید صحیح است، زیرا پس از کلیک روی «تأیید و ادامه» نمی‌توانید آن را تغییر دهید.",
+    "CL_CF_SD_share_not_success": "اشتراک‌گذاری موفقیت‌آمیز نبود",
+    "CL_CF_SD_share_success": "اشتراک گذاری موفقیت آمیز"
 }

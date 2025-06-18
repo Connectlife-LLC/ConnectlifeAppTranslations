@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "dagen",
     "CL_DV_RF_cleaning_day": "Dagelijks",
     "CL_DV_RF_cleaning_week": "Week",
-    "CL_DV_RF_cleaning_month": "Maand"
+    "CL_DV_RF_cleaning_month": "Maand",
+    "CL_CF_AU_delete_scene_tip": "De scène \"##\" is verwijderd",
+    "CL_CF_AU_added_to_homepage": "toegevoegd aan de homepage",
+    "CL_DV_DW_close_the_door": "Sluit de deuren om een programma te starten",
+    "CL_CF_FW_update_tips_content": "We werken uw apparaat regelmatig bij om de functies en beveiliging te verbeteren. Werk het nu bij voor de nieuwste verbeteringen.",
+    "CL_CF_SD_share_enter_email": "Voer e-mailadres in",
+    "no_wifi": "Niet-wifi",
+    "CL_CF_AU_Time_period": "Tijdsperiode",
+    "CL_CF_SD_share_all_accounts_incorrect": "Alle rekeningen zijn onjuist",
+    "warranty_confirm_prompt_new": "Zorg ervoor dat de informatie die u verstrekt juist is. U kunt deze namelijk niet meer wijzigen nadat u op 'Bevestigen en doorgaan' hebt geklikt.",
+    "CL_CF_SD_share_not_success": "Delen niet gelukt",
+    "CL_CF_SD_share_success": "Succesvol delen"
 }

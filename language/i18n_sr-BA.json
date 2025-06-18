@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "Dan",
     "CL_DV_RF_cleaning_day": "Dnevna potrošnja",
     "CL_DV_RF_cleaning_week": "Nedelja",
-    "CL_DV_RF_cleaning_month": "месец"
+    "CL_DV_RF_cleaning_month": "месец",
+    "CL_CF_AU_delete_scene_tip": "Сцена „##“ је обрисана",
+    "CL_CF_AU_added_to_homepage": "додато на почетну страницу",
+    "CL_DV_DW_close_the_door": "Затворите врата да бисте покренули програм",
+    "CL_CF_FW_update_tips_content": "Редовно ажурирамо ваш уређај како бисмо побољшали функције и безбедност. Ажурирајте сада за најновија побољшања.",
+    "CL_CF_SD_share_enter_email": "Унесите имејл адресу",
+    "no_wifi": "Без WiFi-ја",
+    "CL_CF_AU_Time_period": "Временски период",
+    "CL_CF_SD_share_all_accounts_incorrect": "Сви налози су нетачни",
+    "warranty_confirm_prompt_new": "Уверите се да су информације које сте навели тачне, јер их нећете моћи променити након што кликнете на „Потврди и настави“.",
+    "CL_CF_SD_share_not_success": "Дељење није успело",
+    "CL_CF_SD_share_success": "Дељење је успешно"
 }

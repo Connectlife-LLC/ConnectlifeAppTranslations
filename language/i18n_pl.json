@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "dni",
     "CL_DV_RF_cleaning_day": "Zużycie dzienne",
     "CL_DV_RF_cleaning_week": "Tydzień",
-    "CL_DV_RF_cleaning_month": "miesiąc"
+    "CL_DV_RF_cleaning_month": "miesiąc",
+    "CL_CF_AU_delete_scene_tip": "Scena „##” została usunięta",
+    "CL_CF_AU_added_to_homepage": "dodano do strony głównej",
+    "CL_DV_DW_close_the_door": "Zamknij drzwi, aby rozpocząć program",
+    "CL_CF_FW_update_tips_content": "Regularnie aktualizujemy Twoje urządzenie, aby ulepszyć funkcje i bezpieczeństwo. Zaktualizuj teraz, aby uzyskać najnowsze ulepszenia.",
+    "CL_CF_SD_share_enter_email": "Podaj adres e-mail",
+    "no_wifi": "Bez WiFi",
+    "CL_CF_AU_Time_period": "Okres czasu",
+    "CL_CF_SD_share_all_accounts_incorrect": "Wszystkie konta są nieprawidłowe",
+    "warranty_confirm_prompt_new": "Upewnij się, że podane przez Ciebie informacje są poprawne, ponieważ nie będziesz mógł ich zmienić po kliknięciu „Potwierdź i kontynuuj”.",
+    "CL_CF_SD_share_not_success": "Udostępnianie nie powiodło się",
+    "CL_CF_SD_share_success": "Udostępnianie udane"
 }
