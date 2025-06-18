@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "ngày",
     "CL_DV_RF_cleaning_day": "Ngày",
     "CL_DV_RF_cleaning_week": "Tuần",
-    "CL_DV_RF_cleaning_month": "tháng"
+    "CL_DV_RF_cleaning_month": "tháng",
+    "CL_CF_AU_delete_scene_tip": "Cảnh \"##\" đã bị xóa",
+    "CL_CF_AU_added_to_homepage": "đã thêm vào trang chủ",
+    "CL_DV_DW_close_the_door": "Đóng cửa để bắt đầu một chương trình",
+    "CL_CF_FW_update_tips_content": "Chúng tôi thường xuyên cập nhật thiết bị của bạn để cải thiện tính năng và bảo mật. Cập nhật ngay để có những cải tiến mới nhất.",
+    "CL_CF_SD_share_enter_email": "Nhập email",
+    "no_wifi": "Không có WiFi",
+    "CL_CF_AU_Time_period": "Khoảng thời gian",
+    "CL_CF_SD_share_all_accounts_incorrect": "Tất cả các tài khoản đều không chính xác",
+    "warranty_confirm_prompt_new": "Hãy đảm bảo thông tin bạn cung cấp là chính xác vì bạn sẽ không thể thay đổi thông tin sau khi nhấp vào \"Xác nhận và Tiếp tục\".",
+    "CL_CF_SD_share_not_success": "Chia sẻ không thành công",
+    "CL_CF_SD_share_success": "Chia sẻ thành công"
 }

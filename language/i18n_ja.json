@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "日後",
     "CL_DV_RF_cleaning_day": "日後",
     "CL_DV_RF_cleaning_week": "週間後",
-    "CL_DV_RF_cleaning_month": "ヶ月後"
+    "CL_DV_RF_cleaning_month": "ヶ月後",
+    "CL_CF_AU_delete_scene_tip": "「##」シーンは削除されました",
+    "CL_CF_AU_added_to_homepage": "ホームページに追加されました",
+    "CL_DV_DW_close_the_door": "プログラムを開始するにはドアを閉めてください",
+    "CL_CF_FW_update_tips_content": "機能とセキュリティの向上のため、デバイスを定期的にアップデートしています。最新の改善点をご利用いただくには、今すぐアップデートしてください。",
+    "CL_CF_SD_share_enter_email": "メールアドレスを入力してください",
+    "no_wifi": "WiFi非対応",
+    "CL_CF_AU_Time_period": "期間",
+    "CL_CF_SD_share_all_accounts_incorrect": "すべてのアカウントが間違っています",
+    "warranty_confirm_prompt_new": "「確認して続行」をクリックした後は情報を変更できないため、入力した情報が正しいことを確認してください。",
+    "CL_CF_SD_share_not_success": "共有に失敗しました",
+    "CL_CF_SD_share_success": "共有に成功しました"
 }

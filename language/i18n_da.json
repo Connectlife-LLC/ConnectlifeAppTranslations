@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "dagene",
     "CL_DV_RF_cleaning_day": "Dagligt forbrug",
     "CL_DV_RF_cleaning_week": "Uge",
-    "CL_DV_RF_cleaning_month": "Måned"
+    "CL_DV_RF_cleaning_month": "Måned",
+    "CL_CF_AU_delete_scene_tip": "Scenen \"##\" er blevet slettet",
+    "CL_CF_AU_added_to_homepage": "tilføjet til hjemmesiden",
+    "CL_DV_DW_close_the_door": "Luk dørene for at starte et program",
+    "CL_CF_FW_update_tips_content": "Vi opdaterer regelmæssigt din enhed for at forbedre funktioner og sikkerhed. Opdater nu for at få de seneste forbedringer.",
+    "CL_CF_SD_share_enter_email": "Indtast e-mail",
+    "no_wifi": "Ikke-Wi-Fi",
+    "CL_CF_AU_Time_period": "Tidsperiode",
+    "CL_CF_SD_share_all_accounts_incorrect": "Alle konti er forkerte",
+    "warranty_confirm_prompt_new": "Sørg for, at de oplysninger, du angiver, er korrekte, da du ikke kan ændre dem, når du har klikket på \"Bekræft og fortsæt\".",
+    "CL_CF_SD_share_not_success": "Delingen mislykkedes",
+    "CL_CF_SD_share_success": "Deling lykkedes"
 }

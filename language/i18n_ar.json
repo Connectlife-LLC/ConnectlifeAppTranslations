@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "أيام",
     "CL_DV_RF_cleaning_day": "استهلاك اليوم",
     "CL_DV_RF_cleaning_week": "أسبوع",
-    "CL_DV_RF_cleaning_month": "شهر"
+    "CL_DV_RF_cleaning_month": "شهر",
+    "CL_CF_AU_delete_scene_tip": "تم حذف المشهد \"##\"",
+    "CL_CF_AU_added_to_homepage": "تمت الإضافة إلى الصفحة الرئيسية",
+    "CL_DV_DW_close_the_door": "أغلق الأبواب لبدء البرنامج",
+    "CL_CF_FW_update_tips_content": "نقوم بتحديث جهازك بانتظام لتحسين الميزات والأمان. حدّث جهازك الآن للحصول على أحدث التحسينات.",
+    "CL_CF_SD_share_enter_email": "أدخل البريد الإلكتروني",
+    "no_wifi": "غير واي فاي",
+    "CL_CF_AU_Time_period": "الفترة الزمنية",
+    "CL_CF_SD_share_all_accounts_incorrect": "جميع الحسابات غير صحيحة",
+    "warranty_confirm_prompt_new": "تأكد من صحة المعلومات التي تقدمها، حيث لن تتمكن من تغييرها بعد النقر فوق \"تأكيد ومتابعة\".",
+    "CL_CF_SD_share_not_success": "المشاركة لم تنجح",
+    "CL_CF_SD_share_success": "مشاركة ناجحة"
 }

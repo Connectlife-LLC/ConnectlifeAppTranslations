@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "날",
     "CL_DV_RF_cleaning_day": "하루 소비량",
     "CL_DV_RF_cleaning_week": "주",
-    "CL_DV_RF_cleaning_month": "월"
+    "CL_DV_RF_cleaning_month": "월",
+    "CL_CF_AU_delete_scene_tip": "\"##\" 장면이 삭제되었습니다.",
+    "CL_CF_AU_added_to_homepage": "홈페이지에 추가됨",
+    "CL_DV_DW_close_the_door": "프로그램을 시작하려면 문을 닫으세요",
+    "CL_CF_FW_update_tips_content": "기능 및 보안 개선을 위해 기기를 정기적으로 업데이트합니다. 최신 개선 사항을 적용하려면 지금 업데이트하세요.",
+    "CL_CF_SD_share_enter_email": "이메일을 입력하세요",
+    "no_wifi": "비와이파이",
+    "CL_CF_AU_Time_period": "기간",
+    "CL_CF_SD_share_all_accounts_incorrect": "모든 계정이 올바르지 않습니다",
+    "warranty_confirm_prompt_new": "\"확인 및 계속\"을 클릭한 후에는 정보를 변경할 수 없으므로 제공하는 정보가 정확한지 확인하세요.",
+    "CL_CF_SD_share_not_success": "공유가 성공하지 못했습니다",
+    "CL_CF_SD_share_success": "공유 성공"
 }

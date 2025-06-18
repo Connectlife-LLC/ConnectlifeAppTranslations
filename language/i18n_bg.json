@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "дни",
     "CL_DV_RF_cleaning_day": "Дневно потребление",
     "CL_DV_RF_cleaning_week": "седмица",
-    "CL_DV_RF_cleaning_month": "месец"
+    "CL_DV_RF_cleaning_month": "месец",
+    "CL_CF_AU_delete_scene_tip": "Сцената \"##\" е изтрита",
+    "CL_CF_AU_added_to_homepage": "добавено към началната страница",
+    "CL_DV_DW_close_the_door": "Затворете вратите, за да стартирате програма",
+    "CL_CF_FW_update_tips_content": "Редовно актуализираме устройството ви, за да подобрим функциите и сигурността. Актуализирайте сега за най-новите подобрения.",
+    "CL_CF_SD_share_enter_email": "Въведете имейл",
+    "no_wifi": "Без Wi-Fi",
+    "CL_CF_AU_Time_period": "Период от време",
+    "CL_CF_SD_share_all_accounts_incorrect": "Всички акаунти са неправилни",
+    "warranty_confirm_prompt_new": "Уверете се, че предоставената от вас информация е вярна, тъй като няма да можете да я промените, след като кликнете върху „Потвърди и продължи“.",
+    "CL_CF_SD_share_not_success": "Споделянето не е успешно",
+    "CL_CF_SD_share_success": "Споделянето е успешно"
 }

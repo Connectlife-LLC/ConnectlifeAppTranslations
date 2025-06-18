@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "günler",
     "CL_DV_RF_cleaning_day": "Gün tüketimi",
     "CL_DV_RF_cleaning_week": "Hafta",
-    "CL_DV_RF_cleaning_month": "ay"
+    "CL_DV_RF_cleaning_month": "ay",
+    "CL_CF_AU_delete_scene_tip": "\"##\" sahnesi silindi",
+    "CL_CF_AU_added_to_homepage": "ana sayfaya eklendi",
+    "CL_DV_DW_close_the_door": "Bir programı başlatmak için kapıları kapatın",
+    "CL_CF_FW_update_tips_content": "Özellikleri ve güvenliği iyileştirmek için cihazınızı düzenli olarak güncelliyoruz. En son iyileştirmeler için şimdi güncelleyin.",
+    "CL_CF_SD_share_enter_email": "E-posta girin",
+    "no_wifi": "Wi-Fi Olmayan",
+    "CL_CF_AU_Time_period": "Zaman dilimi",
+    "CL_CF_SD_share_all_accounts_incorrect": "Tüm hesaplar yanlış",
+    "warranty_confirm_prompt_new": "Verdiğiniz bilgilerin doğru olduğundan emin olun, çünkü \"Onayla ve Devam Et\"e tıkladıktan sonra bu bilgileri değiştiremezsiniz.",
+    "CL_CF_SD_share_not_success": "Paylaşım başarılı değil",
+    "CL_CF_SD_share_success": "Başarılı paylaşım"
 }

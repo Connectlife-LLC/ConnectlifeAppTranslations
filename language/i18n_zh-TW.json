@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "天",
     "CL_DV_RF_cleaning_day": "天",
     "CL_DV_RF_cleaning_week": "周",
-    "CL_DV_RF_cleaning_month": "月累計"
+    "CL_DV_RF_cleaning_month": "月累計",
+    "CL_CF_AU_delete_scene_tip": "“##”場景已刪除",
+    "CL_CF_AU_added_to_homepage": "已新增至主頁",
+    "CL_DV_DW_close_the_door": "關上門來啟動程式",
+    "CL_CF_FW_update_tips_content": "我們會定期更新您的設備，以提升功能和安全性。立即更新以獲取最新改進。",
+    "CL_CF_SD_share_enter_email": "輸入電子郵件",
+    "no_wifi": "非WiFi",
+    "CL_CF_AU_Time_period": "時段",
+    "CL_CF_SD_share_all_accounts_incorrect": "所有帳號均不正確",
+    "warranty_confirm_prompt_new": "確保您提供的資訊正確無誤，因為點擊「確認並繼續」後您將無法變更。",
+    "CL_CF_SD_share_not_success": "分享失敗",
+    "CL_CF_SD_share_success": "分享成功"
 }

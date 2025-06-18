@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "hari",
     "CL_DV_RF_cleaning_day": "Penggunaan harian",
     "CL_DV_RF_cleaning_week": "Minggu",
-    "CL_DV_RF_cleaning_month": "bulan"
+    "CL_DV_RF_cleaning_month": "bulan",
+    "CL_CF_AU_delete_scene_tip": "Pemandangan \"##\" telah dipadamkan",
+    "CL_CF_AU_added_to_homepage": "ditambahkan pada halaman utama",
+    "CL_DV_DW_close_the_door": "Tutup pintu untuk memulakan program",
+    "CL_CF_FW_update_tips_content": "Kami sentiasa mengemas kini peranti anda untuk meningkatkan ciri dan keselamatan. Kemas kini sekarang untuk penambahbaikan terkini.",
+    "CL_CF_SD_share_enter_email": "Masukkan e-mel",
+    "no_wifi": "Bukan WiFi",
+    "CL_CF_AU_Time_period": "Tempoh masa",
+    "CL_CF_SD_share_all_accounts_incorrect": "Semua akaun tidak betul",
+    "warranty_confirm_prompt_new": "Pastikan maklumat yang anda berikan adalah betul, kerana anda tidak akan dapat mengubahnya selepas mengklik \"Sahkan dan Teruskan.\"",
+    "CL_CF_SD_share_not_success": "Perkongsian tidak berjaya",
+    "CL_CF_SD_share_success": "Perkongsian berjaya"
 }

@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "hari",
     "CL_DV_RF_cleaning_day": "Pemakaian harian",
     "CL_DV_RF_cleaning_week": "Minggu",
-    "CL_DV_RF_cleaning_month": "bulan"
+    "CL_DV_RF_cleaning_month": "bulan",
+    "CL_CF_AU_delete_scene_tip": "Adegan \"##\" telah dihapus",
+    "CL_CF_AU_added_to_homepage": "ditambahkan ke beranda",
+    "CL_DV_DW_close_the_door": "Tutup pintu untuk memulai program",
+    "CL_CF_FW_update_tips_content": "Kami memperbarui perangkat Anda secara berkala untuk meningkatkan fitur dan keamanan. Perbarui sekarang untuk mendapatkan peningkatan terbaru.",
+    "CL_CF_SD_share_enter_email": "Masukkan email",
+    "no_wifi": "Tanpa WiFi",
+    "CL_CF_AU_Time_period": "Periode waktu",
+    "CL_CF_SD_share_all_accounts_incorrect": "Semua akun salah",
+    "warranty_confirm_prompt_new": "Pastikan informasi yang Anda berikan benar, karena Anda tidak akan dapat mengubahnya setelah mengklik \"Konfirmasi dan Lanjutkan.\"",
+    "CL_CF_SD_share_not_success": "Berbagi tidak berhasil",
+    "CL_CF_SD_share_success": "Berbagi sukses"
 }

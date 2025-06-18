@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "күн",
     "CL_DV_RF_cleaning_day": "Күнделікті тұтыну",
     "CL_DV_RF_cleaning_week": "Апта",
-    "CL_DV_RF_cleaning_month": "Ай"
+    "CL_DV_RF_cleaning_month": "Ай",
+    "CL_CF_AU_delete_scene_tip": "\"##\" көрінісі жойылды",
+    "CL_CF_AU_added_to_homepage": "басты бетке қосылды",
+    "CL_DV_DW_close_the_door": "Бағдарламаны бастау үшін есіктерді жабыңыз",
+    "CL_CF_FW_update_tips_content": "Мүмкіндіктер мен қауіпсіздікті жақсарту үшін құрылғыңызды үнемі жаңартып отырамыз. Соңғы жақсартулар үшін қазір жаңартыңыз.",
+    "CL_CF_SD_share_enter_email": "Электрондық поштаны енгізіңіз",
+    "no_wifi": "Wi-Fi емес",
+    "CL_CF_AU_Time_period": "Уақыт кезеңі",
+    "CL_CF_SD_share_all_accounts_incorrect": "Барлық тіркелгілер дұрыс емес",
+    "warranty_confirm_prompt_new": "Сіз берген ақпараттың дұрыс екеніне көз жеткізіңіз, себебі «Растау және Жалғастыру» түймесін басқаннан кейін оны өзгерте алмайсыз.",
+    "CL_CF_SD_share_not_success": "Бөлісу сәтсіз",
+    "CL_CF_SD_share_success": "Бөлісу сәтті болды"
 }

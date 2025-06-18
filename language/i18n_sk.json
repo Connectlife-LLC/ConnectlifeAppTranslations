@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "dni",
     "CL_DV_RF_cleaning_day": "Denná spotreba",
     "CL_DV_RF_cleaning_week": "týždeň",
-    "CL_DV_RF_cleaning_month": "mesiac"
+    "CL_DV_RF_cleaning_month": "mesiac",
+    "CL_CF_AU_delete_scene_tip": "Scéna „##“ bola odstránená",
+    "CL_CF_AU_added_to_homepage": "pridané na domovskú stránku",
+    "CL_DV_DW_close_the_door": "Zatvorte dvierka, aby ste spustili program",
+    "CL_CF_FW_update_tips_content": "Vaše zariadenie pravidelne aktualizujeme, aby sme vylepšili funkcie a zabezpečenie. Aktualizujte ho teraz a získajte najnovšie vylepšenia.",
+    "CL_CF_SD_share_enter_email": "Zadajte e-mail",
+    "no_wifi": "Bez Wi-Fi",
+    "CL_CF_AU_Time_period": "Časové obdobie",
+    "CL_CF_SD_share_all_accounts_incorrect": "Všetky účty sú nesprávne",
+    "warranty_confirm_prompt_new": "Uistite sa, že poskytnuté informácie sú správne, pretože po kliknutí na tlačidlo „Potvrdiť a pokračovať“ ich nebudete môcť zmeniť.",
+    "CL_CF_SD_share_not_success": "Zdieľanie nebolo úspešné",
+    "CL_CF_SD_share_success": "Zdieľanie úspešné"
 }

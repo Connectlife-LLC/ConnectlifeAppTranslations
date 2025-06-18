@@ -5606,5 +5606,16 @@
     "CL_DV_RF_cleaning_days": "ימים",
     "CL_DV_RF_cleaning_day": "צריכה יומית",
     "CL_DV_RF_cleaning_week": "שָׁבוּעַ",
-    "CL_DV_RF_cleaning_month": "חודש"
+    "CL_DV_RF_cleaning_month": "חודש",
+    "CL_CF_AU_delete_scene_tip": "הסצנה \"##\" נמחקה",
+    "CL_CF_AU_added_to_homepage": "נוסף לדף הבית",
+    "CL_DV_DW_close_the_door": "סגרו את הדלתות כדי להתחיל תוכנית",
+    "CL_CF_FW_update_tips_content": "אנו מעדכנים את המכשיר שלך באופן קבוע כדי לשפר את התכונות והאבטחה. עדכן עכשיו כדי להתעדכן בשיפורים האחרונים.",
+    "CL_CF_SD_share_enter_email": "הזן דוא\"ל",
+    "no_wifi": "ללא WiFi",
+    "CL_CF_AU_Time_period": "תקופת זמן",
+    "CL_CF_SD_share_all_accounts_incorrect": "כל החשבונות שגויים",
+    "warranty_confirm_prompt_new": "ודא שהמידע שאתה מספק נכון, מכיוון שלא תוכל לשנות אותו לאחר לחיצה על \"אשר והמשך\".",
+    "CL_CF_SD_share_not_success": "השיתוף לא הצליח",
+    "CL_CF_SD_share_success": "השיתוף הצליח"
 }
