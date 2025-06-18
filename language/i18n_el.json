@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Απενεργοποιημένες κοντινές συσκευές για το ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Το Bluetooth είναι απενεργοποιημένο για το ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "Το ConnectLife χρειάζεται κοντινές συσκευές και ακριβή τοποθεσία για να συνδεθεί και να προσδιορίσει τις θέσεις των συσκευών. Ενεργοποιήστε τα στις ρυθμίσεις του τηλεφώνου σας για πλήρη λειτουργικότητα.",
-    "CL_CF_HP_blue_permission_off_content_ios": "Το ConnectLife χρειάζεται άδεια Bluetooth για να συνδεθεί και να εντοπίσει τις θέσεις των συσκευών. Ενεργοποιήστε την στις ρυθμίσεις του τηλεφώνου σας για πλήρη λειτουργικότητα.",
     "CL_CF_HP_enable_permissions": "ΕΝΕΡΓΟΠΟΙΗΣΗ ΑΔΕΙΩΝ",
     "CL_CF_HP_blue_power_off_title_android": "Ενεργοποιήστε το Bluetooth για αυτήν τη συσκευή",
     "CL_CF_HP_blue_power_off_title_ios": "Το Bluetooth είναι απενεργοποιημένο για το ConnectLife",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Όλοι οι λογαριασμοί είναι λανθασμένοι",
     "warranty_confirm_prompt_new": "Βεβαιωθείτε ότι οι πληροφορίες που παρέχετε είναι σωστές, καθώς δεν θα μπορείτε να τις αλλάξετε αφού κάνετε κλικ στην επιλογή \"Επιβεβαίωση και συνέχεια\".",
     "CL_CF_SD_share_not_success": "Η κοινοποίηση δεν ήταν επιτυχής.",
-    "CL_CF_SD_share_success": "Η κοινοποίηση ήταν επιτυχής."
+    "CL_CF_SD_share_success": "Η κοινοποίηση ήταν επιτυχής.",
+    "CL_CF_HP_blue_permission_off_content_ios": "Το ConnectLife χρειάζεται άδεια Bluetooth για να συνδεθεί και να προσδιορίσει τις θέσεις των συσκευών. Ενεργοποιήστε την στις ρυθμίσεις του τηλεφώνου σας για πλήρη λειτουργικότητα.",
+    "CL_CF_name_not_more_25_length": "Το μέγιστο μήκος ονόματος συσκευής είναι 25 χαρακτήρες"
 }

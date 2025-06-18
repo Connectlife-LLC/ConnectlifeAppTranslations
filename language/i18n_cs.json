@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Zařízení v blízkosti zakázána pro ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth deaktivováno pro ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife potřebuje pro připojení a určení polohy zařízení zařízení v okolí a přesnou polohu. Pro plnou funkčnost je povolte v nastavení telefonu.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife potřebuje k připojení a detekci polohy zařízení povolení Bluetooth. Pro plnou funkčnost je povolte v nastavení telefonu.",
     "CL_CF_HP_enable_permissions": "POVOLENÍ",
     "CL_CF_HP_blue_power_off_title_android": "Zapněte Bluetooth pro toto zařízení",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth deaktivováno pro ConnectLife",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Všechny účty jsou nesprávné",
     "warranty_confirm_prompt_new": "Ujistěte se, že poskytnuté informace jsou správné, protože po kliknutí na tlačítko „Potvrdit a pokračovat“ je nebudete moci změnit.",
     "CL_CF_SD_share_not_success": "Sdílení se nepodařilo",
-    "CL_CF_SD_share_success": "Sdílení úspěšné"
+    "CL_CF_SD_share_success": "Sdílení úspěšné",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife potřebuje k připojení a určení polohy zařízení povolení Bluetooth. Pro plnou funkčnost je povolte v nastavení telefonu.",
+    "CL_CF_name_not_more_25_length": "Maximální délka názvu spotřebiče je 25 znaků."
 }

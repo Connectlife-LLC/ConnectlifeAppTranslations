@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "دستگاه‌های نزدیک برای ConnectLife غیرفعال شده‌اند",
     "CL_CF_HP_blue_permission_off_title_ios": "بلوتوث برای ConnectLife غیرفعال است",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife برای اتصال و تعیین موقعیت دستگاه‌ها به دستگاه‌های نزدیک و موقعیت مکانی دقیق نیاز دارد. برای عملکرد کامل، آنها را در تنظیمات تلفن خود فعال کنید.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife برای اتصال و تشخیص موقعیت دستگاه‌ها به مجوز بلوتوث نیاز دارد. برای عملکرد کامل، آنها را در تنظیمات تلفن خود فعال کنید.",
     "CL_CF_HP_enable_permissions": "فعال کردن مجوزها",
     "CL_CF_HP_blue_power_off_title_android": "بلوتوث این دستگاه را روشن کنید",
     "CL_CF_HP_blue_power_off_title_ios": "بلوتوث برای ConnectLife غیرفعال است",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "همه حساب‌ها نادرست است",
     "warranty_confirm_prompt_new": "مطمئن شوید اطلاعاتی که ارائه می‌دهید صحیح است، زیرا پس از کلیک روی «تأیید و ادامه» نمی‌توانید آن را تغییر دهید.",
     "CL_CF_SD_share_not_success": "اشتراک‌گذاری موفقیت‌آمیز نبود",
-    "CL_CF_SD_share_success": "اشتراک گذاری موفقیت آمیز"
+    "CL_CF_SD_share_success": "اشتراک گذاری موفقیت آمیز",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife برای اتصال و تعیین موقعیت دستگاه‌ها به مجوز بلوتوث نیاز دارد. برای عملکرد کامل، آنها را در تنظیمات تلفن خود فعال کنید.",
+    "CL_CF_name_not_more_25_length": "حداکثر طول نام دستگاه ۲۵ کاراکتر است"
 }

@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Устройства поблизости отключены для ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth отключен для ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife нужны устройства поблизости и точное местоположение для подключения и определения положения устройств. Включите их в настройках телефона для полной функциональности.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife требуется разрешение Bluetooth для подключения и определения положения устройств. Включите их в настройках телефона для полной функциональности.",
     "CL_CF_HP_enable_permissions": "ВКЛЮЧИТЬ РАЗРЕШЕНИЯ",
     "CL_CF_HP_blue_power_off_title_android": "Включите Bluetooth на этом устройстве",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth отключен для ConnectLife",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Все счета неверны",
     "warranty_confirm_prompt_new": "Убедитесь, что предоставленная вами информация верна, так как вы не сможете ее изменить после нажатия кнопки «Подтвердить и продолжить».",
     "CL_CF_SD_share_not_success": "Поделиться не удалось",
-    "CL_CF_SD_share_success": "Обмен успешным"
+    "CL_CF_SD_share_success": "Обмен успешным",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife требуется разрешение Bluetooth для подключения и определения положения устройств. Включите их в настройках телефона для полной функциональности.",
+    "CL_CF_name_not_more_25_length": "Максимальная длина имени устройства — 25 символов."
 }

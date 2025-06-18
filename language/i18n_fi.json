@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Lähellä olevat laitteet poistettu käytöstä ConnectLifessa",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth pois käytöstä ConnectLifessa",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife tarvitsee lähellä olevia laitteita ja tarkan sijainnin yhteyden muodostamiseen ja laitteiden sijainnin määrittämiseen. Ota ne käyttöön puhelimesi asetuksissa saadaksesi täyden toiminnallisuuden.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife tarvitsee Bluetooth-luvan yhteyden muodostamiseen ja laitteiden sijainnin havaitsemiseen. Ota ne käyttöön puhelimesi asetuksissa saadaksesi täyden toiminnallisuuden.",
     "CL_CF_HP_enable_permissions": "OTTA KÄYTTÖOIKEUDET KÄYTTÖÖN",
     "CL_CF_HP_blue_power_off_title_android": "Ota tämän laitteen Bluetooth käyttöön",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth pois käytöstä ConnectLifessa",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Kaikki tilit ovat virheellisiä",
     "warranty_confirm_prompt_new": "Varmista, että antamasi tiedot ovat oikein, sillä et voi muuttaa niitä napsautettuasi \"Vahvista ja jatka\".",
     "CL_CF_SD_share_not_success": "Jakaminen ei onnistunut",
-    "CL_CF_SD_share_success": "Jakaminen onnistui"
+    "CL_CF_SD_share_success": "Jakaminen onnistui",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife tarvitsee Bluetooth-luvan yhteyden muodostamiseen ja laitteiden sijainnin määrittämiseen. Ota ne käyttöön puhelimesi asetuksissa saadaksesi täyden toiminnallisuuden.",
+    "CL_CF_name_not_more_25_length": "Laitteen nimen enimmäispituus on 25 merkkiä"
 }

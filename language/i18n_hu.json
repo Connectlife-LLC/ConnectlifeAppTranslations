@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Közeli eszközök letiltva a ConnectLife számára",
     "CL_CF_HP_blue_permission_off_title_ios": "A Bluetooth le van tiltva a ConnectLife számára",
     "CL_CF_HP_blue_permission_off_content_android": "A ConnectLife-nak közeli eszközökre és pontos tartózkodási helyre van szüksége a csatlakozáshoz és az eszközök pozíciójának meghatározásához. A teljes funkcionalitás eléréséhez engedélyezze ezeket a telefon beállításaiban.",
-    "CL_CF_HP_blue_permission_off_content_ios": "A ConnectLife-nak Bluetooth-engedélyre van szüksége a csatlakozáshoz és az eszközök helyzetének észleléséhez. A teljes funkcionalitás eléréséhez engedélyezze ezeket a telefon beállításaiban.",
     "CL_CF_HP_enable_permissions": "ENGEDÉLYEK ENGEDÉLYEZÉSE",
     "CL_CF_HP_blue_power_off_title_android": "Kapcsolja be a Bluetooth funkciót ezen az eszközön",
     "CL_CF_HP_blue_power_off_title_ios": "A Bluetooth le van tiltva a ConnectLife számára",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Minden számla hibás",
     "warranty_confirm_prompt_new": "Győződjön meg róla, hogy a megadott információk helyesek, mivel a „Megerősítés és folytatás” gombra kattintás után már nem tudja módosítani azokat.",
     "CL_CF_SD_share_not_success": "A megosztás nem sikerült",
-    "CL_CF_SD_share_success": "Sikeres megosztás"
+    "CL_CF_SD_share_success": "Sikeres megosztás",
+    "CL_CF_HP_blue_permission_off_content_ios": "A ConnectLife-nak Bluetooth-engedélyre van szüksége a csatlakozáshoz és az eszközök helyzetének meghatározásához. A teljes funkcionalitás eléréséhez engedélyezze ezeket a telefon beállításaiban.",
+    "CL_CF_name_not_more_25_length": "A készülék nevének maximális hossza 25 karakter"
 }

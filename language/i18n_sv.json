@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Enheter i närheten inaktiverade för ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth inaktiverat för ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife behöver enheter i närheten och exakt plats för att ansluta och bestämma enheternas positioner. Aktivera dem i telefonens inställningar för full funktionalitet.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife behöver Bluetooth-behörighet för att ansluta och upptäcka enheters positioner. Aktivera dem i telefonens inställningar för full funktionalitet.",
     "CL_CF_HP_enable_permissions": "AKTIVERA BEHÖRIGHETER",
     "CL_CF_HP_blue_power_off_title_android": "Slå på Bluetooth för den här enheten",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth inaktiverat för ConnectLife",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Alla konton är felaktiga",
     "warranty_confirm_prompt_new": "Se till att informationen du anger är korrekt, eftersom du inte kan ändra den efter att du klickat på \"Bekräfta och fortsätt\".",
     "CL_CF_SD_share_not_success": "Delningen misslyckades",
-    "CL_CF_SD_share_success": "Delningen lyckades"
+    "CL_CF_SD_share_success": "Delningen lyckades",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife behöver Bluetooth-behörighet för att ansluta och bestämma enhetens positioner. Aktivera dem i telefonens inställningar för full funktionalitet.",
+    "CL_CF_name_not_more_25_length": "Apparatnamnets maximala längd är 25 tecken"
 }

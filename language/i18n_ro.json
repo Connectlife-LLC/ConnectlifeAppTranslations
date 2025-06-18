@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Dispozitive din apropiere dezactivate pentru ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth dezactivat pentru ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife are nevoie de dispozitive din apropiere și de locația precisă pentru a se conecta și a determina pozițiile dispozitivelor. Activează-le în setările telefonului pentru funcționalitate completă.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife are nevoie de permisiunea Bluetooth pentru a se conecta și a detecta pozițiile dispozitivelor. Activați-le în setările telefonului pentru funcționalitate completă.",
     "CL_CF_HP_enable_permissions": "ACTIVAȚI PERMISIUNILE",
     "CL_CF_HP_blue_power_off_title_android": "Porniți Bluetooth pentru acest dispozitiv",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth dezactivat pentru ConnectLife",
@@ -5617,5 +5616,7 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Toate conturile sunt incorecte",
     "warranty_confirm_prompt_new": "Asigurați-vă că informațiile pe care le furnizați sunt corecte, deoarece nu le veți putea modifica după ce faceți clic pe „Confirmați și continuați”.",
     "CL_CF_SD_share_not_success": "Partajarea nu a reușit",
-    "CL_CF_SD_share_success": "Partajare reușită"
+    "CL_CF_SD_share_success": "Partajare reușită",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife are nevoie de permisiunea Bluetooth pentru a se conecta și a determina pozițiile dispozitivelor. Activați-le în setările telefonului pentru funcționalitate completă.",
+    "CL_CF_name_not_more_25_length": "Lungimea maximă a numelui aparatului este de 25 de caractere"
 }
