@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "تم تعطيل الأجهزة القريبة لـ ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "تم تعطيل تقنية Bluetooth في ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "يحتاج تطبيق ConnectLife إلى أجهزة قريبة وموقع دقيق للاتصال وتحديد مواقع الأجهزة. فعّل هذه الميزة في إعدادات هاتفك للاستفادة من جميع الميزات.",
-    "CL_CF_HP_blue_permission_off_content_ios": "يحتاج تطبيق ConnectLife إلى إذن بلوتوث للاتصال وتحديد مواقع الأجهزة. فعّل هذه الإذن في إعدادات هاتفك للاستفادة من جميع وظائفه.",
     "CL_CF_HP_enable_permissions": "تمكين الأذونات",
     "CL_CF_HP_blue_power_off_title_android": "قم بتشغيل البلوتوث لهذا الجهاز",
     "CL_CF_HP_blue_power_off_title_ios": "تم تعطيل تقنية Bluetooth في ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "جميع الحسابات غير صحيحة",
     "warranty_confirm_prompt_new": "تأكد من صحة المعلومات التي تقدمها، حيث لن تتمكن من تغييرها بعد النقر فوق \"تأكيد ومتابعة\".",
     "CL_CF_SD_share_not_success": "المشاركة لم تنجح",
-    "CL_CF_SD_share_success": "مشاركة ناجحة"
+    "CL_CF_SD_share_success": "مشاركة ناجحة",
+    "CL_CF_HP_blue_permission_off_content_ios": "يحتاج تطبيق ConnectLife إلى إذن بلوتوث للاتصال وتحديد مواقع الأجهزة. فعّله في إعدادات هاتفك للاستفادة من جميع وظائفه.",
+    "CL_CF_name_not_more_25_length": "الحد الأقصى لطول اسم الجهاز هو 25 حرفًا",
+    "new_chat": "دردشة جديدة",
+    "search_for": "بحث عن..."
 }

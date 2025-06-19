@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Yakındaki Cihazlar ConnectLife için Devre Dışı Bırakıldı",
     "CL_CF_HP_blue_permission_off_title_ios": "ConnectLife için Bluetooth devre dışı bırakıldı",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife, cihaz konumlarını belirlemek ve bağlanmak için Yakın cihazlara ve kesin konuma ihtiyaç duyar. Tam işlevsellik için bunları telefonunuzun ayarlarında etkinleştirin.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife'ın bağlanmak ve cihaz konumlarını algılamak için Bluetooth iznine ihtiyacı vardır. Tam işlevsellik için bunları telefonunuzun ayarlarından etkinleştirin.",
     "CL_CF_HP_enable_permissions": "İZİNLERİ ETKİNLEŞTİR",
     "CL_CF_HP_blue_power_off_title_android": "Bu cihaz için Bluetooth'u açın",
     "CL_CF_HP_blue_power_off_title_ios": "ConnectLife için Bluetooth devre dışı bırakıldı",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Tüm hesaplar yanlış",
     "warranty_confirm_prompt_new": "Verdiğiniz bilgilerin doğru olduğundan emin olun, çünkü \"Onayla ve Devam Et\"e tıkladıktan sonra bu bilgileri değiştiremezsiniz.",
     "CL_CF_SD_share_not_success": "Paylaşım başarılı değil",
-    "CL_CF_SD_share_success": "Başarılı paylaşım"
+    "CL_CF_SD_share_success": "Başarılı paylaşım",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife'ın bağlanmak ve cihaz konumlarını belirlemek için Bluetooth iznine ihtiyacı vardır. Tam işlevsellik için bunları telefonunuzun ayarlarından etkinleştirin.",
+    "CL_CF_name_not_more_25_length": "Cihaz adı maksimum 25 karakter uzunluğundadır",
+    "new_chat": "Yeni sohbet",
+    "search_for": "Ara..."
 }

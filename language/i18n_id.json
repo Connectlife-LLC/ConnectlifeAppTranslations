@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Perangkat Terdekat Dinonaktifkan untuk ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth dinonaktifkan untuk ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife memerlukan perangkat di sekitar dan lokasi yang tepat untuk menghubungkan dan menentukan posisi perangkat. Aktifkan fitur tersebut di pengaturan ponsel Anda agar berfungsi penuh.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife memerlukan izin Bluetooth untuk menghubungkan dan mendeteksi posisi perangkat. Aktifkan di pengaturan ponsel Anda agar berfungsi penuh.",
     "CL_CF_HP_enable_permissions": "AKTIFKAN IZIN",
     "CL_CF_HP_blue_power_off_title_android": "Aktifkan Bluetooth untuk perangkat ini",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth dinonaktifkan untuk ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Semua akun salah",
     "warranty_confirm_prompt_new": "Pastikan informasi yang Anda berikan benar, karena Anda tidak akan dapat mengubahnya setelah mengklik \"Konfirmasi dan Lanjutkan.\"",
     "CL_CF_SD_share_not_success": "Berbagi tidak berhasil",
-    "CL_CF_SD_share_success": "Berbagi sukses"
+    "CL_CF_SD_share_success": "Berbagi sukses",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife memerlukan izin Bluetooth untuk menghubungkan dan menentukan posisi perangkat. Aktifkan di pengaturan ponsel Anda agar berfungsi penuh.",
+    "CL_CF_name_not_more_25_length": "Panjang maksimum nama alat adalah 25 karakter",
+    "new_chat": "Obrolan baru",
+    "search_for": "Cari..."
 }

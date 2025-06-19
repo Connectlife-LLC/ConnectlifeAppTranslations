@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Apparaten in de buurt uitgeschakeld voor ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth uitgeschakeld voor ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife heeft apparaten in de buurt en een nauwkeurige locatie nodig om verbinding te maken en de locatie van apparaten te bepalen. Schakel deze in via de instellingen van je telefoon voor volledige functionaliteit.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife heeft Bluetooth-toestemming nodig om verbinding te maken en de positie van apparaten te detecteren. Schakel deze in via de instellingen van je telefoon voor volledige functionaliteit.",
     "CL_CF_HP_enable_permissions": "MACHTIGINGEN INSCHAKELEN",
     "CL_CF_HP_blue_power_off_title_android": "Schakel Bluetooth in voor dit apparaat",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth uitgeschakeld voor ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Alle rekeningen zijn onjuist",
     "warranty_confirm_prompt_new": "Zorg ervoor dat de informatie die u verstrekt juist is. U kunt deze namelijk niet meer wijzigen nadat u op 'Bevestigen en doorgaan' hebt geklikt.",
     "CL_CF_SD_share_not_success": "Delen niet gelukt",
-    "CL_CF_SD_share_success": "Succesvol delen"
+    "CL_CF_SD_share_success": "Succesvol delen",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife heeft Bluetooth-toestemming nodig om verbinding te maken en de positie van het apparaat te bepalen. Schakel Bluetooth in via de instellingen van je telefoon voor volledige functionaliteit.",
+    "CL_CF_name_not_more_25_length": "De maximale lengte van de apparaatnaam is 25 tekens",
+    "new_chat": "Nieuwe chat",
+    "search_for": "Zoeken naar..."
 }

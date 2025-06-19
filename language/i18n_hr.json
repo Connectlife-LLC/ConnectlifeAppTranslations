@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Uređaji u blizini onemogućeni za ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth je onemogućen za ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLifeu su potrebni uređaji u blizini i precizna lokacija za povezivanje i određivanje položaja uređaja. Omogućite ih u postavkama telefona za punu funkcionalnost.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife treba Bluetooth dopuštenje za povezivanje i otkrivanje položaja uređaja. Omogućite ga u postavkama telefona za punu funkcionalnost.",
     "CL_CF_HP_enable_permissions": "OMOGUĆI DOZVOLE",
     "CL_CF_HP_blue_power_off_title_android": "Uključite Bluetooth za ovaj uređaj",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth je onemogućen za ConnectLife",
@@ -5604,7 +5603,7 @@
     "CL_DV_RF_cleaning_weeks": "Tjedni",
     "CL_DV_RF_cleaning_months": "Mjeseci",
     "CL_DV_RF_cleaning_days": "Dani",
-    "CL_DV_RF_cleaning_day": "Dnevna potrošnja",
+    "CL_DV_RF_cleaning_day": "Dan",
     "CL_DV_RF_cleaning_week": "Tjedan",
     "CL_DV_RF_cleaning_month": "Mjesec",
     "CL_CF_AU_delete_scene_tip": "Scena \"##\" je izbrisana",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Svi računi su netočni",
     "warranty_confirm_prompt_new": "Provjerite jesu li podaci koje ste unijeli točni jer ih nećete moći promijeniti nakon što kliknete \"Potvrdi i nastavi\".",
     "CL_CF_SD_share_not_success": "Dijeljenje nije uspjelo",
-    "CL_CF_SD_share_success": "Dijeljenje uspješno"
+    "CL_CF_SD_share_success": "Dijeljenje uspješno",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife treba Bluetooth dopuštenje za povezivanje i određivanje položaja uređaja. Omogućite ga u postavkama telefona za punu funkcionalnost.",
+    "CL_CF_name_not_more_25_length": "Maksimalna duljina naziva uređaja je 25 znakova",
+    "new_chat": "Novi razgovor",
+    "search_for": "Tražiti..."
 }
