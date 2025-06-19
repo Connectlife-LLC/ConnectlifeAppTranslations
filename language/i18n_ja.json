@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "ConnectLife で無効になっている近くのデバイス",
     "CL_CF_HP_blue_permission_off_title_ios": "ConnectLife では Bluetooth が無効になっています",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife は、接続してデバイスの位置を特定するために、Nearby デバイスと正確な位置情報を必要とします。すべての機能を使用するには、スマートフォンの設定でこれらを有効にしてください。",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife は接続とデバイスの位置検出に Bluetooth の許可が必要です。すべての機能を使用するには、スマートフォンの設定で許可を有効にしてください。",
     "CL_CF_HP_enable_permissions": "権限を有効にする",
     "CL_CF_HP_blue_power_off_title_android": "このデバイスの Bluetooth をオンにする",
     "CL_CF_HP_blue_power_off_title_ios": "ConnectLife では Bluetooth が無効になっています",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "すべてのアカウントが間違っています",
     "warranty_confirm_prompt_new": "「確認して続行」をクリックした後は情報を変更できないため、入力した情報が正しいことを確認してください。",
     "CL_CF_SD_share_not_success": "共有に失敗しました",
-    "CL_CF_SD_share_success": "共有に成功しました"
+    "CL_CF_SD_share_success": "共有に成功しました",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife は接続とデバイスの位置特定に Bluetooth の許可が必要です。すべての機能を使用するには、スマートフォンの設定で許可を有効にしてください。",
+    "CL_CF_name_not_more_25_length": "アプライアンス名の最大文字数は25文字です",
+    "new_chat": "新しいチャット",
+    "search_for": "検索する..."
 }

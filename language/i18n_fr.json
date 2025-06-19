@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Appareils à proximité désactivés pour ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth désactivé pour ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife a besoin d'appareils à proximité et d'une localisation précise pour se connecter et déterminer leur position. Activez-les dans les paramètres de votre téléphone pour profiter de toutes les fonctionnalités.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife nécessite l'autorisation Bluetooth pour se connecter et détecter la position de l'appareil. Activez-la dans les paramètres de votre téléphone pour une fonctionnalité complète.",
     "CL_CF_HP_enable_permissions": "ACTIVER LES AUTORISATIONS",
     "CL_CF_HP_blue_power_off_title_android": "Activez le Bluetooth pour cet appareil",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth désactivé pour ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Tous les comptes sont incorrects",
     "warranty_confirm_prompt_new": "Assurez-vous que les informations que vous fournissez sont correctes, car vous ne pourrez pas les modifier après avoir cliqué sur « Confirmer et continuer ».",
     "CL_CF_SD_share_not_success": "Partage non réussi",
-    "CL_CF_SD_share_success": "Partage réussi"
+    "CL_CF_SD_share_success": "Partage réussi",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife nécessite l'autorisation Bluetooth pour se connecter et déterminer la position des appareils. Activez-la dans les paramètres de votre téléphone pour une fonctionnalité complète.",
+    "CL_CF_name_not_more_25_length": "La longueur maximale du nom de l'appareil est de 25 caractères",
+    "new_chat": "Nouveau chat",
+    "search_for": "Rechercher..."
 }

@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "מכשירים בקרבת מקום מושבתים עבור ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth מושבת עבור ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife זקוק למכשירים בקרבת מקום ולמיקום מדויק כדי להתחבר ולקבוע את מיקומי המכשירים. הפעל אותם בהגדרות הטלפון שלך לקבלת פונקציונליות מלאה.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife זקוק להרשאת Bluetooth כדי להתחבר ולזהות מיקומי מכשירים. הפעל אותם בהגדרות הטלפון שלך לקבלת פונקציונליות מלאה.",
     "CL_CF_HP_enable_permissions": "הפעל הרשאות",
     "CL_CF_HP_blue_power_off_title_android": "הפעל את ה-Bluetooth עבור מכשיר זה",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth מושבת עבור ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "כל החשבונות שגויים",
     "warranty_confirm_prompt_new": "ודא שהמידע שאתה מספק נכון, מכיוון שלא תוכל לשנות אותו לאחר לחיצה על \"אשר והמשך\".",
     "CL_CF_SD_share_not_success": "השיתוף לא הצליח",
-    "CL_CF_SD_share_success": "השיתוף הצליח"
+    "CL_CF_SD_share_success": "השיתוף הצליח",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife זקוק להרשאת Bluetooth כדי להתחבר ולקבוע מיקומי מכשירים. הפעל אותן בהגדרות הטלפון שלך לקבלת פונקציונליות מלאה.",
+    "CL_CF_name_not_more_25_length": "אורך מקסימלי של שם המכשיר הוא 25 תווים",
+    "new_chat": "צ'אט חדש",
+    "search_for": "חפש..."
 }

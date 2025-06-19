@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "ConnectLife 已停用附近的設備",
     "CL_CF_HP_blue_permission_off_title_ios": "ConnectLife 已禁用蓝牙",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife 需要附近的設備和精確位置來連接和確定設備位置。在手機設定中啟用它們以獲得完整功能。",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife 需要藍牙權限才能連接和偵測裝置位置。在手機設定中啟用它們以獲得完整功能。",
     "CL_CF_HP_enable_permissions": "啟用權限",
     "CL_CF_HP_blue_power_off_title_android": "打开此设备的蓝牙",
     "CL_CF_HP_blue_power_off_title_ios": "ConnectLife 已禁用蓝牙",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "所有帳號均不正確",
     "warranty_confirm_prompt_new": "確保您提供的資訊正確無誤，因為點擊「確認並繼續」後您將無法變更。",
     "CL_CF_SD_share_not_success": "分享失敗",
-    "CL_CF_SD_share_success": "分享成功"
+    "CL_CF_SD_share_success": "分享成功",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife 需要藍牙權限才能連線並確定裝置位置。請在手機設定中啟用此功能，以取得完整功能。",
+    "CL_CF_name_not_more_25_length": "設備名稱最大長度為 25 個字符",
+    "new_chat": "新聊天",
+    "search_for": "搜尋..."
 }

@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Уредите во близина се оневозможени за ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth е оневозможен за ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "На ConnectLife му се потребни уреди во близина и прецизна локација за да се поврзе и да ги одреди позициите на уредите. Овозможете ги во поставките на вашиот телефон за целосна функционалност.",
-    "CL_CF_HP_blue_permission_off_content_ios": "На ConnectLife му е потребна дозвола за Bluetooth за да се поврзе и да ги детектира позициите на уредот. Овозможете ги во поставките на вашиот телефон за целосна функционалност.",
     "CL_CF_HP_enable_permissions": "ОВОЗМОЖИ ДОЗВОЛИ",
     "CL_CF_HP_blue_power_off_title_android": "Вклучете го Bluetooth за овој уред",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth е оневозможен за ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Сите сметки се неточни",
     "warranty_confirm_prompt_new": "Проверете дали информациите што ги наведувате се точни, бидејќи нема да можете да ги промените откако ќе кликнете на „Потврди и продолжи“.",
     "CL_CF_SD_share_not_success": "Споделувањето не е успешно",
-    "CL_CF_SD_share_success": "Споделувањето е успешно"
+    "CL_CF_SD_share_success": "Споделувањето е успешно",
+    "CL_CF_HP_blue_permission_off_content_ios": "На ConnectLife му е потребна дозвола за Bluetooth за да се поврзе и да ги одреди позициите на уредот. Овозможете ги во поставките на вашиот телефон за целосна функционалност.",
+    "CL_CF_name_not_more_25_length": "Максималната должина на името на апаратот е 25 знаци",
+    "new_chat": "Нов разговор",
+    "search_for": "Пребарај за..."
 }

@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Enheder i nærheden er deaktiveret for ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth deaktiveret for ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife skal bruge enheder i nærheden og præcis placering for at kunne oprette forbindelse og bestemme enhedernes positioner. Aktiver dem i din telefons indstillinger for at få fuld funktionalitet.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife skal bruge Bluetooth-tilladelse for at oprette forbindelse og registrere enhedspositioner. Aktiver dem i din telefons indstillinger for at få fuld funktionalitet.",
     "CL_CF_HP_enable_permissions": "AKTIVER TILLADELSER",
     "CL_CF_HP_blue_power_off_title_android": "Tænd for Bluetooth for denne enhed",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth deaktiveret for ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Alle konti er forkerte",
     "warranty_confirm_prompt_new": "Sørg for, at de oplysninger, du angiver, er korrekte, da du ikke kan ændre dem, når du har klikket på \"Bekræft og fortsæt\".",
     "CL_CF_SD_share_not_success": "Delingen mislykkedes",
-    "CL_CF_SD_share_success": "Deling lykkedes"
+    "CL_CF_SD_share_success": "Deling lykkedes",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife skal bruge Bluetooth-tilladelse for at oprette forbindelse og bestemme enhedspositioner. Aktiver dem i din telefons indstillinger for at få fuld funktionalitet.",
+    "CL_CF_name_not_more_25_length": "Apparatnavnets maksimale længde er 25 tegn",
+    "new_chat": "Ny chat",
+    "search_for": "Søg efter..."
 }

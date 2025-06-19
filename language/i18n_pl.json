@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Urządzenia w pobliżu wyłączone dla ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth wyłączony w ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife potrzebuje Nearby devices i precyzyjnej lokalizacji, aby połączyć się i określić położenie urządzeń. Włącz je w ustawieniach telefonu, aby uzyskać pełną funkcjonalność.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife potrzebuje uprawnień Bluetooth, aby połączyć się i wykryć położenie urządzenia. Włącz je w ustawieniach telefonu, aby uzyskać pełną funkcjonalność.",
     "CL_CF_HP_enable_permissions": "WŁĄCZ UPRAWNIENIA",
     "CL_CF_HP_blue_power_off_title_android": "Włącz Bluetooth dla tego urządzenia",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth wyłączony w ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Wszystkie konta są nieprawidłowe",
     "warranty_confirm_prompt_new": "Upewnij się, że podane przez Ciebie informacje są poprawne, ponieważ nie będziesz mógł ich zmienić po kliknięciu „Potwierdź i kontynuuj”.",
     "CL_CF_SD_share_not_success": "Udostępnianie nie powiodło się",
-    "CL_CF_SD_share_success": "Udostępnianie udane"
+    "CL_CF_SD_share_success": "Udostępnianie udane",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife potrzebuje uprawnień Bluetooth, aby połączyć się i określić położenie urządzenia. Włącz je w ustawieniach telefonu, aby uzyskać pełną funkcjonalność.",
+    "CL_CF_name_not_more_25_length": "Maksymalna długość nazwy urządzenia to 25 znaków",
+    "new_chat": "Nowy czat",
+    "search_for": "Szukaj..."
 }

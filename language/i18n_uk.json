@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Пристрої поблизу вимкнено для ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth вимкнено для ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife потрібні пристрої поблизу та точне місцезнаходження для підключення та визначення їхнього положення. Увімкніть їх у налаштуваннях телефону для повної функціональності.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife потрібен дозвіл Bluetooth для підключення та визначення положення пристрою. Увімкніть його в налаштуваннях телефону для повної функціональності.",
     "CL_CF_HP_enable_permissions": "УВІМКНУТИ ДОЗВОЛИ",
     "CL_CF_HP_blue_power_off_title_android": "Увімкніть Bluetooth для цього пристрою",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth вимкнено для ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Усі облікові записи неправильні",
     "warranty_confirm_prompt_new": "Переконайтеся, що надана вами інформація правильна, оскільки ви не зможете змінити її після натискання кнопки «Підтвердити та продовжити».",
     "CL_CF_SD_share_not_success": "Поділитися не вдалося",
-    "CL_CF_SD_share_success": "Поділ успішний"
+    "CL_CF_SD_share_success": "Поділ успішний",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife потрібен дозвіл Bluetooth для підключення та визначення положення пристрою. Увімкніть його в налаштуваннях телефону для повної функціональності.",
+    "CL_CF_name_not_more_25_length": "Максимальна довжина назви пристрою — 25 символів",
+    "new_chat": "Новий чат",
+    "search_for": "Пошук..."
 }

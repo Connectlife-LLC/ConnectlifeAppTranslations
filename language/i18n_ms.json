@@ -5514,7 +5514,6 @@
     "CL_CF_HP_blue_permission_off_title_android": "Peranti Berdekatan Dilumpuhkan untuk ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth dilumpuhkan untuk ConnectLife",
     "CL_CF_HP_blue_permission_off_content_android": "ConnectLife memerlukan peranti Berdekatan dan lokasi yang tepat untuk menyambung dan menentukan kedudukan peranti. Dayakan mereka dalam tetapan telefon anda untuk kefungsian penuh.",
-    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife memerlukan kebenaran Bluetooth untuk menyambung dan mengesan kedudukan peranti. Dayakan mereka dalam tetapan telefon anda untuk kefungsian penuh.",
     "CL_CF_HP_enable_permissions": "DAPATKAN KEBENARAN",
     "CL_CF_HP_blue_power_off_title_android": "Hidupkan Bluetooth untuk peranti ini",
     "CL_CF_HP_blue_power_off_title_ios": "Bluetooth dilumpuhkan untuk ConnectLife",
@@ -5617,5 +5616,9 @@
     "CL_CF_SD_share_all_accounts_incorrect": "Semua akaun tidak betul",
     "warranty_confirm_prompt_new": "Pastikan maklumat yang anda berikan adalah betul, kerana anda tidak akan dapat mengubahnya selepas mengklik \"Sahkan dan Teruskan.\"",
     "CL_CF_SD_share_not_success": "Perkongsian tidak berjaya",
-    "CL_CF_SD_share_success": "Perkongsian berjaya"
+    "CL_CF_SD_share_success": "Perkongsian berjaya",
+    "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife memerlukan kebenaran Bluetooth untuk menyambung dan menentukan kedudukan peranti. Dayakan mereka dalam tetapan telefon anda untuk kefungsian penuh.",
+    "CL_CF_name_not_more_25_length": "Panjang maksimum nama perkakas ialah 25 aksara",
+    "new_chat": "Sembang baharu",
+    "search_for": "Cari..."
 }
