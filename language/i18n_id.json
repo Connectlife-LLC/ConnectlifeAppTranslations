@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Dengan mengaktifkan fungsi penyegaran, kap akan aktif setiap jam dan menyegarkan udara selama 10 menit. Fungsi tersebut akan otomatis mati dalam 24 jam. \n",
     "CL_light": "Lampu",
     "CL_light_content": "Anda dapat menghidupkan atau mematikan lampu di kap rumah Anda.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Statistik konsumsi merupakan estimasi dan sebaiknya digunakan hanya sebagai referensi. Data konsumsi hanya dilacak saat perangkat terhubung ke jaringan."
+    "CL_DV_CM_energy_consumption_disclaimer": "Statistik konsumsi merupakan estimasi dan sebaiknya digunakan hanya sebagai referensi. Data konsumsi hanya dilacak saat perangkat terhubung ke jaringan.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife memerlukan perangkat di sekitar dan lokasi yang tepat untuk menghubungkan dan menentukan posisi perangkat. Aktifkan fitur tersebut di pengaturan ponsel Anda agar berfungsi penuh.",
+    "CL_DV_TD_dry_target": "Target kering"
 }

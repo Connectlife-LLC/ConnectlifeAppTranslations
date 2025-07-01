@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Kun raikastustoiminto kytketään päälle, liesituuletin aktivoituu tunnin välein ja raikastaa ilmaa 10 minuutin ajan. Toiminto sammuu automaattisesti 24 tunnin kuluttua. \n",
     "CL_light": "Yleis",
     "CL_light_content": "Voit sytyttää tai sammuttaa liesituulettimessa olevan valon.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Kulutustilastot ovat arvioita ja niitä tulee käyttää vain viitteenä. Kulutustietoja seurataan vain laitteen ollessa yhteydessä verkkoon."
+    "CL_DV_CM_energy_consumption_disclaimer": "Kulutustilastot ovat arvioita ja niitä tulee käyttää vain viitteenä. Kulutustietoja seurataan vain laitteen ollessa yhteydessä verkkoon.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife tarvitsee lähellä olevia laitteita ja tarkan sijainnin yhteyden muodostamiseen ja laitteiden sijainnin määrittämiseen. Ota ne käyttöön puhelimesi asetuksissa saadaksesi täyden toiminnallisuuden.",
+    "CL_DV_TD_dry_target": "Kuiva kohde"
 }
