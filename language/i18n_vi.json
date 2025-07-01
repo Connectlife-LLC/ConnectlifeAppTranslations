@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Bằng cách bật chức năng làm mới, máy hút mùi sẽ kích hoạt mỗi giờ và làm mới không khí trong 10 phút. Chức năng sẽ tự động tắt sau 24 giờ. \n",
     "CL_light": "Nhẹ",
     "CL_light_content": "Bạn có thể bật hoặc tắt đèn trên mui xe.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Thống kê mức tiêu thụ là ước tính và chỉ nên được sử dụng làm tài liệu tham khảo. Dữ liệu mức tiêu thụ chỉ được theo dõi khi thiết bị được kết nối với mạng."
+    "CL_DV_CM_energy_consumption_disclaimer": "Thống kê mức tiêu thụ là ước tính và chỉ nên được sử dụng làm tài liệu tham khảo. Dữ liệu mức tiêu thụ chỉ được theo dõi khi thiết bị được kết nối với mạng.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife cần các thiết bị Gần đó và vị trí chính xác để kết nối và xác định vị trí thiết bị. Bật chúng trong cài đặt điện thoại của bạn để có đầy đủ chức năng.",
+    "CL_DV_TD_dry_target": "Mục tiêu khô"
 }

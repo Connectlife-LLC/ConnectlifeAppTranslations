@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "开启清新功能后，抽油烟机将每小时启动一次，并清新空气 10 分钟。该功能将在 24 小时后自动关闭。__ \n",
     "CL_light": "日常洗",
     "CL_light_content": "您可以打开或关闭引擎盖上的灯。",
-    "CL_DV_CM_energy_consumption_disclaimer": "耗电统计数据为估算值，仅供参考。仅当设备连接到网络时才会跟踪耗电数据。"
+    "CL_DV_CM_energy_consumption_disclaimer": "耗电统计数据为估算值，仅供参考。仅当设备连接到网络时才会跟踪耗电数据。",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife 需要附近的设备和精确位置信息才能连接并确定设备位置。请在手机设置中启用此功能，以获取完整功能。",
+    "CL_DV_TD_dry_target": "干目标"
 }

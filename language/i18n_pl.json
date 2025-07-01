@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Po włączeniu funkcji odświeżania okap będzie się uruchamiał co godzinę i odświeżał powietrze przez 10 minut. Funkcja ta zostanie automatycznie wyłączona po 24 godzinach. \n",
     "CL_light": "Światło",
     "CL_light_content": "Możesz włączyć lub wyłączyć światło na masce.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Statystyki zużycia są szacunkowe i powinny być używane wyłącznie jako odniesienie. Dane dotyczące zużycia są śledzone tylko wtedy, gdy urządzenie jest podłączone do sieci."
+    "CL_DV_CM_energy_consumption_disclaimer": "Statystyki zużycia są szacunkowe i powinny być używane wyłącznie jako odniesienie. Dane dotyczące zużycia są śledzone tylko wtedy, gdy urządzenie jest podłączone do sieci.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife potrzebuje Nearby devices i precyzyjnej lokalizacji, aby połączyć się i określić położenie urządzeń. Włącz je w ustawieniach telefonu, aby uzyskać pełną funkcjonalność.",
+    "CL_DV_TD_dry_target": "Suchy cel"
 }

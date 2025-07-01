@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "새로고침 기능을 켜면 후드가 매시간 작동하여 10분 동안 공기를 새로 고칩니다. 이 기능은 24시간 후에 자동으로 꺼집니다. \n",
     "CL_light": "빛",
     "CL_light_content": "후드의 불을 켜거나 끌 수 있습니다.",
-    "CL_DV_CM_energy_consumption_disclaimer": "소비량 통계는 추정치이며 참고용으로만 사용해야 합니다. 소비량 데이터는 기기가 네트워크에 연결된 동안에만 추적됩니다."
+    "CL_DV_CM_energy_consumption_disclaimer": "소비량 통계는 추정치이며 참고용으로만 사용해야 합니다. 소비량 데이터는 기기가 네트워크에 연결된 동안에만 추적됩니다.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife는 연결 및 기기 위치 확인을 위해 주변 기기와 정확한 위치 정보를 필요로 합니다. 모든 기능을 사용하려면 휴대폰 설정에서 해당 기능을 활성화하세요.",
+    "CL_DV_TD_dry_target": "건조 표적"
 }

@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Zapnutím funkcie osvieženia sa digestor aktivuje každú hodinu a osviežuje vzduch na 10 minút. Funkcia sa automaticky vypne po 24 hodinách. \n",
     "CL_light": "Univerzálny",
     "CL_light_content": "Svetlo na digestore môžete zapnúť alebo vypnúť.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Štatistiky spotreby sú odhadom a mali by sa používať iba ako referencia. Údaje o spotrebe sa sledujú iba vtedy, keď je zariadenie pripojené k sieti."
+    "CL_DV_CM_energy_consumption_disclaimer": "Štatistiky spotreby sú odhadom a mali by sa používať iba ako referencia. Údaje o spotrebe sa sledujú iba vtedy, keď je zariadenie pripojené k sieti.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife potrebuje na pripojenie a určenie polohy zariadení zariadenia v okolí a presnú polohu. Pre plnú funkčnosť ich povoľte v nastaveniach telefónu.",
+    "CL_DV_TD_dry_target": "Suchý terč"
 }

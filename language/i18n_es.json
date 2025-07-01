@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Al activar la función de renovación, la campana se activará cada hora y renovará el aire durante 10 minutos. La función se desactivará automáticamente a las \n horas.",
     "CL_light": "Universal",
     "CL_light_content": "Puedes encender o apagar la luz de tu capó.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Las estadísticas de consumo son una estimación y deben usarse solo como referencia. Los datos de consumo se registran únicamente mientras el dispositivo está conectado a la red."
+    "CL_DV_CM_energy_consumption_disclaimer": "Las estadísticas de consumo son una estimación y deben usarse solo como referencia. Los datos de consumo se registran únicamente mientras el dispositivo está conectado a la red.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife necesita dispositivos cercanos y una ubicación precisa para conectarse y determinar su ubicación. Habilítalos en la configuración de tu teléfono para disfrutar de todas sus funciones.",
+    "CL_DV_TD_dry_target": "Objetivo seco"
 }

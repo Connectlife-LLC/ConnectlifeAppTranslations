@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Prin activarea funcției de reîmprospătare, hota se va activa la fiecare oră și va reîmprospăta aerul timp de 10 minute. Funcția se va opri automat în 24 de ore. \n",
     "CL_light": "Aprinde",
     "CL_light_content": "Poți aprinde sau stinge lumina de pe hotă.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Statisticile de consum sunt o estimare și ar trebui utilizate doar ca referință. Datele de consum sunt urmărite doar atunci când dispozitivul este conectat la rețea."
+    "CL_DV_CM_energy_consumption_disclaimer": "Statisticile de consum sunt o estimare și ar trebui utilizate doar ca referință. Datele de consum sunt urmărite doar atunci când dispozitivul este conectat la rețea.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife are nevoie de dispozitive din apropiere și de locația precisă pentru a se conecta și a determina pozițiile dispozitivelor. Activează-le în setările telefonului pentru funcționalitate completă.",
+    "CL_DV_TD_dry_target": "Țintă uscată"
 }
