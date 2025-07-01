@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Ved å slå på oppfriskningsfunksjonen, vil ventilatoren aktiveres hver time og friske opp luften i 10 minutter. Funksjonen vil automatisk slås av etter 24 timer. \n",
     "CL_light": "Lys",
     "CL_light_content": "Du kan slå av eller på lyset på panseret.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Forbruksstatistikk er et estimat og bør kun brukes som referanse. Forbruksdata spores kun mens enheten er koblet til nettverket."
+    "CL_DV_CM_energy_consumption_disclaimer": "Forbruksstatistikk er et estimat og bør kun brukes som referanse. Forbruksdata spores kun mens enheten er koblet til nettverket.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife trenger enheter i nærheten og presis posisjon for å koble til og bestemme enhetens posisjoner. Aktiver dem i telefoninnstillingene for full funksjonalitet.",
+    "CL_DV_TD_dry_target": "Tørt mål"
 }

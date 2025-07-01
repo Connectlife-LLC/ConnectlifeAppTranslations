@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Durch Einschalten der Erfrischungsfunktion wird die Dunstabzugshaube stündlich aktiviert und erfrischt die Luft 10 Minuten lang. Die Funktion wird nach 24 Stunden automatisch deaktiviert. \n",
     "CL_light": "Universal",
     "CL_light_content": "Sie können das Licht Ihrer Dunstabzugshaube ein- oder ausschalten.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Die Verbrauchsstatistik ist eine Schätzung und sollte nur als Referenz verwendet werden. Verbrauchsdaten werden nur erfasst, während das Gerät mit dem Netzwerk verbunden ist."
+    "CL_DV_CM_energy_consumption_disclaimer": "Die Verbrauchsstatistik ist eine Schätzung und sollte nur als Referenz verwendet werden. Verbrauchsdaten werden nur erfasst, während das Gerät mit dem Netzwerk verbunden ist.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife benötigt Geräte in der Nähe und genaue Standortdaten, um eine Verbindung herzustellen und Gerätepositionen zu bestimmen. Aktivieren Sie diese in den Einstellungen Ihres Telefons für die volle Funktionalität.",
+    "CL_DV_TD_dry_target": "Trockenes Ziel"
 }

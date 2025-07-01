@@ -5688,5 +5688,7 @@
     "CL_refresh_content": "Attivando la funzione di rinfrescamento, la cappa si attiverà ogni ora e rinfrescerà l'aria per 10 minuti. La funzione si spegnerà automaticamente dopo 24 ore. \n",
     "CL_light": "Universale",
     "CL_light_content": "Puoi accendere o spegnere la luce del cofano.",
-    "CL_DV_CM_energy_consumption_disclaimer": "Le statistiche sui consumi sono una stima e devono essere utilizzate solo come riferimento. I dati sui consumi vengono monitorati solo quando il dispositivo è connesso alla rete."
+    "CL_DV_CM_energy_consumption_disclaimer": "Le statistiche sui consumi sono una stima e devono essere utilizzate solo come riferimento. I dati sui consumi vengono monitorati solo quando il dispositivo è connesso alla rete.",
+    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife necessita di dispositivi nelle vicinanze e di una posizione precisa per connettersi e determinare la posizione dei dispositivi. Abilitali nelle impostazioni del telefono per una funzionalità completa.",
+    "CL_DV_TD_dry_target": "Bersaglio asciutto"
 }
