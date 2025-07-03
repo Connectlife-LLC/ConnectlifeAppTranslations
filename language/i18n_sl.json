@@ -5689,6 +5689,7 @@
     "CL_light": "Univerzalen",
     "CL_light_content": "Luč na napi lahko vklopite ali izklopite.",
     "CL_DV_CM_energy_consumption_disclaimer": "Statistika porabe je ocena in jo je treba uporabljati le kot referenco. Podatki o porabi se spremljajo le, ko je naprava povezana z omrežjem.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife za povezavo in določanje položaja naprav potrebuje naprave v bližini in natančno lokacijo. Za polno funkcionalnost ju omogočite v nastavitvah telefona.",
-    "CL_DV_TD_dry_target": "Suha tarča"
+    "CL_DV_TD_dry_target": "Suha tarča",
+    "CL_DV_LC_selec_door_lock_to_link": "Izberite ključavnico vrat za povezavo",
+    "CL_DV_LC_ota_content": "Odpravite znane težave"
 }

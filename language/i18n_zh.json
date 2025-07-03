@@ -5682,13 +5682,14 @@
     "fan_speed": "风扇转速",
     "CL_GOOGLE_matter_device_setup_content_one": "通过 Google 快速、可靠地进行设置。",
     "CL_GOOGLE_matter_device_setup_content_two": "通过 ConnectLife、Google/Apple Home 应用程序或语音助手进行控制。",
-    "CL_GOOGLE_matter_device_setup_content": "我们将通过 Google Home 平台设置您的 Matter 设备。我们需要您的 Google 帐户访问权限才能完成此过程。__ \n \n这使得 ConnectLife 能够：",
+    "CL_GOOGLE_matter_device_setup_content": "我们将通过 Google Home 平台设置您的 Matter 设备。我们需要您的 Google 帐户访问权限才能完成此过程。 \n \n这使得 ConnectLife 能够：",
     "CL_learn_more_upper_case": "了解更多",
     "CL_refresh": "刷新",
     "CL_refresh_content": "开启清新功能后，抽油烟机将每小时启动一次，并清新空气 10 分钟。该功能将在 24 小时后自动关闭。__ \n",
     "CL_light": "日常洗",
     "CL_light_content": "您可以打开或关闭引擎盖上的灯。",
     "CL_DV_CM_energy_consumption_disclaimer": "耗电统计数据为估算值，仅供参考。仅当设备连接到网络时才会跟踪耗电数据。",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife 需要附近的设备和精确位置信息才能连接并确定设备位置。请在手机设置中启用此功能，以获取完整功能。",
-    "CL_DV_TD_dry_target": "干目标"
+    "CL_DV_TD_dry_target": "干目标",
+    "CL_DV_LC_selec_door_lock_to_link": "选择要链接的门锁",
+    "CL_DV_LC_ota_content": "修复已知问题"
 }

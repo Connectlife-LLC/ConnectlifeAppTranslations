@@ -5689,6 +5689,7 @@
     "CL_light": "Világos",
     "CL_light_content": "Be- és kikapcsolhatod a páraelszívód lámpáját.",
     "CL_DV_CM_energy_consumption_disclaimer": "A fogyasztási statisztikák becslések, és csak referenciaként használhatók. A fogyasztási adatokat csak akkor követi nyomon a rendszer, amikor az eszköz csatlakozik a hálózathoz.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "A ConnectLife-nak közeli eszközökre és pontos tartózkodási helyre van szüksége a csatlakozáshoz és az eszközök pozíciójának meghatározásához. A teljes funkcionalitás eléréséhez engedélyezze ezeket a telefon beállításaiban.",
-    "CL_DV_TD_dry_target": "Száraz célpont"
+    "CL_DV_TD_dry_target": "Száraz célpont",
+    "CL_DV_LC_selec_door_lock_to_link": "Válassza ki az ajtózárat a csatoláshoz",
+    "CL_DV_LC_ota_content": "Ismert problémák javítása"
 }

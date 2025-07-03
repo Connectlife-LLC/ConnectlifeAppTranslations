@@ -5689,6 +5689,7 @@
     "CL_light": "Universal",
     "CL_light_content": "Du kan tända eller släcka lampan på din fläkt.",
     "CL_DV_CM_energy_consumption_disclaimer": "Förbrukningsstatistiken är en uppskattning och bör endast användas som referens. Förbrukningsdata spåras endast när enheten är ansluten till nätverket.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife behöver enheter i närheten och exakt plats för att ansluta och bestämma enheternas positioner. Aktivera dem i telefonens inställningar för full funktionalitet.",
-    "CL_DV_TD_dry_target": "Torrt mål"
+    "CL_DV_TD_dry_target": "Torrt mål",
+    "CL_DV_LC_selec_door_lock_to_link": "Välj dörrlås att länka",
+    "CL_DV_LC_ota_content": "Åtgärda kända problem"
 }

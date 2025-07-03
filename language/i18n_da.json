@@ -5689,6 +5689,7 @@
     "CL_light": "Universal",
     "CL_light_content": "Du kan tænde eller slukke lyset på din emhætte.",
     "CL_DV_CM_energy_consumption_disclaimer": "Forbrugsstatistikken er et estimat og bør kun bruges som reference. Forbrugsdata spores kun, når enheden er tilsluttet netværket.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife skal bruge enheder i nærheden og præcis placering for at kunne oprette forbindelse og bestemme enhedernes positioner. Aktiver dem i din telefons indstillinger for at få fuld funktionalitet.",
-    "CL_DV_TD_dry_target": "Tørt mål"
+    "CL_DV_TD_dry_target": "Tørt mål",
+    "CL_DV_LC_selec_door_lock_to_link": "Vælg dørlås for at forbinde",
+    "CL_DV_LC_ota_content": "Løs kendte problemer"
 }

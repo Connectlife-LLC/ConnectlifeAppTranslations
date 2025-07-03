@@ -5689,6 +5689,7 @@
     "CL_light": "Universel",
     "CL_light_content": "Vous pouvez allumer ou éteindre la lumière de votre hotte.",
     "CL_DV_CM_energy_consumption_disclaimer": "Les statistiques de consommation sont une estimation et ne doivent être utilisées qu'à titre indicatif. Elles ne sont suivies que lorsque l'appareil est connecté au réseau.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife a besoin d'appareils à proximité et d'une localisation précise pour se connecter et déterminer leur position. Activez-les dans les paramètres de votre téléphone pour profiter de toutes les fonctionnalités.",
-    "CL_DV_TD_dry_target": "Cible sèche"
+    "CL_DV_TD_dry_target": "Cible sèche",
+    "CL_DV_LC_selec_door_lock_to_link": "Sélectionnez la serrure de porte à lier",
+    "CL_DV_LC_ota_content": "Résoudre les problèmes connus"
 }

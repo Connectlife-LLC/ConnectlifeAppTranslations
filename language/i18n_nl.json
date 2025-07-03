@@ -5689,6 +5689,7 @@
     "CL_light": "Universeel",
     "CL_light_content": "U kunt het licht op uw afzuigkap aan- of uitzetten.",
     "CL_DV_CM_energy_consumption_disclaimer": "Verbruiksstatistieken zijn een schatting en dienen alleen als referentie. Verbruiksgegevens worden alleen bijgehouden zolang het apparaat verbonden is met het netwerk.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife heeft apparaten in de buurt en een nauwkeurige locatie nodig om verbinding te maken en de locatie van apparaten te bepalen. Schakel deze in via de instellingen van je telefoon voor volledige functionaliteit.",
-    "CL_DV_TD_dry_target": "Droog doelwit"
+    "CL_DV_TD_dry_target": "Droog doelwit",
+    "CL_DV_LC_selec_door_lock_to_link": "Selecteer deurslot om te koppelen",
+    "CL_DV_LC_ota_content": "Bekende problemen oplossen"
 }

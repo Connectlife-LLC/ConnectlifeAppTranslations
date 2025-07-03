@@ -5689,6 +5689,7 @@
     "CL_light": "Cahaya",
     "CL_light_content": "Anda boleh menghidupkan atau mematikan lampu pada tudung anda.",
     "CL_DV_CM_energy_consumption_disclaimer": "Statistik penggunaan adalah anggaran dan harus digunakan hanya sebagai rujukan. Data penggunaan dijejaki hanya semasa peranti disambungkan ke rangkaian.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife memerlukan peranti Berdekatan dan lokasi yang tepat untuk menyambung dan menentukan kedudukan peranti. Dayakan mereka dalam tetapan telefon anda untuk kefungsian penuh.",
-    "CL_DV_TD_dry_target": "Sasaran kering"
+    "CL_DV_TD_dry_target": "Sasaran kering",
+    "CL_DV_LC_selec_door_lock_to_link": "Pilih kunci pintu untuk dipautkan",
+    "CL_DV_LC_ota_content": "Betulkan isu yang diketahui"
 }

@@ -5689,6 +5689,7 @@
     "CL_light": "ユニバーサル",
     "CL_light_content": "ボンネットのライトをオンまたはオフにすることができます。",
     "CL_DV_CM_energy_consumption_disclaimer": "消費統計は推定値であり、参考値としてのみご利用ください。消費データはデバイスがネットワークに接続されている間のみ追跡されます。",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife は、接続してデバイスの位置を特定するために、Nearby デバイスと正確な位置情報を必要とします。すべての機能を使用するには、スマートフォンの設定でこれらを有効にしてください。",
-    "CL_DV_TD_dry_target": "ドライターゲット"
+    "CL_DV_TD_dry_target": "ドライターゲット",
+    "CL_DV_LC_selec_door_lock_to_link": "リンクするドアロックを選択",
+    "CL_DV_LC_ota_content": "既知の問題を修正"
 }

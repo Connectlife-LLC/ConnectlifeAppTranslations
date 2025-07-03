@@ -5689,6 +5689,7 @@
     "CL_light": "אוֹר",
     "CL_light_content": "ניתן להדליק או לכבות את האור שעל מכסה המנוע.",
     "CL_DV_CM_energy_consumption_disclaimer": "סטטיסטיקות הצריכה הן הערכה בלבד ויש להשתמש בהן כנקודת ייחוס בלבד. נתוני הצריכה עוקבים רק כאשר המכשיר מחובר לרשת.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife זקוק למכשירים בקרבת מקום ולמיקום מדויק כדי להתחבר ולקבוע את מיקומי המכשירים. הפעל אותם בהגדרות הטלפון שלך לקבלת פונקציונליות מלאה.",
-    "CL_DV_TD_dry_target": "מטרה יבשה"
+    "CL_DV_TD_dry_target": "מטרה יבשה",
+    "CL_DV_LC_selec_door_lock_to_link": "בחר מנעול דלת לקישור",
+    "CL_DV_LC_ota_content": "תקן בעיות ידועות"
 }

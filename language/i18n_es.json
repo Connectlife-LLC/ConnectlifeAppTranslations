@@ -5689,6 +5689,7 @@
     "CL_light": "Universal",
     "CL_light_content": "Puedes encender o apagar la luz de tu capó.",
     "CL_DV_CM_energy_consumption_disclaimer": "Las estadísticas de consumo son una estimación y deben usarse solo como referencia. Los datos de consumo se registran únicamente mientras el dispositivo está conectado a la red.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife necesita dispositivos cercanos y una ubicación precisa para conectarse y determinar su ubicación. Habilítalos en la configuración de tu teléfono para disfrutar de todas sus funciones.",
-    "CL_DV_TD_dry_target": "Objetivo seco"
+    "CL_DV_TD_dry_target": "Objetivo seco",
+    "CL_DV_LC_selec_door_lock_to_link": "Seleccione la cerradura de la puerta para vincular",
+    "CL_DV_LC_ota_content": "Solucionar problemas conocidos"
 }
