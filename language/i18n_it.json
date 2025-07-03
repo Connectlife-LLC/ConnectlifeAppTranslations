@@ -5685,10 +5685,11 @@
     "CL_GOOGLE_matter_device_setup_content": "Configureremo il tuo dispositivo Matter tramite la piattaforma Google Home. Per completare la procedura, abbiamo bisogno dell'accesso al tuo account Google. \n \n Questo consente a ConnectLife di:",
     "CL_learn_more_upper_case": "SAPERNE DI PIÙ",
     "CL_refresh": "Aggiornare",
-    "CL_refresh_content": "Attivando la funzione di rinfrescamento, la cappa si attiverà ogni ora e rinfrescerà l'aria per 10 minuti. La funzione si spegnerà automaticamente dopo 24 ore. \n",
+    "CL_refresh_content": "Attivando la funzione di rinfresco, la cappa si attiva ogni ora e rinfresca l'aria per 10 minuti. La funzione si spegne automaticamente dopo 24 ore.",
     "CL_light": "Universale",
     "CL_light_content": "Puoi accendere o spegnere la luce del cofano.",
     "CL_DV_CM_energy_consumption_disclaimer": "Le statistiche sui consumi sono una stima e devono essere utilizzate solo come riferimento. I dati sui consumi vengono monitorati solo quando il dispositivo è connesso alla rete.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife necessita di dispositivi nelle vicinanze e di una posizione precisa per connettersi e determinare la posizione dei dispositivi. Abilitali nelle impostazioni del telefono per una funzionalità completa.",
-    "CL_DV_TD_dry_target": "Bersaglio asciutto"
+    "CL_DV_TD_dry_target": "Lavaggio a secco",
+    "CL_DV_LC_selec_door_lock_to_link": "Seleziona la serratura della porta da collegare",
+    "CL_DV_LC_ota_content": "Risolvi problemi noti"
 }

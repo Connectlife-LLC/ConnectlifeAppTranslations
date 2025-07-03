@@ -5689,6 +5689,7 @@
     "CL_light": "Yleis",
     "CL_light_content": "Voit sytyttää tai sammuttaa liesituulettimessa olevan valon.",
     "CL_DV_CM_energy_consumption_disclaimer": "Kulutustilastot ovat arvioita ja niitä tulee käyttää vain viitteenä. Kulutustietoja seurataan vain laitteen ollessa yhteydessä verkkoon.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife tarvitsee lähellä olevia laitteita ja tarkan sijainnin yhteyden muodostamiseen ja laitteiden sijainnin määrittämiseen. Ota ne käyttöön puhelimesi asetuksissa saadaksesi täyden toiminnallisuuden.",
-    "CL_DV_TD_dry_target": "Kuiva kohde"
+    "CL_DV_TD_dry_target": "Kuiva kohde",
+    "CL_DV_LC_selec_door_lock_to_link": "Valitse oven lukko linkitettäväksi",
+    "CL_DV_LC_ota_content": "Korjaa tunnettuja ongelmia"
 }

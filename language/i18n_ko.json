@@ -5689,6 +5689,7 @@
     "CL_light": "빛",
     "CL_light_content": "후드의 불을 켜거나 끌 수 있습니다.",
     "CL_DV_CM_energy_consumption_disclaimer": "소비량 통계는 추정치이며 참고용으로만 사용해야 합니다. 소비량 데이터는 기기가 네트워크에 연결된 동안에만 추적됩니다.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife는 연결 및 기기 위치 확인을 위해 주변 기기와 정확한 위치 정보를 필요로 합니다. 모든 기능을 사용하려면 휴대폰 설정에서 해당 기능을 활성화하세요.",
-    "CL_DV_TD_dry_target": "건조 표적"
+    "CL_DV_TD_dry_target": "건조 표적",
+    "CL_DV_LC_selec_door_lock_to_link": "연결할 도어 잠금장치를 선택하세요",
+    "CL_DV_LC_ota_content": "알려진 문제 해결"
 }

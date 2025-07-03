@@ -5689,6 +5689,7 @@
     "CL_light": "Aprinde",
     "CL_light_content": "Poți aprinde sau stinge lumina de pe hotă.",
     "CL_DV_CM_energy_consumption_disclaimer": "Statisticile de consum sunt o estimare și ar trebui utilizate doar ca referință. Datele de consum sunt urmărite doar atunci când dispozitivul este conectat la rețea.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife are nevoie de dispozitive din apropiere și de locația precisă pentru a se conecta și a determina pozițiile dispozitivelor. Activează-le în setările telefonului pentru funcționalitate completă.",
-    "CL_DV_TD_dry_target": "Țintă uscată"
+    "CL_DV_TD_dry_target": "Țintă uscată",
+    "CL_DV_LC_selec_door_lock_to_link": "Selectați încuietoarea ușii pentru a o conecta",
+    "CL_DV_LC_ota_content": "Remediați problemele cunoscute"
 }

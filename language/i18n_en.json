@@ -5689,6 +5689,7 @@
     "CL_light": "Light",
     "CL_light_content": "You can turn on or off the light on your hood.",
     "CL_DV_CM_energy_consumption_disclaimer": "Consumption statistics is an estimation and should be used only as reference. Consumption data is tracked only while the device is connected to the network.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife needs Nearby devices and precise location to connect and determine device positions. Enable them in your phone's settings for full functionality.",
-    "CL_DV_TD_dry_target": "Dry target"
+    "CL_DV_TD_dry_target": "Dry target",
+    "CL_DV_LC_selec_door_lock_to_link": "Select door lock to link",
+    "CL_DV_LC_ota_content": "Fix known issues"
 }

@@ -5689,6 +5689,7 @@
     "CL_light": "HAFİF",
     "CL_light_content": "Davlumbazınızdaki ışığı açıp kapatabilirsiniz.",
     "CL_DV_CM_energy_consumption_disclaimer": "Tüketim istatistikleri bir tahmindir ve yalnızca referans olarak kullanılmalıdır. Tüketim verileri yalnızca cihaz ağa bağlıyken izlenir.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife, cihaz konumlarını belirlemek ve bağlanmak için Yakın cihazlara ve kesin konuma ihtiyaç duyar. Tam işlevsellik için bunları telefonunuzun ayarlarında etkinleştirin.",
-    "CL_DV_TD_dry_target": "Kuru hedef"
+    "CL_DV_TD_dry_target": "Kuru hedef",
+    "CL_DV_LC_selec_door_lock_to_link": "Bağlanmak için kapı kilidi seçin",
+    "CL_DV_LC_ota_content": "Bilinen sorunları düzeltin"
 }

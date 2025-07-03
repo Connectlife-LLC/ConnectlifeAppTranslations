@@ -5689,6 +5689,7 @@
     "CL_light": "Univerzálny",
     "CL_light_content": "Svetlo na digestore môžete zapnúť alebo vypnúť.",
     "CL_DV_CM_energy_consumption_disclaimer": "Štatistiky spotreby sú odhadom a mali by sa používať iba ako referencia. Údaje o spotrebe sa sledujú iba vtedy, keď je zariadenie pripojené k sieti.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife potrebuje na pripojenie a určenie polohy zariadení zariadenia v okolí a presnú polohu. Pre plnú funkčnosť ich povoľte v nastaveniach telefónu.",
-    "CL_DV_TD_dry_target": "Suchý terč"
+    "CL_DV_TD_dry_target": "Suchý terč",
+    "CL_DV_LC_selec_door_lock_to_link": "Vyberte zámok dverí, ktorý chcete prepojiť",
+    "CL_DV_LC_ota_content": "Oprava známych problémov"
 }

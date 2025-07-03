@@ -5689,6 +5689,7 @@
     "CL_light": "Luz",
     "CL_light_content": "Pode ligar ou desligar a luz do seu exaustor.",
     "CL_DV_CM_energy_consumption_disclaimer": "As estatísticas de consumo são uma estimativa e devem ser utilizadas apenas como referência. Os dados de consumo são registados apenas enquanto o dispositivo está ligado à rede.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "A ConnectLife precisa dos Dispositivos Próximos e de uma localização exacta para estabelecer ligação e determinar as posições dos dispositivos. Active-os nas definições do seu telemóvel para uma funcionalidade completa.",
-    "CL_DV_TD_dry_target": "Objetivo de Secagem"
+    "CL_DV_TD_dry_target": "Objetivo de Secagem",
+    "CL_DV_LC_selec_door_lock_to_link": "Selecione a fechadura da porta para vincular",
+    "CL_DV_LC_ota_content": "Corrigir problemas conhecidos"
 }

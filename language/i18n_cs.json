@@ -5689,6 +5689,7 @@
     "CL_light": "Univerzální",
     "CL_light_content": "Světlo na digestoři můžete zapnout nebo vypnout.",
     "CL_DV_CM_energy_consumption_disclaimer": "Statistiky spotřeby jsou odhadem a měly by být používány pouze jako reference. Údaje o spotřebě se sledují pouze tehdy, když je zařízení připojeno k síti.",
-    "CL_CF_HP_blue_permission_off_content_android_change": "ConnectLife potřebuje pro připojení a určení polohy zařízení zařízení v okolí a přesnou polohu. Pro plnou funkčnost je povolte v nastavení telefonu.",
-    "CL_DV_TD_dry_target": "Suchý terč"
+    "CL_DV_TD_dry_target": "Suchý terč",
+    "CL_DV_LC_selec_door_lock_to_link": "Vyberte zámek dveří k propojení",
+    "CL_DV_LC_ota_content": "Oprava známých problémů"
 }
