@@ -5729,5 +5729,17 @@
     "Cancel": "Отмена",
     "clean_mode_pop_title": "Режим очистки активен",
     "holiday_mode_pop_title": "Режим отпуска активен",
-    "holiday_and_clean_mode_pop_content": "Изменение температуры отключит режим очистки. Хотите продолжить?"
+    "holiday_and_clean_mode_pop_content": "Изменение температуры отключит режим очистки. Хотите продолжить?",
+    "CL_CF_when_weather_condition": "Когда погодные условия ##",
+    "weather_condition": "Погодные условия",
+    "CL_CF_AU_time_period_des": "## от $$ до &&, доступны триггеры ниже.",
+    "CL_CF_Everyday": "Каждый день",
+    "CL_CF_before_sunrise": "Перед восходом солнца",
+    "CL_CF_after_sunrise": "После восхода солнца",
+    "CL_CF_before_sunset": "Перед заходом солнца",
+    "CL_CF_after_sunset": "После захода солнца",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Сеть устройства открыта для сопряжения в течение 3 минут. Теперь вы можете продолжить в приложении, нажав кнопку «ДАЛЕЕ» ниже.",
+    "filter3": "ФИЛЬТР 3",
+    "clean_recirculation_filter_3": "Очистите фильтр рециркуляции 3"
 }

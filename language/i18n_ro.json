@@ -5729,5 +5729,17 @@
     "Cancel": "Anula",
     "clean_mode_pop_title": "Mod de curățare activ",
     "holiday_mode_pop_title": "Mod vacanță activ",
-    "holiday_and_clean_mode_pop_content": "Schimbarea temperaturii va dezactiva modul de curățare. Doriți să continuați?"
+    "holiday_and_clean_mode_pop_content": "Schimbarea temperaturii va dezactiva modul de curățare. Doriți să continuați?",
+    "CL_CF_when_weather_condition": "Când condițiile meteorologice sunt ##",
+    "weather_condition": "Condiții meteorologice",
+    "CL_CF_AU_time_period_des": "## de la $$ la &&, declanșatoarele de mai jos sunt disponibile.",
+    "CL_CF_Everyday": "În fiecare zi",
+    "CL_CF_before_sunrise": "Înainte de răsăritul soarelui",
+    "CL_CF_after_sunrise": "După răsăritul soarelui",
+    "CL_CF_before_sunset": "Înainte de apusul soarelui",
+    "CL_CF_after_sunset": "După apusul soarelui",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Rețeaua dispozitivului este acum deschisă pentru asociere timp de 3 minute. Acum puteți continua în aplicație apăsând butonul ÎNAINTE de mai jos.",
+    "filter3": "FILTRU 3",
+    "clean_recirculation_filter_3": "Curățați filtrul de recirculare 3"
 }

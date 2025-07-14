@@ -1580,7 +1580,7 @@
     "d_yellow": "Zielony kiełek",
     "which_wine_cabinet": "W której szafce na wino chciałbyś zapisać swoje wino?",
     "d_picture_of_warranty": "Zdjęcia gwarancyjne",
-    "d_offline": "OFFLINE",
+    "d_offline": "NIEAKTYWNY",
     "d_select_appliance_to_transfer": "Wybierz urządzenie, do którego chcesz przenieść ustawienia",
     "d_connected_appliance": "PODŁĄCZONE URZĄDZENIE",
     "d_Select_settings": "Wybierz ustawienia, które chcesz przenieść",
@@ -5729,5 +5729,17 @@
     "Cancel": "Anulować",
     "clean_mode_pop_title": "Tryb czyszczenia aktywny",
     "holiday_mode_pop_title": "Tryb wakacyjny aktywny",
-    "holiday_and_clean_mode_pop_content": "Zmiana temperatury wyłączy tryb czyszczenia. Czy chcesz kontynuować?"
+    "holiday_and_clean_mode_pop_content": "Zmiana temperatury wyłączy tryb czyszczenia. Czy chcesz kontynuować?",
+    "CL_CF_when_weather_condition": "Kiedy warunki pogodowe są ##",
+    "weather_condition": "Warunki pogodowe",
+    "CL_CF_AU_time_period_des": "## od $$ do &&, dostępne są poniższe wyzwalacze.",
+    "CL_CF_Everyday": "Codzienny",
+    "CL_CF_before_sunrise": "Przed wschodem słońca",
+    "CL_CF_after_sunrise": "Po wschodzie słońca",
+    "CL_CF_before_sunset": "Przed zachodem słońca",
+    "CL_CF_after_sunset": "Po zachodzie słońca",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Sieć urządzenia jest teraz otwarta i można ją sparować przez 3 minuty. Możesz teraz przejść dalej w aplikacji, dotykając przycisku DALEJ poniżej.",
+    "filter3": "FILTR 3",
+    "clean_recirculation_filter_3": "Wyczyść filtr recyrkulacyjny 3"
 }

@@ -5729,5 +5729,17 @@
     "Cancel": "取消",
     "clean_mode_pop_title": "清潔模式激活",
     "holiday_mode_pop_title": "假日模式已激活",
-    "holiday_and_clean_mode_pop_content": "更改溫度將關閉清潔模式。是否繼續？"
+    "holiday_and_clean_mode_pop_content": "更改溫度將關閉清潔模式。是否繼續？",
+    "CL_CF_when_weather_condition": "天氣狀況為##時",
+    "weather_condition": "天氣狀況",
+    "CL_CF_AU_time_period_des": "## 從 $$ 到 &&，下面的觸發器可用。",
+    "CL_CF_Everyday": "每天",
+    "CL_CF_before_sunrise": "日出前",
+    "CL_CF_after_sunrise": "日出後",
+    "CL_CF_before_sunset": "日落之前",
+    "CL_CF_after_sunset": "日落後",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "設備網路現已開放配對，等待 3 分鐘。現在您可以在應用程式中點擊下方的「下一步」按鈕繼續操作。",
+    "filter3": "過濾器 3",
+    "clean_recirculation_filter_3": "清潔循環過濾器 3"
 }
