@@ -5729,5 +5729,19 @@
     "Cancel": "Zrušit",
     "clean_mode_pop_title": "Aktivní režim čištění",
     "holiday_mode_pop_title": "Aktivní režim dovolené",
-    "holiday_and_clean_mode_pop_content": "Změnou teploty se režim čištění vypne. Chcete pokračovat?"
+    "holiday_and_clean_mode_pop_content": "Změnou teploty se režim čištění vypne. Chcete pokračovat?",
+    "CL_CF_when_weather_condition": "Když je počasí ##",
+    "weather_condition": "Počasí",
+    "CL_CF_AU_time_period_des": "## od $$ do &&, k dispozici jsou níže uvedené spouštěče.",
+    "CL_CF_Everyday": "Každodenní",
+    "CL_CF_before_sunrise": "Před východem slunce",
+    "CL_CF_after_sunrise": "Po východu slunce",
+    "CL_CF_before_sunset": "Před západem slunce",
+    "CL_CF_after_sunset": "Po západu slunce",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Síť zařízení je nyní otevřená pro párování po dobu 3 minut. Nyní můžete v aplikaci pokračovat klepnutím na tlačítko DALŠÍ níže.",
+    "filter3": "FILTR 3",
+    "clean_recirculation_filter_3": "Vyčistěte recirkulační filtr 3",
+    "holiday_mode_pop_content": "Změnou teploty se vypne režim dovolené. Chcete pokračovat?",
+    "clean_mode_pop_content": "Změnou teploty se režim čištění vypne. Chcete pokračovat?"
 }

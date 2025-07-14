@@ -5729,5 +5729,19 @@
     "Cancel": "Peruuttaa",
     "clean_mode_pop_title": "Puhdistustila aktiivinen",
     "holiday_mode_pop_title": "Lomatila aktiivinen",
-    "holiday_and_clean_mode_pop_content": "Lämpötilan muuttaminen poistaa puhdistustilan käytöstä. Haluatko jatkaa?"
+    "holiday_and_clean_mode_pop_content": "Lämpötilan muuttaminen poistaa puhdistustilan käytöstä. Haluatko jatkaa?",
+    "CL_CF_when_weather_condition": "Kun sääolosuhteet ovat ##",
+    "weather_condition": "Sääolosuhteet",
+    "CL_CF_AU_time_period_des": "## välillä $$ - &&, alla olevat liipaisimet ovat käytettävissä.",
+    "CL_CF_Everyday": "Joka päivä",
+    "CL_CF_before_sunrise": "Ennen auringonnousua",
+    "CL_CF_after_sunrise": "Auringonnousun jälkeen",
+    "CL_CF_before_sunset": "Ennen auringonlaskua",
+    "CL_CF_after_sunset": "Auringonlaskun jälkeen",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Laitteen verkko on nyt avoinna pariliitosta varten 3 minuutin ajan. Voit nyt jatkaa sovelluksessa napauttamalla alla olevaa SEURAAVA-painiketta.",
+    "filter3": "SUODATIN 3",
+    "clean_recirculation_filter_3": "Puhdista kiertoilmasuodatin 3",
+    "holiday_mode_pop_content": "Lämpötilan muuttaminen poistaa lomatilan käytöstä. Haluatko jatkaa?",
+    "clean_mode_pop_content": "Lämpötilan muuttaminen poistaa puhdistustilan käytöstä. Haluatko jatkaa?"
 }

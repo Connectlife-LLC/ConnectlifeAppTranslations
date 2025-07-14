@@ -5729,5 +5729,19 @@
     "Cancel": "Ophæve",
     "clean_mode_pop_title": "Rengøringstilstand aktiv",
     "holiday_mode_pop_title": "Ferietilstand aktiv",
-    "holiday_and_clean_mode_pop_content": "Ændring af temperaturen vil deaktivere rengøringstilstanden. Vil du fortsætte?"
+    "holiday_and_clean_mode_pop_content": "Ændring af temperaturen vil deaktivere rengøringstilstanden. Vil du fortsætte?",
+    "CL_CF_when_weather_condition": "Når vejrforholdene er ##",
+    "weather_condition": "Vejrforhold",
+    "CL_CF_AU_time_period_des": "## fra $$ til &&, nedenstående udløsere er tilgængelige.",
+    "CL_CF_Everyday": "Hverdag",
+    "CL_CF_before_sunrise": "Før solopgang",
+    "CL_CF_after_sunrise": "Efter solopgang",
+    "CL_CF_before_sunset": "Før solnedgang",
+    "CL_CF_after_sunset": "Efter solnedgang",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Enhedens netværk er nu åbent for parring i 3 minutter. Du kan nu fortsætte i appen ved at trykke på knappen NÆSTE nedenfor.",
+    "filter3": "FILTER 3",
+    "clean_recirculation_filter_3": "Rengør recirkulationsfilter 3",
+    "holiday_mode_pop_content": "Ændring af temperaturen vil deaktivere ferietilstand. Vil du fortsætte?",
+    "clean_mode_pop_content": "Ændring af temperaturen vil deaktivere rengøringstilstanden. Vil du fortsætte?"
 }

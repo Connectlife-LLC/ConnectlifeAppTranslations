@@ -5729,5 +5729,19 @@
     "Cancel": "Cancellare",
     "clean_mode_pop_title": "Modalità di pulizia attiva",
     "holiday_mode_pop_title": "Modalità vacanza attiva",
-    "holiday_and_clean_mode_pop_content": "Modificando la temperatura si disattiva la modalità di pulizia. Vuoi continuare?"
+    "holiday_and_clean_mode_pop_content": "Modificando la temperatura si disattiva la modalità di pulizia. Vuoi continuare?",
+    "CL_CF_when_weather_condition": "Quando le condizioni meteorologiche sono ##",
+    "weather_condition": "Condizioni meteorologiche",
+    "CL_CF_AU_time_period_des": "## da $$ a &&, sono disponibili i trigger indicati di seguito.",
+    "CL_CF_Everyday": "Ogni giorno",
+    "CL_CF_before_sunrise": "Prima dell'alba",
+    "CL_CF_after_sunrise": "Dopo l'alba",
+    "CL_CF_before_sunset": "Prima del tramonto",
+    "CL_CF_after_sunset": "Dopo il tramonto",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "La rete del dispositivo è ora disponibile per l'associazione per 3 minuti. Ora puoi procedere nell'app toccando il pulsante AVANTI qui sotto.",
+    "filter3": "FILTRO 3",
+    "clean_recirculation_filter_3": "Pulisci il filtro di ricircolo 3",
+    "holiday_mode_pop_content": "Modificando la temperatura si disattiva la modalità vacanza. Vuoi continuare?",
+    "clean_mode_pop_content": "Modificando la temperatura si disattiva la modalità di pulizia. Vuoi continuare?"
 }

@@ -5729,5 +5729,19 @@
     "Cancel": "Annuleren",
     "clean_mode_pop_title": "Reinigingsmodus actief",
     "holiday_mode_pop_title": "Vakantiemodus actief",
-    "holiday_and_clean_mode_pop_content": "Als u de temperatuur wijzigt, wordt de reinigingsmodus uitgeschakeld. Wilt u doorgaan?"
+    "holiday_and_clean_mode_pop_content": "Als u de temperatuur wijzigt, wordt de reinigingsmodus uitgeschakeld. Wilt u doorgaan?",
+    "CL_CF_when_weather_condition": "Als de weersomstandigheden ## zijn",
+    "weather_condition": "Weersomstandigheden",
+    "CL_CF_AU_time_period_des": "## van $$ tot &&, de onderstaande triggers zijn beschikbaar.",
+    "CL_CF_Everyday": "Alledaags",
+    "CL_CF_before_sunrise": "Voor zonsopgang",
+    "CL_CF_after_sunrise": "Na zonsopgang",
+    "CL_CF_before_sunset": "Voor zonsondergang",
+    "CL_CF_after_sunset": "Na zonsondergang",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Het netwerk van het apparaat is nu 3 minuten open voor koppeling. Je kunt nu verdergaan in de app door hieronder op de knop VOLGENDE te tikken.",
+    "filter3": "FILTER 3",
+    "clean_recirculation_filter_3": "Reinig recirculatiefilter 3",
+    "holiday_mode_pop_content": "Als u de temperatuur wijzigt, wordt de vakantiemodus uitgeschakeld. Wilt u doorgaan?",
+    "clean_mode_pop_content": "Als u de temperatuur wijzigt, wordt de reinigingsmodus uitgeschakeld. Wilt u doorgaan?"
 }

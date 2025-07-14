@@ -5729,5 +5729,19 @@
     "Cancel": "Annuler",
     "clean_mode_pop_title": "Mode de nettoyage actif",
     "holiday_mode_pop_title": "Mode vacances actif",
-    "holiday_and_clean_mode_pop_content": "Modifier la température désactivera le mode nettoyage. Voulez-vous continuer ?"
+    "holiday_and_clean_mode_pop_content": "Modifier la température désactivera le mode nettoyage. Voulez-vous continuer ?",
+    "CL_CF_when_weather_condition": "Lorsque les conditions météorologiques sont ##",
+    "weather_condition": "Conditions météorologiques",
+    "CL_CF_AU_time_period_des": "## de $$ à &&, les déclencheurs ci-dessous sont disponibles.",
+    "CL_CF_Everyday": "Tous les jours",
+    "CL_CF_before_sunrise": "Avant le lever du soleil",
+    "CL_CF_after_sunrise": "Après le lever du soleil",
+    "CL_CF_before_sunset": "Avant le coucher du soleil",
+    "CL_CF_after_sunset": "Après le coucher du soleil",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Le réseau de l'appareil est maintenant ouvert pour l'appairage pendant 3 minutes. Vous pouvez maintenant poursuivre dans l'application en appuyant sur le bouton SUIVANT ci-dessous.",
+    "filter3": "FILTRE 3",
+    "clean_recirculation_filter_3": "Nettoyer le filtre de recirculation 3",
+    "holiday_mode_pop_content": "Modifier la température désactivera le mode vacances. Voulez-vous continuer ?",
+    "clean_mode_pop_content": "Modifier la température désactivera le mode nettoyage. Voulez-vous continuer ?"
 }
