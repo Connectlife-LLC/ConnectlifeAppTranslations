@@ -5729,5 +5729,19 @@
     "Cancel": "Stornieren",
     "clean_mode_pop_title": "Reinigungsmodus aktiv",
     "holiday_mode_pop_title": "Urlaubsmodus aktiv",
-    "holiday_and_clean_mode_pop_content": "Durch Ändern der Temperatur wird der Reinigungsmodus deaktiviert. Möchten Sie fortfahren?"
+    "holiday_and_clean_mode_pop_content": "Durch Ändern der Temperatur wird der Reinigungsmodus deaktiviert. Möchten Sie fortfahren?",
+    "CL_CF_when_weather_condition": "Bei Wetterbedingungen ##",
+    "weather_condition": "Wetterbedingungen",
+    "CL_CF_AU_time_period_des": "## von $$ bis &&, die folgenden Trigger sind verfügbar.",
+    "CL_CF_Everyday": "Täglich",
+    "CL_CF_before_sunrise": "Vor Sonnenaufgang",
+    "CL_CF_after_sunrise": "Nach Sonnenaufgang",
+    "CL_CF_before_sunset": "Vor Sonnenuntergang",
+    "CL_CF_after_sunset": "Nach Sonnenuntergang",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Das Gerätenetzwerk ist nun für 3 Minuten zum Pairing geöffnet. Sie können nun in der App fortfahren, indem Sie unten auf die Schaltfläche WEITER tippen.",
+    "filter3": "FILTER 3",
+    "clean_recirculation_filter_3": "Umluftfilter 3 reinigen",
+    "holiday_mode_pop_content": "Durch Ändern der Temperatur wird der Urlaubsmodus deaktiviert. Möchten Sie fortfahren?",
+    "clean_mode_pop_content": "Durch Ändern der Temperatur wird der Reinigungsmodus deaktiviert. Möchten Sie fortfahren?"
 }

@@ -5729,5 +5729,19 @@
     "Cancel": "Cancel",
     "clean_mode_pop_title": "Cleaning mode active",
     "holiday_mode_pop_title": "Holiday mode active",
-    "holiday_and_clean_mode_pop_content": "Changing the temperature will turn off cleaning mode. Do you want to continue?"
+    "holiday_and_clean_mode_pop_content": "Changing the temperature will turn off cleaning mode. Do you want to continue?",
+    "CL_CF_when_weather_condition": "When weather condition is ##",
+    "weather_condition": "Weather condition",
+    "CL_CF_AU_time_period_des": "## from $$ to &&, triggers below are available.",
+    "CL_CF_Everyday": "Everyday",
+    "CL_CF_before_sunrise": "Before sunrise",
+    "CL_CF_after_sunrise": "After sunrise",
+    "CL_CF_before_sunset": "Before sunset",
+    "CL_CF_after_sunset": "After sunset",
+    "CL_CS_AU_select_trigger_value": "Select trigger value",
+    "CL_CF_CS_combi_600_25_p_2": "The device network is now open for pairing for 3 minutes.\u2028You can now proceed in the app by tapping on the NEXT button below.",
+    "filter3": "FILTER 3",
+    "clean_recirculation_filter_3": "Clean recirculation filter 3",
+    "holiday_mode_pop_content": "Changing the temperature will turn off holiday mode. Do you want to continue?",
+    "clean_mode_pop_content": "Changing the temperature will turn off cleaning mode. Do you want to continue?"
 }

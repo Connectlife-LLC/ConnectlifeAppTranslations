@@ -5729,5 +5729,19 @@
     "Cancel": "취소",
     "clean_mode_pop_title": "청소 모드 활성화",
     "holiday_mode_pop_title": "휴일 모드 활성화",
-    "holiday_and_clean_mode_pop_content": "온도를 변경하면 청소 모드가 꺼집니다. 계속하시겠습니까?"
+    "holiday_and_clean_mode_pop_content": "온도를 변경하면 청소 모드가 꺼집니다. 계속하시겠습니까?",
+    "CL_CF_when_weather_condition": "날씨 상황이 ##일 때",
+    "weather_condition": "날씨 상황",
+    "CL_CF_AU_time_period_des": "## $$부터 &&까지, 아래의 트리거를 사용할 수 있습니다.",
+    "CL_CF_Everyday": "매일",
+    "CL_CF_before_sunrise": "일출 전",
+    "CL_CF_after_sunrise": "일출 후",
+    "CL_CF_before_sunset": "일몰 전",
+    "CL_CF_after_sunset": "일몰 후",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "이제 기기 네트워크가 3분 동안 페어링을 위해 열려 있습니다. 아래 '다음' 버튼을 탭하여 앱에서 계속 진행할 수 있습니다.",
+    "filter3": "필터 3",
+    "clean_recirculation_filter_3": "재순환 필터 3 청소",
+    "holiday_mode_pop_content": "온도를 변경하면 휴일 모드가 해제됩니다. 계속하시겠습니까?",
+    "clean_mode_pop_content": "온도를 변경하면 청소 모드가 꺼집니다. 계속하시겠습니까?"
 }

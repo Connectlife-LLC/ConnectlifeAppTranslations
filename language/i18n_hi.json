@@ -5729,5 +5729,19 @@
     "Cancel": "रद्द करना",
     "clean_mode_pop_title": "सफाई मोड सक्रिय",
     "holiday_mode_pop_title": "हॉलिडे मोड सक्रिय",
-    "holiday_and_clean_mode_pop_content": "तापमान बदलने से सफ़ाई मोड बंद हो जाएगा। क्या आप जारी रखना चाहते हैं?"
+    "holiday_and_clean_mode_pop_content": "तापमान बदलने से सफ़ाई मोड बंद हो जाएगा। क्या आप जारी रखना चाहते हैं?",
+    "CL_CF_when_weather_condition": "जब मौसम की स्थिति ## हो",
+    "weather_condition": "मौसम स्थिति",
+    "CL_CF_AU_time_period_des": "## $$ से && तक, नीचे दिए गए ट्रिगर उपलब्ध हैं।",
+    "CL_CF_Everyday": "रोज रोज",
+    "CL_CF_before_sunrise": "सूर्योदय से पहले",
+    "CL_CF_after_sunrise": "सूर्योदय के बाद",
+    "CL_CF_before_sunset": "सूर्यास्त से पहले",
+    "CL_CF_after_sunset": "सूर्यास्त के बाद",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "डिवाइस नेटवर्क अब 3 मिनट के लिए पेयरिंग के लिए खुला है। अब आप नीचे दिए गए NEXT बटन पर टैप करके ऐप में आगे बढ़ सकते हैं।",
+    "filter3": "फ़िल्टर 3",
+    "clean_recirculation_filter_3": "स्वच्छ पुनःपरिसंचरण फ़िल्टर 3",
+    "holiday_mode_pop_content": "तापमान बदलने से हॉलिडे मोड बंद हो जाएगा। क्या आप जारी रखना चाहते हैं?",
+    "clean_mode_pop_content": "तापमान बदलने से सफ़ाई मोड बंद हो जाएगा। क्या आप जारी रखना चाहते हैं?"
 }

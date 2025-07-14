@@ -5729,5 +5729,19 @@
     "Cancel": "キャンセル",
     "clean_mode_pop_title": "クリーニングモードが有効",
     "holiday_mode_pop_title": "休暇モードが有効",
-    "holiday_and_clean_mode_pop_content": "温度を変更するとクリーニングモードがオフになります。続行しますか？"
+    "holiday_and_clean_mode_pop_content": "温度を変更するとクリーニングモードがオフになります。続行しますか？",
+    "CL_CF_when_weather_condition": "気象条件が##の場合",
+    "weather_condition": "天候",
+    "CL_CF_AU_time_period_des": "## $$ から && まで、以下のトリガーが利用可能です。",
+    "CL_CF_Everyday": "日常",
+    "CL_CF_before_sunrise": "日の出前",
+    "CL_CF_after_sunrise": "日の出後",
+    "CL_CF_before_sunset": "日没前",
+    "CL_CF_after_sunset": "日没後",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "デバイスのネットワークは3分間ペアリング可能です。下の「次へ」ボタンをタップして、アプリで続行してください。",
+    "filter3": "フィルター3",
+    "clean_recirculation_filter_3": "循環フィルター3の清掃",
+    "holiday_mode_pop_content": "温度を変更するとホリデーモードがオフになります。続行しますか？",
+    "clean_mode_pop_content": "温度を変更するとクリーニングモードがオフになります。続行しますか？"
 }
