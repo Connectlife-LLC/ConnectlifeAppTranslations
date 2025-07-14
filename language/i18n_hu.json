@@ -5729,5 +5729,17 @@
     "Cancel": "Mégsem",
     "clean_mode_pop_title": "Tisztítási mód aktív",
     "holiday_mode_pop_title": "Nyaralási mód aktív",
-    "holiday_and_clean_mode_pop_content": "A hőmérséklet módosítása kikapcsolja a tisztítási módot. Folytatja?"
+    "holiday_and_clean_mode_pop_content": "A hőmérséklet módosítása kikapcsolja a tisztítási módot. Folytatja?",
+    "CL_CF_when_weather_condition": "Amikor az időjárási körülmények ##",
+    "weather_condition": "Időjárási körülmények",
+    "CL_CF_AU_time_period_des": "## $$-tól &&-ig, az alábbi triggerek érhetők el.",
+    "CL_CF_Everyday": "Mindennapi",
+    "CL_CF_before_sunrise": "Napkelte előtt",
+    "CL_CF_after_sunrise": "Napkelte után",
+    "CL_CF_before_sunset": "Naplemente előtt",
+    "CL_CF_after_sunset": "Naplemente után",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Az eszköz hálózata most 3 percig párosítható. Ezután az alkalmazásban folytathatja a műveletet az alábbi KÖVETKEZŐ gombra koppintva.",
+    "filter3": "3. SZŰRŐ",
+    "clean_recirculation_filter_3": "Tisztítsa meg a recirkulációs szűrőt 3"
 }

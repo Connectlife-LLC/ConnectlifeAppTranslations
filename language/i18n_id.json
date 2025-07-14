@@ -5729,5 +5729,17 @@
     "Cancel": "Membatalkan",
     "clean_mode_pop_title": "Mode pembersihan aktif",
     "holiday_mode_pop_title": "Mode liburan aktif",
-    "holiday_and_clean_mode_pop_content": "Mengubah suhu akan menonaktifkan mode pembersihan. Ingin melanjutkan?"
+    "holiday_and_clean_mode_pop_content": "Mengubah suhu akan menonaktifkan mode pembersihan. Ingin melanjutkan?",
+    "CL_CF_when_weather_condition": "Ketika kondisi cuaca ##",
+    "weather_condition": "Kondisi cuaca",
+    "CL_CF_AU_time_period_des": "## dari $$ ke &&, pemicu di bawah ini tersedia.",
+    "CL_CF_Everyday": "Setiap hari",
+    "CL_CF_before_sunrise": "Sebelum matahari terbit",
+    "CL_CF_after_sunrise": "Setelah matahari terbit",
+    "CL_CF_before_sunset": "Sebelum matahari terbenam",
+    "CL_CF_after_sunset": "Setelah matahari terbenam",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Jaringan perangkat kini terbuka untuk pemasangan selama 3 menit. Anda kini dapat melanjutkan di aplikasi dengan mengetuk tombol BERIKUTNYA di bawah.",
+    "filter3": "SARINGAN 3",
+    "clean_recirculation_filter_3": "Filter resirkulasi bersih 3"
 }

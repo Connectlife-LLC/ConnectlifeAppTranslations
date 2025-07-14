@@ -5729,5 +5729,17 @@
     "Cancel": "يلغي",
     "clean_mode_pop_title": "وضع التنظيف نشط",
     "holiday_mode_pop_title": "وضع العطلة نشط",
-    "holiday_and_clean_mode_pop_content": "سيؤدي تغيير درجة الحرارة إلى إيقاف وضع التنظيف. هل تريد المتابعة؟"
+    "holiday_and_clean_mode_pop_content": "سيؤدي تغيير درجة الحرارة إلى إيقاف وضع التنظيف. هل تريد المتابعة؟",
+    "CL_CF_when_weather_condition": "عندما تكون حالة الطقس ##",
+    "weather_condition": "حالة الطقس",
+    "CL_CF_AU_time_period_des": "## من $$ إلى &&، المحفزات أدناه متاحة.",
+    "CL_CF_Everyday": "كل يوم",
+    "CL_CF_before_sunrise": "قبل شروق الشمس",
+    "CL_CF_after_sunrise": "بعد شروق الشمس",
+    "CL_CF_before_sunset": "قبل غروب الشمس",
+    "CL_CF_after_sunset": "بعد غروب الشمس",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "شبكة الجهاز متاحة الآن للإقران لمدة 3 دقائق. يمكنك الآن المتابعة في التطبيق بالنقر على زر \"التالي\" أدناه.",
+    "filter3": "الفلتر 3",
+    "clean_recirculation_filter_3": "تنظيف فلتر إعادة التدوير 3"
 }

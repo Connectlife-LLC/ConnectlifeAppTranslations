@@ -1580,7 +1580,7 @@
     "d_yellow": "Filiz yeşili",
     "which_wine_cabinet": "Şarabınızı hangi şarap dolabına kurtarmak istersiniz?",
     "d_picture_of_warranty": "Garanti Fotoğrafları",
-    "d_offline": "Çevrimdışı",
+    "d_offline": "ÇEVRİMDIŞI",
     "d_select_appliance_to_transfer": "Ayarları aktarmak için Cihaz'ı seçin",
     "d_connected_appliance": "Bağlı cihaz",
     "d_Select_settings": "Aktarmak istediğiniz ayarları seçin",
@@ -5729,5 +5729,17 @@
     "Cancel": "İptal etmek",
     "clean_mode_pop_title": "Temizleme modu etkin",
     "holiday_mode_pop_title": "Tatil modu aktif",
-    "holiday_and_clean_mode_pop_content": "Sıcaklığı değiştirdiğinizde temizleme modu kapanacaktır. Devam etmek istiyor musunuz?"
+    "holiday_and_clean_mode_pop_content": "Sıcaklığı değiştirdiğinizde temizleme modu kapanacaktır. Devam etmek istiyor musunuz?",
+    "CL_CF_when_weather_condition": "Hava durumu ## olduğunda",
+    "weather_condition": "Hava durumu",
+    "CL_CF_AU_time_period_des": "## $$'dan &&'ye kadar aşağıdaki tetikleyiciler kullanılabilir.",
+    "CL_CF_Everyday": "Her gün",
+    "CL_CF_before_sunrise": "Güneş doğmadan önce",
+    "CL_CF_after_sunrise": "Güneş doğduktan sonra",
+    "CL_CF_before_sunset": "Gün batımından önce",
+    "CL_CF_after_sunset": "Gün batımından sonra",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Cihaz ağı artık 3 dakika boyunca eşleştirmeye açık. Şimdi aşağıdaki İLERİ butonuna dokunarak uygulamada devam edebilirsiniz.",
+    "filter3": "FİLTRE 3",
+    "clean_recirculation_filter_3": "Devridaim filtresini temizleyin 3"
 }

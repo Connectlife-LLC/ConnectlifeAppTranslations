@@ -5729,5 +5729,17 @@
     "Cancel": "ยกเลิก",
     "clean_mode_pop_title": "โหมดทำความสะอาดเปิดใช้งาน",
     "holiday_mode_pop_title": "โหมดวันหยุดเปิดใช้งาน",
-    "holiday_and_clean_mode_pop_content": "การเปลี่ยนอุณหภูมิจะปิดโหมดทำความสะอาด คุณต้องการดำเนินการต่อหรือไม่"
+    "holiday_and_clean_mode_pop_content": "การเปลี่ยนอุณหภูมิจะปิดโหมดทำความสะอาด คุณต้องการดำเนินการต่อหรือไม่",
+    "CL_CF_when_weather_condition": "เมื่อสภาพอากาศเป็น ##",
+    "weather_condition": "สภาพอากาศ",
+    "CL_CF_AU_time_period_des": "## จาก $$ ถึง && ทริกเกอร์ด้านล่างนี้พร้อมใช้งาน",
+    "CL_CF_Everyday": "ทุกวัน",
+    "CL_CF_before_sunrise": "ก่อนพระอาทิตย์ขึ้น",
+    "CL_CF_after_sunrise": "หลังพระอาทิตย์ขึ้น",
+    "CL_CF_before_sunset": "ก่อนพระอาทิตย์ตกดิน",
+    "CL_CF_after_sunset": "หลังพระอาทิตย์ตกดิน",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "ขณะนี้เครือข่ายอุปกรณ์เปิดให้จับคู่เป็นเวลา 3 นาที คุณสามารถดำเนินการต่อในแอปได้โดยแตะปุ่ม \"ถัดไป\" ด้านล่าง",
+    "filter3": "ตัวกรอง 3",
+    "clean_recirculation_filter_3": "ตัวกรองหมุนเวียนสะอาด 3"
 }

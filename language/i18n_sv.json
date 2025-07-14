@@ -1580,7 +1580,7 @@
     "d_yellow": "Gror grönt",
     "which_wine_cabinet": "Till vilket vinskåp skulle du vilja spara ditt vin?",
     "d_picture_of_warranty": "Garantibilder",
-    "d_offline": "OFF-LINE",
+    "d_offline": "OFFLINE",
     "d_select_appliance_to_transfer": "Välj produkt att överföra inställningar till",
     "d_connected_appliance": "ANSLUTEN PRODUKT",
     "d_Select_settings": "Välj inställningar som du vill överföra",
@@ -5729,5 +5729,17 @@
     "Cancel": "Avboka",
     "clean_mode_pop_title": "Rengöringsläge aktivt",
     "holiday_mode_pop_title": "Semesterläge aktivt",
-    "holiday_and_clean_mode_pop_content": "Om du ändrar temperaturen stängs rengöringsläget av. Vill du fortsätta?"
+    "holiday_and_clean_mode_pop_content": "Om du ändrar temperaturen stängs rengöringsläget av. Vill du fortsätta?",
+    "CL_CF_when_weather_condition": "När väderförhållandena är ##",
+    "weather_condition": "Väderförhållanden",
+    "CL_CF_AU_time_period_des": "## från $$ till &&, utlösare nedan är tillgängliga.",
+    "CL_CF_Everyday": "Daglig",
+    "CL_CF_before_sunrise": "Före soluppgången",
+    "CL_CF_after_sunrise": "Efter soluppgången",
+    "CL_CF_before_sunset": "Före solnedgången",
+    "CL_CF_after_sunset": "Efter solnedgången",
+    "CL_CS_AU_select_trigger_value": "",
+    "CL_CF_CS_combi_600_25_p_2": "Enhetens nätverk är nu öppet för parkoppling i 3 minuter. Du kan nu fortsätta i appen genom att trycka på knappen NÄSTA nedan.",
+    "filter3": "FILTER 3",
+    "clean_recirculation_filter_3": "Rengör recirkulationsfilter 3"
 }
