@@ -5663,7 +5663,7 @@
     "CL_CF_after_sunrise": "日出后",
     "CL_CF_before_sunset": "日落之前",
     "CL_CF_after_sunset": "日落之后",
-    "CL_CS_AU_select_trigger_value": "",
+    "CL_CS_AU_select_trigger_value": "选择触发值",
     "CL_CF_CS_combi_600_25_p_2": "设备网络现已开放配对，等待 3 分钟。您现在可以在应用程序中点击下方的“下一步”按钮继续操作。",
     "filter3": "过滤器 3",
     "clean_recirculation_filter_3": "清洁循环过滤器 3",
