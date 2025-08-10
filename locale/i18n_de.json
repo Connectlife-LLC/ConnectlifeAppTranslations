@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Aktivieren Sie diese Funktion, wenn die Zeit automatisch entsprechend der örtlichen Sommerzeit umgestellt werden soll.",
     "CL_CF_CM_favorite_name_blank_tip": "Der Name darf nicht leer sein",
     "CL_CF_AC_add_group": "Eine Gruppe hinzufügen",
-    "CL_CF_AC_edit_group": "Bearbeiten einer Gruppe"
+    "CL_CF_AC_edit_group": "Bearbeiten einer Gruppe",
+    "CL_CF_WM_cloud_program_title": "Cloud-Programme",
+    "CL_CF_WM_download_to_device": "Auf Geräte herunterladen",
+    "CL_CF_WM_download_to": "Herunterladen auf"
 }

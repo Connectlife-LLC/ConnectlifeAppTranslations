@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Ative esta função se quiser que a hora mude automaticamente de acordo com as regras locais de horário de verão.",
     "CL_CF_CM_favorite_name_blank_tip": "O nome não pode estar vazio",
     "CL_CF_AC_add_group": "Adicionar um grupo",
-    "CL_CF_AC_edit_group": "Editar um grupo"
+    "CL_CF_AC_edit_group": "Editar um grupo",
+    "CL_CF_WM_cloud_program_title": "Programas de nuvem",
+    "CL_CF_WM_download_to_device": "Baixar para dispositivos",
+    "CL_CF_WM_download_to": "Baixar para"
 }

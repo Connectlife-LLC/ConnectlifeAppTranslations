@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Овозможете ја оваа функција ако сакате времето да се менува автоматски според локалните правила за летно светло.",
     "CL_CF_CM_favorite_name_blank_tip": "Името не може да биде празно",
     "CL_CF_AC_add_group": "Додадете група",
-    "CL_CF_AC_edit_group": "Уредете група"
+    "CL_CF_AC_edit_group": "Уредете група",
+    "CL_CF_WM_cloud_program_title": "Облак програми",
+    "CL_CF_WM_download_to_device": "Преземете на уреди",
+    "CL_CF_WM_download_to": "Преземете на"
 }

@@ -4832,5 +4832,8 @@
     "CL_DV_OV_summer_winter_automatically_desc": "Aktiver denne funksjonen hvis du vil at tiden skal endres automatisk i henhold til lokale sommertidsregler.",
     "CL_CF_CM_favorite_name_blank_tip": "Navnet kan ikke være tomt",
     "CL_CF_AC_add_group": "Legg til en gruppe",
-    "CL_CF_AC_edit_group": "Rediger en gruppe"
+    "CL_CF_AC_edit_group": "Rediger en gruppe",
+    "CL_CF_WM_cloud_program_title": "Cloud-programmer",
+    "CL_CF_WM_download_to_device": "Last ned til enheter",
+    "CL_CF_WM_download_to": "Last ned til"
 }
