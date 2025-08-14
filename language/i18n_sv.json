@@ -5872,5 +5872,6 @@
     "CL_CF_terms_button_title": "GODKÄNN & FORTSÄTT",
     "CL_CF_terms_pp_content": "Vi har uppdaterat vårt <b> licensavtal för slutanvändare </b> och <b> sekretesspolicy </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Vänligen godkänn för att fortsätta använda appen.",
     "CL_CF_pp_content": "Vi har uppdaterat vår <b> sekretesspolicy </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Godkänn för att fortsätta använda appen.",
-    "CL_CF_terms_content": "Vi har uppdaterat vårt <b> slutanvändarlicensavtal </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Vänligen godkänn för att fortsätta använda appen."
+    "CL_CF_terms_content": "Vi har uppdaterat vårt <b> slutanvändarlicensavtal </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Vänligen godkänn för att fortsätta använda appen.",
+    "CL_DV_CM_remove_device_tips": "Om du tar bort den tas enheten bort från ditt konto. Vill du fortsätta?"
 }
