@@ -5872,5 +5872,6 @@
     "CL_CF_terms_button_title": "AKCEPTUJ I KONTYNUUJ",
     "CL_CF_terms_pp_content": "Zaktualizowaliśmy naszą <b> Umowę licencyjną użytkownika końcowego </b> i <b> Politykę prywatności </b>. Najnowszą wersję można w każdej chwili wyświetlić w sekcji „Informacje prawne”. Prosimy o zaakceptowanie, aby kontynuować korzystanie z aplikacji.",
     "CL_CF_pp_content": "Zaktualizowaliśmy naszą <b> Politykę Prywatności </b>. Najnowszą wersję możesz w każdej chwili sprawdzić w sekcji „Informacje prawne”. Zaakceptuj, aby kontynuować korzystanie z aplikacji.",
-    "CL_CF_terms_content": "Zaktualizowaliśmy naszą <b> Umowę licencyjną użytkownika końcowego </b>. Najnowszą wersję możesz w każdej chwili wyświetlić w sekcji „Informacje prawne”. Zaakceptuj, aby kontynuować korzystanie z aplikacji."
+    "CL_CF_terms_content": "Zaktualizowaliśmy naszą <b> Umowę licencyjną użytkownika końcowego </b>. Najnowszą wersję możesz w każdej chwili wyświetlić w sekcji „Informacje prawne”. Zaakceptuj, aby kontynuować korzystanie z aplikacji.",
+    "CL_DV_CM_remove_device_tips": "Usunięcie spowoduje usunięcie tego urządzenia z Twojego konta. Czy chcesz kontynuować?"
 }

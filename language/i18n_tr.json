@@ -5872,5 +5872,6 @@
     "CL_CF_terms_button_title": "KABUL ET & DEVAM ET",
     "CL_CF_terms_pp_content": "<b> Son Kullanıcı Lisans Sözleşmemizi </b> ve <b> Gizlilik Politikamızı </b> güncelledik. En son sürümü istediğiniz zaman \"Yasal\" bölümünden görüntüleyebilirsiniz. Uygulamayı kullanmaya devam etmek için lütfen kabul edin.",
     "CL_CF_pp_content": "<b> Gizlilik Politikamızı </b> güncelledik. En son sürümü istediğiniz zaman \"Yasal\" bölümünden görüntüleyebilirsiniz. Uygulamayı kullanmaya devam etmek için lütfen kabul edin.",
-    "CL_CF_terms_content": "<b> Son Kullanıcı Lisans Sözleşmemizi </b> güncelledik. En son sürümü istediğiniz zaman \"Yasal\" bölümünden görüntüleyebilirsiniz. Uygulamayı kullanmaya devam etmek için lütfen kabul edin."
+    "CL_CF_terms_content": "<b> Son Kullanıcı Lisans Sözleşmemizi </b> güncelledik. En son sürümü istediğiniz zaman \"Yasal\" bölümünden görüntüleyebilirsiniz. Uygulamayı kullanmaya devam etmek için lütfen kabul edin.",
+    "CL_DV_CM_remove_device_tips": "Kaldırma işlemi, bu cihazı hesabınızdan silecektir. Devam etmek istiyor musunuz?"
 }
