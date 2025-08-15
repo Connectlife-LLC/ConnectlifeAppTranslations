@@ -5872,5 +5872,7 @@
     "CL_CF_terms_button_title": "CHẤP NHẬN & TIẾP TỤC",
     "CL_CF_terms_pp_content": "Chúng tôi đã cập nhật <b> Thỏa thuận Cấp phép Người dùng Cuối </b> và <b> Chính sách Quyền riêng tư </b>. Bạn có thể xem phiên bản mới nhất trong mục \"Pháp lý\" bất kỳ lúc nào. Vui lòng chấp nhận để tiếp tục sử dụng ứng dụng.",
     "CL_CF_pp_content": "Chúng tôi đã cập nhật <b> Chính sách Quyền riêng tư </b>. Bạn có thể xem phiên bản mới nhất trong mục \"Pháp lý\" bất kỳ lúc nào. Vui lòng chấp nhận để tiếp tục sử dụng ứng dụng.",
-    "CL_CF_terms_content": "Chúng tôi đã cập nhật <b> Thỏa thuận Cấp phép Người dùng Cuối </b>. Bạn có thể xem phiên bản mới nhất trong mục \"Pháp lý\" bất kỳ lúc nào. Vui lòng chấp nhận để tiếp tục sử dụng ứng dụng."
+    "CL_CF_terms_content": "Chúng tôi đã cập nhật <b> Thỏa thuận Cấp phép Người dùng Cuối </b>. Bạn có thể xem phiên bản mới nhất trong mục \"Pháp lý\" bất kỳ lúc nào. Vui lòng chấp nhận để tiếp tục sử dụng ứng dụng.",
+    "CL_DV_CM_remove_device_tips": "Việc xóa sẽ xóa thiết bị này khỏi tài khoản của bạn. Bạn có muốn tiếp tục không?",
+    "CL_DV_LC_link_two_tips": "Bạn có thể điều khiển hai khóa cửa bằng công tắc trên thẻ thiết bị."
 }

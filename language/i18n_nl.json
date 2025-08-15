@@ -5872,5 +5872,7 @@
     "CL_CF_terms_button_title": "ACCEPTEREN & DOORGAAN",
     "CL_CF_terms_pp_content": "We hebben onze <b> Licentieovereenkomst voor eindgebruikers </b> en <b> Privacybeleid </b> bijgewerkt. U kunt de nieuwste versie op elk moment bekijken onder 'Juridisch'. Accepteer deze voorwaarden om de app te blijven gebruiken.",
     "CL_CF_pp_content": "We hebben ons <b> Privacybeleid </b> bijgewerkt. U kunt de meest recente versie op elk moment bekijken onder \"Juridisch\". Accepteer het beleid om de app te blijven gebruiken.",
-    "CL_CF_terms_content": "We hebben onze <b> Licentieovereenkomst voor eindgebruikers </b> bijgewerkt. U kunt de nieuwste versie op elk moment bekijken onder 'Juridisch'. Accepteer de overeenkomst om de app te blijven gebruiken."
+    "CL_CF_terms_content": "We hebben onze <b> Licentieovereenkomst voor eindgebruikers </b> bijgewerkt. U kunt de nieuwste versie op elk moment bekijken onder 'Juridisch'. Accepteer de overeenkomst om de app te blijven gebruiken.",
+    "CL_DV_CM_remove_device_tips": "Verwijderen verwijdert dit apparaat uit uw account. Wilt u doorgaan?",
+    "CL_DV_LC_link_two_tips": "Met de schakelaar op de apparaatkaart kunt u twee deursloten bedienen."
 }
