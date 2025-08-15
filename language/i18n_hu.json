@@ -5872,5 +5872,7 @@
     "CL_CF_terms_button_title": "ELFOGADÁS ÉS FOLYTATÁS",
     "CL_CF_terms_pp_content": "Frissítettük <b> Végfelhasználói Licencszerződésünket </b> és <b> Adatvédelmi Szabályzatunkat </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához.",
     "CL_CF_pp_content": "Frissítettük <b> Adatvédelmi irányelveinket </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához.",
-    "CL_CF_terms_content": "Frissítettük <b> végfelhasználói licencszerződésünket </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához."
+    "CL_CF_terms_content": "Frissítettük <b> végfelhasználói licencszerződésünket </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához.",
+    "CL_DV_CM_remove_device_tips": "Az eltávolítással törlöd ezt az eszközt a fiókodból. Folytatod?",
+    "CL_DV_LC_link_two_tips": "Két ajtózárat vezérelhet a készülékkártyán található kapcsolóval."
 }

@@ -5872,5 +5872,7 @@
     "CL_CF_terms_button_title": "ACCEPTER ET CONTINUER",
     "CL_CF_terms_pp_content": "Nous avons mis à jour notre <b> Contrat de licence utilisateur final </b> et <b> Politique de confidentialité </b>. Vous pouvez consulter la dernière version à tout moment dans la section « Mentions légales ». Veuillez accepter pour continuer à utiliser l'application.",
     "CL_CF_pp_content": "Nous avons mis à jour notre <b> Politique de confidentialité </b>. Vous pouvez consulter la dernière version à tout moment dans la section « Mentions légales ». Veuillez accepter pour continuer à utiliser l'application.",
-    "CL_CF_terms_content": "Nous avons mis à jour notre <b> Contrat de licence utilisateur final </b>. Vous pouvez consulter la dernière version à tout moment dans la section « Mentions légales ». Veuillez accepter pour continuer à utiliser l'application."
+    "CL_CF_terms_content": "Nous avons mis à jour notre <b> Contrat de licence utilisateur final </b>. Vous pouvez consulter la dernière version à tout moment dans la section « Mentions légales ». Veuillez accepter pour continuer à utiliser l'application.",
+    "CL_DV_CM_remove_device_tips": "La suppression supprimera cet appareil de votre compte. Voulez-vous continuer ?",
+    "CL_DV_LC_link_two_tips": "Vous pouvez contrôler deux serrures de porte à l'aide de l'interrupteur sur la carte de l'appareil."
 }

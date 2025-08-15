@@ -5872,5 +5872,7 @@
     "CL_CF_terms_button_title": "ACCEPTÉR & FORTSÆT",
     "CL_CF_terms_pp_content": "Vi har opdateret vores <b> slutbrugerlicensaftale </b> og <b> privatlivspolitik </b>. Du kan til enhver tid se den seneste version under \"Juridisk\". Accepter venligst for at fortsætte med at bruge appen.",
     "CL_CF_pp_content": "Vi har opdateret vores <b> Privatlivspolitik </b>. Du kan til enhver tid se den seneste version under \"Juridisk\". Accepter venligst for at fortsætte med at bruge appen.",
-    "CL_CF_terms_content": "Vi har opdateret vores <b> slutbrugerlicensaftale </b>. Du kan til enhver tid se den seneste version under \"Juridisk\". Accepter venligst for at fortsætte med at bruge appen."
+    "CL_CF_terms_content": "Vi har opdateret vores <b> slutbrugerlicensaftale </b>. Du kan til enhver tid se den seneste version under \"Juridisk\". Accepter venligst for at fortsætte med at bruge appen.",
+    "CL_DV_CM_remove_device_tips": "Hvis du fjerner den, slettes denne enhed fra din konto. Vil du fortsætte?",
+    "CL_DV_LC_link_two_tips": "Du kan styre to dørlåse ved hjælp af kontakten på enhedskortet."
 }

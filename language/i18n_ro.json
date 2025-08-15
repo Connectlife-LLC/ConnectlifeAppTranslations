@@ -5872,5 +5872,7 @@
     "CL_CF_terms_button_title": "ACCEPTĂ ȘI CONTINUĂ",
     "CL_CF_terms_pp_content": "Am actualizat <b> Acordul de licență pentru utilizatorul final </b> și <b> Politica de confidențialitate </b>. Puteți vizualiza oricând cea mai recentă versiune în secțiunea „Tehnici”. Vă rugăm să acceptați pentru a continua să utilizați aplicația.",
     "CL_CF_pp_content": "Am actualizat <b> Politica de confidențialitate </b>. Puteți vizualiza oricând cea mai recentă versiune la secțiunea „Mențiuni legale”. Vă rugăm să acceptați pentru a continua să utilizați aplicația.",
-    "CL_CF_terms_content": "Am actualizat <b> Acordul de licență pentru utilizatorul final </b>. Puteți vizualiza oricând cea mai recentă versiune la secțiunea „Mențiuni legale”. Vă rugăm să acceptați pentru a continua să utilizați aplicația."
+    "CL_CF_terms_content": "Am actualizat <b> Acordul de licență pentru utilizatorul final </b>. Puteți vizualiza oricând cea mai recentă versiune la secțiunea „Mențiuni legale”. Vă rugăm să acceptați pentru a continua să utilizați aplicația.",
+    "CL_DV_CM_remove_device_tips": "Eliminarea va șterge acest dispozitiv din contul dvs. Doriți să continuați?",
+    "CL_DV_LC_link_two_tips": "Puteți controla două încuietori de uși folosind comutatorul de pe cardul dispozitivului."
 }

@@ -5872,5 +5872,7 @@
     "CL_CF_terms_button_title": "ACCEPT & CONTINUE",
     "CL_CF_terms_pp_content": "We have updated our <b>End User License Agreement</b> and <b>Privacy Policy</b>. You can view the latest version under “Legal” at any time. Please accept to continue using the app.",
     "CL_CF_pp_content": "We have updated our <b>Privacy Policy</b>. You can view the latest version under “Legal” at any time. Please accept to continue using the app.",
-    "CL_CF_terms_content": "We have updated our <b>End User License Agreement</b>. You can view the latest version under “Legal” at any time. Please accept to continue using the app."
+    "CL_CF_terms_content": "We have updated our <b>End User License Agreement</b>. You can view the latest version under “Legal” at any time. Please accept to continue using the app.",
+    "CL_DV_CM_remove_device_tips": "Removing will delete this device from your account. Do you want to proceed?",
+    "CL_DV_LC_link_two_tips": "You can control two door locks using the switch on the device card."
 }

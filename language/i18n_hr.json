@@ -5872,5 +5872,7 @@
     "CL_CF_terms_button_title": "PRIHVATI I NASTAVI",
     "CL_CF_terms_pp_content": "Ažurirali smo naš <b> Ugovor o licenci za krajnjeg korisnika </b> i <b> Pravila o privatnosti </b>. Najnoviju verziju možete pogledati u bilo kojem trenutku pod \"Pravne informacije\". Molimo vas da prihvatite kako biste nastavili koristiti aplikaciju.",
     "CL_CF_pp_content": "Ažurirali smo naša <b> Pravila o privatnosti </b>. Najnoviju verziju možete pogledati u bilo kojem trenutku pod \"Pravne informacije\". Molimo vas da prihvatite kako biste nastavili koristiti aplikaciju.",
-    "CL_CF_terms_content": "Ažurirali smo naš <b> Ugovor o licenci za krajnjeg korisnika </b>. Najnoviju verziju možete pogledati u bilo kojem trenutku pod \"Pravne informacije\". Molimo vas da prihvatite uvjete kako biste nastavili koristiti aplikaciju."
+    "CL_CF_terms_content": "Ažurirali smo naš <b> Ugovor o licenci za krajnjeg korisnika </b>. Najnoviju verziju možete pogledati u bilo kojem trenutku pod \"Pravne informacije\". Molimo vas da prihvatite uvjete kako biste nastavili koristiti aplikaciju.",
+    "CL_DV_CM_remove_device_tips": "Uklanjanjem ćete izbrisati ovaj uređaj s svog računa. Želite li nastaviti?",
+    "CL_DV_LC_link_two_tips": "Pomoću prekidača na kartici uređaja možete upravljati dvjema bravama na vratima."
 }
