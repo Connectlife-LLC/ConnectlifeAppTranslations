@@ -5872,5 +5872,14 @@
     "CL_CF_terms_button_title": "PRIJÍMAŤ A POKRAČOVAŤ",
     "CL_CF_terms_pp_content": "Aktualizovali sme našu <b> Licenčnú zmluvu s koncovým používateľom </b> a <b> Zásady ochrany osobných údajov </b>. Najnovšiu verziu si môžete kedykoľvek pozrieť v časti „Právne informácie“. Ak chcete aplikáciu naďalej používať, súhlaste s ich používaním.",
     "CL_CF_pp_content": "Aktualizovali sme naše <b> Zásady ochrany osobných údajov </b>. Najnovšiu verziu si môžete kedykoľvek pozrieť v časti „Právne informácie“. Ak chcete aplikáciu naďalej používať, súhlaste s ich používaním.",
-    "CL_CF_terms_content": "Aktualizovali sme našu <b> Licenčnú zmluvu s koncovým používateľom </b>. Najnovšiu verziu si môžete kedykoľvek pozrieť v časti „Právne informácie“. Ak chcete aplikáciu naďalej používať, súhlaste s jej podmienkami."
+    "CL_CF_terms_content": "Aktualizovali sme našu <b> Licenčnú zmluvu s koncovým používateľom </b>. Najnovšiu verziu si môžete kedykoľvek pozrieť v časti „Právne informácie“. Ak chcete aplikáciu naďalej používať, súhlaste s jej podmienkami.",
+    "CL_DV_CM_remove_device_tips": "Odstránením sa toto zariadenie vymaže z vášho účtu. Chcete pokračovať?",
+    "CL_DV_LC_link_two_tips": "Pomocou prepínača na karte zariadenia môžete ovládať dva zámky dverí.",
+    "CL_CF_CS_hicube_cs_step_wired": "Uistite sa, že Hi-Cube je pripojený k sieťovému káblu.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Uistite sa, že je vaše zariadenie zapnuté.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II je pripojený k sieťovému káblu.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Uistite sa, že je adaptér Himit zapnutý, stlačte a podržte tlačidlo reset 3 sekundy, kým nezačne blikať kontrolka WLAN.",
+    "CL_CF_FW_wifi_update": "Aktualizácia modulu Wi-Fi",
+    "CL_CF_FW_wifi_update_required": "Je potrebná aktualizácia modulu Wi-Fi",
+    "CL_CF_FW_wifi_update_pop_content": "Aby vaše zariadenie spĺňalo nové štandardy kybernetickej bezpečnosti, vyžaduje aktualizáciu. \n Ak chcete zariadenie s aplikáciou naďalej používať, nezabudnite dokončiť túto aktualizáciu. Ak sa počas aktualizácie vyskytnú nejaké abnormality, zariadenie manuálne odpojte a zapojte alebo kontaktujte popredajný servis."
 }

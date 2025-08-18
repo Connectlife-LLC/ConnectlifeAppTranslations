@@ -5872,5 +5872,14 @@
     "CL_CF_terms_button_title": "PRIHVATI I NASTAVI",
     "CL_CF_terms_pp_content": "Ažurirali smo naš <b> Ugovor o licenci za krajnjeg korisnika </b> i <b> Pravila o privatnosti </b>. Najnoviju verziju možete pogledati u bilo kojem trenutku pod \"Pravne informacije\". Molimo vas da prihvatite kako biste nastavili koristiti aplikaciju.",
     "CL_CF_pp_content": "Ažurirali smo naša <b> Pravila o privatnosti </b>. Najnoviju verziju možete pogledati u bilo kojem trenutku pod \"Pravne informacije\". Molimo vas da prihvatite kako biste nastavili koristiti aplikaciju.",
-    "CL_CF_terms_content": "Ažurirali smo naš <b> Ugovor o licenci za krajnjeg korisnika </b>. Najnoviju verziju možete pogledati u bilo kojem trenutku pod \"Pravne informacije\". Molimo vas da prihvatite uvjete kako biste nastavili koristiti aplikaciju."
+    "CL_CF_terms_content": "Ažurirali smo naš <b> Ugovor o licenci za krajnjeg korisnika </b>. Najnoviju verziju možete pogledati u bilo kojem trenutku pod \"Pravne informacije\". Molimo vas da prihvatite uvjete kako biste nastavili koristiti aplikaciju.",
+    "CL_DV_CM_remove_device_tips": "Uklanjanjem ćete izbrisati ovaj uređaj s svog računa. Želite li nastaviti?",
+    "CL_DV_LC_link_two_tips": "Pomoću prekidača na kartici uređaja možete upravljati dvjema bravama na vratima.",
+    "CL_CF_CS_hicube_cs_step_wired": "Molimo provjerite je li Hi-Cube spojen na mrežni kabel.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Molimo provjerite je li vaš uređaj uključen.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II je spojen na mrežni kabel.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Provjerite je li Himit adapter uključen, pritisnite i držite tipku za resetiranje 3 sekunde dok WLAN lampica ne počne treptati.",
+    "CL_CF_FW_wifi_update": "Ažuriranje Wi-Fi modula",
+    "CL_CF_FW_wifi_update_required": "Potrebno je ažuriranje Wi-Fi modula",
+    "CL_CF_FW_wifi_update_pop_content": "Kako bi se uskladio s novim standardima kibernetičke sigurnosti, vašem uređaju je potrebno ažuriranje. \n Da biste nastavili koristiti uređaj s aplikacijom, svakako dovršite ovo ažuriranje. Ako se tijekom nadogradnje pojave bilo kakve nepravilnosti, ručno isključite i ponovno uključite uređaj ili se obratite postprodajnoj službi."
 }

@@ -5872,5 +5872,14 @@
     "CL_CF_terms_button_title": "AKCEPTUJ I KONTYNUUJ",
     "CL_CF_terms_pp_content": "Zaktualizowaliśmy naszą <b> Umowę licencyjną użytkownika końcowego </b> i <b> Politykę prywatności </b>. Najnowszą wersję można w każdej chwili wyświetlić w sekcji „Informacje prawne”. Prosimy o zaakceptowanie, aby kontynuować korzystanie z aplikacji.",
     "CL_CF_pp_content": "Zaktualizowaliśmy naszą <b> Politykę Prywatności </b>. Najnowszą wersję możesz w każdej chwili sprawdzić w sekcji „Informacje prawne”. Zaakceptuj, aby kontynuować korzystanie z aplikacji.",
-    "CL_CF_terms_content": "Zaktualizowaliśmy naszą <b> Umowę licencyjną użytkownika końcowego </b>. Najnowszą wersję możesz w każdej chwili wyświetlić w sekcji „Informacje prawne”. Zaakceptuj, aby kontynuować korzystanie z aplikacji."
+    "CL_CF_terms_content": "Zaktualizowaliśmy naszą <b> Umowę licencyjną użytkownika końcowego </b>. Najnowszą wersję możesz w każdej chwili wyświetlić w sekcji „Informacje prawne”. Zaakceptuj, aby kontynuować korzystanie z aplikacji.",
+    "CL_DV_CM_remove_device_tips": "Usunięcie spowoduje usunięcie tego urządzenia z Twojego konta. Czy chcesz kontynuować?",
+    "CL_DV_LC_link_two_tips": "Za pomocą przełącznika na karcie urządzenia można sterować dwoma zamkami drzwi.",
+    "CL_CF_CS_hicube_cs_step_wired": "Upewnij się, że Hi-Cube jest podłączony do kabla sieciowego.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Upewnij się, że urządzenie jest włączone.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II podłącza się kablem sieciowym.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Upewnij się, że adapter Himit jest włączony, naciśnij i przytrzymaj przycisk resetowania przez 3 sekundy, aż dioda WLAN zacznie migać.",
+    "CL_CF_FW_wifi_update": "Aktualizacja modułu Wi-Fi",
+    "CL_CF_FW_wifi_update_required": "Wymagana jest aktualizacja modułu Wi-Fi",
+    "CL_CF_FW_wifi_update_pop_content": "Aby spełnić nowe standardy cyberbezpieczeństwa, Twoje urządzenie wymaga aktualizacji. \n Aby nadal korzystać z urządzenia z aplikacją, upewnij się, że aktualizacja została ukończona. Jeśli podczas aktualizacji wystąpią jakiekolwiek nieprawidłowości, ręcznie odłącz i podłącz urządzenie lub skontaktuj się z serwisem posprzedażowym."
 }
