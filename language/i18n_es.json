@@ -5872,5 +5872,16 @@
     "CL_CF_terms_button_title": "ACEPTAR Y CONTINUAR",
     "CL_CF_terms_pp_content": "Hemos actualizado nuestro Acuerdo </b> Licencia de Usuario <b> y <b> Política de Privacidad </b> Puede consultar la última versión en \"Legal\" en cualquier momento. Acepte la política para continuar usando la aplicación.",
     "CL_CF_pp_content": "Hemos actualizado nuestra Política de <b> </b> Puede consultar la última versión en \"Legal\" en cualquier momento. Acepte la política para continuar usando la aplicación.",
-    "CL_CF_terms_content": "Hemos actualizado nuestro Acuerdo de Licencia </b> Usuario <b>. Puede consultar la última versión en \"Legal\" en cualquier momento. Acéptelo para continuar usando la aplicación."
+    "CL_CF_terms_content": "Hemos actualizado nuestro Acuerdo de Licencia </b> Usuario <b>. Puede consultar la última versión en \"Legal\" en cualquier momento. Acéptelo para continuar usando la aplicación.",
+    "CL_DV_CM_remove_device_tips": "Al eliminarlo, se eliminará este dispositivo de tu cuenta. ¿Quieres continuar?",
+    "CL_DV_LC_link_two_tips": "Puede controlar dos cerraduras de puertas mediante el interruptor en la tarjeta del dispositivo.",
+    "CL_CF_CS_hicube_cs_step_wired": "Asegúrese de que Hi-Cube esté conectado a un cable de red.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Asegúrese de que su dispositivo esté encendido.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II está conectado a un cable de red.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Asegúrese de que el adaptador Himit esté encendido, presione y mantenga presionado el botón de reinicio durante 3 segundos hasta que la luz WLAN parpadee.",
+    "CL_CF_FW_wifi_update": "Actualización del módulo Wi-Fi",
+    "CL_CF_FW_wifi_update_required": "Se requiere actualización del módulo Wi-Fi",
+    "CL_CF_FW_wifi_update_pop_content": "Para cumplir con los nuevos estándares de ciberseguridad, su dispositivo requiere una actualización. Para seguir usando su dispositivo con la aplicación, asegúrese de completar esta actualización. Si ocurre alguna anomalía \n la actualización, desconecte y conecte el dispositivo manualmente o contacte con el servicio posventa.",
+    "CL_CF_CS_hi_cube_select_adapter": "Seleccione su tipo de adaptador.",
+    "CL_DV_DLNA_hdr_tips": "No es compatible con vídeos grabados con HDR habilitado"
 }

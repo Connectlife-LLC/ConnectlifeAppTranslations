@@ -5872,5 +5872,16 @@
     "CL_CF_terms_button_title": "AKZEPTIEREN & FORTFAHREN",
     "CL_CF_terms_pp_content": "Wir haben unsere <b> Endbenutzer-Lizenzvereinbarung </b> und <b> Datenschutzrichtlinie </b> aktualisiert. Sie können die neueste Version jederzeit unter „Rechtliches“ einsehen. Bitte akzeptieren Sie die Bedingungen, um die App weiterhin nutzen zu können.",
     "CL_CF_pp_content": "Wir haben unsere <b> Datenschutzrichtlinie </b> aktualisiert. Sie können die aktuelle Version jederzeit unter „Rechtliches“ einsehen. Bitte akzeptieren Sie die Datenschutzrichtlinie, um die App weiterhin nutzen zu können.",
-    "CL_CF_terms_content": "Wir haben unsere <b> Endbenutzer-Lizenzvereinbarung </b> aktualisiert. Sie können die neueste Version jederzeit unter „Rechtliches“ einsehen. Bitte akzeptieren Sie die Vereinbarung, um die App weiterhin nutzen zu können."
+    "CL_CF_terms_content": "Wir haben unsere <b> Endbenutzer-Lizenzvereinbarung </b> aktualisiert. Sie können die neueste Version jederzeit unter „Rechtliches“ einsehen. Bitte akzeptieren Sie die Vereinbarung, um die App weiterhin nutzen zu können.",
+    "CL_DV_CM_remove_device_tips": "Durch das Entfernen wird dieses Gerät aus Ihrem Konto gelöscht. Möchten Sie fortfahren?",
+    "CL_DV_LC_link_two_tips": "Über den Schalter auf der Gerätekarte können Sie zwei Türschlösser steuern.",
+    "CL_CF_CS_hicube_cs_step_wired": "Bitte stellen Sie sicher, dass Hi-Cube mit einem Netzwerkkabel verbunden ist.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Bitte stellen Sie sicher, dass Ihr Gerät eingeschaltet ist.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II ist mit einem Netzwerkkabel verbunden.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Stellen Sie sicher, dass der Himit-Adapter eingeschaltet ist, drücken und halten Sie die Reset-Taste 3 Sekunden lang, bis die WLAN-Anzeige blinkt.",
+    "CL_CF_FW_wifi_update": "WLAN-Modul-Update",
+    "CL_CF_FW_wifi_update_required": "WLAN-Modul-Update erforderlich",
+    "CL_CF_FW_wifi_update_pop_content": "Um den neuen Cybersicherheitsstandards zu entsprechen, muss Ihr Gerät aktualisiert werden. \n Um Ihr Gerät weiterhin mit der App verwenden zu können, müssen Sie dieses Update abschließen. Sollten während des Upgrades Probleme auftreten, trennen Sie das Gerät bitte manuell vom Stromnetz und schließen Sie es wieder an oder wenden Sie sich an den Kundendienst.",
+    "CL_CF_CS_hi_cube_select_adapter": "Wählen Sie Ihren Adaptertyp.",
+    "CL_DV_DLNA_hdr_tips": "Unterstützt keine Videos, die mit aktiviertem HDR aufgenommen wurden"
 }
