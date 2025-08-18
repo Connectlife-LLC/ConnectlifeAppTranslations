@@ -5872,5 +5872,14 @@
     "CL_CF_terms_button_title": "TERIMA & TERUSKAN",
     "CL_CF_terms_pp_content": "Kami telah mengemas kini <b> Perjanjian Lesen Pengguna Akhir </b> dan <b> Dasar Privasi </b> kami. Anda boleh melihat versi terkini di bawah \"Undang-undang\" pada bila-bila masa. Sila terima untuk terus menggunakan apl.",
     "CL_CF_pp_content": "Kami telah mengemas kini <b> Dasar Privasi </b> kami. Anda boleh melihat versi terkini di bawah \"Undang-undang\" pada bila-bila masa. Sila terima untuk terus menggunakan apl.",
-    "CL_CF_terms_content": "Kami telah mengemas kini <b> Perjanjian Lesen Pengguna Akhir </b> kami. Anda boleh melihat versi terkini di bawah \"Undang-undang\" pada bila-bila masa. Sila terima untuk terus menggunakan apl."
+    "CL_CF_terms_content": "Kami telah mengemas kini <b> Perjanjian Lesen Pengguna Akhir </b> kami. Anda boleh melihat versi terkini di bawah \"Undang-undang\" pada bila-bila masa. Sila terima untuk terus menggunakan apl.",
+    "CL_DV_CM_remove_device_tips": "Mengalih keluar akan memadamkan peranti ini daripada akaun anda. Adakah anda mahu meneruskan?",
+    "CL_DV_LC_link_two_tips": "Anda boleh mengawal dua kunci pintu menggunakan suis pada kad peranti.",
+    "CL_CF_CS_hicube_cs_step_wired": "Sila pastikan Hi-Cube disambungkan ke kabel rangkaian.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Sila pastikan peranti anda dihidupkan.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II disambungkan ke kabel rangkaian.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Pastikan adaptor Himit dihidupkan, tekan dan tahan tombol reset selama 3 detik hingga lampu WLAN berkedip.",
+    "CL_CF_FW_wifi_update": "Kemas kini modul Wi-Fi",
+    "CL_CF_FW_wifi_update_required": "Kemas kini modul Wi-Fi diperlukan",
+    "CL_CF_FW_wifi_update_pop_content": "Untuk mematuhi piawaian keselamatan siber baharu, peranti anda memerlukan kemas kini. \n Untuk terus menggunakan peranti anda dengan apl, pastikan anda melengkapkan kemas kini ini. Jika sebarang keabnormalan berlaku semasa naik taraf, sila cabut dan palam peranti secara manual atau hubungi perkhidmatan selepas jualan."
 }

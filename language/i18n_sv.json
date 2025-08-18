@@ -5872,5 +5872,14 @@
     "CL_CF_terms_button_title": "GODKÄNN & FORTSÄTT",
     "CL_CF_terms_pp_content": "Vi har uppdaterat vårt <b> licensavtal för slutanvändare </b> och <b> sekretesspolicy </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Vänligen godkänn för att fortsätta använda appen.",
     "CL_CF_pp_content": "Vi har uppdaterat vår <b> sekretesspolicy </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Godkänn för att fortsätta använda appen.",
-    "CL_CF_terms_content": "Vi har uppdaterat vårt <b> slutanvändarlicensavtal </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Vänligen godkänn för att fortsätta använda appen."
+    "CL_CF_terms_content": "Vi har uppdaterat vårt <b> slutanvändarlicensavtal </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Vänligen godkänn för att fortsätta använda appen.",
+    "CL_DV_CM_remove_device_tips": "Om du tar bort den tas enheten bort från ditt konto. Vill du fortsätta?",
+    "CL_DV_LC_link_two_tips": "Du kan styra två dörrlås med hjälp av strömbrytaren på enhetskortet.",
+    "CL_CF_CS_hicube_cs_step_wired": "Se till att Hi-Cube är ansluten till en nätverkskabel.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Se till att din enhet är påslagen.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II är ansluten till en nätverkskabel.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Se till att Himit-adaptern är påslagen, håll ned reset-knappen i 3 sekunder tills WLAN-lampan blinkar.",
+    "CL_CF_FW_wifi_update": "Uppdatering av Wi-Fi-modulen",
+    "CL_CF_FW_wifi_update_required": "Wi-Fi-moduluppdatering krävs",
+    "CL_CF_FW_wifi_update_pop_content": "För att följa nya cybersäkerhetsstandarder kräver din enhet en uppdatering. \n För att fortsätta använda din enhet med appen, se till att slutföra uppdateringen. Om några avvikelser uppstår under uppgraderingen, koppla ur och anslut enheten manuellt eller kontakta kundtjänst."
 }

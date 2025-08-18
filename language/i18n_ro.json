@@ -5872,5 +5872,14 @@
     "CL_CF_terms_button_title": "ACCEPTĂ ȘI CONTINUĂ",
     "CL_CF_terms_pp_content": "Am actualizat <b> Acordul de licență pentru utilizatorul final </b> și <b> Politica de confidențialitate </b>. Puteți vizualiza oricând cea mai recentă versiune în secțiunea „Tehnici”. Vă rugăm să acceptați pentru a continua să utilizați aplicația.",
     "CL_CF_pp_content": "Am actualizat <b> Politica de confidențialitate </b>. Puteți vizualiza oricând cea mai recentă versiune la secțiunea „Mențiuni legale”. Vă rugăm să acceptați pentru a continua să utilizați aplicația.",
-    "CL_CF_terms_content": "Am actualizat <b> Acordul de licență pentru utilizatorul final </b>. Puteți vizualiza oricând cea mai recentă versiune la secțiunea „Mențiuni legale”. Vă rugăm să acceptați pentru a continua să utilizați aplicația."
+    "CL_CF_terms_content": "Am actualizat <b> Acordul de licență pentru utilizatorul final </b>. Puteți vizualiza oricând cea mai recentă versiune la secțiunea „Mențiuni legale”. Vă rugăm să acceptați pentru a continua să utilizați aplicația.",
+    "CL_DV_CM_remove_device_tips": "Eliminarea va șterge acest dispozitiv din contul dvs. Doriți să continuați?",
+    "CL_DV_LC_link_two_tips": "Puteți controla două încuietori de uși folosind comutatorul de pe cardul dispozitivului.",
+    "CL_CF_CS_hicube_cs_step_wired": "Vă rugăm să vă asigurați că Hi-Cube este conectat la un cablu de rețea.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Vă rugăm să vă asigurați că dispozitivul este pornit.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II este conectat la un cablu de rețea.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Asigurați-vă că adaptorul Himit este pornit, apăsați și mențineți apăsat butonul de resetare timp de 3 secunde până când lumina WLAN clipește.",
+    "CL_CF_FW_wifi_update": "Actualizare modul Wi-Fi",
+    "CL_CF_FW_wifi_update_required": "Este necesară actualizarea modulului Wi-Fi",
+    "CL_CF_FW_wifi_update_pop_content": "Pentru a respecta noile standarde de securitate cibernetică, dispozitivul dvs. necesită o actualizare. \n Pentru a continua să utilizați dispozitivul cu aplicația, asigurați-vă că finalizați această actualizare. Dacă apar anomalii în timpul actualizării, vă rugăm să deconectați și să conectați manual dispozitivul sau să contactați serviciul de asistență post-vânzare."
 }

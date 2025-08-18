@@ -5872,5 +5872,14 @@
     "CL_CF_terms_button_title": "HYVÄKSY JA JATKA",
     "CL_CF_terms_pp_content": "Olemme päivittäneet <b> loppukäyttäjän lisenssisopimuksen </b> ja <b> tietosuojakäytännön </b>. Voit tarkastella uusinta versiota milloin tahansa kohdassa ”Lakitiedot”. Hyväksy ehdot jatkaaksesi sovelluksen käyttöä.",
     "CL_CF_pp_content": "Olemme päivittäneet <b> tietosuojakäytäntömme </b>. Voit tarkastella uusinta versiota milloin tahansa kohdassa ”Lakitiedot”. Hyväksy käytäntö jatkaaksesi sovelluksen käyttöä.",
-    "CL_CF_terms_content": "Olemme päivittäneet <b> loppukäyttäjän lisenssisopimuksemme </b>. Voit tarkastella uusinta versiota milloin tahansa kohdassa ”Lakitiedot”. Hyväksy sopimukset jatkaaksesi sovelluksen käyttöä."
+    "CL_CF_terms_content": "Olemme päivittäneet <b> loppukäyttäjän lisenssisopimuksemme </b>. Voit tarkastella uusinta versiota milloin tahansa kohdassa ”Lakitiedot”. Hyväksy sopimukset jatkaaksesi sovelluksen käyttöä.",
+    "CL_DV_CM_remove_device_tips": "Poistaminen poistaa tämän laitteen tililtäsi. Haluatko jatkaa?",
+    "CL_DV_LC_link_two_tips": "Voit ohjata kahta ovenlukkoa laitekortin kytkimellä.",
+    "CL_CF_CS_hicube_cs_step_wired": "Varmista, että Hi-Cube on kytketty verkkokaapeliin.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Varmista, että laitteesi on päällä.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II on kytketty verkkokaapeliin.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Varmista, että Himit-sovitin on kytketty päälle, pidä reset-painiketta painettuna 3 sekunnin ajan, kunnes WLAN-valo vilkkuu.",
+    "CL_CF_FW_wifi_update": "Wi-Fi-moduulin päivitys",
+    "CL_CF_FW_wifi_update_required": "Wi-Fi-moduulin päivitys vaaditaan",
+    "CL_CF_FW_wifi_update_pop_content": "Uusien kyberturvallisuusstandardien täyttämiseksi laitteesi vaatii päivityksen. \n Jotta voit jatkaa laitteen käyttöä sovelluksen kanssa, varmista, että suoritat tämän päivityksen. Jos päivityksen aikana ilmenee poikkeavuuksia, irrota laite pistorasiasta ja kytke se takaisin manuaalisesti tai ota yhteyttä huoltopalveluun."
 }
