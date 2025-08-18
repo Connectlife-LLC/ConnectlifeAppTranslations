@@ -5872,5 +5872,16 @@
     "CL_CF_terms_button_title": "接受并继续",
     "CL_CF_terms_pp_content": "我们已更新<b>最终用户许可协议</b>和<b>隐私政策</b> 。您可以随时在“法律声明”下查看最新版本。请接受并同意后才能继续使用该应用。",
     "CL_CF_pp_content": "我们已更新<b>隐私政策</b> 。您可以随时在“法律”部分查看最新版本。请接受此条款以便继续使用本应用。",
-    "CL_CF_terms_content": "我们已更新<b>最终用户许可协议</b> 。您可以随时在“法律”部分查看最新版本。请接受此协议以继续使用该应用。"
+    "CL_CF_terms_content": "我们已更新<b>最终用户许可协议</b> 。您可以随时在“法律”部分查看最新版本。请接受此协议以继续使用该应用。",
+    "CL_DV_CM_remove_device_tips": "移除操作将从您的帐户中删除此设备。是否继续？",
+    "CL_DV_LC_link_two_tips": "您可以使用设备卡上的开关控制两把门锁。",
+    "CL_CF_CS_hicube_cs_step_wired": "请确保 Hi-Cube 已连接到网线。",
+    "CL_CF_CS_hicube_cs_step_wifi": "请确保您的设备已打开电源。",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II 连接到网线。",
+    "CL_CF_CS_himit2_cs_step_wifi": "请确保 Himit 适配器已通电，按住重置按钮 3 秒钟，直到 WLAN 指示灯闪烁。",
+    "CL_CF_FW_wifi_update": "Wi-Fi模块更新",
+    "CL_CF_FW_wifi_update_required": "需要更新 Wi-Fi 模块",
+    "CL_CF_FW_wifi_update_pop_content": "为了符合新的网络安全标准，您的设备需要更新。__ \n要继续使用您的设备并使用该应用，请务必完成此更新。如果升级过程中出现任何异常，请手动拔插设备或联系售后服务。",
+    "CL_CF_CS_hi_cube_select_adapter": "选择您的适配器类型。",
+    "CL_DV_DLNA_hdr_tips": "不支持启用 HDR 录制的视频"
 }
