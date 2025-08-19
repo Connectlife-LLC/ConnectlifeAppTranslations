@@ -5872,5 +5872,16 @@
     "CL_CF_terms_button_title": "ACCEPT & CONTINUE",
     "CL_CF_terms_pp_content": "We have updated our <b>End User License Agreement</b> and <b>Privacy Policy</b>. You can view the latest version under “Legal” at any time. Please accept to continue using the app.",
     "CL_CF_pp_content": "We have updated our <b>Privacy Policy</b>. You can view the latest version under “Legal” at any time. Please accept to continue using the app.",
-    "CL_CF_terms_content": "We have updated our <b>End User License Agreement</b>. You can view the latest version under “Legal” at any time. Please accept to continue using the app."
+    "CL_CF_terms_content": "We have updated our <b>End User License Agreement</b>. You can view the latest version under “Legal” at any time. Please accept to continue using the app.",
+    "CL_DV_CM_remove_device_tips": "Removing will delete this device from your account. Do you want to proceed?",
+    "CL_DV_LC_link_two_tips": "You can control two door locks using the switch on the device card.",
+    "CL_CF_CS_hicube_cs_step_wired": "Please ensure Hi-Cube is connected to a network cable.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Please ensure your device is powered on.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II is connected to a network cable.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Please ensure that the Hi-Mit II adapter is powered on, press and hold the reset button for 3s until the WLAN light flashes.",
+    "CL_CF_FW_wifi_update": "Wi-Fi module update",
+    "CL_CF_FW_wifi_update_required": "Wi-Fi module update is required",
+    "CL_CF_FW_wifi_update_pop_content": "To comply with new cybersecurity standards, your device requires an update.\nTo continue using your device with the app, make sure to complete this update. If any abnormalities occur during the upgrade, please manually unplug and plug the device or contact after-sales service.",
+    "CL_CF_CS_hi_cube_select_adapter": "Select your adapter type.",
+    "CL_DV_DLNA_hdr_tips": "Not support videos recorded with HDR enabled"
 }
