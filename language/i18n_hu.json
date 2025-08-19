@@ -5872,5 +5872,16 @@
     "CL_CF_terms_button_title": "ELFOGADÁS ÉS FOLYTATÁS",
     "CL_CF_terms_pp_content": "Frissítettük <b> Végfelhasználói Licencszerződésünket </b> és <b> Adatvédelmi Szabályzatunkat </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához.",
     "CL_CF_pp_content": "Frissítettük <b> Adatvédelmi irányelveinket </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához.",
-    "CL_CF_terms_content": "Frissítettük <b> végfelhasználói licencszerződésünket </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához."
+    "CL_CF_terms_content": "Frissítettük <b> végfelhasználói licencszerződésünket </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához.",
+    "CL_DV_CM_remove_device_tips": "Az eltávolítással törlöd ezt az eszközt a fiókodból. Folytatod?",
+    "CL_DV_LC_link_two_tips": "Két ajtózárat vezérelhet a készülékkártyán található kapcsolóval.",
+    "CL_CF_CS_hicube_cs_step_wired": "Kérjük, győződjön meg arról, hogy a Hi-Cube hálózati kábelhez van csatlakoztatva.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Kérjük, győződjön meg arról, hogy a készülék be van kapcsolva.",
+    "CL_CF_CS_himit2_cs_step_wired": "A Hi-Mit II hálózati kábelhez csatlakozik.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Győződjön meg róla, hogy a Himit adapter be van kapcsolva, nyomja meg és tartsa lenyomva a reset gombot 3 másodpercig, amíg a WLAN fény villogni nem kezd.",
+    "CL_CF_FW_wifi_update": "Wi-Fi modul frissítése",
+    "CL_CF_FW_wifi_update_required": "Wi-Fi modul frissítése szükséges",
+    "CL_CF_FW_wifi_update_pop_content": "Az új kiberbiztonsági szabványoknak való megfelelés érdekében frissíteni kell az eszközt. \n Ha továbbra is használni szeretné az eszközt az alkalmazással, feltétlenül fejezze be ezt a frissítést. Ha a frissítés során bármilyen rendellenességet tapasztal, kérjük, manuálisan húzza ki és csatlakoztassa az eszközt, vagy vegye fel a kapcsolatot az értékesítés utáni szervizzel.",
+    "CL_CF_CS_hi_cube_select_adapter": "Válassza ki az adapter típusát.",
+    "CL_DV_DLNA_hdr_tips": "Nem támogatja a HDR-rel rögzített videókat"
 }

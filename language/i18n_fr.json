@@ -1306,7 +1306,7 @@
     "agree": "accepter",
     "whether_to_jump_vivino": "Sauter ou non vivino",
     "network_lost": "Réseau non disponible",
-    "login": "LOGIN",
+    "login": "SE CONNECTER",
     "user_name": "Nom d'utilisateur",
     "register_success": "Enregistrement réussi",
     "register_fail": "Échec de l'enregistrement",
@@ -5872,5 +5872,16 @@
     "CL_CF_terms_button_title": "ACCEPTER ET CONTINUER",
     "CL_CF_terms_pp_content": "Nous avons mis à jour notre <b> Contrat de licence utilisateur final </b> et <b> Politique de confidentialité </b>. Vous pouvez consulter la dernière version à tout moment dans la section « Mentions légales ». Veuillez accepter pour continuer à utiliser l'application.",
     "CL_CF_pp_content": "Nous avons mis à jour notre <b> Politique de confidentialité </b>. Vous pouvez consulter la dernière version à tout moment dans la section « Mentions légales ». Veuillez accepter pour continuer à utiliser l'application.",
-    "CL_CF_terms_content": "Nous avons mis à jour notre <b> Contrat de licence utilisateur final </b>. Vous pouvez consulter la dernière version à tout moment dans la section « Mentions légales ». Veuillez accepter pour continuer à utiliser l'application."
+    "CL_CF_terms_content": "Nous avons mis à jour notre <b> Contrat de licence utilisateur final </b>. Vous pouvez consulter la dernière version à tout moment dans la section « Mentions légales ». Veuillez accepter pour continuer à utiliser l'application.",
+    "CL_DV_CM_remove_device_tips": "La suppression supprimera cet appareil de votre compte. Voulez-vous continuer ?",
+    "CL_DV_LC_link_two_tips": "Vous pouvez contrôler deux serrures de porte à l'aide de l'interrupteur sur la carte de l'appareil.",
+    "CL_CF_CS_hicube_cs_step_wired": "Veuillez vous assurer que Hi-Cube est connecté à un câble réseau.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Veuillez vous assurer que votre appareil est sous tension.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II est connecté à un câble réseau.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Assurez-vous que l'adaptateur Himit est sous tension, maintenez enfoncé le bouton de réinitialisation pendant 3 secondes jusqu'à ce que le voyant WLAN clignote.",
+    "CL_CF_FW_wifi_update": "Mise à jour du module Wi-Fi",
+    "CL_CF_FW_wifi_update_required": "Une mise à jour du module Wi-Fi est requise",
+    "CL_CF_FW_wifi_update_pop_content": "Pour être conforme aux nouvelles normes de cybersécurité, votre appareil nécessite une mise à jour. \n Pour continuer à utiliser votre appareil avec l'application, assurez-vous d'effectuer cette mise à jour. Si des anomalies surviennent pendant la mise à jour, veuillez débrancher et rebrancher manuellement l'appareil ou contacter le service après-vente.",
+    "CL_CF_CS_hi_cube_select_adapter": "Sélectionnez votre type d'adaptateur.",
+    "CL_DV_DLNA_hdr_tips": "Ne prend pas en charge les vidéos enregistrées avec HDR activé"
 }

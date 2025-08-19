@@ -5872,5 +5872,16 @@
     "CL_CF_terms_button_title": "TERIMA & LANJUTKAN",
     "CL_CF_terms_pp_content": "Kami telah memperbarui <b> Perjanjian Lisensi Pengguna Akhir </b> dan <b> Kebijakan Privasi </b> kami. Anda dapat melihat versi terbaru di bagian \"Legal\" kapan saja. Harap setujui untuk terus menggunakan aplikasi.",
     "CL_CF_pp_content": "Kami telah memperbarui <b> Kebijakan Privasi </b> kami. Anda dapat melihat versi terbaru di bagian \"Legal\" kapan saja. Harap setujui untuk terus menggunakan aplikasi.",
-    "CL_CF_terms_content": "Kami telah memperbarui <b> Perjanjian Lisensi Pengguna Akhir </b> kami. Anda dapat melihat versi terbaru di bagian \"Legal\" kapan saja. Harap setujui untuk terus menggunakan aplikasi."
+    "CL_CF_terms_content": "Kami telah memperbarui <b> Perjanjian Lisensi Pengguna Akhir </b> kami. Anda dapat melihat versi terbaru di bagian \"Legal\" kapan saja. Harap setujui untuk terus menggunakan aplikasi.",
+    "CL_DV_CM_remove_device_tips": "Menghapus perangkat ini akan menghapusnya dari akun Anda. Apakah Anda ingin melanjutkan?",
+    "CL_DV_LC_link_two_tips": "Anda dapat mengontrol dua kunci pintu menggunakan sakelar pada kartu perangkat.",
+    "CL_CF_CS_hicube_cs_step_wired": "Pastikan Hi-Cube terhubung ke kabel jaringan.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Pastikan perangkat Anda dihidupkan.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II terhubung ke kabel jaringan.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Pastikan adaptor Himit menyala, tekan dan tahan tombol reset selama 3 detik hingga lampu WLAN berkedip.",
+    "CL_CF_FW_wifi_update": "Pembaruan modul Wi-Fi",
+    "CL_CF_FW_wifi_update_required": "Diperlukan pembaruan modul Wi-Fi",
+    "CL_CF_FW_wifi_update_pop_content": "Untuk mematuhi standar keamanan siber yang baru, perangkat Anda perlu diperbarui. \n Untuk terus menggunakan perangkat Anda dengan aplikasi, pastikan untuk menyelesaikan pembaruan ini. Jika terjadi ketidaknormalan selama pembaruan, harap cabut dan pasang kembali perangkat secara manual atau hubungi layanan purnajual.",
+    "CL_CF_CS_hi_cube_select_adapter": "Pilih jenis adaptor Anda.",
+    "CL_DV_DLNA_hdr_tips": "Tidak mendukung video yang direkam dengan HDR diaktifkan"
 }
