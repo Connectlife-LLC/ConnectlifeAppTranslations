@@ -5872,5 +5872,18 @@
     "CL_CF_terms_button_title": "PŘIJMOUT A POKRAČOVAT",
     "CL_CF_terms_pp_content": "Aktualizovali jsme naši <b> Licenční smlouvu s koncovým uživatelem </b> a <b> Zásady ochrany osobních údajů </b>. Nejnovější verzi si můžete kdykoli prohlédnout v sekci „Právní informace“. Chcete-li aplikaci nadále používat, prosím, souhlaste s nimi.",
     "CL_CF_pp_content": "Aktualizovali jsme naše <b> Zásady ochrany osobních údajů </b>. Nejnovější verzi si můžete kdykoli prohlédnout v sekci „Právní informace“. Chcete-li aplikaci nadále používat, prosím, souhlaste s nimi.",
-    "CL_CF_terms_content": "Aktualizovali jsme naši <b> Licenční smlouvu s koncovým uživatelem </b>. Nejnovější verzi si můžete kdykoli prohlédnout v sekci „Právní informace“. Chcete-li aplikaci nadále používat, prosím, souhlaste s jejím přijetím."
+    "CL_CF_terms_content": "Aktualizovali jsme naši <b> Licenční smlouvu s koncovým uživatelem </b>. Nejnovější verzi si můžete kdykoli prohlédnout v sekci „Právní informace“. Chcete-li aplikaci nadále používat, prosím, souhlaste s jejím přijetím.",
+    "CL_DV_CM_remove_device_tips": "Odebráním smažete toto zařízení z svého účtu. Chcete pokračovat?",
+    "CL_DV_LC_link_two_tips": "Dva zámky dveří můžete ovládat pomocí spínače na kartě zařízení.",
+    "CL_CF_CS_hicube_cs_step_wired": "Ujistěte se, že je Hi-Cube připojen k síťovému kabelu.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Ujistěte se, že je vaše zařízení zapnuté.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II je připojen k síťovému kabelu.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Ujistěte se, že je adaptér Himit zapnutý, stiskněte a podržte tlačítko reset po dobu 3 sekund, dokud nezačne blikat kontrolka WLAN.",
+    "CL_CF_FW_wifi_update": "Aktualizace Wi-Fi modulu",
+    "CL_CF_FW_wifi_update_required": "Je vyžadována aktualizace modulu Wi-Fi",
+    "CL_CF_CS_hi_cube_select_adapter": "Vyberte typ adaptéru.",
+    "CL_DV_DLNA_hdr_tips": "Nepodporuje videa nahraná s povoleným HDR",
+    "CL_CF_terms_pp_content_tips": "",
+    "CL_DV_DLNA_video_support": "Podpora: MOV, MP4, 3GP",
+    "CL_CF_FW_wifi_update_pop_content": "Vaše zařízení potřebuje důležitou aktualizaci softwaru, aby bylo zajištěno jeho zabezpečení a správné fungování. \n \n Proveďte prosím tuto aktualizaci, abyste mohli zařízení s aplikací i nadále používat. \n \n Aktualizace bude trvat několik minut. Ujistěte se, že zařízení během této doby zůstane zapnuté. Pokud se něco pokazí, můžete jej odpojit a znovu zapojit, abyste zařízení restartovali. Pokud potíže přetrvávají, obraťte se na náš poprodejní servisní tým."
 }

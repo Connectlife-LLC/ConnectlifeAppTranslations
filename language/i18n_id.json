@@ -5872,5 +5872,18 @@
     "CL_CF_terms_button_title": "TERIMA & LANJUTKAN",
     "CL_CF_terms_pp_content": "Kami telah memperbarui <b> Perjanjian Lisensi Pengguna Akhir </b> dan <b> Kebijakan Privasi </b> kami. Anda dapat melihat versi terbaru di bagian \"Legal\" kapan saja. Harap setujui untuk terus menggunakan aplikasi.",
     "CL_CF_pp_content": "Kami telah memperbarui <b> Kebijakan Privasi </b> kami. Anda dapat melihat versi terbaru di bagian \"Legal\" kapan saja. Harap setujui untuk terus menggunakan aplikasi.",
-    "CL_CF_terms_content": "Kami telah memperbarui <b> Perjanjian Lisensi Pengguna Akhir </b> kami. Anda dapat melihat versi terbaru di bagian \"Legal\" kapan saja. Harap setujui untuk terus menggunakan aplikasi."
+    "CL_CF_terms_content": "Kami telah memperbarui <b> Perjanjian Lisensi Pengguna Akhir </b> kami. Anda dapat melihat versi terbaru di bagian \"Legal\" kapan saja. Harap setujui untuk terus menggunakan aplikasi.",
+    "CL_DV_CM_remove_device_tips": "Menghapus perangkat ini akan menghapusnya dari akun Anda. Apakah Anda ingin melanjutkan?",
+    "CL_DV_LC_link_two_tips": "Anda dapat mengontrol dua kunci pintu menggunakan sakelar pada kartu perangkat.",
+    "CL_CF_CS_hicube_cs_step_wired": "Pastikan Hi-Cube terhubung ke kabel jaringan.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Pastikan perangkat Anda dihidupkan.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II terhubung ke kabel jaringan.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Pastikan adaptor Himit menyala, tekan dan tahan tombol reset selama 3 detik hingga lampu WLAN berkedip.",
+    "CL_CF_FW_wifi_update": "Pembaruan modul Wi-Fi",
+    "CL_CF_FW_wifi_update_required": "Diperlukan pembaruan modul Wi-Fi",
+    "CL_CF_CS_hi_cube_select_adapter": "Pilih jenis adaptor Anda.",
+    "CL_DV_DLNA_hdr_tips": "Tidak mendukung video yang direkam dengan HDR diaktifkan",
+    "CL_CF_terms_pp_content_tips": "",
+    "CL_DV_DLNA_video_support": "Dukungan: MOV, MP4, 3GP",
+    "CL_CF_FW_wifi_update_pop_content": "Perangkat Anda memerlukan pembaruan perangkat lunak penting untuk memastikan keamanan dan berfungsi dengan benar. \n \n Harap selesaikan pembaruan ini untuk terus menggunakan perangkat Anda dengan aplikasi. \n \n Pembaruan akan memakan waktu beberapa menit. Pastikan perangkat Anda tetap menyala selama proses ini. Jika terjadi kesalahan, Anda dapat mencabut dan mencolokkannya kembali untuk memulai ulang. Jika Anda masih mengalami masalah, hubungi tim layanan purnajual kami untuk mendapatkan bantuan."
 }

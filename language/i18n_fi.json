@@ -5872,5 +5872,18 @@
     "CL_CF_terms_button_title": "HYVÄKSY JA JATKA",
     "CL_CF_terms_pp_content": "Olemme päivittäneet <b> loppukäyttäjän lisenssisopimuksen </b> ja <b> tietosuojakäytännön </b>. Voit tarkastella uusinta versiota milloin tahansa kohdassa ”Lakitiedot”. Hyväksy ehdot jatkaaksesi sovelluksen käyttöä.",
     "CL_CF_pp_content": "Olemme päivittäneet <b> tietosuojakäytäntömme </b>. Voit tarkastella uusinta versiota milloin tahansa kohdassa ”Lakitiedot”. Hyväksy käytäntö jatkaaksesi sovelluksen käyttöä.",
-    "CL_CF_terms_content": "Olemme päivittäneet <b> loppukäyttäjän lisenssisopimuksemme </b>. Voit tarkastella uusinta versiota milloin tahansa kohdassa ”Lakitiedot”. Hyväksy sopimukset jatkaaksesi sovelluksen käyttöä."
+    "CL_CF_terms_content": "Olemme päivittäneet <b> loppukäyttäjän lisenssisopimuksemme </b>. Voit tarkastella uusinta versiota milloin tahansa kohdassa ”Lakitiedot”. Hyväksy sopimukset jatkaaksesi sovelluksen käyttöä.",
+    "CL_DV_CM_remove_device_tips": "Poistaminen poistaa tämän laitteen tililtäsi. Haluatko jatkaa?",
+    "CL_DV_LC_link_two_tips": "Voit ohjata kahta ovenlukkoa laitekortin kytkimellä.",
+    "CL_CF_CS_hicube_cs_step_wired": "Varmista, että Hi-Cube on kytketty verkkokaapeliin.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Varmista, että laitteesi on päällä.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II on kytketty verkkokaapeliin.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Varmista, että Himit-sovitin on kytketty päälle, pidä reset-painiketta painettuna 3 sekunnin ajan, kunnes WLAN-valo vilkkuu.",
+    "CL_CF_FW_wifi_update": "Wi-Fi-moduulin päivitys",
+    "CL_CF_FW_wifi_update_required": "Wi-Fi-moduulin päivitys vaaditaan",
+    "CL_CF_CS_hi_cube_select_adapter": "Valitse sovittimen tyyppi.",
+    "CL_DV_DLNA_hdr_tips": "Ei tue HDR-tilassa tallennettuja videoita",
+    "CL_CF_terms_pp_content_tips": "",
+    "CL_DV_DLNA_video_support": "Tuki: MOV, MP4, 3GP",
+    "CL_CF_FW_wifi_update_pop_content": "Laitteesi tarvitsee tärkeän ohjelmistopäivityksen, jotta se on turvallinen ja toimii oikein. \n \n Suorita tämä päivitys, jotta voit jatkaa laitteen käyttöä sovelluksen kanssa. \n \n Päivitys kestää muutaman minuutin. Varmista, että laitteesi pysyy päällä tänä aikana. Jos jokin menee pieleen, voit irrottaa sen pistorasiasta ja kytkeä sen takaisin käynnistääksesi sen uudelleen. Jos sinulla on edelleen ongelmia, ota yhteyttä huoltopalveluumme saadaksesi apua."
 }

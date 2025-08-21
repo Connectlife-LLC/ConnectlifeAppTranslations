@@ -5872,5 +5872,18 @@
     "CL_CF_terms_button_title": "ACCEPTÉR & FORTSÆT",
     "CL_CF_terms_pp_content": "Vi har opdateret vores <b> slutbrugerlicensaftale </b> og <b> privatlivspolitik </b>. Du kan til enhver tid se den seneste version under \"Juridisk\". Accepter venligst for at fortsætte med at bruge appen.",
     "CL_CF_pp_content": "Vi har opdateret vores <b> Privatlivspolitik </b>. Du kan til enhver tid se den seneste version under \"Juridisk\". Accepter venligst for at fortsætte med at bruge appen.",
-    "CL_CF_terms_content": "Vi har opdateret vores <b> slutbrugerlicensaftale </b>. Du kan til enhver tid se den seneste version under \"Juridisk\". Accepter venligst for at fortsætte med at bruge appen."
+    "CL_CF_terms_content": "Vi har opdateret vores <b> slutbrugerlicensaftale </b>. Du kan til enhver tid se den seneste version under \"Juridisk\". Accepter venligst for at fortsætte med at bruge appen.",
+    "CL_DV_CM_remove_device_tips": "Hvis du fjerner den, slettes denne enhed fra din konto. Vil du fortsætte?",
+    "CL_DV_LC_link_two_tips": "Du kan styre to dørlåse ved hjælp af kontakten på enhedskortet.",
+    "CL_CF_CS_hicube_cs_step_wired": "Sørg for, at Hi-Cube er tilsluttet et netværkskabel.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Sørg for, at din enhed er tændt.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II er tilsluttet et netværkskabel.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Sørg for, at Himit-adapteren er tændt, tryk og hold reset-knappen nede i 3 sekunder, indtil WLAN-lyset blinker.",
+    "CL_CF_FW_wifi_update": "Opdatering af Wi-Fi-modul",
+    "CL_CF_FW_wifi_update_required": "Wi-Fi-modulopdatering er påkrævet",
+    "CL_CF_CS_hi_cube_select_adapter": "Vælg din adaptertype.",
+    "CL_DV_DLNA_hdr_tips": "Understøtter ikke videoer optaget med HDR aktiveret",
+    "CL_CF_terms_pp_content_tips": "",
+    "CL_DV_DLNA_video_support": "Understøttelse: MOV, MP4, 3GP",
+    "CL_CF_FW_wifi_update_pop_content": "Din enhed har brug for en vigtig softwareopdatering for at sikre, at den er sikker og fungerer korrekt. \n \n Fuldfør denne opdatering for at fortsætte med at bruge din enhed med appen. \n \n Opdateringen tager et par minutter. Sørg for, at din enhed forbliver tændt i løbet af dette tidsrum. Hvis noget går galt, kan du frakoble den og sætte den i igen for at genstarte. Hvis du stadig har problemer, kan du kontakte vores kundeserviceteam for at få hjælp."
 }

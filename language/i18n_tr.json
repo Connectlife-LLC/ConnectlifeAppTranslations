@@ -5872,5 +5872,18 @@
     "CL_CF_terms_button_title": "KABUL ET & DEVAM ET",
     "CL_CF_terms_pp_content": "<b> Son Kullanıcı Lisans Sözleşmemizi </b> ve <b> Gizlilik Politikamızı </b> güncelledik. En son sürümü istediğiniz zaman \"Yasal\" bölümünden görüntüleyebilirsiniz. Uygulamayı kullanmaya devam etmek için lütfen kabul edin.",
     "CL_CF_pp_content": "<b> Gizlilik Politikamızı </b> güncelledik. En son sürümü istediğiniz zaman \"Yasal\" bölümünden görüntüleyebilirsiniz. Uygulamayı kullanmaya devam etmek için lütfen kabul edin.",
-    "CL_CF_terms_content": "<b> Son Kullanıcı Lisans Sözleşmemizi </b> güncelledik. En son sürümü istediğiniz zaman \"Yasal\" bölümünden görüntüleyebilirsiniz. Uygulamayı kullanmaya devam etmek için lütfen kabul edin."
+    "CL_CF_terms_content": "<b> Son Kullanıcı Lisans Sözleşmemizi </b> güncelledik. En son sürümü istediğiniz zaman \"Yasal\" bölümünden görüntüleyebilirsiniz. Uygulamayı kullanmaya devam etmek için lütfen kabul edin.",
+    "CL_DV_CM_remove_device_tips": "Kaldırma işlemi, bu cihazı hesabınızdan silecektir. Devam etmek istiyor musunuz?",
+    "CL_DV_LC_link_two_tips": "Cihaz kartı üzerindeki anahtarı kullanarak iki kapı kilidini kontrol edebilirsiniz.",
+    "CL_CF_CS_hicube_cs_step_wired": "Lütfen Hi-Cube'un bir ağ kablosuna bağlı olduğundan emin olun.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Lütfen cihazınızın açık olduğundan emin olun.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II bir ağ kablosuna bağlıdır.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Himit adaptörünün açık olduğundan emin olun, WLAN ışığı yanıp sönene kadar sıfırlama düğmesine 3 saniye basın ve basılı tutun.",
+    "CL_CF_FW_wifi_update": "Wi-Fi modülü güncellemesi",
+    "CL_CF_FW_wifi_update_required": "Wi-Fi modülünün güncellenmesi gerekiyor",
+    "CL_CF_CS_hi_cube_select_adapter": "Adaptör tipinizi seçin.",
+    "CL_DV_DLNA_hdr_tips": "HDR etkinleştirilmiş olarak kaydedilen videolar desteklenmiyor",
+    "CL_CF_terms_pp_content_tips": "",
+    "CL_DV_DLNA_video_support": "Destek:MOV,MP4,3GP",
+    "CL_CF_FW_wifi_update_pop_content": "Cihazınızın güvenli ve düzgün çalışmasını sağlamak için önemli bir yazılım güncellemesi gerekiyor. \n \n Cihazınızı uygulamayla kullanmaya devam etmek için lütfen bu güncellemeyi tamamlayın. \n \n Güncelleme birkaç dakika sürecektir. Bu süre boyunca cihazınızın açık kaldığından emin olun. Bir sorun çıkarsa, fişini çekip tekrar takarak yeniden başlatabilirsiniz. Hala sorun yaşıyorsanız, yardım için satış sonrası servis ekibimizle iletişime geçin."
 }

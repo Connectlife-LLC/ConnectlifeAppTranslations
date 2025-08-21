@@ -4565,7 +4565,7 @@
     "CL_DV_RF_switch_to_eco_mode": "Overschakelen naar ECO-modus",
     "CL_DV_RF_switch_to_eco_mode_tips": "Omdat het apparaat niet actief is, adviseren wij u om over te schakelen naar de ECO-modus.",
     "CL_DV_RF_start_eco_mode": "ECO-modus starten",
-    "CL_CF_AS_support": "Steun",
+    "CL_CF_AS_support": "Ondersteuning",
     "CL_DV_OV_remote_start": "START OP AFSTAND",
     "CL_DV_OV_remote_start_enable_tips": "Om het op afstand starten in te schakelen, bevestigt u dit door op de knop van de oven te drukken.",
     "CL_CF_CO_device_runs_normal": "Uw apparaat functioneert normaal.",
@@ -5872,5 +5872,18 @@
     "CL_CF_terms_button_title": "ACCEPTEREN & DOORGAAN",
     "CL_CF_terms_pp_content": "We hebben onze <b> Licentieovereenkomst voor eindgebruikers </b> en <b> Privacybeleid </b> bijgewerkt. U kunt de nieuwste versie op elk moment bekijken onder 'Juridisch'. Accepteer deze voorwaarden om de app te blijven gebruiken.",
     "CL_CF_pp_content": "We hebben ons <b> Privacybeleid </b> bijgewerkt. U kunt de meest recente versie op elk moment bekijken onder \"Juridisch\". Accepteer het beleid om de app te blijven gebruiken.",
-    "CL_CF_terms_content": "We hebben onze <b> Licentieovereenkomst voor eindgebruikers </b> bijgewerkt. U kunt de nieuwste versie op elk moment bekijken onder 'Juridisch'. Accepteer de overeenkomst om de app te blijven gebruiken."
+    "CL_CF_terms_content": "We hebben onze <b> Licentieovereenkomst voor eindgebruikers </b> bijgewerkt. U kunt de nieuwste versie op elk moment bekijken onder 'Juridisch'. Accepteer de overeenkomst om de app te blijven gebruiken.",
+    "CL_DV_CM_remove_device_tips": "Verwijderen verwijdert dit apparaat uit uw account. Wilt u doorgaan?",
+    "CL_DV_LC_link_two_tips": "Met de schakelaar op de apparaatkaart kunt u twee deursloten bedienen.",
+    "CL_CF_CS_hicube_cs_step_wired": "Zorg ervoor dat Hi-Cube is aangesloten op een netwerkkabel.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Zorg ervoor dat uw apparaat is ingeschakeld.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II is aangesloten op een netwerkkabel.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Zorg ervoor dat de Hi-Mit II-adapter is ingeschakeld. Houd de resetknop 3 seconden ingedrukt totdat het WLAN-lampje knippert.",
+    "CL_CF_FW_wifi_update": "Wi-Fi-module-update",
+    "CL_CF_FW_wifi_update_required": "Update van de wifi-module is vereist",
+    "CL_CF_CS_hi_cube_select_adapter": "Selecteer uw adaptertype.",
+    "CL_DV_DLNA_hdr_tips": "Ondersteunt geen video's die zijn opgenomen met HDR ingeschakeld",
+    "CL_CF_terms_pp_content_tips": "",
+    "CL_DV_DLNA_video_support": "Ondersteuning: MOV, MP4, 3GP",
+    "CL_CF_FW_wifi_update_pop_content": "Je apparaat heeft een belangrijke software-update nodig om ervoor te zorgen dat het veilig is en goed werkt. \n \n Voltooi deze update om je apparaat met de app te blijven gebruiken. \n \n De update duurt een paar minuten. Zorg ervoor dat je apparaat gedurende deze tijd aan blijft staan. Als er iets misgaat, kun je het loskoppelen en weer aansluiten om het opnieuw op te starten. Als je nog steeds problemen ondervindt, neem dan contact op met onze aftersalesservice voor hulp."
 }
