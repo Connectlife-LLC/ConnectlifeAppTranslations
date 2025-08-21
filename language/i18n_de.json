@@ -5872,5 +5872,18 @@
     "CL_CF_terms_button_title": "AKZEPTIEREN & FORTFAHREN",
     "CL_CF_terms_pp_content": "Wir haben unsere <b> Endbenutzer-Lizenzvereinbarung </b> und <b> Datenschutzrichtlinie </b> aktualisiert. Sie können die neueste Version jederzeit unter „Rechtliches“ einsehen. Bitte akzeptieren Sie die Bedingungen, um die App weiterhin nutzen zu können.",
     "CL_CF_pp_content": "Wir haben unsere <b> Datenschutzrichtlinie </b> aktualisiert. Sie können die aktuelle Version jederzeit unter „Rechtliches“ einsehen. Bitte akzeptieren Sie die Datenschutzrichtlinie, um die App weiterhin nutzen zu können.",
-    "CL_CF_terms_content": "Wir haben unsere <b> Endbenutzer-Lizenzvereinbarung </b> aktualisiert. Sie können die neueste Version jederzeit unter „Rechtliches“ einsehen. Bitte akzeptieren Sie die Vereinbarung, um die App weiterhin nutzen zu können."
+    "CL_CF_terms_content": "Wir haben unsere <b> Endbenutzer-Lizenzvereinbarung </b> aktualisiert. Sie können die neueste Version jederzeit unter „Rechtliches“ einsehen. Bitte akzeptieren Sie die Vereinbarung, um die App weiterhin nutzen zu können.",
+    "CL_DV_CM_remove_device_tips": "Durch das Entfernen wird dieses Gerät aus Ihrem Konto gelöscht. Möchten Sie fortfahren?",
+    "CL_DV_LC_link_two_tips": "Über den Schalter auf der Gerätekarte können Sie zwei Türschlösser steuern.",
+    "CL_CF_CS_hicube_cs_step_wired": "Bitte stellen Sie sicher, dass Hi-Cube mit einem Netzwerkkabel verbunden ist.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Bitte stellen Sie sicher, dass Ihr Gerät eingeschaltet ist.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II ist mit einem Netzwerkkabel verbunden.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Stellen Sie sicher, dass der Himit-Adapter eingeschaltet ist, drücken und halten Sie die Reset-Taste 3 Sekunden lang, bis die WLAN-Anzeige blinkt.",
+    "CL_CF_FW_wifi_update": "WLAN-Modul-Update",
+    "CL_CF_FW_wifi_update_required": "WLAN-Modul-Update erforderlich",
+    "CL_CF_CS_hi_cube_select_adapter": "Wählen Sie Ihren Adaptertyp.",
+    "CL_DV_DLNA_hdr_tips": "Unterstützt keine Videos, die mit aktiviertem HDR aufgenommen wurden",
+    "CL_CF_terms_pp_content_tips": "",
+    "CL_DV_DLNA_video_support": "Unterstützung: MOV, MP4, 3GP",
+    "CL_CF_FW_wifi_update_pop_content": "Ihr Gerät benötigt ein wichtiges Software-Update, um seine Sicherheit und Funktionsfähigkeit zu gewährleisten. \n \n Bitte schließen Sie dieses Update ab, um Ihr Gerät weiterhin mit der App nutzen zu können. \n \n Das Update dauert einige Minuten. Stellen Sie sicher, dass Ihr Gerät während dieser Zeit eingeschaltet bleibt. Sollte etwas schiefgehen, können Sie es einfach ausstecken und wieder einstecken, um es neu zu starten. Sollten weiterhin Probleme auftreten, wenden Sie sich bitte an unseren Kundendienst."
 }

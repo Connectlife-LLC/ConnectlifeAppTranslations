@@ -5872,5 +5872,18 @@
     "CL_CF_terms_button_title": "ELFOGADÁS ÉS FOLYTATÁS",
     "CL_CF_terms_pp_content": "Frissítettük <b> Végfelhasználói Licencszerződésünket </b> és <b> Adatvédelmi Szabályzatunkat </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához.",
     "CL_CF_pp_content": "Frissítettük <b> Adatvédelmi irányelveinket </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához.",
-    "CL_CF_terms_content": "Frissítettük <b> végfelhasználói licencszerződésünket </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához."
+    "CL_CF_terms_content": "Frissítettük <b> végfelhasználói licencszerződésünket </b>. A legújabb verziót bármikor megtekintheti a „Jogi nyilatkozat” alatt. Kérjük, fogadja el a feltételeket az alkalmazás további használatához.",
+    "CL_DV_CM_remove_device_tips": "Az eltávolítással törlöd ezt az eszközt a fiókodból. Folytatod?",
+    "CL_DV_LC_link_two_tips": "Két ajtózárat vezérelhet a készülékkártyán található kapcsolóval.",
+    "CL_CF_CS_hicube_cs_step_wired": "Kérjük, győződjön meg arról, hogy a Hi-Cube hálózati kábelhez van csatlakoztatva.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Kérjük, győződjön meg arról, hogy a készülék be van kapcsolva.",
+    "CL_CF_CS_himit2_cs_step_wired": "A Hi-Mit II hálózati kábelhez csatlakozik.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Győződjön meg róla, hogy a Himit adapter be van kapcsolva, nyomja meg és tartsa lenyomva a reset gombot 3 másodpercig, amíg a WLAN fény villogni nem kezd.",
+    "CL_CF_FW_wifi_update": "Wi-Fi modul frissítése",
+    "CL_CF_FW_wifi_update_required": "Wi-Fi modul frissítése szükséges",
+    "CL_CF_CS_hi_cube_select_adapter": "Válassza ki az adapter típusát.",
+    "CL_DV_DLNA_hdr_tips": "Nem támogatja a HDR-rel rögzített videókat",
+    "CL_CF_terms_pp_content_tips": "",
+    "CL_DV_DLNA_video_support": "Támogatás: MOV, MP4, 3GP",
+    "CL_CF_FW_wifi_update_pop_content": "Az eszközödnek fontos szoftverfrissítésre van szüksége a biztonság és a megfelelő működés biztosítása érdekében. \n \n Kérjük, fejezd be ezt a frissítést, hogy továbbra is használhasd az eszközödet az alkalmazással. \n \n A frissítés néhány percet vesz igénybe. Győződj meg róla, hogy az eszközöd ez idő alatt bekapcsolva marad. Ha valami probléma merül fel, kihúzhatod és visszadughatod az újraindításhoz. Ha továbbra is problémákat tapasztalsz, fordulj segítségért az értékesítés utáni szervizcsapatunkhoz."
 }

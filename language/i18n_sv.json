@@ -5872,5 +5872,18 @@
     "CL_CF_terms_button_title": "GODKÄNN & FORTSÄTT",
     "CL_CF_terms_pp_content": "Vi har uppdaterat vårt <b> licensavtal för slutanvändare </b> och <b> sekretesspolicy </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Vänligen godkänn för att fortsätta använda appen.",
     "CL_CF_pp_content": "Vi har uppdaterat vår <b> sekretesspolicy </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Godkänn för att fortsätta använda appen.",
-    "CL_CF_terms_content": "Vi har uppdaterat vårt <b> slutanvändarlicensavtal </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Vänligen godkänn för att fortsätta använda appen."
+    "CL_CF_terms_content": "Vi har uppdaterat vårt <b> slutanvändarlicensavtal </b>. Du kan när som helst se den senaste versionen under \"Juridisk information\". Vänligen godkänn för att fortsätta använda appen.",
+    "CL_DV_CM_remove_device_tips": "Om du tar bort den tas enheten bort från ditt konto. Vill du fortsätta?",
+    "CL_DV_LC_link_two_tips": "Du kan styra två dörrlås med hjälp av strömbrytaren på enhetskortet.",
+    "CL_CF_CS_hicube_cs_step_wired": "Se till att Hi-Cube är ansluten till en nätverkskabel.",
+    "CL_CF_CS_hicube_cs_step_wifi": "Se till att din enhet är påslagen.",
+    "CL_CF_CS_himit2_cs_step_wired": "Hi-Mit II är ansluten till en nätverkskabel.",
+    "CL_CF_CS_himit2_cs_step_wifi": "Se till att Himit-adaptern är påslagen, håll ned reset-knappen i 3 sekunder tills WLAN-lampan blinkar.",
+    "CL_CF_FW_wifi_update": "Uppdatering av Wi-Fi-modulen",
+    "CL_CF_FW_wifi_update_required": "Wi-Fi-moduluppdatering krävs",
+    "CL_CF_CS_hi_cube_select_adapter": "Välj din adaptertyp.",
+    "CL_DV_DLNA_hdr_tips": "Stöder inte videor inspelade med HDR aktiverat",
+    "CL_CF_terms_pp_content_tips": "",
+    "CL_DV_DLNA_video_support": "Stöd: MOV, MP4, 3GP",
+    "CL_CF_FW_wifi_update_pop_content": "Din enhet behöver en viktig programuppdatering för att säkerställa att den är säker och fungerar korrekt. \n \n Slutför den här uppdateringen för att fortsätta använda din enhet med appen. \n \n Uppdateringen tar några minuter. Se till att enheten är påslagen under den här tiden. Om något går fel kan du koppla ur den och ansluta den igen för att starta om. Om du fortfarande har problem kan du kontakta vår kundservice."
 }
