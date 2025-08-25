@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "スーパーリンスのオン/オフ",
     "CL_DV_WM_turn_small_load": "小さな負荷のオン/オフ",
     "CL_DV_WM_steam_disinfection_desc": "スチーム消毒は低温消毒サイクルです。本洗いを始める前に、衣類を消毒するために蒸気を噴射します。",
-    "CL_DV_WM_turn_steam_disinfection": "蒸気消毒のオン/オフ"
+    "CL_DV_WM_turn_steam_disinfection": "蒸気消毒のオン/オフ",
+    "CL_DV_WM_add_clothes_unlocking": "服を追加 - ドアのロックを解除"
 }
