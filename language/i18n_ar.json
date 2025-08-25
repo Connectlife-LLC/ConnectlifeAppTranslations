@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "تشغيل/إيقاف الشطف الفائق",
     "CL_DV_WM_turn_small_load": "تشغيل/إيقاف تشغيل الأحمال الصغيرة",
     "CL_DV_WM_steam_disinfection_desc": "التطهير بالبخار هو دورة تطهير منخفضة الحرارة. قبل بدء دورة الغسيل الرئيسية، يتم ضخ البخار لتطهير ملابسك.",
-    "CL_DV_WM_turn_steam_disinfection": "تشغيل/إيقاف تطهير البخار"
+    "CL_DV_WM_turn_steam_disinfection": "تشغيل/إيقاف تطهير البخار",
+    "CL_DV_WM_add_clothes_unlocking": "إضافة الملابس – فتح الأبواب"
 }

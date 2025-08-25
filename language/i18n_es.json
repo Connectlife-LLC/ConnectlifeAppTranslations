@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "Activar o desactivar el súper enjuague",
     "CL_DV_WM_turn_small_load": "Encender/apagar cargas pequeñas",
     "CL_DV_WM_steam_disinfection_desc": "La desinfección con vapor es un ciclo de desinfección a baja temperatura. Antes de comenzar el lavado principal, se introduce vapor para desinfectar la ropa.",
-    "CL_DV_WM_turn_steam_disinfection": "Activar o desactivar la desinfección con vapor"
+    "CL_DV_WM_turn_steam_disinfection": "Activar o desactivar la desinfección con vapor",
+    "CL_DV_WM_add_clothes_unlocking": "Añadir ropa: desbloquear puertas"
 }
