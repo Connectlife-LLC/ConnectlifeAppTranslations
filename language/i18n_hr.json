@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "Uključivanje/isključivanje super ispiranja",
     "CL_DV_WM_turn_small_load": "Uključivanje/isključivanje malog opterećenja",
     "CL_DV_WM_steam_disinfection_desc": "Dezinfekcija parom je ciklus dezinfekcije na niskoj temperaturi. Prije početka glavnog pranja uvodi se para za dezinfekciju vaše odjeće.",
-    "CL_DV_WM_turn_steam_disinfection": "Uključivanje/isključivanje dezinfekcije parom"
+    "CL_DV_WM_turn_steam_disinfection": "Uključivanje/isključivanje dezinfekcije parom",
+    "CL_DV_WM_add_clothes_unlocking": "Dodaj odjeću – otključavanje vrata"
 }
