@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "Slå superskyl til/fra",
     "CL_DV_WM_turn_small_load": "Tænd/sluk for små belastninger",
     "CL_DV_WM_steam_disinfection_desc": "Dampdesinfektion er en desinfektionscyklus ved lav temperatur. Før hovedvasken starter, tilføres damp for at desinficere dit tøj.",
-    "CL_DV_WM_turn_steam_disinfection": "Slå dampdesinfektion til/fra"
+    "CL_DV_WM_turn_steam_disinfection": "Slå dampdesinfektion til/fra",
+    "CL_DV_WM_add_clothes_unlocking": "Tilføj tøj – oplåsning af døre"
 }

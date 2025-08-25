@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "開啟/關閉超級漂洗",
     "CL_DV_WM_turn_small_load": "開啟/關閉小負載",
     "CL_DV_WM_steam_disinfection_desc": "蒸汽消毒是一種低溫消毒程序。在主洗開始前，會先通入蒸氣對衣物進行消毒。",
-    "CL_DV_WM_turn_steam_disinfection": "打開/關閉蒸汽消毒"
+    "CL_DV_WM_turn_steam_disinfection": "打開/關閉蒸汽消毒",
+    "CL_DV_WM_add_clothes_unlocking": "添加衣服——解鎖門"
 }
