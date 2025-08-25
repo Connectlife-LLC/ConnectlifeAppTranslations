@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "Szuper öblítés be-/kikapcsolása",
     "CL_DV_WM_turn_small_load": "Kis terhelés be-/kikapcsolása",
     "CL_DV_WM_steam_disinfection_desc": "A gőzfertőtlenítés egy alacsony hőmérsékletű fertőtlenítési ciklus. A főmosás megkezdése előtt gőzt vezetnek be a ruhák fertőtlenítésére.",
-    "CL_DV_WM_turn_steam_disinfection": "Gőzfertőtlenítés be-/kikapcsolása"
+    "CL_DV_WM_turn_steam_disinfection": "Gőzfertőtlenítés be-/kikapcsolása",
+    "CL_DV_WM_add_clothes_unlocking": "Ruhák hozzáadása – ajtók kinyitása"
 }
