@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "Nyalakan/matikan super rinse",
     "CL_DV_WM_turn_small_load": "Nyalakan/matikan beban kecil",
     "CL_DV_WM_steam_disinfection_desc": "Disinfeksi uap adalah siklus disinfeksi suhu rendah. Sebelum pencucian utama dimulai, uap dialirkan untuk mendisinfeksi pakaian Anda.",
-    "CL_DV_WM_turn_steam_disinfection": "Nyalakan/matikan desinfeksi uap"
+    "CL_DV_WM_turn_steam_disinfection": "Nyalakan/matikan desinfeksi uap",
+    "CL_DV_WM_add_clothes_unlocking": "Tambahkan Pakaian – membuka kunci pintu"
 }

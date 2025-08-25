@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "Superspülung ein-/ausschalten",
     "CL_DV_WM_turn_small_load": "Kleine Last ein-/ausschalten",
     "CL_DV_WM_steam_disinfection_desc": "Bei der Dampfdesinfektion handelt es sich um einen Desinfektionszyklus bei niedriger Temperatur. Vor dem Hauptwaschgang wird Dampf zugeführt, um Ihre Kleidung zu desinfizieren.",
-    "CL_DV_WM_turn_steam_disinfection": "Dampfdesinfektion ein-/ausschalten"
+    "CL_DV_WM_turn_steam_disinfection": "Dampfdesinfektion ein-/ausschalten",
+    "CL_DV_WM_add_clothes_unlocking": "Kleidung hinzufügen – Türen aufschließen"
 }

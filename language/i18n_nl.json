@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "Super spoelen aan/uit zetten",
     "CL_DV_WM_turn_small_load": "Kleine belasting aan/uit zetten",
     "CL_DV_WM_steam_disinfection_desc": "Stoomdesinfectie is een desinfectiecyclus op lage temperatuur. Voordat de hoofdwas begint, wordt er stoom ingespoten om uw kleding te desinfecteren.",
-    "CL_DV_WM_turn_steam_disinfection": "Stoomdesinfectie aan-/uitzetten"
+    "CL_DV_WM_turn_steam_disinfection": "Stoomdesinfectie aan-/uitzetten",
+    "CL_DV_WM_add_clothes_unlocking": "Kleding toevoegen – deuren ontgrendelen"
 }
