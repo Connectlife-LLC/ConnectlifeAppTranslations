@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "הפעלה/כיבוי של שטיפה מוגברת",
     "CL_DV_WM_turn_small_load": "הדלקה/כיבוי של עומס קטן",
     "CL_DV_WM_steam_disinfection_desc": "חיטוי בקיטור הוא מחזור חיטוי בטמפרטורה נמוכה. לפני תחילת הכביסה העיקרית, מכניסים קיטור לחיטוי הבגדים.",
-    "CL_DV_WM_turn_steam_disinfection": "הפעלה/כיבוי של חיטוי בקיטור"
+    "CL_DV_WM_turn_steam_disinfection": "הפעלה/כיבוי של חיטוי בקיטור",
+    "CL_DV_WM_add_clothes_unlocking": "הוסף בגדים - פתיחת דלתות"
 }
