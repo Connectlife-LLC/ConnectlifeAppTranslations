@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "Slå på/av supersköljning",
     "CL_DV_WM_turn_small_load": "Slå på/av liten last",
     "CL_DV_WM_steam_disinfection_desc": "Ångdesinfektion är en desinfektionscykel vid låg temperatur. Innan huvudtvätten börjar tillförs ånga för att desinficera dina kläder.",
-    "CL_DV_WM_turn_steam_disinfection": "Slå på/av ångdesinfektion"
+    "CL_DV_WM_turn_steam_disinfection": "Slå på/av ångdesinfektion",
+    "CL_DV_WM_add_clothes_unlocking": "Lägg till kläder – låsa upp dörrar"
 }
