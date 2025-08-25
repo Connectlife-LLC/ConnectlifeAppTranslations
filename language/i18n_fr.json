@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "Activer/désactiver le super rinçage",
     "CL_DV_WM_turn_small_load": "Allumer/éteindre une petite charge",
     "CL_DV_WM_steam_disinfection_desc": "La désinfection à la vapeur est un cycle de désinfection à basse température. Avant le début du lavage principal, de la vapeur est injectée pour désinfecter vos vêtements.",
-    "CL_DV_WM_turn_steam_disinfection": "Activer/désactiver la désinfection à la vapeur"
+    "CL_DV_WM_turn_steam_disinfection": "Activer/désactiver la désinfection à la vapeur",
+    "CL_DV_WM_add_clothes_unlocking": "Ajouter des vêtements – déverrouiller les portes"
 }

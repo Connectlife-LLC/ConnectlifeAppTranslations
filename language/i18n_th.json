@@ -5901,5 +5901,6 @@
     "CL_DV_WM_turn_super_rinse": "เปิด/ปิดการล้างแบบซุปเปอร์",
     "CL_DV_WM_turn_small_load": "เปิด/ปิดโหลดขนาดเล็ก",
     "CL_DV_WM_steam_disinfection_desc": "การฆ่าเชื้อด้วยไอน้ำเป็นวงจรการฆ่าเชื้อที่อุณหภูมิต่ำ ก่อนเริ่มการซักหลัก จะมีการใส่ไอน้ำเข้าไปเพื่อฆ่าเชื้อเสื้อผ้าของคุณ",
-    "CL_DV_WM_turn_steam_disinfection": "เปิด/ปิดการฆ่าเชื้อด้วยไอน้ำ"
+    "CL_DV_WM_turn_steam_disinfection": "เปิด/ปิดการฆ่าเชื้อด้วยไอน้ำ",
+    "CL_DV_WM_add_clothes_unlocking": "เพิ่มเสื้อผ้า – ปลดล็อคประตู"
 }
