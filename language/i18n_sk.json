@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Zapnutie/vypnutie super oplachovania",
     "CL_DV_WM_turn_small_load": "Zapnutie/vypnutie malého zaťaženia",
     "CL_DV_WM_steam_disinfection_desc": "Dezinfekcia parou je dezinfekčný cyklus pri nízkej teplote. Pred začiatkom hlavného prania sa do pračky privedie para na dezinfekciu oblečenia.",
-    "CL_DV_WM_turn_steam_disinfection": "Zapnutie/vypnutie dezinfekcie parou"
+    "CL_DV_WM_turn_steam_disinfection": "Zapnutie/vypnutie dezinfekcie parou",
+    "CL_DV_WM_add_clothes_unlocking": "Pridať oblečenie – odomykanie dverí",
+    "CL_DV_TD_pm_available_tips": "Správa programu je k dispozícii iba vtedy, keď je zariadenie v pohotovostnom režime."
 }

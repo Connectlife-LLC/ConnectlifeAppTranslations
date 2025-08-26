@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Activează/dezactivează super clătirea",
     "CL_DV_WM_turn_small_load": "Pornirea/oprirea sarcinii mici",
     "CL_DV_WM_steam_disinfection_desc": "Dezinfecția cu abur este un ciclu de dezinfecție la temperatură joasă. Înainte de începerea spălării principale, se introduce abur pentru a dezinfecta hainele.",
-    "CL_DV_WM_turn_steam_disinfection": "Activarea/dezactivarea dezinfecției cu abur"
+    "CL_DV_WM_turn_steam_disinfection": "Activarea/dezactivarea dezinfecției cu abur",
+    "CL_DV_WM_add_clothes_unlocking": "Adăugați haine – deblocarea ușilor",
+    "CL_DV_TD_pm_available_tips": "Gestionarea programului este disponibilă numai când dispozitivul este în modul de așteptare."
 }

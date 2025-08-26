@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Włącz/wyłącz funkcję superpłukania",
     "CL_DV_WM_turn_small_load": "Włącz/wyłącz małe obciążenie",
     "CL_DV_WM_steam_disinfection_desc": "Dezynfekcja parowa to cykl dezynfekcji w niskiej temperaturze. Przed rozpoczęciem prania zasadniczego wprowadzana jest para wodna w celu dezynfekcji ubrań.",
-    "CL_DV_WM_turn_steam_disinfection": "Włączanie/wyłączanie dezynfekcji parowej"
+    "CL_DV_WM_turn_steam_disinfection": "Włączanie/wyłączanie dezynfekcji parowej",
+    "CL_DV_WM_add_clothes_unlocking": "Dodaj ubrania – odblokowywanie drzwi",
+    "CL_DV_TD_pm_available_tips": "Zarządzanie programami jest dostępne tylko wtedy, gdy urządzenie znajduje się w trybie gotowości."
 }

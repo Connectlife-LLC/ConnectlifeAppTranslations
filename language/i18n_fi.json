@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Superhuuhtelun kytkeminen päälle/pois",
     "CL_DV_WM_turn_small_load": "Pienen kuorman kytkeminen päälle/pois",
     "CL_DV_WM_steam_disinfection_desc": "Höyrydesinfiointi on matalassa lämpötilassa tehtävä desinfiointiohjelma. Ennen pääpesun alkua vaatteisiin syötetään höyryä desinfioimaan ne.",
-    "CL_DV_WM_turn_steam_disinfection": "Höyrydesinfioinnin kytkeminen päälle/pois päältä"
+    "CL_DV_WM_turn_steam_disinfection": "Höyrydesinfioinnin kytkeminen päälle/pois päältä",
+    "CL_DV_WM_add_clothes_unlocking": "Lisää vaatteita – avaa ovet",
+    "CL_DV_TD_pm_available_tips": "Ohjelmanhallinta on käytettävissä vain, kun laite on valmiustilassa."
 }

@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Süper durulamayı açın/kapatın",
     "CL_DV_WM_turn_small_load": "Küçük yükü açma/kapatma",
     "CL_DV_WM_steam_disinfection_desc": "Buharlı dezenfeksiyon, düşük sıcaklıkta bir dezenfeksiyon döngüsüdür. Ana yıkama başlamadan önce giysilerinizi dezenfekte etmek için buhar verilir.",
-    "CL_DV_WM_turn_steam_disinfection": "Buhar dezenfeksiyonunu açın/kapatın"
+    "CL_DV_WM_turn_steam_disinfection": "Buhar dezenfeksiyonunu açın/kapatın",
+    "CL_DV_WM_add_clothes_unlocking": "Giysi Ekleme – Kapıların kilidini açma",
+    "CL_DV_TD_pm_available_tips": "Program yönetimi yalnızca cihaz bekleme modundayken kullanılabilir."
 }

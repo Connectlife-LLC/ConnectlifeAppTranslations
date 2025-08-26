@@ -3662,7 +3662,7 @@
     "asko_oven_show_date_content": "Prikaži datum na zaslonu ure ali ne.",
     "asko_oven_show_bg_content": "Prikaz ozadja na zaslonu pečice ali ne.",
     "asko_oven_light_setting_content": "Konfigurirajte nastavitve za luči v pečici.",
-    "asko_oven_stage_light_content": "Osvetlitev pod nadzorno ploščo pečice za osvetlitev jedi, ko jo vzamete iz pečice.",
+    "asko_oven_stage_light_content": "Osvetlitev pod nadzorno ploščo pečice za osvetlitev jed, ko jo vzamete iz pečice.",
     "asko_oven_stage_light": "Scenska luč",
     "asko_oven_color_temperature": "TEMPERATURA BARVE",
     "asko_oven_color_temperature_content": "Nastavite barvno temperaturo osvetlitve v notranjosti.",
@@ -5509,7 +5509,7 @@
     "CL_DV_DLNA_share_to_screen": "DELI NA ZASLON HLADILNIKA",
     "CL_DV_DLNA_stop_sharing": "USTAVI DELJENJE",
     "CL_DV_DLNA_android_video_support": "Podpira samo: MP4",
-    "CL_DV_DLNA_ios_video_support": "Podpora: M4V, MOV, MP4, 3GP",
+    "CL_DV_DLNA_ios_video_support": "Podpora: MOV, MP4, 3GP",
     "CL_DV_DLNA_audios_share": "Deli zvoke",
     "CL_CF_HP_blue_permission_off_title_android": "Naprave v bližini so onemogočene za ConnectLife",
     "CL_CF_HP_blue_permission_off_title_ios": "Bluetooth onemogočen za ConnectLife",
@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Vklop/izklop super izpiranja",
     "CL_DV_WM_turn_small_load": "Vklop/izklop majhne obremenitve",
     "CL_DV_WM_steam_disinfection_desc": "Dezinfekcija s paro je cikel dezinfekcije pri nizki temperaturi. Pred začetkom glavnega pranja se v stroj dovede para za dezinfekcijo oblačil.",
-    "CL_DV_WM_turn_steam_disinfection": "Vklop/izklop dezinfekcije s paro"
+    "CL_DV_WM_turn_steam_disinfection": "Vklop/izklop dezinfekcije s paro",
+    "CL_DV_WM_add_clothes_unlocking": "Dodaj oblačila – odklepanje vrat",
+    "CL_DV_TD_pm_available_tips": "Upravljanje programov je na voljo le, ko je naprava v stanju pripravljenosti."
 }

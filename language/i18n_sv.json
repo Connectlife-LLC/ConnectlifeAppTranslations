@@ -1350,7 +1350,7 @@
     "ticket_number": "MEDDELANDENUMMER",
     "no_internet_connection": "Ingen internetanslutning",
     "control_appliance": "Styr produkten",
-    "Inventory_management": "ADMINISTRERA DIN FÖRTECKNING",
+    "Inventory_management": "Administrera din förteckning",
     "Inventory_type_detail_title": "Ändra typ av administration för förteckningen.",
     "Inventory_type_detail_generic_change_to_exact": "Om du ändrar administreringstyp från Allmän till Exakt kommer alla dina vinflaskor att hamna i ej placerad position. Du kan placera dem genom att skanna.",
     "Inventory_type_detail_exact_change_to_generic": "Om du ändrar administreringstyp från Exakt till Allmän förlorar du informationen om flaskornas placering.",
@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Slå på/av supersköljning",
     "CL_DV_WM_turn_small_load": "Slå på/av liten last",
     "CL_DV_WM_steam_disinfection_desc": "Ångdesinfektion är en desinfektionscykel vid låg temperatur. Innan huvudtvätten börjar tillförs ånga för att desinficera dina kläder.",
-    "CL_DV_WM_turn_steam_disinfection": "Slå på/av ångdesinfektion"
+    "CL_DV_WM_turn_steam_disinfection": "Slå på/av ångdesinfektion",
+    "CL_DV_WM_add_clothes_unlocking": "Lägg till kläder – låsa upp dörrar",
+    "CL_DV_TD_pm_available_tips": "Programhantering är endast tillgänglig när enheten är i standbyläge."
 }
