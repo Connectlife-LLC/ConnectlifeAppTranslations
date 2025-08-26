@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Slå superskylling av/på",
     "CL_DV_WM_turn_small_load": "Slå liten belastning av/på",
     "CL_DV_WM_steam_disinfection_desc": "Dampdesinfeksjon er en desinfeksjonssyklus ved lav temperatur. Før hovedvasken starter, introduseres damp for å desinfisere klærne dine.",
-    "CL_DV_WM_turn_steam_disinfection": "Slå dampdesinfeksjon av/på"
+    "CL_DV_WM_turn_steam_disinfection": "Slå dampdesinfeksjon av/på",
+    "CL_DV_WM_add_clothes_unlocking": "Legg til klær – låser opp dører",
+    "CL_DV_TD_pm_available_tips": "Programadministrasjon er bare tilgjengelig når enheten er i standby-modus."
 }

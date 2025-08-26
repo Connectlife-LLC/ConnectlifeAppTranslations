@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Ligar/desligar o super enxágue",
     "CL_DV_WM_turn_small_load": "Ligar/desligar carga pequena",
     "CL_DV_WM_steam_disinfection_desc": "A desinfecção a vapor é um ciclo de desinfecção de baixa temperatura. Antes do início da lavagem principal, o vapor é introduzido para desinfetar suas roupas.",
-    "CL_DV_WM_turn_steam_disinfection": "Ligar/desligar a desinfecção a vapor"
+    "CL_DV_WM_turn_steam_disinfection": "Ligar/desligar a desinfecção a vapor",
+    "CL_DV_WM_add_clothes_unlocking": "Adicionar roupas – destrancando portas",
+    "CL_DV_TD_pm_available_tips": "A gestão de programas só está disponível quando o aparelho está no modo de espera."
 }

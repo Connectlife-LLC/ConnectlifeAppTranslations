@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Bật/tắt chế độ xả siêu sạch",
     "CL_DV_WM_turn_small_load": "Bật/tắt tải nhỏ",
     "CL_DV_WM_steam_disinfection_desc": "Khử trùng bằng hơi nước là chu trình khử trùng ở nhiệt độ thấp. Trước khi bắt đầu chu trình giặt chính, hơi nước sẽ được đưa vào để khử trùng quần áo.",
-    "CL_DV_WM_turn_steam_disinfection": "Bật/tắt khử trùng bằng hơi nước"
+    "CL_DV_WM_turn_steam_disinfection": "Bật/tắt khử trùng bằng hơi nước",
+    "CL_DV_WM_add_clothes_unlocking": "Thêm quần áo – mở khóa cửa",
+    "CL_DV_TD_pm_available_tips": "Quản lý chương trình chỉ khả dụng khi thiết bị ở chế độ chờ."
 }

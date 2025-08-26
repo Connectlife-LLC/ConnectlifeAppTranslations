@@ -5901,5 +5901,7 @@
     "CL_DV_WM_turn_super_rinse": "Turn super rinse on/off",
     "CL_DV_WM_turn_small_load": "Turn small load on/off",
     "CL_DV_WM_steam_disinfection_desc": "Steam disinfection is a low-temperature disinfection cycle. Before the main wash begins steam is introduced to disinfect your clothes.",
-    "CL_DV_WM_turn_steam_disinfection": "Turn steam disinfection on/off"
+    "CL_DV_WM_turn_steam_disinfection": "Turn steam disinfection on/off",
+    "CL_DV_WM_add_clothes_unlocking": "Add Clothes – unlocking doors",
+    "CL_DV_TD_pm_available_tips": "Program management is only available when the device is in standby mode."
 }
