@@ -681,7 +681,7 @@
     "change": "Alterar",
     "bind_fail": "Falha de Associação!",
     "reset_password_s": "Repor a palavra-passe",
-    "fast_freeze": "Congelamento rápido",
+    "fast_freeze": "Fast Freeze",
     "after_baking": "Após a cozedura",
     "cooking": "Cozinhar",
     "select_filter_type": "selecione o tipo de filtro",
@@ -5903,5 +5903,14 @@
     "CL_DV_WM_steam_disinfection_desc": "A desinfecção a vapor é um ciclo de desinfecção de baixa temperatura. Antes do início da lavagem principal, o vapor é introduzido para desinfetar suas roupas.",
     "CL_DV_WM_turn_steam_disinfection": "Ligar/desligar a desinfecção a vapor",
     "CL_DV_WM_add_clothes_unlocking": "Adicionar roupas – destrancando portas",
-    "CL_DV_TD_pm_available_tips": "A gestão de programas só está disponível quando o aparelho está no modo de espera."
+    "CL_DV_TD_pm_available_tips": "A gestão de programas só está disponível quando o aparelho está no modo de espera.",
+    "home_energy": "ENERGIA DOMÉSTICA",
+    "share_system": "Sistema de Compartilhamento",
+    "handover_system": "Sistema de Transferência",
+    "local_mode": "Modo local",
+    "self_cons": "Auto-Contras.",
+    "Yield": "Colheita",
+    "Cost": "Custo",
+    "Carbon cuts": "Cortes de carbono",
+    "Tree Plants": "Plantas arbóreas"
 }

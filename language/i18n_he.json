@@ -5903,5 +5903,14 @@
     "CL_DV_WM_steam_disinfection_desc": "חיטוי בקיטור הוא מחזור חיטוי בטמפרטורה נמוכה. לפני תחילת הכביסה העיקרית, מכניסים קיטור לחיטוי הבגדים.",
     "CL_DV_WM_turn_steam_disinfection": "הפעלה/כיבוי של חיטוי בקיטור",
     "CL_DV_WM_add_clothes_unlocking": "הוסף בגדים - פתיחת דלתות",
-    "CL_DV_TD_pm_available_tips": "ניהול פרוגמים זמין רק כאשר המכשיר נמצא במצב המתנה."
+    "CL_DV_TD_pm_available_tips": "ניהול פרוגמים זמין רק כאשר המכשיר נמצא במצב המתנה.",
+    "home_energy": "אנרגיה ביתית",
+    "share_system": "מערכת שיתוף",
+    "handover_system": "מערכת מסירה",
+    "local_mode": "מצב מקומי",
+    "self_cons": "הונאה עצמית.",
+    "Yield": "תְשׁוּאָה",
+    "Cost": "עֲלוּת",
+    "Carbon cuts": "קיצוצי פחמן",
+    "Tree Plants": "צמחי עצים"
 }

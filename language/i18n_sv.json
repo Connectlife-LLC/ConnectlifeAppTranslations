@@ -681,7 +681,7 @@
     "change": "Byt",
     "bind_fail": "Sammankopplingen misslyckades!",
     "reset_password_s": "Återställning av lösenord",
-    "fast_freeze": "Snabbfrysning",
+    "fast_freeze": "Fast Freeze",
     "after_baking": "Efter bakning",
     "cooking": "Matlagning",
     "select_filter_type": "välj filtertyp",
@@ -5903,5 +5903,14 @@
     "CL_DV_WM_steam_disinfection_desc": "Ångdesinfektion är en desinfektionscykel vid låg temperatur. Innan huvudtvätten börjar tillförs ånga för att desinficera dina kläder.",
     "CL_DV_WM_turn_steam_disinfection": "Slå på/av ångdesinfektion",
     "CL_DV_WM_add_clothes_unlocking": "Lägg till kläder – låsa upp dörrar",
-    "CL_DV_TD_pm_available_tips": "Programhantering är endast tillgänglig när enheten är i standbyläge."
+    "CL_DV_TD_pm_available_tips": "Programhantering är endast tillgänglig när enheten är i standbyläge.",
+    "home_energy": "HEMENERGI",
+    "share_system": "Dela systemet",
+    "handover_system": "Överlämningssystem",
+    "local_mode": "Lokalt läge",
+    "self_cons": "Självbekämpning.",
+    "Yield": "Avkastning",
+    "Cost": "Kosta",
+    "Carbon cuts": "Koldioxidnedskärningar",
+    "Tree Plants": "Trädväxter"
 }

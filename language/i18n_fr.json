@@ -492,7 +492,7 @@
     "pair_appliance": "APPAIRER L'APPAREIL",
     "pair_content_title": "Associez simplement un autre utilisateur à votre appareil. Il est nécessaire que votre appareil soit configuré et connecté à votre réseau domestique. Sinon, sélectionnez d'abord \"Configuration de la connexion\".",
     "add_appliance_pair_failed": "Échec de l’appairage",
-    "Super_cool": "Super cool",
+    "Super_cool": "Super Cool",
     "Fast_freeze": "Super congélation",
     "child_lock": "Sécurité enfants",
     "cooler": "Refroidisseur",
@@ -681,7 +681,7 @@
     "change": "Changer",
     "bind_fail": "Échec liaison !",
     "reset_password_s": "Réinitialiser le mot de passe",
-    "fast_freeze": "Congélation rapide",
+    "fast_freeze": "Fast Freeze",
     "after_baking": "Après_cuisson",
     "cooking": "Cuisson",
     "select_filter_type": "Sélectionner le type de filtre",
@@ -5903,5 +5903,14 @@
     "CL_DV_WM_steam_disinfection_desc": "La désinfection à la vapeur est un cycle de désinfection à basse température. Avant le début du lavage principal, de la vapeur est injectée pour désinfecter vos vêtements.",
     "CL_DV_WM_turn_steam_disinfection": "Activer/désactiver la désinfection à la vapeur",
     "CL_DV_WM_add_clothes_unlocking": "Ajouter des vêtements – déverrouiller les portes",
-    "CL_DV_TD_pm_available_tips": "La gestion du programme n'est disponible que lorsque l'appareil est en mode veille."
+    "CL_DV_TD_pm_available_tips": "La gestion du programme n'est disponible que lorsque l'appareil est en mode veille.",
+    "home_energy": "ÉNERGIE DOMESTIQUE",
+    "share_system": "Système de partage",
+    "handover_system": "Système de transfert",
+    "local_mode": "Mode local",
+    "self_cons": "Auto-conservation",
+    "Yield": "Rendement",
+    "Cost": "Coût",
+    "Carbon cuts": "Réductions d'émissions de carbone",
+    "Tree Plants": "Plantes d'arbres"
 }

@@ -5903,5 +5903,14 @@
     "CL_DV_WM_steam_disinfection_desc": "スチーム消毒は低温消毒サイクルです。本洗いを始める前に、衣類を消毒するために蒸気を噴射します。",
     "CL_DV_WM_turn_steam_disinfection": "蒸気消毒のオン/オフ",
     "CL_DV_WM_add_clothes_unlocking": "服を追加 - ドアのロックを解除",
-    "CL_DV_TD_pm_available_tips": "プログラム管理は、デバイスがスタンバイ モードの場合にのみ使用できます。"
+    "CL_DV_TD_pm_available_tips": "プログラム管理は、デバイスがスタンバイ モードの場合にのみ使用できます。",
+    "home_energy": "家庭用エネルギー",
+    "share_system": "シェアシステム",
+    "handover_system": "ハンドオーバーシステム",
+    "local_mode": "ローカルモード",
+    "self_cons": "自己欠点。",
+    "Yield": "収率",
+    "Cost": "料金",
+    "Carbon cuts": "炭素削減",
+    "Tree Plants": "樹木"
 }
