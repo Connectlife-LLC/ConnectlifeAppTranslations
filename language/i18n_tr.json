@@ -5903,5 +5903,14 @@
     "CL_DV_WM_steam_disinfection_desc": "Buharlı dezenfeksiyon, düşük sıcaklıkta bir dezenfeksiyon döngüsüdür. Ana yıkama başlamadan önce giysilerinizi dezenfekte etmek için buhar verilir.",
     "CL_DV_WM_turn_steam_disinfection": "Buhar dezenfeksiyonunu açın/kapatın",
     "CL_DV_WM_add_clothes_unlocking": "Giysi Ekleme – Kapıların kilidini açma",
-    "CL_DV_TD_pm_available_tips": "Program yönetimi yalnızca cihaz bekleme modundayken kullanılabilir."
+    "CL_DV_TD_pm_available_tips": "Program yönetimi yalnızca cihaz bekleme modundayken kullanılabilir.",
+    "home_energy": "EV ENERJİSİ",
+    "share_system": "Paylaşım Sistemi",
+    "handover_system": "Devir Teslim Sistemi",
+    "local_mode": "Yerel mod",
+    "self_cons": "Kendini kandıranlar.",
+    "Yield": "Teslim olmak",
+    "Cost": "Maliyet",
+    "Carbon cuts": "Karbon kesintileri",
+    "Tree Plants": "Ağaç Bitkileri"
 }

@@ -5903,5 +5903,14 @@
     "CL_DV_WM_steam_disinfection_desc": "Disinfeksi uap adalah siklus disinfeksi suhu rendah. Sebelum pencucian utama dimulai, uap dialirkan untuk mendisinfeksi pakaian Anda.",
     "CL_DV_WM_turn_steam_disinfection": "Nyalakan/matikan desinfeksi uap",
     "CL_DV_WM_add_clothes_unlocking": "Tambahkan Pakaian – membuka kunci pintu",
-    "CL_DV_TD_pm_available_tips": "Manajemen program hanya tersedia bila perangkat dalam mode siaga."
+    "CL_DV_TD_pm_available_tips": "Manajemen program hanya tersedia bila perangkat dalam mode siaga.",
+    "home_energy": "ENERGI RUMAH",
+    "share_system": "Sistem Berbagi",
+    "handover_system": "Sistem Serah Terima",
+    "local_mode": "Mode lokal",
+    "self_cons": "Penipuan Mandiri.",
+    "Yield": "Menghasilkan",
+    "Cost": "Biaya",
+    "Carbon cuts": "Pengurangan karbon",
+    "Tree Plants": "Tanaman Pohon"
 }
