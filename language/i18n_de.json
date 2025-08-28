@@ -681,7 +681,7 @@
     "change": "Ändern",
     "bind_fail": "Bindung fehlgeschlagen!",
     "reset_password_s": "Passwort zurücksetzen",
-    "fast_freeze": "Schnelles Einfrieren",
+    "fast_freeze": "Fast Freeze",
     "after_baking": "Nach dem Backen",
     "cooking": "Kochen",
     "select_filter_type": "Filtertyp auswählen",
@@ -5903,5 +5903,15 @@
     "CL_DV_WM_steam_disinfection_desc": "Bei der Dampfdesinfektion handelt es sich um einen Desinfektionszyklus bei niedriger Temperatur. Vor dem Hauptwaschgang wird Dampf zugeführt, um Ihre Kleidung zu desinfizieren.",
     "CL_DV_WM_turn_steam_disinfection": "Dampfdesinfektion ein-/ausschalten",
     "CL_DV_WM_add_clothes_unlocking": "Kleidung hinzufügen – Türen aufschließen",
-    "CL_DV_TD_pm_available_tips": "Die Programmverwaltung ist nur verfügbar, wenn sich das Gerät im Standby-Modus befindet."
+    "CL_DV_TD_pm_available_tips": "Die Programmverwaltung ist nur verfügbar, wenn sich das Gerät im Standby-Modus befindet.",
+    "home_energy": "ENERGIE FÜR ZUHAUSE",
+    "share_system": "Freigabesystem",
+    "handover_system": "Übergabesystem",
+    "local_mode": "Lokaler Modus",
+    "self_cons": "Selbstnachteile.",
+    "Yield": "Ertrag",
+    "Cost": "Kosten",
+    "Carbon cuts": "CO2-Einsparungen",
+    "Tree Plants": "Baumpflanzen",
+    "select_window_covering_level": "Fensterabdeckungsstufe auswählen"
 }
