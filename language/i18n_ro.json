@@ -5903,5 +5903,16 @@
     "CL_DV_WM_steam_disinfection_desc": "Dezinfecția cu abur este un ciclu de dezinfecție la temperatură joasă. Înainte de începerea spălării principale, se introduce abur pentru a dezinfecta hainele.",
     "CL_DV_WM_turn_steam_disinfection": "Activarea/dezactivarea dezinfecției cu abur",
     "CL_DV_WM_add_clothes_unlocking": "Adăugați haine – deblocarea ușilor",
-    "CL_DV_TD_pm_available_tips": "Gestionarea programului este disponibilă numai când dispozitivul este în modul de așteptare."
+    "CL_DV_TD_pm_available_tips": "Gestionarea programului este disponibilă numai când dispozitivul este în modul de așteptare.",
+    "home_energy": "ENERGIE CASNICĂ",
+    "share_system": "Sistem de partajare",
+    "handover_system": "Sistem de predare",
+    "local_mode": "Mod local",
+    "self_cons": "Autoconsiderații.",
+    "Yield": "Randament",
+    "Cost": "Cost",
+    "Carbon cuts": "Reduceri de carbon",
+    "Tree Plants": "Plante de copaci",
+    "select_window_covering_level": "selectați nivelul de acoperire a ferestrei",
+    "CL_DV_DLNA_permission": "Vă rugăm să activați mai întâi permisiunile de acces la fotografii."
 }

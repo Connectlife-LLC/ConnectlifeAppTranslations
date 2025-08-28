@@ -492,7 +492,7 @@
     "pair_appliance": "PARING AV APPARATET",
     "pair_content_title": "Bare koble en annen bruker til enheten din. Det kreves at enheten din er konfigurert og koblet til hjemmenettverket. Hvis ikke, velg \"Connection setup\" først.",
     "add_appliance_pair_failed": "Paring mislyktes",
-    "Super_cool": "Superkult",
+    "Super_cool": "Super Cool",
     "Fast_freeze": "Super fryse",
     "child_lock": "Barnesikring",
     "cooler": "Kjøler",
@@ -5903,5 +5903,16 @@
     "CL_DV_WM_steam_disinfection_desc": "Dampdesinfeksjon er en desinfeksjonssyklus ved lav temperatur. Før hovedvasken starter, introduseres damp for å desinfisere klærne dine.",
     "CL_DV_WM_turn_steam_disinfection": "Slå dampdesinfeksjon av/på",
     "CL_DV_WM_add_clothes_unlocking": "Legg til klær – låser opp dører",
-    "CL_DV_TD_pm_available_tips": "Programadministrasjon er bare tilgjengelig når enheten er i standby-modus."
+    "CL_DV_TD_pm_available_tips": "Programadministrasjon er bare tilgjengelig når enheten er i standby-modus.",
+    "home_energy": "HJEMMEENERGI",
+    "share_system": "Del systemet",
+    "handover_system": "Overleveringssystem",
+    "local_mode": "Lokal modus",
+    "self_cons": "Selvbedrag.",
+    "Yield": "Avkastning",
+    "Cost": "Koste",
+    "Carbon cuts": "Karbonkutt",
+    "Tree Plants": "Treplanter",
+    "select_window_covering_level": "velg vindusdekningsnivå",
+    "CL_DV_DLNA_permission": "Vennligst aktiver tilgangstillatelser for bilder først."
 }

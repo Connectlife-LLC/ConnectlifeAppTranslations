@@ -5903,5 +5903,16 @@
     "CL_DV_WM_steam_disinfection_desc": "التطهير بالبخار هو دورة تطهير منخفضة الحرارة. قبل بدء دورة الغسيل الرئيسية، يتم ضخ البخار لتطهير ملابسك.",
     "CL_DV_WM_turn_steam_disinfection": "تشغيل/إيقاف تطهير البخار",
     "CL_DV_WM_add_clothes_unlocking": "إضافة الملابس – فتح الأبواب",
-    "CL_DV_TD_pm_available_tips": "إدارة البرنامج متاحة فقط عندما يكون الجهاز في وضع الاستعداد."
+    "CL_DV_TD_pm_available_tips": "إدارة البرنامج متاحة فقط عندما يكون الجهاز في وضع الاستعداد.",
+    "home_energy": "طاقة المنزل",
+    "share_system": "نظام المشاركة",
+    "handover_system": "نظام التسليم",
+    "local_mode": "الوضع المحلي",
+    "self_cons": "سلبيات ذاتية.",
+    "Yield": "أَثْمَر",
+    "Cost": "يكلف",
+    "Carbon cuts": "تخفيضات الكربون",
+    "Tree Plants": "نباتات الأشجار",
+    "select_window_covering_level": "حدد مستوى تغطية النافذة",
+    "CL_DV_DLNA_permission": "يرجى تمكين أذونات الوصول إلى الصور أولاً."
 }

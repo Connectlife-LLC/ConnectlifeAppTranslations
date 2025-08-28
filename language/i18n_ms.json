@@ -5903,5 +5903,16 @@
     "CL_DV_WM_steam_disinfection_desc": "Pembasmian kuman wap ialah kitaran pembasmian kuman suhu rendah. Sebelum cucian utama bermula wap diperkenalkan untuk membasmi kuman pakaian anda.",
     "CL_DV_WM_turn_steam_disinfection": "Hidupkan/matikan pembasmian kuman wap",
     "CL_DV_WM_add_clothes_unlocking": "Tambah Pakaian – membuka kunci pintu",
-    "CL_DV_TD_pm_available_tips": "Pengurusan program hanya tersedia apabila peranti berada dalam mod siap sedia."
+    "CL_DV_TD_pm_available_tips": "Pengurusan program hanya tersedia apabila peranti berada dalam mod siap sedia.",
+    "home_energy": "TENAGA RUMAH",
+    "share_system": "Sistem Kongsi",
+    "handover_system": "Sistem Penyerahan",
+    "local_mode": "Mod tempatan",
+    "self_cons": "Keburukan Diri.",
+    "Yield": "hasil",
+    "Cost": "kos",
+    "Carbon cuts": "Pemotongan karbon",
+    "Tree Plants": "Tumbuhan Pokok",
+    "select_window_covering_level": "pilih tahap penutup tingkap",
+    "CL_DV_DLNA_permission": "Sila dayakan kebenaran akses foto dahulu."
 }
