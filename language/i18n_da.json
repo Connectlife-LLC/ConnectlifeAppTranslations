@@ -5903,5 +5903,15 @@
     "CL_DV_WM_steam_disinfection_desc": "Dampdesinfektion er en desinfektionscyklus ved lav temperatur. Før hovedvasken starter, tilføres damp for at desinficere dit tøj.",
     "CL_DV_WM_turn_steam_disinfection": "Slå dampdesinfektion til/fra",
     "CL_DV_WM_add_clothes_unlocking": "Tilføj tøj – oplåsning af døre",
-    "CL_DV_TD_pm_available_tips": "Programstyring er kun tilgængelig, når enheden er i standbytilstand."
+    "CL_DV_TD_pm_available_tips": "Programstyring er kun tilgængelig, når enheden er i standbytilstand.",
+    "home_energy": "HJEMMEENERGI",
+    "share_system": "Del systemet",
+    "handover_system": "Overdragelsessystem",
+    "local_mode": "Lokal tilstand",
+    "self_cons": "Selvbedrag.",
+    "Yield": "Udbytte",
+    "Cost": "Koste",
+    "Carbon cuts": "Kulstofreduktioner",
+    "Tree Plants": "Træplanter",
+    "select_window_covering_level": "vælg niveau af vinduesbeklædning"
 }

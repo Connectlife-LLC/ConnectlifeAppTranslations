@@ -681,7 +681,7 @@
     "change": "Změnit",
     "bind_fail": "Přepojení selhalo!",
     "reset_password_s": "Resetovat heslo",
-    "fast_freeze": "Rychlé zmrazení",
+    "fast_freeze": "Fast Freeze",
     "after_baking": "Po upečení",
     "cooking": "Vaření",
     "select_filter_type": "vyberte typ filtru",
@@ -5903,5 +5903,15 @@
     "CL_DV_WM_steam_disinfection_desc": "Dezinfekce párou je dezinfekční cyklus s nízkou teplotou. Před zahájením hlavního praní je do pračky přivedena pára, která dezinfikuje vaše oblečení.",
     "CL_DV_WM_turn_steam_disinfection": "Zapnutí/vypnutí parní dezinfekce",
     "CL_DV_WM_add_clothes_unlocking": "Přidat oblečení – odemykání dveří",
-    "CL_DV_TD_pm_available_tips": "Správa programu je k dispozici pouze v případě, že je zařízení v pohotovostním režimu."
+    "CL_DV_TD_pm_available_tips": "Správa programu je k dispozici pouze v případě, že je zařízení v pohotovostním režimu.",
+    "home_energy": "DOMÁCÍ ENERGIE",
+    "share_system": "Sdílení systému",
+    "handover_system": "Systém předávání",
+    "local_mode": "Místní režim",
+    "self_cons": "Sebepodvody.",
+    "Yield": "Výtěžek",
+    "Cost": "Náklady",
+    "Carbon cuts": "Snížení uhlíku",
+    "Tree Plants": "Stromy",
+    "select_window_covering_level": "vyberte úroveň zakrytí okna"
 }
