@@ -681,7 +681,7 @@
     "change": "Cambia",
     "bind_fail": "Collegamento non riuscito!",
     "reset_password_s": "Reimposta password",
-    "fast_freeze": "Congelamento rapido",
+    "fast_freeze": "Fast Freeze",
     "after_baking": "Dopo la cottura",
     "cooking": "Cottura",
     "select_filter_type": "selezionare il tipo di filtro",
@@ -5903,5 +5903,15 @@
     "CL_DV_WM_steam_disinfection_desc": "La disinfezione a vapore è un ciclo di disinfezione a bassa temperatura. Prima dell'inizio del lavaggio principale, il vapore viene immesso per disinfettare i vestiti.",
     "CL_DV_WM_turn_steam_disinfection": "Attiva/disattiva la disinfezione a vapore",
     "CL_DV_WM_add_clothes_unlocking": "Aggiungi vestiti – sblocca le porte",
-    "CL_DV_TD_pm_available_tips": "La gestione dei programmi è disponibile solo quando il dispositivo è in modalità standby."
+    "CL_DV_TD_pm_available_tips": "La gestione dei programmi è disponibile solo quando il dispositivo è in modalità standby.",
+    "home_energy": "ENERGIA DOMESTICA",
+    "share_system": "Sistema di condivisione",
+    "handover_system": "Sistema di consegna",
+    "local_mode": "Modalità locale",
+    "self_cons": "Autolesionismo.",
+    "Yield": "Prodotto",
+    "Cost": "Costo",
+    "Carbon cuts": "tagli al carbonio",
+    "Tree Plants": "Piante arboree",
+    "select_window_covering_level": "seleziona il livello di copertura della finestra"
 }
