@@ -681,7 +681,7 @@
     "change": "Zmień",
     "bind_fail": "Przypisanie nie powiodło się!",
     "reset_password_s": "Zresetuj hasło",
-    "fast_freeze": "Szybkie mrożenie",
+    "fast_freeze": "Fast Freeze",
     "after_baking": "Po upieczeniu",
     "cooking": "Gotowanie",
     "select_filter_type": "wybierz typ filtra",
@@ -5903,5 +5903,16 @@
     "CL_DV_WM_steam_disinfection_desc": "Dezynfekcja parowa to cykl dezynfekcji w niskiej temperaturze. Przed rozpoczęciem prania zasadniczego wprowadzana jest para wodna w celu dezynfekcji ubrań.",
     "CL_DV_WM_turn_steam_disinfection": "Włączanie/wyłączanie dezynfekcji parowej",
     "CL_DV_WM_add_clothes_unlocking": "Dodaj ubrania – odblokowywanie drzwi",
-    "CL_DV_TD_pm_available_tips": "Zarządzanie programami jest dostępne tylko wtedy, gdy urządzenie znajduje się w trybie gotowości."
+    "CL_DV_TD_pm_available_tips": "Zarządzanie programami jest dostępne tylko wtedy, gdy urządzenie znajduje się w trybie gotowości.",
+    "home_energy": "ENERGIA DOMOWA",
+    "share_system": "Udostępnij system",
+    "handover_system": "System przekazywania",
+    "local_mode": "Tryb lokalny",
+    "self_cons": "Samopomoc.",
+    "Yield": "Dawać",
+    "Cost": "Koszt",
+    "Carbon cuts": "Cięcia emisji dwutlenku węgla",
+    "Tree Plants": "Rośliny drzewne",
+    "select_window_covering_level": "wybierz poziom osłony okiennej",
+    "CL_DV_DLNA_permission": "Najpierw włącz uprawnienia dostępu do zdjęć."
 }
