@@ -681,7 +681,7 @@
     "change": "Izmjena",
     "bind_fail": "Spajanje neuspješno!",
     "reset_password_s": "Resetiraj lozinku",
-    "fast_freeze": "Brzo zamrzavanje",
+    "fast_freeze": "Fast Freeze",
     "after_baking": "Nakon pečenja",
     "cooking": "Kuhanje",
     "select_filter_type": "odaberite vrstu filtera",
@@ -5903,5 +5903,16 @@
     "CL_DV_WM_steam_disinfection_desc": "Dezinfekcija parom je ciklus dezinfekcije na niskoj temperaturi. Prije početka glavnog pranja uvodi se para za dezinfekciju vaše odjeće.",
     "CL_DV_WM_turn_steam_disinfection": "Uključivanje/isključivanje dezinfekcije parom",
     "CL_DV_WM_add_clothes_unlocking": "Dodaj odjeću – otključavanje vrata",
-    "CL_DV_TD_pm_available_tips": "Upravljanje programom dostupno je samo kada je uređaj u stanju pripravnosti."
+    "CL_DV_TD_pm_available_tips": "Upravljanje programom dostupno je samo kada je uređaj u stanju pripravnosti.",
+    "home_energy": "ENERGIJA DOMA",
+    "share_system": "Sustav dijeljenja",
+    "handover_system": "Sustav primopredaje",
+    "local_mode": "Lokalni način rada",
+    "self_cons": "Samopronevjere.",
+    "Yield": "Prinos",
+    "Cost": "Trošak",
+    "Carbon cuts": "Smanjenje ugljika",
+    "Tree Plants": "Biljke drveća",
+    "select_window_covering_level": "odaberite razinu prekrivajućih prozora",
+    "CL_DV_DLNA_permission": "Prvo omogućite dopuštenja za pristup fotografijama."
 }

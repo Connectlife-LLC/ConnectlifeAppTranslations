@@ -681,7 +681,7 @@
     "change": "Muuta",
     "bind_fail": "Yhdistäminen epäonnistui!",
     "reset_password_s": "Nollaa salasana",
-    "fast_freeze": "Pikapakastus",
+    "fast_freeze": "Fast Freeze",
     "after_baking": "Paistamisen jälkeen",
     "cooking": "Ruoanvalmistus",
     "select_filter_type": "valitse suodatintyyppi",
@@ -5903,5 +5903,16 @@
     "CL_DV_WM_steam_disinfection_desc": "Höyrydesinfiointi on matalassa lämpötilassa tehtävä desinfiointiohjelma. Ennen pääpesun alkua vaatteisiin syötetään höyryä desinfioimaan ne.",
     "CL_DV_WM_turn_steam_disinfection": "Höyrydesinfioinnin kytkeminen päälle/pois päältä",
     "CL_DV_WM_add_clothes_unlocking": "Lisää vaatteita – avaa ovet",
-    "CL_DV_TD_pm_available_tips": "Ohjelmanhallinta on käytettävissä vain, kun laite on valmiustilassa."
+    "CL_DV_TD_pm_available_tips": "Ohjelmanhallinta on käytettävissä vain, kun laite on valmiustilassa.",
+    "home_energy": "KOTIEN ENERGIA",
+    "share_system": "Jaa järjestelmä",
+    "handover_system": "Luovutusjärjestelmä",
+    "local_mode": "Paikallinen tila",
+    "self_cons": "Itsehaitat.",
+    "Yield": "Saanto",
+    "Cost": "Maksaa",
+    "Carbon cuts": "Hiilidioksidipäästöjen vähennykset",
+    "Tree Plants": "Puukasvit",
+    "select_window_covering_level": "valitse ikkunan peittävyyden taso",
+    "CL_DV_DLNA_permission": "Ota ensin käyttöön kuvien käyttöoikeudet."
 }

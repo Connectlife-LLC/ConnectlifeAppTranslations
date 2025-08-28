@@ -5903,5 +5903,16 @@
     "CL_DV_WM_steam_disinfection_desc": "스팀 살균은 저온 살균 사이클입니다. 본 세탁을 시작하기 전에 스팀을 사용하여 옷을 살균합니다.",
     "CL_DV_WM_turn_steam_disinfection": "스팀 소독 켜기/끄기",
     "CL_DV_WM_add_clothes_unlocking": "옷 추가 - 문 잠금 해제",
-    "CL_DV_TD_pm_available_tips": "프로그램 관리는 기기가 대기 모드일 때만 가능합니다."
+    "CL_DV_TD_pm_available_tips": "프로그램 관리는 기기가 대기 모드일 때만 가능합니다.",
+    "home_energy": "가정 에너지",
+    "share_system": "공유 시스템",
+    "handover_system": "핸드오버 시스템",
+    "local_mode": "로컬 모드",
+    "self_cons": "자기 단점",
+    "Yield": "생산하다",
+    "Cost": "비용",
+    "Carbon cuts": "탄소 감축",
+    "Tree Plants": "나무 식물",
+    "select_window_covering_level": "창문 커버링 레벨 선택",
+    "CL_DV_DLNA_permission": "먼저 사진 접근 권한을 허용해 주세요."
 }
