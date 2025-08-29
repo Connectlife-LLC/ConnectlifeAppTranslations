@@ -4281,7 +4281,7 @@
     "CL_CF_RM_change_floor_key": "change floor",
     "CL_CF_FM_recently_added": "Recently Added",
     "CL_CF_FM_no_matching_items": "No Matching Items",
-    "CL_CF_FM_search_stored_food": "Search Stored Food",
+    "CL_CF_FM_search_stored_food": "Search stored food",
     "CL_DV_VM_drum_clean_reminder_notification_key": "notification",
     "CL_CF_FM_a_day_ago": "A day ago",
     "CL_CF_FM_a_week_ago": "A week ago",
@@ -5903,5 +5903,18 @@
     "CL_DV_WM_steam_disinfection_desc": "Steam disinfection is a low-temperature disinfection cycle. Before the main wash begins steam is introduced to disinfect your clothes.",
     "CL_DV_WM_turn_steam_disinfection": "Turn steam disinfection on/off",
     "CL_DV_WM_add_clothes_unlocking": "Add Clothes – unlocking doors",
-    "CL_DV_TD_pm_available_tips": "Program management is only available when the device is in standby mode."
+    "CL_DV_TD_pm_available_tips": "Program management is only available when the device is in standby mode.",
+    "home_energy": "HOME ENERGY",
+    "share_system": "Share System",
+    "handover_system": "Handover System",
+    "local_mode": "Local mode",
+    "self_cons": "Self-Cons.",
+    "Yield": "Yield",
+    "Cost": "Cost",
+    "Carbon cuts": "Carbon cuts",
+    "Tree Plants": "Tree Plants",
+    "select_window_covering_level": "select window-covering level",
+    "CL_DV_DLNA_permission": "Please enable photo access permissions first.",
+    "CL_DV_DLNA_share_to_screen_new": "SHARE TO SCREEN",
+    "CL_DV_DLNA_video_cannot_preview": "Video cannot be previewed"
 }
