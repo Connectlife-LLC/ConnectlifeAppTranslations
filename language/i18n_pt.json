@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "O modo Sabbath está ativado na sua cave de vinhos. Siga os passos para o desativar:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Pressione e segure os três pontos <img> na sua geladeira por <font> 3 segundos. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Primeiro, desative o modo Sabbath pressionando a tecla Lock no seu aparelho por 3 segundos.",
-    "CL_DV_RF_combi_super_cool_desc": "O compartimento de resfriamento irá para o resfriamento máximo por xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "O compartimento do congelador irá para o resfriamento máximo por xh",
+    "CL_DV_RF_combi_super_cool_desc": "O compartimento de resfriamento irá para o resfriamento máximo por 8 h",
+    "CL_DV_RF_combi_fast_freeze_desc": "O compartimento do congelador ficará em resfriamento máximo por 52 horas",
     "CL_DV_RF_combi_eco_mode_desc": "As temperaturas mais eficientes em termos de energia são definidas para todos os compartimentos. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Temperaturas ajustadas ao limpar o compartimento mais frio do refrigerador ou quando a porta do aparelho ficará aberta por um longo período de tempo.",
     "CL_DV_RF_combi_holiday_mode_desc": "Uma função de economia de energia predefinida para quando você estiver fora de casa por um longo período de tempo.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "selecione o nível de cobertura da janela",
     "CL_DV_DLNA_permission": "Por favor, habilite primeiro as permissões de acesso às fotos.",
     "CL_DV_DLNA_share_to_screen_new": "COMPARTILHAR NA TELA",
-    "CL_DV_DLNA_video_cannot_preview": "O vídeo não pode ser visualizado"
+    "CL_DV_DLNA_video_cannot_preview": "O vídeo não pode ser visualizado",
+    "agent_about_me_title": "Olá! Pronto para aproveitar ao máximo seus eletrodomésticos? Estou aqui para ajudar você a tornar o seu dia a dia mais fácil, rápido e agradável.",
+    "agent_about_me_content": "Quer você esteja curioso sobre as configurações, queira novas ideias de receitas ou precise de uma solução rápida quando algo dá errado, este assistente está aqui para ajudar. É só perguntar! "
 }

@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "V vašem hladilniku je aktiviran način Sabat. Za deaktivacijo sledite korakom:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Pritisnite in držite tri pike <img> na vašem hladilniku <font> 3 sekunde. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Najprej izklopite način Sabat tako, da 3 sekunde pritisnete tri pike na napravi.",
-    "CL_DV_RF_combi_super_cool_desc": "Hladilni prostor bo x ur deloval na maksimalno hlajenje.",
-    "CL_DV_RF_combi_fast_freeze_desc": "Zamrzovalni del bo x ur hladil z največjo močjo.",
+    "CL_DV_RF_combi_super_cool_desc": "Hladilni predel bo 8 ur hladil z največjo hitrostjo.",
+    "CL_DV_RF_combi_fast_freeze_desc": "Zamrzovalni del bo 52 ur hladil z največjo močjo.",
     "CL_DV_RF_combi_eco_mode_desc": "Najbolj energetsko učinkovite temperature so nastavljene za vse predelke. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Prilagojene temperature pri čiščenju hladilnejšega dela hladilnika ali ko bodo vrata aparata dlje časa odprta.",
     "CL_DV_RF_combi_holiday_mode_desc": "Prednastavljena funkcija varčevanja z energijo, ko ste dlje časa zdoma.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "izberite raven pokrivanja oken",
     "CL_DV_DLNA_permission": "Najprej omogočite dovoljenja za dostop do fotografij.",
     "CL_DV_DLNA_share_to_screen_new": "DELI NA ZASLON",
-    "CL_DV_DLNA_video_cannot_preview": "Predogled videoposnetka ni mogoč"
+    "CL_DV_DLNA_video_cannot_preview": "Predogled videoposnetka ni mogoč",
+    "agent_about_me_title": "Živjo! Ste pripravljeni kar najbolje izkoristiti svoje gospodinjske aparate? Tukaj sem, da vam pomagam, da bo vsakdanje življenje lažje, hitrejše in prijetnejše.",
+    "agent_about_me_content": "Ne glede na to, ali vas zanimajo nastavitve, želite nove ideje za recepte ali potrebujete hitro rešitev, ko gre kaj narobe, vam je ta pomočnik na voljo. Samo vprašajte! "
 }
