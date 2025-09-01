@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Sabbatsläget är aktiverat på ditt vinskåp. Följ stegen för att inaktivera den:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Tryck och håll de tre prickarna <img> på ditt kylskåp i <font> 3 sekunder. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Avaktivera först sabbatsläget genom att trycka på låsknappen på din apparat i 3 sekunder.",
-    "CL_DV_RF_combi_super_cool_desc": "Kylfacket går till maximal kylning i xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "Frysdelen går till maximal kylning i xh",
+    "CL_DV_RF_combi_super_cool_desc": "Kylutrymmet går till maximal kylning i 8 timmar",
+    "CL_DV_RF_combi_fast_freeze_desc": "Frysfacket går till maximal kylning i 52 timmar",
     "CL_DV_RF_combi_eco_mode_desc": "De flesta energieffektiva temperaturerna är inställda för alla fack. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Justerade temperaturer vid rengöring av kylens kylfack eller när dörren till apparaten är öppen under en längre tid.",
     "CL_DV_RF_combi_holiday_mode_desc": "En förinställd energisparfunktion för när du är borta från hemmet under en längre tid.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "välj fönsterbeklädnadsnivå",
     "CL_DV_DLNA_permission": "Vänligen aktivera behörigheter för fotoåtkomst först.",
     "CL_DV_DLNA_share_to_screen_new": "DELA TILL SKÄRMEN",
-    "CL_DV_DLNA_video_cannot_preview": "Videon kan inte förhandsgranskas"
+    "CL_DV_DLNA_video_cannot_preview": "Videon kan inte förhandsgranskas",
+    "agent_about_me_title": "Hej! Är du redo att få ut det mesta av dina hushållsapparater? Jag är här för att hjälpa dig att göra vardagen enklare, snabbare och roligare.",
+    "agent_about_me_content": "Oavsett om du är nyfiken på inställningar, vill ha nya receptidéer eller behöver en snabb lösning när något går fel, finns den här assistenten här för att hjälpa till. Bara fråga! "
 }

@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Sabbatsmodus er aktivert på kjøleskapet ditt. Følg trinnene for å deaktivere den:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Trykk og hold de tre prikkene <img> på kjøleskapet i <font> 3 sekunder. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Deaktiver først sabbatsmodus ved å trykke på de tre prikkene på apparatet i 3 sekunder.",
-    "CL_DV_RF_combi_super_cool_desc": "Kjølerommet vil gå til maksimal kjøling i xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "Frysedelen vil gå til maksimal kjøling i xh",
+    "CL_DV_RF_combi_super_cool_desc": "Kjølerommet vil gå til maksimal kjøling i 8 timer",
+    "CL_DV_RF_combi_fast_freeze_desc": "Fryserommet vil gå til maksimal kjøling i 52 timer",
     "CL_DV_RF_combi_eco_mode_desc": "De fleste energieffektive temperaturene er innstilt for alle rom. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Justerte temperaturer ved rengjøring av kjøleseksjonen i kjøleskapet eller når døren til apparatet skal være åpen i lengre tid.",
     "CL_DV_RF_combi_holiday_mode_desc": "En forhåndsinnstilt energisparefunksjon for når du er borte fra hjemmet over lengre tid.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "velg vindusdekningsnivå",
     "CL_DV_DLNA_permission": "Vennligst aktiver tilgangstillatelser for bilder først.",
     "CL_DV_DLNA_share_to_screen_new": "DEL TIL SKJERMEN",
-    "CL_DV_DLNA_video_cannot_preview": "Videoen kan ikke forhåndsvises"
+    "CL_DV_DLNA_video_cannot_preview": "Videoen kan ikke forhåndsvises",
+    "agent_about_me_title": "Hei! Er du klar til å få mest mulig ut av husholdningsapparatene dine? Jeg er her for å hjelpe deg med å gjøre hverdagen enklere, raskere og morsommere.",
+    "agent_about_me_content": "Enten du er nysgjerrig på innstillinger, ønsker nye oppskriftsideer eller trenger en rask løsning når noe går galt, er denne assistenten her for å hjelpe. Bare spør! "
 }

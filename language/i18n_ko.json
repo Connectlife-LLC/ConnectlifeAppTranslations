@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "안식일 모드는 와인 캐비닛에서 활성화됩니다. 다음 단계에 따라 비활성화하십시오.",
     "CL_DV_RF_deactivate_sabbath_step_1": "냉장고에 있는 세 개의 점 <img> <font> 3초간 </font> 누르세요.",
     "CL_DV_RF_deactivate_sabbath_tips": "먼저 기기의 잠금 키를 3초 동안 눌러 안식일 모드를 비활성화합니다.",
-    "CL_DV_RF_combi_super_cool_desc": "냉각실은 xh 동안 최대 냉각 모드로 전환됩니다.",
-    "CL_DV_RF_combi_fast_freeze_desc": "냉동실은 xh 동안 최대 냉각 모드로 전환됩니다.",
+    "CL_DV_RF_combi_super_cool_desc": "냉각실은 8시간 동안 최대 냉각 상태로 전환됩니다.",
+    "CL_DV_RF_combi_fast_freeze_desc": "냉동실은 최대 냉각 모드로 52시간 동안 작동합니다.",
     "CL_DV_RF_combi_eco_mode_desc": "대부분의 에너지 효율 온도는 모든 구획에 설정되어 있습니다. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "냉장고의 냉각실을 청소할 때나 냉장고 문을 장시간 열어 둘 경우 온도를 조절합니다.",
     "CL_DV_RF_combi_holiday_mode_desc": "장기간 집을 비울 때를 대비해 사전 설정된 에너지 절약 기능이 있습니다.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "창문 커버링 레벨 선택",
     "CL_DV_DLNA_permission": "먼저 사진 접근 권한을 허용해 주세요.",
     "CL_DV_DLNA_share_to_screen_new": "화면에 공유",
-    "CL_DV_DLNA_video_cannot_preview": "비디오를 미리 볼 수 없습니다"
+    "CL_DV_DLNA_video_cannot_preview": "비디오를 미리 볼 수 없습니다",
+    "agent_about_me_title": "안녕하세요! 가전제품을 최대한 활용할 준비 되셨나요? 여러분의 일상을 더 쉽고, 빠르고, 즐겁게 만들어 드리겠습니다.",
+    "agent_about_me_content": "설정에 대해 궁금하거나, 새로운 레시피 아이디어를 원하거나, 문제가 생겼을 때 빠르게 해결해야 할 때, 이 도우미가 도와드리겠습니다. 지금 바로 질문하세요! "
 }
