@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "安息日模式已在设备端启用，想禁用该模式，请按照以下步骤操作:",
     "CL_DV_RF_deactivate_sabbath_step_1": "按住冰箱上的三個點<img>並保持<font> 3 秒鐘。 </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "在设备端长按Lock按键3秒钟 禁用安息日模式",
-    "CL_DV_RF_combi_super_cool_desc": "冷卻室將達到最大冷卻 xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "冷凍室將達到最大冷卻 xh",
+    "CL_DV_RF_combi_super_cool_desc": "冷藏室將進入最大冷卻狀態，持續 8 小時",
+    "CL_DV_RF_combi_fast_freeze_desc": "冷凍室將以最大冷卻模式運作 52 小時",
     "CL_DV_RF_combi_eco_mode_desc": "所有隔間均設定了最節能的溫度。 ",
     "CL_DV_RF_combi_cleaning_mode_desc": "清潔冰箱冷藏室或電器門較長時間打開時調整溫度。",
     "CL_DV_RF_combi_holiday_mode_desc": "當您長時間不在家時，預設節能功能。",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "選擇視窗覆蓋級別",
     "CL_DV_DLNA_permission": "請先啟用照片存取權限。",
     "CL_DV_DLNA_share_to_screen_new": "分享到螢幕",
-    "CL_DV_DLNA_video_cannot_preview": "無法預覽視頻"
+    "CL_DV_DLNA_video_cannot_preview": "無法預覽視頻",
+    "agent_about_me_title": "嗨！準備好充分利用你的家用電器了嗎？我會幫助你讓日常生活更輕鬆、更快速、更愉快。",
+    "agent_about_me_content": "無論您是想了解設定、想嘗試新的食譜創意，還是遇到問題需要快速解決，這款助理都能為您提供幫助。儘管問！ "
 }
