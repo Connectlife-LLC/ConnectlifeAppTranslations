@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Sabbath Mode on aktivoitu viinikaapissasi. Poista se käytöstä seuraavasti:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Pidä jääkaapin kolmea pistettä <img> painettuna <font> 3 sekunnin ajan. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Poista ensin sapattitila käytöstä painamalla laitteen lukitusnäppäintä 3 sekunnin ajan.",
-    "CL_DV_RF_combi_super_cool_desc": "Jäähdytysosasto siirtyy maksimijäähdytykselle xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "Pakastinosasto jäähtyy maksimissaan xh:ksi",
+    "CL_DV_RF_combi_super_cool_desc": "Jäähdytysosasto menee maksimijäähdytykseen 8 tunniksi",
+    "CL_DV_RF_combi_fast_freeze_desc": "Pakastinosasto menee maksimijäähdytykseen 52 tunniksi",
     "CL_DV_RF_combi_eco_mode_desc": "Kaikille osastoille on asetettu energiatehokkaimmat lämpötilat. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Säädetyt lämpötilat jääkaapin jäähdytysosastoa puhdistettaessa tai kun laitteen ovi on auki pidemmän aikaa.",
     "CL_DV_RF_combi_holiday_mode_desc": "Esiasetettu energiansäästötoiminto, kun olet pidemmän aikaa poissa kotoa.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "valitse ikkunan peittävyyden taso",
     "CL_DV_DLNA_permission": "Ota ensin käyttöön kuvien käyttöoikeudet.",
     "CL_DV_DLNA_share_to_screen_new": "JAA NÄYTÖLLE",
-    "CL_DV_DLNA_video_cannot_preview": "Videota ei voi esikatsella"
+    "CL_DV_DLNA_video_cannot_preview": "Videota ei voi esikatsella",
+    "agent_about_me_title": "Hei! Oletko valmis saamaan kaiken irti kodinkoneistasi? Olen täällä auttaakseni sinua tekemään arjestasi helpompaa, nopeampaa ja nautinnollisempaa.",
+    "agent_about_me_content": "Oletpa sitten kiinnostunut asetuksista, haluatko uusia resepti-ideoita tai tarvitsetko nopean korjauksen ongelmaan, tämä avustaja on täällä auttamassa. Kysy vain! "
 }

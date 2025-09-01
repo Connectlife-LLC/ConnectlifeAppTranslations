@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "A Sabbath mód aktiválva van a borosszekrényen. Az inaktiváláshoz kövesse a lépéseket:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Nyomja meg és tartsa lenyomva a három pontot <img> a hűtőszekrényen <font> 3 másodpercig. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Először kapcsolja ki a Sabbath módot a készülék Lock gombjának 3 másodpercig történő megnyomásával.",
-    "CL_DV_RF_combi_super_cool_desc": "A hűtőtér maximális hűtésre megy xh-ig",
-    "CL_DV_RF_combi_fast_freeze_desc": "A fagyasztórekesz maximális hűtésre megy xh-ig",
+    "CL_DV_RF_combi_super_cool_desc": "A hűtőrekesz 8 órán át maximális hűtési fokozaton fog működni.",
+    "CL_DV_RF_combi_fast_freeze_desc": "A fagyasztórekesz 52 órán át maximális hűtési fokozaton fog működni.",
     "CL_DV_RF_combi_eco_mode_desc": "A legtöbb energiahatékony hőmérséklet az összes rekeszhez be van állítva. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Beállított hőmérséklet a hűtőszekrény hűtőterének tisztításakor, vagy amikor a készülék ajtaja hosszabb ideig nyitva van.",
     "CL_DV_RF_combi_holiday_mode_desc": "Előre beállított energiatakarékos funkció, ha hosszabb ideig távol van otthonról.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "ablaktakarási szint kiválasztása",
     "CL_DV_DLNA_permission": "Kérjük, először engedélyezze a fotóhozzáférési engedélyeket.",
     "CL_DV_DLNA_share_to_screen_new": "MEGOSZTÁS A KÉPERNYŐN",
-    "CL_DV_DLNA_video_cannot_preview": "A videó előnézete nem tekinthető meg."
+    "CL_DV_DLNA_video_cannot_preview": "A videó előnézete nem tekinthető meg.",
+    "agent_about_me_title": "Szia! Készen állsz arra, hogy a legtöbbet hozd ki a háztartási gépeidből? Azért vagyok itt, hogy segítsek neked a mindennapokat könnyebbé, gyorsabbá és élvezetesebbé tenni.",
+    "agent_about_me_content": "Akár a beállításokra vagy kíváncsi, akár új receptötletekre vágysz, vagy egy gyors megoldásra van szükséged, ha valami elromlik, ez az asszisztens itt van, hogy segítsen. Csak kérdezz! "
 }
