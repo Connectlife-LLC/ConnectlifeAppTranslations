@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Modul Sabat este activat pe dulapul de vinuri. Urmați pașii pentru a-l dezactiva:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Apăsați și mențineți apăsate cele trei puncte <img> de pe frigider timp de <font> 3 secunde. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Mai întâi, dezactivați modul Sabat apăsând tasta Lock de pe aparat timp de 3 secunde.",
-    "CL_DV_RF_combi_super_cool_desc": "Compartimentul de răcire va merge la răcire maximă pentru xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "Compartimentul congelator va merge la răcire maximă pentru xh",
+    "CL_DV_RF_combi_super_cool_desc": "Compartimentul de răcire va intra la răcire maximă timp de 8 ore",
+    "CL_DV_RF_combi_fast_freeze_desc": "Compartimentul congelator va intra la răcire maximă timp de 52 de ore",
     "CL_DV_RF_combi_eco_mode_desc": "Cele mai multe temperaturi eficiente energetic sunt setate pentru toate compartimentele. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Temperaturi ajustate la curățarea compartimentului frigorific al frigiderului sau când ușa aparatului va fi deschisă pentru o perioadă mai lungă de timp.",
     "CL_DV_RF_combi_holiday_mode_desc": "O funcție prestabilită de economisire a energiei pentru atunci când sunteți plecat de acasă pentru o perioadă mai lungă de timp.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "selectați nivelul de acoperire a ferestrei",
     "CL_DV_DLNA_permission": "Vă rugăm să activați mai întâi permisiunile de acces la fotografii.",
     "CL_DV_DLNA_share_to_screen_new": "DISTRIBUIE PE ECRAN",
-    "CL_DV_DLNA_video_cannot_preview": "Videoclipul nu poate fi previzualizat"
+    "CL_DV_DLNA_video_cannot_preview": "Videoclipul nu poate fi previzualizat",
+    "agent_about_me_title": "Salut! Ești gata să profiți la maximum de electrocasnicele tale? Sunt aici să te ajut să-ți faci viața de zi cu zi mai ușoară, mai rapidă și mai plăcută.",
+    "agent_about_me_content": "Indiferent dacă ești curios în legătură cu setările, vrei idei noi de rețete sau ai nevoie de o soluție rapidă atunci când ceva nu merge bine, acest asistent este aici pentru a te ajuta. Nu ezita să întrebi! "
 }

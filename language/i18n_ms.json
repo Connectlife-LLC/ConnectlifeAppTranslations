@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Mod Sabat diaktifkan pada peti sejuk anda. Ikuti langkah untuk menyahaktifkannya:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Tekan dan tahan tiga titik <img> pada peti sejuk anda selama <font> 3 saat. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Mula-mula nyahaktifkan mod Sabat dengan menekan tiga titik pada perkakas anda selama 3 saat.",
-    "CL_DV_RF_combi_super_cool_desc": "Petak penyejukan akan pergi ke penyejukan maksimum untuk xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "Petak penyejuk beku akan menjadi penyejukan maksimum untuk xh",
+    "CL_DV_RF_combi_super_cool_desc": "Petak penyejukan akan mencapai penyejukan maksimum selama 8 jam",
+    "CL_DV_RF_combi_fast_freeze_desc": "Petak penyejuk beku akan menjadi penyejukan maksimum selama 52 jam",
     "CL_DV_RF_combi_eco_mode_desc": "Kebanyakan suhu cekap tenaga ditetapkan untuk semua petak. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Suhu dilaraskan apabila membersihkan ruang sejuk peti sejuk atau apabila pintu perkakas akan dibuka untuk jangka masa yang lebih lama.",
     "CL_DV_RF_combi_holiday_mode_desc": "Fungsi penjimatan tenaga yang telah ditetapkan untuk apabila anda berada jauh dari rumah untuk jangka masa yang lebih lama.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "pilih tahap penutup tingkap",
     "CL_DV_DLNA_permission": "Sila dayakan kebenaran akses foto dahulu.",
     "CL_DV_DLNA_share_to_screen_new": "KONGSI KE SKRIN",
-    "CL_DV_DLNA_video_cannot_preview": "Video tidak boleh dipratonton"
+    "CL_DV_DLNA_video_cannot_preview": "Video tidak boleh dipratonton",
+    "agent_about_me_title": "Hai! Adakah anda bersedia untuk memanfaatkan sepenuhnya peralatan rumah anda? Saya di sini untuk membantu anda menjadikan kehidupan seharian lebih mudah, lebih pantas dan lebih menyeronokkan.",
+    "agent_about_me_content": "Sama ada anda ingin tahu tentang tetapan, mahukan idea resipi baharu atau memerlukan pembetulan pantas apabila berlaku masalah, pembantu ini sedia membantu. Tanya sahaja! "
 }

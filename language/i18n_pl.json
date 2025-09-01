@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Tryb szabasowy jest włączony w twojej szafce na wino. Postępuj zgodnie z instrukcjami, aby go dezaktywować:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Naciśnij i przytrzymaj trzy kropki <img> na lodówce przez <font> 3 sekundy. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Najpierw wyłącz tryb szabasowy, naciskając przycisk blokady na urządzeniu przez 3 sekundy.",
-    "CL_DV_RF_combi_super_cool_desc": "Komora chłodnicza będzie działać w trybie maksymalnego chłodzenia przez xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "Komora zamrażarki będzie działać w trybie maksymalnego chłodzenia przez xh",
+    "CL_DV_RF_combi_super_cool_desc": "Komora chłodnicza będzie pracować w trybie maksymalnego chłodzenia przez 8 godzin",
+    "CL_DV_RF_combi_fast_freeze_desc": "Komora zamrażarki będzie pracować w trybie maksymalnego chłodzenia przez 52 godziny",
     "CL_DV_RF_combi_eco_mode_desc": "Najbardziej energooszczędne temperatury ustawione są dla wszystkich komór. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Dostosowana temperatura podczas czyszczenia komory chłodzącej lodówki lub gdy drzwi urządzenia będą otwarte przez dłuższy czas.",
     "CL_DV_RF_combi_holiday_mode_desc": "Funkcja oszczędzania energii ustawiona fabrycznie, przydatna, gdy wyjeżdżasz z domu na dłuższy czas.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "wybierz poziom osłony okiennej",
     "CL_DV_DLNA_permission": "Najpierw włącz uprawnienia dostępu do zdjęć.",
     "CL_DV_DLNA_share_to_screen_new": "UDOSTĘPNIJ NA EKRANIE",
-    "CL_DV_DLNA_video_cannot_preview": "Nie można wyświetlić podglądu wideo"
+    "CL_DV_DLNA_video_cannot_preview": "Nie można wyświetlić podglądu wideo",
+    "agent_about_me_title": "Cześć! Chcesz w pełni wykorzystać możliwości swoich sprzętów AGD? Jestem tu, aby pomóc Ci uczynić codzienne życie łatwiejszym, szybszym i przyjemniejszym.",
+    "agent_about_me_content": "Niezależnie od tego, czy interesują Cię ustawienia, szukasz nowych pomysłów na przepisy, czy potrzebujesz szybkiej naprawy, gdy coś pójdzie nie tak, ten asystent jest tu po to, by Ci pomóc. Wystarczy zapytać! "
 }

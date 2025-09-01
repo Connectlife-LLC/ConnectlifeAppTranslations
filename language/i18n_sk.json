@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Na vinotéke je aktivovaný režim Sabbath. Postupujte podľa pokynov na jeho deaktiváciu:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Stlačte a podržte tri bodky <img> na chladničke <font> 3 sekundy. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Najprv deaktivujte režim Sabbath stlačením tlačidla uzamknutia na vašom spotrebiči na 3 sekundy.",
-    "CL_DV_RF_combi_super_cool_desc": "Chladiaci priestor prejde na maximálne chladenie na xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "Mraziaci priestor prejde na maximálne chladenie na xh",
+    "CL_DV_RF_combi_super_cool_desc": "Chladiaci priestor prejde na maximálny chladiaci výkon po dobu 8 hodín.",
+    "CL_DV_RF_combi_fast_freeze_desc": "Mraziaci priestor bude chladiť maximálne 52 hodín.",
     "CL_DV_RF_combi_eco_mode_desc": "Pre všetky oddelenia sú nastavené energeticky najúčinnejšie teploty. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Upravené teploty pri čistení chladiaceho priestoru chladničky alebo keď budú dvierka spotrebiča dlhšie otvorené.",
     "CL_DV_RF_combi_holiday_mode_desc": "Prednastavená funkcia úspory energie pre prípad, že ste dlhší čas mimo domova.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "vyberte úroveň zakrytia okna",
     "CL_DV_DLNA_permission": "Najprv povoľte prístup k fotografiám.",
     "CL_DV_DLNA_share_to_screen_new": "ZDIEĽAŤ NA OBRAZOVKU",
-    "CL_DV_DLNA_video_cannot_preview": "Ukážku videa nie je možné zobraziť"
+    "CL_DV_DLNA_video_cannot_preview": "Ukážku videa nie je možné zobraziť",
+    "agent_about_me_title": "Ahoj! Ste pripravení vyťažiť zo svojich domácich spotrebičov maximum? Som tu, aby som vám pomohol uľahčiť, zrýchliť a spríjemniť každodenný život.",
+    "agent_about_me_content": "Či už vás zaujímajú nastavenia, chcete nové nápady na recepty alebo potrebujete rýchlu opravu, keď sa niečo pokazí, tento asistent je tu, aby vám pomohol. Stačí sa opýtať! "
 }
