@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "La modalità Sabbath è attivata sulla tua cantinetta vini. Segui i passaggi per disattivarlo:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Tieni premuti i tre puntini <img> sul tuo frigorifero per <font> 3 secondi. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Per prima cosa disattiva la modalità Sabbath premendo il tasto Blocco sull'apparecchio per 3 secondi.",
-    "CL_DV_RF_combi_super_cool_desc": "Il vano di raffreddamento andrà al massimo raffreddamento per xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "Il vano congelatore andrà al massimo raffreddamento per xh",
+    "CL_DV_RF_combi_super_cool_desc": "Il vano frigorifero funzionerà al massimo raffreddamento per 8 ore",
+    "CL_DV_RF_combi_fast_freeze_desc": "Il vano congelatore funzionerà al massimo raffreddamento per 52 ore",
     "CL_DV_RF_combi_eco_mode_desc": "Per tutti i compartimenti vengono impostate le temperature più efficienti dal punto di vista energetico. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Temperature regolate durante la pulizia del vano frigorifero più freddo o quando la porta dell'elettrodomestico resta aperta per un periodo di tempo prolungato.",
     "CL_DV_RF_combi_holiday_mode_desc": "Una funzione di risparmio energetico preimpostata per quando si è fuori casa per un lungo periodo di tempo.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "seleziona il livello di copertura della finestra",
     "CL_DV_DLNA_permission": "Abilita prima i permessi di accesso alle foto.",
     "CL_DV_DLNA_share_to_screen_new": "CONDIVIDI SULLO SCHERMO",
-    "CL_DV_DLNA_video_cannot_preview": "Il video non può essere visualizzato in anteprima"
+    "CL_DV_DLNA_video_cannot_preview": "Il video non può essere visualizzato in anteprima",
+    "agent_about_me_title": "Ciao! Sei pronto a sfruttare al meglio i tuoi elettrodomestici? Sono qui per aiutarti a rendere la vita di tutti i giorni più facile, veloce e piacevole.",
+    "agent_about_me_content": "Che tu sia curioso di conoscere le impostazioni, voglia nuove idee per ricette o abbia bisogno di una soluzione rapida quando qualcosa va storto, questo assistente è qui per aiutarti. Basta chiedere! "
 }

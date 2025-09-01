@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Sabbath Mode is activated on your fridge. Follow the steps to deactivate it:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Press and hold the three dots <img> on your fridge for <font>3 seconds.</font>",
     "CL_DV_RF_deactivate_sabbath_tips": "First deactivate Sabbath mode by pressing the three dots on your appliance for 3 seconds.",
-    "CL_DV_RF_combi_super_cool_desc": "The cooling compartment will go to maximum cooling for x h",
-    "CL_DV_RF_combi_fast_freeze_desc": "The freezer compartment will go to maximum cooling for x h",
+    "CL_DV_RF_combi_super_cool_desc": "The cooling compartment will go to maximum cooling for 8 hours",
+    "CL_DV_RF_combi_fast_freeze_desc": "The freezer compartment will go to maximum cooling for 52 hours",
     "CL_DV_RF_combi_eco_mode_desc": "Most energy efficient temperatures are set for all compartments.",
     "CL_DV_RF_combi_cleaning_mode_desc": "Adjusted temperatures when cleaning the cooler compartment of the refrigerator or when the door of the appliance will be open for a longer period of time.",
     "CL_DV_RF_combi_holiday_mode_desc": "A pre-set energy saving function for when you are away from home for a longer period of time.",
@@ -5867,7 +5867,7 @@
     "CL_CF_CS_choose_your_unit's_panel": "CHOOSE YOUR UNIT’S CONTROL PANEL",
     "CL_CF_CS_sn_o_i_replace_tip": "The first 12 characters cannot contain the capital letters I or O. They resemble 1 and 0. Check each character closely before entering the code.",
     "CL_CF_DLNA_network_warn": "Your phone and refrigerator are not in the same network",
-    "vocal_fade_mode": "VOCAL FADER",
+    "vocal_fade_mode": "Vocal Fader",
     "CL_CF_terms_title": "We've Updated Our Terms",
     "CL_CF_terms_button_title": "ACCEPT & CONTINUE",
     "CL_CF_terms_pp_content": "We have updated our <b>End User License Agreement</b> and <b>Privacy Policy</b>. You can view the latest version under “Legal” at any time. Please accept to continue using the app.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "select window-covering level",
     "CL_DV_DLNA_permission": "Please enable photo access permissions first.",
     "CL_DV_DLNA_share_to_screen_new": "SHARE TO SCREEN",
-    "CL_DV_DLNA_video_cannot_preview": "Video cannot be previewed"
+    "CL_DV_DLNA_video_cannot_preview": "Video cannot be previewed",
+    "agent_about_me_title": "Hi! Are you ready to get the most out of your household appliances? I’m here to help you make everyday life easier, faster, and more enjoyable.",
+    "agent_about_me_content": "Whether you’re curious about settings, want new recipe ideas, or need a quick fix when something goes wrong, this assistant is here to help. Just ask away! "
 }

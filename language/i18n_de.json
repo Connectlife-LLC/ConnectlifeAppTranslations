@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Der Sabbatmodus ist auf Ihrem Weinschrank aktiviert. Befolgen Sie die Schritte, um es zu deaktivieren:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Halten Sie die drei Punkte <img> auf Ihrem Kühlschrank <font> 3 Sekunden lang gedrückt. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Deaktivieren Sie zunächst den Sabbat-Modus, indem Sie die Sperrtaste an Ihrem Gerät 3 Sekunden lang gedrückt halten.",
-    "CL_DV_RF_combi_super_cool_desc": "Das Kühlfach wird für xh auf maximale Kühlung gestellt",
-    "CL_DV_RF_combi_fast_freeze_desc": "Das Gefrierfach wird für xh auf maximale Kühlung gestellt",
+    "CL_DV_RF_combi_super_cool_desc": "Das Kühlfach wird für 8 Stunden auf maximale Kühlung gestellt",
+    "CL_DV_RF_combi_fast_freeze_desc": "Das Gefrierfach kühlt 52 Stunden lang maximal",
     "CL_DV_RF_combi_eco_mode_desc": "Für alle Fächer werden die energieeffizientesten Temperaturen eingestellt. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Angepasste Temperaturen beim Reinigen des Kühlfachs des Kühlschranks oder wenn die Gerätetür längere Zeit geöffnet ist.",
     "CL_DV_RF_combi_holiday_mode_desc": "Eine voreingestellte Energiesparfunktion für längere Abwesenheiten von zu Hause.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "Fensterabdeckungsstufe auswählen",
     "CL_DV_DLNA_permission": "Bitte aktivieren Sie zuerst die Berechtigung zum Zugriff auf Fotos.",
     "CL_DV_DLNA_share_to_screen_new": "AUF DEM BILDSCHIRM TEILEN",
-    "CL_DV_DLNA_video_cannot_preview": "Eine Videovorschau ist nicht möglich"
+    "CL_DV_DLNA_video_cannot_preview": "Eine Videovorschau ist nicht möglich",
+    "agent_about_me_title": "Hallo! Sind Sie bereit, das Beste aus Ihren Haushaltsgeräten herauszuholen? Ich helfe Ihnen, den Alltag einfacher, schneller und angenehmer zu gestalten.",
+    "agent_about_me_content": "Egal, ob Sie neugierig auf Einstellungen sind, neue Rezeptideen suchen oder eine schnelle Lösung benötigen, wenn etwas schiefgeht – dieser Assistent hilft Ihnen. Fragen Sie einfach! "
 }
