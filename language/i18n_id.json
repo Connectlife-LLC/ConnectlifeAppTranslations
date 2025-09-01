@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "Mode Sabat diaktifkan di lemari es Anda. Ikuti langkah-langkah berikut untuk menonaktifkannya:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Tekan dan tahan tiga titik <img> pada lemari es Anda selama <font> 3 detik. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "Nonaktifkan mode Sabat terlebih dahulu dengan menekan tiga titik pada peralatan Anda selama 3 detik.",
-    "CL_DV_RF_combi_super_cool_desc": "Kompartemen pendingin akan mencapai pendinginan maksimum untuk xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "Kompartemen freezer akan mencapai pendinginan maksimum untuk xh",
+    "CL_DV_RF_combi_super_cool_desc": "Kompartemen pendingin akan mencapai pendinginan maksimum selama 8 jam",
+    "CL_DV_RF_combi_fast_freeze_desc": "Kompartemen freezer akan mencapai pendinginan maksimum selama 52 jam",
     "CL_DV_RF_combi_eco_mode_desc": "Suhu yang paling hemat energi ditetapkan untuk semua kompartemen. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Suhu yang disesuaikan saat membersihkan kompartemen pendingin kulkas atau saat pintu alat akan terbuka untuk jangka waktu lama.",
     "CL_DV_RF_combi_holiday_mode_desc": "Fungsi hemat energi yang telah ditetapkan sebelumnya saat Anda berada jauh dari rumah untuk jangka waktu lama.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "pilih tingkat penutup jendela",
     "CL_DV_DLNA_permission": "Harap aktifkan izin akses foto terlebih dahulu.",
     "CL_DV_DLNA_share_to_screen_new": "BAGIKAN KE LAYAR",
-    "CL_DV_DLNA_video_cannot_preview": "Video tidak dapat dipratinjau"
+    "CL_DV_DLNA_video_cannot_preview": "Video tidak dapat dipratinjau",
+    "agent_about_me_title": "Hai! Siap memaksimalkan peralatan rumah tangga Anda? Saya siap membantu Anda membuat hidup sehari-hari lebih mudah, lebih cepat, dan lebih menyenangkan.",
+    "agent_about_me_content": "Entah Anda penasaran dengan pengaturan, ingin ide resep baru, atau butuh solusi cepat saat terjadi masalah, asisten ini siap membantu. Tanyakan saja! "
 }

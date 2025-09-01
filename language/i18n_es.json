@@ -4684,8 +4684,8 @@
     "CL_DV_RF_deactivate_sabbath_desc": "El modo sabático está activado en su vinoteca. Sigue los pasos para desactivarlo:",
     "CL_DV_RF_deactivate_sabbath_step_1": "Mantén presionados los tres puntos <img> en tu refrigerador durante <font> 3 segundos. </font>",
     "CL_DV_RF_deactivate_sabbath_tips": "En primer lugar, desactive el modo Sabbath pulsando la tecla de bloqueo del aparato durante 3 segundos.",
-    "CL_DV_RF_combi_super_cool_desc": "El compartimento de refrigeración alcanzará el enfriamiento máximo durante xh",
-    "CL_DV_RF_combi_fast_freeze_desc": "El compartimento congelador funcionará al máximo enfriamiento durante xh",
+    "CL_DV_RF_combi_super_cool_desc": "El compartimento de refrigeración alcanzará la máxima refrigeración durante 8 h.",
+    "CL_DV_RF_combi_fast_freeze_desc": "El compartimento del congelador funcionará a máxima potencia de enfriamiento durante 52 horas.",
     "CL_DV_RF_combi_eco_mode_desc": "Las temperaturas más eficientes energéticamente se establecen para todos los compartimentos. ",
     "CL_DV_RF_combi_cleaning_mode_desc": "Temperaturas ajustadas al limpiar el compartimento más frío del refrigerador o cuando la puerta del aparato estará abierta durante un período de tiempo prolongado.",
     "CL_DV_RF_combi_holiday_mode_desc": "Una función de ahorro de energía preestablecida para cuando estés fuera de casa durante un período de tiempo prolongado.",
@@ -5916,5 +5916,7 @@
     "select_window_covering_level": "seleccionar el nivel de cobertura de la ventana",
     "CL_DV_DLNA_permission": "Habilite primero los permisos de acceso a las fotografías.",
     "CL_DV_DLNA_share_to_screen_new": "COMPARTIR EN PANTALLA",
-    "CL_DV_DLNA_video_cannot_preview": "No se puede previsualizar el vídeo"
+    "CL_DV_DLNA_video_cannot_preview": "No se puede previsualizar el vídeo",
+    "agent_about_me_title": "¡Hola! ¿Listo para sacarle el máximo provecho a tus electrodomésticos? Estoy aquí para ayudarte a que tu vida diaria sea más fácil, rápida y placentera.",
+    "agent_about_me_content": "Si tienes curiosidad sobre la configuración, buscas nuevas ideas para recetas o necesitas una solución rápida cuando algo sale mal, este asistente está aquí para ayudarte. ¡Solo pregúntanos! "
 }
