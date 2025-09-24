@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "FÉNYKÉP KÉSZÍTÉSE",
     "select_from_album": "VÁLASZTÁS AZ ALBUMBÓL",
     "ingredient": "HOZZÁVALÓ",
-    "CL_DV_HICUBE_ota_is_upgrading": "A készülék frissítés alatt áll"
+    "CL_DV_HICUBE_ota_is_upgrading": "A készülék frissítés alatt áll",
+    "please_check_system_time": "Kérjük, ellenőrizze a rendszeridőt"
 }

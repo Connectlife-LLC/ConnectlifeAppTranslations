@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "НАПРАВЕТЕ СНИМКА",
     "select_from_album": "ИЗБЕРИ ОТ АЛБУМ",
     "ingredient": "СЪСТАВКА",
-    "CL_DV_HICUBE_ota_is_upgrading": "Устройството е в процес на обновяване"
+    "CL_DV_HICUBE_ota_is_upgrading": "Устройството е в процес на обновяване",
+    "please_check_system_time": "Моля, проверете системното време"
 }

@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "ФОТО ТҮСІРУ",
     "select_from_album": "АЛЬБОМДАН ТАҢДАУ",
     "ingredient": "ИНГРЕДИЕНТ",
-    "CL_DV_HICUBE_ota_is_upgrading": "Құрылғы жаңартылуда"
+    "CL_DV_HICUBE_ota_is_upgrading": "Құрылғы жаңартылуда",
+    "please_check_system_time": "Жүйе уақытын тексеріңіз"
 }

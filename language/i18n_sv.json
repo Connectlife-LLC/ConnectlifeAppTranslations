@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "TA FOTO",
     "select_from_album": "VÄLJ FRÅN ALBUM",
     "ingredient": "INGREDIENS",
-    "CL_DV_HICUBE_ota_is_upgrading": "Enheten håller på att uppgraderas"
+    "CL_DV_HICUBE_ota_is_upgrading": "Enheten håller på att uppgraderas",
+    "please_check_system_time": "Kontrollera systemtiden"
 }

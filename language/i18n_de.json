@@ -6733,5 +6733,6 @@
     "CL_MEAL_PLANNER_take_photo": "FOTO MACHEN",
     "select_from_album": "AUS ALBUM AUSWÄHLEN",
     "ingredient": "BESTANDTEIL",
-    "CL_DV_HICUBE_ota_is_upgrading": "Das Gerät wird gerade aktualisiert"
+    "CL_DV_HICUBE_ota_is_upgrading": "Das Gerät wird gerade aktualisiert",
+    "please_check_system_time": "Bitte überprüfen Sie die Systemzeit"
 }

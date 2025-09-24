@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "ΤΡΑΒΗΞΤΕ ΦΩΤΟΓΡΑΦΙΑ",
     "select_from_album": "ΕΠΙΛΟΓΗ ΑΠΟ ΤΟ ΑΛΜΠΟΥΜ",
     "ingredient": "ΣΥΣΤΑΤΙΚΟ",
-    "CL_DV_HICUBE_ota_is_upgrading": "Η συσκευή βρίσκεται σε διαδικασία αναβάθμισης"
+    "CL_DV_HICUBE_ota_is_upgrading": "Η συσκευή βρίσκεται σε διαδικασία αναβάθμισης",
+    "please_check_system_time": "Παρακαλώ ελέγξτε την ώρα του συστήματος"
 }
