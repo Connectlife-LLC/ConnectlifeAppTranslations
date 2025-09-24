@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "拍照",
     "select_from_album": "从相册中选择",
     "ingredient": "成分",
-    "CL_DV_HICUBE_ota_is_upgrading": "设备正在升级"
+    "CL_DV_HICUBE_ota_is_upgrading": "设备正在升级",
+    "please_check_system_time": "请检查系统时间"
 }

@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "FACEȚI O FOTOGRAFIE",
     "select_from_album": "SELECTAȚI DIN ALBUM",
     "ingredient": "INGREDIENT",
-    "CL_DV_HICUBE_ota_is_upgrading": "Dispozitivul este în proces de actualizare"
+    "CL_DV_HICUBE_ota_is_upgrading": "Dispozitivul este în proces de actualizare",
+    "please_check_system_time": "Vă rugăm să verificați ora sistemului"
 }

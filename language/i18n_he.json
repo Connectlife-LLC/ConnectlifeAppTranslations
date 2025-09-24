@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "צלם תמונה",
     "select_from_album": "בחר מהאלבום",
     "ingredient": "מַרכִּיב",
-    "CL_DV_HICUBE_ota_is_upgrading": "המכשיר נמצא בתהליך שדרוג"
+    "CL_DV_HICUBE_ota_is_upgrading": "המכשיר נמצא בתהליך שדרוג",
+    "please_check_system_time": "אנא בדוק את זמן המערכת"
 }
