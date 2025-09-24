@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "CHỤP ẢNH",
     "select_from_album": "CHỌN TỪ ALBUM",
     "ingredient": "NGUYÊN LIỆU",
-    "CL_DV_HICUBE_ota_is_upgrading": "Thiết bị đang trong quá trình nâng cấp"
+    "CL_DV_HICUBE_ota_is_upgrading": "Thiết bị đang trong quá trình nâng cấp",
+    "please_check_system_time": "Vui lòng kiểm tra thời gian hệ thống"
 }

@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "AMBIL FOTO",
     "select_from_album": "PILIH DARI ALBUM",
     "ingredient": "BAHAN",
-    "CL_DV_HICUBE_ota_is_upgrading": "Peranti sedang dalam proses menaik taraf"
+    "CL_DV_HICUBE_ota_is_upgrading": "Peranti sedang dalam proses menaik taraf",
+    "please_check_system_time": "Sila semak masa sistem"
 }

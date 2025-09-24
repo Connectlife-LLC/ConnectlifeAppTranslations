@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "फोटो लो",
     "select_from_album": "एल्बम से चुनें",
     "ingredient": "INGREDIENT",
-    "CL_DV_HICUBE_ota_is_upgrading": "डिवाइस अपग्रेड होने की प्रक्रिया में है"
+    "CL_DV_HICUBE_ota_is_upgrading": "डिवाइस अपग्रेड होने की प्रक्रिया में है",
+    "please_check_system_time": "कृपया सिस्टम समय की जाँच करें"
 }

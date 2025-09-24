@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "FOTO MAKEN",
     "select_from_album": "SELECTEER UIT ALBUM",
     "ingredient": "INGREDIËNT",
-    "CL_DV_HICUBE_ota_is_upgrading": "Het apparaat is bezig met een upgrade"
+    "CL_DV_HICUBE_ota_is_upgrading": "Het apparaat is bezig met een upgrade",
+    "please_check_system_time": "Controleer de systeemtijd"
 }

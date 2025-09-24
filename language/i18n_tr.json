@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "FOTOĞRAF ÇEK",
     "select_from_album": "ALBÜMDEN SEÇ",
     "ingredient": "BİLEŞEN",
-    "CL_DV_HICUBE_ota_is_upgrading": "Cihaz yükseltme sürecindedir"
+    "CL_DV_HICUBE_ota_is_upgrading": "Cihaz yükseltme sürecindedir",
+    "please_check_system_time": "Lütfen sistem saatini kontrol edin"
 }
