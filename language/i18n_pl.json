@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "ZRÓB ZDJĘCIE",
     "select_from_album": "WYBIERZ Z ALBUMU",
     "ingredient": "SKŁADNIK",
-    "CL_DV_HICUBE_ota_is_upgrading": "Urządzenie jest w trakcie modernizacji"
+    "CL_DV_HICUBE_ota_is_upgrading": "Urządzenie jest w trakcie modernizacji",
+    "please_check_system_time": "Proszę sprawdzić czas systemowy"
 }

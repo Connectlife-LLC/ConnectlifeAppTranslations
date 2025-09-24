@@ -6733,5 +6733,6 @@
     "CL_MEAL_PLANNER_take_photo": "التقط الصورة",
     "select_from_album": "اختر من الألبوم",
     "ingredient": "المكونات",
-    "CL_DV_HICUBE_ota_is_upgrading": "الجهاز في طور الترقية"
+    "CL_DV_HICUBE_ota_is_upgrading": "الجهاز في طور الترقية",
+    "please_check_system_time": "يرجى التحقق من وقت النظام"
 }

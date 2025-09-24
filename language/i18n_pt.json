@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "TIRE UMA FOTO",
     "select_from_album": "SELECIONE DO ÁLBUM",
     "ingredient": "INGREDIENTE",
-    "CL_DV_HICUBE_ota_is_upgrading": "O dispositivo está em processo de atualização"
+    "CL_DV_HICUBE_ota_is_upgrading": "O dispositivo está em processo de atualização",
+    "please_check_system_time": "Por favor, verifique a hora do sistema"
 }

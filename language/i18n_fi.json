@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "OTA KUVA",
     "select_from_album": "VALITSE ALBUMISTA",
     "ingredient": "AINESOSA",
-    "CL_DV_HICUBE_ota_is_upgrading": "Laite on päivitysvaiheessa"
+    "CL_DV_HICUBE_ota_is_upgrading": "Laite on päivitysvaiheessa",
+    "please_check_system_time": "Tarkista järjestelmän aika"
 }

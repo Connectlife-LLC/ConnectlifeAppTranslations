@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "VYFOŤTE",
     "select_from_album": "VYBRAT Z ALBA",
     "ingredient": "PŘÍSADA",
-    "CL_DV_HICUBE_ota_is_upgrading": "Zařízení se právě aktualizuje"
+    "CL_DV_HICUBE_ota_is_upgrading": "Zařízení se právě aktualizuje",
+    "please_check_system_time": "Zkontrolujte prosím systémový čas"
 }

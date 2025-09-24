@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "写真を撮る",
     "select_from_album": "アルバムから選択",
     "ingredient": "材料",
-    "CL_DV_HICUBE_ota_is_upgrading": "デバイスはアップグレード中です"
+    "CL_DV_HICUBE_ota_is_upgrading": "デバイスはアップグレード中です",
+    "please_check_system_time": "システム時間を確認してください"
 }

@@ -6732,5 +6732,6 @@
     "CL_MEAL_PLANNER_take_photo": "عکس بگیرید",
     "select_from_album": "انتخاب از آلبوم",
     "ingredient": "مواد تشکیل دهنده",
-    "CL_DV_HICUBE_ota_is_upgrading": "دستگاه در حال ارتقا و بهبود است"
+    "CL_DV_HICUBE_ota_is_upgrading": "دستگاه در حال ارتقا و بهبود است",
+    "please_check_system_time": "لطفا زمان سیستم را بررسی کنید"
 }

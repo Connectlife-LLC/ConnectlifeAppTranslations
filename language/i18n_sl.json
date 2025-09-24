@@ -6733,5 +6733,6 @@
     "CL_MEAL_PLANNER_take_photo": "FOTOGRAFIRAJ",
     "select_from_album": "IZBERITE IZ ALBUMA",
     "ingredient": "SESTAVINA",
-    "CL_DV_HICUBE_ota_is_upgrading": "Naprava je v postopku nadgradnje"
+    "CL_DV_HICUBE_ota_is_upgrading": "Naprava je v postopku nadgradnje",
+    "please_check_system_time": "Prosimo, preverite sistemski čas"
 }
