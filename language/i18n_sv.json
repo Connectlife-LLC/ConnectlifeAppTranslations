@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Börja din veckovisa hälsoresa",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Tryck på ''CONNECT USER'' på vänster sida. När menyn öppnas trycker du på knappen ''PAIR''. Du kan nu fortsätta i appen genom att trycka på knappen NÄSTA nedan.",
     "CL_DV_OV_clock": "Klocka",
-    "Precipitations": "Nederbörd"
+    "Precipitations": "Nederbörd",
+    "Next Forecast": "Nästa prognos",
+    "CL_HC_must_num": "Måste vara ett nummer"
 }

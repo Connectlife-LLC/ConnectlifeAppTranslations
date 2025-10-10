@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Commencez votre parcours de santé hebdomadaire",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Appuyez sur « CONNECTER L'UTILISATEUR » à gauche. Lorsque le menu s'ouvre, appuyez sur le bouton « ASSOCIER ». Vous pouvez maintenant continuer dans l'application en appuyant sur le bouton SUIVANT ci-dessous.",
     "CL_DV_OV_clock": "Horloge",
-    "Precipitations": "Précipitations"
+    "Precipitations": "Précipitations",
+    "Next Forecast": "Prochaines prévisions",
+    "CL_HC_must_num": "Doit être un numéro"
 }

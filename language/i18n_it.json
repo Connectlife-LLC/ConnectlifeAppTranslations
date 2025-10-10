@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Inizia il tuo percorso settimanale verso la salute",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Premere su ''CONNETTI UTENTE'' sul lato sinistro. Quando si apre il menu, premere il pulsante ''ACCOPPIA''. A questo punto è possibile procedere nell'applicazione toccando il pulsante AVANTI in basso.",
     "CL_DV_OV_clock": "Orologio",
-    "Precipitations": "Precipitazioni"
+    "Precipitations": "Precipitazioni",
+    "Next Forecast": "Prossima previsione",
+    "CL_HC_must_num": "Deve essere un numero"
 }

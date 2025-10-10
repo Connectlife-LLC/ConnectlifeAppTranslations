@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Beginnen Sie Ihre wöchentliche Gesundheitsreise",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Drücken Sie links auf „BENUTZER VERBINDEN“. Wenn sich das Menü öffnet, drücken Sie auf die Schaltfläche „KOPPELN“. Sie können nun in der App fortfahren, indem Sie unten auf die Schaltfläche WEITER tippen.",
     "CL_DV_OV_clock": "Uhr",
-    "Precipitations": "Niederschläge"
+    "Precipitations": "Niederschläge",
+    "Next Forecast": "Nächste Prognose",
+    "CL_HC_must_num": "Muss eine Zahl sein"
 }
