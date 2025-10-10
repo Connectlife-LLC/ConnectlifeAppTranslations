@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Začnite svojo tedensko zdravstveno pot",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Na levi strani pritisnite »POVEŽI UPORABNIKA«. Ko se odpre meni, pritisnite gumb »SEZNAJ«. Zdaj lahko v aplikaciji nadaljujete s pritiskom na spodnji gumb NAPREJ.",
     "CL_DV_OV_clock": "Ura",
-    "Precipitations": "Padavine"
+    "Precipitations": "Padavine",
+    "Next Forecast": "Naslednja napoved",
+    "CL_HC_must_num": "Mora biti številka"
 }

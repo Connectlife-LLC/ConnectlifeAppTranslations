@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "주간 건강 여정을 시작하세요",
     "CL_CF_CS_bio24_elements_p_setup_step3": "왼쪽의 '사용자 연결'을 누르세요. 메뉴가 열리면 '페어링' 버튼을 누르세요. 이제 아래 '다음' 버튼을 눌러 앱에서 계속 진행할 수 있습니다.",
     "CL_DV_OV_clock": "시계",
-    "Precipitations": "강수량"
+    "Precipitations": "강수량",
+    "Next Forecast": "다음 예보",
+    "CL_HC_must_num": "숫자여야 합니다"
 }

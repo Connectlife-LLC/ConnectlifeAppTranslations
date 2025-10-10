@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Začněte svou týdenní cestu ke zdraví",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Stiskněte tlačítko „PŘIPOJIT UŽIVATELE“ na levé straně. Po otevření nabídky stiskněte tlačítko „SPÁROVAT“. Nyní můžete v aplikaci pokračovat klepnutím na tlačítko DALŠÍ níže.",
     "CL_DV_OV_clock": "Hodiny",
-    "Precipitations": "Srážky"
+    "Precipitations": "Srážky",
+    "Next Forecast": "Další předpověď",
+    "CL_HC_must_num": "Musí to být číslo"
 }

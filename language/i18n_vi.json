@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Bắt đầu hành trình sức khỏe hàng tuần của bạn",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Nhấn vào nút \"KẾT NỐI NGƯỜI DÙNG\" ở bên trái. Khi menu mở ra, nhấn vào nút \"GHÉP NỐI\". Bây giờ, bạn có thể tiếp tục trong ứng dụng bằng cách nhấn vào nút TIẾP THEO bên dưới.",
     "CL_DV_OV_clock": "Cái đồng hồ",
-    "Precipitations": "Lượng mưa"
+    "Precipitations": "Lượng mưa",
+    "Next Forecast": "Dự báo tiếp theo",
+    "CL_HC_must_num": "Phải là một số"
 }

@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "अपनी साप्ताहिक स्वास्थ्य यात्रा शुरू करें",
     "CL_CF_CS_bio24_elements_p_setup_step3": "बाईं ओर \"CONNECT USER\" बटन दबाएँ। मेनू खुलने पर, \"PAIR\" बटन दबाएँ। अब आप नीचे दिए गए NEXT बटन पर टैप करके ऐप में आगे बढ़ सकते हैं।",
     "CL_DV_OV_clock": "घड़ी",
-    "Precipitations": "वर्षा"
+    "Precipitations": "वर्षा",
+    "Next Forecast": "अगला पूर्वानुमान",
+    "CL_HC_must_num": "एक संख्या होनी चाहिए"
 }

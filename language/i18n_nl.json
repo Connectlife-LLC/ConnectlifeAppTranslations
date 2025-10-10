@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Begin uw wekelijkse gezondheidsreis",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Druk links op 'GEBRUIKER VERBINDEN'. Wanneer het menu opent, druk je op de knop 'KOPPELEN'. Je kunt nu verdergaan in de app door hieronder op de knop VOLGENDE te tikken.",
     "CL_DV_OV_clock": "Klok",
-    "Precipitations": "Neerslag"
+    "Precipitations": "Neerslag",
+    "Next Forecast": "Volgende voorspelling",
+    "CL_HC_must_num": "Moet een getal zijn"
 }
