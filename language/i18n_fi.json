@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Aloita viikoittainen terveysmatkasi",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Paina vasemmalla puolella olevaa ''YHDISTÄ KÄYTTÄJÄ''-painiketta. Kun valikko avautuu, paina ''YHDISTÄ''-painiketta. Voit nyt jatkaa sovelluksessa napauttamalla alla olevaa SEURAAVA-painiketta.",
     "CL_DV_OV_clock": "Kello",
-    "Precipitations": "Sateet"
+    "Precipitations": "Sateet",
+    "Next Forecast": "Seuraava ennuste",
+    "CL_HC_must_num": "Täytyy olla numero"
 }

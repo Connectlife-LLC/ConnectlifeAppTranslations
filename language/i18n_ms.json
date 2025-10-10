@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Mulakan perjalanan kesihatan mingguan anda",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Tekan pada ''CONNECT USER'' di sebelah kiri. Apabila menu dibuka, tekan pada butang ''PAIR''. Anda kini boleh meneruskan dalam apl dengan mengetik pada butang SETERUSNYA di bawah.",
     "CL_DV_OV_clock": "jam",
-    "Precipitations": "kerpasan"
+    "Precipitations": "kerpasan",
+    "Next Forecast": "Ramalan Seterusnya",
+    "CL_HC_must_num": "Mesti nombor"
 }

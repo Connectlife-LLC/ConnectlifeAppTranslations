@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Mulailah perjalanan kesehatan mingguan Anda",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Tekan \"HUBUNGKAN PENGGUNA\" di sisi kiri. Setelah menu terbuka, tekan tombol \"PASANGKAN\". Anda sekarang dapat melanjutkan di aplikasi dengan mengetuk tombol BERIKUTNYA di bawah.",
     "CL_DV_OV_clock": "Jam",
-    "Precipitations": "Curah hujan"
+    "Precipitations": "Curah hujan",
+    "Next Forecast": "Prakiraan Berikutnya",
+    "CL_HC_must_num": "Harus berupa angka"
 }

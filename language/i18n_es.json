@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Comienza tu viaje de salud semanal",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Pulsa \"CONECTAR USUARIO\" en el lado izquierdo. Cuando se abra el menú, pulsa el botón \"EMPAREJAR\". Ahora puedes continuar en la app pulsando el botón SIGUIENTE a continuación.",
     "CL_DV_OV_clock": "Reloj",
-    "Precipitations": "Precipitaciones"
+    "Precipitations": "Precipitaciones",
+    "Next Forecast": "Próximo pronóstico",
+    "CL_HC_must_num": "Debe ser un número"
 }

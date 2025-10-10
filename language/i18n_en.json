@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Begin your weekly health journey",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Press on ‘’CONNECT USER’’ on the left side. When the menu opens, press on the ‘’PAIR’’ button. You can now proceed in the app by tapping on the NEXT button below.",
     "CL_DV_OV_clock": "Clock",
-    "Precipitations": "Precipitations"
+    "Precipitations": "Precipitations",
+    "Next Forecast": "Next Forecast",
+    "CL_HC_must_num": "Must be a number"
 }

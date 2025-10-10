@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Start din ugentlige sundhedsrejse",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Tryk på ''CONNECTE BRUGER'' i venstre side. Når menuen åbnes, skal du trykke på knappen ''PAR''. Du kan nu fortsætte i appen ved at trykke på knappen NÆSTE nedenfor.",
     "CL_DV_OV_clock": "Ur",
-    "Precipitations": "Nedbør"
+    "Precipitations": "Nedbør",
+    "Next Forecast": "Næste prognose",
+    "CL_HC_must_num": "Skal være et tal"
 }

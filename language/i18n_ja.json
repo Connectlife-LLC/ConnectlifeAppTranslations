@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "毎週の健康の旅を始めましょう",
     "CL_CF_CS_bio24_elements_p_setup_step3": "左側の「ユーザー接続」を押します。メニューが開いたら、「ペアリング」ボタンを押します。下の「次へ」ボタンをタップすると、アプリ内で先に進むことができます。",
     "CL_DV_OV_clock": "クロック",
-    "Precipitations": "降水量"
+    "Precipitations": "降水量",
+    "Next Forecast": "次回の予測",
+    "CL_HC_must_num": "数字でなければなりません"
 }

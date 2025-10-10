@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Rozpocznij swoją cotygodniową podróż ku zdrowiu",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Naciśnij ''CONNECT USER'' po lewej stronie. Gdy menu się otworzy, naciśnij przycisk ''PAIR''. Teraz możesz kontynuować w aplikacji, dotykając przycisku NEXT poniżej.",
     "CL_DV_OV_clock": "Zegar",
-    "Precipitations": "Opady"
+    "Precipitations": "Opady",
+    "Next Forecast": "Następna prognoza",
+    "CL_HC_must_num": "Musi to być liczba"
 }

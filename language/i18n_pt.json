@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Comece sua jornada semanal de saúde",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Pressione o botão \"LIGAR UTILIZADOR\" no lado esquerdo. Quando o menu abrir, clique em ''PAIR''. Agora pode prosseguir na aplicação clicando em SEGUINTE .",
     "CL_DV_OV_clock": "Relógio",
-    "Precipitations": "Precipitações"
+    "Precipitations": "Precipitações",
+    "Next Forecast": "Próxima Previsão",
+    "CL_HC_must_num": "Deve ser um número"
 }

@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Haftalık sağlık yolculuğunuza başlayın",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Sol taraftaki ''KULLANICIYI BAĞLA'' butonuna basın. Menü açıldığında ''EŞLEŞTİR'' butonuna basın. Şimdi aşağıdaki İLERİ butonuna dokunarak uygulamada ilerleyebilirsiniz.",
     "CL_DV_OV_clock": "Saat",
-    "Precipitations": "Yağışlar"
+    "Precipitations": "Yağışlar",
+    "Next Forecast": "Sonraki Tahmin",
+    "CL_HC_must_num": "Bir sayı olmalı"
 }

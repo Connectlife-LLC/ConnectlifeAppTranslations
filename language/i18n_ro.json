@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Începe-ți călătoria săptămânală pentru sănătate",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Apasă pe „CONECTEAZĂ UTILIZATORUL” din partea stângă. Când se deschide meniul, apasă pe butonul „ASOCIERE”. Acum poți continua în aplicație apăsând pe butonul URMĂTOR de mai jos.",
     "CL_DV_OV_clock": "Ceas",
-    "Precipitations": "Precipitaţii"
+    "Precipitations": "Precipitaţii",
+    "Next Forecast": "Următoarea prognoză",
+    "CL_HC_must_num": "Trebuie să fie un număr"
 }

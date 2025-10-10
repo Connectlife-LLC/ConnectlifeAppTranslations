@@ -6808,5 +6808,7 @@
     "CL_MEAL_PLANNER_begin": "Kezdje el heti egészségtúráját",
     "CL_CF_CS_bio24_elements_p_setup_step3": "Kattints a „FELHASZNÁLÓ CSATLAKOZÁSA” gombra a bal oldalon. Amikor megnyílik a menü, kattints a „PÁROSÍTÁS” gombra. Mostantól az alkalmazásban a lenti KÖVETKEZŐ gombra koppintva folytathatod.",
     "CL_DV_OV_clock": "Óra",
-    "Precipitations": "Csapadékok"
+    "Precipitations": "Csapadékok",
+    "Next Forecast": "Következő előrejelzés",
+    "CL_HC_must_num": "Számnak kell lennie"
 }
