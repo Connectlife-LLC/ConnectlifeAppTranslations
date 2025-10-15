@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "mencari solusi",
     "possible_solutions": "solusi yang mungkin",
     "load_more_potential_solutions": "memuat lebih banyak solusi potensial",
-    "ai_troubleshooting_none_solutions": "Kami mohon maaf atas masalah yang masih Anda alami. Jika solusi di atas tidak menyelesaikan masalah Anda, silakan coba ubah pertanyaan Anda atau laporkan masalahnya agar kami dapat membantu Anda lebih lanjut.",
+    "ai_troubleshooting_none_solutions": "Jika tidak ada solusi di atas yang menyelesaikan masalah Anda, Anda dapat mencoba mengulanginya atau melaporkan masalah tersebut.",
     "ai_troubleshooting_bottom_tip2": "Solusi dan saran AI mungkin tidak akurat. Hubungi dukungan jika memerlukan bantuan lebih lanjut. <u> Syarat dan ketentuan </u> berlaku.",
     "describe_your_issue": "jelaskan masalah Anda",
     "issue_solved": "Masalah terpecahkan",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "KONSENTRASI DETERJEN",
     "CL_WM_CM_change_temperature": "Ubah suhu",
     "CL_DV_DW_dw60c_remote_disable": "Remote start dinonaktifkan pada perangkat Anda. Untuk memulai program dari aplikasi ConnectLife, aktifkan remote start pada perangkat itu sendiri. Periksa buku petunjuk pengguna untuk petunjuk. ",
-    "ai_troubleshooting_try_again": "Maaf, kami tidak dapat menemukan solusi. Silakan coba lagi atau laporkan masalahnya agar kami dapat membantu.",
+    "ai_troubleshooting_try_again": "Tidak ditemukan informasi relevan. Silakan coba ubah frasa atau laporkan masalahnya.",
     "CL_CF_UC_ru_login_tip_title": "ANDA DITOLAK",
     "CL_CF_UC_ru_login_tip_content": "Login Anda ditolak karena ada upaya akses dari negara atau kawasan tempat produk atau layanan ini tidak tersedia. Harap atur negara ponsel Anda agar sesuai dengan negara sebenarnya, lalu coba lagi.",
     "CL_DV_AC_temp_min_content": "Unit telah mencapai suhu minimum.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Ketuk dan tahan ikon Wi-Fi selama sekitar 5 detik. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Ketuk dan tahan ikon Wi-Fi selama sekitar 5 detik hingga 'Con' muncul di layar.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Geser ke kiri untuk menuju ke 'PAI'. Anda telah memasuki menu pairing. Anda sekarang dapat melanjutkan di aplikasi dengan mengetuk tombol NEXT di bawah.",
-    "ai_troubleshooting_error_try_again": "Maaf, kami tidak dapat menemukan solusi. Silakan coba lagi atau laporkan masalahnya agar kami dapat membantu.",
+    "ai_troubleshooting_error_try_again": "Tidak ditemukan informasi relevan untuk kesalahan yang Anda alami. \nHarap laporkan masalah tersebut.",
     "CL_CF_SD_month_overlap": "Pastikan bulan yang dipilih tidak tumpang tindih.",
     "CL_CF_AS_start_download": "Mulai mengunduh",
     "CL_DV_OV_try_following_solutions": "Untuk menyambungkan kembali oven Anda, cobalah solusi berikut:",
@@ -6885,5 +6885,5 @@
     "CL_AC_out_self_clean_des_title": "Pembersihan mandiri di luar ruangan",
     "CL_AC_in_self_clean_des_title": "Pembersihan mandiri di dalam ruangan",
     "CL_AC_out_door_quiet_des_title": "Suasana luar ruangan yang tenang",
-    "ai_troubleshooting_no_solutions": "Tidak ditemukan informasi relevan untuk kesalahan yang Anda alami. \nHarap laporkan masalah tersebut."
+    "ai_troubleshooting_none_right_solutions": "Jika tidak ada solusi di atas yang menyelesaikan masalah Anda, Anda dapat mencoba mengulanginya atau melaporkan masalah tersebut."
 }

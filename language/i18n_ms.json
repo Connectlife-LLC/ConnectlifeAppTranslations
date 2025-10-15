@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "mencari penyelesaian",
     "possible_solutions": "penyelesaian yang mungkin",
     "load_more_potential_solutions": "memuatkan lebih banyak penyelesaian yang berpotensi",
-    "ai_troubleshooting_none_solutions": "Kami kesal mendengar anda masih menghadapi masalah. Jika penyelesaian di atas tidak menyelesaikan isu anda, sila cuba ungkapkan semula soalan anda atau laporkan masalah tersebut supaya kami boleh membantu anda dengan lebih lanjut.",
+    "ai_troubleshooting_none_solutions": "Jika tiada penyelesaian di atas menyelesaikan masalah anda, anda boleh cuba menyusun semula atau melaporkan isu tersebut.",
     "ai_troubleshooting_bottom_tip2": "Penyelesaian dan cadangan AI mungkin tidak tepat. Hubungi sokongan jika bantuan lanjut diperlukan. <u> Terma dan syarat </u> dikenakan.",
     "describe_your_issue": "huraikan isu anda",
     "issue_solved": "isu selesai",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "KEPEKATAN DETERGEN",
     "CL_WM_CM_change_temperature": "Tukar suhu",
     "CL_DV_DW_dw60c_remote_disable": "Permulaan jauh dilumpuhkan pada peranti anda. Untuk memulakan program daripada apl ConnectLife, dayakan permulaan jauh pada peranti itu sendiri. Semak manual pengguna untuk arahan. ",
-    "ai_troubleshooting_try_again": "Harap maaf, tetapi kami tidak dapat mencari penyelesaian. Sila cuba lagi atau laporkan isu tersebut supaya kami boleh membantu.",
+    "ai_troubleshooting_try_again": "Tiada maklumat berkaitan ditemui. Sila cuba ungkapkan semula atau laporkan isu tersebut.",
     "CL_CF_UC_ru_login_tip_title": "ANDA DITOLAK",
     "CL_CF_UC_ru_login_tip_content": "Log masuk anda telah ditolak kerana percubaan akses dari negara atau wilayah di mana produk atau perkhidmatan ini tidak tersedia, sila tetapkan negara telefon anda agar sepadan dengan negara yang sebenar dan cuba lagi.",
     "CL_DV_AC_temp_min_content": "Unit telah mencapai suhu minimumnya.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Ketik dan tahan ikon Wi-Fi selama lebih kurang 5 saat. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Ketik dan tahan ikon Wi-Fi selama lebih kurang 5 saat sehingga 'Con' muncul pada paparan.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Luncurkan ke kiri untuk pergi ke 'PAI'. Anda telah memasuki menu berpasangan. Anda kini boleh meneruskan dalam apl dengan mengetik pada butang SETERUSNYA di bawah.",
-    "ai_troubleshooting_error_try_again": "Harap maaf, tetapi kami tidak dapat mencari penyelesaian. Sila cuba lagi atau laporkan isu tersebut supaya kami boleh membantu.",
+    "ai_troubleshooting_error_try_again": "Tiada maklumat berkaitan ditemui untuk ralat yang anda alami. \nSila laporkan isu tersebut.",
     "CL_CF_SD_month_overlap": "Sila pastikan bulan yang dipilih tidak bertindih.",
     "CL_CF_AS_start_download": "Mulakan muat turun",
     "CL_DV_OV_try_following_solutions": "Untuk menyambung semula ketuhar anda, cuba penyelesaian berikut:",
@@ -6885,5 +6885,5 @@
     "CL_AC_out_self_clean_des_title": "Bersihkan diri di luar",
     "CL_AC_in_self_clean_des_title": "Membersihkan diri dalaman",
     "CL_AC_out_door_quiet_des_title": "Tenang di luar",
-    "ai_troubleshooting_no_solutions": "Tiada maklumat berkaitan ditemui untuk ralat yang anda alami. \nSila laporkan isu tersebut."
+    "ai_troubleshooting_none_right_solutions": "Jika tiada penyelesaian di atas menyelesaikan masalah anda, anda boleh cuba menyusun semula atau melaporkan isu tersebut."
 }
