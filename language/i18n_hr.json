@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "traženje rješenja",
     "possible_solutions": "moguća rješenja",
     "load_more_potential_solutions": "učitati više potencijalnih rješenja",
-    "ai_troubleshooting_none_solutions": "Žao nam je što i dalje imate problema. Ako gore navedena rješenja ne riješe vaš problem, pokušajte preformulirati pitanje ili prijavite problem kako bismo vam mogli dodatno pomoći.",
+    "ai_troubleshooting_none_solutions": "Ako nijedno od gore navedenih rješenja ne riješi vaš problem, možete pokušati preformulirati ili prijaviti problem.",
     "ai_troubleshooting_bottom_tip2": "AI rješenja i prijedlozi možda nisu točni. Kontaktirajte podršku ako je potrebna dodatna pomoć. Primjenjuju se <u> Uvjeti i odredbe </u>.",
     "describe_your_issue": "opišite svoj problem",
     "issue_solved": "problem riješen",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "KONCENTRACIJA DETERDŽENTA",
     "CL_WM_CM_change_temperature": "Promjena temperature",
     "CL_DV_DW_dw60c_remote_disable": "Daljinsko pokretanje je onemogućeno na vašem uređaju. Za pokretanje programa iz aplikacije ConnectLife omogućite daljinsko pokretanje na samom uređaju. Upute potražite u korisničkom priručniku. ",
-    "ai_troubleshooting_try_again": "Žao nam je, ali nismo mogli pronaći rješenje. Pokušajte ponovno ili prijavite problem kako bismo vam mogli pomoći.",
+    "ai_troubleshooting_try_again": "Nisu pronađene relevantne informacije. Pokušajte preformulirati ili prijaviti problem.",
     "CL_CF_UC_ru_login_tip_title": "ODBIJENI STE",
     "CL_CF_UC_ru_login_tip_content": "Vaša prijava je odbijena zbog pokušaja pristupa iz zemlje ili regije u kojoj ovaj proizvod ili usluga nisu dostupni, postavite državu svog telefona da odgovara stvarnoj i pokušajte ponovno.",
     "CL_DV_AC_temp_min_content": "Jedinica je dosegla minimalnu temperaturu.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Dodirnite i držite Wi-Fi ikonu otprilike 5 sekundi. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Dodirnite i držite Wi-Fi ikonu otprilike 5 sekundi dok se na zaslonu ne pojavi 'Con'.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Kliznite ulijevo da biste otišli na 'PAI'. Ušli ste u izbornik za uparivanje. Sada možete nastaviti u aplikaciji dodirivanjem gumba DALJE u nastavku.",
-    "ai_troubleshooting_error_try_again": "Žao nam je, ali nismo mogli pronaći rješenje. Pokušajte ponovno ili prijavite problem kako bismo vam mogli pomoći.",
+    "ai_troubleshooting_error_try_again": "Nisu pronađene relevantne informacije za pogrešku koju imate. \nMolimo prijavite problem.",
     "CL_CF_SD_month_overlap": "Provjerite da se odabrani mjeseci ne preklapaju.",
     "CL_CF_AS_start_download": "Pokrenite preuzimanje",
     "CL_DV_OV_try_following_solutions": "Za ponovno spajanje pećnice isprobajte sljedeća rješenja:",
@@ -6885,5 +6885,5 @@
     "CL_AC_out_self_clean_des_title": "Samočišćenje na otvorenom",
     "CL_AC_in_self_clean_des_title": "Samočišćenje u zatvorenom prostoru",
     "CL_AC_out_door_quiet_des_title": "Tišina na otvorenom",
-    "ai_troubleshooting_no_solutions": "Nisu pronađene relevantne informacije za pogrešku koju imate. \n Molimo prijavite problem."
+    "ai_troubleshooting_none_right_solutions": "Ako nijedno od gore navedenih rješenja ne riješi vaš problem, možete pokušati preformulirati ili prijaviti problem."
 }

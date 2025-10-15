@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "מחפש פתרונות",
     "possible_solutions": "פתרונות אפשריים",
     "load_more_potential_solutions": "לטעון עוד פתרונות פוטנציאליים",
-    "ai_troubleshooting_none_solutions": "אנו מצטערים לשמוע שאתה עדיין נתקל בבעיות. אם הפתרונות לעיל אינם פותרים את הבעיה, אנא נסה לנסח מחדש את שאלתך או דווח על הבעיה כדי שנוכל לסייע לך עוד.",
+    "ai_troubleshooting_none_solutions": "אם אף אחד מהפתרונות לעיל לא פותר את הבעיה שלך, תוכל לנסות לנסח מחדש או לדווח על הבעיה.",
     "ai_troubleshooting_bottom_tip2": "פתרונות והצעות בינה מלאכותית עשויים שלא להיות מדויקים. צור קשר עם התמיכה אם יש צורך בסיוע נוסף. חלים <u> תנאים והגבלות </u>.",
     "describe_your_issue": "תאר את הבעיה שלך",
     "issue_solved": "הבעיה נפתרה",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "ריכוז חומרי ניקוי",
     "CL_WM_CM_change_temperature": "שנה טמפרטורה",
     "CL_DV_DW_dw60c_remote_disable": "ההפעלה מרחוק מושבתת במכשיר שלך. כדי להפעיל את התוכנית מאפליקציית ConnectLife, אפשר את ההפעלה מרחוק במכשיר עצמו. עיין במדריך למשתמש לקבלת הוראות. ",
-    "ai_troubleshooting_try_again": "מצטערים, אך לא מצאנו פתרון. אנא נסה שוב או דווח על הבעיה כדי שנוכל לעזור.",
+    "ai_troubleshooting_try_again": "לא נמצא מידע רלוונטי. אנא נסה לנסח מחדש או לדווח על הבעיה.",
     "CL_CF_UC_ru_login_tip_title": "דחו אותך",
     "CL_CF_UC_ru_login_tip_content": "ההתחברות שלך נדחתה עקב ניסיון גישה ממדינה או אזור שבהם המוצר או השירות אינם זמינים, אנא הגדר את המדינה של הטלפון שלך כך שתתאים לארץ בפועל ונסה שוב.",
     "CL_DV_AC_temp_min_content": "היחידה הגיעה לטמפרטורה המינימלית שלה.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "הקש והחזק את סמל ה-Wi-Fi למשך כ-5 שניות. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "הקש והחזק את סמל ה-Wi-Fi למשך כ-5 שניות עד להופעת 'Con' בתצוגה.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "החלק שמאלה כדי לעבור אל 'PAI'. נכנסת לתפריט ההתאמה. כעת תוכל להמשיך באפליקציה על ידי הקשה על כפתור הבא למטה.",
-    "ai_troubleshooting_error_try_again": "מצטערים, אך לא מצאנו פתרון. אנא נסה שוב או דווח על הבעיה כדי שנוכל לעזור.",
+    "ai_troubleshooting_error_try_again": "לא נמצא מידע רלוונטי לשגיאה שאתה חווה. \n אנא דווח על הבעיה.",
     "CL_CF_SD_month_overlap": "אנא ודא שהחודשים שנבחרו אינם חופפים.",
     "CL_CF_AS_start_download": "התחל את ההורדה",
     "CL_DV_OV_try_following_solutions": "כדי לחבר מחדש את התנור, נסה את הפתרונות הבאים:",
@@ -6885,5 +6885,5 @@
     "CL_AC_out_self_clean_des_title": "ניקוי עצמי חיצוני",
     "CL_AC_in_self_clean_des_title": "ניקוי עצמי פנימי",
     "CL_AC_out_door_quiet_des_title": "שקט בחוץ",
-    "ai_troubleshooting_no_solutions": "לא נמצא מידע רלוונטי לשגיאה שאתה חווה. \n אנא דווח על הבעיה."
+    "ai_troubleshooting_none_right_solutions": "אם אף אחד מהפתרונות שלמעלה לא פותר את הבעיה שלך, אתה יכול לנסות לנסח מחדש או לדווח על הבעיה."
 }
