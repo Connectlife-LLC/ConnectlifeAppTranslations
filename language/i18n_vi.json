@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "tìm kiếm giải pháp",
     "possible_solutions": "giải pháp khả thi",
     "load_more_potential_solutions": "tải thêm các giải pháp tiềm năng",
-    "ai_troubleshooting_none_solutions": "Chúng tôi rất tiếc khi biết bạn vẫn gặp sự cố. Nếu các giải pháp trên không giải quyết được vấn đề của bạn, vui lòng thử diễn đạt lại câu hỏi hoặc báo cáo sự cố để chúng tôi có thể hỗ trợ bạn thêm.",
+    "ai_troubleshooting_none_solutions": "Nếu không có giải pháp nào ở trên giải quyết được vấn đề của bạn, bạn có thể thử diễn đạt lại hoặc báo cáo sự cố.",
     "ai_troubleshooting_bottom_tip2": "Các giải pháp và đề xuất AI có thể không chính xác. Liên hệ với bộ phận hỗ trợ nếu cần thêm trợ giúp. <u> Điều khoản và điều kiện </u> được áp dụng.",
     "describe_your_issue": "mô tả vấn đề của bạn",
     "issue_solved": "vấn đề đã được giải quyết",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "NỒNG ĐỘ CHẤT TẨY RỬA",
     "CL_WM_CM_change_temperature": "Thay đổi nhiệt độ",
     "CL_DV_DW_dw60c_remote_disable": "Khởi động từ xa bị vô hiệu hóa trên thiết bị của bạn. Để khởi động chương trình từ ứng dụng ConnectLife, hãy bật khởi động từ xa trên chính thiết bị. Kiểm tra hướng dẫn sử dụng để biết hướng dẫn. ",
-    "ai_troubleshooting_try_again": "Rất tiếc, chúng tôi không tìm ra giải pháp. Vui lòng thử lại hoặc báo cáo sự cố để chúng tôi có thể hỗ trợ.",
+    "ai_troubleshooting_try_again": "Không tìm thấy thông tin liên quan. Vui lòng thử diễn đạt lại hoặc báo cáo sự cố.",
     "CL_CF_UC_ru_login_tip_title": "BẠN ĐÃ BỊ TỪ CHỐI",
     "CL_CF_UC_ru_login_tip_content": "Đăng nhập của bạn đã bị từ chối do cố gắng truy cập từ quốc gia hoặc khu vực mà sản phẩm hoặc dịch vụ này không khả dụng, vui lòng đặt quốc gia trên điện thoại của bạn trùng khớp với quốc gia thực tế và thử lại.",
     "CL_DV_AC_temp_min_content": "Thiết bị đã đạt đến nhiệt độ tối thiểu.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Chạm và giữ biểu tượng Wi-Fi trong khoảng 5 giây. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Chạm và giữ biểu tượng Wi-Fi trong khoảng 5 giây cho đến khi chữ 'Con' xuất hiện trên màn hình.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Trượt sang trái để đi đến 'PAI'. Bạn đã vào menu ghép nối. Bây giờ bạn có thể tiếp tục trong ứng dụng bằng cách chạm vào nút TIẾP THEO bên dưới.",
-    "ai_troubleshooting_error_try_again": "Rất tiếc, chúng tôi không tìm ra giải pháp. Vui lòng thử lại hoặc báo cáo sự cố để chúng tôi có thể hỗ trợ.",
+    "ai_troubleshooting_error_try_again": "Không tìm thấy thông tin liên quan đến lỗi bạn đang gặp phải. \nVui lòng báo cáo sự cố.",
     "CL_CF_SD_month_overlap": "Hãy đảm bảo rằng các tháng đã chọn không chồng chéo nhau.",
     "CL_CF_AS_start_download": "Bắt đầu tải xuống",
     "CL_DV_OV_try_following_solutions": "Để kết nối lại lò nướng, hãy thử các giải pháp sau:",
@@ -6885,5 +6885,5 @@
     "CL_AC_out_self_clean_des_title": "Tự làm sạch ngoài trời",
     "CL_AC_in_self_clean_des_title": "Tự làm sạch trong nhà",
     "CL_AC_out_door_quiet_des_title": "Yên tĩnh ngoài trời",
-    "ai_troubleshooting_no_solutions": "Không tìm thấy thông tin liên quan đến lỗi bạn đang gặp phải. \nVui lòng báo cáo sự cố."
+    "ai_troubleshooting_none_right_solutions": "Nếu không có giải pháp nào ở trên giải quyết được vấn đề của bạn, bạn có thể thử diễn đạt lại hoặc báo cáo sự cố."
 }

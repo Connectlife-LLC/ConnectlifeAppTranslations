@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "Buscando soluciones",
     "possible_solutions": "Posibles soluciones",
     "load_more_potential_solutions": "cargar más soluciones potenciales",
-    "ai_troubleshooting_none_solutions": "Lamentamos que sigas teniendo problemas. Si las soluciones anteriores no resuelven tu problema, intenta reformular tu pregunta o reporta el problema para que podamos ayudarte.",
+    "ai_troubleshooting_none_solutions": "Si ninguna de las soluciones anteriores resuelve su problema, puede intentar reformularlo o informar el problema.",
     "ai_troubleshooting_bottom_tip2": "Las soluciones y sugerencias de IA podrían no ser precisas. Contacte con el equipo de soporte si necesita más ayuda. Se aplican <u> y condiciones </u>",
     "describe_your_issue": "Describe tu problema",
     "issue_solved": "Problema resuelto",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "CONCENTRACIÓN DE DETERGENTE",
     "CL_WM_CM_change_temperature": "Cambiar temperatura",
     "CL_DV_DW_dw60c_remote_disable": "El inicio remoto está desactivado en su dispositivo. Para iniciar el programa desde la aplicación ConnectLife, habilite el inicio remoto en el dispositivo. Consulte el manual del usuario para obtener instrucciones. ",
-    "ai_troubleshooting_try_again": "Lo sentimos, pero no encontramos una solución. Inténtalo de nuevo o informa del problema para que podamos ayudarte.",
+    "ai_troubleshooting_try_again": "No se encontró información relevante. Intente reformular el texto o reportar el problema.",
     "CL_CF_UC_ru_login_tip_title": "TE FUERON NEGADOS",
     "CL_CF_UC_ru_login_tip_content": "Su inicio de sesión ha sido denegado debido a un intento de acceso desde un país o región en el que este producto o servicio no está disponible; configure el país de su teléfono para que coincida con el real y vuelva a intentarlo.",
     "CL_DV_AC_temp_min_content": "La unidad ha alcanzado su temperatura mínima.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Mantenga presionado el ícono de Wi-Fi durante aproximadamente 5 segundos. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Mantenga presionado el ícono de Wi-Fi durante aproximadamente 5 segundos hasta que aparezca \"Con\" en la pantalla.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Desliza hacia la izquierda para ir a \"PAI\". Has entrado en el menú de emparejamiento. Ahora puedes continuar en la aplicación tocando el botón SIGUIENTE que aparece a continuación.",
-    "ai_troubleshooting_error_try_again": "Lo sentimos, pero no encontramos una solución. Inténtalo de nuevo o informa del problema para que podamos ayudarte.",
+    "ai_troubleshooting_error_try_again": "No se encontró información relevante para el error que está experimentando. \nPor favor, informe el problema.",
     "CL_CF_SD_month_overlap": "Asegúrese de que los meses seleccionados no se superpongan.",
     "CL_CF_AS_start_download": "Iniciar la descarga",
     "CL_DV_OV_try_following_solutions": "Para volver a conectar su horno, pruebe las siguientes soluciones:",
@@ -6885,5 +6885,5 @@
     "CL_AC_out_self_clean_des_title": "Autolimpieza exterior",
     "CL_AC_in_self_clean_des_title": "Autolimpieza en interiores",
     "CL_AC_out_door_quiet_des_title": "Tranquilidad al aire libre",
-    "ai_troubleshooting_no_solutions": "No se encontró información relevante para el error que está experimentando. \nPor favor, informe el problema."
+    "ai_troubleshooting_none_right_solutions": "Si ninguna de las soluciones anteriores resuelve su problema, puede intentar reformularlo o informar el problema."
 }

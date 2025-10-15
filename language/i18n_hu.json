@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "megoldások keresése",
     "possible_solutions": "lehetséges megoldások",
     "load_more_potential_solutions": "több lehetséges megoldást betölteni",
-    "ai_troubleshooting_none_solutions": "Sajnáljuk, hogy továbbra is problémái vannak. Ha a fenti megoldások nem oldják meg a problémát, kérjük, próbálja meg átfogalmazni a kérdését, vagy jelentse a problémát, hogy további segítséget tudjunk nyújtani.",
+    "ai_troubleshooting_none_solutions": "Ha a fenti megoldások egyike sem oldja meg a problémát, megpróbálhatja átfogalmazni vagy jelenteni a problémát.",
     "ai_troubleshooting_bottom_tip2": "Előfordulhat, hogy az AI-megoldások és javaslatok nem pontosak. Ha további segítségre van szüksége, lépjen kapcsolatba az ügyfélszolgálattal. <u> Általános Szerződési Feltételek </u> érvényesek.",
     "describe_your_issue": "írja le a problémáját",
     "issue_solved": "probléma megoldva",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "MOSÓSZER-KONCENTRÁCIÓ",
     "CL_WM_CM_change_temperature": "Változtassa meg a hőmérsékletet",
     "CL_DV_DW_dw60c_remote_disable": "A távoli indítás le van tiltva az eszközön. A program ConnectLife alkalmazásból való indításához engedélyezze a távoli indítást magán az eszközön. Az utasításokat a felhasználói kézikönyvben találja. ",
-    "ai_troubleshooting_try_again": "Sajnáljuk, de nem találtunk megoldást. Kérjük, próbáld újra, vagy jelentsd a problémát, hogy segíthessünk.",
+    "ai_troubleshooting_try_again": "Nem találtunk releváns információt. Kérjük, próbálja meg átfogalmazni vagy jelenteni a problémát.",
     "CL_CF_UC_ru_login_tip_title": "MEGTAGADTAK",
     "CL_CF_UC_ru_login_tip_content": "Bejelentkezését megtagadták, mert olyan országból vagy régióból próbáltak elérni, ahol ez a termék vagy szolgáltatás nem érhető el. Kérjük, állítsa be telefonja országát úgy, hogy megegyezzen a tényleges országgal, majd próbálja újra.",
     "CL_DV_AC_temp_min_content": "A készülék elérte a minimális hőmérsékletet.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Érintse meg és tartsa lenyomva a Wi-Fi ikont körülbelül 5 másodpercig. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Érintse meg és tartsa lenyomva a Wi-Fi ikont körülbelül 5 másodpercig, amíg a „Con” meg nem jelenik a kijelzőn.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Csúsztassa balra a „PAI” megnyitásához. Belépett a párosítás menübe. Most már folytathatja az alkalmazásban az alábbi NEXT gomb megérintésével.",
-    "ai_troubleshooting_error_try_again": "Sajnáljuk, de nem találtunk megoldást. Kérjük, próbáld újra, vagy jelentsd a problémát, hogy segíthessünk.",
+    "ai_troubleshooting_error_try_again": "Nem találtunk releváns információt a tapasztalt hibához. \nKérjük, jelentse a problémát.",
     "CL_CF_SD_month_overlap": "Ügyeljen arra, hogy a kiválasztott hónapok ne fedjék egymást.",
     "CL_CF_AS_start_download": "Indítsa el a letöltést",
     "CL_DV_OV_try_following_solutions": "A sütő újracsatlakoztatásához próbálja meg a következő megoldásokat:",
@@ -6885,5 +6885,5 @@
     "CL_AC_out_self_clean_des_title": "Kültéri öntisztulás",
     "CL_AC_in_self_clean_des_title": "Beltéri öntisztítás",
     "CL_AC_out_door_quiet_des_title": "Kültéri csend",
-    "ai_troubleshooting_no_solutions": "Nem találtunk releváns információt a tapasztalt hibához. \nKérjük, jelentse a problémát."
+    "ai_troubleshooting_none_right_solutions": "Ha a fenti megoldások egyike sem oldja meg a problémát, megpróbálhatja átfogalmazni vagy jelenteni a problémát."
 }
