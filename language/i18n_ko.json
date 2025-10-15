@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "해결책을 찾고 있다",
     "possible_solutions": "가능한 해결책",
     "load_more_potential_solutions": "더 많은 잠재적 솔루션을 로드합니다",
-    "ai_troubleshooting_none_solutions": "여전히 문제가 발생하셨다니 죄송합니다. 위의 해결 방법으로도 문제가 해결되지 않으면 질문을 다시 작성해 보시거나 문제를 신고해 주시면 추가로 도와드리겠습니다.",
+    "ai_troubleshooting_none_solutions": "위의 해결 방법으로도 문제가 해결되지 않으면 문제를 다시 표현하거나 보고해 보세요.",
     "ai_troubleshooting_bottom_tip2": "AI 솔루션과 제안은 정확하지 않을 수 있습니다. 추가 지원이 필요한 경우 지원팀에 문의하세요. <u> 이용 약관 </u> 이 적용됩니다.",
     "describe_your_issue": "문제를 설명하세요",
     "issue_solved": "문제 해결됨",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "세제 농도",
     "CL_WM_CM_change_temperature": "온도 변경",
     "CL_DV_DW_dw60c_remote_disable": "기기에서 원격 시작이 비활성화되어 있습니다. ConnectLife 앱에서 프로그램을 시작하려면 기기 자체에서 원격 시작을 활성화하세요. 지침은 사용 설명서를 확인하세요. ",
-    "ai_troubleshooting_try_again": "죄송하지만 해결책을 찾을 수 없습니다. 다시 시도하거나 문제를 신고해 주시면 도와드리겠습니다.",
+    "ai_troubleshooting_try_again": "관련 정보를 찾을 수 없습니다. 내용을 수정하거나 문제를 신고해 주세요.",
     "CL_CF_UC_ru_login_tip_title": "당신은 거부당했습니다",
     "CL_CF_UC_ru_login_tip_content": "이 제품 또는 서비스를 이용할 수 없는 국가 또는 지역에서 액세스를 시도하여 로그인이 거부되었습니다. 휴대폰의 국가를 실제 국가와 일치하도록 설정한 후 다시 시도하세요.",
     "CL_DV_AC_temp_min_content": "장치가 최소 온도에 도달했습니다.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Wi-Fi 아이콘을 약 5초간 탭하여 길게 누릅니다. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "'Con'이 디스플레이에 나타날 때까지 약 5초간 Wi-Fi 아이콘을 탭하여 길게 누릅니다.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "왼쪽으로 슬라이드하여 'PAI'로 이동합니다. 페어링 메뉴에 들어갔습니다. 이제 아래의 NEXT 버튼을 탭하여 앱에서 진행할 수 있습니다.",
-    "ai_troubleshooting_error_try_again": "죄송하지만 해결책을 찾을 수 없습니다. 다시 시도하거나 문제를 신고해 주시면 도와드리겠습니다.",
+    "ai_troubleshooting_error_try_again": "발생한 오류에 대한 관련 정보를 찾을 수 없습니다. \n문제를 보고해 주세요.",
     "CL_CF_SD_month_overlap": "선택한 달이 겹치지 않도록 주의하세요.",
     "CL_CF_AS_start_download": "다운로드를 시작하세요",
     "CL_DV_OV_try_following_solutions": "오븐을 다시 연결하려면 다음 해결책을 시도해 보세요.",
@@ -6885,5 +6885,5 @@
     "CL_AC_out_self_clean_des_title": "야외 자체 세척",
     "CL_AC_in_self_clean_des_title": "실내 자체 청소",
     "CL_AC_out_door_quiet_des_title": "야외 조용함",
-    "ai_troubleshooting_no_solutions": "발생한 오류에 대한 관련 정보를 찾을 수 없습니다. \n문제를 보고해 주세요."
+    "ai_troubleshooting_none_right_solutions": "위의 해결 방법으로도 문제가 해결되지 않으면, 문제를 다시 표현하거나 보고해 보세요."
 }
