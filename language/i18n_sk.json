@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "hľadanie riešení",
     "possible_solutions": "možné riešenia",
     "load_more_potential_solutions": "načítať viac potenciálnych riešení",
-    "ai_troubleshooting_none_solutions": "Je nám ľúto, že stále máte problémy. Ak vyššie uvedené riešenia váš problém nevyriešia, skúste preformulovať svoju otázku alebo nahlásiť problém, aby sme vám mohli ďalej pomôcť.",
+    "ai_troubleshooting_none_solutions": "Ak žiadne z vyššie uvedených riešení váš problém nevyrieši, môžete skúsiť problém preformulovať alebo nahlásiť.",
     "ai_troubleshooting_bottom_tip2": "Riešenia a návrhy AI nemusia byť presné. V prípade potreby ďalšej pomoci kontaktujte podporu. Platia <u> zmluvné podmienky </u>.",
     "describe_your_issue": "popíšte svoj problém",
     "issue_solved": "problém vyriešený",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "KONCENTRÁCIA DETERGENTU",
     "CL_WM_CM_change_temperature": "Zmeňte teplotu",
     "CL_DV_DW_dw60c_remote_disable": "Vzdialený štart je na vašom zariadení vypnutý. Ak chcete spustiť program z aplikácie ConnectLife, povoľte vzdialené spustenie na samotnom zariadení. Pokyny nájdete v používateľskej príručke. ",
-    "ai_troubleshooting_try_again": "Je nám ľúto, ale nenašli sme riešenie. Skúste to znova alebo nahláste problém, aby sme vám mohli pomôcť.",
+    "ai_troubleshooting_try_again": "Nenašli sa žiadne relevantné informácie. Skúste to preformulovať alebo nahlásiť problém.",
     "CL_CF_UC_ru_login_tip_title": "BOLI VÁM ZAMIETNUTÉ",
     "CL_CF_UC_ru_login_tip_content": "Vaše prihlásenie bolo odmietnuté z dôvodu pokusu o prístup z krajiny alebo regiónu, v ktorom tento produkt alebo služba nie je dostupná. Nastavte krajinu svojho telefónu tak, aby sa zhodovala so skutočnou krajinou a skúste to znova.",
     "CL_DV_AC_temp_min_content": "Jednotka dosiahla minimálnu teplotu.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Klepnite na ikonu Wi-Fi a podržte ju približne 5 sekúnd. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Klepnite na ikonu Wi-Fi a podržte ju približne 5 sekúnd, kým sa na displeji nezobrazí „Con“.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Posunutím doľava prejdite na „PAI“. Vstúpili ste do ponuky párovania. Teraz môžete pokračovať v aplikácii klepnutím na tlačidlo NEXT nižšie.",
-    "ai_troubleshooting_error_try_again": "Je nám ľúto, ale nenašli sme riešenie. Skúste to znova alebo nahláste problém, aby sme vám mohli pomôcť.",
+    "ai_troubleshooting_error_try_again": "Pre chybu, s ktorou sa stretávate, sa nenašli žiadne relevantné informácie. \nNahláste problém.",
     "CL_CF_SD_month_overlap": "Uistite sa, že sa vybrané mesiace neprekrývajú.",
     "CL_CF_AS_start_download": "Spustite sťahovanie",
     "CL_DV_OV_try_following_solutions": "Ak chcete rúru znova pripojiť, vyskúšajte nasledujúce riešenia:",
@@ -6885,5 +6885,5 @@
     "CL_AC_out_self_clean_des_title": "Vonkajšie samočistenie",
     "CL_AC_in_self_clean_des_title": "Samočistenie v interiéri",
     "CL_AC_out_door_quiet_des_title": "Ticho vonku",
-    "ai_troubleshooting_no_solutions": "Pre chybu, s ktorou sa stretávate, sa nenašli žiadne relevantné informácie. \nNahláste problém."
+    "ai_troubleshooting_none_right_solutions": "Ak žiadne z vyššie uvedených riešení nevyrieši váš problém, môžete skúsiť preformulovať alebo nahlásiť problém."
 }
