@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "iskanje rešitev",
     "possible_solutions": "možne rešitve",
     "load_more_potential_solutions": "naloži več potencialnih rešitev",
-    "ai_troubleshooting_none_solutions": "Žal nam je, da imate še vedno težave. Če zgornje rešitve ne odpravijo vaše težave, poskusite preoblikovati vprašanje ali prijavite težavo, da vam bomo lahko še dodatno pomagali.",
+    "ai_troubleshooting_none_solutions": "Če nobena od zgornjih rešitev ne odpravi vaše težave, lahko poskusite preoblikovati besedilo ali prijaviti težavo.",
     "ai_troubleshooting_bottom_tip2": "Rešitve in predlogi AI morda niso točni. Če potrebujete dodatno pomoč, se obrnite na podporo. Veljajo <u> določila in pogoji </u>.",
     "describe_your_issue": "opišite svojo težavo",
     "issue_solved": "težava rešena",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "KONCENTRACIJA DETERGENTA",
     "CL_WM_CM_change_temperature": "Spremenite temperaturo",
     "CL_DV_DW_dw60c_remote_disable": "Oddaljeni zagon je na vaši napravi onemogočen. Za zagon programa iz aplikacije ConnectLife omogočite oddaljeni zagon na sami napravi. Za navodila preverite uporabniški priročnik. ",
-    "ai_troubleshooting_try_again": "Žal nam je, vendar nismo našli rešitve. Poskusite znova ali prijavite težavo, da vam lahko pomagamo.",
+    "ai_troubleshooting_try_again": "Ni najdenih ustreznih informacij. Poskusite preoblikovati ali prijaviti težavo.",
     "CL_CF_UC_ru_login_tip_title": "ZAVRNJENI STE BILI",
     "CL_CF_UC_ru_login_tip_content": "Vaša prijava je bila zavrnjena zaradi poskusa dostopa iz države ali regije, v kateri ta izdelek ali storitev nista na voljo. Nastavite državo telefona tako, da se ujema z dejansko državo, in poskusite znova.",
     "CL_DV_AC_temp_min_content": "Enota je dosegla najnižjo temperaturo.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Tapnite ikono Wi-Fi in jo držite približno 5 sekund. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Tapnite ikono Wi-Fi in jo držite približno 5 sekund, dokler se na zaslonu ne prikaže 'Con'.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Podrsajte v levo, da odprete 'PAI'. Vstopili ste v meni za seznanjanje. Zdaj lahko nadaljujete v aplikaciji tako, da tapnete spodnji gumb NAPREJ.",
-    "ai_troubleshooting_error_try_again": "Žal nam je, vendar nismo našli rešitve. Poskusite znova ali prijavite težavo, da vam lahko pomagamo.",
+    "ai_troubleshooting_error_try_again": "Za napako, ki jo imate, ni bilo najdenih ustreznih informacij. \nProsimo, prijavite težavo.",
     "CL_CF_SD_month_overlap": "Pazite, da se izbrani meseci ne prekrivajo.",
     "CL_CF_AS_start_download": "Zaženite prenos",
     "CL_DV_OV_try_following_solutions": "Za ponovno priključitev pečice poskusite naslednje rešitve:",
@@ -6885,5 +6885,6 @@
     "CL_AC_out_self_clean_des_title": "Samočiščenje na prostem",
     "CL_AC_in_self_clean_des_title": "Samočiščenje v zaprtih prostorih",
     "CL_AC_out_door_quiet_des_title": "Tišina na prostem",
-    "ai_troubleshooting_no_solutions": "Za napako, ki jo imate, ni bilo najdenih ustreznih informacij. \nProsimo, prijavite težavo."
+    "ai_troubleshooting_none_right_solutions": "Če nobena od zgornjih rešitev ne reši vaše težave, lahko poskusite preoblikovati ali prijaviti težavo.",
+    "CL_AC_headlth_wind_des": "Stranske lopatice ostanejo pri miru, da se prepreči prepih, s tihim pretokom zraka in sterilizacijo Hi-Nano."
 }

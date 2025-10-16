@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "poszukiwanie rozwiązań",
     "possible_solutions": "możliwe rozwiązania",
     "load_more_potential_solutions": "załaduj więcej potencjalnych rozwiązań",
-    "ai_troubleshooting_none_solutions": "Przykro nam, że nadal masz problem. Jeśli powyższe rozwiązania nie rozwiążą Twojego problemu, spróbuj inaczej sformułować pytanie lub zgłoś problem, abyśmy mogli Ci pomóc.",
+    "ai_troubleshooting_none_solutions": "Jeśli żadne z powyższych rozwiązań nie rozwiązało Twojego problemu, możesz spróbować sformułować go inaczej lub zgłosić problem.",
     "ai_troubleshooting_bottom_tip2": "Rozwiązania i sugestie AI mogą być niedokładne. Skontaktuj się z pomocą techniczną, jeśli potrzebujesz dalszej pomocy. Obowiązują <u> Warunki </u>.",
     "describe_your_issue": "opisz swój problem",
     "issue_solved": "problem rozwiązany",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "STĘŻENIE DETERGENTU",
     "CL_WM_CM_change_temperature": "Zmień temperaturę",
     "CL_DV_DW_dw60c_remote_disable": "Zdalne uruchamianie jest wyłączone na Twoim urządzeniu. Aby uruchomić program z aplikacji ConnectLife, włącz zdalne uruchamianie na samym urządzeniu. Sprawdź instrukcję obsługi, aby uzyskać instrukcje. ",
-    "ai_troubleshooting_try_again": "Przepraszamy, ale nie znaleźliśmy rozwiązania. Spróbuj ponownie lub zgłoś problem, abyśmy mogli Ci pomóc.",
+    "ai_troubleshooting_try_again": "Nie znaleziono istotnych informacji. Spróbuj sformułować problem inaczej lub go zgłosić.",
     "CL_CF_UC_ru_login_tip_title": "ODMÓWIONO CI",
     "CL_CF_UC_ru_login_tip_content": "Logowanie zostało odrzucone z powodu próby dostępu z kraju lub regionu, w którym ten produkt lub usługa nie jest dostępna. Ustaw kraj w telefonie zgodnie z rzeczywistym krajem i spróbuj ponownie.",
     "CL_DV_AC_temp_min_content": "Urządzenie osiągnęło minimalną temperaturę.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Dotknij ikony Wi-Fi i przytrzymaj ją przez około 5 sekund. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Dotknij ikony Wi-Fi i przytrzymaj ją przez około 5 sekund, aż na wyświetlaczu pojawi się napis „Con”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Przesuń w lewo, aby przejść do „PAI”. Wszedłeś do menu parowania. Teraz możesz kontynuować w aplikacji, dotykając przycisku DALEJ poniżej.",
-    "ai_troubleshooting_error_try_again": "Przepraszamy, ale nie znaleźliśmy rozwiązania. Spróbuj ponownie lub zgłoś problem, abyśmy mogli Ci pomóc.",
+    "ai_troubleshooting_error_try_again": "Nie znaleziono żadnych istotnych informacji na temat występującego błędu. \nZgłoś problem.",
     "CL_CF_SD_month_overlap": "Upewnij się, że wybrane miesiące nie nakładają się na siebie.",
     "CL_CF_AS_start_download": "Rozpocznij pobieranie",
     "CL_DV_OV_try_following_solutions": "Aby ponownie podłączyć piekarnik, wypróbuj następujące rozwiązania:",
@@ -6885,5 +6885,6 @@
     "CL_AC_out_self_clean_des_title": "Samoczyszczące na zewnątrz",
     "CL_AC_in_self_clean_des_title": "Samoczyszczące się wnętrze",
     "CL_AC_out_door_quiet_des_title": "Cisza na zewnątrz",
-    "ai_troubleshooting_no_solutions": "Nie znaleziono żadnych istotnych informacji na temat występującego błędu. \nZgłoś problem."
+    "ai_troubleshooting_none_right_solutions": "Jeśli żadne z powyższych rozwiązań nie pomoże w rozwiązaniu Twojego problemu, spróbuj sformułować go inaczej lub zgłosić problem.",
+    "CL_AC_headlth_wind_des": "Boczne żaluzje pozostają nieruchome, zapobiegając przeciągom, zapewniając cichy przepływ powietrza i sterylizację Hi-Nano."
 }
