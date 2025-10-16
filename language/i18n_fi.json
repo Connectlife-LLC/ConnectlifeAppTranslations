@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "ratkaisuja etsimässä",
     "possible_solutions": "mahdollisia ratkaisuja",
     "load_more_potential_solutions": "lataa lisää mahdollisia ratkaisuja",
-    "ai_troubleshooting_none_solutions": "Olemme pahoillamme, että sinulla on edelleen ongelmia. Jos yllä olevat ratkaisut eivät ratkaise ongelmaasi, yritä muotoilla kysymyksesi uudelleen tai ilmoita ongelmasta, jotta voimme auttaa sinua lisää.",
+    "ai_troubleshooting_none_solutions": "Jos mikään yllä olevista ratkaisuista ei ratkaise ongelmaasi, voit yrittää muotoilla ongelman uudelleen tai ilmoittaa siitä.",
     "ai_troubleshooting_bottom_tip2": "Tekoälyratkaisut ja ehdotukset eivät välttämättä ole tarkkoja. Ota yhteyttä tukeen, jos tarvitset lisäapua. <u> Ehdot </u> ovat voimassa.",
     "describe_your_issue": "kuvaile ongelmaasi",
     "issue_solved": "ongelma ratkaistu",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "PESUAINEKONSENTRAATIO",
     "CL_WM_CM_change_temperature": "Muuta lämpötilaa",
     "CL_DV_DW_dw60c_remote_disable": "Etäkäynnistys on poistettu käytöstä laitteessasi. Käynnistä ohjelma ConnectLife-sovelluksesta ottamalla etäkäynnistys käyttöön itse laitteessa. Katso ohjeet käyttöoppaasta. ",
-    "ai_troubleshooting_try_again": "Olemme pahoillamme, mutta emme löytäneet ratkaisua. Yritä uudelleen tai ilmoita ongelmasta, jotta voimme auttaa.",
+    "ai_troubleshooting_try_again": "Ei löytynyt olennaista tietoa. Yritä muotoilla uudelleen tai ilmoittaa ongelmasta.",
     "CL_CF_UC_ru_login_tip_title": "SINUT KIELLETTY",
     "CL_CF_UC_ru_login_tip_content": "Kirjautumisesi on evätty, koska yritettiin käyttää maata tai aluetta, jossa tämä tuote tai palvelu ei ole saatavilla. Aseta puhelimesi maa vastaamaan todellista maata ja yritä uudelleen.",
     "CL_DV_AC_temp_min_content": "Laite on saavuttanut minimilämpötilansa.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Napauta ja pidä Wi-Fi-kuvaketta noin 5 sekunnin ajan. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Napauta Wi-Fi-kuvaketta ja pidä sitä painettuna noin 5 sekunnin ajan, kunnes näytössä näkyy Con.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Liu'uta vasemmalle siirtyäksesi kohtaan \"PAI\". Olet siirtynyt pariliitosvalikkoon. Voit nyt jatkaa sovelluksessa napauttamalla alla olevaa SEURAAVA-painiketta.",
-    "ai_troubleshooting_error_try_again": "Olemme pahoillamme, mutta emme löytäneet ratkaisua. Yritä uudelleen tai ilmoita ongelmasta, jotta voimme auttaa.",
+    "ai_troubleshooting_error_try_again": "Ei löytynyt asiaankuuluvia tietoja kohtaamasi virheen osalta. \nIlmoita ongelmasta.",
     "CL_CF_SD_month_overlap": "Varmista, että valitut kuukaudet eivät mene päällekkäin.",
     "CL_CF_AS_start_download": "Aloita lataus",
     "CL_DV_OV_try_following_solutions": "Liitä uuni uudelleen kokeilemalla seuraavia ratkaisuja:",
@@ -6885,5 +6885,6 @@
     "CL_AC_out_self_clean_des_title": "Ulkotilojen itsepuhdistuva",
     "CL_AC_in_self_clean_des_title": "Sisätilojen itsepuhdistus",
     "CL_AC_out_door_quiet_des_title": "Ulkona hiljaista",
-    "ai_troubleshooting_no_solutions": "Ei löytynyt asiaankuuluvia tietoja kohtaamasi virheen osalta. \nIlmoita ongelmasta."
+    "ai_troubleshooting_none_right_solutions": "Jos mikään yllä olevista ratkaisuista ei ratkaise ongelmaasi, voit yrittää muotoilla ongelman uudelleen tai ilmoittaa siitä.",
+    "CL_AC_headlth_wind_des": "Sivusiivekkeet pysyvät paikoillaan vedon välttämiseksi, hiljainen ilmavirtaus ja Hi-Nano-sterilointi."
 }

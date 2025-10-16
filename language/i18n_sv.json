@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "leta efter lösningar",
     "possible_solutions": "möjliga lösningar",
     "load_more_potential_solutions": "ladda fler potentiella lösningar",
-    "ai_troubleshooting_none_solutions": "Vi beklagar att du fortfarande har problem. Om lösningarna ovan inte löser problemet kan du försöka omformulera din fråga eller rapportera problemet så att vi kan hjälpa dig vidare.",
+    "ai_troubleshooting_none_solutions": "Om ingen av lösningarna ovan löser ditt problem kan du försöka omformulera eller rapportera problemet.",
     "ai_troubleshooting_bottom_tip2": "AI-lösningar och förslag kanske inte är korrekta. Kontakta supporten om ytterligare hjälp behövs. <u> Användarvillkor </u> gäller.",
     "describe_your_issue": "beskriv ditt problem",
     "issue_solved": "problemet löst",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "TVÄTMEDEL KONCENTRATION",
     "CL_WM_CM_change_temperature": "Ändra temperatur",
     "CL_DV_DW_dw60c_remote_disable": "Fjärrstarten är inaktiverad på din enhet. För att starta programmet från ConnectLife-appen, aktivera fjärrstarten på själva enheten. Se bruksanvisningen för instruktioner. ",
-    "ai_troubleshooting_try_again": "Vi beklagar, men vi kunde inte hitta en lösning. Försök igen eller rapportera problemet så att vi kan hjälpa dig.",
+    "ai_troubleshooting_try_again": "Ingen relevant information hittades. Försök att omformulera eller rapportera problemet.",
     "CL_CF_UC_ru_login_tip_title": "DU NEKADES",
     "CL_CF_UC_ru_login_tip_content": "Din inloggning har nekats på grund av försök till åtkomst från ett land eller en region där denna produkt eller tjänst inte är tillgänglig. Ställ in telefonens land så att det matchar det faktiska landet och försök igen.",
     "CL_DV_AC_temp_min_content": "Enheten har nått sin lägsta temperatur.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Tryck och håll ner Wi-Fi-ikonen i cirka 5 sekunder. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Tryck och håll in Wi-Fi-ikonen i cirka 5 sekunder tills 'Con' visas på displayen.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Dra åt vänster för att gå till 'PAI'. Du har kommit in i parningsmenyn. Du kan nu fortsätta i appen genom att trycka på NÄSTA-knappen nedan.",
-    "ai_troubleshooting_error_try_again": "Vi beklagar, men vi kunde inte hitta en lösning. Försök igen eller rapportera problemet så att vi kan hjälpa dig.",
+    "ai_troubleshooting_error_try_again": "Ingen relevant information hittades för felet du upplever. \nVänligen rapportera problemet.",
     "CL_CF_SD_month_overlap": "Se till att de valda månaderna inte överlappar varandra.",
     "CL_CF_AS_start_download": "Starta nedladdningen",
     "CL_DV_OV_try_following_solutions": "För att återansluta ugnen, prova följande lösningar:",
@@ -6885,5 +6885,6 @@
     "CL_AC_out_self_clean_des_title": "Självrengöring utomhus",
     "CL_AC_in_self_clean_des_title": "Självrengöring inomhus",
     "CL_AC_out_door_quiet_des_title": "Tyst utomhus",
-    "ai_troubleshooting_no_solutions": "Ingen relevant information hittades för felet du upplever. \nVänligen rapportera problemet."
+    "ai_troubleshooting_none_right_solutions": "Om ingen av lösningarna ovan löser ditt problem kan du försöka omformulera eller rapportera problemet.",
+    "CL_AC_headlth_wind_des": "Sidolamellerna förblir stilla för att undvika drag, med tyst luftflöde och Hi-Nano-sterilisering."
 }

@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "çözüm arayışı",
     "possible_solutions": "olası çözümler",
     "load_more_potential_solutions": "daha fazla potansiyel çözüm yükleyin",
-    "ai_troubleshooting_none_solutions": "Sorununuzun hala devam ettiğini duyduğumuza üzüldük. Yukarıdaki çözümler sorununuzu çözmezse, lütfen sorunuzu yeniden ifade etmeyi deneyin veya size daha fazla yardımcı olabilmemiz için sorunu bildirin.",
+    "ai_troubleshooting_none_solutions": "Yukarıdaki çözümlerden hiçbiri sorununuzu çözmezse, sorunu yeniden ifade etmeyi veya bildirmeyi deneyebilirsiniz.",
     "ai_troubleshooting_bottom_tip2": "AI çözümleri ve önerileri doğru olmayabilir. Daha fazla yardıma ihtiyaç duyulursa destekle iletişime geçin. <u> Şartlar ve koşullar </u> geçerlidir.",
     "describe_your_issue": "sorununuzu açıklayın",
     "issue_solved": "sorun çözüldü",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "DETERJAN KONSANTRASYONU",
     "CL_WM_CM_change_temperature": "Sıcaklığı değiştir",
     "CL_DV_DW_dw60c_remote_disable": "Cihazınızda uzaktan başlatma devre dışı bırakıldı. Programı ConnectLife uygulamasından başlatmak için, cihazın kendisinde uzaktan başlatmayı etkinleştirin. Talimatlar için kullanıcı kılavuzuna bakın. ",
-    "ai_troubleshooting_try_again": "Üzgünüz, bir çözüm bulamadık. Lütfen tekrar deneyin veya sorunu bildirin, böylece size yardımcı olabiliriz.",
+    "ai_troubleshooting_try_again": "İlgili bilgi bulunamadı. Lütfen sorunu yeniden ifade etmeyi veya bildirmeyi deneyin.",
     "CL_CF_UC_ru_login_tip_title": "REDDEDİLDİNİZ",
     "CL_CF_UC_ru_login_tip_content": "Bu ürün veya hizmetin mevcut olmadığı bir ülke veya bölgeden erişim girişimi nedeniyle oturum açma işleminiz reddedildi. Lütfen telefonunuzun ülkesini gerçek ülkeyle eşleşecek şekilde ayarlayın ve tekrar deneyin.",
     "CL_DV_AC_temp_min_content": "Ünite minimum sıcaklığına ulaştı.",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Wi-Fi simgesine yaklaşık 5 saniye basılı tutun. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Ekranda 'Con' yazısı görünene kadar Wi-Fi simgesine yaklaşık 5 saniye basılı tutun.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "'PAI'ye gitmek için sola kaydırın. Eşleştirme menüsüne girdiniz. Şimdi aşağıdaki SONRAKİ düğmesine dokunarak uygulamada devam edebilirsiniz.",
-    "ai_troubleshooting_error_try_again": "Üzgünüz, bir çözüm bulamadık. Lütfen tekrar deneyin veya sorunu bildirin, böylece size yardımcı olabiliriz.",
+    "ai_troubleshooting_error_try_again": "Yaşadığınız hatayla ilgili ilgili bilgi bulunamadı. \nLütfen sorunu bildirin.",
     "CL_CF_SD_month_overlap": "Lütfen seçtiğiniz ayların çakışmamasına dikkat edin.",
     "CL_CF_AS_start_download": "İndirmeyi başlat",
     "CL_DV_OV_try_following_solutions": "Fırınınızı yeniden bağlamak için aşağıdaki çözümleri deneyin:",
@@ -6885,5 +6885,6 @@
     "CL_AC_out_self_clean_des_title": "Açık havada kendi kendini temizleme",
     "CL_AC_in_self_clean_des_title": "Kapalı alanda kendi kendini temizleme",
     "CL_AC_out_door_quiet_des_title": "Açık havada sessizlik",
-    "ai_troubleshooting_no_solutions": "Yaşadığınız hatayla ilgili ilgili bilgi bulunamadı. \nLütfen sorunu bildirin."
+    "ai_troubleshooting_none_right_solutions": "Yukarıdaki çözümlerden hiçbiri sorununuzu çözmezse, sorunu yeniden ifade etmeyi veya bildirmeyi deneyebilirsiniz.",
+    "CL_AC_headlth_wind_des": "Yan kanatlar, cereyanı önlemek için hareketsiz kalır, sessiz hava akışı ve Hi-Nano sterilizasyonu sağlar."
 }
