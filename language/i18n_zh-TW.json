@@ -4703,7 +4703,7 @@
     "searching_for_solutions": "尋找解決方案",
     "possible_solutions": "可能的解決方案",
     "load_more_potential_solutions": "載入更多潛在的解決方案",
-    "ai_troubleshooting_none_solutions": "很抱歉，您仍然遇到問題。如果上述解決方案無法解決您的問題，請嘗試重新表達您的問題或回報問題，以便我們進一步為您提供協助。",
+    "ai_troubleshooting_none_solutions": "如果上述解決方案都無法解決您的問題，您可以嘗試重新表達或報告該問題。",
     "ai_troubleshooting_bottom_tip2": "AI的解決方案和建議可能不準確。如果需要進一步協助，請聯絡支援人員。 <u>條款與條件</u>適用。",
     "describe_your_issue": "描述您的問題",
     "issue_solved": "問題已解決",
@@ -4792,7 +4792,7 @@
     "CL_WM_CM_detergent_concentration": "洗滌劑濃度",
     "CL_WM_CM_change_temperature": "改變溫度",
     "CL_DV_DW_dw60c_remote_disable": "您的裝置上禁用了遠端啟動。若要從 ConnectLife 應用程式啟動程序，請在裝置本身上啟用遠端啟動。請查看使用者手冊以取得說明。 ",
-    "ai_troubleshooting_try_again": "很抱歉，我們找不到解決方案。請重試或回報問題，以便我們提供協助。",
+    "ai_troubleshooting_try_again": "未找到相關資訊。請嘗試重新表達或回報該問題。",
     "CL_CF_UC_ru_login_tip_title": "你被拒絕了",
     "CL_CF_UC_ru_login_tip_content": "由於嘗試從無法使用此產品或服務的國家或地區進行訪問，您的登入被拒絕，請將您手機的國家/地區設定為與實際國家一致，然後重試。",
     "CL_DV_AC_temp_min_content": "設備已達到最低溫度。",
@@ -4821,7 +4821,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "點擊並按住 Wi-Fi 圖示約 5 秒鐘。 ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "點擊並按住 Wi-Fi 圖示約 5 秒鐘，直到顯示幕上出現「Con」。",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "向左滑動前往「PAI」。您已進入配對選單。現在您可以點擊下面的“下一步”按鈕繼續應用程式。",
-    "ai_troubleshooting_error_try_again": "很抱歉，我們找不到解決方案。請重試或回報問題，以便我們提供協助。",
+    "ai_troubleshooting_error_try_again": "未找到與您遇到的錯誤相關資訊。\n請回報此問題。",
     "CL_CF_SD_month_overlap": "請確保所選月份不重疊。",
     "CL_CF_AS_start_download": "開始下載",
     "CL_DV_OV_try_following_solutions": "若要重新連接烤箱，請嘗試以下解決方案：",
@@ -6885,5 +6885,6 @@
     "CL_AC_out_self_clean_des_title": "戶外自清潔",
     "CL_AC_in_self_clean_des_title": "室內自清潔",
     "CL_AC_out_door_quiet_des_title": "戶外安靜",
-    "ai_troubleshooting_no_solutions": "未找到與您遇到的錯誤相關資訊。 \n請回報此問題。"
+    "ai_troubleshooting_none_right_solutions": "如果上述解決方案都無法解決您的問題，您可以嘗試重新措詞或報告問題。",
+    "CL_AC_headlth_wind_des": "側葉片保持靜止以避免氣流，具有安靜的氣流和 Hi-Nano 消毒功能。"
 }
