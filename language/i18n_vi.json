@@ -4704,7 +4704,7 @@
     "possible_solutions": "giải pháp khả thi",
     "load_more_potential_solutions": "tải thêm các giải pháp tiềm năng",
     "ai_troubleshooting_none_solutions": "Chúng tôi rất tiếc khi biết bạn vẫn gặp sự cố. Nếu các giải pháp trên không giải quyết được vấn đề của bạn, vui lòng thử diễn đạt lại câu hỏi hoặc báo cáo sự cố để chúng tôi có thể hỗ trợ bạn thêm.",
-    "ai_troubleshooting_bottom_tip2": "Các giải pháp và đề xuất AI có thể không chính xác. Liên hệ với bộ phận hỗ trợ nếu cần thêm trợ giúp. <u> Điều khoản và điều kiện </u> được áp dụng.",
+    "ai_troubleshooting_bottom_tip2": "Các giải pháp và đề xuất AI có thể không chính xác. Vui lòng liên hệ bộ phận hỗ trợ nếu cần thêm trợ giúp. <u> Thỏa thuận cấp phép người dùng cuối </u> được áp dụng.",
     "describe_your_issue": "mô tả vấn đề của bạn",
     "issue_solved": "vấn đề đã được giải quyết",
     "ai_troubleshooting_top_tip": "Tiết kiệm thời gian và công sức với AI khắc phục sự cố! Sau đây là các giải pháp tiềm năng cho lỗi bạn đang gặp phải.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Thiết bị không kết nối được với máy chủ.",
     "CL_CF_CS_solution_password_error": "Đã phát hiện lỗi kết nối với mạng gia đình do nhập sai mật khẩu WiFi. Vui lòng nhập đúng mật khẩu WiFi và thử lại.",
     "CL_CF_CS_solution_can_not_connect_server": "Đã phát hiện kết nối không thành công đến máy chủ. Vui lòng nhấp vào nút \"THỬ LẠI\" để kết nối lại với máy chủ.",
-    "CL_CF_CS_password_error_title": "Thiết bị không thể kết nối với máy chủ."
+    "CL_CF_CS_password_error_title": "Thiết bị không thể kết nối với máy chủ.",
+    "CL_CF_legal_title": "Yêu cầu pháp lý",
+    "CL_CF_legal_content": "Để sử dụng ứng dụng này và nhận các dịch vụ của chúng tôi, bạn phải xác nhận và đồng ý với các điều kiện tiên quyết sau. Nếu bạn không đồng ý, bạn không thể sử dụng ứng dụng.",
+    "CL_CF_legal_terms_cond": "Tôi đã đọc và đồng ý với <b> Điều khoản và điều kiện dành cho người dùng cuối </b>",
+    "CL_CF_legal_privacy_policy": "Tôi đã đọc và đồng ý với <b> Chính sách bảo mật của ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Tôi đã đọc và đồng ý với <b> Thông báo về Đạo luật Dữ liệu EU </b>"
 }

@@ -4704,7 +4704,7 @@
     "possible_solutions": "solusi yang mungkin",
     "load_more_potential_solutions": "memuat lebih banyak solusi potensial",
     "ai_troubleshooting_none_solutions": "Kami mohon maaf atas masalah yang masih Anda alami. Jika solusi di atas tidak menyelesaikan masalah Anda, silakan coba ubah pertanyaan Anda atau laporkan masalahnya agar kami dapat membantu Anda lebih lanjut.",
-    "ai_troubleshooting_bottom_tip2": "Solusi dan saran AI mungkin tidak akurat. Hubungi dukungan jika memerlukan bantuan lebih lanjut. <u> Syarat dan ketentuan </u> berlaku.",
+    "ai_troubleshooting_bottom_tip2": "Solusi dan saran AI mungkin tidak akurat. Hubungi dukungan jika memerlukan bantuan lebih lanjut. <u> Perjanjian Lisensi Pengguna Akhir </u> berlaku.",
     "describe_your_issue": "jelaskan masalah Anda",
     "issue_solved": "Masalah terpecahkan",
     "ai_troubleshooting_top_tip": "Hemat waktu dan tenaga dengan pemecahan masalah AI! Berikut adalah solusi potensial untuk kesalahan yang Anda alami.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Perangkat gagal terhubung ke server.",
     "CL_CF_CS_solution_password_error": "Koneksi ke jaringan rumah yang gagal terdeteksi karena kata sandi WiFi yang dimasukkan salah. Silakan masukkan kata sandi WiFi yang benar dan coba lagi.",
     "CL_CF_CS_solution_can_not_connect_server": "Koneksi ke server yang gagal terdeteksi. Silakan klik tombol \"COBA LAGI\" untuk terhubung kembali ke server.",
-    "CL_CF_CS_password_error_title": "Perangkat tidak dapat terhubung ke server."
+    "CL_CF_CS_password_error_title": "Perangkat tidak dapat terhubung ke server.",
+    "CL_CF_legal_title": "Persyaratan Hukum",
+    "CL_CF_legal_content": "Untuk menggunakan aplikasi ini dan menerima layanan kami, Anda diwajibkan untuk menyetujui dan menyetujui prasyarat berikut. Jika Anda tidak setuju, Anda tidak dapat menggunakan aplikasi ini.",
+    "CL_CF_legal_terms_cond": "Saya telah membaca dan menyetujui <b> Syarat dan ketentuan pengguna akhir </b>",
+    "CL_CF_legal_privacy_policy": "Saya telah membaca dan menyetujui <b> Kebijakan Privasi ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Saya telah membaca dan menyetujui <b> Pemberitahuan Undang-Undang Data Uni Eropa </b>"
 }

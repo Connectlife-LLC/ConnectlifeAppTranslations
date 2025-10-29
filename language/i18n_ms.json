@@ -4704,7 +4704,7 @@
     "possible_solutions": "penyelesaian yang mungkin",
     "load_more_potential_solutions": "memuatkan lebih banyak penyelesaian yang berpotensi",
     "ai_troubleshooting_none_solutions": "Kami kesal mendengar anda masih menghadapi masalah. Jika penyelesaian di atas tidak menyelesaikan isu anda, sila cuba ungkapkan semula soalan anda atau laporkan masalah tersebut supaya kami boleh membantu anda dengan lebih lanjut.",
-    "ai_troubleshooting_bottom_tip2": "Penyelesaian dan cadangan AI mungkin tidak tepat. Hubungi sokongan jika bantuan lanjut diperlukan. <u> Terma dan syarat </u> dikenakan.",
+    "ai_troubleshooting_bottom_tip2": "Penyelesaian dan cadangan AI mungkin tidak tepat. Hubungi sokongan jika bantuan lanjut diperlukan. <u> Perjanjian Lesen Pengguna Akhir </u> dikenakan.",
     "describe_your_issue": "huraikan isu anda",
     "issue_solved": "isu selesai",
     "ai_troubleshooting_top_tip": "Jimat masa dan usaha dengan penyelesaian masalah AI! Berikut ialah penyelesaian yang berpotensi untuk ralat yang anda alami.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Peranti gagal menyambung ke pelayan.",
     "CL_CF_CS_solution_password_error": "Sambungan yang gagal ke rangkaian rumah telah dikesan kerana kata laluan WiFi yang salah dimasukkan. Sila masukkan kata laluan WiFi yang betul dan cuba lagi.",
     "CL_CF_CS_solution_can_not_connect_server": "Sambungan yang gagal ke pelayan telah dikesan. Sila klik butang \"CUBA LAGI\" untuk menyambung semula ke pelayan.",
-    "CL_CF_CS_password_error_title": "Peranti tidak boleh menyambung ke pelayan."
+    "CL_CF_CS_password_error_title": "Peranti tidak boleh menyambung ke pelayan.",
+    "CL_CF_legal_title": "Keperluan Undang-undang",
+    "CL_CF_legal_content": "Untuk menggunakan aplikasi ini dan menerima perkhidmatan kami, anda dikehendaki untuk mengakui dan bersetuju menerima prasyarat berikut. Jika anda tidak bersetuju, anda tidak boleh menggunakan aplikasinya.",
+    "CL_CF_legal_terms_cond": "Saya telah membaca dan bersetuju menerima <b> terma dan syarat pengguna akhir </b>",
+    "CL_CF_legal_privacy_policy": "Saya telah membaca dan bersetuju menerima <b> Dasar privasi ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Saya telah membaca dan bersetuju menerima <b> Pemberitahuan Akta Data EU </b>"
 }

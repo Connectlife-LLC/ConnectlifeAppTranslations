@@ -4704,7 +4704,7 @@
     "possible_solutions": "moguća rješenja",
     "load_more_potential_solutions": "učitati više potencijalnih rješenja",
     "ai_troubleshooting_none_solutions": "Žao nam je što i dalje imate problema. Ako gore navedena rješenja ne riješe vaš problem, pokušajte preformulirati pitanje ili prijavite problem kako bismo vam mogli dodatno pomoći.",
-    "ai_troubleshooting_bottom_tip2": "AI rješenja i prijedlozi možda nisu točni. Kontaktirajte podršku ako je potrebna dodatna pomoć. Primjenjuju se <u> Uvjeti i odredbe </u>.",
+    "ai_troubleshooting_bottom_tip2": "Rješenja i prijedlozi umjetne inteligencije možda neće biti točni. Obratite se podršci ako vam je potrebna dodatna pomoć. Primjenjuje se <u> Ugovor o licenci za krajnjeg korisnika </u>.",
     "describe_your_issue": "opišite svoj problem",
     "issue_solved": "problem riješen",
     "ai_troubleshooting_top_tip": "Uštedite vrijeme i trud uz AI rješavanje problema! Ovdje su moguća rješenja za pogrešku s kojom se susrećete.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Uređaj se nije uspio povezati sa serverom.",
     "CL_CF_CS_solution_password_error": "Otkrivena je neuspješna veza s kućnom mrežom zbog unesene netočne WiFi lozinke. Unesite ispravnu WiFi lozinku i pokušajte ponovno.",
     "CL_CF_CS_solution_can_not_connect_server": "Otkrivena je neuspješna veza sa serverom. Kliknite gumb \"POKUŠAJ PONOVO\" da biste se ponovno povezali sa serverom.",
-    "CL_CF_CS_password_error_title": "Uređaj se ne može povezati sa serverom."
+    "CL_CF_CS_password_error_title": "Uređaj se ne može povezati sa serverom.",
+    "CL_CF_legal_title": "Pravni zahtjevi",
+    "CL_CF_legal_content": "Da biste koristili ovu aplikaciju i primali naše usluge, morate prihvatiti i prihvatiti sljedeće preduvjete. Ako se ne slažete, ne možete koristiti aplikaciju.",
+    "CL_CF_legal_terms_cond": "Pročitao/la sam i slažem se s <b> Uvjetima korištenja za krajnjeg korisnika </b>",
+    "CL_CF_legal_privacy_policy": "Pročitao/la sam i slažem se s <b> Politikom privatnosti ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Pročitao/la sam i slažem se s <b> Obavijesti o Zakonu EU o podacima </b>"
 }

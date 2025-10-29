@@ -1089,7 +1089,7 @@
     "ambient_lights": "Ambientalna osvetlitev",
     "selected_colour": "Izberite barvo ambientalne osvetlitve",
     "use": "UPORABI",
-    "temperature": "Temperatura",
+    "temperature": "TEMPERATURA",
     "humidity": "VLAŽNOST",
     "save_tip": "Prosimo, vnesite vse podatke",
     "add_photo": "DODAJ FOTOGRAFIJO",
@@ -4704,7 +4704,7 @@
     "possible_solutions": "možne rešitve",
     "load_more_potential_solutions": "naloži več potencialnih rešitev",
     "ai_troubleshooting_none_solutions": "Žal nam je, da imate še vedno težave. Če zgornje rešitve ne odpravijo vaše težave, poskusite preoblikovati vprašanje ali prijavite težavo, da vam bomo lahko še dodatno pomagali.",
-    "ai_troubleshooting_bottom_tip2": "Rešitve in predlogi AI morda niso točni. Če potrebujete dodatno pomoč, se obrnite na podporo. Veljajo <u> določila in pogoji </u>.",
+    "ai_troubleshooting_bottom_tip2": "Rešitve in predlogi umetne inteligence morda niso točni. Za dodatno pomoč se obrnite na podporo. Velja <u> Licenčna pogodba za končnega uporabnika </u>.",
     "describe_your_issue": "opišite svojo težavo",
     "issue_solved": "težava rešena",
     "ai_troubleshooting_top_tip": "Prihranite čas in trud z odpravljanjem težav z umetno inteligenco! Tukaj so možne rešitve za napako, ki jo imate.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Naprava se ni uspela povezati s strežnikom.",
     "CL_CF_CS_solution_password_error": "Zaznana je bila neuspešna povezava z domačim omrežjem zaradi vnesenega napačnega gesla za WiFi. Vnesite pravilno geslo za WiFi in poskusite znova.",
     "CL_CF_CS_solution_can_not_connect_server": "Zaznana je bila neuspešna povezava s strežnikom. Kliknite gumb »POSKUSITE ZNOVA«, da se ponovno povežete s strežnikom.",
-    "CL_CF_CS_password_error_title": "Naprava se ne more povezati s strežnikom."
+    "CL_CF_CS_password_error_title": "Naprava se ne more povezati s strežnikom.",
+    "CL_CF_legal_title": "Pravne zahteve",
+    "CL_CF_legal_content": "Za uporabo te aplikacije in prejemanje naših storitev morate potrditi in se strinjati z naslednjimi predpogoji. Če se ne strinjate, aplikacije ne morete uporabljati.",
+    "CL_CF_legal_terms_cond": "Prebral/a sem in se strinjam s <b> pogoji uporabe za končnega uporabnika </b>",
+    "CL_CF_legal_privacy_policy": "Prebral/a sem in se strinjam s <b> politiko zasebnosti ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Prebral/a sem in se strinjam z <b> Obvestilom o zakonu EU o podatkih </b>"
 }

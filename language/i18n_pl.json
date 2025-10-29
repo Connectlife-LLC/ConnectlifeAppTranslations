@@ -4704,7 +4704,7 @@
     "possible_solutions": "możliwe rozwiązania",
     "load_more_potential_solutions": "załaduj więcej potencjalnych rozwiązań",
     "ai_troubleshooting_none_solutions": "Przykro nam, że nadal masz problem. Jeśli powyższe rozwiązania nie rozwiążą Twojego problemu, spróbuj inaczej sformułować pytanie lub zgłoś problem, abyśmy mogli Ci pomóc.",
-    "ai_troubleshooting_bottom_tip2": "Rozwiązania i sugestie AI mogą być niedokładne. Skontaktuj się z pomocą techniczną, jeśli potrzebujesz dalszej pomocy. Obowiązują <u> Warunki </u>.",
+    "ai_troubleshooting_bottom_tip2": "Rozwiązania i sugestie dotyczące sztucznej inteligencji mogą być niedokładne. W razie potrzeby skontaktuj się z pomocą techniczną. Obowiązuje <u> Umowa licencyjna użytkownika końcowego </u>.",
     "describe_your_issue": "opisz swój problem",
     "issue_solved": "problem rozwiązany",
     "ai_troubleshooting_top_tip": "Oszczędź czas i wysiłek dzięki rozwiązywaniu problemów AI! Oto potencjalne rozwiązania dla błędu, którego doświadczasz.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Urządzenie nie nawiązało połączenia z serwerem.",
     "CL_CF_CS_solution_password_error": "Wykryto nieudane połączenie z siecią domową z powodu wprowadzenia nieprawidłowego hasła Wi-Fi. Wprowadź prawidłowe hasło Wi-Fi i spróbuj ponownie.",
     "CL_CF_CS_solution_can_not_connect_server": "Wykryto nieudane połączenie z serwerem. Kliknij przycisk „SPRÓBUJ PONOWNIE”, aby ponownie połączyć się z serwerem.",
-    "CL_CF_CS_password_error_title": "Urządzenie nie może połączyć się z serwerem."
+    "CL_CF_CS_password_error_title": "Urządzenie nie może połączyć się z serwerem.",
+    "CL_CF_legal_title": "Wymagania prawne",
+    "CL_CF_legal_content": "Aby korzystać z tej aplikacji i naszych usług, musisz zaakceptować poniższe warunki. W przeciwnym razie korzystanie z aplikacji będzie niemożliwe.",
+    "CL_CF_legal_terms_cond": "Przeczytałem i akceptuję <b> Warunki korzystania z usługi dla użytkownika końcowego </b>",
+    "CL_CF_legal_privacy_policy": "Przeczytałem i akceptuję <b> Politykę prywatności ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Przeczytałem(-am) i akceptuję <b> Powiadomienie dotyczące ustawy UE o danych </b>"
 }

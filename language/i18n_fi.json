@@ -4704,7 +4704,7 @@
     "possible_solutions": "mahdollisia ratkaisuja",
     "load_more_potential_solutions": "lataa lisää mahdollisia ratkaisuja",
     "ai_troubleshooting_none_solutions": "Olemme pahoillamme, että sinulla on edelleen ongelmia. Jos yllä olevat ratkaisut eivät ratkaise ongelmaasi, yritä muotoilla kysymyksesi uudelleen tai ilmoita ongelmasta, jotta voimme auttaa sinua lisää.",
-    "ai_troubleshooting_bottom_tip2": "Tekoälyratkaisut ja ehdotukset eivät välttämättä ole tarkkoja. Ota yhteyttä tukeen, jos tarvitset lisäapua. <u> Ehdot </u> ovat voimassa.",
+    "ai_troubleshooting_bottom_tip2": "Tekoälyn ratkaisut ja ehdotukset eivät välttämättä ole tarkkoja. Ota yhteyttä tukeen, jos tarvitset lisäapua. <u> Loppukäyttäjän lisenssisopimus </u> on voimassa.",
     "describe_your_issue": "kuvaile ongelmaasi",
     "issue_solved": "ongelma ratkaistu",
     "ai_troubleshooting_top_tip": "Säästä aikaa ja vaivaa tekoälyn vianmäärityksen avulla! Tässä on mahdollisia ratkaisuja kokemaasi virheeseen.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Laite ei saanut yhteyttä palvelimeen.",
     "CL_CF_CS_solution_password_error": "Kotiverkon yhteys epäonnistui väärän WiFi-salasanan vuoksi. Anna oikea WiFi-salasana ja yritä uudelleen.",
     "CL_CF_CS_solution_can_not_connect_server": "Palvelinyhteys epäonnistui. Yhdistä palvelimeen uudelleen napsauttamalla \"YRITÄ UUDELLEEN\" -painiketta.",
-    "CL_CF_CS_password_error_title": "Laite ei saa yhteyttä palvelimeen."
+    "CL_CF_CS_password_error_title": "Laite ei saa yhteyttä palvelimeen.",
+    "CL_CF_legal_title": "Lakisääteiset vaatimukset",
+    "CL_CF_legal_content": "Käyttääksesi tätä sovellusta ja vastaanottaaksesi palveluitamme sinun on hyväksyttävä seuraavat ehdot. Jos et hyväksy niitä, et voi käyttää sovellusta.",
+    "CL_CF_legal_terms_cond": "Olen lukenut ja hyväksyn <b> Loppukäyttäjän käyttöehdot </b>",
+    "CL_CF_legal_privacy_policy": "Olen lukenut ja hyväksyn <b> ConnectLifen tietosuojakäytännön </b>",
+    "CL_CF_legal_eu_data": "Olen lukenut ja hyväksyn <b> EU:n tietosuojalain ilmoituksen </b>"
 }
