@@ -4704,7 +4704,7 @@
     "possible_solutions": "solutii posibile",
     "load_more_potential_solutions": "încărcați mai multe soluții potențiale",
     "ai_troubleshooting_none_solutions": "Ne pare rău să auzim că întâmpinați în continuare probleme. Dacă soluțiile de mai sus nu rezolvă problema, vă rugăm să încercați să reformulați întrebarea sau să raportați problema pentru a vă putea ajuta în continuare.",
-    "ai_troubleshooting_bottom_tip2": "Este posibil ca soluțiile și sugestiile AI să nu fie corecte. Contactați asistența dacă este nevoie de asistență suplimentară. Se aplică <u> Termenii și condițiile </u>.",
+    "ai_troubleshooting_bottom_tip2": "Este posibil ca soluțiile și sugestiile de inteligență artificială să nu fie corecte. Contactați serviciul de asistență dacă aveți nevoie de asistență suplimentară. Se aplică <u> Acordul de licență pentru utilizatorul final </u>.",
     "describe_your_issue": "descrieți problema dvs",
     "issue_solved": "problema rezolvata",
     "ai_troubleshooting_top_tip": "Economisiți timp și efort cu depanarea AI! Iată posibilele soluții pentru eroarea pe care o întâmpinați.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Dispozitivul nu a reușit să se conecteze la server.",
     "CL_CF_CS_solution_password_error": "A fost detectată o conexiune eșuată la rețeaua de domiciliu din cauza unei parole WiFi introduse incorect. Introduceți parola WiFi corectă și încercați din nou.",
     "CL_CF_CS_solution_can_not_connect_server": "A fost detectată o conexiune eșuată la server. Vă rugăm să faceți clic pe butonul „ÎNCERCAȚI DIN NOU” pentru a vă reconecta la server.",
-    "CL_CF_CS_password_error_title": "Dispozitivul nu se poate conecta la server."
+    "CL_CF_CS_password_error_title": "Dispozitivul nu se poate conecta la server.",
+    "CL_CF_legal_title": "Cerințe legale",
+    "CL_CF_legal_content": "Pentru a utiliza această aplicație și a beneficia de serviciile noastre, trebuie să recunoașteți și să fiți de acord cu următoarele condiții prealabile. Dacă nu sunteți de acord, nu puteți utiliza aplicația.",
+    "CL_CF_legal_terms_cond": "Am citit și sunt de acord cu <b> Termenii și condițiile utilizatorului final </b>",
+    "CL_CF_legal_privacy_policy": "Am citit și sunt de acord cu <b> Politica de confidențialitate ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Am citit și sunt de acord cu <b> Notificarea privind Legea UE privind datele </b>"
 }

@@ -4704,7 +4704,7 @@
     "possible_solutions": "lehetséges megoldások",
     "load_more_potential_solutions": "több lehetséges megoldást betölteni",
     "ai_troubleshooting_none_solutions": "Sajnáljuk, hogy továbbra is problémái vannak. Ha a fenti megoldások nem oldják meg a problémát, kérjük, próbálja meg átfogalmazni a kérdését, vagy jelentse a problémát, hogy további segítséget tudjunk nyújtani.",
-    "ai_troubleshooting_bottom_tip2": "Előfordulhat, hogy az AI-megoldások és javaslatok nem pontosak. Ha további segítségre van szüksége, lépjen kapcsolatba az ügyfélszolgálattal. <u> Általános Szerződési Feltételek </u> érvényesek.",
+    "ai_troubleshooting_bottom_tip2": "A mesterséges intelligencia által kínált megoldások és javaslatok pontatlanok lehetnek. További segítségért forduljon az ügyfélszolgálathoz. <u> végfelhasználói licencszerződés </u> érvényes.",
     "describe_your_issue": "írja le a problémáját",
     "issue_solved": "probléma megoldva",
     "ai_troubleshooting_top_tip": "Takarítson meg időt és erőfeszítést az AI hibaelhárítással! Íme a lehetséges megoldások a tapasztalt hibára.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Az eszköz nem tudott csatlakozni a szerverhez.",
     "CL_CF_CS_solution_password_error": "A rendszer sikertelen csatlakozást észlelt az otthoni hálózathoz a helytelenül megadott WiFi jelszó miatt. Kérjük, adja meg a helyes WiFi jelszót, és próbálja újra.",
     "CL_CF_CS_solution_can_not_connect_server": "Sikertelen kapcsolódást észleltünk a szerverrel. Kattintson az „ÚJRAPRÓBÁLJA” gombra a szerverhez való újracsatlakozáshoz.",
-    "CL_CF_CS_password_error_title": "Az eszköz nem tud csatlakozni a szerverhez."
+    "CL_CF_CS_password_error_title": "Az eszköz nem tud csatlakozni a szerverhez.",
+    "CL_CF_legal_title": "Jogi követelmények",
+    "CL_CF_legal_content": "Az alkalmazás használatához és szolgáltatásaink igénybevételéhez el kell fogadnia a következő előfeltételeket. Ha nem ért egyet velük, nem használhatja az alkalmazást.",
+    "CL_CF_legal_terms_cond": "Elolvastam és elfogadom a <b> Végfelhasználói feltételeket </b>",
+    "CL_CF_legal_privacy_policy": "Elolvastam és elfogadom a <b> ConnectLife adatvédelmi irányelveit </b>",
+    "CL_CF_legal_eu_data": "Elolvastam és elfogadom az <b> EU adatvédelmi törvényről szóló értesítést </b>"
 }

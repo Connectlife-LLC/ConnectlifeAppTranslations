@@ -4704,7 +4704,7 @@
     "possible_solutions": "možné riešenia",
     "load_more_potential_solutions": "načítať viac potenciálnych riešení",
     "ai_troubleshooting_none_solutions": "Je nám ľúto, že stále máte problémy. Ak vyššie uvedené riešenia váš problém nevyriešia, skúste preformulovať svoju otázku alebo nahlásiť problém, aby sme vám mohli ďalej pomôcť.",
-    "ai_troubleshooting_bottom_tip2": "Riešenia a návrhy AI nemusia byť presné. V prípade potreby ďalšej pomoci kontaktujte podporu. Platia <u> zmluvné podmienky </u>.",
+    "ai_troubleshooting_bottom_tip2": "Riešenia a návrhy umelej inteligencie nemusia byť presné. Ak potrebujete ďalšiu pomoc, kontaktujte podporu. Platí <u> Licenčná zmluva s koncovým používateľom </u>.",
     "describe_your_issue": "popíšte svoj problém",
     "issue_solved": "problém vyriešený",
     "ai_troubleshooting_top_tip": "Ušetrite čas a námahu s riešením problémov s AI! Tu sú možné riešenia chyby, ktorá sa vyskytla.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Zariadenie sa nepodarilo pripojiť k serveru.",
     "CL_CF_CS_solution_password_error": "Zistilo sa zlyhanie pripojenia k domácej sieti z dôvodu zadania nesprávneho hesla WiFi. Zadajte správne heslo WiFi a skúste to znova.",
     "CL_CF_CS_solution_can_not_connect_server": "Bolo zistené zlyhanie pripojenia k serveru. Kliknite na tlačidlo „SKÚSIŤ ZNOVA“ pre opätovné pripojenie k serveru.",
-    "CL_CF_CS_password_error_title": "Zariadenie sa nemôže pripojiť k serveru."
+    "CL_CF_CS_password_error_title": "Zariadenie sa nemôže pripojiť k serveru.",
+    "CL_CF_legal_title": "Právne požiadavky",
+    "CL_CF_legal_content": "Ak chcete používať túto aplikáciu a využívať naše služby, musíte prijať a súhlasiť s nasledujúcimi podmienkami. Ak s nimi nesúhlasíte, aplikáciu nemôžete používať.",
+    "CL_CF_legal_terms_cond": "Prečítal(a) som si a súhlasím s <b> podmienkami používania pre koncového používateľa </b>",
+    "CL_CF_legal_privacy_policy": "Prečítal(a) som si a súhlasím so <b> zásadami ochrany osobných údajov ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Prečítal(a) som si a súhlasím s <b> oznámením o zákone EÚ o údajoch </b>"
 }

@@ -4704,7 +4704,7 @@
     "possible_solutions": "Posibles soluciones",
     "load_more_potential_solutions": "cargar más soluciones potenciales",
     "ai_troubleshooting_none_solutions": "Lamentamos que sigas teniendo problemas. Si las soluciones anteriores no resuelven tu problema, intenta reformular tu pregunta o reporta el problema para que podamos ayudarte.",
-    "ai_troubleshooting_bottom_tip2": "Las soluciones y sugerencias de IA podrían no ser precisas. Contacte con el equipo de soporte si necesita más ayuda. Se aplican <u> y condiciones </u>",
+    "ai_troubleshooting_bottom_tip2": "Las soluciones y sugerencias de IA podrían no ser precisas. Contacte con el equipo de soporte si necesita más ayuda. Se aplica el <u> Acuerdo de Licencia de Usuario Final </u>.",
     "describe_your_issue": "Describe tu problema",
     "issue_solved": "Problema resuelto",
     "ai_troubleshooting_top_tip": "¡Ahorre tiempo y esfuerzo con la resolución de problemas con inteligencia artificial! Aquí encontrará posibles soluciones para el error que está experimentando.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "El dispositivo no pudo conectarse al servidor.",
     "CL_CF_CS_solution_password_error": "Se detectó un error de conexión a la red doméstica debido a una contraseña de WiFi incorrecta. Ingrese la contraseña de WiFi correcta e inténtelo de nuevo.",
     "CL_CF_CS_solution_can_not_connect_server": "Se ha detectado un error de conexión al servidor. Haga clic en \"INTENTAR DE NUEVO\" para reconectarse.",
-    "CL_CF_CS_password_error_title": "El dispositivo no puede conectarse al servidor."
+    "CL_CF_CS_password_error_title": "El dispositivo no puede conectarse al servidor.",
+    "CL_CF_legal_title": "Requisitos legales",
+    "CL_CF_legal_content": "Para usar esta aplicación y recibir nuestros servicios, debe aceptar las siguientes condiciones. Si no las acepta, no podrá usar la aplicación.",
+    "CL_CF_legal_terms_cond": "He leído y acepto los <b> términos y condiciones de usuario final </b>",
+    "CL_CF_legal_privacy_policy": "He leído y acepto la <b> Política de privacidad de ConnectLife </b>",
+    "CL_CF_legal_eu_data": "He leído y acepto la <b> Notificación de la Ley de Protección de Datos de la UE </b>"
 }

@@ -4704,7 +4704,7 @@
     "possible_solutions": "possible solutions",
     "load_more_potential_solutions": "load more potential solutions",
     "ai_troubleshooting_none_solutions": "We're sorry to hear you're still having trouble. If the solutions above don’t resolve your issue, please try rephrasing your question or report the problem so we can assist you further.",
-    "ai_troubleshooting_bottom_tip2": "AI solutions and suggestions may not be accurate. Contact support if further assistance is needed. <u>Terms and conditions</u> apply.",
+    "ai_troubleshooting_bottom_tip2": "AI solutions and suggestions may not be accurate. Contact support if further assistance is needed. <u>End User License Agreement</u> apply.",
     "describe_your_issue": "describe your issue",
     "issue_solved": "issue solved",
     "ai_troubleshooting_top_tip": "Save time and effort with AI troubleshooting! Here are potential solutions for the error you are experiencing.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "The device failed to connect to the server.",
     "CL_CF_CS_solution_password_error": "A failed connection to the home network was detected due to an incorrect WiFi password entered. Please enter the correct WiFi password and try again.",
     "CL_CF_CS_solution_can_not_connect_server": "A failed connection to the server has been detected. Please click the \"TRY AGAIN\" button to reconnect to the server.",
-    "CL_CF_CS_password_error_title": "The device can’t connect to the server."
+    "CL_CF_CS_password_error_title": "The device can’t connect to the server.",
+    "CL_CF_legal_title": "Legal Requirements",
+    "CL_CF_legal_content": "To use this app and receive our services, you are required to acknowledge and agree to the following preconditions. If you do not agree, you can not use the app.",
+    "CL_CF_legal_terms_cond": "I have read and agree to the <b>End user terms and conditions</b>",
+    "CL_CF_legal_privacy_policy": "I have read and agree to the <b>Privacy policy ConnectLife</b>",
+    "CL_CF_legal_eu_data": "I have read and agree to the <b>EU Data Act Notification</b>"
 }

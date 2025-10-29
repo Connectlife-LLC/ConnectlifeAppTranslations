@@ -4704,7 +4704,7 @@
     "possible_solutions": "mogelijke oplossingen",
     "load_more_potential_solutions": "laad meer mogelijke oplossingen",
     "ai_troubleshooting_none_solutions": "Het spijt ons te horen dat u nog steeds problemen ondervindt. Als de bovenstaande oplossingen uw probleem niet oplossen, kunt u uw vraag herformuleren of het probleem melden, zodat we u verder kunnen helpen.",
-    "ai_troubleshooting_bottom_tip2": "AI-oplossingen en suggesties zijn mogelijk niet nauwkeurig. Neem contact op met support als u verdere assistentie nodig hebt. <u> Algemene voorwaarden </u> zijn van toepassing.",
+    "ai_troubleshooting_bottom_tip2": "AI-oplossingen en -suggesties zijn mogelijk niet accuraat. Neem contact op met de ondersteuning als u verdere hulp nodig hebt. De <u> licentieovereenkomst voor eindgebruikers </u> is van toepassing.",
     "describe_your_issue": "beschrijf uw probleem",
     "issue_solved": "probleem opgelost",
     "ai_troubleshooting_top_tip": "Bespaar tijd en moeite met AI-probleemoplossing! Hier zijn mogelijke oplossingen voor de fout die u ervaart.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Het apparaat kan geen verbinding maken met de server.",
     "CL_CF_CS_solution_password_error": "Er is een mislukte verbinding met het thuisnetwerk gedetecteerd vanwege een onjuist ingevoerd wifi-wachtwoord. Voer het juiste wifi-wachtwoord in en probeer het opnieuw.",
     "CL_CF_CS_solution_can_not_connect_server": "Er is een mislukte verbinding met de server gedetecteerd. Klik op de knop \"OPNIEUW PROBEREN\" om opnieuw verbinding te maken met de server.",
-    "CL_CF_CS_password_error_title": "Het apparaat kan geen verbinding maken met de server."
+    "CL_CF_CS_password_error_title": "Het apparaat kan geen verbinding maken met de server.",
+    "CL_CF_legal_title": "Wettelijke vereisten",
+    "CL_CF_legal_content": "Om deze app te gebruiken en onze diensten te ontvangen, dient u de volgende voorwaarden te erkennen en ermee akkoord te gaan. Als u niet akkoord gaat, kunt u de app niet gebruiken.",
+    "CL_CF_legal_terms_cond": "Ik heb de <b> eindgebruikersvoorwaarden </b> gelezen en ga hiermee akkoord.",
+    "CL_CF_legal_privacy_policy": "Ik heb het <b> Privacybeleid van ConnectLife </b> gelezen en ga hiermee akkoord.",
+    "CL_CF_legal_eu_data": "Ik heb de <b> EU Data Act Notification </b> gelezen en ga ermee akkoord."
 }

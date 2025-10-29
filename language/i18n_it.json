@@ -4704,7 +4704,7 @@
     "possible_solutions": "possibili soluzioni",
     "load_more_potential_solutions": "carica altre potenziali soluzioni",
     "ai_troubleshooting_none_solutions": "Ci dispiace che tu stia ancora riscontrando problemi. Se le soluzioni sopra indicate non risolvono il problema, prova a riformulare la domanda o segnalaci il problema per consentirci di aiutarti ulteriormente.",
-    "ai_troubleshooting_bottom_tip2": "Le soluzioni e i suggerimenti di intelligenza artificiale potrebbero non essere accurati. Contatta l'assistenza se hai bisogno di ulteriore supporto. Si applicano i <u> e le condizioni </u>",
+    "ai_troubleshooting_bottom_tip2": "Le soluzioni e i suggerimenti di intelligenza artificiale potrebbero non essere accurati. Contattare l'assistenza per ulteriore assistenza. Si applicano le condizioni del <u> Contratto di licenza con l'utente finale </u>.",
     "describe_your_issue": "descrivi il tuo problema",
     "issue_solved": "problema risolto",
     "ai_troubleshooting_top_tip": "Risparmia tempo e fatica con la risoluzione dei problemi AI! Ecco le possibili soluzioni per l'errore che stai riscontrando.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Il dispositivo non è riuscito a connettersi al server.",
     "CL_CF_CS_solution_password_error": "È stata rilevata una connessione non riuscita alla rete domestica a causa dell'inserimento di una password Wi-Fi errata. Inserisci la password Wi-Fi corretta e riprova.",
     "CL_CF_CS_solution_can_not_connect_server": "È stata rilevata una connessione al server non riuscita. Fare clic sul pulsante \"RIPROVA\" per riconnettersi al server.",
-    "CL_CF_CS_password_error_title": "Il dispositivo non riesce a connettersi al server."
+    "CL_CF_CS_password_error_title": "Il dispositivo non riesce a connettersi al server.",
+    "CL_CF_legal_title": "Requisiti legali",
+    "CL_CF_legal_content": "Per utilizzare questa app e usufruire dei nostri servizi, è necessario accettare le seguenti condizioni preliminari. In caso di mancata accettazione, non sarà possibile utilizzare l'app.",
+    "CL_CF_legal_terms_cond": "Ho letto e accetto i <b> Termini e condizioni per l'utente finale </b>",
+    "CL_CF_legal_privacy_policy": "Ho letto e accetto l' <b> Informativa sulla privacy di ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Ho letto e accetto la <b> Notifica EU Data Act </b>"
 }

@@ -4704,7 +4704,7 @@
     "possible_solutions": "可能的解決方案",
     "load_more_potential_solutions": "載入更多潛在的解決方案",
     "ai_troubleshooting_none_solutions": "很抱歉，您仍然遇到問題。如果上述解決方案無法解決您的問題，請嘗試重新表達您的問題或回報問題，以便我們進一步為您提供協助。",
-    "ai_troubleshooting_bottom_tip2": "AI的解決方案和建議可能不準確。如果需要進一步協助，請聯絡支援人員。 <u>條款與條件</u>適用。",
+    "ai_troubleshooting_bottom_tip2": "AI 解決方案和建議可能不準確。如需進一步協助，請聯絡客服。 <u>最終用戶許可協議</u>適用。",
     "describe_your_issue": "描述您的問題",
     "issue_solved": "問題已解決",
     "ai_troubleshooting_top_tip": "透過 AI 故障排除節省時間和精力！以下是您遇到的錯誤的可能解決方案。",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "設備無法連接到伺服器。",
     "CL_CF_CS_solution_password_error": "由於輸入的 WiFi 密碼不正確，偵測到家庭網路連線失敗。請輸入正確的 WiFi 密碼，然後重試。",
     "CL_CF_CS_solution_can_not_connect_server": "偵測到伺服器連線失敗。請點選「重試」按鈕重新連接伺服器。",
-    "CL_CF_CS_password_error_title": "設備無法連接到伺服器。"
+    "CL_CF_CS_password_error_title": "設備無法連接到伺服器。",
+    "CL_CF_legal_title": "法律要求",
+    "CL_CF_legal_content": "要使用此應用程式並享受我們的服務，您必須確認並同意以下前提條件。如果您不同意，則無法使用此應用程式。",
+    "CL_CF_legal_terms_cond": "我已閱讀並同意<b>最終用戶條款和條件</b>",
+    "CL_CF_legal_privacy_policy": "我已閱讀並同意 ConnectLife 的<b>隱私權政策</b>",
+    "CL_CF_legal_eu_data": "我已閱讀並同意<b>歐盟數據法案通知</b>"
 }

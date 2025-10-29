@@ -4704,7 +4704,7 @@
     "possible_solutions": "olası çözümler",
     "load_more_potential_solutions": "daha fazla potansiyel çözüm yükleyin",
     "ai_troubleshooting_none_solutions": "Sorununuzun hala devam ettiğini duyduğumuza üzüldük. Yukarıdaki çözümler sorununuzu çözmezse, lütfen sorunuzu yeniden ifade etmeyi deneyin veya size daha fazla yardımcı olabilmemiz için sorunu bildirin.",
-    "ai_troubleshooting_bottom_tip2": "AI çözümleri ve önerileri doğru olmayabilir. Daha fazla yardıma ihtiyaç duyulursa destekle iletişime geçin. <u> Şartlar ve koşullar </u> geçerlidir.",
+    "ai_troubleshooting_bottom_tip2": "Yapay zeka çözümleri ve önerileri doğru olmayabilir. Daha fazla yardıma ihtiyacınız varsa destek ekibiyle iletişime geçin. <u> Son Kullanıcı Lisans Sözleşmesi </u> geçerlidir.",
     "describe_your_issue": "sorununuzu açıklayın",
     "issue_solved": "sorun çözüldü",
     "ai_troubleshooting_top_tip": "AI sorun giderme ile zamandan ve emekten tasarruf edin! Yaşadığınız hata için olası çözümler şunlardır.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Cihaz sunucuya bağlanamadı.",
     "CL_CF_CS_solution_password_error": "Hatalı WiFi şifresi girilmesi nedeniyle ev ağına bağlantı sağlanamadı. Lütfen doğru WiFi şifresini girip tekrar deneyin.",
     "CL_CF_CS_solution_can_not_connect_server": "Sunucuya bağlantı başarısız oldu. Sunucuya yeniden bağlanmak için lütfen \"TEKRAR DENE\" butonuna tıklayın.",
-    "CL_CF_CS_password_error_title": "Cihaz sunucuya bağlanamıyor."
+    "CL_CF_CS_password_error_title": "Cihaz sunucuya bağlanamıyor.",
+    "CL_CF_legal_title": "Yasal Gereklilikler",
+    "CL_CF_legal_content": "Bu uygulamayı kullanmak ve hizmetlerimizden yararlanmak için aşağıdaki ön koşulları kabul etmeniz ve onaylamanız gerekmektedir. Kabul etmiyorsanız, uygulamayı kullanamazsınız.",
+    "CL_CF_legal_terms_cond": "<b> Son kullanıcı hüküm ve koşullarını </b> okudum ve kabul ediyorum",
+    "CL_CF_legal_privacy_policy": "<b> ConnectLife Gizlilik Politikası </b> 'nı okudum ve kabul ediyorum",
+    "CL_CF_legal_eu_data": "<b> AB Veri Yasası Bildirimi </b> ni okudum ve kabul ediyorum"
 }

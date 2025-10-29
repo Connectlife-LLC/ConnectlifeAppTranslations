@@ -4704,7 +4704,7 @@
     "possible_solutions": "solutions possibles",
     "load_more_potential_solutions": "charger plus de solutions potentielles",
     "ai_troubleshooting_none_solutions": "Nous sommes désolés d'apprendre que vous rencontrez toujours des difficultés. Si les solutions ci-dessus ne résolvent pas votre problème, veuillez reformuler votre question ou signaler le problème afin que nous puissions vous aider.",
-    "ai_troubleshooting_bottom_tip2": "Les solutions et suggestions d'IA peuvent ne pas être précises. Contactez le support si vous avez besoin d'une assistance supplémentaire. Les <u>termes et conditions</u> s'appliquent.",
+    "ai_troubleshooting_bottom_tip2": "Les solutions et suggestions d'IA peuvent être inexactes. Contactez l'assistance si nécessaire. Le Contrat de licence <u> final </u>.",
     "describe_your_issue": "décrivez votre problème",
     "issue_solved": "problème résolu",
     "ai_troubleshooting_top_tip": "Gagnez du temps et des efforts grâce au dépannage par IA ! Voici des solutions potentielles pour l'erreur que vous rencontrez.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "L'appareil n'a pas réussi à se connecter au serveur.",
     "CL_CF_CS_solution_password_error": "Une connexion au réseau domestique a échoué en raison d'un mot de passe Wi-Fi incorrect. Veuillez saisir le bon mot de passe Wi-Fi et réessayer.",
     "CL_CF_CS_solution_can_not_connect_server": "Une connexion au serveur a échoué. Veuillez cliquer sur « RÉESSAYER » pour vous reconnecter au serveur.",
-    "CL_CF_CS_password_error_title": "L'appareil ne peut pas se connecter au serveur."
+    "CL_CF_CS_password_error_title": "L'appareil ne peut pas se connecter au serveur.",
+    "CL_CF_legal_title": "Exigences légales",
+    "CL_CF_legal_content": "Pour utiliser cette application et bénéficier de nos services, vous devez prendre connaissance des conditions préalables suivantes et les accepter. Si vous ne les acceptez pas, vous ne pourrez pas utiliser l'application.",
+    "CL_CF_legal_terms_cond": "J'ai lu et j'accepte les <b> conditions générales d'utilisation </b>",
+    "CL_CF_legal_privacy_policy": "J'ai lu et j'accepte la <b> politique de confidentialité de ConnectLife </b>",
+    "CL_CF_legal_eu_data": "J'ai lu et j'accepte la <b> Notification relative à la loi européenne sur la protection des données </b>"
 }
