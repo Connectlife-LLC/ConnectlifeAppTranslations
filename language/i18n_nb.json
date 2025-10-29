@@ -4704,7 +4704,7 @@
     "possible_solutions": "mulige løsninger",
     "load_more_potential_solutions": "laste flere potensielle løsninger",
     "ai_troubleshooting_none_solutions": "Vi beklager å høre at du fortsatt har problemer. Hvis løsningene ovenfor ikke løser problemet, kan du prøve å omformulere spørsmålet ditt eller rapportere problemet, slik at vi kan hjelpe deg videre.",
-    "ai_troubleshooting_bottom_tip2": "AI-løsninger og forslag er kanskje ikke nøyaktige. Kontakt kundestøtte hvis det er behov for ytterligere hjelp. <u> Vilkår og betingelser </u> gjelder.",
+    "ai_troubleshooting_bottom_tip2": "AI-løsninger og forslag er kanskje ikke nøyaktige. Kontakt kundestøtte hvis du trenger ytterligere hjelp. <u> Sluttbrukerlisensavtale </u> gjelder.",
     "describe_your_issue": "beskriv problemet ditt",
     "issue_solved": "problemet løst",
     "ai_troubleshooting_top_tip": "Spar tid og krefter med AI-feilsøking! Her er potensielle løsninger for feilen du opplever.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Enheten klarte ikke å koble til serveren.",
     "CL_CF_CS_solution_password_error": "Det ble oppdaget en mislykket tilkobling til hjemmenettverket på grunn av et feil WiFi-passord. Skriv inn riktig WiFi-passord og prøv på nytt.",
     "CL_CF_CS_solution_can_not_connect_server": "Det er oppdaget en mislykket tilkobling til serveren. Klikk på «PRØV IGJEN»-knappen for å koble til serveren på nytt.",
-    "CL_CF_CS_password_error_title": "Enheten kan ikke koble til serveren."
+    "CL_CF_CS_password_error_title": "Enheten kan ikke koble til serveren.",
+    "CL_CF_legal_title": "Juridiske krav",
+    "CL_CF_legal_content": "For å bruke denne appen og motta tjenestene våre, må du bekrefte og godta følgende forutsetninger. Hvis du ikke godtar, kan du ikke bruke appen.",
+    "CL_CF_legal_terms_cond": "Jeg har lest og godtar <b> sluttbrukervilkårene </b>",
+    "CL_CF_legal_privacy_policy": "Jeg har lest og godtar <b> personvernerklæringen til ConnectLife </b>",
+    "CL_CF_legal_eu_data": "Jeg har lest og godtar <b> EUs personvernlovgivningsvarsel </b>"
 }

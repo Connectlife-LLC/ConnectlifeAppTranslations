@@ -4704,7 +4704,7 @@
     "possible_solutions": "考えられる解決策",
     "load_more_potential_solutions": "潜在的な解決策をさらに読み込む",
     "ai_troubleshooting_none_solutions": "引き続き問題が発生しているとは存じますが、上記の解決策を試しても問題が解決しない場合は、ご質問を言い換えていただくか、問題をご報告ください。さらにサポートさせていただきます。",
-    "ai_troubleshooting_bottom_tip2": "AI ソリューションと提案は正確ではない可能性があります。さらにサポートが必要な場合は、サポートにお問い合わせください。 <u>利用規約</u>が適用されます。",
+    "ai_troubleshooting_bottom_tip2": "AIによる解決策や提案は正確ではない場合があります。さらにサポートが必要な場合は、サポートにお問い合わせください。 <u>エンドユーザー使用許諾契約</u>が適用されます。",
     "describe_your_issue": "問題を説明してください",
     "issue_solved": "問題は解決しました",
     "ai_troubleshooting_top_tip": "AI トラブルシューティングで時間と労力を節約しましょう。発生しているエラーの潜在的な解決策は次のとおりです。",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "デバイスはサーバーへの接続に失敗しました。",
     "CL_CF_CS_solution_password_error": "入力されたWi-Fiパスワードが間違っているため、ホームネットワークへの接続に失敗しました。正しいWi-Fiパスワードを入力して、もう一度お試しください。",
     "CL_CF_CS_solution_can_not_connect_server": "サーバーへの接続に失敗しました。「再試行」ボタンをクリックしてサーバーに再接続してください。",
-    "CL_CF_CS_password_error_title": "デバイスはサーバーに接続できません。"
+    "CL_CF_CS_password_error_title": "デバイスはサーバーに接続できません。",
+    "CL_CF_legal_title": "法的要件",
+    "CL_CF_legal_content": "本アプリをご利用いただき、当社のサービスを受けるには、以下の前提条件をご確認いただき、同意していただく必要があります。同意いただけない場合は、本アプリをご利用いただけません。",
+    "CL_CF_legal_terms_cond": "<b>エンドユーザー利用規約</b>を読み、同意します。",
+    "CL_CF_legal_privacy_policy": "<b>ConnectLifeのプライバシーポリシー </b>を読み、同意します。",
+    "CL_CF_legal_eu_data": "私は<b> EUデータ法通知</b>を読み、同意します。"
 }

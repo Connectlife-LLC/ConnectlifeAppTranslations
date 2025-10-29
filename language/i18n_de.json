@@ -4704,7 +4704,7 @@
     "possible_solutions": "Mögliche Lösungen",
     "load_more_potential_solutions": "weitere mögliche Lösungen laden",
     "ai_troubleshooting_none_solutions": "Es tut uns leid, dass Sie weiterhin Probleme haben. Sollten die oben genannten Lösungen Ihr Problem nicht beheben, versuchen Sie bitte, Ihre Frage anders zu formulieren oder das Problem zu melden, damit wir Ihnen weiterhelfen können.",
-    "ai_troubleshooting_bottom_tip2": "KI-Lösungen und -Vorschläge sind möglicherweise nicht genau. Wenden Sie sich an den Support, wenn Sie weitere Unterstützung benötigen. Es gelten die <u> Allgemeinen Geschäftsbedingungen </u>.",
+    "ai_troubleshooting_bottom_tip2": "KI-Lösungen und -Vorschläge sind möglicherweise nicht genau. Wenden Sie sich an den Support, wenn Sie weitere Hilfe benötigen. Es gilt die <u> Endbenutzer-Lizenzvereinbarung </u>.",
     "describe_your_issue": "Beschreiben Sie Ihr Problem",
     "issue_solved": "Problem gelöst",
     "ai_troubleshooting_top_tip": "Sparen Sie Zeit und Aufwand mit der KI-basierten Fehlerbehebung! Hier finden Sie mögliche Lösungen für den aufgetretenen Fehler.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Das Gerät konnte keine Verbindung zum Server herstellen.",
     "CL_CF_CS_solution_password_error": "Aufgrund eines falschen WLAN-Passworts ist die Verbindung zum Heimnetzwerk fehlgeschlagen. Bitte geben Sie das richtige WLAN-Passwort ein und versuchen Sie es erneut.",
     "CL_CF_CS_solution_can_not_connect_server": "Es wurde eine fehlgeschlagene Verbindung zum Server festgestellt. Klicken Sie auf die Schaltfläche „ERNEUT VERSUCHEN“, um die Verbindung zum Server wiederherzustellen.",
-    "CL_CF_CS_password_error_title": "Das Gerät kann keine Verbindung zum Server herstellen."
+    "CL_CF_CS_password_error_title": "Das Gerät kann keine Verbindung zum Server herstellen.",
+    "CL_CF_legal_title": "Gesetzliche Anforderungen",
+    "CL_CF_legal_content": "Um diese App zu nutzen und unsere Dienste in Anspruch zu nehmen, müssen Sie die folgenden Voraussetzungen anerkennen und ihnen zustimmen. Wenn Sie nicht zustimmen, können Sie die App nicht nutzen.",
+    "CL_CF_legal_terms_cond": "Ich habe die <b> Endbenutzer-Nutzungsbedingungen </b> gelesen und stimme ihnen zu.",
+    "CL_CF_legal_privacy_policy": "Ich habe die <b> Datenschutzrichtlinie von ConnectLife </b> gelesen und stimme ihr zu.",
+    "CL_CF_legal_eu_data": "Ich habe die <b> Datenschutz-Grundverordnung </b> -Erklärung gelesen und stimme ihr zu."
 }

@@ -4704,7 +4704,7 @@
     "possible_solutions": "möjliga lösningar",
     "load_more_potential_solutions": "ladda fler potentiella lösningar",
     "ai_troubleshooting_none_solutions": "Vi beklagar att du fortfarande har problem. Om lösningarna ovan inte löser problemet kan du försöka omformulera din fråga eller rapportera problemet så att vi kan hjälpa dig vidare.",
-    "ai_troubleshooting_bottom_tip2": "AI-lösningar och förslag kanske inte är korrekta. Kontakta supporten om ytterligare hjälp behövs. <u> Användarvillkor </u> gäller.",
+    "ai_troubleshooting_bottom_tip2": "AI-lösningar och förslag kanske inte är korrekta. Kontakta supporten om ytterligare hjälp behövs. <u> Slutanvändarlicensavtal </u> gäller.",
     "describe_your_issue": "beskriv ditt problem",
     "issue_solved": "problemet löst",
     "ai_troubleshooting_top_tip": "Spara tid och ansträngning med AI-felsökning! Här är potentiella lösningar på felet du upplever.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Enheten kunde inte ansluta till servern.",
     "CL_CF_CS_solution_password_error": "En misslyckad anslutning till hemnätverket upptäcktes på grund av ett felaktigt WiFi-lösenord. Ange rätt WiFi-lösenord och försök igen.",
     "CL_CF_CS_solution_can_not_connect_server": "En misslyckad anslutning till servern har upptäckts. Klicka på knappen \"FÖRSÖK IGEN\" för att återansluta till servern.",
-    "CL_CF_CS_password_error_title": "Enheten kan inte ansluta till servern."
+    "CL_CF_CS_password_error_title": "Enheten kan inte ansluta till servern.",
+    "CL_CF_legal_title": "Rättsliga krav",
+    "CL_CF_legal_content": "För att använda den här appen och ta emot våra tjänster måste du bekräfta och godkänna följande villkor. Om du inte godkänner kan du inte använda appen.",
+    "CL_CF_legal_terms_cond": "Jag har läst och godkänner <b> slutanvändarvillkoren </b>",
+    "CL_CF_legal_privacy_policy": "Jag har läst och godkänner <b> ConnectLifes integritetspolicy </b>",
+    "CL_CF_legal_eu_data": "Jag har läst och godkänner <b> EU:s dataskyddslags meddelande </b>"
 }

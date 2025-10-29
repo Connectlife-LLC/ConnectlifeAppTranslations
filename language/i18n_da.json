@@ -4704,7 +4704,7 @@
     "possible_solutions": "mulige løsninger",
     "load_more_potential_solutions": "indlæse flere potentielle løsninger",
     "ai_troubleshooting_none_solutions": "Vi beklager at høre, at du stadig har problemer. Hvis ovenstående løsninger ikke løser dit problem, kan du prøve at omformulere dit spørgsmål eller rapportere problemet, så vi kan hjælpe dig yderligere.",
-    "ai_troubleshooting_bottom_tip2": "AI-løsninger og -forslag er muligvis ikke nøjagtige. Kontakt support, hvis der er behov for yderligere hjælp. <u> Vilkår og betingelser </u> gælder.",
+    "ai_troubleshooting_bottom_tip2": "AI-løsninger og -forslag er muligvis ikke nøjagtige. Kontakt support, hvis du har brug for yderligere hjælp. <u> Slutbrugerlicensaftale </u> gælder.",
     "describe_your_issue": "beskriv dit problem",
     "issue_solved": "problem løst",
     "ai_troubleshooting_top_tip": "Spar tid og kræfter med AI-fejlfinding! Her er potentielle løsninger på den fejl, du oplever.",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "Enheden kunne ikke oprette forbindelse til serveren.",
     "CL_CF_CS_solution_password_error": "Der blev registreret en mislykket forbindelse til hjemmenetværket på grund af en forkert indtastet WiFi-adgangskode. Indtast den korrekte WiFi-adgangskode, og prøv igen.",
     "CL_CF_CS_solution_can_not_connect_server": "Der er registreret en mislykket forbindelse til serveren. Klik på knappen \"PRØV IGEN\" for at genoprette forbindelsen til serveren.",
-    "CL_CF_CS_password_error_title": "Enheden kan ikke oprette forbindelse til serveren."
+    "CL_CF_CS_password_error_title": "Enheden kan ikke oprette forbindelse til serveren.",
+    "CL_CF_legal_title": "Juridiske krav",
+    "CL_CF_legal_content": "For at bruge denne app og modtage vores tjenester, skal du anerkende og acceptere følgende forudsætninger. Hvis du ikke accepterer, kan du ikke bruge appen.",
+    "CL_CF_legal_terms_cond": "Jeg har læst og accepterer <b> slutbrugervilkårene </b>",
+    "CL_CF_legal_privacy_policy": "Jeg har læst og accepterer <b> ConnectLifes privatlivspolitik </b>",
+    "CL_CF_legal_eu_data": "Jeg har læst og accepterer <b> EU-dataforordningens meddelelse </b>"
 }

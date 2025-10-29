@@ -4704,7 +4704,7 @@
     "possible_solutions": "可能的解决方案",
     "load_more_potential_solutions": "加载更多潜在解决方案",
     "ai_troubleshooting_none_solutions": "很抱歉，您仍然遇到问题。如果上述解决方案无法解决您的问题，请尝试重新表述您的问题或报告问题，以便我们进一步为您提供帮助。",
-    "ai_troubleshooting_bottom_tip2": "AI 解决方案和建议可能不准确。如需进一步帮助，请联系客服。 <u>条款和条件</u>适用。",
+    "ai_troubleshooting_bottom_tip2": "AI 解决方案和建议可能不准确。如需进一步帮助，请联系客服。 <u>最终用户许可协议</u>适用。",
     "describe_your_issue": "描述你的问题",
     "issue_solved": "问题解决了",
     "ai_troubleshooting_top_tip": "使用 AI 故障排除节省时间和精力！以下是针对您遇到的错误的潜在解决方案。",
@@ -6950,5 +6950,10 @@
     "CL_CF_CS_can_connect_to_server_tip": "设备无法连接到服务器。",
     "CL_CF_CS_solution_password_error": "由于输入的 WiFi 密码不正确，检测到家庭网络连接失败。请输入正确的 WiFi 密码，然后重试。",
     "CL_CF_CS_solution_can_not_connect_server": "检测到服务器连接失败。请点击“重试”按钮重新连接服务器。",
-    "CL_CF_CS_password_error_title": "设备无法连接到服务器。"
+    "CL_CF_CS_password_error_title": "设备无法连接到服务器。",
+    "CL_CF_legal_title": "法律要求",
+    "CL_CF_legal_content": "要使用此应用程序并享受我们的服务，您必须确认并同意以下前提条件。如果您不同意，则无法使用此应用程序。",
+    "CL_CF_legal_terms_cond": "我已阅读并同意<b>最终用户条款和条件</b>",
+    "CL_CF_legal_privacy_policy": "我已阅读并同意<b> ConnectLife 隐私政策</b>",
+    "CL_CF_legal_eu_data": "我已阅读并同意<b>欧盟数据法案通知</b>"
 }
