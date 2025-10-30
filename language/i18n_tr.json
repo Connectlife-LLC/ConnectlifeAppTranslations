@@ -6724,7 +6724,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step6_new": "Ekranda geri sayım başlıyor. Cihaz ağı artık 5 dakikalığına bağlantıya açık. \n Artık uygulamada eşleştirme işlemini tamamlayabilirsiniz. ",
     "CL_DV_ENG_ota_updating": "Yazılım güncelleniyor, {1} tamamlandı.",
     "reached_daily_limit": "GÜNLÜK LİMİTE ULAŞILDI",
-    "reached_daily_limit_content": "Günlük 3 deneme sınırınıza ulaştınız. Lütfen yarın tekrar deneyin.",
+    "reached_daily_limit_content": "Öğün başına en fazla 3 kez yeni bir yapay zeka tarifi oluşturabilirsiniz. Daha fazla oluşturmak için lütfen bu sayfayı kapatın ve yeni bir yapay zeka tarifi oluşturmaya başlayın.",
     "CL_SL_CM_laundry_low_detergent": "Yetersiz deterjan",
     "CL_SL_CM_laundry_low_detergent_desc": "Evinizdeki deterjan/yumuşatıcı stoğu azalıyor, lütfen hemen yenileyin.",
     "add_now": "ŞİMDİ EKLE",
@@ -6955,5 +6955,15 @@
     "CL_CF_legal_content": "Bu uygulamayı kullanmak ve hizmetlerimizden yararlanmak için aşağıdaki ön koşulları kabul etmeniz ve onaylamanız gerekmektedir. Kabul etmiyorsanız, uygulamayı kullanamazsınız.",
     "CL_CF_legal_terms_cond": "<b> Son kullanıcı hüküm ve koşullarını </b> okudum ve kabul ediyorum",
     "CL_CF_legal_privacy_policy": "<b> ConnectLife Gizlilik Politikası </b> 'nı okudum ve kabul ediyorum",
-    "CL_CF_legal_eu_data": "<b> AB Veri Yasası Bildirimi </b> ni okudum ve kabul ediyorum"
+    "CL_CF_legal_eu_data": "<b> AB Veri Yasası Bildirimi </b> ni okudum ve kabul ediyorum",
+    "CL_DV_OV_save_picture": "Resmi kaydet",
+    "CL_CF_CS_scan_oven_tip": "Cihazınızı bağlamak için benzersiz kimlik koduna ihtiyacınız olacak. Bu kod, cihaz etiketinde bulunabilir. Etiketi, kapı çerçevesinin içinde, sol tarafta bulabilirsiniz.",
+    "CL_CF_CS_scan_fridge_tip": "Cihazınızı bağlamak için benzersiz kimlik koduna ihtiyacınız olacak. Bu kod, cihaz etiketinde bulunabilir. Etiketi, cihazın sol iç kısmında bulabilirsiniz.",
+    "CL_CF_CS_scan_washing_machine_tip": "Cihazınızı bağlamak için benzersiz kimlik koduna ihtiyacınız olacak. Bu kod, cihaz etiketinde bulunabilir. Etiketi kapının içinde, jantta veya kapı açıklığının hemen altında bulabilirsiniz.",
+    "CL_CF_CS_washing_machine_scan_guide_option1": "Seçenek 1: Çamaşır makinesinde",
+    "CL_CF_CS_washing_machine_scan_guide_label": "Çamaşır makinenizin benzersiz bir tanımlama koduna sahip bir cihaz etiketi vardır. Bu etiket şu yerlerden birinde bulunur:",
+    "CL_CF_CS_washing_machine_scan_guide_label_1": "1.Kapı açıklığının altında",
+    "CL_CF_CS_washing_machine_scan_guide_label_2": "2.Kapı kenarının iç kenarında",
+    "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Kapı kenarının üst kısmında",
+    "CL_CF_CS_washing_machine_scan_guide_label_4": "##Arka tarafta - ##Üstten yüklemeli bir çamaşır makineniz varsa, etiketi arka tarafta bulabilirsiniz."
 }

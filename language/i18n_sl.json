@@ -6724,7 +6724,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step6_new": "Na zaslonu se začne odštevanje. Omrežje naprave je zdaj odprto za povezavo 5 minut. \n Postopek seznanjanja lahko zdaj zaključite v aplikaciji. ",
     "CL_DV_ENG_ota_updating": "Posodabljanje vdelane programske opreme se izvaja, {1} končano.",
     "reached_daily_limit": "DOSEŽENA DNEVNA OMEJITEV",
-    "reached_daily_limit_content": "Dosegli ste dnevno omejitev 3 poskusov. Poskusite znova jutri.",
+    "reached_daily_limit_content": "Nov recept z umetno inteligenco lahko ustvarite do 3-krat na obrok. Če želite ustvariti več, zaprite to stran in začnite z ustvarjanjem novega recepta z umetno inteligenco.",
     "CL_SL_CM_laundry_low_detergent": "Premalo detergenta",
     "CL_SL_CM_laundry_low_detergent_desc": "Zaloga detergenta/mehčalca v vašem gospodinjstvu je skoraj prazna, zato jo prosimo čim prej dopolnite.",
     "add_now": "DODAJ ZDAJ",
@@ -6955,5 +6955,15 @@
     "CL_CF_legal_content": "Za uporabo te aplikacije in prejemanje naših storitev morate potrditi in se strinjati z naslednjimi predpogoji. Če se ne strinjate, aplikacije ne morete uporabljati.",
     "CL_CF_legal_terms_cond": "Prebral/a sem in se strinjam s <b> pogoji uporabe za končnega uporabnika </b>",
     "CL_CF_legal_privacy_policy": "Prebral/a sem in se strinjam s <b> politiko zasebnosti ConnectLife </b>",
-    "CL_CF_legal_eu_data": "Prebral/a sem in se strinjam z <b> Obvestilom o zakonu EU o podatkih </b>"
+    "CL_CF_legal_eu_data": "Prebral/a sem in se strinjam z <b> Obvestilom o zakonu EU o podatkih </b>",
+    "CL_DV_OV_save_picture": "Shrani sliko",
+    "CL_CF_CS_scan_oven_tip": "Za povezavo naprave boste potrebovali njeno edinstveno identifikacijsko kodo. To kodo najdete na nalepki naprave. Nalepko najdete znotraj okvirja vrat, na levi strani.",
+    "CL_CF_CS_scan_fridge_tip": "Za povezavo naprave boste potrebovali njeno edinstveno identifikacijsko kodo. To kodo najdete na nalepki naprave. Nalepko najdete na levi notranji strani.",
+    "CL_CF_CS_scan_washing_machine_tip": "Za povezavo naprave boste potrebovali njeno edinstveno identifikacijsko kodo. To kodo najdete na nalepki naprave. Nalepko najdete na notranji strani vrat, na robu ali tik pod odprtino vrat.",
+    "CL_CF_CS_washing_machine_scan_guide_option1": "Možnost 1: V pralnem stroju",
+    "CL_CF_CS_washing_machine_scan_guide_label": "Vaš pralni stroj ima nalepko z edinstveno identifikacijsko kodo. Nahaja se na enem od teh mest:",
+    "CL_CF_CS_washing_machine_scan_guide_label_1": "1. Pod odprtino vrat",
+    "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Na notranjem robu vratnega roba",
+    "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Na zgornjem delu roba vrat",
+    "CL_CF_CS_washing_machine_scan_guide_label_4": "##Na hrbtni strani - ##Če imate pralni stroj z zgornjim polnjenjem, najdete nalepko na hrbtni strani."
 }

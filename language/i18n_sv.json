@@ -6724,7 +6724,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step6_new": "En nedräkning startar på displayen. Enhetens nätverk är nu öppet för anslutning i 5 minuter. \n Du kan nu slutföra parkopplingsprocessen i appen. ",
     "CL_DV_ENG_ota_updating": "Firmware uppdateras, {1} klar.",
     "reached_daily_limit": "NÅDD DAGLIG GRÄNS",
-    "reached_daily_limit_content": "Du har nått din dagliga gräns på 3 försök. Försök igen imorgon.",
+    "reached_daily_limit_content": "Du kan generera ett nytt AI-recept upp till 3 gånger per måltid. För att skapa fler, stäng den här sidan och starta en ny AI-receptgenerering.",
     "CL_SL_CM_laundry_low_detergent": "Otillräckligt med tvättmedel",
     "CL_SL_CM_laundry_low_detergent_desc": "Tvättmedels-/sköljmedelslagret i ditt hem börjar ta slut, vänligen fyll på det snarast.",
     "add_now": "LÄGG TILL NU",
@@ -6955,5 +6955,15 @@
     "CL_CF_legal_content": "För att använda den här appen och ta emot våra tjänster måste du bekräfta och godkänna följande villkor. Om du inte godkänner kan du inte använda appen.",
     "CL_CF_legal_terms_cond": "Jag har läst och godkänner <b> slutanvändarvillkoren </b>",
     "CL_CF_legal_privacy_policy": "Jag har läst och godkänner <b> ConnectLifes integritetspolicy </b>",
-    "CL_CF_legal_eu_data": "Jag har läst och godkänner <b> EU:s dataskyddslags meddelande </b>"
+    "CL_CF_legal_eu_data": "Jag har läst och godkänner <b> EU:s dataskyddslags meddelande </b>",
+    "CL_DV_OV_save_picture": "Spara bild",
+    "CL_CF_CS_scan_oven_tip": "För att ansluta din enhet behöver du dess unika identifieringskod. Denna kod finns på enhetens etikett. Du hittar etiketten på insidan av dörrkarmen, på vänster sida.",
+    "CL_CF_CS_scan_fridge_tip": "För att ansluta din enhet behöver du dess unika identifieringskod. Denna kod finns på enhetens etikett. Du hittar etiketten till vänster inuti.",
+    "CL_CF_CS_scan_washing_machine_tip": "För att ansluta din enhet behöver du dess unika identifieringskod. Denna kod finns på enhetens etikett. Du hittar etiketten på insidan av dörren, på kanten eller precis under dörröppningen.",
+    "CL_CF_CS_washing_machine_scan_guide_option1": "Alternativ 1: På tvättmaskinen",
+    "CL_CF_CS_washing_machine_scan_guide_label": "Din tvättmaskin har en enhetsetikett med en unik identifieringskod. Den finns på en av dessa platser:",
+    "CL_CF_CS_washing_machine_scan_guide_label_1": "1. Under dörröppningen",
+    "CL_CF_CS_washing_machine_scan_guide_label_2": "2. På dörrens insida",
+    "CL_CF_CS_washing_machine_scan_guide_label_3": "3. På den övre delen av dörrkanten",
+    "CL_CF_CS_washing_machine_scan_guide_label_4": "##På baksidan - ##Om du har en tvättmaskin med toppmatning finns etiketten på baksidan."
 }
