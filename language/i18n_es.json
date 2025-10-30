@@ -6724,7 +6724,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step6_new": "Comienza una cuenta regresiva en la pantalla. La red del dispositivo está disponible para la conexión durante 5 minutos. \n Ahora puedes finalizar el proceso de emparejamiento en la app. ",
     "CL_DV_ENG_ota_updating": "El firmware se está actualizando, {1} finalizado.",
     "reached_daily_limit": "LÍMITE DIARIO ALCANZADO",
-    "reached_daily_limit_content": "Has alcanzado tu límite diario de 3 intentos. Vuelve a intentarlo mañana.",
+    "reached_daily_limit_content": "Puedes generar una nueva receta de IA hasta 3 veces por comida. Para crear más, cierra esta página e inicia una nueva generación de recetas de IA.",
     "CL_SL_CM_laundry_low_detergent": "Detergente insuficiente",
     "CL_SL_CM_laundry_low_detergent_desc": "Las existencias de detergente/suavizante en su hogar se están agotando, por favor repóngalas lo antes posible.",
     "add_now": "AÑADIR AHORA",
@@ -6955,5 +6955,15 @@
     "CL_CF_legal_content": "Para usar esta aplicación y recibir nuestros servicios, debe aceptar las siguientes condiciones. Si no las acepta, no podrá usar la aplicación.",
     "CL_CF_legal_terms_cond": "He leído y acepto los <b> términos y condiciones de usuario final </b>",
     "CL_CF_legal_privacy_policy": "He leído y acepto la <b> Política de privacidad de ConnectLife </b>",
-    "CL_CF_legal_eu_data": "He leído y acepto la <b> Notificación de la Ley de Protección de Datos de la UE </b>"
+    "CL_CF_legal_eu_data": "He leído y acepto la <b> Notificación de la Ley de Protección de Datos de la UE </b>",
+    "CL_DV_OV_save_picture": "Guardar imagen",
+    "CL_CF_CS_scan_oven_tip": "Para conectar tu dispositivo, necesitarás su código de identificación único. Este código se encuentra en la etiqueta del dispositivo. Puedes encontrar la etiqueta dentro del marco de la puerta, en el lado izquierdo.",
+    "CL_CF_CS_scan_fridge_tip": "Para conectar tu dispositivo, necesitarás su código de identificación único. Este código se encuentra en la etiqueta del dispositivo, que está en el interior izquierdo.",
+    "CL_CF_CS_scan_washing_machine_tip": "Para conectar tu dispositivo, necesitarás su código de identificación único. Este código se encuentra en la etiqueta del dispositivo. Puedes encontrar la etiqueta en el interior de la puerta, en el marco o justo debajo de la abertura de la puerta.",
+    "CL_CF_CS_washing_machine_scan_guide_option1": "Opción 1: En la lavadora",
+    "CL_CF_CS_washing_machine_scan_guide_label": "Tu lavadora tiene una etiqueta con un código de identificación único. Se encuentra en uno de estos lugares:",
+    "CL_CF_CS_washing_machine_scan_guide_label_1": "1. Debajo de la abertura de la puerta",
+    "CL_CF_CS_washing_machine_scan_guide_label_2": "2. En el borde interior del marco de la puerta",
+    "CL_CF_CS_washing_machine_scan_guide_label_3": "3. En la parte superior del marco de la puerta",
+    "CL_CF_CS_washing_machine_scan_guide_label_4": "##En la parte posterior - ##Si tiene una lavadora de carga superior, la etiqueta se encuentra en la parte posterior."
 }

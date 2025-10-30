@@ -6724,7 +6724,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step6_new": "Kira detik bermula pada paparan. Rangkaian peranti kini dibuka untuk sambungan selama 5 minit. \n Anda kini boleh menyelesaikan proses berpasangan dalam apl. ",
     "CL_DV_ENG_ota_updating": "Perisian tegar sedang dikemas kini, {1} selesai.",
     "reached_daily_limit": "MENCAPAI HAD HARIAN",
-    "reached_daily_limit_content": "Anda telah mencapai had harian anda sebanyak 3 percubaan. Sila cuba lagi esok.",
+    "reached_daily_limit_content": "Anda boleh menjana resipi AI baharu sehingga 3 kali setiap hidangan. Untuk mencipta lebih banyak lagi, sila tutup halaman ini dan mulakan penjanaan resipi AI baharu.",
     "CL_SL_CM_laundry_low_detergent": "Detergen yang tidak mencukupi",
     "CL_SL_CM_laundry_low_detergent_desc": "Stok detergen/pelembut di rumah anda semakin berkurangan, sila isi semula dengan segera.",
     "add_now": "TAMBAH SEKARANG",
@@ -6955,5 +6955,15 @@
     "CL_CF_legal_content": "Untuk menggunakan aplikasi ini dan menerima perkhidmatan kami, anda dikehendaki untuk mengakui dan bersetuju menerima prasyarat berikut. Jika anda tidak bersetuju, anda tidak boleh menggunakan aplikasinya.",
     "CL_CF_legal_terms_cond": "Saya telah membaca dan bersetuju menerima <b> terma dan syarat pengguna akhir </b>",
     "CL_CF_legal_privacy_policy": "Saya telah membaca dan bersetuju menerima <b> Dasar privasi ConnectLife </b>",
-    "CL_CF_legal_eu_data": "Saya telah membaca dan bersetuju menerima <b> Pemberitahuan Akta Data EU </b>"
+    "CL_CF_legal_eu_data": "Saya telah membaca dan bersetuju menerima <b> Pemberitahuan Akta Data EU </b>",
+    "CL_DV_OV_save_picture": "Simpan gambar",
+    "CL_CF_CS_scan_oven_tip": "Untuk menyambungkan peranti anda, anda memerlukan kod pengenalan uniknya. Kod ini boleh didapati pada label peranti. Anda boleh menemui label di dalam bingkai pintu, di sebelah kiri.",
+    "CL_CF_CS_scan_fridge_tip": "Untuk menyambungkan peranti anda, anda memerlukan kod pengenalan uniknya. Kod ini boleh didapati pada label peranti. Anda boleh mencari label di sebelah kiri di dalam.",
+    "CL_CF_CS_scan_washing_machine_tip": "Untuk menyambungkan peranti anda, anda memerlukan kod pengenalan uniknya. Kod ini boleh didapati pada label peranti. Anda boleh menemui label di dalam pintu, pada rim, atau betul-betul di bawah pembukaan pintu.",
+    "CL_CF_CS_washing_machine_scan_guide_option1": "Pilihan 1: Pada mesin basuh",
+    "CL_CF_CS_washing_machine_scan_guide_label": "Mesin basuh anda mempunyai label peranti dengan kod pengenalan unik. Ia terletak di salah satu tempat ini:",
+    "CL_CF_CS_washing_machine_scan_guide_label_1": "1. Di bawah pembukaan pintu",
+    "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Di bahagian dalam tepi rim pintu",
+    "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Di bahagian atas rim pintu",
+    "CL_CF_CS_washing_machine_scan_guide_label_4": "##Di bahagian belakang - ##Jika anda mempunyai mesin basuh muatan atas, label boleh didapati di bahagian belakang."
 }

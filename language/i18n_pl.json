@@ -6724,7 +6724,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step6_new": "Na wyświetlaczu rozpocznie się odliczanie. Sieć urządzenia będzie teraz otwarta i będzie można nawiązać połączenie przez 5 minut. \n Możesz teraz dokończyć proces parowania w aplikacji. ",
     "CL_DV_ENG_ota_updating": "Trwa aktualizacja oprogramowania sprzętowego, {1} zakończono.",
     "reached_daily_limit": "OSIĄGNIĘTO LIMIT DZIENNY",
-    "reached_daily_limit_content": "Osiągnąłeś dzienny limit 3 prób. Spróbuj ponownie jutro.",
+    "reached_daily_limit_content": "Możesz wygenerować nowy przepis AI do 3 razy na posiłek. Aby utworzyć więcej, zamknij tę stronę i rozpocznij generowanie nowego przepisu AI.",
     "CL_SL_CM_laundry_low_detergent": "Niewystarczająca ilość detergentu",
     "CL_SL_CM_laundry_low_detergent_desc": "Zapasy detergentu/płynu zmiękczającego w Twoim domu są na wyczerpaniu. Prosimy o niezwłoczne uzupełnienie zapasów.",
     "add_now": "DODAJ TERAZ",
@@ -6955,5 +6955,15 @@
     "CL_CF_legal_content": "Aby korzystać z tej aplikacji i naszych usług, musisz zaakceptować poniższe warunki. W przeciwnym razie korzystanie z aplikacji będzie niemożliwe.",
     "CL_CF_legal_terms_cond": "Przeczytałem i akceptuję <b> Warunki korzystania z usługi dla użytkownika końcowego </b>",
     "CL_CF_legal_privacy_policy": "Przeczytałem i akceptuję <b> Politykę prywatności ConnectLife </b>",
-    "CL_CF_legal_eu_data": "Przeczytałem(-am) i akceptuję <b> Powiadomienie dotyczące ustawy UE o danych </b>"
+    "CL_CF_legal_eu_data": "Przeczytałem(-am) i akceptuję <b> Powiadomienie dotyczące ustawy UE o danych </b>",
+    "CL_DV_OV_save_picture": "Zapisz obraz",
+    "CL_CF_CS_scan_oven_tip": "Aby podłączyć urządzenie, potrzebny jest jego unikalny kod identyfikacyjny. Znajdziesz go na etykiecie urządzenia. Etykieta znajduje się po wewnętrznej stronie ościeżnicy, po lewej stronie.",
+    "CL_CF_CS_scan_fridge_tip": "Aby podłączyć urządzenie, potrzebny jest jego unikalny kod identyfikacyjny. Znajdziesz go na etykiecie urządzenia, po lewej stronie w środku.",
+    "CL_CF_CS_scan_washing_machine_tip": "Aby podłączyć urządzenie, potrzebny jest jego unikalny kod identyfikacyjny. Znajdziesz go na etykiecie urządzenia. Etykieta znajduje się po wewnętrznej stronie drzwi, na krawędzi lub tuż pod otworem drzwiowym.",
+    "CL_CF_CS_washing_machine_scan_guide_option1": "Opcja 1: W pralce",
+    "CL_CF_CS_washing_machine_scan_guide_label": "Twoja pralka ma etykietę z unikalnym kodem identyfikacyjnym. Znajduje się ona w jednym z następujących miejsc:",
+    "CL_CF_CS_washing_machine_scan_guide_label_1": "1.Pod otworem drzwiowym",
+    "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Na wewnętrznej krawędzi obramowania drzwi",
+    "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Na górnej części obręczy drzwi",
+    "CL_CF_CS_washing_machine_scan_guide_label_4": "##Z tyłu - ##Jeśli masz pralkę ładowaną od góry, etykietę znajdziesz z tyłu."
 }
