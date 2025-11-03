@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Halten Sie die Taste #### für ca. 3-6 Sekunden gedrückt, bis Sie einen Piepton hören.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Vergewissern Sie sich, dass auf dem Display des @Geräts „P2“ angezeigt wird. Dies bedeutet, dass sich das Gerät jetzt im Wi-Fi-Pairing-Modus befindet. Sollte das Display nicht „P2“ anzeigen, wiederholen Sie bitte Schritt 2.",
     "CL_CF_CS_password_input_tip": "Die Eingabe eines falschen WLAN-Passworts ist einer der häufigsten Fehlergründe. Bitte überprüfen Sie das WLAN-Passwort daher noch einmal.",
-    "CL_CF_CS_password_input_limit_tip": "Passwörter müssen mindestens acht Zeichen enthalten."
+    "CL_CF_CS_password_input_limit_tip": "Passwörter müssen mindestens acht Zeichen enthalten.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Stellen Sie zunächst sicher, dass Bluetooth auf Ihrem Telefon aktiviert ist. Drücken und halten Sie dann bei ausgeschaltetem Gerät gleichzeitig die beiden rechten Tasten und schalten Sie das Gerät anschließend ein, um ins Servicemenü zu gelangen.",
+    "CL_CF_CS_washing_machine_003_cs_2": "Klicken Sie im Servicemenü auf die Schaltfläche „Einstellungen“ und navigieren Sie durch Drehen des Drehknopfs zu „WLAN-Einstellungen“. Klicken Sie anschließend auf die Schaltfläche, um die Einstellungen aufzurufen. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Stellen Sie sicher, dass WLAN eingeschaltet ist, und klicken Sie dann auf die Schaltfläche „Verbindung einrichten“.",
+    "CL_CF_CS_washing_machine_003_cs_4": "Das Gerätenetzwerk ist nun für 5 Minuten zur Verbindung geöffnet. Klicken Sie auf „WEITER“, um die Einrichtung in der App abzuschließen. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Das Gerätenetzwerk ist nun für 5 Minuten zur Verbindung geöffnet. Klicken Sie auf „WEITER“, um die Einrichtung in der App abzuschließen. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Das Gerätenetzwerk ist nun für 3 Minuten zur Verbindung geöffnet. Klicken Sie auf „WEITER“, um die Einrichtung in der App abzuschließen. "
 }

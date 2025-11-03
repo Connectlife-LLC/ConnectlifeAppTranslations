@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Stiskněte a podržte tlačítko #### po dobu přibližně 3–6 sekund, dokud neuslyšíte pípnutí.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Potvrďte, že se na displeji @zařízení zobrazuje „P2“.# To znamená, že jednotka je nyní v režimu párování Wi-Fi. Pokud se na displeji nezobrazí „P2“, opakujte prosím krok 2.",
     "CL_CF_CS_password_input_tip": "Zadání nesprávného hesla k Wi-Fi je jedním z nejčastějších důvodů selhání, proto si heslo k Wi-Fi znovu zkontrolujte.",
-    "CL_CF_CS_password_input_limit_tip": "Hesla musí obsahovat alespoň osm znaků."
+    "CL_CF_CS_password_input_limit_tip": "Hesla musí obsahovat alespoň osm znaků.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Nejprve se ujistěte, že máte v telefonu aktivovaný Bluetooth. Poté, když je zařízení vypnuté, stiskněte a podržte současně dvě tlačítka vpravo a poté zařízení zapněte, abyste se dostali do servisní nabídky.",
+    "CL_CF_CS_washing_machine_003_cs_2": "V servisní nabídce klikněte na tlačítko „Nastavení“ a otáčením knoflíku přejděte na „Nastavení WiFi“, poté kliknutím na tlačítko vstupte. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Ujistěte se, že je Wi-Fi „zapnuto“, a poté klikněte na tlačítko „Nastavení připojení“.",
+    "CL_CF_CS_washing_machine_003_cs_4": "Síť zařízení je nyní otevřená pro připojení po dobu 5 minut. Kliknutím na tlačítko „DALŠÍ“ dokončete nastavení v aplikaci. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Síť zařízení je nyní otevřená pro připojení po dobu 5 minut. Kliknutím na tlačítko „DALŠÍ“ dokončete nastavení v aplikaci. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Síť zařízení je nyní otevřená pro připojení po dobu 3 minut. Kliknutím na tlačítko „DALŠÍ“ dokončete nastavení v aplikaci. "
 }

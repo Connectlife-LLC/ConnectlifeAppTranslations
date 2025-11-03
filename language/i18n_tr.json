@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "#### düğmesini yaklaşık 3-6 saniye boyunca, bir bip sesi duyana kadar basılı tutun.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "@cihazın ekranında \"P2\" yazdığını onaylayın.# Bu, ünitenin artık Wi-Fi eşleştirme modunda olduğu anlamına gelir. Ekran \"P2\" göstermiyorsa, lütfen Adım 2'yi tekrarlayın.",
     "CL_CF_CS_password_input_tip": "Hatalı Wi-Fi şifresi girişi başarısızlığın en yaygın nedenlerinden biridir, lütfen Wi-Fi şifrenizi tekrar kontrol edin.",
-    "CL_CF_CS_password_input_limit_tip": "Şifreler en az sekiz karakterden oluşmalıdır."
+    "CL_CF_CS_password_input_limit_tip": "Şifreler en az sekiz karakterden oluşmalıdır.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Öncelikle telefonunuzda Bluetooth'un açık olduğundan emin olun. Ardından, cihaz kapalıyken en sağdaki iki düğmeye aynı anda basılı tutun ve cihazı açarak servis menüsüne girin.",
+    "CL_CF_CS_washing_machine_003_cs_2": "Servis menüsünde “Ayarlar” butonuna tıklayın ve düğmeyi çevirerek “WiFi ayarları”na gidin, ardından giriş yapmak için butona tıklayın. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "WiFi'nin \"Açık\" olduğundan emin olun ve ardından \"Bağlantı kurulumu\" düğmesine tıklayın",
+    "CL_CF_CS_washing_machine_003_cs_4": "Cihaz ağı artık 5 dakikalığına bağlantıya açık. Uygulamada kurulumu tamamlamak için \"İLERİ\"ye tıklayın. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Cihaz ağı artık 5 dakikalığına bağlantıya açık. Uygulamada kurulumu tamamlamak için \"İLERİ\"ye tıklayın. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Cihaz ağı artık 3 dakikalığına bağlantıya açık. Uygulamada kurulumu tamamlamak için \"İLERİ\"ye tıklayın. "
 }

@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "按住 #### 按钮约 3-6 秒，直到听到哔声。",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "确认设备显示屏显示“P2”。这表示设备已进入 Wi-Fi 配对模式。如果显示屏未显示“P2”，请重复步骤 2。",
     "CL_CF_CS_password_input_tip": "输入错误的 Wi-Fi 密码是导致连接失败的最常见原因之一，请仔细检查 Wi-Fi 密码。",
-    "CL_CF_CS_password_input_limit_tip": "密码必须至少包含八个字符。"
+    "CL_CF_CS_password_input_limit_tip": "密码必须至少包含八个字符。",
+    "CL_CF_CS_washing_machine_003_cs_1": "首先，请确保手机蓝牙已开启。然后，在机器关机状态下，同时按住最右侧的两个按钮，再开机进入服务菜单。",
+    "CL_CF_CS_washing_machine_003_cs_2": "在服务菜单中，点击“设置”按钮，然后旋转旋钮导航至“WiFi 设置”，再点击按钮进入。 ",
+    "CL_CF_CS_washing_machine_003_cs_3": "请确保WiFi已开启，然后点击“连接设置”按钮。",
+    "CL_CF_CS_washing_machine_003_cs_4": "设备网络现已开放连接，有效期为5分钟。点击“下一步”完成应用程序中的设置。 ",
+    "CL_CF_CS_washing_machine_003_p_3": "设备网络现已开放连接，有效期为5分钟。点击“下一步”完成应用程序中的设置。 ",
+    "CL_CF_CS_washing_machine_003_p_4": "设备网络现已开放连接，有效期为3分钟。点击“下一步”完成应用程序中的设置。 "
 }

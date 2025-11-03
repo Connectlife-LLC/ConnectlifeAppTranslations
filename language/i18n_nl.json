@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Houd de ####-knop ongeveer 3 tot 6 seconden ingedrukt totdat u een pieptoon hoort.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Controleer of op het display van het @apparaat \"P2\" wordt weergegeven.# Dit betekent dat het apparaat nu in de Wi-Fi-koppelingsmodus staat. Als het display \"P2\" niet weergeeft, herhaal dan stap 2.",
     "CL_CF_CS_password_input_tip": "Het invoeren van een onjuist wifi-wachtwoord is een van de meest voorkomende redenen dat de verbinding mislukt. Controleer uw wifi-wachtwoord nogmaals.",
-    "CL_CF_CS_password_input_limit_tip": "Wachtwoorden moeten minimaal acht tekens bevatten."
+    "CL_CF_CS_password_input_limit_tip": "Wachtwoorden moeten minimaal acht tekens bevatten.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Zorg er eerst voor dat Bluetooth op je telefoon is geactiveerd. Houd vervolgens, terwijl het apparaat uit staat, de twee knoppen helemaal rechts tegelijk ingedrukt en schakel het apparaat vervolgens in om het servicemenu te openen.",
+    "CL_CF_CS_washing_machine_003_cs_2": "Klik in het servicemenu op de knop voor \"Instellingen\" en navigeer naar \"WiFi-instellingen\" door aan de knop te draaien. Klik vervolgens op de knop om te openen. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Zorg ervoor dat WiFi op 'Aan' staat en klik vervolgens op de knop 'Verbinding instellen'",
+    "CL_CF_CS_washing_machine_003_cs_4": "Het netwerk van het apparaat is nu 5 minuten open voor verbinding. Klik op \"VOLGENDE\" om de installatie in de app te voltooien. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Het netwerk van het apparaat is nu 5 minuten open voor verbinding. Klik op \"VOLGENDE\" om de installatie in de app te voltooien. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Het netwerk van het apparaat is nu 3 minuten open voor verbinding. Klik op \"VOLGENDE\" om de installatie in de app te voltooien. "
 }

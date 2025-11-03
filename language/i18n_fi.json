@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Paina ####-painiketta noin 3–6 sekuntia, kunnes kuulet piippauksen.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Varmista, että @laitteen näytössä lukee \"P2\".# Tämä tarkoittaa, että laite on nyt Wi-Fi-pariliitostilassa. Jos näytössä ei näy \"P2\", toista vaihe 2.",
     "CL_CF_CS_password_input_tip": "Väärän Wi-Fi-salasanan syöttäminen on yksi yleisimmistä epäonnistumisen syistä, tarkista Wi-Fi-salasana kahdesti.",
-    "CL_CF_CS_password_input_limit_tip": "Salasanojen on sisällettävä vähintään kahdeksan merkkiä."
+    "CL_CF_CS_password_input_limit_tip": "Salasanojen on sisällettävä vähintään kahdeksan merkkiä.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Varmista ensin, että puhelimesi Bluetooth on käytössä. Kun laite on sammutettu, paina ja pidä pohjassa kahta oikeanpuoleisinta painiketta samanaikaisesti ja käynnistä laite sitten siirtyäksesi huoltovalikkoon.",
+    "CL_CF_CS_washing_machine_003_cs_2": "Napsauta huoltovalikossa ”Asetukset”-painiketta ja siirry kohtaan ”WiFi-asetukset” kääntämällä nuppia. Siirry sitten valikkokohtaan napsauttamalla painiketta. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Varmista, että WiFi on käytössä ja napsauta sitten \"Yhteyden määritys\" -painiketta.",
+    "CL_CF_CS_washing_machine_003_cs_4": "Laitteen verkko on nyt avoinna yhteydelle 5 minuutin ajan. Viimeistele asennus sovelluksessa napsauttamalla \"SEURAAVA\". ",
+    "CL_CF_CS_washing_machine_003_p_3": "Laitteen verkko on nyt avoinna yhteydelle 5 minuutin ajan. Viimeistele asennus sovelluksessa napsauttamalla \"SEURAAVA\". ",
+    "CL_CF_CS_washing_machine_003_p_4": "Laitteen verkko on nyt avoinna yhteydelle 3 minuutin ajan. Viimeistele asennus sovelluksessa napsauttamalla \"SEURAAVA\". "
 }

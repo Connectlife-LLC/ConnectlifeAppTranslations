@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Trykk og hold inne ####-knappen i ca. 3–6 sekunder til du hører et pip.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Bekreft at @enhetens skjerm viser \"P2\".# Dette betyr at enheten nå er i Wi-Fi-paringsmodus. Hvis displayet ikke viser \"P2\", gjenta trinn 2.",
     "CL_CF_CS_password_input_tip": "Å skrive inn feil Wi-Fi-passord er en av de vanligste årsakene til feil. Dobbeltsjekk Wi-Fi-passordet.",
-    "CL_CF_CS_password_input_limit_tip": "Passord må inneholde minst åtte tegn."
+    "CL_CF_CS_password_input_limit_tip": "Passord må inneholde minst åtte tegn.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Først må du sørge for at Bluetooth er aktivert på telefonen din. Når maskinen er slått av, trykker du deretter på og holder inne de to knappene ytterst til høyre samtidig, og slår deretter på maskinen for å gå inn i servicemenyen.",
+    "CL_CF_CS_washing_machine_003_cs_2": "I servicemenyen klikker du på knappen for «Innstillinger» og navigerer til «WiFi-innstillinger» ved å vri på knotten. Klikk deretter på knappen for å åpne. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Sørg for at WiFi er «På», og klikk deretter på knappen for «Tilkoblingsoppsett».",
+    "CL_CF_CS_washing_machine_003_cs_4": "Enhetens nettverk er nå åpent for tilkobling i 5 minutter. Klikk på «NESTE» for å fullføre oppsettet i appen. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Enhetens nettverk er nå åpent for tilkobling i 5 minutter. Klikk på «NESTE» for å fullføre oppsettet i appen. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Enhetens nettverk er nå åpent for tilkobling i 3 minutter. Klikk på «NESTE» for å fullføre oppsettet i appen. "
 }

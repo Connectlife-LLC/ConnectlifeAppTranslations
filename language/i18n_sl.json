@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Pritisnite in držite gumb #### približno 3–6 sekund, dokler ne zaslišite piska.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Prepričajte se, da se na zaslonu @naprave prikaže \"P2\".# To pomeni, da je enota zdaj v načinu združevanja Wi-Fi. Če zaslon ne prikazuje \"P2\", ponovite 2. korak.",
     "CL_CF_CS_password_input_tip": "Vnos napačnega gesla za Wi-Fi je eden najpogostejših razlogov za neuspeh, zato dvakrat preverite geslo za Wi-Fi.",
-    "CL_CF_CS_password_input_limit_tip": "Gesla morajo vsebovati vsaj osem znakov."
+    "CL_CF_CS_password_input_limit_tip": "Gesla morajo vsebovati vsaj osem znakov.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Najprej se prepričajte, da je na vašem telefonu aktiviran Bluetooth. Nato, ko je naprava izklopljena, hkrati pritisnite in držite dva skrajno desna gumba in nato vklopite napravo, da vstopite v servisni meni.",
+    "CL_CF_CS_washing_machine_003_cs_2": "V servisnem meniju kliknite gumb »Nastavitve« in se z obračanjem gumba pomaknite do »Nastavitve WiFi«, nato pa kliknite gumb za vstop. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Prepričajte se, da je WiFi »Vklopljen«, nato pa kliknite gumb »Nastavitev povezave«.",
+    "CL_CF_CS_washing_machine_003_cs_4": "Omrežje naprave je zdaj odprto za povezavo 5 minut. Kliknite »NAPREJ«, da dokončate nastavitev v aplikaciji. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Omrežje naprave je zdaj odprto za povezavo 5 minut. Kliknite »NAPREJ«, da dokončate nastavitev v aplikaciji. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Omrežje naprave je zdaj odprto za povezavo 3 minute. Kliknite »NAPREJ«, da dokončate nastavitev v aplikaciji. "
 }

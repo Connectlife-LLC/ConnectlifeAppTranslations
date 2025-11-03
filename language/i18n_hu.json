@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Nyomja meg és tartsa lenyomva a #### gombot körülbelül 3-6 másodpercig, amíg sípoló hangot nem hall.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Győződjön meg arról, hogy a @eszköz kijelzőjén a „P2” felirat olvasható.# Ez azt jelenti, hogy az egység most Wi-Fi párosítási módban van. Ha a kijelzőn nem jelenik meg a „P2”, ismételje meg a 2. lépést.",
     "CL_CF_CS_password_input_tip": "A helytelen Wi-Fi jelszó megadása az egyik leggyakoribb hiba oka, kérjük, ellenőrizze a Wi-Fi jelszót.",
-    "CL_CF_CS_password_input_limit_tip": "A jelszavaknak legalább nyolc karaktert kell tartalmazniuk."
+    "CL_CF_CS_password_input_limit_tip": "A jelszavaknak legalább nyolc karaktert kell tartalmazniuk.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Először is ellenőrizd, hogy a Bluetooth be van-e kapcsolva a telefonodon. Ezután, amikor a készülék ki van kapcsolva, nyomd meg és tartsd lenyomva a két jobb szélső gombot egyszerre, majd kapcsold be a készüléket a szervizmenübe való belépéshez.",
+    "CL_CF_CS_washing_machine_003_cs_2": "A szervizmenüben kattintson a „Beállítások” gombra, majd a tekerőgomb elforgatásával navigáljon a „WiFi beállítások” menüpontra, és kattintson a gombra a belépéshez. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Győződjön meg róla, hogy a WiFi be van kapcsolva, majd kattintson a „Kapcsolat beállítása” gombra.",
+    "CL_CF_CS_washing_machine_003_cs_4": "Az eszköz hálózata most 5 percig csatlakozhat. Kattintson a „TOVÁBB” gombra a beállítás befejezéséhez az alkalmazásban. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Az eszköz hálózata most 5 percig csatlakozhat. Kattintson a „TOVÁBB” gombra a beállítás befejezéséhez az alkalmazásban. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Az eszköz hálózata most 3 percig nyitva áll a csatlakozáshoz. Kattintson a „TOVÁBB” gombra a beállítás befejezéséhez az alkalmazásban. "
 }

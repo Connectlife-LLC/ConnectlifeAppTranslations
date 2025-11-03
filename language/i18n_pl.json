@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Naciśnij i przytrzymaj przycisk #### przez około 3–6 sekund, aż usłyszysz sygnał dźwiękowy.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Potwierdź, że wyświetlacz @urządzenia pokazuje „P2”.# Oznacza to, że urządzenie jest teraz w trybie parowania Wi-Fi. Jeśli wyświetlacz nie pokazuje „P2”, powtórz krok 2.",
     "CL_CF_CS_password_input_tip": "Wprowadzenie nieprawidłowego hasła Wi-Fi jest jedną z najczęstszych przyczyn niepowodzeń. Sprawdź dokładnie hasło Wi-Fi.",
-    "CL_CF_CS_password_input_limit_tip": "Hasło musi zawierać co najmniej osiem znaków."
+    "CL_CF_CS_password_input_limit_tip": "Hasło musi zawierać co najmniej osiem znaków.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Najpierw upewnij się, że Bluetooth w telefonie jest aktywny. Następnie, gdy urządzenie jest wyłączone, naciśnij i przytrzymaj jednocześnie dwa przyciski po prawej stronie, a następnie włącz urządzenie, aby wejść do menu serwisowego.",
+    "CL_CF_CS_washing_machine_003_cs_2": "W menu serwisowym kliknij przycisk „Ustawienia” i przejdź do „Ustawień WiFi”, obracając pokrętło, a następnie kliknij przycisk, aby wejść. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Upewnij się, że Wi-Fi jest włączone, a następnie kliknij przycisk „Konfiguracja połączenia”",
+    "CL_CF_CS_washing_machine_003_cs_4": "Sieć urządzenia jest teraz otwarta i można na nią nawiązać połączenie przez 5 minut. Kliknij „DALEJ”, aby zakończyć konfigurację w aplikacji. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Sieć urządzenia jest teraz otwarta i można na nią nawiązać połączenie przez 5 minut. Kliknij „DALEJ”, aby zakończyć konfigurację w aplikacji. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Sieć urządzenia jest teraz otwarta i można na nią nawiązać połączenie przez 3 minuty. Kliknij „DALEJ”, aby zakończyć konfigurację w aplikacji. "
 }

@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Tekan dan tahan tombol #### selama sekitar 3-6 detik hingga Anda mendengar bunyi bip.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Konfirmasikan bahwa tampilan @perangkat membaca \"P2\".# Ini berarti bahwa unit sekarang dalam mode pemasangan Wi-Fi. Jika tampilan tidak menunjukkan \"P2\", ulangi Langkah 2.",
     "CL_CF_CS_password_input_tip": "Memasukkan kata sandi Wi-Fi yang salah adalah salah satu alasan paling umum kegagalan, silakan periksa ulang kata sandi Wi-Fi.",
-    "CL_CF_CS_password_input_limit_tip": "Kata sandi harus berisi setidaknya delapan karakter."
+    "CL_CF_CS_password_input_limit_tip": "Kata sandi harus berisi setidaknya delapan karakter.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Pertama, pastikan Bluetooth di ponsel Anda aktif. Kemudian, saat mesin mati, tekan dan tahan dua tombol paling kanan secara bersamaan, lalu nyalakan mesin untuk masuk ke menu layanan.",
+    "CL_CF_CS_washing_machine_003_cs_2": "Pada menu layanan, klik tombol “Pengaturan” dan arahkan ke “Pengaturan WiFi” dengan memutar kenop, lalu klik tombol untuk masuk. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Pastikan WiFi dalam keadaan “On” lalu klik tombol “Connection setup”",
+    "CL_CF_CS_washing_machine_003_cs_4": "Jaringan perangkat kini terbuka untuk koneksi selama 5 menit. Klik \"BERIKUTNYA\" untuk menyelesaikan pengaturan di aplikasi. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Jaringan perangkat kini terbuka untuk koneksi selama 5 menit. Klik \"BERIKUTNYA\" untuk menyelesaikan pengaturan di aplikasi. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Jaringan perangkat kini terbuka untuk koneksi selama 3 menit. Klik \"BERIKUTNYA\" untuk menyelesaikan pengaturan di aplikasi. "
 }

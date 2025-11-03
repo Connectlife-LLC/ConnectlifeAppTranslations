@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Tekan dan tahan butang #### untuk lebih kurang. 3-6 saat sehingga anda mendengar bunyi bip.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Sahkan bahawa paparan @peranti berbunyi \"P2\".# Ini bermakna unit kini berada dalam mod berpasangan Wi-Fi. Jika paparan tidak menunjukkan \"P2\", sila ulangi Langkah 2.",
     "CL_CF_CS_password_input_tip": "Memasukkan kata laluan Wi-Fi yang salah adalah salah satu sebab yang paling biasa untuk kegagalan, sila semak semula kata laluan Wi-Fi.",
-    "CL_CF_CS_password_input_limit_tip": "Kata laluan mesti mengandungi sekurang-kurangnya lapan aksara."
+    "CL_CF_CS_password_input_limit_tip": "Kata laluan mesti mengandungi sekurang-kurangnya lapan aksara.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Mula-mula, pastikan Bluetooth anda diaktifkan pada telefon anda. Kemudian, apabila mesin dimatikan, tekan dan tahan dua butang paling kanan pada masa yang sama dan kemudian hidupkan mesin untuk memasuki menu perkhidmatan.",
+    "CL_CF_CS_washing_machine_003_cs_2": "Dalam menu perkhidmatan, klik butang untuk \"Tetapan\" dan navigasi ke \"tetapan WiFi\" dengan memutar tombol, kemudian klik butang untuk masuk. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Pastikan WiFi \"Hidup\" kemudian klik butang untuk \"Persediaan Sambungan\"",
+    "CL_CF_CS_washing_machine_003_cs_4": "Rangkaian peranti kini dibuka untuk sambungan selama 5 minit. Klik \"SETERUSNYA\" untuk melengkapkan persediaan dalam apl. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Rangkaian peranti kini dibuka untuk sambungan selama 5 minit. Klik \"SETERUSNYA\" untuk melengkapkan persediaan dalam apl. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Rangkaian peranti kini dibuka untuk sambungan selama 3 minit. Klik \"SETERUSNYA\" untuk melengkapkan persediaan dalam apl. "
 }

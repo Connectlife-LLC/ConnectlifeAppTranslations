@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Pritisnite i držite tipku #### otprilike 3-6 sekundi dok ne čujete zvučni signal.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Potvrdite da na zaslonu @uređaja piše \"P2\".# To znači da je jedinica sada u načinu Wi-Fi uparivanja. Ako zaslon ne prikazuje \"P2\", ponovite korak 2.",
     "CL_CF_CS_password_input_tip": "Unos netočne Wi-Fi lozinke jedan je od najčešćih razloga neuspjeha, stoga dvaput provjerite Wi-Fi lozinku.",
-    "CL_CF_CS_password_input_limit_tip": "Lozinke moraju sadržavati najmanje osam znakova."
+    "CL_CF_CS_password_input_limit_tip": "Lozinke moraju sadržavati najmanje osam znakova.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Prvo provjerite je li Bluetooth na vašem telefonu aktiviran. Zatim, kada je uređaj isključen, istovremeno pritisnite i držite dvije krajnje desne tipke, a zatim uključite uređaj da biste ušli u servisni izbornik.",
+    "CL_CF_CS_washing_machine_003_cs_2": "U servisnom izborniku kliknite gumb za \"Postavke\" i okretanjem gumba idite na \"WiFi postavke\", a zatim kliknite gumb za ulazak. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Provjerite je li WiFi \"Uključen\", a zatim kliknite gumb za \"Postavljanje veze\"",
+    "CL_CF_CS_washing_machine_003_cs_4": "Mreža uređaja sada je otvorena za povezivanje 5 minuta. Kliknite \"DALJE\" da biste dovršili postavljanje u aplikaciji. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Mreža uređaja sada je otvorena za povezivanje 5 minuta. Kliknite \"DALJE\" da biste dovršili postavljanje u aplikaciji. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Mreža uređaja sada je otvorena za povezivanje 3 minute. Kliknite \"DALJE\" da biste dovršili postavljanje u aplikaciji. "
 }

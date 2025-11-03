@@ -6989,5 +6989,11 @@
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Nhấn và giữ nút #### trong khoảng 3-6 giây cho đến khi bạn nghe thấy tiếng bíp.",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_2": "Chờ cho đến khi màn hình hiển thị \"P2\".",
     "CL_CF_CS_password_input_tip": "Nhập sai mật khẩu Wi-Fi là một trong những lý do phổ biến nhất gây ra lỗi, vui lòng kiểm tra lại mật khẩu Wi-Fi.",
-    "CL_CF_CS_password_input_limit_tip": "Mật khẩu phải chứa ít nhất tám ký tự."
+    "CL_CF_CS_password_input_limit_tip": "Mật khẩu phải chứa ít nhất tám ký tự.",
+    "CL_CF_CS_washing_machine_003_cs_1": "Trước tiên, hãy đảm bảo Bluetooth trên điện thoại của bạn đã được bật. Sau đó, khi máy đã tắt, hãy nhấn và giữ đồng thời hai nút ngoài cùng bên phải, rồi bật máy để vào menu dịch vụ.",
+    "CL_CF_CS_washing_machine_003_cs_2": "Trong menu dịch vụ, nhấp vào nút “Cài đặt” và điều hướng đến “Cài đặt WiFi” bằng cách xoay núm, sau đó nhấp vào nút để vào. ",
+    "CL_CF_CS_washing_machine_003_cs_3": "Đảm bảo WiFi được \"Bật\" rồi nhấp vào nút \"Thiết lập kết nối\"",
+    "CL_CF_CS_washing_machine_003_cs_4": "Mạng thiết bị hiện đã mở để kết nối trong 5 phút. Nhấp vào \"TIẾP THEO\" để hoàn tất thiết lập trong ứng dụng. ",
+    "CL_CF_CS_washing_machine_003_p_3": "Mạng thiết bị hiện đã mở để kết nối trong 5 phút. Nhấp vào \"TIẾP THEO\" để hoàn tất thiết lập trong ứng dụng. ",
+    "CL_CF_CS_washing_machine_003_p_4": "Mạng thiết bị hiện đã mở để kết nối trong 3 phút. Nhấp vào \"TIẾP THEO\" để hoàn tất thiết lập trong ứng dụng. "
 }
