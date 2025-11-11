@@ -7066,5 +7066,13 @@
     "CL_DV_WM_Evaluation_completed": "평가가 완료되었습니다.",
     "CL_CF_CS_scan_energy_tip": "기기를 연결하려면 설치자나 서비스 제공업체의 QR 코드를 스캔해야 합니다.",
     "CL_CF_CS_scan_energy_error_tip": "다시 시도해 주세요.",
-    "CL_CF_CS_scan_energy_label": "서비스 제공업체에서 QR 코드를 스캔하세요"
+    "CL_CF_CS_scan_energy_label": "서비스 제공업체에서 QR 코드를 스캔하세요",
+    "CL_DISH_DESIGNER_more_options": "더 많은 옵션 보기",
+    "CL_DISH_DESIGNER_less_options": "더 적은 옵션 표시",
+    "CL_DISH_DESIGNER_appliance_type": "가전제품 종류",
+    "CL_DISH_DESIGNER_appliance_type_tips": "어떻게 요리하고 싶으신가요?",
+    "CL_DISH_DESIGNER_meal_type_tips": "어떤 요리를 하시나요?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "저녁 식사의 어느 부분인가요?",
+    "CL_DISH_DESIGNER_meal_type_content": "아침, 점심, 저녁 중 원하는 메뉴를 선택하세요. 저녁 메뉴는 전채, 메인, 사이드, 디저트로 더욱 세분화할 수 있습니다. 메뉴를 선택하지 않으면 기본적으로 저녁 레시피가 추천됩니다. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "요리할 기기를 선택하세요. 선택하지 않으면 오븐과 가스레인지 모두 사용 가능한 레시피가 제안됩니다. 하나를 선택하면 해당 기기에서만 사용 가능한 레시피가 제한됩니다."
 }

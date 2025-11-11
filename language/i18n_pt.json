@@ -7066,5 +7066,13 @@
     "CL_DV_WM_Evaluation_completed": "Avaliação concluída.",
     "CL_CF_CS_scan_energy_tip": "Para conectar seu dispositivo, você precisará escanear o código QR fornecido pelo instalador ou provedor de serviços.",
     "CL_CF_CS_scan_energy_error_tip": "Por favor, tente novamente.",
-    "CL_CF_CS_scan_energy_label": "Escaneie o código QR do provedor de serviços."
+    "CL_CF_CS_scan_energy_label": "Escaneie o código QR do provedor de serviços.",
+    "CL_DISH_DESIGNER_more_options": "Mostrar mais opções",
+    "CL_DISH_DESIGNER_less_options": "Mostrar menos opções",
+    "CL_DISH_DESIGNER_appliance_type": "Tipo de aparelho",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Como você gostaria de prepará-lo?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Para qual refeição você está cozinhando?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Que parte do jantar?",
+    "CL_DISH_DESIGNER_meal_type_content": "Selecione a refeição que você está preparando: café da manhã, almoço ou jantar. Para o jantar, você pode refinar ainda mais a busca, escolhendo entre entrada, prato principal, acompanhamento ou sobremesa. Se nenhuma seleção for feita, receitas para o jantar serão sugeridas por padrão. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "Escolha o eletrodoméstico que deseja usar para cozinhar. Se nenhuma seleção for feita, serão sugeridas receitas que funcionam tanto no forno quanto no fogão. Selecionar um eletrodoméstico limitará as receitas apenas àquele que você escolheu."
 }
