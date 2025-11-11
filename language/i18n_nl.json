@@ -7066,5 +7066,13 @@
     "CL_DV_WM_Evaluation_completed": "Evaluatie voltooid.",
     "CL_CF_CS_scan_energy_tip": "Om uw apparaat te verbinden, moet u de QR-code van uw installateur of serviceprovider scannen.",
     "CL_CF_CS_scan_energy_error_tip": "Probeer het nog eens.",
-    "CL_CF_CS_scan_energy_label": "Scan QR-code van serviceprovider"
+    "CL_CF_CS_scan_energy_label": "Scan QR-code van serviceprovider",
+    "CL_DISH_DESIGNER_more_options": "Meer opties weergeven",
+    "CL_DISH_DESIGNER_less_options": "Minder opties weergeven",
+    "CL_DISH_DESIGNER_appliance_type": "Apparaattype",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Hoe wilt u het bereiden?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Welke maaltijd ga je koken?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Welk deel van het avondeten?",
+    "CL_DISH_DESIGNER_meal_type_content": "Selecteer de maaltijd die je kookt: ontbijt, lunch of diner. Voor het diner kun je verder verfijnen tot voorgerecht, hoofdgerecht, bijgerecht of dessert. Als je geen keuze maakt, worden standaard recepten voor het diner voorgesteld. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "Kies het apparaat waarmee u wilt koken. Als u geen keuze maakt, worden recepten voorgesteld die geschikt zijn voor zowel de oven als de kookplaat. Als u er één selecteert, worden de recepten alleen voor dat apparaat weergegeven."
 }

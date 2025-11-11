@@ -7066,5 +7066,13 @@
     "CL_DV_WM_Evaluation_completed": "ارزیابی تکمیل شد.",
     "CL_CF_CS_scan_energy_tip": "برای اتصال دستگاه خود، باید کد QR را از نصاب یا ارائه دهنده خدمات خود اسکن کنید.",
     "CL_CF_CS_scan_energy_error_tip": "لطفا دوباره امتحان کنید.",
-    "CL_CF_CS_scan_energy_label": "کد QR را از ارائه دهنده خدمات اسکن کنید"
+    "CL_CF_CS_scan_energy_label": "کد QR را از ارائه دهنده خدمات اسکن کنید",
+    "CL_DISH_DESIGNER_more_options": "نمایش گزینه‌های بیشتر",
+    "CL_DISH_DESIGNER_less_options": "نمایش گزینه‌های کمتر",
+    "CL_DISH_DESIGNER_appliance_type": "نوع دستگاه",
+    "CL_DISH_DESIGNER_appliance_type_tips": "چطور دوست دارید آن را بپزید؟",
+    "CL_DISH_DESIGNER_meal_type_tips": "برای کدام غذا غذا درست می‌کنی؟",
+    "CL_DISH_DESIGNER_dinner_type_tips": "کدوم قسمت شام؟",
+    "CL_DISH_DESIGNER_meal_type_content": "وعده غذایی که برای آن آشپزی می‌کنید را انتخاب کنید؛ صبحانه، ناهار یا شام. برای شام، می‌توانید پیش‌غذا، غذای اصلی، غذای جانبی یا دسر را بیشتر محدود کنید. اگر انتخابی انجام نشود، دستورهای شام به طور پیش‌فرض پیشنهاد می‌شوند. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "دستگاهی را که می‌خواهید با آن آشپزی کنید انتخاب کنید. اگر هیچ انتخابی انجام نشود، دستور پخت‌هایی که هم با فر و هم با اجاق گاز کار می‌کنند پیشنهاد می‌شوند. انتخاب یکی از آنها، دستور پخت‌ها را فقط به آن دستگاه محدود می‌کند."
 }

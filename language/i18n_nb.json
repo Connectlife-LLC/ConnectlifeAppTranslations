@@ -7066,5 +7066,13 @@
     "CL_DV_WM_Evaluation_completed": "Evaluering fullført.",
     "CL_CF_CS_scan_energy_tip": "For å koble til enheten din må du skanne QR-koden fra installatøren eller tjenesteleverandøren din.",
     "CL_CF_CS_scan_energy_error_tip": "Prøv igjen.",
-    "CL_CF_CS_scan_energy_label": "Skann QR-kode fra tjenesteleverandøren"
+    "CL_CF_CS_scan_energy_label": "Skann QR-kode fra tjenesteleverandøren",
+    "CL_DISH_DESIGNER_more_options": "Vis flere alternativer",
+    "CL_DISH_DESIGNER_less_options": "Vis færre alternativer",
+    "CL_DISH_DESIGNER_appliance_type": "Apparattype",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Hvordan vil du lage den?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Hvilket måltid lager du til?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Hvilken del av middagen?",
+    "CL_DISH_DESIGNER_meal_type_content": "Velg måltidet du lager til; frokost, lunsj eller middag. Til middag kan du avgrense ytterligere til forrett, hovedrett, tilbehør eller dessert. Hvis du ikke foretar noe valg, foreslås middagsoppskrifter som standard. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "Velg apparatet du vil lage mat med. Hvis du ikke foretar noe valg, vil oppskrifter som fungerer med både stekeovn og koketopp bli foreslått. Hvis du velger én, vil oppskriftene begrenses til kun det apparatet."
 }
