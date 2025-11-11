@@ -2738,6 +2738,7 @@
     "next_step": "NÄCHSTER SCHRITT",
     "rf_start_convert_250": "Sie haben die Konvertierung gestartet, der Gefrierschrank verwandelt sich in eine Smart Zone mit einer Temperatur von 0 °C; der Kühlschrank verwandelt sich in eine Temperatur von 4 °C. Achten Sie bitte auf die Lagerung der Lebensmittel.",
     "rf_start_convert_213": "Der Konvertierungsmodus ist aktiviert. Der Gefrierschrank befindet sich nun in der Smart Zone bei 0 °C, der Kühlschrank bei 4 °C. Bitte überprüfen Sie die Lagerung Ihrer Lebensmittel.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Der Konvertierungsmodus ist deaktiviert. Die Smart Zone schaltet wieder auf -18 °C in den Gefrierschrank. Bitte überprüfen Sie die eingelagerten Lebensmittel.",
     "unfold_zone": "Alle Zonen aufklappen",
     "fold_zone": "alle Zonen zusammenklappen",
@@ -7066,5 +7067,19 @@
     "CL_DV_WM_Evaluation_completed": "Evaluierung abgeschlossen.",
     "CL_CF_CS_scan_energy_tip": "Um Ihr Gerät anzuschließen, müssen Sie den QR-Code Ihres Installateurs oder Serviceanbieters scannen.",
     "CL_CF_CS_scan_energy_error_tip": "Bitte versuchen Sie es erneut.",
-    "CL_CF_CS_scan_energy_label": "Scannen Sie den QR-Code des Dienstanbieters."
+    "CL_CF_CS_scan_energy_label": "Scannen Sie den QR-Code des Dienstanbieters.",
+    "CL_DISH_DESIGNER_more_options": "Weitere Optionen anzeigen",
+    "CL_DISH_DESIGNER_less_options": "Weniger Optionen anzeigen",
+    "CL_DISH_DESIGNER_appliance_type": "Gerätetyp",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Wie möchten Sie es zubereiten?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Für welche Mahlzeit kochst du?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Welcher Teil des Abendessens?",
+    "CL_DISH_DESIGNER_meal_type_content": "Wählen Sie die Mahlzeit, für die Sie kochen möchten: Frühstück, Mittagessen oder Abendessen. Beim Abendessen können Sie die Auswahl weiter verfeinern und zwischen Vorspeise, Hauptgericht, Beilage oder Dessert wählen. Wenn Sie keine Auswahl treffen, werden Ihnen standardmäßig Abendessen-Rezepte vorgeschlagen. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "Wählen Sie das Gerät, mit dem Sie kochen möchten. Wenn Sie keine Auswahl treffen, werden Ihnen Rezepte vorgeschlagen, die sowohl für Backofen als auch für Herdplatte geeignet sind. Wenn Sie ein Gerät auswählen, werden Ihnen nur Rezepte für dieses Gerät angezeigt.",
+    "breakfast": "Frühstück",
+    "lunch": "Mittagessen",
+    "dinner": "",
+    "starter": "Anlasser",
+    "main": "hauptsächlich",
+    "side": "Seite"
 }

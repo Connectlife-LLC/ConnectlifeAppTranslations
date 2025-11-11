@@ -2738,6 +2738,7 @@
     "next_step": "SEURAAVA VAIHE",
     "rf_start_convert_250": "Olet aloittanut muuntamisen, pakastin muuttuu Smart Zoneksi, jonka lämpötila on 0 ° C; jäähdytin muuttuu 4 ° C: seen, kiinnitä huomiota elintarvikkeiden varastointiin.",
     "rf_start_convert_213": "Muunnostila käytössä. Pakastin on nyt älykäs alue 0 °C:ssa; jääkaappi 4 °C:ssa. Tarkista elintarvikkeiden säilytys.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Muunnostila poistettu käytöstä. Älyalue palaa pakastintilaan -18 °C:ssa. Tarkista elintarvikkeiden säilytys.",
     "unfold_zone": "Avaa kaikki vyöhykkeet",
     "fold_zone": "Taita kaikki vyöhykkeet",
@@ -7066,5 +7067,19 @@
     "CL_DV_WM_Evaluation_completed": "Arviointi suoritettu.",
     "CL_CF_CS_scan_energy_tip": "Laitteen yhdistämiseksi sinun on skannattava asentajalta tai palveluntarjoajalta saamasi QR-koodi.",
     "CL_CF_CS_scan_energy_error_tip": "Yritä uudelleen.",
-    "CL_CF_CS_scan_energy_label": "Skannaa palveluntarjoajalta saatu QR-koodi"
+    "CL_CF_CS_scan_energy_label": "Skannaa palveluntarjoajalta saatu QR-koodi",
+    "CL_DISH_DESIGNER_more_options": "Näytä lisää vaihtoehtoja",
+    "CL_DISH_DESIGNER_less_options": "Näytä vähemmän vaihtoehtoja",
+    "CL_DISH_DESIGNER_appliance_type": "Laitteen tyyppi",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Miten haluaisit sen kypsentää?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Mille aterialle kokkaat?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Mikä osa illallista?",
+    "CL_DISH_DESIGNER_meal_type_content": "Valitse ateria, jota valmistat: aamiainen, lounas tai päivällinen. Päivällisen kohdalla voit tarkentaa valintaa alkupalaksi, pääruoaksi, lisukkeeksi tai jälkiruoaksi. Jos et valitse mitään, järjestelmä ehdottaa oletuksena päivällisreseptejä. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "Valitse laite, jolla haluat valmistaa ruokaa. Jos et valitse mitään, ehdotetaan reseptejä, jotka toimivat sekä uunissa että liedellä. Yhden laitteen valitseminen rajoittaa reseptit vain kyseiseen laitteeseen.",
+    "breakfast": "aamiainen",
+    "lunch": "lounas",
+    "dinner": "",
+    "starter": "käynnistin",
+    "main": "pääasiallinen",
+    "side": "sivu"
 }
