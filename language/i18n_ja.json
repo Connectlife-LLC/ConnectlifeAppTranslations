@@ -7066,5 +7066,18 @@
     "CL_DV_WM_Evaluation_completed": "評価が完了しました。",
     "CL_CF_CS_scan_energy_tip": "デバイスを接続するには、インストーラーまたはサービス プロバイダーから取得した QR コードをスキャンする必要があります。",
     "CL_CF_CS_scan_energy_error_tip": "もう一度お試しください。",
-    "CL_CF_CS_scan_energy_label": "サービスプロバイダーからのQRコードをスキャンする"
+    "CL_CF_CS_scan_energy_label": "サービスプロバイダーからのQRコードをスキャンする",
+    "CL_DISH_DESIGNER_more_options": "その他のオプションを表示",
+    "CL_DISH_DESIGNER_less_options": "オプションを少なく表示する",
+    "CL_DISH_DESIGNER_appliance_type": "家電の種類",
+    "CL_DISH_DESIGNER_appliance_type_tips": "どのように調理しますか？",
+    "CL_DISH_DESIGNER_meal_type_tips": "何の食事を作るんですか？",
+    "CL_DISH_DESIGNER_dinner_type_tips": "夕食のどの部分ですか?",
+    "CL_DISH_DESIGNER_meal_type_content": "調理する料理の種類（朝食、昼食、夕食）を選択してください。夕食の場合は、前菜、メイン、サイドディッシュ、デザートなど、さらに絞り込むことができます。選択しない場合は、デフォルトで夕食のレシピが提案されます。 ",
+    "CL_DISH_DESIGNER_appliance_type_content": "調理したい調理器具を選択してください。選択しない場合は、オーブンとコンロの両方で使えるレシピが提案されます。どちらかを選択すると、その調理器具でのみ使えるレシピが表示されます。",
+    "breakfast": "朝食",
+    "lunch": "ランチ",
+    "starter": "スターター",
+    "main": "主要",
+    "side": "側"
 }

@@ -7066,5 +7066,18 @@
     "CL_DV_WM_Evaluation_completed": "Az értékelés befejeződött.",
     "CL_CF_CS_scan_energy_tip": "Az eszköz csatlakoztatásához be kell olvasnia a telepítőtől vagy a szolgáltatótól kapott QR-kódot.",
     "CL_CF_CS_scan_energy_error_tip": "Kérjük, próbálja újra.",
-    "CL_CF_CS_scan_energy_label": "QR-kód beolvasása a szolgáltatótól"
+    "CL_CF_CS_scan_energy_label": "QR-kód beolvasása a szolgáltatótól",
+    "CL_DISH_DESIGNER_more_options": "További lehetőségek megjelenítése",
+    "CL_DISH_DESIGNER_less_options": "Kevesebb lehetőség megjelenítése",
+    "CL_DISH_DESIGNER_appliance_type": "Készülék típusa",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Hogyan szeretnéd elkészíteni?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Melyik ételhez főzöl?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "A vacsora melyik része?",
+    "CL_DISH_DESIGNER_meal_type_content": "Válaszd ki az ételt, amihez főzöl: reggeli, ebéd vagy vacsora. Vacsora esetén tovább finomíthatod az előétel, főétel, köret vagy desszert opciókat. Ha nem választasz, a rendszer alapértelmezés szerint vacsorarecepteket javasol. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "Válaszd ki a használni kívánt készüléket. Ha nem választasz semmit, a rendszer olyan recepteket javasol, amelyek sütőben és tűzhelyen is működnek. Ha kiválasztasz egyet, a receptek csak az adott készülékre lesznek elérhetőek.",
+    "breakfast": "reggeli",
+    "lunch": "ebéd",
+    "starter": "indító",
+    "main": "fő-",
+    "side": "oldal"
 }
