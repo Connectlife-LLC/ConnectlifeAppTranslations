@@ -7066,5 +7066,18 @@
     "CL_DV_WM_Evaluation_completed": "评估完成。",
     "CL_CF_CS_scan_energy_tip": "要连接您的设备，您需要扫描安装人员或服务提供商提供的二维码。",
     "CL_CF_CS_scan_energy_error_tip": "请重试。",
-    "CL_CF_CS_scan_energy_label": "扫描服务提供商提供的二维码"
+    "CL_CF_CS_scan_energy_label": "扫描服务提供商提供的二维码",
+    "CL_DISH_DESIGNER_more_options": "显示更多选项",
+    "CL_DISH_DESIGNER_less_options": "显示更少选项",
+    "CL_DISH_DESIGNER_appliance_type": "电器类型",
+    "CL_DISH_DESIGNER_appliance_type_tips": "你想怎么烹饪？",
+    "CL_DISH_DESIGNER_meal_type_tips": "你在准备哪顿饭？",
+    "CL_DISH_DESIGNER_dinner_type_tips": "晚餐的哪一部分？",
+    "CL_DISH_DESIGNER_meal_type_content": "请选择您要烹饪的餐点：早餐、午餐或晚餐。如果是晚餐，您可以进一步细分为开胃菜、主菜、配菜或甜点。如果未进行选择，系统默认会推荐晚餐食谱。 ",
+    "CL_DISH_DESIGNER_appliance_type_content": "选择您想使用的烹饪器具。如果未选择，系统将推荐适用于烤箱和炉灶的食谱。选择一种器具后，食谱将仅限于该器具。",
+    "breakfast": "早餐",
+    "lunch": "午餐",
+    "starter": "起动机",
+    "main": "主要的",
+    "side": "边"
 }
