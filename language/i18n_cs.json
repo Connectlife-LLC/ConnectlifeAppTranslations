@@ -7066,5 +7066,11 @@
     "CL_DV_WM_Evaluation_completed": "Vyhodnocení dokončeno.",
     "CL_CF_CS_scan_energy_tip": "Pro připojení zařízení budete muset naskenovat QR kód od instalačního technika nebo poskytovatele služeb.",
     "CL_CF_CS_scan_energy_error_tip": "Zkuste to prosím znovu.",
-    "CL_CF_CS_scan_energy_label": "Naskenujte QR kód od poskytovatele služeb"
+    "CL_CF_CS_scan_energy_label": "Naskenujte QR kód od poskytovatele služeb",
+    "CL_DISH_DESIGNER_more_options": "Zobrazit další možnosti",
+    "CL_DISH_DESIGNER_less_options": "Zobrazit méně možností",
+    "CL_DISH_DESIGNER_appliance_type": "Typ spotřebiče",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Jak byste to chtěli uvařit?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Na jaké jídlo vaříš?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Která část večeře?"
 }

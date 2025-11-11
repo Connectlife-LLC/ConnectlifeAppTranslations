@@ -7066,5 +7066,11 @@
     "CL_DV_WM_Evaluation_completed": "Évaluation terminée.",
     "CL_CF_CS_scan_energy_tip": "Pour connecter votre appareil, vous devrez scanner le code QR fourni par votre installateur ou votre fournisseur de services.",
     "CL_CF_CS_scan_energy_error_tip": "Veuillez réessayer.",
-    "CL_CF_CS_scan_energy_label": "Scannez le code QR du fournisseur de services"
+    "CL_CF_CS_scan_energy_label": "Scannez le code QR du fournisseur de services",
+    "CL_DISH_DESIGNER_more_options": "Afficher plus d'options",
+    "CL_DISH_DESIGNER_less_options": "Afficher moins d'options",
+    "CL_DISH_DESIGNER_appliance_type": "Type d'appareil",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Comment souhaitez-vous le cuisiner ?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Pour quel repas cuisinez-vous ?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Quelle partie du dîner ?"
 }

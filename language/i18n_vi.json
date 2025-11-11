@@ -7066,5 +7066,11 @@
     "CL_DV_WM_Evaluation_completed": "Đánh giá đã hoàn tất.",
     "CL_CF_CS_scan_energy_tip": "Để kết nối thiết bị, bạn cần quét mã QR từ người cài đặt hoặc nhà cung cấp dịch vụ.",
     "CL_CF_CS_scan_energy_error_tip": "Vui lòng thử lại.",
-    "CL_CF_CS_scan_energy_label": "Quét mã QR từ nhà cung cấp dịch vụ"
+    "CL_CF_CS_scan_energy_label": "Quét mã QR từ nhà cung cấp dịch vụ",
+    "CL_DISH_DESIGNER_more_options": "Hiển thị thêm tùy chọn",
+    "CL_DISH_DESIGNER_less_options": "Hiển thị ít tùy chọn hơn",
+    "CL_DISH_DESIGNER_appliance_type": "Loại thiết bị",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Bạn muốn nấu món này như thế nào?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Bạn đang nấu món gì?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Phần nào của bữa tối?"
 }
