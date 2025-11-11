@@ -7066,5 +7066,11 @@
     "CL_DV_WM_Evaluation_completed": "评估完成。",
     "CL_CF_CS_scan_energy_tip": "要连接您的设备，您需要扫描安装人员或服务提供商提供的二维码。",
     "CL_CF_CS_scan_energy_error_tip": "请重试。",
-    "CL_CF_CS_scan_energy_label": "扫描服务提供商提供的二维码"
+    "CL_CF_CS_scan_energy_label": "扫描服务提供商提供的二维码",
+    "CL_DISH_DESIGNER_more_options": "显示更多选项",
+    "CL_DISH_DESIGNER_less_options": "显示更少选项",
+    "CL_DISH_DESIGNER_appliance_type": "电器类型",
+    "CL_DISH_DESIGNER_appliance_type_tips": "你想怎么烹饪？",
+    "CL_DISH_DESIGNER_meal_type_tips": "你在准备哪顿饭？",
+    "CL_DISH_DESIGNER_dinner_type_tips": "晚餐的哪一部分？"
 }

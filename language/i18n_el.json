@@ -7066,5 +7066,11 @@
     "CL_DV_WM_Evaluation_completed": "Η αξιολόγηση ολοκληρώθηκε.",
     "CL_CF_CS_scan_energy_tip": "Για να συνδέσετε τη συσκευή σας, θα χρειαστεί να σαρώσετε τον κωδικό QR από τον εγκαταστάτη ή τον πάροχο υπηρεσιών σας.",
     "CL_CF_CS_scan_energy_error_tip": "Παρακαλώ δοκιμάστε ξανά.",
-    "CL_CF_CS_scan_energy_label": "Σάρωση κωδικού QR από τον πάροχο υπηρεσιών"
+    "CL_CF_CS_scan_energy_label": "Σάρωση κωδικού QR από τον πάροχο υπηρεσιών",
+    "CL_DISH_DESIGNER_more_options": "Εμφάνιση περισσότερων επιλογών",
+    "CL_DISH_DESIGNER_less_options": "Εμφάνιση λιγότερων επιλογών",
+    "CL_DISH_DESIGNER_appliance_type": "Τύπος συσκευής",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Πώς θα θέλατε να το μαγειρέψετε;",
+    "CL_DISH_DESIGNER_meal_type_tips": "Για ποιο γεύμα μαγειρεύετε;",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Ποιο μέρος του δείπνου;"
 }

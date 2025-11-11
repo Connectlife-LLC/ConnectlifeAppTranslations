@@ -7066,5 +7066,11 @@
     "CL_DV_WM_Evaluation_completed": "Оцінювання завершено.",
     "CL_CF_CS_scan_energy_tip": "Щоб підключити пристрій, вам потрібно буде відсканувати QR-код, отриманий від вашого установника або постачальника послуг.",
     "CL_CF_CS_scan_energy_error_tip": "Будь ласка, спробуйте ще раз.",
-    "CL_CF_CS_scan_energy_label": "Відскануйте QR-код від постачальника послуг"
+    "CL_CF_CS_scan_energy_label": "Відскануйте QR-код від постачальника послуг",
+    "CL_DISH_DESIGNER_more_options": "Показати більше опцій",
+    "CL_DISH_DESIGNER_less_options": "Показати менше опцій",
+    "CL_DISH_DESIGNER_appliance_type": "Тип приладу",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Як би ви хотіли це приготувати?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Яку страву ви готуєте?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Яка частина вечері?"
 }

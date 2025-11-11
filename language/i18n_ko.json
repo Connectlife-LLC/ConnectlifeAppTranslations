@@ -7066,5 +7066,11 @@
     "CL_DV_WM_Evaluation_completed": "평가가 완료되었습니다.",
     "CL_CF_CS_scan_energy_tip": "기기를 연결하려면 설치자나 서비스 제공업체의 QR 코드를 스캔해야 합니다.",
     "CL_CF_CS_scan_energy_error_tip": "다시 시도해 주세요.",
-    "CL_CF_CS_scan_energy_label": "서비스 제공업체에서 QR 코드를 스캔하세요"
+    "CL_CF_CS_scan_energy_label": "서비스 제공업체에서 QR 코드를 스캔하세요",
+    "CL_DISH_DESIGNER_more_options": "더 많은 옵션 보기",
+    "CL_DISH_DESIGNER_less_options": "더 적은 옵션 표시",
+    "CL_DISH_DESIGNER_appliance_type": "가전제품 종류",
+    "CL_DISH_DESIGNER_appliance_type_tips": "어떻게 요리하고 싶으신가요?",
+    "CL_DISH_DESIGNER_meal_type_tips": "어떤 요리를 하시나요?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "저녁 식사의 어느 부분인가요?"
 }

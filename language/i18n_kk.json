@@ -7066,5 +7066,11 @@
     "CL_DV_WM_Evaluation_completed": "Бағалау аяқталды.",
     "CL_CF_CS_scan_energy_tip": "Құрылғыны қосу үшін орнатушыдан немесе қызмет провайдерінен QR кодын сканерлеу қажет.",
     "CL_CF_CS_scan_energy_error_tip": "Қайталап көріңіз.",
-    "CL_CF_CS_scan_energy_label": "Қызмет провайдерінен QR кодын сканерлеңіз"
+    "CL_CF_CS_scan_energy_label": "Қызмет провайдерінен QR кодын сканерлеңіз",
+    "CL_DISH_DESIGNER_more_options": "Қосымша опцияларды көрсету",
+    "CL_DISH_DESIGNER_less_options": "Опцияларды азырақ көрсету",
+    "CL_DISH_DESIGNER_appliance_type": "Құрылғы түрі",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Оны қалай пісіргіңіз келеді?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Сіз қай тағамға әзірлейсіз?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Кешкі астың қай бөлігі?"
 }
