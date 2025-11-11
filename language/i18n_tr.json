@@ -2738,6 +2738,7 @@
     "next_step": "SONRAKİ ADIM",
     "rf_start_convert_250": "Dönüştürmeyi başlattığınızda Dondurucu 0°C sıcaklıkta Akıllı Bölgeye dönüşecektir; Buzdolabı 4°C'ye dönüşecektir, lütfen yiyeceklerin saklanmasına dikkat edin.",
     "rf_start_convert_213": "Dönüştürme modu etkinleştirildi. Dondurucu artık 0°C'de Akıllı Bölge; Buzdolabı ise 4°C'de. Lütfen gıda saklama koşullarını kontrol edin.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Dönüştürme modu devre dışı. Akıllı Bölge -18°C'de Dondurucuya geri döner. Lütfen gıda depolamasını kontrol edin.",
     "unfold_zone": "tüm bölgeleri aç",
     "fold_zone": "tüm bölgeleri katla",
@@ -7066,5 +7067,19 @@
     "CL_DV_WM_Evaluation_completed": "Değerlendirme tamamlandı.",
     "CL_CF_CS_scan_energy_tip": "Cihazınızı bağlamak için kurulumcunuzun veya servis sağlayıcınızın QR kodunu taramanız gerekecektir.",
     "CL_CF_CS_scan_energy_error_tip": "Lütfen tekrar deneyin.",
-    "CL_CF_CS_scan_energy_label": "Servis sağlayıcıdan QR kodunu tarayın"
+    "CL_CF_CS_scan_energy_label": "Servis sağlayıcıdan QR kodunu tarayın",
+    "CL_DISH_DESIGNER_more_options": "Daha fazla seçenek göster",
+    "CL_DISH_DESIGNER_less_options": "Daha az seçenek göster",
+    "CL_DISH_DESIGNER_appliance_type": "Cihaz tipi",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Nasıl pişirmek istersiniz?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Hangi yemeği pişiriyorsun?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Akşam yemeğinin hangi kısmı?",
+    "CL_DISH_DESIGNER_meal_type_content": "Pişireceğiniz yemeği seçin; kahvaltı, öğle yemeği veya akşam yemeği. Akşam yemeği için başlangıç, ana yemek, garnitür veya tatlı seçeneklerinden birini seçebilirsiniz. Herhangi bir seçim yapmazsanız, varsayılan olarak akşam yemeği tarifleri önerilir. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "Pişirmek istediğiniz cihazı seçin. Herhangi bir seçim yapmazsanız, hem fırın hem de ocakla uyumlu tarifler önerilecektir. Birini seçtiğinizde, tarifler yalnızca o cihazla sınırlı kalacaktır.",
+    "breakfast": "kahvaltı",
+    "lunch": "öğle yemeği",
+    "dinner": "",
+    "starter": "başlangıç",
+    "main": "ana",
+    "side": "taraf"
 }

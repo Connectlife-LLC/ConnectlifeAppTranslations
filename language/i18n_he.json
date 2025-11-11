@@ -2738,6 +2738,7 @@
     "next_step": "השלב הבא",
     "rf_start_convert_250": "התחלת להמיר, המקפיא יהפוך ל-Smart Zone עם טמפרטורה של 0℃; המקרר יהפוך ל-4℃, אנא שימו לב לאחסון המזון.",
     "rf_start_convert_213": "מצב המרה מופעל. המקפיא כעת במצב Smart Zone ב-0°C; המקרר ב-4°C. אנא בדוק את אחסון המזון.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "מצב המרה מושבת. האזור החכם חוזר למקפיא ב-18°C-. אנא בדוק את אחסון המזון.",
     "unfold_zone": "לפרוש את כל האזורים",
     "fold_zone": "לקפל את כל האזורים",
@@ -7066,5 +7067,19 @@
     "CL_DV_WM_Evaluation_completed": "ההערכה הושלמה.",
     "CL_CF_CS_scan_energy_tip": "כדי לחבר את המכשיר שלך, תצטרך לסרוק את קוד ה-QR מהמתקין או מספק השירות שלך.",
     "CL_CF_CS_scan_energy_error_tip": "אנא נסה שוב.",
-    "CL_CF_CS_scan_energy_label": "סריקת קוד QR מספק השירות"
+    "CL_CF_CS_scan_energy_label": "סריקת קוד QR מספק השירות",
+    "CL_DISH_DESIGNER_more_options": "הצג אפשרויות נוספות",
+    "CL_DISH_DESIGNER_less_options": "הצג פחות אפשרויות",
+    "CL_DISH_DESIGNER_appliance_type": "סוג המכשיר",
+    "CL_DISH_DESIGNER_appliance_type_tips": "איך היית רוצה לבשל את זה?",
+    "CL_DISH_DESIGNER_meal_type_tips": "לאיזו ארוחה את/ה מבשל/ת?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "איזה חלק של ארוחת הערב?",
+    "CL_DISH_DESIGNER_meal_type_content": "בחרו את הארוחה שאתם מבשלים; ארוחת בוקר, צהריים או ערב. לארוחת ערב, תוכלו לצמצם עוד יותר את האפשרויות למנה ראשונה, עיקרית, תוספת או קינוח. אם לא תתבצע בחירה, מתכוני ערב מוצעים כברירת מחדל. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "בחרו את המכשיר שברצונכם לבשל איתו. אם לא תתבצע בחירה, יוצעו מתכונים שמתאימים גם לתנור וגם לכיריים. בחירת אחד מהם תגביל את המתכונים למכשיר זה בלבד.",
+    "breakfast": "ארוחת בוקר",
+    "lunch": "אֲרוּחַת צָהֳרִים",
+    "dinner": "",
+    "starter": "מַתנֵעַ",
+    "main": "רָאשִׁי",
+    "side": "צַד"
 }

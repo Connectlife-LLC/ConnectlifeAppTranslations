@@ -2738,6 +2738,7 @@
     "next_step": "URMATORUL PAS",
     "rf_start_convert_250": "Ați pornit funcția Convert, congelatorul se va transforma în Smart Zone cu o temperatură de 0℃; Frigiderul se va transforma în zonă de 4℃, vă rugăm să acordați atenție depozitării alimentelor.",
     "rf_start_convert_213": "Modul Conversie activat. Congelatorul este acum în Zona Inteligentă la 0°C; Frigiderul la 4°C. Vă rugăm să verificați depozitarea alimentelor.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Modul Conversie dezactivat. Zona Inteligentă revine la Congelator la -18°C. Vă rugăm să verificați depozitarea alimentelor.",
     "unfold_zone": "desfășurați toate zonele",
     "fold_zone": "pliați toate zonele",
@@ -7066,5 +7067,19 @@
     "CL_DV_WM_Evaluation_completed": "Evaluare finalizată.",
     "CL_CF_CS_scan_energy_tip": "Pentru a conecta dispozitivul, va trebui să scanați codul QR de la instalator sau furnizorul de servicii.",
     "CL_CF_CS_scan_energy_error_tip": "Vă rugăm să încercați din nou.",
-    "CL_CF_CS_scan_energy_label": "Scanați codul QR de la furnizorul de servicii"
+    "CL_CF_CS_scan_energy_label": "Scanați codul QR de la furnizorul de servicii",
+    "CL_DISH_DESIGNER_more_options": "Afișați mai multe opțiuni",
+    "CL_DISH_DESIGNER_less_options": "Afișează mai puține opțiuni",
+    "CL_DISH_DESIGNER_appliance_type": "Tipul aparatului",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Cum ai vrea să-l gătești?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Pentru ce masă gătești?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Care parte a cinei?",
+    "CL_DISH_DESIGNER_meal_type_content": "Selectați masa pentru care gătiți: micul dejun, prânzul sau cina. Pentru cină, puteți rafina opțiunile la aperitiv, fel principal, garnitură sau desert. Dacă nu faceți nicio selecție, rețetele pentru cină sunt sugerate în mod implicit. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "Alegeți aparatul cu care doriți să gătiți. Dacă nu faceți nicio selecție, vor fi sugerate rețete care funcționează atât cu cuptorul, cât și cu plita. Selectarea uneia va limita rețetele doar la acel aparat.",
+    "breakfast": "mic dejun",
+    "lunch": "prânz",
+    "dinner": "",
+    "starter": "starter",
+    "main": "principal",
+    "side": "lateral"
 }

@@ -2738,6 +2738,7 @@
     "next_step": "ĎALŠI KROK",
     "rf_start_convert_250": "Spustili ste konverziu, mraznička sa premení na inteligentnú zónu s teplotou 0 °C; Chladnička sa zmení na 4℃, venujte prosím pozornosť skladovaniu potravín.",
     "rf_start_convert_213": "Režim konverzie je povolený. Mraznička je teraz v inteligentnej zóne na 0 °C; chladnička na 4 °C. Skontrolujte skladovanie potravín.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Režim konverzie je deaktivovaný. Inteligentná zóna sa vráti do mrazničky s teplotou -18 °C. Skontrolujte skladovanie potravín.",
     "unfold_zone": "rozvinúť všetky zóny",
     "fold_zone": "zložiť všetky zóny",
@@ -7066,5 +7067,19 @@
     "CL_DV_WM_Evaluation_completed": "Hodnotenie dokončené.",
     "CL_CF_CS_scan_energy_tip": "Na pripojenie zariadenia budete musieť naskenovať QR kód od inštalatéra alebo poskytovateľa služieb.",
     "CL_CF_CS_scan_energy_error_tip": "Skúste to znova.",
-    "CL_CF_CS_scan_energy_label": "Naskenujte QR kód od poskytovateľa služieb"
+    "CL_CF_CS_scan_energy_label": "Naskenujte QR kód od poskytovateľa služieb",
+    "CL_DISH_DESIGNER_more_options": "Zobraziť viac možností",
+    "CL_DISH_DESIGNER_less_options": "Zobraziť menej možností",
+    "CL_DISH_DESIGNER_appliance_type": "Typ spotrebiča",
+    "CL_DISH_DESIGNER_appliance_type_tips": "Ako by ste to chceli uvariť?",
+    "CL_DISH_DESIGNER_meal_type_tips": "Na ktoré jedlo varíš?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "Ktorá časť večere?",
+    "CL_DISH_DESIGNER_meal_type_content": "Vyberte si jedlo, ktoré chcete variť: raňajky, obed alebo večeru. Pri večeri si môžete vybrať predjedlo, hlavné jedlo, prílohu alebo dezert. Ak nevyberiete nič, recepty na večeru sa vám predvolene navrhnú. ",
+    "CL_DISH_DESIGNER_appliance_type_content": "Vyberte spotrebič, s ktorým chcete variť. Ak neurobíte žiadny výber, budú vám navrhnuté recepty, ktoré sú funkčné s rúrou aj varnou doskou. Výberom jedného z nich sa recepty obmedzia iba na daný spotrebič.",
+    "breakfast": "raňajky",
+    "lunch": "obed",
+    "dinner": "",
+    "starter": "štartér",
+    "main": "hlavné",
+    "side": "strane"
 }
