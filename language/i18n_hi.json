@@ -7066,5 +7066,22 @@
     "CL_DV_WM_Evaluation_completed": "मूल्यांकन पूरा हो गया.",
     "CL_CF_CS_scan_energy_tip": "अपने डिवाइस को कनेक्ट करने के लिए, आपको अपने इंस्टॉलर या सेवा प्रदाता से QR कोड स्कैन करना होगा।",
     "CL_CF_CS_scan_energy_error_tip": "कृपया पुन: प्रयास करें।",
-    "CL_CF_CS_scan_energy_label": "सेवा प्रदाता से QR कोड स्कैन करें"
+    "CL_CF_CS_scan_energy_label": "सेवा प्रदाता से QR कोड स्कैन करें",
+    "CL_DISH_DESIGNER_more_options": "अधिक विकल्प दिखाएं",
+    "CL_DISH_DESIGNER_less_options": "कम विकल्प दिखाएँ",
+    "CL_DISH_DESIGNER_appliance_type": "उपकरण का प्रकार",
+    "CL_DISH_DESIGNER_appliance_type_tips": "आप इसे कैसे पकाना चाहेंगे?",
+    "CL_DISH_DESIGNER_meal_type_tips": "आप किस भोजन के लिए खाना बना रहे हैं?",
+    "CL_DISH_DESIGNER_dinner_type_tips": "रात्रि भोजन का कौन सा भाग?",
+    "CL_DISH_DESIGNER_meal_type_content": "आप जिस भोजन के लिए खाना बना रहे हैं उसे चुनें; नाश्ता, दोपहर का भोजन या रात का खाना। रात के खाने के लिए, आप स्टार्टर, मुख्य व्यंजन, साइड डिश या मिठाई में और भी बदलाव कर सकते हैं। अगर कोई विकल्प नहीं चुना जाता है, तो रात के खाने की रेसिपी डिफ़ॉल्ट रूप से सुझाई जाती हैं। ",
+    "CL_DISH_DESIGNER_appliance_type_content": "वह उपकरण चुनें जिससे आप खाना बनाना चाहते हैं। अगर कोई विकल्प नहीं चुना जाता है, तो ओवन और हॉब दोनों पर काम करने वाली रेसिपी सुझाई जाएँगी। किसी एक को चुनने से रेसिपी सिर्फ़ उसी उपकरण तक सीमित हो जाएँगी।",
+    "breakfast": "नाश्ता",
+    "lunch": "दिन का खाना",
+    "starter": "स्टार्टर",
+    "main": "मुख्य",
+    "side": "ओर",
+    "CL_DV_WM_dose_aid": "खुराक सहायता",
+    "CL_CF_CS_refesh_frequently_limit": "कृपया WiFi को बार-बार रिफ्रेश न करें",
+    "CL_CF_CS_scan_energy_qrcode": "स्कैन क्यू आर कोड",
+    "CL_AC_comfort_auto_on": "कम्फर्ट ऑटो चालू है"
 }
