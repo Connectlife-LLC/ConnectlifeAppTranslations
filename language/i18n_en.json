@@ -6966,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2.On the inside edge of the door rim",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.On the upper part of the door rim",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##On the back - ##If you have a top-load washing machine, the label can be found on the backside.",
-    "CL_CF_CS_common_scan_guide_label_1": "The label looks like a white or silver sticker with a with a barcode or a QR code and a code (letters and numbers), similar to the examples below:",
     "CL_CF_CS_common_scan_guide_option2": "Option 2: On the packaging or in the user manual",
     "CL_CF_CS_common_scan_guide_option2_desc": "If you can’t find the label on the washing machine, look for it on the packaging or in the user manual.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##On the top - ##The label can be found on the top edge of your washing machine, just above the detergent drawer.",
@@ -7078,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Choose the appliance you want to cook with. If no selection is made, recipes that work with both oven and hob will be suggested. Selecting one will limit recipes to that appliance only",
     "breakfast": "breakfast",
     "lunch": "lunch",
+    "dinner": "",
     "starter": "starter",
     "main": "main",
     "side": "side",
@@ -7090,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Sound for notifications",
     "CL_DV_EY_device_already_bound": "This device is already bound.",
     "CL_DV_WM_sound_interactions": "Sound for interactions",
-    "CL_UC_nickname": "Nickname"
+    "CL_UC_nickname": "Nickname",
+    "CL_CF_CS_common_scan_guide_label_1": "The label looks like a white or silver sticker with a barcode or a QR code and a code (letters and numbers), similar to the examples below:"
 }

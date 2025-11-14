@@ -2738,6 +2738,7 @@
     "next_step": "下一步",
     "rf_start_convert_250": "您已启动Convert，冷冻室将会转变为Smart Zone，温度转变为0℃；冷藏室温度将转变为4℃，请注意食材存放位置是否合理。",
     "rf_start_convert_213": "轉換模式已啟用。冷凍室現為智慧溫區，溫度設定為 0°C；冷藏室溫度設定為 4°C。請檢查食物儲存。",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "轉換模式已停用。智能區將恢復至-18°C冷凍狀態。請檢查食物儲存。",
     "unfold_zone": "展开所有分区",
     "fold_zone": "折叠全部区域",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2.在門框內側邊緣",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.在門框上部",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##背面 - ##如果您使用的是頂開式洗衣機，標籤可以在背面找到。",
-    "CL_CF_CS_common_scan_guide_label_1": "標籤看起來像一張白色或銀色的貼紙，上面有條碼或二維碼以及代碼（字母和數字），類似於以下範例：",
     "CL_CF_CS_common_scan_guide_option2": "選項二：包裝上或使用手冊中",
     "CL_CF_CS_common_scan_guide_option2_desc": "如果在洗衣機上找不到標籤，請在包裝或使用手冊中尋找。",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##在頂部 - ##標籤位於洗衣機的頂部邊緣，就在洗滌劑盒的上方。",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "選擇您想使用的烹飪器具。如果未選擇，系統將推薦適用於烤箱和爐灶的食譜。選擇一種器具後，食譜將僅限於該器具。",
     "breakfast": "早餐",
     "lunch": "午餐",
+    "dinner": "",
     "starter": "起動機",
     "main": "主要的",
     "side": "邊",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "通知音效",
     "CL_DV_EY_device_already_bound": "此設備已綁定。",
     "CL_DV_WM_sound_interactions": "用於互動的聲音",
-    "CL_UC_nickname": "暱稱"
+    "CL_UC_nickname": "暱稱",
+    "CL_CF_CS_common_scan_guide_label_1": "標籤看起來像一張白色或銀色的貼紙，上面有條碼或二維碼以及代碼（字母和數字），類似於以下範例："
 }

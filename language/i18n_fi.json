@@ -2738,6 +2738,7 @@
     "next_step": "SEURAAVA VAIHE",
     "rf_start_convert_250": "Olet aloittanut muuntamisen, pakastin muuttuu Smart Zoneksi, jonka lämpötila on 0 ° C; jäähdytin muuttuu 4 ° C: seen, kiinnitä huomiota elintarvikkeiden varastointiin.",
     "rf_start_convert_213": "Muunnostila käytössä. Pakastin on nyt älykäs alue 0 °C:ssa; jääkaappi 4 °C:ssa. Tarkista elintarvikkeiden säilytys.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Muunnostila poistettu käytöstä. Älyalue palaa pakastintilaan -18 °C:ssa. Tarkista elintarvikkeiden säilytys.",
     "unfold_zone": "Avaa kaikki vyöhykkeet",
     "fold_zone": "Taita kaikki vyöhykkeet",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Oven reunan sisäreunassa",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Oven reunuksen yläosassa",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Takana - ##Jos sinulla on päältä täytettävä pesukone, tarra löytyy takaosasta.",
-    "CL_CF_CS_common_scan_guide_label_1": "Tarra näyttää valkoiselta tai hopeiselta tarralta, jossa on viivakoodi tai QR-koodi ja koodi (kirjaimia ja numeroita), kuten alla olevissa esimerkeissä:",
     "CL_CF_CS_common_scan_guide_option2": "Vaihtoehto 2: Pakkauksessa tai käyttöoppaassa",
     "CL_CF_CS_common_scan_guide_option2_desc": "Jos et löydä pesukoneen etikettiä, etsi se pakkauksesta tai käyttöoppaasta.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Yläosassa - ##Tarra löytyy pesukoneen yläreunasta, aivan pesuainelokeron yläpuolelta.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Valitse laite, jolla haluat valmistaa ruokaa. Jos et valitse mitään, ehdotetaan reseptejä, jotka toimivat sekä uunissa että liedellä. Yhden laitteen valitseminen rajoittaa reseptit vain kyseiseen laitteeseen.",
     "breakfast": "aamiainen",
     "lunch": "lounas",
+    "dinner": "",
     "starter": "käynnistin",
     "main": "pääasiallinen",
     "side": "sivu",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Ilmoitusten ääni",
     "CL_DV_EY_device_already_bound": "Tämä laite on jo sidottu.",
     "CL_DV_WM_sound_interactions": "Ääni vuorovaikutusta varten",
-    "CL_UC_nickname": "Lempinimi"
+    "CL_UC_nickname": "Lempinimi",
+    "CL_CF_CS_common_scan_guide_label_1": "Tarra näyttää valkoiselta tai hopeiselta tarralta, jossa on viivakoodi tai QR-koodi ja koodi (kirjaimia ja numeroita), kuten alla olevissa esimerkeissä:"
 }

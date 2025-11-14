@@ -2738,6 +2738,7 @@
     "next_step": "URMATORUL PAS",
     "rf_start_convert_250": "Ați pornit funcția Convert, congelatorul se va transforma în Smart Zone cu o temperatură de 0℃; Frigiderul se va transforma în zonă de 4℃, vă rugăm să acordați atenție depozitării alimentelor.",
     "rf_start_convert_213": "Modul Conversie activat. Congelatorul este acum în Zona Inteligentă la 0°C; Frigiderul la 4°C. Vă rugăm să verificați depozitarea alimentelor.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Modul Conversie dezactivat. Zona Inteligentă revine la Congelator la -18°C. Vă rugăm să verificați depozitarea alimentelor.",
     "unfold_zone": "desfășurați toate zonele",
     "fold_zone": "pliați toate zonele",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Pe marginea interioară a ramei ușii",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Pe partea superioară a marginii ușii",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Pe verso - ##Dacă aveți o mașină de spălat cu încărcare verticală, eticheta se găsește pe verso.",
-    "CL_CF_CS_common_scan_guide_label_1": "Eticheta arată ca un autocolant alb sau argintiu cu un cod de bare sau un cod QR și un cod (litere și cifre), similar cu exemplele de mai jos:",
     "CL_CF_CS_common_scan_guide_option2": "Opțiunea 2: Pe ambalaj sau în manualul de utilizare",
     "CL_CF_CS_common_scan_guide_option2_desc": "Dacă nu găsiți eticheta pe mașina de spălat, căutați-o pe ambalaj sau în manualul de utilizare.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##În partea de sus - ##Eticheta se găsește pe marginea superioară a mașinii de spălat, chiar deasupra sertarului pentru detergent.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Alegeți aparatul cu care doriți să gătiți. Dacă nu faceți nicio selecție, vor fi sugerate rețete care funcționează atât cu cuptorul, cât și cu plita. Selectarea uneia va limita rețetele doar la acel aparat.",
     "breakfast": "mic dejun",
     "lunch": "prânz",
+    "dinner": "",
     "starter": "starter",
     "main": "principal",
     "side": "lateral",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Sunet pentru notificări",
     "CL_DV_EY_device_already_bound": "Acest dispozitiv este deja legat.",
     "CL_DV_WM_sound_interactions": "Sunet pentru interacțiuni",
-    "CL_UC_nickname": "Poreclă"
+    "CL_UC_nickname": "Poreclă",
+    "CL_CF_CS_common_scan_guide_label_1": "Eticheta arată ca un autocolant alb sau argintiu cu un cod de bare sau un cod QR și un cod (litere și cifre), similar cu exemplele de mai jos:"
 }

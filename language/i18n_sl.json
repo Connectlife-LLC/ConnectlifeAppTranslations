@@ -2738,6 +2738,7 @@
     "next_step": "NASLEDNJI KORAK",
     "rf_start_convert_250": "Začeli ste s pretvorbo, zamrzovalnik se bo spremenil v pametno cono s temperaturo 0 ° C; hladilnik se bo spremenil v 4 °C, bodite pozorni na shranjevanje hrane.",
     "rf_start_convert_213": "Način pretvorbe je omogočen. Zamrzovalnik je zdaj v načinu Smart Zone pri 0 °C; hladilnik pa pri 4 °C. Preverite shranjevanje živil.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Način pretvorbe onemogočen. Pametno območje se vrne v zamrzovalnik pri -18 °C. Preverite shranjevanje živil.",
     "unfold_zone": "razgrnite vse cone",
     "fold_zone": "zložite vsa območja",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Na notranjem robu vratnega roba",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Na zgornjem delu roba vrat",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Na hrbtni strani - ##Če imate pralni stroj z zgornjim polnjenjem, najdete nalepko na hrbtni strani.",
-    "CL_CF_CS_common_scan_guide_label_1": "Nalepka je videti kot bela ali srebrna nalepka s črtno kodo ali QR kodo in kodo (črke in številke), podobno kot v spodnjih primerih:",
     "CL_CF_CS_common_scan_guide_option2": "Možnost 2: Na embalaži ali v uporabniškem priročniku",
     "CL_CF_CS_common_scan_guide_option2_desc": "Če nalepke ne najdete na pralnem stroju, jo poiščite na embalaži ali v uporabniškem priročniku.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Na vrhu - ##Nalepko najdete na zgornjem robu pralnega stroja, tik nad predalom za detergent.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Izberite aparat, s katerim želite kuhati. Če ne izberete ničesar, bodo predlagani recepti, ki delujejo tako s pečico kot s kuhalno ploščo. Z izbiro enega boste recepte omejili samo na ta aparat.",
     "breakfast": "zajtrk",
     "lunch": "kosilo",
+    "dinner": "",
     "starter": "zaganjalnik",
     "main": "glavni",
     "side": "strani",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Zvok za obvestila",
     "CL_DV_EY_device_already_bound": "Ta naprava je že povezana.",
     "CL_DV_WM_sound_interactions": "Zvok za interakcije",
-    "CL_UC_nickname": "Vzdevek"
+    "CL_UC_nickname": "Vzdevek",
+    "CL_CF_CS_common_scan_guide_label_1": "Nalepka je videti kot bela ali srebrna nalepka s črtno kodo ali kodo QR in kodo (črke in številke), podobno kot v spodnjih primerih:"
 }

@@ -2738,6 +2738,7 @@
     "next_step": "NÆSTE SKRIDT",
     "rf_start_convert_250": "Du har startet Konverter, fryseren omdannes til Smart Zone med en temperatur på 0℃; Køleskabet omdannes til 4℃, vær opmærksom på opbevaring af mad.",
     "rf_start_convert_213": "Konverteringstilstand aktiveret. Fryseren er nu Smart Zone ved 0°C; køleskabet ved 4°C. Kontroller opbevaring af fødevarer.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Konverteringstilstand deaktiveret. Smart Zone vender tilbage til fryser ved -18°C. Kontroller opbevaring af madvarer.",
     "unfold_zone": "udfolde alle zoner",
     "fold_zone": "fold alle zoner",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. På den indvendige kant af dørkanten",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. På den øverste del af dørkanten",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##På bagsiden - ##Hvis du har en vaskemaskine med topbetjent vask, kan mærkaten findes på bagsiden.",
-    "CL_CF_CS_common_scan_guide_label_1": "Etiketten ligner et hvidt eller sølvfarvet klistermærke med en stregkode eller en QR-kode og en kode (bogstaver og tal), svarende til eksemplerne nedenfor:",
     "CL_CF_CS_common_scan_guide_option2": "Mulighed 2: På emballagen eller i brugermanualen",
     "CL_CF_CS_common_scan_guide_option2_desc": "Hvis du ikke kan finde etiketten på vaskemaskinen, så kig efter den på emballagen eller i brugermanualen.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Øverst - ##Mærket findes på den øverste kant af din vaskemaskine, lige over sæbeskuffen.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Vælg det apparat, du vil lave mad med. Hvis du ikke foretager et valg, vil opskrifter, der fungerer med både ovn og kogeplade, blive foreslået. Hvis du vælger én, begrænses opskrifterne til kun det apparat.",
     "breakfast": "morgenmad",
     "lunch": "frokost",
+    "dinner": "",
     "starter": "forret",
     "main": "vigtigste",
     "side": "side",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Lyd til notifikationer",
     "CL_DV_EY_device_already_bound": "Denne enhed er allerede bundet.",
     "CL_DV_WM_sound_interactions": "Lyd til interaktioner",
-    "CL_UC_nickname": "Kælenavn"
+    "CL_UC_nickname": "Kælenavn",
+    "CL_CF_CS_common_scan_guide_label_1": "Etiketten ligner et hvidt eller sølvfarvet klistermærke med en stregkode eller en QR-kode og en kode (bogstaver og tal), svarende til eksemplerne nedenfor:"
 }

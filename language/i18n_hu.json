@@ -2738,6 +2738,7 @@
     "next_step": "KÖVETKEZŐ LÉPÉS",
     "rf_start_convert_250": "Elindította a konvertálást, a fagyasztó 0 ° C hőmérsékletű intelligens zónává alakul; a hűtő 4 ° C-ra alakul át, kérjük, figyeljen az élelmiszerek tárolására.",
     "rf_start_convert_213": "Átalakítási mód engedélyezve. A fagyasztó mostantól intelligens zóna 0°C-on; a hűtőszekrény 4°C-on. Kérjük, ellenőrizze az élelmiszer-tárolást.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Az átalakítási mód letiltva. Az intelligens zóna -18°C-on visszatér fagyasztó üzemmódba. Kérjük, ellenőrizze az élelmiszerek tárolását.",
     "unfold_zone": "Hajtsa ki az összes zónát",
     "fold_zone": "Hajtsa össze az összes zónát",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Az ajtó peremének belső szélén",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Az ajtó peremének felső részén",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Hátul - ##Ha felültöltős mosógépe van, a címke a hátoldalon található.",
-    "CL_CF_CS_common_scan_guide_label_1": "A címke egy fehér vagy ezüst matricára hasonlít, amelyen vonalkód vagy QR-kód és egy kód (betűk és számok) látható, az alábbi példákhoz hasonlóan:",
     "CL_CF_CS_common_scan_guide_option2": "2. lehetőség: A csomagoláson vagy a felhasználói kézikönyvben",
     "CL_CF_CS_common_scan_guide_option2_desc": "Ha nem találod a címkét a mosógépen, keresd a csomagoláson vagy a használati útmutatóban.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Felül - ##A címke a mosógép felső szélén található, közvetlenül a mosószeradagoló felett.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Válaszd ki a használni kívánt készüléket. Ha nem választasz semmit, a rendszer olyan recepteket javasol, amelyek sütőben és tűzhelyen is működnek. Ha kiválasztasz egyet, a receptek csak az adott készülékre lesznek elérhetőek.",
     "breakfast": "reggeli",
     "lunch": "ebéd",
+    "dinner": "",
     "starter": "indító",
     "main": "fő-",
     "side": "oldal",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Értesítések hangja",
     "CL_DV_EY_device_already_bound": "Ez az eszköz már össze van kötve.",
     "CL_DV_WM_sound_interactions": "Hang az interakciókhoz",
-    "CL_UC_nickname": "Becenév"
+    "CL_UC_nickname": "Becenév",
+    "CL_CF_CS_common_scan_guide_label_1": "A címke egy fehér vagy ezüst színű matricára hasonlít, amelyen vonalkód vagy QR-kód és egy kód (betűk és számok) látható, az alábbi példákhoz hasonlóan:"
 }

@@ -2738,6 +2738,7 @@
     "next_step": "VOLGENDE STAP",
     "rf_start_convert_250": "Je moet beginnen met converteren, de vriezer verandert in een Smart Zone met een temperatuur van 0°C; de koeler verandert in 4°C, let op de opslag van voedsel.",
     "rf_start_convert_213": "Convert-modus ingeschakeld. Vriezer is nu Smart Zone op 0 °C; koelkast op 4 °C. Controleer de voedselbewaring.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Convert-modus uitgeschakeld. Smart Zone schakelt terug naar vriezer bij -18°C. Controleer de voedselbewaring.",
     "unfold_zone": "Vouw alle zones uit",
     "fold_zone": "Vouw alle zones",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Aan de binnenrand van de deurrand",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Op het bovenste deel van de deurrand",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Op de achterkant - ##Als u een wasmachine met bovenlader hebt, bevindt het label zich op de achterkant.",
-    "CL_CF_CS_common_scan_guide_label_1": "Het label ziet eruit als een witte of zilveren sticker met een barcode of QR-code en een code (letters en cijfers), vergelijkbaar met de onderstaande voorbeelden:",
     "CL_CF_CS_common_scan_guide_option2": "Optie 2: Op de verpakking of in de gebruiksaanwijzing",
     "CL_CF_CS_common_scan_guide_option2_desc": "Als u het label niet op de wasmachine kunt vinden, kijk dan op de verpakking of in de gebruikershandleiding.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Bovenaan - ##Het label bevindt zich aan de bovenrand van uw wasmachine, net boven de wasmiddellade.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Kies het apparaat waarmee u wilt koken. Als u geen keuze maakt, worden recepten voorgesteld die geschikt zijn voor zowel de oven als de kookplaat. Als u er één selecteert, worden de recepten alleen voor dat apparaat weergegeven.",
     "breakfast": "ontbijt",
     "lunch": "lunch",
+    "dinner": "",
     "starter": "starter",
     "main": "voornaamst",
     "side": "kant",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Geluid voor meldingen",
     "CL_DV_EY_device_already_bound": "Dit apparaat is al gekoppeld.",
     "CL_DV_WM_sound_interactions": "Geluid voor interacties",
-    "CL_UC_nickname": "Bijnaam"
+    "CL_UC_nickname": "Bijnaam",
+    "CL_CF_CS_common_scan_guide_label_1": "Het label ziet eruit als een witte of zilveren sticker met een streepjescode of een QR-code en een code (letters en cijfers), vergelijkbaar met de onderstaande voorbeelden:"
 }
