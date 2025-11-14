@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Pe marginea interioară a ramei ușii",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Pe partea superioară a marginii ușii",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Pe verso - ##Dacă aveți o mașină de spălat cu încărcare verticală, eticheta se găsește pe verso.",
-    "CL_CF_CS_common_scan_guide_label_1": "Eticheta arată ca un autocolant alb sau argintiu cu un cod de bare sau un cod QR și un cod (litere și cifre), similar cu exemplele de mai jos:",
     "CL_CF_CS_common_scan_guide_option2": "Opțiunea 2: Pe ambalaj sau în manualul de utilizare",
     "CL_CF_CS_common_scan_guide_option2_desc": "Dacă nu găsiți eticheta pe mașina de spălat, căutați-o pe ambalaj sau în manualul de utilizare.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##În partea de sus - ##Eticheta se găsește pe marginea superioară a mașinii de spălat, chiar deasupra sertarului pentru detergent.",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1} Pornire automată",
     "CL_DV_DW_dw_auto_start_desc": "Rutina de pornire automată a mașinii de spălat vase rulează automat programul ales la aceeași oră în fiecare zi - astfel încât să nu mai trebuiască să vă amintiți să îl porniți. Pentru confortul și siguranța dumneavoastră, mașina de spălat vase va porni numai dacă ușa a fost deschisă în ultimele 18 ore. Dacă ușa nu a fost deschisă în acest interval de timp, pornirea automată va fi omisă pentru ziua respectivă.",
     "CL_AC_auto_defrost_title": "Curățare automată prin dezghețare",
-    "CL_AC_auto_defrost_content": "Dezghețarea și curățarea automată sunt în curs, estimată a se finaliza în 1 oră.",
     "CL_AC_auto_defrost_time": "Timp de rulare acumulat",
     "CL_AC_work_time": "Timp de lucru",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Apăsați și țineți apăsat butonul #### timp de aproximativ 3-6 secunde, până când auziți un semnal sonor.",
@@ -7089,5 +7087,9 @@
     "CL_DV_WM_sound_notifications": "Sunet pentru notificări",
     "CL_DV_EY_device_already_bound": "Acest dispozitiv este deja legat.",
     "CL_DV_WM_sound_interactions": "Sunet pentru interacțiuni",
-    "CL_UC_nickname": "Poreclă"
+    "CL_UC_nickname": "Poreclă",
+    "CL_CF_CS_common_scan_guide_label_1": "Eticheta arată ca un autocolant alb sau argintiu cu un cod de bare sau un cod QR și un cod (litere și cifre), similar cu exemplele de mai jos:",
+    "CL_DV_EY_today_charge": "Energie încărcată astăzi",
+    "CL_DV_EY_today_discharged": "Energie descărcată astăzi",
+    "CL_AC_auto_defrost_content_n": "Dezghețarea și curățarea automată sunt în curs de desfășurare, estimată a se finaliza în 90 de minute."
 }

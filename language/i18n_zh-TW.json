@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2.在門框內側邊緣",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.在門框上部",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##背面 - ##如果您使用的是頂開式洗衣機，標籤可以在背面找到。",
-    "CL_CF_CS_common_scan_guide_label_1": "標籤看起來像一張白色或銀色的貼紙，上面有條碼或二維碼以及代碼（字母和數字），類似於以下範例：",
     "CL_CF_CS_common_scan_guide_option2": "選項二：包裝上或使用手冊中",
     "CL_CF_CS_common_scan_guide_option2_desc": "如果在洗衣機上找不到標籤，請在包裝或使用手冊中尋找。",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##在頂部 - ##標籤位於洗衣機的頂部邊緣，就在洗滌劑盒的上方。",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1}自動啟動",
     "CL_DV_DW_dw_auto_start_desc": "洗碗機自動啟動功能會在每天同一時間自動執行您選擇的程序，讓您無需手動啟動。為了您的方便和安全，洗碗機僅在過去 18 小時內門打開過的情況下才會啟動。如果門在此期間未打開，則當天將跳過自動啟動。",
     "CL_AC_auto_defrost_title": "自動除霜清潔",
-    "CL_AC_auto_defrost_content": "自動除霜和清潔正在進行中，預計1小時內完成。",
     "CL_AC_auto_defrost_time": "累計運轉時間",
     "CL_AC_work_time": "工作時間",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "按住 #### 按鈕約 3-6 秒，直到聽到嗶聲。",
@@ -7089,5 +7087,9 @@
     "CL_DV_WM_sound_notifications": "通知音效",
     "CL_DV_EY_device_already_bound": "此設備已綁定。",
     "CL_DV_WM_sound_interactions": "用於互動的聲音",
-    "CL_UC_nickname": "暱稱"
+    "CL_UC_nickname": "暱稱",
+    "CL_CF_CS_common_scan_guide_label_1": "標籤看起來像一張白色或銀色的貼紙，上面有條碼或二維碼以及代碼（字母和數字），類似於以下範例：",
+    "CL_DV_EY_today_charge": "今天充滿活力",
+    "CL_DV_EY_today_discharged": "今天釋放的能量",
+    "CL_AC_auto_defrost_content_n": "自動除霜和清潔正在進行中，預計90分鐘內完成。"
 }
