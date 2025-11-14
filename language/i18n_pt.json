@@ -2738,6 +2738,7 @@
     "next_step": "PRÓXIMO PASSO",
     "rf_start_convert_250": "Iniciou a opção de Converter, o congelador vai passar para uma Smart Zone com temperatura de 0 ℃; o frigorífico vai passar para 4 ℃, preste atenção ao armazenamento dos alimentos.",
     "rf_start_convert_213": "O modo de conversão foi ativado. O congelador agora está na Zona Inteligente a 0°C; o refrigerador a 4°C. Verifique o armazenamento dos alimentos.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "O modo de conversão foi desativado. A Zona Inteligente retorna ao congelador a -18°C. Verifique o armazenamento dos alimentos.",
     "unfold_zone": "desdobrar todas as zonas",
     "fold_zone": "dobrar todas as zonas",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Na borda interna do batente da porta.",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Na parte superior do batente da porta.",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Na parte de trás - ##Se você tiver uma máquina de lavar de carregamento superior, a etiqueta pode ser encontrada na parte de trás.",
-    "CL_CF_CS_common_scan_guide_label_1": "A etiqueta parece um adesivo branco ou prateado com um código de barras ou um código QR e um código (letras e números), semelhante aos exemplos abaixo:",
     "CL_CF_CS_common_scan_guide_option2": "Opção 2: Na embalagem ou no manual do usuário",
     "CL_CF_CS_common_scan_guide_option2_desc": "Se não encontrar a etiqueta na máquina de lavar, procure-a na embalagem ou no manual do utilizador.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Na parte superior - ##A etiqueta pode ser encontrada na borda superior da sua máquina de lavar, logo acima da gaveta do detergente.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Escolha o eletrodoméstico que deseja usar para cozinhar. Se nenhuma seleção for feita, serão sugeridas receitas que funcionam tanto no forno quanto no fogão. Selecionar um eletrodoméstico limitará as receitas apenas àquele que você escolheu.",
     "breakfast": "café da manhã",
     "lunch": "almoço",
+    "dinner": "",
     "starter": "iniciante",
     "main": "principal",
     "side": "lado",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Som para notificações",
     "CL_DV_EY_device_already_bound": "Este dispositivo já está emparelhado.",
     "CL_DV_WM_sound_interactions": "Som para interações",
-    "CL_UC_nickname": "Apelido"
+    "CL_UC_nickname": "Apelido",
+    "CL_CF_CS_common_scan_guide_label_1": "A etiqueta parece um adesivo branco ou prateado com um código de barras ou um código QR e um código (letras e números), semelhante aos exemplos abaixo:"
 }

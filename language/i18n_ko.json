@@ -2738,6 +2738,7 @@
     "next_step": "다음 단계",
     "rf_start_convert_250": "변환을 시작하면 냉동실이 온도 0℃의 Smart Zone으로 변환됩니다. 냉장고 온도가 4℃로 변하니 식품 보관에 주의하시기 바랍니다.",
     "rf_start_convert_213": "변환 모드가 활성화되었습니다. 냉동실은 이제 0°C로 스마트 존이 되었고, 냉장실은 4°C로 스마트 존이 되었습니다. 식품 보관 상태를 확인해 주세요.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "변환 모드가 비활성화되었습니다. 스마트 존이 -18°C에서 냉동실로 돌아갑니다. 식품 보관 상태를 확인하세요.",
     "unfold_zone": "모든 구역을 펼치세요",
     "fold_zone": "모든 영역을 접어",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. 도어 림의 안쪽 가장자리에",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. 도어 림 상단 부분",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##뒷면 - ##상단 로드형 세탁기의 경우 라벨은 뒷면에서 찾을 수 있습니다.",
-    "CL_CF_CS_common_scan_guide_label_1": "라벨은 바코드나 QR 코드와 코드(문자와 숫자)가 적힌 흰색이나 은색 스티커처럼 생겼으며, 아래 예시와 비슷합니다.",
     "CL_CF_CS_common_scan_guide_option2": "옵션 2: 포장 또는 사용 설명서에 표시",
     "CL_CF_CS_common_scan_guide_option2_desc": "세탁기에서 라벨을 찾을 수 없다면 포장이나 사용 설명서에서 찾아보세요.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##상단 - ##라벨은 세탁기 상단 가장자리, 세제 투입구 바로 위에 있습니다.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "요리할 기기를 선택하세요. 선택하지 않으면 오븐과 가스레인지 모두 사용 가능한 레시피가 제안됩니다. 하나를 선택하면 해당 기기에서만 사용 가능한 레시피가 제한됩니다.",
     "breakfast": "아침",
     "lunch": "점심",
+    "dinner": "",
     "starter": "기동기",
     "main": "기본",
     "side": "옆",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "알림음",
     "CL_DV_EY_device_already_bound": "이 장치는 이미 바인딩되어 있습니다.",
     "CL_DV_WM_sound_interactions": "상호작용을 위한 사운드",
-    "CL_UC_nickname": "별명"
+    "CL_UC_nickname": "별명",
+    "CL_CF_CS_common_scan_guide_label_1": "라벨은 바코드나 QR 코드와 코드(문자와 숫자)가 적힌 흰색이나 은색 스티커처럼 생겼으며, 아래 예시와 비슷합니다."
 }

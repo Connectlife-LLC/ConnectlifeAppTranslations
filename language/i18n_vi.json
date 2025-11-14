@@ -2738,6 +2738,7 @@
     "next_step": "BƯỚC TIẾP THEO",
     "rf_start_convert_250": "Bạn đã bắt đầu Convert, Tủ đông sẽ chuyển thành Smart Zone với nhiệt độ 0°C; Tủ lạnh sẽ chuyển thành 4oC, hãy chú ý đến việc bảo quản thực phẩm.",
     "rf_start_convert_213": "Chế độ chuyển đổi đã được bật. Ngăn đông hiện là Smart Zone ở 0°C; Ngăn mát ở 4°C. Vui lòng kiểm tra ngăn bảo quản thực phẩm.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Chế độ chuyển đổi đã tắt. Ngăn thông minh sẽ trở về ngăn đông ở nhiệt độ -18°C. Vui lòng kiểm tra tình trạng bảo quản thực phẩm.",
     "unfold_zone": "mở ra tất cả các khu vực",
     "fold_zone": "gấp tất cả các vùng",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Ở mép trong của vành cửa",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Ở phần trên của vành cửa",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Ở mặt sau - ##Nếu bạn sử dụng máy giặt cửa trên, bạn có thể tìm thấy nhãn ở mặt sau.",
-    "CL_CF_CS_common_scan_guide_label_1": "Nhãn trông giống như một nhãn dán màu trắng hoặc bạc có mã vạch hoặc mã QR và mã (chữ cái và số), tương tự như các ví dụ bên dưới:",
     "CL_CF_CS_common_scan_guide_option2": "Lựa chọn 2: Trên bao bì hoặc trong hướng dẫn sử dụng",
     "CL_CF_CS_common_scan_guide_option2_desc": "Nếu bạn không tìm thấy nhãn trên máy giặt, hãy tìm trên bao bì hoặc trong sách hướng dẫn sử dụng.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Ở phía trên - ##Nhãn có thể được tìm thấy ở mép trên của máy giặt, ngay phía trên ngăn đựng chất tẩy rửa.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Chọn thiết bị bạn muốn nấu. Nếu không chọn, các công thức nấu ăn có thể dùng được với cả lò nướng và bếp sẽ được đề xuất. Việc chọn một thiết bị sẽ giới hạn công thức nấu ăn chỉ dùng được với thiết bị đó.",
     "breakfast": "bữa sáng",
     "lunch": "bữa trưa",
+    "dinner": "",
     "starter": "người khởi xướng",
     "main": "chủ yếu",
     "side": "bên",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Âm thanh thông báo",
     "CL_DV_EY_device_already_bound": "Thiết bị này đã được liên kết.",
     "CL_DV_WM_sound_interactions": "Âm thanh cho tương tác",
-    "CL_UC_nickname": "Biệt danh"
+    "CL_UC_nickname": "Biệt danh",
+    "CL_CF_CS_common_scan_guide_label_1": "Nhãn trông giống như một nhãn dán màu trắng hoặc bạc có mã vạch hoặc mã QR và mã (chữ cái và số), tương tự như các ví dụ bên dưới:"
 }

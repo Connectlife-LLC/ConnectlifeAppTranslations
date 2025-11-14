@@ -2738,6 +2738,7 @@
     "next_step": "PRÓXIMO PASO",
     "rf_start_convert_250": "Ha iniciado Convertir, el congelador se transformará en Smart Zone con una temperatura de 0 ℃; El refrigerador se transformará a 4 ℃, preste atención al almacenamiento de alimentos.",
     "rf_start_convert_213": "Modo de conversión activado. El congelador está ahora en Zona Inteligente a 0 °C; el frigorífico a 4 °C. Compruebe la forma en que se encuentran los alimentos.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Modo de conversión desactivado. La Zona Inteligente vuelve al Congelador a -18 °C. Compruebe el estado de los alimentos.",
     "unfold_zone": "desplegar todas las zonas",
     "fold_zone": "doblar todas las zonas",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. En el borde interior del marco de la puerta",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. En la parte superior del marco de la puerta",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##En la parte posterior - ##Si tiene una lavadora de carga superior, la etiqueta se encuentra en la parte posterior.",
-    "CL_CF_CS_common_scan_guide_label_1": "La etiqueta parece una pegatina blanca o plateada con un código de barras o un código QR y un código (letras y números), similar a los ejemplos siguientes:",
     "CL_CF_CS_common_scan_guide_option2": "Opción 2: En el embalaje o en el manual del usuario",
     "CL_CF_CS_common_scan_guide_option2_desc": "Si no encuentra la etiqueta en la lavadora, búsquela en el embalaje o en el manual de usuario.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##En la parte superior - ##La etiqueta se encuentra en el borde superior de la lavadora, justo encima del cajón del detergente.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Elige el electrodoméstico con el que quieres cocinar. Si no seleccionas ninguno, te sugeriremos recetas que funcionan tanto con horno como con vitrocerámica. Al seleccionar uno, las recetas se limitarán a ese electrodoméstico.",
     "breakfast": "desayuno",
     "lunch": "almuerzo",
+    "dinner": "",
     "starter": "motor de arranque",
     "main": "principal",
     "side": "lado",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Sonido para notificaciones",
     "CL_DV_EY_device_already_bound": "Este dispositivo ya está enlazado.",
     "CL_DV_WM_sound_interactions": "Sonido para interacciones",
-    "CL_UC_nickname": "Apodo"
+    "CL_UC_nickname": "Apodo",
+    "CL_CF_CS_common_scan_guide_label_1": "La etiqueta tiene el aspecto de una pegatina blanca o plateada con un código de barras o un código QR y un código (letras y números), similar a los ejemplos siguientes:"
 }

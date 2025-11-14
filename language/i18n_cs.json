@@ -2738,6 +2738,7 @@
     "next_step": "DALŠÍ KROK",
     "rf_start_convert_250": "Spustili jste Převést, mraznička se přemění na chytrou zónu s teplotou 0℃; chladnička se přemění na 4℃, věnujte prosím pozornost skladování potravin.",
     "rf_start_convert_213": "Režim převodu je povolen. Mraznička je nyní v režimu Smart Zone na 0 °C; chladnička na 4 °C. Zkontrolujte prosím skladování potravin.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Režim převodu je zakázán. Chytrá zóna se vrátí do mrazničky při -18 °C. Zkontrolujte prosím skladování potravin.",
     "unfold_zone": "rozvinout všechny zóny",
     "fold_zone": "přeložte všechny zóny",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Na vnitřním okraji dveřního lemu",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Na horní části okraje dveří",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Na zadní straně - ##Pokud máte pračku s horním plněním, štítek najdete na zadní straně.",
-    "CL_CF_CS_common_scan_guide_label_1": "Štítek vypadá jako bílá nebo stříbrná samolepka s čárovým kódem nebo QR kódem a kódem (písmena a číslice), podobně jako v níže uvedených příkladech:",
     "CL_CF_CS_common_scan_guide_option2": "Možnost 2: Na obalu nebo v uživatelské příručce",
     "CL_CF_CS_common_scan_guide_option2_desc": "Pokud štítek na pračce nenajdete, hledejte ho na obalu nebo v uživatelské příručce.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Nahoře - ##Štítek se nachází na horním okraji pračky, těsně nad zásobníkem na prací prostředek.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Vyberte spotřebič, se kterým chcete vařit. Pokud neprovedete žádný výběr, budou navrženy recepty, které jsou kompatibilní s troubou i varnou deskou. Výběrem jednoho spotřebiče se recepty omezí pouze na daný spotřebič.",
     "breakfast": "snídaně",
     "lunch": "oběd",
+    "dinner": "",
     "starter": "startér",
     "main": "hlavní",
     "side": "strana",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Zvuk pro oznámení",
     "CL_DV_EY_device_already_bound": "Toto zařízení je již spárováno.",
     "CL_DV_WM_sound_interactions": "Zvuk pro interakce",
-    "CL_UC_nickname": "Přezdívka"
+    "CL_UC_nickname": "Přezdívka",
+    "CL_CF_CS_common_scan_guide_label_1": "Štítek vypadá jako bílá nebo stříbrná nálepka s čárovým kódem nebo QR kódem a kódem (písmena a číslice), podobně jako v níže uvedených příkladech:"
 }

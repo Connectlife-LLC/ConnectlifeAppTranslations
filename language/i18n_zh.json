@@ -2738,6 +2738,7 @@
     "next_step": "下一步",
     "rf_start_convert_250": "您已启动Convert，冷冻室将会转变为Smart Zone，温度转变为0℃；冷藏室温度将转变为4℃，请注意食材存放位置是否合理。",
     "rf_start_convert_213": "转换模式已启用。冷冻室现为智能温区，温度设定为 0°C；冷藏室温度设定为 4°C。请检查食物储存情况。",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "转换模式已禁用。智能区将恢复至-18°C冷冻状态。请检查食物储存情况。",
     "unfold_zone": "展开所有分区",
     "fold_zone": "折叠所有分区",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2.在门框内侧边缘",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.在门框上部",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##背面 - ##如果您使用的是顶开式洗衣机，标签可以在背面找到。",
-    "CL_CF_CS_common_scan_guide_label_1": "标签看起来像一张白色或银色的贴纸，上面有条形码或二维码以及代码（字母和数字），类似于以下示例：",
     "CL_CF_CS_common_scan_guide_option2": "选项二：包装上或用户手册中",
     "CL_CF_CS_common_scan_guide_option2_desc": "如果在洗衣机上找不到标签，请在包装或用户手册中查找。",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##在顶部 - ##标签位于洗衣机的顶部边缘，就在洗涤剂盒的上方。",
@@ -7021,8 +7021,8 @@
     "CL_DV_RF_rapid_cooling_desc": "快速冷却冰箱冷藏室内的大量新鲜食物。",
     "CL_DV_RF_rapid_freezing_desc": "快速冷冻冰箱内的新鲜食品，以保持其口感和营养成分。",
     "CL_CF_DeviceInfo_module_version": "模块版本：",
-    "CL_AC_space_cooling": "空间冷却",
-    "CL_AC_space_heating": "空间供暖",
+    "CL_AC_space_cooling": "制冷",
+    "CL_AC_space_heating": "制热",
     "CL_AC_space_pool": "游泳池",
     "CL_DV_EY_restored": "已恢复",
     "CL_DV_EY_Hardware": "硬件版本",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "选择您想使用的烹饪器具。如果未选择，系统将推荐适用于烤箱和炉灶的食谱。选择一种器具后，食谱将仅限于该器具。",
     "breakfast": "早餐",
     "lunch": "午餐",
+    "dinner": "",
     "starter": "起动机",
     "main": "主要的",
     "side": "边",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "通知音效",
     "CL_DV_EY_device_already_bound": "此设备已绑定。",
     "CL_DV_WM_sound_interactions": "用于互动的声音",
-    "CL_UC_nickname": "昵称"
+    "CL_UC_nickname": "昵称",
+    "CL_CF_CS_common_scan_guide_label_1": "标签看起来像一张白色或银色的贴纸，上面有条形码或二维码以及代码（字母和数字），类似于以下示例："
 }

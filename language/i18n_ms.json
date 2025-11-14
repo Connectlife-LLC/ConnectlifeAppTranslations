@@ -2738,6 +2738,7 @@
     "next_step": "LANGKAH SETERUSNYA",
     "rf_start_convert_250": "Anda telah mula Tukar, Pembeku Sejuk akan berubah menjadi Zon Pintar dengan suhu 0℃; Peti ais akan berubah menjadi 4℃, sila beri perhatian kepada penyimpanan makanan.",
     "rf_start_convert_213": "Mod tukar didayakan. Pembeku beku kini menjadi Zon Pintar pada 0°C; Peti ais pada 4°C. Sila semak simpanan makanan.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Mod penukaran dilumpuhkan. Zon Pintar kembali ke Peti Sejuk pada -18°C. Sila semak simpanan makanan.",
     "unfold_zone": "buka semua zon",
     "fold_zone": "lipat semua zon",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Di bahagian dalam tepi rim pintu",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Di bahagian atas rim pintu",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Di bahagian belakang - ##Jika anda mempunyai mesin basuh muatan atas, label boleh didapati di bahagian belakang.",
-    "CL_CF_CS_common_scan_guide_label_1": "Label kelihatan seperti pelekat putih atau perak dengan kod bar atau kod QR dan kod (huruf dan nombor), serupa dengan contoh di bawah:",
     "CL_CF_CS_common_scan_guide_option2": "Pilihan 2: Pada pembungkusan atau dalam manual pengguna",
     "CL_CF_CS_common_scan_guide_option2_desc": "Jika anda tidak menemui label pada mesin basuh, cari pada pembungkusan atau dalam manual pengguna.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Di bahagian atas - ##Label boleh didapati di tepi atas mesin basuh anda, betul-betul di atas laci detergen.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Pilih perkakas yang anda ingin gunakan untuk memasak. Jika tiada pilihan dibuat, resipi yang berfungsi dengan kedua-dua ketuhar dan dapur memasak akan dicadangkan. Memilih satu akan mengehadkan resipi kepada perkakas itu sahaja",
     "breakfast": "sarapan pagi",
     "lunch": "makan tengah hari",
+    "dinner": "",
     "starter": "pemula",
     "main": "utama",
     "side": "sebelah",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Bunyi untuk pemberitahuan",
     "CL_DV_EY_device_already_bound": "Peranti ini sudah terikat.",
     "CL_DV_WM_sound_interactions": "Bunyi untuk interaksi",
-    "CL_UC_nickname": "nama samaran"
+    "CL_UC_nickname": "nama samaran",
+    "CL_CF_CS_common_scan_guide_label_1": "Label kelihatan seperti pelekat putih atau perak dengan kod bar atau kod QR dan kod (huruf dan nombor), serupa dengan contoh di bawah:"
 }

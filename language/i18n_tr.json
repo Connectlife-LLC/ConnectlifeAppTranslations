@@ -2738,6 +2738,7 @@
     "next_step": "SONRAKİ ADIM",
     "rf_start_convert_250": "Dönüştürmeyi başlattığınızda Dondurucu 0°C sıcaklıkta Akıllı Bölgeye dönüşecektir; Buzdolabı 4°C'ye dönüşecektir, lütfen yiyeceklerin saklanmasına dikkat edin.",
     "rf_start_convert_213": "Dönüştürme modu etkinleştirildi. Dondurucu artık 0°C'de Akıllı Bölge; Buzdolabı ise 4°C'de. Lütfen gıda saklama koşullarını kontrol edin.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Dönüştürme modu devre dışı. Akıllı Bölge -18°C'de Dondurucuya geri döner. Lütfen gıda depolamasını kontrol edin.",
     "unfold_zone": "tüm bölgeleri aç",
     "fold_zone": "tüm bölgeleri katla",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2.Kapı kenarının iç kenarında",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Kapı kenarının üst kısmında",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Arka tarafta - ##Üstten yüklemeli bir çamaşır makineniz varsa, etiketi arka tarafta bulabilirsiniz.",
-    "CL_CF_CS_common_scan_guide_label_1": "Etiket, aşağıdaki örneklere benzer şekilde, üzerinde barkod veya QR kodu ve bir kod (harfler ve sayılar) bulunan beyaz veya gümüş renkli bir çıkartmaya benziyor:",
     "CL_CF_CS_common_scan_guide_option2": "Seçenek 2: Ambalaj üzerinde veya kullanım kılavuzunda",
     "CL_CF_CS_common_scan_guide_option2_desc": "Eğer çamaşır makinenizin üzerinde etiketi bulamıyorsanız, ambalajında veya kullanım kılavuzunda arayın.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Üst tarafta - ##Etiket, çamaşır makinenizin üst kenarında, deterjan çekmecesinin hemen üzerinde bulunabilir.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Pişirmek istediğiniz cihazı seçin. Herhangi bir seçim yapmazsanız, hem fırın hem de ocakla uyumlu tarifler önerilecektir. Birini seçtiğinizde, tarifler yalnızca o cihazla sınırlı kalacaktır.",
     "breakfast": "kahvaltı",
     "lunch": "öğle yemeği",
+    "dinner": "",
     "starter": "başlangıç",
     "main": "ana",
     "side": "taraf",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Bildirimler için ses",
     "CL_DV_EY_device_already_bound": "Bu cihaz zaten bağlı.",
     "CL_DV_WM_sound_interactions": "Etkileşimler için ses",
-    "CL_UC_nickname": "Takma ad"
+    "CL_UC_nickname": "Takma ad",
+    "CL_CF_CS_common_scan_guide_label_1": "Etiket, aşağıdaki örneklere benzer şekilde, üzerinde barkod veya QR kodu ve bir kod (harfler ve sayılar) bulunan beyaz veya gümüş renkli bir çıkartmaya benziyor:"
 }

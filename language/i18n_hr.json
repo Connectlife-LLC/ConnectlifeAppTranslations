@@ -2738,6 +2738,7 @@
     "next_step": "SLJEDEĆI KORAK",
     "rf_start_convert_250": "Imate start Convert, zamrzivač će se pretvoriti u Pametnu zonu s temperaturom od 0 °C; hladnjak će se pretvoriti u 4 °C. Obratite pozornost na skladištenje hrane.",
     "rf_start_convert_213": "Način pretvaranja omogućen. Zamrzivač je sada Smart Zone na 0°C; Hladnjak na 4°C. Molimo provjerite skladištenje hrane.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Način pretvaranja onemogućen. Pametna zona se vraća u zamrzivač na -18°C. Provjerite skladištenje hrane.",
     "unfold_zone": "Otvori sve zone",
     "fold_zone": "Preklopi sve zone",
@@ -6965,7 +6966,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Na unutarnjem rubu ruba vrata",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Na gornjem dijelu ruba vrata",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Na stražnjoj strani - ##Ako imate perilicu rublja s gornjim punjenjem, naljepnicu možete pronaći na stražnjoj strani.",
-    "CL_CF_CS_common_scan_guide_label_1": "Naljepnica izgleda kao bijela ili srebrna naljepnica s barkodom ili QR kodom i kodom (slova i brojevi), slično primjerima u nastavku:",
     "CL_CF_CS_common_scan_guide_option2": "Opcija 2: Na pakiranju ili u korisničkom priručniku",
     "CL_CF_CS_common_scan_guide_option2_desc": "Ako ne možete pronaći naljepnicu na perilici rublja, potražite je na pakiranju ili u korisničkom priručniku.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Na vrhu - ##Naljepnica se nalazi na gornjem rubu perilice rublja, odmah iznad ladice za deterdžent.",
@@ -7077,6 +7077,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Odaberite uređaj s kojim želite kuhati. Ako ne odaberete ništa, predložit će se recepti koji rade i s pećnicom i s pločom za kuhanje. Odabirom jednog ograničit ćete recepte samo na taj uređaj.",
     "breakfast": "doručak",
     "lunch": "ručak",
+    "dinner": "",
     "starter": "starter",
     "main": "glavni",
     "side": "strana",
@@ -7089,5 +7090,6 @@
     "CL_DV_WM_sound_notifications": "Zvuk za obavijesti",
     "CL_DV_EY_device_already_bound": "Ovaj uređaj je već povezan.",
     "CL_DV_WM_sound_interactions": "Zvuk za interakcije",
-    "CL_UC_nickname": "Nadimak"
+    "CL_UC_nickname": "Nadimak",
+    "CL_CF_CS_common_scan_guide_label_1": "Naljepnica izgleda kao bijela ili srebrna naljepnica s barkodom ili QR kodom i kodom (slova i brojevi), slično primjerima u nastavku:"
 }
