@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. På dörrens insida",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. På den övre delen av dörrkanten",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##På baksidan - ##Om du har en tvättmaskin med toppmatning finns etiketten på baksidan.",
-    "CL_CF_CS_common_scan_guide_label_1": "Etiketten ser ut som en vit eller silverfärgad klistermärke med en streckkod eller QR-kod och en kod (bokstäver och siffror), ungefär som exemplen nedan:",
     "CL_CF_CS_common_scan_guide_option2": "Alternativ 2: På förpackningen eller i användarmanualen",
     "CL_CF_CS_common_scan_guide_option2_desc": "Om du inte hittar etiketten på tvättmaskinen, leta efter den på förpackningen eller i bruksanvisningen.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##På toppen - ##Etiketten finns på tvättmaskinens övre kant, precis ovanför tvättmedelsfacket.",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1} Automatisk start",
     "CL_DV_DW_dw_auto_start_desc": "Diskmaskinens automatiska startprogram kör automatiskt ditt valda program vid samma tidpunkt varje dag – så du behöver aldrig komma ihåg att starta det. För din bekvämlighet och säkerhet startar diskmaskinen bara om luckan har öppnats inom de senaste 18 timmarna. Om luckan inte har öppnats under den tiden hoppas den automatiska starten över för den dagen.",
     "CL_AC_auto_defrost_title": "Rengöring med automatisk avfrostning",
-    "CL_AC_auto_defrost_content": "Automatisk avfrostning och rengöring pågår, beräknas vara klar inom 1 timme.",
     "CL_AC_auto_defrost_time": "Ackumulerad körtid",
     "CL_AC_work_time": "Arbetstid",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Tryck och håll ner ####-knappen i cirka 3–6 sekunder tills du hör ett pip.",
@@ -7089,5 +7087,9 @@
     "CL_DV_WM_sound_notifications": "Ljud för aviseringar",
     "CL_DV_EY_device_already_bound": "Den här enheten är redan bunden.",
     "CL_DV_WM_sound_interactions": "Ljud för interaktioner",
-    "CL_UC_nickname": "Smeknamn"
+    "CL_UC_nickname": "Smeknamn",
+    "CL_CF_CS_common_scan_guide_label_1": "Etiketten ser ut som en vit eller silverfärgad klistermärke med en streckkod eller en QR-kod och en kod (bokstäver och siffror), ungefär som exemplen nedan:",
+    "CL_DV_EY_today_charge": "Laddad energi idag",
+    "CL_DV_EY_today_discharged": "Idag urladdad energi",
+    "CL_AC_auto_defrost_content_n": "Automatisk avfrostning och rengöring pågår, beräknas vara klar inom 90 minuter."
 }

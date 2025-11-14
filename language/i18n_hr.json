@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Na unutarnjem rubu ruba vrata",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Na gornjem dijelu ruba vrata",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Na stražnjoj strani - ##Ako imate perilicu rublja s gornjim punjenjem, naljepnicu možete pronaći na stražnjoj strani.",
-    "CL_CF_CS_common_scan_guide_label_1": "Naljepnica izgleda kao bijela ili srebrna naljepnica s barkodom ili QR kodom i kodom (slova i brojevi), slično primjerima u nastavku:",
     "CL_CF_CS_common_scan_guide_option2": "Opcija 2: Na pakiranju ili u korisničkom priručniku",
     "CL_CF_CS_common_scan_guide_option2_desc": "Ako ne možete pronaći naljepnicu na perilici rublja, potražite je na pakiranju ili u korisničkom priručniku.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Na vrhu - ##Naljepnica se nalazi na gornjem rubu perilice rublja, odmah iznad ladice za deterdžent.",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1} Automatsko pokretanje",
     "CL_DV_DW_dw_auto_start_desc": "Rutina automatskog pokretanja perilice posuđa automatski pokreće odabrani program svaki dan u isto vrijeme - tako da se nikada ne morate sjetiti da ga pokrenete. Radi vaše udobnosti i sigurnosti, perilica posuđa će se pokrenuti samo ako su vrata otvorena u posljednjih 18 sati. Ako vrata nisu otvorena u tom vremenu, automatsko pokretanje će se preskočiti za taj dan.",
     "CL_AC_auto_defrost_title": "Automatsko odmrzavanje i čišćenje",
-    "CL_AC_auto_defrost_content": "Automatsko odmrzavanje i čišćenje u tijeku, procjenjuje se da će biti dovršeno za 1 sat.",
     "CL_AC_auto_defrost_time": "Akumulirano vrijeme trčanja",
     "CL_AC_work_time": "Radno vrijeme",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Pritisnite i držite tipku #### otprilike 3-6 sekundi dok ne čujete zvučni signal.",
@@ -7089,5 +7087,9 @@
     "CL_DV_WM_sound_notifications": "Zvuk za obavijesti",
     "CL_DV_EY_device_already_bound": "Ovaj uređaj je već povezan.",
     "CL_DV_WM_sound_interactions": "Zvuk za interakcije",
-    "CL_UC_nickname": "Nadimak"
+    "CL_UC_nickname": "Nadimak",
+    "CL_CF_CS_common_scan_guide_label_1": "Naljepnica izgleda kao bijela ili srebrna naljepnica s barkodom ili QR kodom i kodom (slova i brojevi), slično primjerima u nastavku:",
+    "CL_DV_EY_today_charge": "Danas nabijen energijom",
+    "CL_DV_EY_today_discharged": "Danas ispuštena energija",
+    "CL_AC_auto_defrost_content_n": "Automatsko odmrzavanje i čišćenje u tijeku, procjenjuje se da će biti dovršeno za 90 minuta."
 }

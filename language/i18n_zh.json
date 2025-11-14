@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2.在门框内侧边缘",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.在门框上部",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##背面 - ##如果您使用的是顶开式洗衣机，标签可以在背面找到。",
-    "CL_CF_CS_common_scan_guide_label_1": "标签看起来像一张白色或银色的贴纸，上面有条形码或二维码以及代码（字母和数字），类似于以下示例：",
     "CL_CF_CS_common_scan_guide_option2": "选项二：包装上或用户手册中",
     "CL_CF_CS_common_scan_guide_option2_desc": "如果在洗衣机上找不到标签，请在包装或用户手册中查找。",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##在顶部 - ##标签位于洗衣机的顶部边缘，就在洗涤剂盒的上方。",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1}自动启动",
     "CL_DV_DW_dw_auto_start_desc": "洗碗机自动启动功能会在每天同一时间自动运行您选择的程序，让您无需手动启动。为了您的方便和安全，洗碗机仅在过去 18 小时内门被打开过的情况下才会启动。如果门在此期间未被打开，则当天将跳过自动启动。",
     "CL_AC_auto_defrost_title": "自动除霜清洁",
-    "CL_AC_auto_defrost_content": "自动除霜和清洁正在进行中，预计1小时内完成。",
     "CL_AC_auto_defrost_time": "累计运行时间",
     "CL_AC_work_time": "工作时间",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "按住 #### 按钮约 3-6 秒，直到听到哔声。",
@@ -7021,8 +7019,8 @@
     "CL_DV_RF_rapid_cooling_desc": "快速冷却冰箱冷藏室内的大量新鲜食物。",
     "CL_DV_RF_rapid_freezing_desc": "快速冷冻冰箱内的新鲜食品，以保持其口感和营养成分。",
     "CL_CF_DeviceInfo_module_version": "模块版本：",
-    "CL_AC_space_cooling": "空间冷却",
-    "CL_AC_space_heating": "空间供暖",
+    "CL_AC_space_cooling": "制冷",
+    "CL_AC_space_heating": "制热",
     "CL_AC_space_pool": "游泳池",
     "CL_DV_EY_restored": "已恢复",
     "CL_DV_EY_Hardware": "硬件版本",
@@ -7089,5 +7087,9 @@
     "CL_DV_WM_sound_notifications": "通知音效",
     "CL_DV_EY_device_already_bound": "此设备已绑定。",
     "CL_DV_WM_sound_interactions": "用于互动的声音",
-    "CL_UC_nickname": "昵称"
+    "CL_UC_nickname": "昵称",
+    "CL_CF_CS_common_scan_guide_label_1": "标签看起来像一张白色或银色的贴纸，上面有条形码或二维码以及代码（字母和数字），类似于以下示例：",
+    "CL_DV_EY_today_charge": "今天充满活力",
+    "CL_DV_EY_today_discharged": "今天释放的能量",
+    "CL_AC_auto_defrost_content_n": "自动除霜和清洁正在进行中，预计90分钟内完成。"
 }

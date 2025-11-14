@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2.Kapı kenarının iç kenarında",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Kapı kenarının üst kısmında",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Arka tarafta - ##Üstten yüklemeli bir çamaşır makineniz varsa, etiketi arka tarafta bulabilirsiniz.",
-    "CL_CF_CS_common_scan_guide_label_1": "Etiket, aşağıdaki örneklere benzer şekilde, üzerinde barkod veya QR kodu ve bir kod (harfler ve sayılar) bulunan beyaz veya gümüş renkli bir çıkartmaya benziyor:",
     "CL_CF_CS_common_scan_guide_option2": "Seçenek 2: Ambalaj üzerinde veya kullanım kılavuzunda",
     "CL_CF_CS_common_scan_guide_option2_desc": "Eğer çamaşır makinenizin üzerinde etiketi bulamıyorsanız, ambalajında veya kullanım kılavuzunda arayın.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Üst tarafta - ##Etiket, çamaşır makinenizin üst kenarında, deterjan çekmecesinin hemen üzerinde bulunabilir.",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1} Otomatik başlatma",
     "CL_DV_DW_dw_auto_start_desc": "Bulaşık Makinesi Otomatik Başlatma rutini, seçtiğiniz programı her gün aynı saatte otomatik olarak çalıştırır; böylece başlatmayı hatırlamanıza gerek kalmaz. Rahatlığınız ve güvenliğiniz için, bulaşık makinesi yalnızca kapağı son 18 saat içinde açılmışsa çalışır. Kapak bu süre içinde açılmamışsa, otomatik başlatma o gün için atlanır.",
     "CL_AC_auto_defrost_title": "Otomatik Çözme Temizliği",
-    "CL_AC_auto_defrost_content": "Otomatik çözme ve temizleme işlemi devam ediyor, 1 saatte tamamlanması tahmin ediliyor.",
     "CL_AC_auto_defrost_time": "Toplam çalışma süresi",
     "CL_AC_work_time": "Çalışma zamanı",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "#### düğmesini yaklaşık 3-6 saniye boyunca, bir bip sesi duyana kadar basılı tutun.",
@@ -7089,5 +7087,9 @@
     "CL_DV_WM_sound_notifications": "Bildirimler için ses",
     "CL_DV_EY_device_already_bound": "Bu cihaz zaten bağlı.",
     "CL_DV_WM_sound_interactions": "Etkileşimler için ses",
-    "CL_UC_nickname": "Takma ad"
+    "CL_UC_nickname": "Takma ad",
+    "CL_CF_CS_common_scan_guide_label_1": "Etiket, aşağıdaki örneklere benzer şekilde, üzerinde barkod veya QR kodu ve bir kod (harfler ve sayılar) bulunan beyaz veya gümüş renkli bir çıkartmaya benziyor:",
+    "CL_DV_EY_today_charge": "Bugün enerji yüklü",
+    "CL_DV_EY_today_discharged": "Bugün deşarj edilen enerji",
+    "CL_AC_auto_defrost_content_n": "Otomatik çözme ve temizleme işlemi devam ediyor, 90 dakikada tamamlanması tahmin ediliyor."
 }
