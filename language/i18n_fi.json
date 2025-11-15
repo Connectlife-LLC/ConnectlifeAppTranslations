@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Oven reunan sisäreunassa",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Oven reunuksen yläosassa",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Takana - ##Jos sinulla on päältä täytettävä pesukone, tarra löytyy takaosasta.",
-    "CL_CF_CS_common_scan_guide_label_1": "Tarra näyttää valkoiselta tai hopeiselta tarralta, jossa on viivakoodi tai QR-koodi ja koodi (kirjaimia ja numeroita), kuten alla olevissa esimerkeissä:",
     "CL_CF_CS_common_scan_guide_option2": "Vaihtoehto 2: Pakkauksessa tai käyttöoppaassa",
     "CL_CF_CS_common_scan_guide_option2_desc": "Jos et löydä pesukoneen etikettiä, etsi se pakkauksesta tai käyttöoppaasta.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Yläosassa - ##Tarra löytyy pesukoneen yläreunasta, aivan pesuainelokeron yläpuolelta.",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1} Automaattinen käynnistys",
     "CL_DV_DW_dw_auto_start_desc": "Astianpesukoneen automaattinen käynnistysrutiini suorittaa valitsemasi ohjelman automaattisesti samaan aikaan joka päivä – joten sinun ei koskaan tarvitse muistaa käynnistää sitä. Mukavuutesi ja turvallisuutesi vuoksi astianpesukone käynnistyy vain, jos luukku on avattu viimeisten 18 tunnin aikana. Jos luukkua ei ole avattu tänä aikana, automaattinen käynnistys ohitetaan kyseisenä päivänä.",
     "CL_AC_auto_defrost_title": "Automaattinen sulatuspuhdistus",
-    "CL_AC_auto_defrost_content": "Automaattinen sulatus ja puhdistus käynnissä, arvioitu valmistumisaika 1 tunti.",
     "CL_AC_auto_defrost_time": "Kertynyt käyttöaika",
     "CL_AC_work_time": "Työaika",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Paina ####-painiketta noin 3–6 sekuntia, kunnes kuulet piippauksen.",
@@ -7050,7 +7048,6 @@
     "CL_CF_CS_pind_config_wifi_new_p_step4": "Napauta lyhyesti Wi-Fi-symbolia. ''P'' alkaa vilkkua. Voit nyt jatkaa sovelluksessa napauttamalla alla olevaa SEURAAVA-painiketta. Jos et näe vilkkuvaa ''P''-kirjainta, palaa takaisin ja yritä vaiheita uudelleen.",
     "CL_CF_CS_wm_g400_600_cs_step_1": "Aseta laite normaaleihin käyttöolosuhteisiin. \n Siirrä jogger-vipu asentoon ”Kaukosäädin”. \n Jatka napsauttamalla SEURAAVA.",
     "CL_CF_CS_wm_g400_600_cs_step_2": "Napauta ja pidä +-kuvaketta painettuna 3 sekuntia, kunnes Con tulee näkyviin. \n Laitteen verkko on nyt avoinna yhteydelle 5 minuutiksi. \n Jatka napsauttamalla SEURAAVA.",
-    "CL_CF_CS_wm_g400_600_p_step_2": "Napauta ja pidä +-kuvaketta painettuna 3 sekuntia, kunnes Con tulee näkyviin. \n Laitteen verkko on nyt avoinna yhteydelle 5 minuutiksi. \n Jatka napsauttamalla SEURAAVA.",
     "CL_AC_dr_override_hour": "palautetaan ## tunnin kuluttua",
     "CL_AC_dr_override_hour_content": "Keskeyttää automaattiset energiansäästöasetukset väliaikaisesti. Asetukset palautuvat automaattisesti 24 tunnin kuluttua.",
     "CL_AC_dr_override_max_indoor": "Sisälämpötilan enimmäisarvo",
@@ -7089,5 +7086,13 @@
     "CL_DV_WM_sound_notifications": "Ilmoitusten ääni",
     "CL_DV_EY_device_already_bound": "Tämä laite on jo sidottu.",
     "CL_DV_WM_sound_interactions": "Ääni vuorovaikutusta varten",
-    "CL_UC_nickname": "Lempinimi"
+    "CL_UC_nickname": "Lempinimi",
+    "CL_CF_CS_common_scan_guide_label_1": "Tarra näyttää valkoiselta tai hopeiselta tarralta, jossa on viivakoodi tai QR-koodi ja koodi (kirjaimia ja numeroita), kuten alla olevissa esimerkeissä:",
+    "CL_DV_EY_today_charge": "Tänään ladattua energiaa",
+    "CL_DV_EY_today_discharged": "Tänään purettu energia",
+    "CL_AC_auto_defrost_content_n": "Automaattinen sulatus ja puhdistus käynnissä, arvioitu valmistumisaika 90 minuuttia.",
+    "CL_CF_CS_wm_g800_cs_step_1": "Aseta laite normaaleihin käyttöolosuhteisiin. \n Napauta valikkokuvaketta ja vieritä valitsimella kohtaan ”Asetukset”.",
+    "CL_CF_CS_wm_g800_cs_step_2": "Valitse asetuksista ”Wi-Fi-asetukset”. \n Siirry kohtaan ”Yhteyden määritys” ja vahvista. Laitteen verkko on nyt avoinna yhteydelle 5 minuutin ajan. \n Jatka napsauttamalla SEURAAVA.",
+    "CL_CF_CS_wm_g800_p_step_2": "Valitse asetuksista ”Wi-Fi-asetukset”. \n Siirry kohtaan ”Yhdistäminen” ja vahvista. Laite on nyt valmis pariliitokseen 3 minuutin ajan. \n Jatka napsauttamalla SEURAAVA.",
+    "CL_CF_CS_wm_g400_600_p_step_2": "Napauta ja pidä +-kuvaketta painettuna 6 sekuntia, kunnes PAr tulee näkyviin. \n Laite on nyt valmis pariliitokseen 3 minuutin ajan. \n Jatka napsauttamalla SEURAAVA."
 }
