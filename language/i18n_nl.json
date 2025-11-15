@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Aan de binnenrand van de deurrand",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Op het bovenste deel van de deurrand",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Op de achterkant - ##Als u een wasmachine met bovenlader hebt, bevindt het label zich op de achterkant.",
-    "CL_CF_CS_common_scan_guide_label_1": "Het label ziet eruit als een witte of zilveren sticker met een barcode of QR-code en een code (letters en cijfers), vergelijkbaar met de onderstaande voorbeelden:",
     "CL_CF_CS_common_scan_guide_option2": "Optie 2: Op de verpakking of in de gebruiksaanwijzing",
     "CL_CF_CS_common_scan_guide_option2_desc": "Als u het label niet op de wasmachine kunt vinden, kijk dan op de verpakking of in de gebruikershandleiding.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Bovenaan - ##Het label bevindt zich aan de bovenrand van uw wasmachine, net boven de wasmiddellade.",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1} Automatisch starten",
     "CL_DV_DW_dw_auto_start_desc": "De automatische startroutine van de vaatwasser start elke dag automatisch het door u gekozen programma op hetzelfde tijdstip, zodat u er nooit aan hoeft te denken om het te starten. Voor uw gemak en veiligheid start de vaatwasser alleen als de deur in de afgelopen 18 uur is geopend. Als de deur in die tijd niet is geopend, wordt de automatische start die dag overgeslagen.",
     "CL_AC_auto_defrost_title": "Automatisch ontdooien reinigen",
-    "CL_AC_auto_defrost_content": "Automatisch ontdooien en reinigen is bezig. Verwachte voltooiingstijd: 1 uur.",
     "CL_AC_auto_defrost_time": "Geaccumuleerde looptijd",
     "CL_AC_work_time": "Werktijd",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Houd de ####-knop ongeveer 3 tot 6 seconden ingedrukt totdat u een pieptoon hoort.",
@@ -7050,7 +7048,6 @@
     "CL_CF_CS_pind_config_wifi_new_p_step4": "Tik kort op het wifi-symbool. De 'P' begint te knipperen. Je kunt nu verdergaan in de app door op de knop VOLGENDE hieronder te tikken. Als je geen knipperende 'P' ziet, ga dan terug en probeer de stappen opnieuw.",
     "CL_CF_CS_wm_g400_600_cs_step_1": "Zet het apparaat in de normale bedrijfstoestand. \n Verplaats de jogger naar “Afstandsbediening”. \n Klik op VOLGENDE om door te gaan.",
     "CL_CF_CS_wm_g400_600_cs_step_2": "Houd het + pictogram 3 seconden ingedrukt totdat Con verschijnt. \n Het netwerk van het apparaat is nu 5 minuten lang open voor verbinding. \n Klik op VOLGENDE om door te gaan.",
-    "CL_CF_CS_wm_g400_600_p_step_2": "Houd het + pictogram 3 seconden ingedrukt totdat Con verschijnt. \n Het netwerk van het apparaat is nu 5 minuten lang open voor verbinding. \n Klik op VOLGENDE om door te gaan.",
     "CL_AC_dr_override_hour": "wordt over ## uur teruggedraaid",
     "CL_AC_dr_override_hour_content": "Pauzeert tijdelijk automatische energiebesparende aanpassingen. De instellingen worden na 24 uur automatisch teruggezet.",
     "CL_AC_dr_override_max_indoor": "Maximale binnentemperatuur",
@@ -7089,5 +7086,13 @@
     "CL_DV_WM_sound_notifications": "Geluid voor meldingen",
     "CL_DV_EY_device_already_bound": "Dit apparaat is al gekoppeld.",
     "CL_DV_WM_sound_interactions": "Geluid voor interacties",
-    "CL_UC_nickname": "Bijnaam"
+    "CL_UC_nickname": "Bijnaam",
+    "CL_CF_CS_common_scan_guide_label_1": "Het label ziet eruit als een witte of zilveren sticker met een streepjescode of een QR-code en een code (letters en cijfers), vergelijkbaar met de onderstaande voorbeelden:",
+    "CL_DV_EY_today_charge": "Vandaag opgeladen energie",
+    "CL_DV_EY_today_discharged": "Vandaag ontladen energie",
+    "CL_AC_auto_defrost_content_n": "Automatisch ontdooien en reinigen is bezig. Verwachte voltooiingsdatum 90 minuten.",
+    "CL_CF_CS_wm_g800_cs_step_1": "Stel het apparaat in op normale bedrijfsomstandigheden. \n Tik op het menupictogram en scrol met de keuzeknop naar 'Instellingen'.",
+    "CL_CF_CS_wm_g800_cs_step_2": "Kies in de instellingen 'Wi-Fi-instellingen'. \n Ga naar 'Verbindingsinstellingen' en bevestig. Het netwerk van het apparaat is nu 5 minuten open voor verbinding. \n Klik op VOLGENDE om door te gaan.",
+    "CL_CF_CS_wm_g800_p_step_2": "Kies in de instellingen 'Wi-Fi-instellingen'. \n Ga naar 'Koppelen' en bevestig. Het apparaat is nu 3 minuten klaar om te koppelen. \n Klik op VOLGENDE om door te gaan.",
+    "CL_CF_CS_wm_g400_600_p_step_2": "Houd het + pictogram 6 seconden ingedrukt totdat PAr verschijnt. \n Het apparaat is nu 3 minuten lang klaar om te koppelen. \n Klik op VOLGENDE om door te gaan."
 }

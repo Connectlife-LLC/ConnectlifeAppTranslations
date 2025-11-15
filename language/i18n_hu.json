@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Az ajtó peremének belső szélén",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3. Az ajtó peremének felső részén",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Hátul - ##Ha felültöltős mosógépe van, a címke a hátoldalon található.",
-    "CL_CF_CS_common_scan_guide_label_1": "A címke egy fehér vagy ezüst matricára hasonlít, amelyen vonalkód vagy QR-kód és egy kód (betűk és számok) látható, az alábbi példákhoz hasonlóan:",
     "CL_CF_CS_common_scan_guide_option2": "2. lehetőség: A csomagoláson vagy a felhasználói kézikönyvben",
     "CL_CF_CS_common_scan_guide_option2_desc": "Ha nem találod a címkét a mosógépen, keresd a csomagoláson vagy a használati útmutatóban.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Felül - ##A címke a mosógép felső szélén található, közvetlenül a mosószeradagoló felett.",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1} Automatikus indítás",
     "CL_DV_DW_dw_auto_start_desc": "A mosogatógép automatikus indítási rutinja automatikusan, minden nap ugyanabban az időben futtatja le a kiválasztott programot – így soha nem kell emlékezned az elindítására. A kényelmed és biztonságod érdekében a mosogatógép csak akkor indul el, ha az ajtót az elmúlt 18 órában kinyitottad. Ha az ajtót ez idő alatt nem nyitották ki, az automatikus indítás aznapra kimarad.",
     "CL_AC_auto_defrost_title": "Automatikus leolvasztás tisztítása",
-    "CL_AC_auto_defrost_content": "Automatikus leolvasztás és tisztítás folyamatban, várhatóan 1 órán belül befejeződik.",
     "CL_AC_auto_defrost_time": "Összesített futási idő",
     "CL_AC_work_time": "Munkaidő",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Nyomja meg és tartsa lenyomva a #### gombot körülbelül 3-6 másodpercig, amíg sípoló hangot nem hall.",
@@ -7050,7 +7048,6 @@
     "CL_CF_CS_pind_config_wifi_new_p_step4": "Röviden koppintson a Wi-Fi szimbólumra. A „P” betű villogni kezd. Mostantól az alábbi KÖVETKEZŐ gombra koppintva folytathatja az alkalmazásban. Ha nem lát villogó „P” betűt, akkor menjen vissza, és próbálja újra a lépéseket.",
     "CL_CF_CS_wm_g400_600_cs_step_1": "Állítsa a készüléket normál üzemi körülmények közé. \n Mozgassa a csúszkát „Távirányító” állásba. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
     "CL_CF_CS_wm_g400_600_cs_step_2": "Koppintson és tartsa lenyomva a + ikont 3 másodpercig, amíg meg nem jelenik a Con felirat. \n Az eszköz hálózata most már 5 percig nyitva áll a csatlakozáshoz. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
-    "CL_CF_CS_wm_g400_600_p_step_2": "Koppintson és tartsa lenyomva a + ikont 3 másodpercig, amíg meg nem jelenik a Con felirat. \n Az eszköz hálózata most már 5 percig nyitva áll a csatlakozáshoz. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
     "CL_AC_dr_override_hour": "## óra múlva visszaállítjuk",
     "CL_AC_dr_override_hour_content": "Ideiglenesen szünetelteti az automatikus energiatakarékos beállításokat. A beállítások 24 óra múlva automatikusan visszaállnak az eredeti állapotukra.",
     "CL_AC_dr_override_max_indoor": "Maximális beltéri hőmérséklet",
@@ -7089,5 +7086,13 @@
     "CL_DV_WM_sound_notifications": "Értesítések hangja",
     "CL_DV_EY_device_already_bound": "Ez az eszköz már össze van kötve.",
     "CL_DV_WM_sound_interactions": "Hang az interakciókhoz",
-    "CL_UC_nickname": "Becenév"
+    "CL_UC_nickname": "Becenév",
+    "CL_CF_CS_common_scan_guide_label_1": "A címke egy fehér vagy ezüst színű matricára hasonlít, amelyen vonalkód vagy QR-kód és egy kód (betűk és számok) látható, az alábbi példákhoz hasonlóan:",
+    "CL_DV_EY_today_charge": "Ma feltöltött energia",
+    "CL_DV_EY_today_discharged": "Ma lemerült energia",
+    "CL_AC_auto_defrost_content_n": "Automatikus leolvasztás és tisztítás folyamatban, várhatóan 90 perc múlva befejeződik.",
+    "CL_CF_CS_wm_g800_cs_step_1": "Állítsa a készüléket normál üzemi körülmények közé. \n Koppintson a menü ikonra, és a választógombbal görgessen a „Beállítások” menüponthoz.",
+    "CL_CF_CS_wm_g800_cs_step_2": "A beállításokban válassza a „Wi-Fi beállítások” lehetőséget. \n Lépjen a „Kapcsolat beállítása” menüpontra, és erősítse meg. Az eszköz hálózata most 5 percig nyitva áll a csatlakozáshoz. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
+    "CL_CF_CS_wm_g800_p_step_2": "A beállításokban válassza a „Wi-Fi beállítások” lehetőséget. \n Lépjen a „Párosítás” menüpontra, és erősítse meg. Az eszköz most 3 percig párosítható. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
+    "CL_CF_CS_wm_g400_600_p_step_2": "Koppintson és tartsa lenyomva a + ikont 6 másodpercig, amíg meg nem jelenik a PAr felirat. \n Az eszköz most 3 percig párosítható. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz."
 }

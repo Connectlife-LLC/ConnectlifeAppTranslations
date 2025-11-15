@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Na wewnętrznej krawędzi obramowania drzwi",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Na górnej części obręczy drzwi",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Z tyłu - ##Jeśli masz pralkę ładowaną od góry, etykietę znajdziesz z tyłu.",
-    "CL_CF_CS_common_scan_guide_label_1": "Etykieta wygląda jak biała lub srebrna naklejka z kodem kreskowym lub kodem QR i kodem (litery i cyfry), podobnie jak w poniższych przykładach:",
     "CL_CF_CS_common_scan_guide_option2": "Opcja 2: Na opakowaniu lub w instrukcji obsługi",
     "CL_CF_CS_common_scan_guide_option2_desc": "Jeśli nie możesz znaleźć etykiety na pralce, poszukaj jej na opakowaniu lub w instrukcji obsługi.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Na górze - ##Etykietę można znaleźć na górnej krawędzi pralki, tuż nad szufladką na detergent.",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1} Autostart",
     "CL_DV_DW_dw_auto_start_desc": "Funkcja automatycznego uruchamiania zmywarki automatycznie uruchamia wybrany program o tej samej porze każdego dnia – dzięki czemu nie musisz pamiętać o jego uruchomieniu. Dla Twojej wygody i bezpieczeństwa zmywarka uruchomi się tylko wtedy, gdy drzwiczki zostaną otwarte w ciągu ostatnich 18 godzin. Jeśli drzwiczki nie zostaną otwarte w tym czasie, automatyczny start zostanie pominięty w danym dniu.",
     "CL_AC_auto_defrost_title": "Czyszczenie automatycznego odmrażania",
-    "CL_AC_auto_defrost_content": "Trwa automatyczne rozmrażanie i czyszczenie. Szacowany czas trwania: 1 godzina.",
     "CL_AC_auto_defrost_time": "Skumulowany czas trwania",
     "CL_AC_work_time": "Czas pracy",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Naciśnij i przytrzymaj przycisk #### przez około 3–6 sekund, aż usłyszysz sygnał dźwiękowy.",
@@ -7050,7 +7048,6 @@
     "CL_CF_CS_pind_config_wifi_new_p_step4": "Krótko dotknij symbolu Wi-Fi. Litera „P” zacznie migać. Możesz teraz przejść dalej w aplikacji, dotykając przycisku DALEJ poniżej. Jeśli nie widzisz migającej litery „P”, wróć i powtórz kroki.",
     "CL_CF_CS_wm_g400_600_cs_step_1": "Ustaw urządzenie w normalnym trybie pracy. \n Przesuń drążek w pozycję „Pilot zdalnego sterowania”. \n Kliknij DALEJ, aby kontynuować.",
     "CL_CF_CS_wm_g400_600_cs_step_2": "Kliknij i przytrzymaj ikonę + przez 3 sekundy, aż pojawi się Con. \n Sieć urządzenia będzie teraz otwarta na połączenie przez 5 minut. \n Kliknij DALEJ, aby kontynuować.",
-    "CL_CF_CS_wm_g400_600_p_step_2": "Kliknij i przytrzymaj ikonę + przez 3 sekundy, aż pojawi się Con. \n Sieć urządzenia będzie teraz otwarta na połączenie przez 5 minut. \n Kliknij DALEJ, aby kontynuować.",
     "CL_AC_dr_override_hour": "zostanie przywrócone za ## godzin",
     "CL_AC_dr_override_hour_content": "Tymczasowo wstrzymuje automatyczne ustawienia oszczędzania energii. Ustawienia zostaną automatycznie przywrócone po 24 godzinach.",
     "CL_AC_dr_override_max_indoor": "Maksymalna temperatura wewnętrzna",
@@ -7089,5 +7086,13 @@
     "CL_DV_WM_sound_notifications": "Dźwięk powiadomień",
     "CL_DV_EY_device_already_bound": "To urządzenie jest już powiązane.",
     "CL_DV_WM_sound_interactions": "Dźwięk do interakcji",
-    "CL_UC_nickname": "Przydomek"
+    "CL_UC_nickname": "Przydomek",
+    "CL_CF_CS_common_scan_guide_label_1": "Etykieta wygląda jak biała lub srebrna naklejka z kodem kreskowym lub kodem QR i kodem (litery i cyfry), podobnie jak w poniższych przykładach:",
+    "CL_DV_EY_today_charge": "Dzisiaj naładowana energia",
+    "CL_DV_EY_today_discharged": "Dzisiaj rozładowana energia",
+    "CL_AC_auto_defrost_content_n": "Trwa automatyczne rozmrażanie i czyszczenie, szacowany czas trwania: 90 minut.",
+    "CL_CF_CS_wm_g800_cs_step_1": "Ustaw urządzenie w normalnym trybie pracy. \n Dotknij ikony menu i przewiń pokrętłem wyboru do „Ustawień”.",
+    "CL_CF_CS_wm_g800_cs_step_2": "W ustawieniach wybierz „Ustawienia Wi-Fi”. \n Przejdź do „Konfiguracji połączenia” i potwierdź. Sieć urządzenia jest teraz otwarta na połączenie przez 5 minut. \n Kliknij DALEJ, aby kontynuować.",
+    "CL_CF_CS_wm_g800_p_step_2": "W ustawieniach wybierz „Ustawienia Wi-Fi”. \n Przejdź do „Parowanie” i potwierdź. Urządzenie jest teraz gotowe do parowania przez 3 minuty. \n Kliknij DALEJ, aby kontynuować.",
+    "CL_CF_CS_wm_g400_600_p_step_2": "Dotknij i przytrzymaj ikonę + przez 6 sekund, aż pojawi się PAr. \n Urządzenie będzie teraz gotowe do parowania przez 3 minuty. \n Kliknij DALEJ, aby kontynuować."
 }

@@ -6965,7 +6965,6 @@
     "CL_CF_CS_washing_machine_scan_guide_label_2": "2. Di bahagian dalam tepi rim pintu",
     "CL_CF_CS_washing_machine_scan_guide_label_3": "3.Di bahagian atas rim pintu",
     "CL_CF_CS_washing_machine_scan_guide_label_4": "##Di bahagian belakang - ##Jika anda mempunyai mesin basuh muatan atas, label boleh didapati di bahagian belakang.",
-    "CL_CF_CS_common_scan_guide_label_1": "Label kelihatan seperti pelekat putih atau perak dengan kod bar atau kod QR dan kod (huruf dan nombor), serupa dengan contoh di bawah:",
     "CL_CF_CS_common_scan_guide_option2": "Pilihan 2: Pada pembungkusan atau dalam manual pengguna",
     "CL_CF_CS_common_scan_guide_option2_desc": "Jika anda tidak menemui label pada mesin basuh, cari pada pembungkusan atau dalam manual pengguna.",
     "CL_CF_CS_washing_machine_scan_guide_label_5": "##Di bahagian atas - ##Label boleh didapati di tepi atas mesin basuh anda, betul-betul di atas laci detergen.",
@@ -6982,7 +6981,6 @@
     "CL_DV_DW_xx_auto_start": "{1} Automula",
     "CL_DV_DW_dw_auto_start_desc": "Rutin Auto-Mula Mesin Cuci Pinggan secara automatik menjalankan program pilihan anda pada masa yang sama setiap hari—jadi anda tidak perlu ingat untuk memulakannya. Untuk kemudahan dan keselamatan anda, mesin basuh pinggan mangkuk hanya akan dimulakan jika pintu telah dibuka dalam tempoh 18 jam yang lalu. Jika pintu belum dibuka pada masa itu, automula akan dilangkau untuk hari itu.",
     "CL_AC_auto_defrost_title": "Auto-Defrost Clean",
-    "CL_AC_auto_defrost_content": "Penyahbekuan automatik dan pembersihan sedang dijalankan, dianggarkan selesai dalam masa 1 jam.",
     "CL_AC_auto_defrost_time": "Masa berjalan terkumpul",
     "CL_AC_work_time": "Masa kerja",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "Tekan dan tahan butang #### untuk lebih kurang. 3-6 saat sehingga anda mendengar bunyi bip.",
@@ -7050,7 +7048,6 @@
     "CL_CF_CS_pind_config_wifi_new_p_step4": "Ketik sebentar pada simbol Wi-Fi. ''P'' akan mula berkelip. Anda kini boleh meneruskan dalam apl dengan mengetik pada butang SETERUSNYA di bawah.  Jika anda tidak melihat ''P'' berkelip, kemudian kembali dan cuba langkah itu sekali lagi.",
     "CL_CF_CS_wm_g400_600_cs_step_1": "Tetapkan peranti kepada keadaan operasi biasa. \n Alihkan kedudukan jogger ke \"Kawalan jauh\". \n Klik SETERUSNYA untuk meneruskan.",
     "CL_CF_CS_wm_g400_600_cs_step_2": "Ketik dan tahan ikon + selama 3 saat sehingga Con muncul. \n Rangkaian peranti kini dibuka untuk sambungan selama 5 minit. \n Klik SETERUSNYA untuk meneruskan.",
-    "CL_CF_CS_wm_g400_600_p_step_2": "Ketik dan tahan ikon + selama 3 saat sehingga Con muncul. \n Rangkaian peranti kini dibuka untuk sambungan selama 5 minit. \n Klik SETERUSNYA untuk meneruskan.",
     "CL_AC_dr_override_hour": "akan dikembalikan dalam ## jam",
     "CL_AC_dr_override_hour_content": "Menjeda pelarasan penjimatan tenaga automatik untuk sementara waktu. Tetapan akan kembali secara automatik dalam masa 24 jam.",
     "CL_AC_dr_override_max_indoor": "Suhu Dalaman Maksimum",
@@ -7089,5 +7086,13 @@
     "CL_DV_WM_sound_notifications": "Bunyi untuk pemberitahuan",
     "CL_DV_EY_device_already_bound": "Peranti ini sudah terikat.",
     "CL_DV_WM_sound_interactions": "Bunyi untuk interaksi",
-    "CL_UC_nickname": "nama samaran"
+    "CL_UC_nickname": "nama samaran",
+    "CL_CF_CS_common_scan_guide_label_1": "Label kelihatan seperti pelekat putih atau perak dengan kod bar atau kod QR dan kod (huruf dan nombor), serupa dengan contoh di bawah:",
+    "CL_DV_EY_today_charge": "Hari ini dicas tenaga",
+    "CL_DV_EY_today_discharged": "Hari ini dilepaskan tenaga",
+    "CL_AC_auto_defrost_content_n": "Penyahbekuan automatik dan pembersihan sedang dijalankan, dianggarkan selesai dalam masa 90 minit.",
+    "CL_CF_CS_wm_g800_cs_step_1": "Tetapkan peranti kepada keadaan operasi biasa. \n Ketik ikon menu dan tatal dengan tombol pemilih ke \"Tetapan\".",
+    "CL_CF_CS_wm_g800_cs_step_2": "Dalam tetapan pilih \"Tetapan Wi-Fi\". \n Beralih ke \"Persediaan sambungan\" dan sahkan.  Rangkaian peranti kini dibuka untuk sambungan selama 5 minit. \n Klik SETERUSNYA untuk meneruskan.",
+    "CL_CF_CS_wm_g800_p_step_2": "Dalam tetapan pilih \"Tetapan Wi-Fi\". \n Beralih ke “Berpasangan” dan sahkan.  Peranti kini sedia untuk berpasangan selama 3 minit. \n Klik SETERUSNYA untuk meneruskan.",
+    "CL_CF_CS_wm_g400_600_p_step_2": "Ketik dan tahan ikon + selama 6 saat sehingga PAr muncul. \n Peranti kini sedia untuk berpasangan selama 3 minit. \n Klik SETERUSNYA untuk meneruskan."
 }
