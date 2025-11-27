@@ -7199,12 +7199,11 @@
     "CL_AI_hello_tips": "Hi, I am VIDAA.",
     "CL_AI_hello_tips_desc": "Your AI assistant.",
     "CL_AI_guidance_suggestion_title": "Suggestion",
-    "CL_AI_guidance_suggestion_desc": "Find the best program",
     "CL_AI_guidance_device_control_title": "Device control",
     "CL_AI_guidance_device_control_desc": "Schedule and start",
     "CL_AI_guidance_free_talk_title": "Free talk",
     "CL_AI_guidance_free_talk_desc": "Speak your mind",
-    "CL_AI_guidance_troubleshooting_title": "Troubleshooting",
+    "CL_AI_guidance_troubleshooting_title": "Troubleshoot",
     "CL_AI_guidance_troubleshooting_desc": "Solve issues easily",
     "CL_AI_recognize_status": "Recognising...",
     "CL_AI_recognize_nothing_found": "Nothing found",
@@ -7248,5 +7247,6 @@
     "CL_DV_EY_rated_power": "Rated power",
     "CL_DV_EY_grid_feed_in": "Fed to grid",
     "CL_DV_EY_grid_purchase": "From grid",
-    "CL_DV_EY_qr_code_expired": "This QR code has expired. Please try again."
+    "CL_DV_EY_qr_code_expired": "This QR code has expired. Please try again.",
+    "CL_AI_guidance_suggestion_desc": "The best program"
 }

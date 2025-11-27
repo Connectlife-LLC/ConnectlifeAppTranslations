@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "안녕하세요, 저는 VIDAA입니다.",
     "CL_AI_hello_tips_desc": "귀하의 AI 비서.",
     "CL_AI_guidance_suggestion_title": "제안",
-    "CL_AI_guidance_suggestion_desc": "최고의 프로그램을 찾아보세요",
     "CL_AI_guidance_device_control_title": "장치 제어",
     "CL_AI_guidance_device_control_desc": "일정 및 시작",
     "CL_AI_guidance_free_talk_title": "무료 토크",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "정격 전력",
     "CL_DV_EY_grid_feed_in": "그리드에 공급",
     "CL_DV_EY_grid_purchase": "그리드에서",
-    "CL_DV_EY_qr_code_expired": "이 QR 코드는 만료되었습니다. 다시 시도해 주세요."
+    "CL_DV_EY_qr_code_expired": "이 QR 코드는 만료되었습니다. 다시 시도해 주세요.",
+    "CL_AI_guidance_suggestion_desc": "최고의 프로그램"
 }

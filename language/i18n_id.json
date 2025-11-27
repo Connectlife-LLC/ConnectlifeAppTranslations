@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Hai, saya VIDAA.",
     "CL_AI_hello_tips_desc": "Asisten AI Anda.",
     "CL_AI_guidance_suggestion_title": "Saran",
-    "CL_AI_guidance_suggestion_desc": "Temukan program terbaik",
     "CL_AI_guidance_device_control_title": "Kontrol perangkat",
     "CL_AI_guidance_device_control_desc": "Jadwal dan mulai",
     "CL_AI_guidance_free_talk_title": "Bicara bebas",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "Daya terukur",
     "CL_DV_EY_grid_feed_in": "Disalurkan ke jaringan",
     "CL_DV_EY_grid_purchase": "Dari jaringan",
-    "CL_DV_EY_qr_code_expired": "Kode QR ini telah kedaluwarsa. Silakan coba lagi."
+    "CL_DV_EY_qr_code_expired": "Kode QR ini telah kedaluwarsa. Silakan coba lagi.",
+    "CL_AI_guidance_suggestion_desc": "Program terbaik"
 }

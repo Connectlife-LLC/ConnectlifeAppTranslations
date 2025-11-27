@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Hai, saya VIDAA.",
     "CL_AI_hello_tips_desc": "Pembantu AI anda.",
     "CL_AI_guidance_suggestion_title": "Cadangan",
-    "CL_AI_guidance_suggestion_desc": "Cari program terbaik",
     "CL_AI_guidance_device_control_title": "Kawalan peranti",
     "CL_AI_guidance_device_control_desc": "Jadual dan mulakan",
     "CL_AI_guidance_free_talk_title": "ceramah percuma",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "Kuasa yang diberi nilai",
     "CL_DV_EY_grid_feed_in": "Diberikan kepada grid",
     "CL_DV_EY_grid_purchase": "Dari grid",
-    "CL_DV_EY_qr_code_expired": "Kod QR ini telah tamat tempoh. Sila cuba lagi."
+    "CL_DV_EY_qr_code_expired": "Kod QR ini telah tamat tempoh. Sila cuba lagi.",
+    "CL_AI_guidance_suggestion_desc": "Program terbaik"
 }

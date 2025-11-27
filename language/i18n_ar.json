@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "مرحبًا، أنا فيدا.",
     "CL_AI_hello_tips_desc": "مساعد الذكاء الاصطناعي الخاص بك.",
     "CL_AI_guidance_suggestion_title": "اقتراح",
-    "CL_AI_guidance_suggestion_desc": "ابحث عن أفضل برنامج",
     "CL_AI_guidance_device_control_title": "التحكم في الجهاز",
     "CL_AI_guidance_device_control_desc": "الجدول الزمني والبدء",
     "CL_AI_guidance_free_talk_title": "محادثة مجانية",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "الطاقة المقدرة",
     "CL_DV_EY_grid_feed_in": "تغذية الشبكة",
     "CL_DV_EY_grid_purchase": "من الشبكة",
-    "CL_DV_EY_qr_code_expired": "انتهت صلاحية رمز الاستجابة السريعة هذا. يُرجى المحاولة مرة أخرى."
+    "CL_DV_EY_qr_code_expired": "انتهت صلاحية رمز الاستجابة السريعة هذا. يُرجى المحاولة مرة أخرى.",
+    "CL_AI_guidance_suggestion_desc": "افضل برنامج"
 }

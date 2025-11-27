@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Hej, jag heter VIDAA.",
     "CL_AI_hello_tips_desc": "Din AI-assistent.",
     "CL_AI_guidance_suggestion_title": "Förslag",
-    "CL_AI_guidance_suggestion_desc": "Hitta det bästa programmet",
     "CL_AI_guidance_device_control_title": "Enhetskontroll",
     "CL_AI_guidance_device_control_desc": "Schemalägg och börja",
     "CL_AI_guidance_free_talk_title": "Fritt samtal",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "Nominell effekt",
     "CL_DV_EY_grid_feed_in": "Matas till nätet",
     "CL_DV_EY_grid_purchase": "Från rutnätet",
-    "CL_DV_EY_qr_code_expired": "Denna QR-kod har gått ut. Försök igen."
+    "CL_DV_EY_qr_code_expired": "Denna QR-kod har gått ut. Försök igen.",
+    "CL_AI_guidance_suggestion_desc": "Det bästa programmet"
 }

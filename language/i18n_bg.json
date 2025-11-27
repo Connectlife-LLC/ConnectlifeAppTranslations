@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Здравейте, аз съм ВИДАА.",
     "CL_AI_hello_tips_desc": "Вашият асистент с изкуствен интелект.",
     "CL_AI_guidance_suggestion_title": "Предложение",
-    "CL_AI_guidance_suggestion_desc": "Намерете най-добрата програма",
     "CL_AI_guidance_device_control_title": "Контрол на устройството",
     "CL_AI_guidance_device_control_desc": "Планиране и начало",
     "CL_AI_guidance_free_talk_title": "Свободен разговор",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "Номинална мощност",
     "CL_DV_EY_grid_feed_in": "Захранва се към мрежата",
     "CL_DV_EY_grid_purchase": "От мрежата",
-    "CL_DV_EY_qr_code_expired": "Този QR код е с изтекъл срок на валидност. Моля, опитайте отново."
+    "CL_DV_EY_qr_code_expired": "Този QR код е с изтекъл срок на валидност. Моля, опитайте отново.",
+    "CL_AI_guidance_suggestion_desc": "Най-добрата програма"
 }

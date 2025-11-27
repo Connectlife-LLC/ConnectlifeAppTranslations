@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Привет, меня зовут ВИДАА.",
     "CL_AI_hello_tips_desc": "Ваш помощник на основе искусственного интеллекта.",
     "CL_AI_guidance_suggestion_title": "Предположение",
-    "CL_AI_guidance_suggestion_desc": "Найдите лучшую программу",
     "CL_AI_guidance_device_control_title": "Управление устройством",
     "CL_AI_guidance_device_control_desc": "Расписание и начало",
     "CL_AI_guidance_free_talk_title": "Свободный разговор",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "Номинальная мощность",
     "CL_DV_EY_grid_feed_in": "Подается в сеть",
     "CL_DV_EY_grid_purchase": "Из сетки",
-    "CL_DV_EY_qr_code_expired": "Срок действия этого QR-кода истёк. Попробуйте ещё раз."
+    "CL_DV_EY_qr_code_expired": "Срок действия этого QR-кода истёк. Попробуйте ещё раз.",
+    "CL_AI_guidance_suggestion_desc": "Лучшая программа"
 }

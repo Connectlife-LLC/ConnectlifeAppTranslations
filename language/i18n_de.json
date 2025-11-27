@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Hallo, ich bin VIDAA.",
     "CL_AI_hello_tips_desc": "Ihr KI-Assistent.",
     "CL_AI_guidance_suggestion_title": "Anregung",
-    "CL_AI_guidance_suggestion_desc": "Finde das beste Programm",
     "CL_AI_guidance_device_control_title": "Gerätesteuerung",
     "CL_AI_guidance_device_control_desc": "Planen und starten",
     "CL_AI_guidance_free_talk_title": "Freies Gespräch",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "Nennleistung",
     "CL_DV_EY_grid_feed_in": "Ins Netz eingespeist",
     "CL_DV_EY_grid_purchase": "Aus dem Raster",
-    "CL_DV_EY_qr_code_expired": "Dieser QR-Code ist abgelaufen. Bitte versuchen Sie es erneut."
+    "CL_DV_EY_qr_code_expired": "Dieser QR-Code ist abgelaufen. Bitte versuchen Sie es erneut.",
+    "CL_AI_guidance_suggestion_desc": "Das beste Programm"
 }

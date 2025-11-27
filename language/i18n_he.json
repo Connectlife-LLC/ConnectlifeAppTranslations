@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "היי, אני וידה.",
     "CL_AI_hello_tips_desc": "עוזר הבינה המלאכותית שלך.",
     "CL_AI_guidance_suggestion_title": "הַצָעָה",
-    "CL_AI_guidance_suggestion_desc": "מצא את התוכנית הטובה ביותר",
     "CL_AI_guidance_device_control_title": "בקרת מכשיר",
     "CL_AI_guidance_device_control_desc": "לתזמן ולהתחיל",
     "CL_AI_guidance_free_talk_title": "שיחה חופשית",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "הספק מדורג",
     "CL_DV_EY_grid_feed_in": "מוזן לרשת",
     "CL_DV_EY_grid_purchase": "מהרשת",
-    "CL_DV_EY_qr_code_expired": "פג תוקף קוד ה-QR הזה. אנא נסה שוב."
+    "CL_DV_EY_qr_code_expired": "פג תוקף קוד ה-QR הזה. אנא נסה שוב.",
+    "CL_AI_guidance_suggestion_desc": "התוכנית הטובה ביותר"
 }

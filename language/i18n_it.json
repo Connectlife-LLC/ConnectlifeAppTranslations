@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Ciao, sono VIDAA.",
     "CL_AI_hello_tips_desc": "Il tuo assistente AI.",
     "CL_AI_guidance_suggestion_title": "Suggerimento",
-    "CL_AI_guidance_suggestion_desc": "Trova il programma migliore",
     "CL_AI_guidance_device_control_title": "Controllo del dispositivo",
     "CL_AI_guidance_device_control_desc": "Pianifica e inizia",
     "CL_AI_guidance_free_talk_title": "Conversazione libera",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "Potenza nominale",
     "CL_DV_EY_grid_feed_in": "Alimentato alla rete",
     "CL_DV_EY_grid_purchase": "Dalla griglia",
-    "CL_DV_EY_qr_code_expired": "Questo codice QR è scaduto. Riprova."
+    "CL_DV_EY_qr_code_expired": "Questo codice QR è scaduto. Riprova.",
+    "CL_AI_guidance_suggestion_desc": "Il miglior programma"
 }

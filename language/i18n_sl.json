@@ -7200,7 +7200,6 @@
     "CL_AI_hello_tips": "Živjo, jaz sem VIDAA.",
     "CL_AI_hello_tips_desc": "Vaš pomočnik umetne inteligence.",
     "CL_AI_guidance_suggestion_title": "Predlog",
-    "CL_AI_guidance_suggestion_desc": "Poiščite najboljši program",
     "CL_AI_guidance_device_control_title": "Nadzor naprave",
     "CL_AI_guidance_device_control_desc": "Načrt in začetek",
     "CL_AI_guidance_free_talk_title": "Prosti pogovor",
@@ -7249,5 +7248,6 @@
     "CL_DV_EY_rated_power": "Nazivna moč",
     "CL_DV_EY_grid_feed_in": "Napaja se v omrežje",
     "CL_DV_EY_grid_purchase": "Iz mreže",
-    "CL_DV_EY_qr_code_expired": "Ta QR koda je potekla. Poskusite znova."
+    "CL_DV_EY_qr_code_expired": "Ta QR koda je potekla. Poskusite znova.",
+    "CL_AI_guidance_suggestion_desc": "Najboljši program"
 }

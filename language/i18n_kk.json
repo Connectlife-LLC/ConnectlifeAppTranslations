@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Сәлем, мен VIDAA.",
     "CL_AI_hello_tips_desc": "Сіздің AI көмекшіңіз.",
     "CL_AI_guidance_suggestion_title": "Ұсыныс",
-    "CL_AI_guidance_suggestion_desc": "Ең жақсы бағдарламаны табыңыз",
     "CL_AI_guidance_device_control_title": "Құрылғыны басқару",
     "CL_AI_guidance_device_control_desc": "Жоспарлаңыз және бастаңыз",
     "CL_AI_guidance_free_talk_title": "Еркін әңгіме",
@@ -7247,5 +7246,6 @@
     "CL_DV_EY_rated_power": "Номиналды қуат",
     "CL_DV_EY_grid_feed_in": "Торға беріледі",
     "CL_DV_EY_grid_purchase": "Тордан",
-    "CL_DV_EY_qr_code_expired": "Бұл QR кодының мерзімі бітті. Қайталап көріңіз."
+    "CL_DV_EY_qr_code_expired": "Бұл QR кодының мерзімі бітті. Қайталап көріңіз.",
+    "CL_AI_guidance_suggestion_desc": "Ең жақсы бағдарлама"
 }
