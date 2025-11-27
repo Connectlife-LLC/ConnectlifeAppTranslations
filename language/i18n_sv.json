@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "dec",
     "CL_DV_IV_Inverter_status": "Växelriktarens status",
     "CL_DV_IV_inverter_mode": "Inverterläge",
-    "CL_DV_IV_inverter_total_power": "Växelriktarens totala effekt",
-    "CL_DV_IV_Inverter_rated_power": "Växelriktarens nominella effekt",
     "CL_DV_IV_internal_temperature": "Intern temperatur",
-    "CL_DV_IV_leakage_current": "Läckström",
     "CL_MEAL_PLANNER_meal_minutes": "min",
     "CL_MEAL_PLANNER_results": "resultat",
     "CL_INV_fault_code": "Felkod",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Batteridrift",
     "CL_DV_EY_battery_soc": "Batteri-SOC",
     "CL_DV_EY_Battery_SOH": "Batteri SOH",
-    "CL_DV_EY_Charge_Status": "Laddningsstatus",
     "CL_DV_EY_BMS_charge_disabled": "BMS-laddning inaktiverad",
-    "CL_DV_EY_BMS_force_charge_requirest": "BMS-tvångsladdning krävs",
-    "CL_DV_EY_BMS_discharge_disabled": "BMS-urladdning inaktiverad",
     "CL_DV_EY_Heating_film_status": "Status för värmefilm",
     "CL_DV_EY_real_time_info": "REALTIDSINFORMATION",
     "CL_DV_EY_Charging": "Laddning",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Hej, jag heter VIDAA.",
     "CL_AI_hello_tips_desc": "Din AI-assistent.",
     "CL_AI_guidance_suggestion_title": "Förslag",
-    "CL_AI_guidance_suggestion_desc": "Hitta det bästa programmet",
     "CL_AI_guidance_device_control_title": "Enhetskontroll",
     "CL_AI_guidance_device_control_desc": "Schemalägg och börja",
     "CL_AI_guidance_free_talk_title": "Fritt samtal",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Nominell effekt",
     "CL_DV_EY_grid_feed_in": "Matas till nätet",
     "CL_DV_EY_grid_purchase": "Från rutnätet",
-    "CL_DV_EY_qr_code_expired": "Denna QR-kod har gått ut. Försök igen."
+    "CL_DV_EY_qr_code_expired": "Denna QR-kod har gått ut. Försök igen.",
+    "CL_AI_guidance_suggestion_new_desc": "Det bästa programmet",
+    "CL_AI_guidance_troubleshooting_new_title": "Felsök"
 }

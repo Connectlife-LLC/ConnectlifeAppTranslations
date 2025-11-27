@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "12月",
     "CL_DV_IV_Inverter_status": "インバータの状態",
     "CL_DV_IV_inverter_mode": "インバータモード",
-    "CL_DV_IV_inverter_total_power": "インバーター総電力",
-    "CL_DV_IV_Inverter_rated_power": "インバータ定格電力",
     "CL_DV_IV_internal_temperature": "内部温度",
-    "CL_DV_IV_leakage_current": "漏れ電流",
     "CL_MEAL_PLANNER_meal_minutes": "分",
     "CL_MEAL_PLANNER_results": "つの結果",
     "CL_INV_fault_code": "故障コード",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "バッテリー電源",
     "CL_DV_EY_battery_soc": "バッテリーSOC",
     "CL_DV_EY_Battery_SOH": "バッテリーSOH",
-    "CL_DV_EY_Charge_Status": "充電ステータス",
     "CL_DV_EY_BMS_charge_disabled": "BMS充電無効",
-    "CL_DV_EY_BMS_force_charge_requirest": "BMS強制充電には",
-    "CL_DV_EY_BMS_discharge_disabled": "BMS放電無効",
     "CL_DV_EY_Heating_film_status": "加熱フィルムの状態",
     "CL_DV_EY_real_time_info": "リアルタイム情報",
     "CL_DV_EY_Charging": "充電",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "こんにちは、VIDAAです。",
     "CL_AI_hello_tips_desc": "あなたの AI アシスタント。",
     "CL_AI_guidance_suggestion_title": "提案",
-    "CL_AI_guidance_suggestion_desc": "最適なプログラムを見つける",
     "CL_AI_guidance_device_control_title": "デバイス制御",
     "CL_AI_guidance_device_control_desc": "スケジュールと開始",
     "CL_AI_guidance_free_talk_title": "フリートーク",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "定格出力",
     "CL_DV_EY_grid_feed_in": "グリッドへの供給",
     "CL_DV_EY_grid_purchase": "グリッドから",
-    "CL_DV_EY_qr_code_expired": "このQRコードは有効期限が切れています。もう一度お試しください。"
+    "CL_DV_EY_qr_code_expired": "このQRコードは有効期限が切れています。もう一度お試しください。",
+    "CL_AI_guidance_suggestion_new_desc": "最高のプログラム",
+    "CL_AI_guidance_troubleshooting_new_title": "トラブルシューティング"
 }

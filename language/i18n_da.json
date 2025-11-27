@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Dec.",
     "CL_DV_IV_Inverter_status": "Inverterstatus",
     "CL_DV_IV_inverter_mode": "Invertertilstand",
-    "CL_DV_IV_inverter_total_power": "Inverterens samlede effekt",
-    "CL_DV_IV_Inverter_rated_power": "Inverterens nominelle effekt",
     "CL_DV_IV_internal_temperature": "Indre temperatur",
-    "CL_DV_IV_leakage_current": "Lækstrøm",
     "CL_MEAL_PLANNER_meal_minutes": "min",
     "CL_MEAL_PLANNER_results": "resultater",
     "CL_INV_fault_code": "Fejlkode",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Batteristrøm",
     "CL_DV_EY_battery_soc": "Batteri-SOC",
     "CL_DV_EY_Battery_SOH": "Batteri SOH",
-    "CL_DV_EY_Charge_Status": "Opladningsstatus",
     "CL_DV_EY_BMS_charge_disabled": "BMS-opladning deaktiveret",
-    "CL_DV_EY_BMS_force_charge_requirest": "BMS-kraftopladning kræves",
-    "CL_DV_EY_BMS_discharge_disabled": "BMS-afladning deaktiveret",
     "CL_DV_EY_Heating_film_status": "Status for varmefilm",
     "CL_DV_EY_real_time_info": "INFORMATION I REALTID",
     "CL_DV_EY_Charging": "Opladning",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Hej, jeg er VIDAA.",
     "CL_AI_hello_tips_desc": "Din AI-assistent.",
     "CL_AI_guidance_suggestion_title": "Forslag",
-    "CL_AI_guidance_suggestion_desc": "Find det bedste program",
     "CL_AI_guidance_device_control_title": "Enhedskontrol",
     "CL_AI_guidance_device_control_desc": "Planlæg og start",
     "CL_AI_guidance_free_talk_title": "Fri snak",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Nominel effekt",
     "CL_DV_EY_grid_feed_in": "Tilført til nettet",
     "CL_DV_EY_grid_purchase": "Fra gitter",
-    "CL_DV_EY_qr_code_expired": "Denne QR-kode er udløbet. Prøv igen."
+    "CL_DV_EY_qr_code_expired": "Denne QR-kode er udløbet. Prøv igen.",
+    "CL_AI_guidance_suggestion_new_desc": "Det bedste program",
+    "CL_AI_guidance_troubleshooting_new_title": "Fejlfinding"
 }

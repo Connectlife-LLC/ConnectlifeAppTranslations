@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "آذر",
     "CL_DV_IV_Inverter_status": "وضعیت اینورتر",
     "CL_DV_IV_inverter_mode": "حالت اینورتر",
-    "CL_DV_IV_inverter_total_power": "توان کل اینورتر",
-    "CL_DV_IV_Inverter_rated_power": "توان نامی اینورتر",
     "CL_DV_IV_internal_temperature": "دمای داخلی",
-    "CL_DV_IV_leakage_current": "جریان نشتی",
     "CL_MEAL_PLANNER_meal_minutes": "دقیقه",
     "CL_MEAL_PLANNER_results": "نتایج",
     "CL_INV_fault_code": "کد خطا",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "توان باتری",
     "CL_DV_EY_battery_soc": "باتری SOC",
     "CL_DV_EY_Battery_SOH": "باتری SOH",
-    "CL_DV_EY_Charge_Status": "وضعیت شارژ",
     "CL_DV_EY_BMS_charge_disabled": "شارژ BMS غیرفعال است",
-    "CL_DV_EY_BMS_force_charge_requirest": "نیاز به شارژ نیروی BMS",
-    "CL_DV_EY_BMS_discharge_disabled": "تخلیه BMS غیرفعال است",
     "CL_DV_EY_Heating_film_status": "وضعیت فیلم گرمایشی",
     "CL_DV_EY_real_time_info": "اطلاعات لحظه‌ای",
     "CL_DV_EY_Charging": "شارژ",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "سلام، من ویدا هستم.",
     "CL_AI_hello_tips_desc": "دستیار هوش مصنوعی شما.",
     "CL_AI_guidance_suggestion_title": "پیشنهاد",
-    "CL_AI_guidance_suggestion_desc": "بهترین برنامه را پیدا کنید",
     "CL_AI_guidance_device_control_title": "کنترل دستگاه",
     "CL_AI_guidance_device_control_desc": "برنامه‌ریزی و شروع",
     "CL_AI_guidance_free_talk_title": "گفتگوی آزاد",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "قدرت نامی",
     "CL_DV_EY_grid_feed_in": "تغذیه به شبکه",
     "CL_DV_EY_grid_purchase": "از شبکه",
-    "CL_DV_EY_qr_code_expired": "این کد QR منقضی شده است. لطفا دوباره امتحان کنید."
+    "CL_DV_EY_qr_code_expired": "این کد QR منقضی شده است. لطفا دوباره امتحان کنید.",
+    "CL_AI_guidance_suggestion_new_desc": "بهترین برنامه",
+    "CL_AI_guidance_troubleshooting_new_title": "عیب‌یابی"
 }

@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Грудня",
     "CL_DV_IV_Inverter_status": "Стан інвертора",
     "CL_DV_IV_inverter_mode": "Інверторний режим",
-    "CL_DV_IV_inverter_total_power": "Загальна потужність інвертора",
-    "CL_DV_IV_Inverter_rated_power": "Номінальна потужність інвертора",
     "CL_DV_IV_internal_temperature": "Внутрішня температура",
-    "CL_DV_IV_leakage_current": "Струм витоку",
     "CL_MEAL_PLANNER_meal_minutes": "Хв",
     "CL_MEAL_PLANNER_results": "результати",
     "CL_INV_fault_code": "Код помилки",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Живлення від батареї",
     "CL_DV_EY_battery_soc": "Заряд батареї",
     "CL_DV_EY_Battery_SOH": "Батарея SOH",
-    "CL_DV_EY_Charge_Status": "Стан оплати",
     "CL_DV_EY_BMS_charge_disabled": "Зарядка BMS вимкнена",
-    "CL_DV_EY_BMS_force_charge_requirest": "Необхідна примусова зарядка BMS",
-    "CL_DV_EY_BMS_discharge_disabled": "Розрядка BMS вимкнена",
     "CL_DV_EY_Heating_film_status": "Стан нагрівальної плівки",
     "CL_DV_EY_real_time_info": "ІНФОРМАЦІЯ В РЕАЛЬНОМУ ЧАСІ",
     "CL_DV_EY_Charging": "Зарядка",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Привіт, я ВІДАА.",
     "CL_AI_hello_tips_desc": "Ваш помічник зі штучним інтелектом.",
     "CL_AI_guidance_suggestion_title": "Пропозиція",
-    "CL_AI_guidance_suggestion_desc": "Знайдіть найкращу програму",
     "CL_AI_guidance_device_control_title": "Керування пристроєм",
     "CL_AI_guidance_device_control_desc": "Розклад та початок",
     "CL_AI_guidance_free_talk_title": "Вільна розмова",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Номінальна потужність",
     "CL_DV_EY_grid_feed_in": "Подається в мережу",
     "CL_DV_EY_grid_purchase": "З сітки",
-    "CL_DV_EY_qr_code_expired": "Термін дії цього QR-коду минув. Будь ласка, спробуйте ще раз."
+    "CL_DV_EY_qr_code_expired": "Термін дії цього QR-коду минув. Будь ласка, спробуйте ще раз.",
+    "CL_AI_guidance_suggestion_new_desc": "Найкраща програма",
+    "CL_AI_guidance_troubleshooting_new_title": "Виправлення неполадок"
 }

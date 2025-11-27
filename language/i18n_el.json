@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Δεκ",
     "CL_DV_IV_Inverter_status": "Κατάσταση μετατροπέα",
     "CL_DV_IV_inverter_mode": "Λειτουργία μετατροπέα",
-    "CL_DV_IV_inverter_total_power": "Συνολική ισχύς μετατροπέα",
-    "CL_DV_IV_Inverter_rated_power": "Ονομαστική ισχύς μετατροπέα",
     "CL_DV_IV_internal_temperature": "Εσωτερική θερμοκρασία",
-    "CL_DV_IV_leakage_current": "Ρεύμα διαρροής",
     "CL_MEAL_PLANNER_meal_minutes": "λεπτά",
     "CL_MEAL_PLANNER_results": "αποτελέσματα",
     "CL_INV_fault_code": "Κωδικός σφάλματος",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Ισχύς μπαταρίας",
     "CL_DV_EY_battery_soc": "SOC μπαταρίας",
     "CL_DV_EY_Battery_SOH": "Μπαταρία SOH",
-    "CL_DV_EY_Charge_Status": "Κατάσταση χρέωσης",
     "CL_DV_EY_BMS_charge_disabled": "Η χρέωση BMS απενεργοποιήθηκε.",
-    "CL_DV_EY_BMS_force_charge_requirest": "Απαιτείται φόρτιση δύναμης BMS",
-    "CL_DV_EY_BMS_discharge_disabled": "Η εκκένωση BMS απενεργοποιήθηκε",
     "CL_DV_EY_Heating_film_status": "Κατάσταση θερμαντικής μεμβράνης",
     "CL_DV_EY_real_time_info": "ΠΛΗΡΟΦΟΡΙΕΣ ΣΕ ΠΡΑΓΜΑΤΙΚΟ ΧΡΟΝΟ",
     "CL_DV_EY_Charging": "Φόρτιση",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Γεια σας, είμαι η VIDAA.",
     "CL_AI_hello_tips_desc": "Ο βοηθός σας στην Τεχνητή Νοημοσύνη.",
     "CL_AI_guidance_suggestion_title": "Πρόταση",
-    "CL_AI_guidance_suggestion_desc": "Βρείτε το καλύτερο πρόγραμμα",
     "CL_AI_guidance_device_control_title": "Έλεγχος συσκευής",
     "CL_AI_guidance_device_control_desc": "Προγραμματισμός και έναρξη",
     "CL_AI_guidance_free_talk_title": "Ελεύθερη συζήτηση",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Ονομαστική ισχύς",
     "CL_DV_EY_grid_feed_in": "Τροφοδοτείται στο δίκτυο",
     "CL_DV_EY_grid_purchase": "Από το πλέγμα",
-    "CL_DV_EY_qr_code_expired": "Αυτός ο κωδικός QR έχει λήξει. Δοκιμάστε ξανά."
+    "CL_DV_EY_qr_code_expired": "Αυτός ο κωδικός QR έχει λήξει. Δοκιμάστε ξανά.",
+    "CL_AI_guidance_suggestion_new_desc": "Το καλύτερο πρόγραμμα",
+    "CL_AI_guidance_troubleshooting_new_title": "Αντιμετώπιση προβλημάτων"
 }

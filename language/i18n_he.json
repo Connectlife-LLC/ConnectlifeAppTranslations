@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "דצמבר",
     "CL_DV_IV_Inverter_status": "סטטוס הממיר",
     "CL_DV_IV_inverter_mode": "מצב מהפך",
-    "CL_DV_IV_inverter_total_power": "הספק כולל של ממיר",
-    "CL_DV_IV_Inverter_rated_power": "הספק מדורג של ממיר",
     "CL_DV_IV_internal_temperature": "טמפרטורה פנימית",
-    "CL_DV_IV_leakage_current": "זרם דליפה",
     "CL_MEAL_PLANNER_meal_minutes": "min",
     "CL_MEAL_PLANNER_results": "תוצאות",
     "CL_INV_fault_code": "קוד תקלה",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "סוללה",
     "CL_DV_EY_battery_soc": "רכיבי הפעלה של הסוללה",
     "CL_DV_EY_Battery_SOH": "סוללה SOH",
-    "CL_DV_EY_Charge_Status": "סטטוס חיוב",
     "CL_DV_EY_BMS_charge_disabled": "טעינת BMS מושבתת",
-    "CL_DV_EY_BMS_force_charge_requirest": "נדרשת טעינת כוח של BMS",
-    "CL_DV_EY_BMS_discharge_disabled": "פריקת BMS מושבתת",
     "CL_DV_EY_Heating_film_status": "מצב סרט החימום",
     "CL_DV_EY_real_time_info": "מידע בזמן אמת",
     "CL_DV_EY_Charging": "טְעִינָה",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "היי, אני וידה.",
     "CL_AI_hello_tips_desc": "עוזר הבינה המלאכותית שלך.",
     "CL_AI_guidance_suggestion_title": "הַצָעָה",
-    "CL_AI_guidance_suggestion_desc": "מצא את התוכנית הטובה ביותר",
     "CL_AI_guidance_device_control_title": "בקרת מכשיר",
     "CL_AI_guidance_device_control_desc": "לתזמן ולהתחיל",
     "CL_AI_guidance_free_talk_title": "שיחה חופשית",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "הספק מדורג",
     "CL_DV_EY_grid_feed_in": "מוזן לרשת",
     "CL_DV_EY_grid_purchase": "מהרשת",
-    "CL_DV_EY_qr_code_expired": "פג תוקף קוד ה-QR הזה. אנא נסה שוב."
+    "CL_DV_EY_qr_code_expired": "פג תוקף קוד ה-QR הזה. אנא נסה שוב.",
+    "CL_AI_guidance_suggestion_new_desc": "התוכנית הטובה ביותר",
+    "CL_AI_guidance_troubleshooting_new_title": "פתרון בעיות"
 }

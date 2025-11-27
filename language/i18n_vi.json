@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Thg12",
     "CL_DV_IV_Inverter_status": "Trạng thái biến tần",
     "CL_DV_IV_inverter_mode": "Chế độ biến tần",
-    "CL_DV_IV_inverter_total_power": "Tổng công suất biến tần",
-    "CL_DV_IV_Inverter_rated_power": "Công suất định mức của biến tần",
     "CL_DV_IV_internal_temperature": "Nhiệt độ bên trong",
-    "CL_DV_IV_leakage_current": "Dòng điện rò rỉ",
     "CL_MEAL_PLANNER_meal_minutes": "phút",
     "CL_MEAL_PLANNER_results": "kết quả",
     "CL_INV_fault_code": "Mã lỗi",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Nguồn pin",
     "CL_DV_EY_battery_soc": "Pin SOC",
     "CL_DV_EY_Battery_SOH": "Pin SOH",
-    "CL_DV_EY_Charge_Status": "Trạng thái sạc",
     "CL_DV_EY_BMS_charge_disabled": "BMS đã vô hiệu hóa phí",
-    "CL_DV_EY_BMS_force_charge_requirest": "BMS buộc phải sạc",
-    "CL_DV_EY_BMS_discharge_disabled": "Xả BMS bị vô hiệu hóa",
     "CL_DV_EY_Heating_film_status": "Trạng thái màng sưởi ấm",
     "CL_DV_EY_real_time_info": "THÔNG TIN THỜI GIAN THỰC",
     "CL_DV_EY_Charging": "Sạc",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Xin chào, tôi là VIDAA.",
     "CL_AI_hello_tips_desc": "Trợ lý AI của bạn.",
     "CL_AI_guidance_suggestion_title": "Gợi ý",
-    "CL_AI_guidance_suggestion_desc": "Tìm chương trình tốt nhất",
     "CL_AI_guidance_device_control_title": "Kiểm soát thiết bị",
     "CL_AI_guidance_device_control_desc": "Lên lịch và bắt đầu",
     "CL_AI_guidance_free_talk_title": "Nói chuyện tự do",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Công suất định mức",
     "CL_DV_EY_grid_feed_in": "Đưa vào lưới điện",
     "CL_DV_EY_grid_purchase": "Từ lưới",
-    "CL_DV_EY_qr_code_expired": "Mã QR này đã hết hạn. Vui lòng thử lại."
+    "CL_DV_EY_qr_code_expired": "Mã QR này đã hết hạn. Vui lòng thử lại.",
+    "CL_AI_guidance_suggestion_new_desc": "Chương trình tốt nhất",
+    "CL_AI_guidance_troubleshooting_new_title": "Khắc phục sự cố"
 }

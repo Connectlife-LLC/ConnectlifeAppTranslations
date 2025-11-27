@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Aralık",
     "CL_DV_IV_Inverter_status": "İnverter durumu",
     "CL_DV_IV_inverter_mode": "İnverter modu",
-    "CL_DV_IV_inverter_total_power": "İnverter toplam gücü",
-    "CL_DV_IV_Inverter_rated_power": "İnverter anma gücü",
     "CL_DV_IV_internal_temperature": "İç sıcaklık",
-    "CL_DV_IV_leakage_current": "Kaçak akım",
     "CL_MEAL_PLANNER_meal_minutes": "dakika",
     "CL_MEAL_PLANNER_results": "sonuçlar",
     "CL_INV_fault_code": "Hata kodu",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Pil Gücü",
     "CL_DV_EY_battery_soc": "Pil SOC",
     "CL_DV_EY_Battery_SOH": "Pil SOH",
-    "CL_DV_EY_Charge_Status": "Şarj Durumu",
     "CL_DV_EY_BMS_charge_disabled": "BMS şarjı devre dışı bırakıldı",
-    "CL_DV_EY_BMS_force_charge_requirest": "BMS kuvvet yükü gerektirir",
-    "CL_DV_EY_BMS_discharge_disabled": "BMS deşarjı devre dışı bırakıldı",
     "CL_DV_EY_Heating_film_status": "Isıtma filmi durumu",
     "CL_DV_EY_real_time_info": "GERÇEK ZAMANLI BİLGİ",
     "CL_DV_EY_Charging": "Şarj oluyor",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Merhaba, ben VIDAA.",
     "CL_AI_hello_tips_desc": "Yapay zeka asistanınız.",
     "CL_AI_guidance_suggestion_title": "Telkin",
-    "CL_AI_guidance_suggestion_desc": "En iyi programı bulun",
     "CL_AI_guidance_device_control_title": "Cihaz kontrolü",
     "CL_AI_guidance_device_control_desc": "Programla ve başla",
     "CL_AI_guidance_free_talk_title": "Serbest konuşma",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Anma gücü",
     "CL_DV_EY_grid_feed_in": "Şebekeye besleme",
     "CL_DV_EY_grid_purchase": "Izgaradan",
-    "CL_DV_EY_qr_code_expired": "Bu QR kodunun süresi doldu. Lütfen tekrar deneyin."
+    "CL_DV_EY_qr_code_expired": "Bu QR kodunun süresi doldu. Lütfen tekrar deneyin.",
+    "CL_AI_guidance_suggestion_new_desc": "En iyi program",
+    "CL_AI_guidance_troubleshooting_new_title": "Sorun giderme"
 }

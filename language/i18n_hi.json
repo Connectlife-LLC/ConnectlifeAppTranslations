@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "दिसम्बर",
     "CL_DV_IV_Inverter_status": "इन्वर्टर की स्थिति",
     "CL_DV_IV_inverter_mode": "इन्वर्टर मोड",
-    "CL_DV_IV_inverter_total_power": "इन्वर्टर की कुल शक्ति",
-    "CL_DV_IV_Inverter_rated_power": "इन्वर्टर रेटेड पावर",
     "CL_DV_IV_internal_temperature": "आंतरिक तापमान",
-    "CL_DV_IV_leakage_current": "रिसाव धारा",
     "CL_MEAL_PLANNER_meal_minutes": "मिन",
     "CL_MEAL_PLANNER_results": "परिणाम",
     "CL_INV_fault_code": "फाल्ट कोड",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "बैटरी पावर",
     "CL_DV_EY_battery_soc": "बैटरी एसओसी",
     "CL_DV_EY_Battery_SOH": "बैटरी SOH",
-    "CL_DV_EY_Charge_Status": "चार्ज स्थिति",
     "CL_DV_EY_BMS_charge_disabled": "BMS शुल्क अक्षम",
-    "CL_DV_EY_BMS_force_charge_requirest": "बीएमएस बल चार्ज की आवश्यकता",
-    "CL_DV_EY_BMS_discharge_disabled": "BMS डिस्चार्ज अक्षम",
     "CL_DV_EY_Heating_film_status": "हीटिंग फिल्म की स्थिति",
     "CL_DV_EY_real_time_info": "वास्तविक समय की जानकारी",
     "CL_DV_EY_Charging": "चार्ज",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "नमस्ते, मैं VIDAA हूं।",
     "CL_AI_hello_tips_desc": "आपका AI सहायक.",
     "CL_AI_guidance_suggestion_title": "सुझाव",
-    "CL_AI_guidance_suggestion_desc": "सर्वोत्तम कार्यक्रम खोजें",
     "CL_AI_guidance_device_control_title": "डिवाइस नियंत्रण",
     "CL_AI_guidance_device_control_desc": "शेड्यूल और शुरुआत",
     "CL_AI_guidance_free_talk_title": "मुफ़्त बातचीत",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "मूल्यांकित शक्ति",
     "CL_DV_EY_grid_feed_in": "ग्रिड को खिलाया",
     "CL_DV_EY_grid_purchase": "ग्रिड से",
-    "CL_DV_EY_qr_code_expired": "इस QR कोड की समय सीमा समाप्त हो गई है। कृपया पुनः प्रयास करें।"
+    "CL_DV_EY_qr_code_expired": "इस QR कोड की समय सीमा समाप्त हो गई है। कृपया पुनः प्रयास करें।",
+    "CL_AI_guidance_suggestion_new_desc": "सबसे अच्छा कार्यक्रम",
+    "CL_AI_guidance_troubleshooting_new_title": "समस्याओं का निवारण"
 }

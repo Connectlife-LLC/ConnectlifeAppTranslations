@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Grudzień",
     "CL_DV_IV_Inverter_status": "Status falownika",
     "CL_DV_IV_inverter_mode": "Tryb falownika",
-    "CL_DV_IV_inverter_total_power": "Całkowita moc falownika",
-    "CL_DV_IV_Inverter_rated_power": "Moc znamionowa falownika",
     "CL_DV_IV_internal_temperature": "Temperatura wewnętrzna",
-    "CL_DV_IV_leakage_current": "Prąd upływu",
     "CL_MEAL_PLANNER_meal_minutes": "Min",
     "CL_MEAL_PLANNER_results": "wyniki",
     "CL_INV_fault_code": "Kod błędu",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Moc baterii",
     "CL_DV_EY_battery_soc": "Stan baterii",
     "CL_DV_EY_Battery_SOH": "Akumulator SOH",
-    "CL_DV_EY_Charge_Status": "Stan naładowania",
     "CL_DV_EY_BMS_charge_disabled": "Opłata BMS wyłączona",
-    "CL_DV_EY_BMS_force_charge_requirest": "Wymagane obciążenie siły BMS",
-    "CL_DV_EY_BMS_discharge_disabled": "Wyłączenie rozładowania BMS",
     "CL_DV_EY_Heating_film_status": "Status folii grzewczej",
     "CL_DV_EY_real_time_info": "INFORMACJE W CZASIE RZECZYWISTYM",
     "CL_DV_EY_Charging": "Ładowanie",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Cześć, jestem VIDAA.",
     "CL_AI_hello_tips_desc": "Twój asystent AI.",
     "CL_AI_guidance_suggestion_title": "Sugestia",
-    "CL_AI_guidance_suggestion_desc": "Znajdź najlepszy program",
     "CL_AI_guidance_device_control_title": "Sterowanie urządzeniem",
     "CL_AI_guidance_device_control_desc": "Harmonogram i start",
     "CL_AI_guidance_free_talk_title": "Swobodna rozmowa",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Moc znamionowa",
     "CL_DV_EY_grid_feed_in": "Doprowadzone do sieci",
     "CL_DV_EY_grid_purchase": "Z siatki",
-    "CL_DV_EY_qr_code_expired": "Ten kod QR wygasł. Spróbuj ponownie."
+    "CL_DV_EY_qr_code_expired": "Ten kod QR wygasł. Spróbuj ponownie.",
+    "CL_AI_guidance_suggestion_new_desc": "Najlepszy program",
+    "CL_AI_guidance_troubleshooting_new_title": "Rozwiązywanie problemów"
 }

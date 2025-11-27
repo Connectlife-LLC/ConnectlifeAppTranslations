@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Декабрь",
     "CL_DV_IV_Inverter_status": "Состояние инвертора",
     "CL_DV_IV_inverter_mode": "Режим инвертора",
-    "CL_DV_IV_inverter_total_power": "Общая мощность инвертора",
-    "CL_DV_IV_Inverter_rated_power": "Номинальная мощность инвертора",
     "CL_DV_IV_internal_temperature": "Внутренняя температура",
-    "CL_DV_IV_leakage_current": "Ток утечки",
     "CL_MEAL_PLANNER_meal_minutes": "мин",
     "CL_MEAL_PLANNER_results": "результаты",
     "CL_INV_fault_code": "Код неисправности",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Мощность аккумулятора",
     "CL_DV_EY_battery_soc": "Уровень заряда батареи",
     "CL_DV_EY_Battery_SOH": "Состояние батареи",
-    "CL_DV_EY_Charge_Status": "Статус заряда",
     "CL_DV_EY_BMS_charge_disabled": "Зарядка BMS отключена",
-    "CL_DV_EY_BMS_force_charge_requirest": "BMS требует принудительной зарядки",
-    "CL_DV_EY_BMS_discharge_disabled": "Разряд BMS отключен",
     "CL_DV_EY_Heating_film_status": "Состояние нагревательной пленки",
     "CL_DV_EY_real_time_info": "ИНФОРМАЦИЯ В РЕАЛЬНОМ ВРЕМЕНИ",
     "CL_DV_EY_Charging": "Зарядка",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Привет, меня зовут ВИДАА.",
     "CL_AI_hello_tips_desc": "Ваш помощник на основе искусственного интеллекта.",
     "CL_AI_guidance_suggestion_title": "Предположение",
-    "CL_AI_guidance_suggestion_desc": "Найдите лучшую программу",
     "CL_AI_guidance_device_control_title": "Управление устройством",
     "CL_AI_guidance_device_control_desc": "Расписание и начало",
     "CL_AI_guidance_free_talk_title": "Свободный разговор",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Номинальная мощность",
     "CL_DV_EY_grid_feed_in": "Подается в сеть",
     "CL_DV_EY_grid_purchase": "Из сетки",
-    "CL_DV_EY_qr_code_expired": "Срок действия этого QR-кода истёк. Попробуйте ещё раз."
+    "CL_DV_EY_qr_code_expired": "Срок действия этого QR-кода истёк. Попробуйте ещё раз.",
+    "CL_AI_guidance_suggestion_new_desc": "Лучшая программа",
+    "CL_AI_guidance_troubleshooting_new_title": "Устранение неполадок"
 }

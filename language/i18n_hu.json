@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "December",
     "CL_DV_IV_Inverter_status": "Inverter állapota",
     "CL_DV_IV_inverter_mode": "Inverter üzemmód",
-    "CL_DV_IV_inverter_total_power": "Inverter összteljesítménye",
-    "CL_DV_IV_Inverter_rated_power": "Inverter névleges teljesítménye",
     "CL_DV_IV_internal_temperature": "Belső hőmérséklet",
-    "CL_DV_IV_leakage_current": "Szivárgási áram",
     "CL_MEAL_PLANNER_meal_minutes": "perc",
     "CL_MEAL_PLANNER_results": "eredmények",
     "CL_INV_fault_code": "Hibakód",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Akkumulátor töltöttsége",
     "CL_DV_EY_battery_soc": "Akkumulátor töltöttségi szintje (SOC)",
     "CL_DV_EY_Battery_SOH": "Akkumulátor SOH",
-    "CL_DV_EY_Charge_Status": "Töltési állapot",
     "CL_DV_EY_BMS_charge_disabled": "BMS töltés letiltva",
-    "CL_DV_EY_BMS_force_charge_requirest": "BMS erőtöltés szükséges",
-    "CL_DV_EY_BMS_discharge_disabled": "BMS kisütés letiltva",
     "CL_DV_EY_Heating_film_status": "Fűtőfólia állapota",
     "CL_DV_EY_real_time_info": "VALÓS IDEJŰ INFORMÁCIÓ",
     "CL_DV_EY_Charging": "Töltés",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Sziasztok, VIDAA vagyok.",
     "CL_AI_hello_tips_desc": "Az Ön mesterséges intelligencia asszisztense.",
     "CL_AI_guidance_suggestion_title": "Javaslat",
-    "CL_AI_guidance_suggestion_desc": "Találd meg a legjobb programot",
     "CL_AI_guidance_device_control_title": "Eszközvezérlés",
     "CL_AI_guidance_device_control_desc": "Ütemezés és kezdés",
     "CL_AI_guidance_free_talk_title": "Szabad beszélgetés",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Névleges teljesítmény",
     "CL_DV_EY_grid_feed_in": "Hálózatra betáplálva",
     "CL_DV_EY_grid_purchase": "Rácsból",
-    "CL_DV_EY_qr_code_expired": "Ez a QR-kód lejárt. Kérjük, próbálja újra."
+    "CL_DV_EY_qr_code_expired": "Ez a QR-kód lejárt. Kérjük, próbálja újra.",
+    "CL_AI_guidance_suggestion_new_desc": "A legjobb program",
+    "CL_AI_guidance_troubleshooting_new_title": "Hibaelhárítás"
 }

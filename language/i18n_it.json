@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Dicembre",
     "CL_DV_IV_Inverter_status": "Stato dell'inverter",
     "CL_DV_IV_inverter_mode": "Modalità inverter",
-    "CL_DV_IV_inverter_total_power": "Potenza totale dell'inverter",
-    "CL_DV_IV_Inverter_rated_power": "Potenza nominale dell'inverter",
     "CL_DV_IV_internal_temperature": "Temperatura interna",
-    "CL_DV_IV_leakage_current": "corrente di dispersione",
     "CL_MEAL_PLANNER_meal_minutes": "min",
     "CL_MEAL_PLANNER_results": "risultati",
     "CL_INV_fault_code": "Codice di errore",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Potenza della batteria",
     "CL_DV_EY_battery_soc": "SOC della batteria",
     "CL_DV_EY_Battery_SOH": "Batteria SOH",
-    "CL_DV_EY_Charge_Status": "Stato di carica",
     "CL_DV_EY_BMS_charge_disabled": "Carica BMS disabilitata",
-    "CL_DV_EY_BMS_force_charge_requirest": "Requisiti di carica della forza BMS",
-    "CL_DV_EY_BMS_discharge_disabled": "Scarico BMS disabilitato",
     "CL_DV_EY_Heating_film_status": "Stato della pellicola riscaldante",
     "CL_DV_EY_real_time_info": "INFORMAZIONI IN TEMPO REALE",
     "CL_DV_EY_Charging": "Ricarica",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Ciao, sono VIDAA.",
     "CL_AI_hello_tips_desc": "Il tuo assistente AI.",
     "CL_AI_guidance_suggestion_title": "Suggerimento",
-    "CL_AI_guidance_suggestion_desc": "Trova il programma migliore",
     "CL_AI_guidance_device_control_title": "Controllo del dispositivo",
     "CL_AI_guidance_device_control_desc": "Pianifica e inizia",
     "CL_AI_guidance_free_talk_title": "Conversazione libera",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Potenza nominale",
     "CL_DV_EY_grid_feed_in": "Alimentato alla rete",
     "CL_DV_EY_grid_purchase": "Dalla griglia",
-    "CL_DV_EY_qr_code_expired": "Questo codice QR è scaduto. Riprova."
+    "CL_DV_EY_qr_code_expired": "Questo codice QR è scaduto. Riprova.",
+    "CL_AI_guidance_suggestion_new_desc": "Il miglior programma",
+    "CL_AI_guidance_troubleshooting_new_title": "Risoluzione dei problemi"
 }

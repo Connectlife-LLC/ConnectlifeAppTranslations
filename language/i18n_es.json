@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Dic",
     "CL_DV_IV_Inverter_status": "Estado del inversor",
     "CL_DV_IV_inverter_mode": "Modo inversor",
-    "CL_DV_IV_inverter_total_power": "Potencia total del inversor",
-    "CL_DV_IV_Inverter_rated_power": "Potencia nominal del inversor",
     "CL_DV_IV_internal_temperature": "Temperatura interna",
-    "CL_DV_IV_leakage_current": "Corriente de fuga",
     "CL_MEAL_PLANNER_meal_minutes": "min",
     "CL_MEAL_PLANNER_results": "resultados",
     "CL_INV_fault_code": "Código de falla",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Alimentación por batería",
     "CL_DV_EY_battery_soc": "Estado de carga de la batería",
     "CL_DV_EY_Battery_SOH": "Estado de salud de la batería",
-    "CL_DV_EY_Charge_Status": "Estado de carga",
     "CL_DV_EY_BMS_charge_disabled": "Carga BMS desactivada",
-    "CL_DV_EY_BMS_force_charge_requirest": "La carga forzada del BMS requiere",
-    "CL_DV_EY_BMS_discharge_disabled": "Descarga de BMS discapacitado",
     "CL_DV_EY_Heating_film_status": "estado de la película calefactora",
     "CL_DV_EY_real_time_info": "INFORMACIÓN EN TIEMPO REAL",
     "CL_DV_EY_Charging": "Cargando",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Hola, soy VIDAA.",
     "CL_AI_hello_tips_desc": "Tu asistente de IA.",
     "CL_AI_guidance_suggestion_title": "Sugerencia",
-    "CL_AI_guidance_suggestion_desc": "Encuentra el mejor programa",
     "CL_AI_guidance_device_control_title": "Control del dispositivo",
     "CL_AI_guidance_device_control_desc": "Horario y comienzo",
     "CL_AI_guidance_free_talk_title": "Conversación libre",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Potencia nominal",
     "CL_DV_EY_grid_feed_in": "Alimentado a la red",
     "CL_DV_EY_grid_purchase": "Desde la red",
-    "CL_DV_EY_qr_code_expired": "Este código QR ha caducado. Inténtalo de nuevo."
+    "CL_DV_EY_qr_code_expired": "Este código QR ha caducado. Inténtalo de nuevo.",
+    "CL_AI_guidance_suggestion_new_desc": "El mejor programa",
+    "CL_AI_guidance_troubleshooting_new_title": "Solucionar problemas"
 }

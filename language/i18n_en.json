@@ -6927,10 +6927,7 @@
     "CL_MP_CM_dec": "Dec",
     "CL_DV_IV_Inverter_status": "Inverter status",
     "CL_DV_IV_inverter_mode": "Inverter mode",
-    "CL_DV_IV_inverter_total_power": "Inverter total power",
-    "CL_DV_IV_Inverter_rated_power": "Inverter rated power",
     "CL_DV_IV_internal_temperature": "Internal temperature",
-    "CL_DV_IV_leakage_current": "Leakage current",
     "CL_MEAL_PLANNER_meal_minutes": "min",
     "CL_MEAL_PLANNER_results": "results",
     "CL_INV_fault_code": "Fault code",
@@ -7028,10 +7025,7 @@
     "CL_DV_EY_battery_power": "Battery Power",
     "CL_DV_EY_battery_soc": "Battery SOC",
     "CL_DV_EY_Battery_SOH": "Battery SOH",
-    "CL_DV_EY_Charge_Status": "Charge Status",
     "CL_DV_EY_BMS_charge_disabled": "BMS charge disabled",
-    "CL_DV_EY_BMS_force_charge_requirest": "BMS force charge requirest",
-    "CL_DV_EY_BMS_discharge_disabled": "BMS discharge disabled",
     "CL_DV_EY_Heating_film_status": "Heating film status",
     "CL_DV_EY_real_time_info": "REAL-TIME INFO",
     "CL_DV_EY_Charging": "Charging",
@@ -7199,7 +7193,6 @@
     "CL_AI_hello_tips": "Hi, I am VIDAA.",
     "CL_AI_hello_tips_desc": "Your AI assistant.",
     "CL_AI_guidance_suggestion_title": "Suggestion",
-    "CL_AI_guidance_suggestion_desc": "Find the best program",
     "CL_AI_guidance_device_control_title": "Device control",
     "CL_AI_guidance_device_control_desc": "Schedule and start",
     "CL_AI_guidance_free_talk_title": "Free talk",
@@ -7248,5 +7241,7 @@
     "CL_DV_EY_rated_power": "Rated power",
     "CL_DV_EY_grid_feed_in": "Fed to grid",
     "CL_DV_EY_grid_purchase": "From grid",
-    "CL_DV_EY_qr_code_expired": "This QR code has expired. Please try again."
+    "CL_DV_EY_qr_code_expired": "This QR code has expired. Please try again.",
+    "CL_AI_guidance_suggestion_new_desc": "The best program",
+    "CL_AI_guidance_troubleshooting_new_title": "Troubleshoot"
 }

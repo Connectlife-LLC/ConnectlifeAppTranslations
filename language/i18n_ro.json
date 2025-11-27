@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Dec",
     "CL_DV_IV_Inverter_status": "Starea invertorului",
     "CL_DV_IV_inverter_mode": "Mod invertor",
-    "CL_DV_IV_inverter_total_power": "Puterea totală a invertorului",
-    "CL_DV_IV_Inverter_rated_power": "Puterea nominală a invertorului",
     "CL_DV_IV_internal_temperature": "Temperatura internă",
-    "CL_DV_IV_leakage_current": "Curent de scurgere",
     "CL_MEAL_PLANNER_meal_minutes": "min",
     "CL_MEAL_PLANNER_results": "rezultate",
     "CL_INV_fault_code": "Cod de eroare",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Putere baterie",
     "CL_DV_EY_battery_soc": "SOC-ul bateriei",
     "CL_DV_EY_Battery_SOH": "Baterie SOH",
-    "CL_DV_EY_Charge_Status": "Starea încărcării",
     "CL_DV_EY_BMS_charge_disabled": "Încărcarea BMS dezactivată",
-    "CL_DV_EY_BMS_force_charge_requirest": "Necesități de încărcare forțată BMS",
-    "CL_DV_EY_BMS_discharge_disabled": "Descărcarea BMS dezactivată",
     "CL_DV_EY_Heating_film_status": "Starea peliculei de încălzire",
     "CL_DV_EY_real_time_info": "INFORMAȚII ÎN TIMP REAL",
     "CL_DV_EY_Charging": "Încărcare",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Salut, sunt VIDAA.",
     "CL_AI_hello_tips_desc": "Asistentul tău de inteligență artificială.",
     "CL_AI_guidance_suggestion_title": "Sugestie",
-    "CL_AI_guidance_suggestion_desc": "Găsește cel mai bun program",
     "CL_AI_guidance_device_control_title": "Controlul dispozitivului",
     "CL_AI_guidance_device_control_desc": "Programați și începeți",
     "CL_AI_guidance_free_talk_title": "Discuție liberă",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Putere nominală",
     "CL_DV_EY_grid_feed_in": "Alimentat la rețea",
     "CL_DV_EY_grid_purchase": "Din grilă",
-    "CL_DV_EY_qr_code_expired": "Acest cod QR a expirat. Vă rugăm să încercați din nou."
+    "CL_DV_EY_qr_code_expired": "Acest cod QR a expirat. Vă rugăm să încercați din nou.",
+    "CL_AI_guidance_suggestion_new_desc": "Cel mai bun program",
+    "CL_AI_guidance_troubleshooting_new_title": "Depanare"
 }

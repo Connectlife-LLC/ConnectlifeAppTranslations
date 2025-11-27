@@ -6926,10 +6926,7 @@
     "CL_MP_CM_dec": "Dezembro",
     "CL_DV_IV_Inverter_status": "Status do inversor",
     "CL_DV_IV_inverter_mode": "Modo inversor",
-    "CL_DV_IV_inverter_total_power": "Potência total do inversor",
-    "CL_DV_IV_Inverter_rated_power": "Potência nominal do inversor",
     "CL_DV_IV_internal_temperature": "Temperatura interna",
-    "CL_DV_IV_leakage_current": "Corrente de fuga",
     "CL_MEAL_PLANNER_meal_minutes": "min",
     "CL_MEAL_PLANNER_results": "resultados",
     "CL_INV_fault_code": "Código de falha",
@@ -7027,10 +7024,7 @@
     "CL_DV_EY_battery_power": "Alimentação por bateria",
     "CL_DV_EY_battery_soc": "SOC da bateria",
     "CL_DV_EY_Battery_SOH": "Estado de saúde da bateria",
-    "CL_DV_EY_Charge_Status": "Status da cobrança",
     "CL_DV_EY_BMS_charge_disabled": "Carga BMS desativada",
-    "CL_DV_EY_BMS_force_charge_requirest": "A carga forçada do BMS requer",
-    "CL_DV_EY_BMS_discharge_disabled": "Descarga do BMS desativada",
     "CL_DV_EY_Heating_film_status": "Estado do filme de aquecimento",
     "CL_DV_EY_real_time_info": "INFORMAÇÕES EM TEMPO REAL",
     "CL_DV_EY_Charging": "Carregando",
@@ -7198,7 +7192,6 @@
     "CL_AI_hello_tips": "Olá, eu sou VIDAA.",
     "CL_AI_hello_tips_desc": "Seu assistente de IA.",
     "CL_AI_guidance_suggestion_title": "Sugestão",
-    "CL_AI_guidance_suggestion_desc": "Encontre o melhor programa",
     "CL_AI_guidance_device_control_title": "Controle do dispositivo",
     "CL_AI_guidance_device_control_desc": "Agendar e começar",
     "CL_AI_guidance_free_talk_title": "Conversa livre",
@@ -7247,5 +7240,7 @@
     "CL_DV_EY_rated_power": "Potência nominal",
     "CL_DV_EY_grid_feed_in": "Alimentado à rede",
     "CL_DV_EY_grid_purchase": "Da grade",
-    "CL_DV_EY_qr_code_expired": "Este código QR expirou. Tente novamente."
+    "CL_DV_EY_qr_code_expired": "Este código QR expirou. Tente novamente.",
+    "CL_AI_guidance_suggestion_new_desc": "O melhor programa",
+    "CL_AI_guidance_troubleshooting_new_title": "Solução de problemas"
 }
