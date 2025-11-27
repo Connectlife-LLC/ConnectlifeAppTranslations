@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Salut, sunt VIDAA.",
     "CL_AI_hello_tips_desc": "Asistentul tău de inteligență artificială.",
     "CL_AI_guidance_suggestion_title": "Sugestie",
-    "CL_AI_guidance_suggestion_desc": "Găsește cel mai bun program",
     "CL_AI_guidance_device_control_title": "Controlul dispozitivului",
     "CL_AI_guidance_device_control_desc": "Programați și începeți",
     "CL_AI_guidance_free_talk_title": "Discuție liberă",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "Putere nominală",
     "CL_DV_EY_grid_feed_in": "Alimentat la rețea",
     "CL_DV_EY_grid_purchase": "Din grilă",
-    "CL_DV_EY_qr_code_expired": "Acest cod QR a expirat. Vă rugăm să încercați din nou."
+    "CL_DV_EY_qr_code_expired": "Acest cod QR a expirat. Vă rugăm să încercați din nou.",
+    "CL_AI_guidance_suggestion_new_desc": "Cel mai bun program",
+    "CL_AI_guidance_troubleshooting_new_title": "Depanare"
 }

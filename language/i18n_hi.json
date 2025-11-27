@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "नमस्ते, मैं VIDAA हूं।",
     "CL_AI_hello_tips_desc": "आपका AI सहायक.",
     "CL_AI_guidance_suggestion_title": "सुझाव",
-    "CL_AI_guidance_suggestion_desc": "सर्वोत्तम कार्यक्रम खोजें",
     "CL_AI_guidance_device_control_title": "डिवाइस नियंत्रण",
     "CL_AI_guidance_device_control_desc": "शेड्यूल और शुरुआत",
     "CL_AI_guidance_free_talk_title": "मुफ़्त बातचीत",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "मूल्यांकित शक्ति",
     "CL_DV_EY_grid_feed_in": "ग्रिड को खिलाया",
     "CL_DV_EY_grid_purchase": "ग्रिड से",
-    "CL_DV_EY_qr_code_expired": "इस QR कोड की समय सीमा समाप्त हो गई है। कृपया पुनः प्रयास करें।"
+    "CL_DV_EY_qr_code_expired": "इस QR कोड की समय सीमा समाप्त हो गई है। कृपया पुनः प्रयास करें।",
+    "CL_AI_guidance_suggestion_new_desc": "सबसे अच्छा कार्यक्रम",
+    "CL_AI_guidance_troubleshooting_new_title": "समस्याओं का निवारण"
 }

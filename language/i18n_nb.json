@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Hei, jeg er VIDAA.",
     "CL_AI_hello_tips_desc": "Din AI-assistent.",
     "CL_AI_guidance_suggestion_title": "Forslag",
-    "CL_AI_guidance_suggestion_desc": "Finn det beste programmet",
     "CL_AI_guidance_device_control_title": "Enhetskontroll",
     "CL_AI_guidance_device_control_desc": "Planlegg og start",
     "CL_AI_guidance_free_talk_title": "Fri prat",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "Nominell effekt",
     "CL_DV_EY_grid_feed_in": "Matet til nettet",
     "CL_DV_EY_grid_purchase": "Fra rutenett",
-    "CL_DV_EY_qr_code_expired": "Denne QR-koden er utløpt. Prøv på nytt."
+    "CL_DV_EY_qr_code_expired": "Denne QR-koden er utløpt. Prøv på nytt.",
+    "CL_AI_guidance_suggestion_new_desc": "Det beste programmet",
+    "CL_AI_guidance_troubleshooting_new_title": "Feilsøking"
 }

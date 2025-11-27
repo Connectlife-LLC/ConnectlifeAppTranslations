@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "こんにちは、VIDAAです。",
     "CL_AI_hello_tips_desc": "あなたの AI アシスタント。",
     "CL_AI_guidance_suggestion_title": "提案",
-    "CL_AI_guidance_suggestion_desc": "最適なプログラムを見つける",
     "CL_AI_guidance_device_control_title": "デバイス制御",
     "CL_AI_guidance_device_control_desc": "スケジュールと開始",
     "CL_AI_guidance_free_talk_title": "フリートーク",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "定格出力",
     "CL_DV_EY_grid_feed_in": "グリッドへの供給",
     "CL_DV_EY_grid_purchase": "グリッドから",
-    "CL_DV_EY_qr_code_expired": "このQRコードは有効期限が切れています。もう一度お試しください。"
+    "CL_DV_EY_qr_code_expired": "このQRコードは有効期限が切れています。もう一度お試しください。",
+    "CL_AI_guidance_suggestion_new_desc": "最高のプログラム",
+    "CL_AI_guidance_troubleshooting_new_title": "トラブルシューティング"
 }

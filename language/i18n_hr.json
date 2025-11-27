@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Bok, ja sam VIDAA.",
     "CL_AI_hello_tips_desc": "Vaš AI asistent.",
     "CL_AI_guidance_suggestion_title": "Prijedlog",
-    "CL_AI_guidance_suggestion_desc": "Pronađite najbolji program",
     "CL_AI_guidance_device_control_title": "Upravljanje uređajima",
     "CL_AI_guidance_device_control_desc": "Raspored i početak",
     "CL_AI_guidance_free_talk_title": "Slobodan razgovor",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "Nazivna snaga",
     "CL_DV_EY_grid_feed_in": "Napaja se u mrežu",
     "CL_DV_EY_grid_purchase": "Iz mreže",
-    "CL_DV_EY_qr_code_expired": "Ovaj QR kod je istekao. Pokušajte ponovno."
+    "CL_DV_EY_qr_code_expired": "Ovaj QR kod je istekao. Pokušajte ponovno.",
+    "CL_AI_guidance_suggestion_new_desc": "Najbolji program",
+    "CL_AI_guidance_troubleshooting_new_title": "Rješavanje problema"
 }

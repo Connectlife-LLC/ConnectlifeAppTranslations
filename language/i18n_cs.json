@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Ahoj, já jsem VIDAA.",
     "CL_AI_hello_tips_desc": "Váš asistent s umělou inteligencí.",
     "CL_AI_guidance_suggestion_title": "Návrh",
-    "CL_AI_guidance_suggestion_desc": "Najděte nejlepší program",
     "CL_AI_guidance_device_control_title": "Ovládání zařízení",
     "CL_AI_guidance_device_control_desc": "Naplánovat a zahájit",
     "CL_AI_guidance_free_talk_title": "Volný rozhovor",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "Jmenovitý výkon",
     "CL_DV_EY_grid_feed_in": "Napájeno do sítě",
     "CL_DV_EY_grid_purchase": "Z mřížky",
-    "CL_DV_EY_qr_code_expired": "Platnost tohoto QR kódu vypršela. Zkuste to prosím znovu."
+    "CL_DV_EY_qr_code_expired": "Platnost tohoto QR kódu vypršela. Zkuste to prosím znovu.",
+    "CL_AI_guidance_suggestion_new_desc": "Nejlepší program",
+    "CL_AI_guidance_troubleshooting_new_title": "Řešení problémů"
 }

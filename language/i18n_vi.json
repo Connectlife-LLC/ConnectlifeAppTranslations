@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Xin chào, tôi là VIDAA.",
     "CL_AI_hello_tips_desc": "Trợ lý AI của bạn.",
     "CL_AI_guidance_suggestion_title": "Gợi ý",
-    "CL_AI_guidance_suggestion_desc": "Tìm chương trình tốt nhất",
     "CL_AI_guidance_device_control_title": "Kiểm soát thiết bị",
     "CL_AI_guidance_device_control_desc": "Lên lịch và bắt đầu",
     "CL_AI_guidance_free_talk_title": "Nói chuyện tự do",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "Công suất định mức",
     "CL_DV_EY_grid_feed_in": "Đưa vào lưới điện",
     "CL_DV_EY_grid_purchase": "Từ lưới",
-    "CL_DV_EY_qr_code_expired": "Mã QR này đã hết hạn. Vui lòng thử lại."
+    "CL_DV_EY_qr_code_expired": "Mã QR này đã hết hạn. Vui lòng thử lại.",
+    "CL_AI_guidance_suggestion_new_desc": "Chương trình tốt nhất",
+    "CL_AI_guidance_troubleshooting_new_title": "Khắc phục sự cố"
 }

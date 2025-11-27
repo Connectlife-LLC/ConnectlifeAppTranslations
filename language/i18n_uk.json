@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Привіт, я ВІДАА.",
     "CL_AI_hello_tips_desc": "Ваш помічник зі штучним інтелектом.",
     "CL_AI_guidance_suggestion_title": "Пропозиція",
-    "CL_AI_guidance_suggestion_desc": "Знайдіть найкращу програму",
     "CL_AI_guidance_device_control_title": "Керування пристроєм",
     "CL_AI_guidance_device_control_desc": "Розклад та початок",
     "CL_AI_guidance_free_talk_title": "Вільна розмова",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "Номінальна потужність",
     "CL_DV_EY_grid_feed_in": "Подається в мережу",
     "CL_DV_EY_grid_purchase": "З сітки",
-    "CL_DV_EY_qr_code_expired": "Термін дії цього QR-коду минув. Будь ласка, спробуйте ще раз."
+    "CL_DV_EY_qr_code_expired": "Термін дії цього QR-коду минув. Будь ласка, спробуйте ще раз.",
+    "CL_AI_guidance_suggestion_new_desc": "Найкраща програма",
+    "CL_AI_guidance_troubleshooting_new_title": "Виправлення неполадок"
 }

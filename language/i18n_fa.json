@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "سلام، من ویدا هستم.",
     "CL_AI_hello_tips_desc": "دستیار هوش مصنوعی شما.",
     "CL_AI_guidance_suggestion_title": "پیشنهاد",
-    "CL_AI_guidance_suggestion_desc": "بهترین برنامه را پیدا کنید",
     "CL_AI_guidance_device_control_title": "کنترل دستگاه",
     "CL_AI_guidance_device_control_desc": "برنامه‌ریزی و شروع",
     "CL_AI_guidance_free_talk_title": "گفتگوی آزاد",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "قدرت نامی",
     "CL_DV_EY_grid_feed_in": "تغذیه به شبکه",
     "CL_DV_EY_grid_purchase": "از شبکه",
-    "CL_DV_EY_qr_code_expired": "این کد QR منقضی شده است. لطفا دوباره امتحان کنید."
+    "CL_DV_EY_qr_code_expired": "این کد QR منقضی شده است. لطفا دوباره امتحان کنید.",
+    "CL_AI_guidance_suggestion_new_desc": "بهترین برنامه",
+    "CL_AI_guidance_troubleshooting_new_title": "عیب‌یابی"
 }

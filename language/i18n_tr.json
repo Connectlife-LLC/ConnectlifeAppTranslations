@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Merhaba, ben VIDAA.",
     "CL_AI_hello_tips_desc": "Yapay zeka asistanınız.",
     "CL_AI_guidance_suggestion_title": "Telkin",
-    "CL_AI_guidance_suggestion_desc": "En iyi programı bulun",
     "CL_AI_guidance_device_control_title": "Cihaz kontrolü",
     "CL_AI_guidance_device_control_desc": "Programla ve başla",
     "CL_AI_guidance_free_talk_title": "Serbest konuşma",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "Anma gücü",
     "CL_DV_EY_grid_feed_in": "Şebekeye besleme",
     "CL_DV_EY_grid_purchase": "Izgaradan",
-    "CL_DV_EY_qr_code_expired": "Bu QR kodunun süresi doldu. Lütfen tekrar deneyin."
+    "CL_DV_EY_qr_code_expired": "Bu QR kodunun süresi doldu. Lütfen tekrar deneyin.",
+    "CL_AI_guidance_suggestion_new_desc": "En iyi program",
+    "CL_AI_guidance_troubleshooting_new_title": "Sorun giderme"
 }

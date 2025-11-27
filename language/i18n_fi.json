@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "Hei, olen VIDAA.",
     "CL_AI_hello_tips_desc": "Tekoälyavustajasi.",
     "CL_AI_guidance_suggestion_title": "Ehdotus",
-    "CL_AI_guidance_suggestion_desc": "Löydä paras ohjelma",
     "CL_AI_guidance_device_control_title": "Laitehallinta",
     "CL_AI_guidance_device_control_desc": "Aikatauluta ja aloita",
     "CL_AI_guidance_free_talk_title": "Vapaa keskustelu",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "Nimellisteho",
     "CL_DV_EY_grid_feed_in": "Syötetään verkkoon",
     "CL_DV_EY_grid_purchase": "Ruudukosta",
-    "CL_DV_EY_qr_code_expired": "Tämä QR-koodi on vanhentunut. Yritä uudelleen."
+    "CL_DV_EY_qr_code_expired": "Tämä QR-koodi on vanhentunut. Yritä uudelleen.",
+    "CL_AI_guidance_suggestion_new_desc": "Paras ohjelma",
+    "CL_AI_guidance_troubleshooting_new_title": "Vianmääritys"
 }

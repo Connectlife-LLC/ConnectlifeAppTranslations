@@ -7198,7 +7198,6 @@
     "CL_AI_hello_tips": "您好，我是VIDAA。",
     "CL_AI_hello_tips_desc": "你的AI助手。",
     "CL_AI_guidance_suggestion_title": "建议",
-    "CL_AI_guidance_suggestion_desc": "找到最佳方案",
     "CL_AI_guidance_device_control_title": "设备控制",
     "CL_AI_guidance_device_control_desc": "安排并开始",
     "CL_AI_guidance_free_talk_title": "自由谈话",
@@ -7247,5 +7246,7 @@
     "CL_DV_EY_rated_power": "额定功率",
     "CL_DV_EY_grid_feed_in": "并入电网",
     "CL_DV_EY_grid_purchase": "从网格",
-    "CL_DV_EY_qr_code_expired": "此二维码已过期，请重试。"
+    "CL_DV_EY_qr_code_expired": "此二维码已过期，请重试。",
+    "CL_AI_guidance_suggestion_new_desc": "最佳方案",
+    "CL_AI_guidance_troubleshooting_new_title": "故障排除"
 }
