@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "작은",
     "CL_DV_hd_room_size_medium": "중간",
     "CL_DV_hd_room_size_large": "크기가 큰",
-    "CL_DV_HD_exhaust": "배기가스"
+    "CL_DV_HD_exhaust": "배기가스",
+    "CL_AI_response_error_tips": "응답이 없습니다. 요청을 다시 시도해 주세요."
 }

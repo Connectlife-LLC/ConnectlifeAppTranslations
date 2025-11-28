@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Küçük",
     "CL_DV_hd_room_size_medium": "Orta",
     "CL_DV_hd_room_size_large": "Büyük",
-    "CL_DV_HD_exhaust": "Egzoz"
+    "CL_DV_HD_exhaust": "Egzoz",
+    "CL_AI_response_error_tips": "Herhangi bir yanıt alınamadı. Lütfen talebinizi tekrar deneyin."
 }

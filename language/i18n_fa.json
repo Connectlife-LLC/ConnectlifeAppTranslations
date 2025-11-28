@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "کوچک",
     "CL_DV_hd_room_size_medium": "متوسط",
     "CL_DV_hd_room_size_large": "بزرگ",
-    "CL_DV_HD_exhaust": "اگزوز"
+    "CL_DV_HD_exhaust": "اگزوز",
+    "CL_AI_response_error_tips": "پاسخی دریافت نشد. لطفاً درخواست خود را دوباره امتحان کنید."
 }

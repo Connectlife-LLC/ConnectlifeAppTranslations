@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Мал",
     "CL_DV_hd_room_size_medium": "Средно",
     "CL_DV_hd_room_size_large": "Големи",
-    "CL_DV_HD_exhaust": "Издув"
+    "CL_DV_HD_exhaust": "Издув",
+    "CL_AI_response_error_tips": "Не е добиен одговор. Обидете се повторно со вашето барање."
 }

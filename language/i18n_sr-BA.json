@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Мали",
     "CL_DV_hd_room_size_medium": "Средњи",
     "CL_DV_hd_room_size_large": "Велико",
-    "CL_DV_HD_exhaust": "Издувни гасови"
+    "CL_DV_HD_exhaust": "Издувни гасови",
+    "CL_AI_response_error_tips": "Није примљен одговор. Молимо вас да поново пошаљете захтев."
 }

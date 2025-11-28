@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Кішкентай",
     "CL_DV_hd_room_size_medium": "Орташа",
     "CL_DV_hd_room_size_large": "Үлкен",
-    "CL_DV_HD_exhaust": "Шығару"
+    "CL_DV_HD_exhaust": "Шығару",
+    "CL_AI_response_error_tips": "Жауап алынған жоқ. Сұрауыңызды қайталап көріңіз."
 }

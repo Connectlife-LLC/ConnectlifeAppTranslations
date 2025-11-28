@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "صغير",
     "CL_DV_hd_room_size_medium": "متوسط",
     "CL_DV_hd_room_size_large": "كبير",
-    "CL_DV_HD_exhaust": "العادم"
+    "CL_DV_HD_exhaust": "العادم",
+    "CL_AI_response_error_tips": "لم يتم الرد. يُرجى إعادة المحاولة."
 }

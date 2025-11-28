@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Pieni",
     "CL_DV_hd_room_size_medium": "Keskiverto",
     "CL_DV_hd_room_size_large": "Suuri",
-    "CL_DV_HD_exhaust": "Pakoputki"
+    "CL_DV_HD_exhaust": "Pakoputki",
+    "CL_AI_response_error_tips": "Ei vastausta. Yritä pyyntöäsi uudelleen."
 }

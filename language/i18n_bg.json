@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Малък",
     "CL_DV_hd_room_size_medium": "Среден",
     "CL_DV_hd_room_size_large": "Голям",
-    "CL_DV_HD_exhaust": "Изпускателна система"
+    "CL_DV_HD_exhaust": "Изпускателна система",
+    "CL_AI_response_error_tips": "Не е получен отговор. Моля, опитайте отново заявката си."
 }

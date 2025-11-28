@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Kicsi",
     "CL_DV_hd_room_size_medium": "Közepes",
     "CL_DV_hd_room_size_large": "Nagy",
-    "CL_DV_HD_exhaust": "Kipufogó"
+    "CL_DV_HD_exhaust": "Kipufogó",
+    "CL_AI_response_error_tips": "Nem érkezett válasz. Kérjük, próbálja meg újra a kérését."
 }

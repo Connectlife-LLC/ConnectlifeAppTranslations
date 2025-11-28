@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Malý",
     "CL_DV_hd_room_size_medium": "Střední",
     "CL_DV_hd_room_size_large": "Velký",
-    "CL_DV_HD_exhaust": "Vyčerpat"
+    "CL_DV_HD_exhaust": "Vyčerpat",
+    "CL_AI_response_error_tips": "Nebyla přijata žádná odpověď. Zkuste prosím odeslat požadavek znovu."
 }

@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Klein",
     "CL_DV_hd_room_size_medium": "Gemiddeld",
     "CL_DV_hd_room_size_large": "Groot",
-    "CL_DV_HD_exhaust": "Uitlaat"
+    "CL_DV_HD_exhaust": "Uitlaat",
+    "CL_AI_response_error_tips": "Geen reactie ontvangen. Probeer het opnieuw."
 }

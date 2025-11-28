@@ -7247,5 +7247,6 @@
     "CL_DV_hd_room_size_small": "Small",
     "CL_DV_hd_room_size_medium": "Medium",
     "CL_DV_hd_room_size_large": "Large",
-    "CL_DV_HD_exhaust": "Exhaust"
+    "CL_DV_HD_exhaust": "Exhaust",
+    "CL_AI_response_error_tips": "No response received. Please try your request again."
 }

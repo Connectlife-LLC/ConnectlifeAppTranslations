@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Mic",
     "CL_DV_hd_room_size_medium": "Mediu",
     "CL_DV_hd_room_size_large": "Mare",
-    "CL_DV_HD_exhaust": "Epuiza"
+    "CL_DV_HD_exhaust": "Epuiza",
+    "CL_AI_response_error_tips": "Nu s-a primit niciun răspuns. Vă rugăm să încercați din nou solicitarea."
 }

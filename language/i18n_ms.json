@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Kecil",
     "CL_DV_hd_room_size_medium": "Sederhana",
     "CL_DV_hd_room_size_large": "besar",
-    "CL_DV_HD_exhaust": "ekzos"
+    "CL_DV_HD_exhaust": "ekzos",
+    "CL_AI_response_error_tips": "Tiada maklum balas diterima. Sila cuba permintaan anda sekali lagi."
 }

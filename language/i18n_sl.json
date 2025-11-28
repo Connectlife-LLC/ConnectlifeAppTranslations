@@ -7248,5 +7248,6 @@
     "CL_DV_hd_room_size_small": "Majhna",
     "CL_DV_hd_room_size_medium": "Srednja",
     "CL_DV_hd_room_size_large": "Velika",
-    "CL_DV_HD_exhaust": "Izpušni plini"
+    "CL_DV_HD_exhaust": "Izpušni plini",
+    "CL_AI_response_error_tips": "Ni odgovora. Poskusite znova oddati zahtevo."
 }

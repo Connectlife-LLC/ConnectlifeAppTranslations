@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Bé nhỏ",
     "CL_DV_hd_room_size_medium": "Trung bình",
     "CL_DV_hd_room_size_large": "To",
-    "CL_DV_HD_exhaust": "Khí thải"
+    "CL_DV_HD_exhaust": "Khí thải",
+    "CL_AI_response_error_tips": "Không nhận được phản hồi. Vui lòng thử lại yêu cầu của bạn."
 }

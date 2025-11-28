@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "小的",
     "CL_DV_hd_room_size_medium": "五分熟",
     "CL_DV_hd_room_size_large": "大的",
-    "CL_DV_HD_exhaust": "排氣"
+    "CL_DV_HD_exhaust": "排氣",
+    "CL_AI_response_error_tips": "未收到回覆。請重試您的請求。"
 }

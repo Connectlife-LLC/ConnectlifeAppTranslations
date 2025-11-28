@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Kecil",
     "CL_DV_hd_room_size_medium": "Sedang",
     "CL_DV_hd_room_size_large": "Besar",
-    "CL_DV_HD_exhaust": "Knalpot"
+    "CL_DV_HD_exhaust": "Knalpot",
+    "CL_AI_response_error_tips": "Tidak ada respons yang diterima. Silakan coba lagi permintaan Anda."
 }

@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Små",
     "CL_DV_hd_room_size_medium": "Medium",
     "CL_DV_hd_room_size_large": "Stor",
-    "CL_DV_HD_exhaust": "Uttömma"
+    "CL_DV_HD_exhaust": "Uttömma",
+    "CL_AI_response_error_tips": "Inget svar mottaget. Försök igen med din begäran."
 }

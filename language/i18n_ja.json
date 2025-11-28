@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "小さい",
     "CL_DV_hd_room_size_medium": "ミディアム",
     "CL_DV_hd_room_size_large": "大きい",
-    "CL_DV_HD_exhaust": "排気"
+    "CL_DV_HD_exhaust": "排気",
+    "CL_AI_response_error_tips": "応答がありません。再度リクエストしてください。"
 }

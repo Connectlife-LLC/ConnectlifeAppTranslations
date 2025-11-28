@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Μικρό",
     "CL_DV_hd_room_size_medium": "Μέσον",
     "CL_DV_hd_room_size_large": "Μεγάλο",
-    "CL_DV_HD_exhaust": "Εξάτμιση"
+    "CL_DV_HD_exhaust": "Εξάτμιση",
+    "CL_AI_response_error_tips": "Δεν λάβαμε απάντηση. Δοκιμάστε ξανά το αίτημά σας."
 }

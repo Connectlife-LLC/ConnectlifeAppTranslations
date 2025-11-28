@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Mali",
     "CL_DV_hd_room_size_medium": "Srednje jako",
     "CL_DV_hd_room_size_large": "Veliko",
-    "CL_DV_HD_exhaust": "Ispušni"
+    "CL_DV_HD_exhaust": "Ispušni",
+    "CL_AI_response_error_tips": "Nije primljen odgovor. Pokušajte ponovno poslati zahtjev."
 }

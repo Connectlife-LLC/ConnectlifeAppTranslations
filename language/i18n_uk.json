@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Малий",
     "CL_DV_hd_room_size_medium": "Середнє",
     "CL_DV_hd_room_size_large": "Великий",
-    "CL_DV_HD_exhaust": "Вихлоп"
+    "CL_DV_HD_exhaust": "Вихлоп",
+    "CL_AI_response_error_tips": "Відповіді не отримано. Будь ласка, спробуйте ще раз."
 }

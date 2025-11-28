@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Pequeño",
     "CL_DV_hd_room_size_medium": "Media",
     "CL_DV_hd_room_size_large": "Grande",
-    "CL_DV_HD_exhaust": "Escape"
+    "CL_DV_HD_exhaust": "Escape",
+    "CL_AI_response_error_tips": "No se ha recibido respuesta. Intente realizar su solicitud de nuevo."
 }

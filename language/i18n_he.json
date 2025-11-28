@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "קָטָן",
     "CL_DV_hd_room_size_medium": "בינוני",
     "CL_DV_hd_room_size_large": "גָדוֹל",
-    "CL_DV_HD_exhaust": "פְּלִיטָה"
+    "CL_DV_HD_exhaust": "פְּלִיטָה",
+    "CL_AI_response_error_tips": "לא התקבלה תגובה. אנא נסה שוב את בקשתך."
 }

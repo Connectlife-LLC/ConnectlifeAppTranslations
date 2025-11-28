@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Klein",
     "CL_DV_hd_room_size_medium": "Mittel",
     "CL_DV_hd_room_size_large": "Groß",
-    "CL_DV_HD_exhaust": "Auspuff"
+    "CL_DV_HD_exhaust": "Auspuff",
+    "CL_AI_response_error_tips": "Es wurde keine Antwort empfangen. Bitte versuchen Sie Ihre Anfrage erneut."
 }

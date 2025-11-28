@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "Liten",
     "CL_DV_hd_room_size_medium": "Medium",
     "CL_DV_hd_room_size_large": "Stor",
-    "CL_DV_HD_exhaust": "Eksos"
+    "CL_DV_HD_exhaust": "Eksos",
+    "CL_AI_response_error_tips": "Ingen svar mottatt. Prøv forespørselen på nytt."
 }

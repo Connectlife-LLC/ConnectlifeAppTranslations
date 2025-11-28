@@ -7246,5 +7246,6 @@
     "CL_DV_hd_room_size_small": "छोटा",
     "CL_DV_hd_room_size_medium": "मध्यम",
     "CL_DV_hd_room_size_large": "बड़ा",
-    "CL_DV_HD_exhaust": "निकास"
+    "CL_DV_HD_exhaust": "निकास",
+    "CL_AI_response_error_tips": "कोई प्रतिक्रिया नहीं मिली। कृपया अपना अनुरोध पुनः प्रयास करें।"
 }
