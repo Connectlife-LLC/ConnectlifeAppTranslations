@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Gătit...",
     "CL_AI_program_agent_note": "Notă: Acest program a fost generat de inteligența artificială. Verificați setările pentru a asigura cel mai bun rezultat.",
     "CL_AI_guide_assistant_tips": "Salut, sunt VIDAA, al tău <b>Asistent AI</b>Te pot ghida, sugera programe și îți pot ușura sarcinile zilnice. Vrei să vezi ce pot face?",
-    "CL_AI_guide_assistant_step_tips": "Cel/Cea/Cei/Cele <b>automatizare</b> a fost mutat în bara de navigare superioară",
     "CL_AI_program_type_oven_title": "Cel mai bun program pentru acest fel de mâncare este:",
     "CL_AI_program_type_oven_optimised_title": "Grozav, acesta este programul optimizat:",
     "CL_AI_program_type_wash_title": "Cel mai bun program pentru această spălare este:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Mic",
     "CL_DV_hd_room_size_medium": "Mediu",
     "CL_DV_hd_room_size_large": "Mare",
-    "CL_DV_HD_exhaust": "Epuiza"
+    "CL_DV_HD_exhaust": "Epuiza",
+    "CL_AI_response_error_tips": "Nu s-a primit niciun răspuns. Vă rugăm să încercați din nou solicitarea.",
+    "CL_AI_guide_assistant_new_step_tips": "Apropo, <b>automatizare</b> a fost mutat în bara de navigare superioară.",
+    "CL_CS_WM_wizard_tip": "Mai jos găsiți programul și setările sugerate, bazate pe răspunsurile dvs. Introduceți hainele în mașina de spălat și faceți clic pe „START” pentru a porni ciclul."
 }

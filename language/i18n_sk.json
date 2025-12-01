@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Varenie...",
     "CL_AI_program_agent_note": "Poznámka: Tento program bol vygenerovaný umelou inteligenciou. Skontrolujte nastavenia, aby ste dosiahli čo najlepší výsledok.",
     "CL_AI_guide_assistant_tips": "Ahoj, ja som VIDAA, tvoja <b>Asistent s umelou inteligenciou</b>Môžem vás sprevádzať, navrhovať programy a uľahčovať vám každodenné úlohy. Chcete vidieť, čo dokážem?",
-    "CL_AI_guide_assistant_step_tips": "Ten/Tá/To <b>automatizácia</b> bolo presunuté do horného navigačného panela",
     "CL_AI_program_type_oven_title": "Najlepší program pre toto jedlo je:",
     "CL_AI_program_type_oven_optimised_title": "Skvelé, toto je optimalizovaný program:",
     "CL_AI_program_type_wash_title": "Najlepší program pre toto pranie je:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Malý",
     "CL_DV_hd_room_size_medium": "Středně",
     "CL_DV_hd_room_size_large": "Veľký",
-    "CL_DV_HD_exhaust": "Výfuk"
+    "CL_DV_HD_exhaust": "Výfuk",
+    "CL_AI_response_error_tips": "Žiadna odpoveď nebola prijatá. Skúste, prosím, odoslať žiadosť znova.",
+    "CL_AI_guide_assistant_new_step_tips": "Mimochodom, <b>automatizácia</b> bolo presunuté do horného navigačného panela.",
+    "CL_CS_WM_wizard_tip": "Nižšie je uvedený navrhovaný program a nastavenia na základe vašich odpovedí. Vložte oblečenie do práčky a kliknutím na tlačidlo „ŠTART“ spustite cyklus."
 }

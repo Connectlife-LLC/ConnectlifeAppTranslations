@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Kuhanje...",
     "CL_AI_program_agent_note": "Napomena: Ovaj program generirala je umjetna inteligencija. Pregledajte postavke kako biste osigurali najbolji rezultat.",
     "CL_AI_guide_assistant_tips": "Bok, ja sam VIDAA, tvoja <b>AI asistent</b>Mogu vas voditi, predlagati programe i olakšati vam svakodnevne zadatke. Želite li vidjeti što mogu učiniti?",
-    "CL_AI_guide_assistant_step_tips": "The <b>automatizacija</b> premješteno je na gornju navigacijsku traku",
     "CL_AI_program_type_oven_title": "Najbolji program za ovo jelo je:",
     "CL_AI_program_type_oven_optimised_title": "Odlično, ovo je optimizirani program:",
     "CL_AI_program_type_wash_title": "Najbolji program za ovo pranje je:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Mali",
     "CL_DV_hd_room_size_medium": "Srednje jako",
     "CL_DV_hd_room_size_large": "Veliko",
-    "CL_DV_HD_exhaust": "Ispušni"
+    "CL_DV_HD_exhaust": "Ispušni",
+    "CL_AI_response_error_tips": "Nije primljen odgovor. Pokušajte ponovno poslati zahtjev.",
+    "CL_AI_guide_assistant_new_step_tips": "Usput, <b>automatizacija</b> premješteno je na gornju navigacijsku traku.",
+    "CL_CS_WM_wizard_tip": "U nastavku je predloženi program i postavke na temelju vaših odgovora. Stavite odjeću u perilicu i kliknite \"START\" za početak ciklusa."
 }

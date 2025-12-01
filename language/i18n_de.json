@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Kochen...",
     "CL_AI_program_agent_note": "Hinweis: Dieses Programm wurde von einer KI generiert. Überprüfen Sie die Einstellungen, um optimale Ergebnisse zu erzielen.",
     "CL_AI_guide_assistant_tips": "Hallo, ich bin VIDAA, Ihr <b>KI-Assistent</b>Ich kann Sie beraten, Ihnen Programme vorschlagen und Ihnen alltägliche Aufgaben erleichtern. Möchten Sie sehen, was ich für Sie tun kann?",
-    "CL_AI_guide_assistant_step_tips": "Der <b>Automatisierung</b> wurde in die obere Navigationsleiste verschoben.",
     "CL_AI_program_type_oven_title": "Das beste Programm für dieses Gericht ist:",
     "CL_AI_program_type_oven_optimised_title": "Großartig, dies ist das optimierte Programm:",
     "CL_AI_program_type_wash_title": "Das beste Programm für diesen Waschgang ist:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Klein",
     "CL_DV_hd_room_size_medium": "Mittel",
     "CL_DV_hd_room_size_large": "Groß",
-    "CL_DV_HD_exhaust": "Auspuff"
+    "CL_DV_HD_exhaust": "Auspuff",
+    "CL_AI_response_error_tips": "Es wurde keine Antwort empfangen. Bitte versuchen Sie Ihre Anfrage erneut.",
+    "CL_AI_guide_assistant_new_step_tips": "Übrigens, die <b>Automatisierung</b> wurde in die obere Navigationsleiste verschoben.",
+    "CL_CS_WM_wizard_tip": "Nachfolgend finden Sie das Programm und die Einstellungen, die auf Ihren Antworten basieren. Legen Sie die Wäsche in Ihre Maschine und klicken Sie auf „START“, um den Waschgang zu starten."
 }

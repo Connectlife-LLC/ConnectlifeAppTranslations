@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "طبخ...",
     "CL_AI_program_agent_note": "ملاحظة: تم إنشاء هذا البرنامج بواسطة الذكاء الاصطناعي. راجع الإعدادات لضمان أفضل نتيجة.",
     "CL_AI_guide_assistant_tips": "مرحبًا، أنا فيدا، <b>مساعد الذكاء الاصطناعي</b>يمكنني إرشادك، واقتراح برامج، وتسهيل مهامك اليومية. هل ترغب برؤية ما يمكنني فعله؟",
-    "CL_AI_guide_assistant_step_tips": "ال <b>الأتمتة</b> تم نقله إلى شريط التنقل العلوي",
     "CL_AI_program_type_oven_title": "أفضل برنامج لهذا الطبق هو:",
     "CL_AI_program_type_oven_optimised_title": "رائع، هذا هو البرنامج الأمثل:",
     "CL_AI_program_type_wash_title": "أفضل برنامج لهذه الغسيل هو:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "صغير",
     "CL_DV_hd_room_size_medium": "متوسط",
     "CL_DV_hd_room_size_large": "كبير",
-    "CL_DV_HD_exhaust": "العادم"
+    "CL_DV_HD_exhaust": "العادم",
+    "CL_AI_response_error_tips": "لم يتم الرد. يُرجى إعادة المحاولة.",
+    "CL_AI_guide_assistant_new_step_tips": "بالمناسبة، <b>الأتمتة</b> تم نقله إلى شريط التنقل العلوي.",
+    "CL_CS_WM_wizard_tip": "فيما يلي البرنامج والإعدادات المقترحة بناءً على إجاباتك. ضع الملابس في الغسالة وانقر على \"ابدأ\" لبدء دورة الغسيل."
 }
