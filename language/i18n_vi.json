@@ -2738,6 +2738,7 @@
     "next_step": "BƯỚC TIẾP THEO",
     "rf_start_convert_250": "Bạn đã bắt đầu Convert, Tủ đông sẽ chuyển thành Smart Zone với nhiệt độ 0°C; Tủ lạnh sẽ chuyển thành 4oC, hãy chú ý đến việc bảo quản thực phẩm.",
     "rf_start_convert_213": "Chế độ chuyển đổi đã được bật. Ngăn đông hiện là Smart Zone ở 0°C; Ngăn mát ở 4°C. Vui lòng kiểm tra ngăn bảo quản thực phẩm.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Chế độ chuyển đổi đã tắt. Ngăn thông minh sẽ trở về ngăn đông ở nhiệt độ -18°C. Vui lòng kiểm tra tình trạng bảo quản thực phẩm.",
     "unfold_zone": "mở ra tất cả các khu vực",
     "fold_zone": "gấp tất cả các vùng",
@@ -7066,6 +7067,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Chọn thiết bị bạn muốn nấu. Nếu không chọn, các công thức nấu ăn có thể dùng được với cả lò nướng và bếp sẽ được đề xuất. Việc chọn một thiết bị sẽ giới hạn công thức nấu ăn chỉ dùng được với thiết bị đó.",
     "breakfast": "bữa sáng",
     "lunch": "bữa trưa",
+    "dinner": "",
     "starter": "người khởi xướng",
     "main": "chủ yếu",
     "side": "bên",
@@ -7109,7 +7111,6 @@
     "CL_AI_program_status_run_title": "Nấu ăn...",
     "CL_AI_program_agent_note": "Lưu ý: Chương trình này được tạo bởi AI. Vui lòng xem lại cài đặt để đảm bảo kết quả tốt nhất.",
     "CL_AI_guide_assistant_tips": "Xin chào, tôi là VIDAA, <b>Trợ lý AI</b>Tôi có thể hướng dẫn bạn, đề xuất chương trình và giúp bạn thực hiện các công việc hàng ngày dễ dàng hơn. Bạn có muốn xem tôi có thể làm gì không?",
-    "CL_AI_guide_assistant_step_tips": "Các <b>tự động hóa</b> đã được di chuyển đến thanh điều hướng trên cùng",
     "CL_AI_program_type_oven_title": "Chương trình tốt nhất cho món ăn này là:",
     "CL_AI_program_type_oven_optimised_title": "Tuyệt vời, đây là chương trình được tối ưu hóa:",
     "CL_AI_program_type_wash_title": "Chương trình giặt tốt nhất cho loại quần áo này là:",
@@ -7246,5 +7247,8 @@
     "CL_DV_hd_room_size_small": "Bé nhỏ",
     "CL_DV_hd_room_size_medium": "Trung bình",
     "CL_DV_hd_room_size_large": "To",
-    "CL_DV_HD_exhaust": "Khí thải"
+    "CL_DV_HD_exhaust": "Khí thải",
+    "CL_AI_response_error_tips": "Không nhận được phản hồi. Vui lòng thử lại yêu cầu của bạn.",
+    "CL_AI_guide_assistant_new_step_tips": "Nhân tiện, <b>tự động hóa</b> đã được chuyển đến thanh điều hướng trên cùng.",
+    "CL_CS_WM_wizard_tip": "Dưới đây là chương trình và cài đặt được đề xuất dựa trên câu trả lời của bạn. Cho quần áo vào máy và nhấn \"BẮT ĐẦU\" để bắt đầu chu trình giặt."
 }
