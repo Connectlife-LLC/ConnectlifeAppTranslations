@@ -2738,6 +2738,7 @@
     "next_step": "LANGKAH BERIKUTNYA",
     "rf_start_convert_250": "Anda telah memulai Konversi, Freezer akan berubah menjadi Smart Zone dengan suhu 0℃; Kulkas akan berubah menjadi 4℃, harap perhatikan penyimpanan makanan.",
     "rf_start_convert_213": "Mode konversi diaktifkan. Freezer sekarang berada di Zona Cerdas pada suhu 0°C; Kulkas pada suhu 4°C. Harap periksa penyimpanan makanan.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Mode konversi dinonaktifkan. Smart Zone kembali ke Freezer pada suhu -18°C. Harap periksa penyimpanan makanan.",
     "unfold_zone": "buka semua zona",
     "fold_zone": "lipat semua zona",
@@ -7066,6 +7067,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Pilih alat yang ingin Anda gunakan untuk memasak. Jika tidak ada pilihan, resep yang bisa digunakan dengan oven dan kompor akan disarankan. Memilih salah satu alat akan membatasi resep hanya untuk alat tersebut.",
     "breakfast": "sarapan",
     "lunch": "makan siang",
+    "dinner": "",
     "starter": "starter",
     "main": "utama",
     "side": "samping",
@@ -7109,7 +7111,6 @@
     "CL_AI_program_status_run_title": "Memasak...",
     "CL_AI_program_agent_note": "Catatan: Program ini dibuat oleh AI. Tinjau pengaturan untuk memastikan hasil terbaik.",
     "CL_AI_guide_assistant_tips": "Hai, saya VIDAA, teman kamu <b>Asisten AI</b>Saya bisa memandu Anda, menyarankan program, dan mempermudah tugas sehari-hari. Mau lihat apa saja yang bisa saya lakukan?",
-    "CL_AI_guide_assistant_step_tips": "Itu <b>otomatisasi</b> telah dipindahkan ke bilah navigasi atas",
     "CL_AI_program_type_oven_title": "Program terbaik untuk hidangan ini adalah:",
     "CL_AI_program_type_oven_optimised_title": "Bagus, ini adalah program yang dioptimalkan:",
     "CL_AI_program_type_wash_title": "Program terbaik untuk pencucian ini adalah:",
@@ -7246,5 +7247,8 @@
     "CL_DV_hd_room_size_small": "Kecil",
     "CL_DV_hd_room_size_medium": "Sedang",
     "CL_DV_hd_room_size_large": "Besar",
-    "CL_DV_HD_exhaust": "Knalpot"
+    "CL_DV_HD_exhaust": "Knalpot",
+    "CL_AI_response_error_tips": "Tidak ada respons yang diterima. Silakan coba lagi permintaan Anda.",
+    "CL_AI_guide_assistant_new_step_tips": "Ngomong-ngomong, <b>otomatisasi</b> telah dipindahkan ke bilah navigasi atas.",
+    "CL_CS_WM_wizard_tip": "Berikut adalah program dan pengaturan yang disarankan berdasarkan jawaban Anda. Masukkan pakaian ke dalam mesin cuci Anda dan klik \"MULAI\" untuk memulai siklus Anda."
 }

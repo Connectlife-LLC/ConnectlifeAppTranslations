@@ -2738,6 +2738,7 @@
     "next_step": "LANGKAH SETERUSNYA",
     "rf_start_convert_250": "Anda telah mula Tukar, Pembeku Sejuk akan berubah menjadi Zon Pintar dengan suhu 0℃; Peti ais akan berubah menjadi 4℃, sila beri perhatian kepada penyimpanan makanan.",
     "rf_start_convert_213": "Mod tukar didayakan. Pembeku beku kini menjadi Zon Pintar pada 0°C; Peti ais pada 4°C. Sila semak simpanan makanan.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Mod penukaran dilumpuhkan. Zon Pintar kembali ke Peti Sejuk pada -18°C. Sila semak simpanan makanan.",
     "unfold_zone": "buka semua zon",
     "fold_zone": "lipat semua zon",
@@ -7066,6 +7067,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Pilih perkakas yang anda ingin gunakan untuk memasak. Jika tiada pilihan dibuat, resipi yang berfungsi dengan kedua-dua ketuhar dan dapur memasak akan dicadangkan. Memilih satu akan mengehadkan resipi kepada perkakas itu sahaja",
     "breakfast": "sarapan pagi",
     "lunch": "makan tengah hari",
+    "dinner": "",
     "starter": "pemula",
     "main": "utama",
     "side": "sebelah",
@@ -7109,7 +7111,6 @@
     "CL_AI_program_status_run_title": "Memasak...",
     "CL_AI_program_agent_note": "Nota: Program ini dihasilkan oleh AI. Semak tetapan untuk memastikan hasil terbaik.",
     "CL_AI_guide_assistant_tips": "Hai, saya VIDAA, awak <b>pembantu AI</b>. Saya boleh membimbing anda, mencadangkan program dan memudahkan tugas harian. Nak tengok apa yang saya boleh buat?",
-    "CL_AI_guide_assistant_step_tips": "The <b>automasi</b> telah dialihkan ke bar navigasi atas",
     "CL_AI_program_type_oven_title": "Program terbaik untuk hidangan ini ialah:",
     "CL_AI_program_type_oven_optimised_title": "Hebat, ini ialah program yang dioptimumkan:",
     "CL_AI_program_type_wash_title": "Program terbaik untuk cucian ini ialah:",
@@ -7246,5 +7247,8 @@
     "CL_DV_hd_room_size_small": "Kecil",
     "CL_DV_hd_room_size_medium": "Sederhana",
     "CL_DV_hd_room_size_large": "besar",
-    "CL_DV_HD_exhaust": "ekzos"
+    "CL_DV_HD_exhaust": "ekzos",
+    "CL_AI_response_error_tips": "Tiada maklum balas diterima. Sila cuba permintaan anda sekali lagi.",
+    "CL_AI_guide_assistant_new_step_tips": "By the way, the <b>automasi</b> telah dialihkan ke bar navigasi atas.",
+    "CL_CS_WM_wizard_tip": "Di bawah ialah cadangan program dan tetapan berdasarkan jawapan anda. Muatkan pakaian ke dalam mesin anda dan klik \"MULA\" untuk memulakan kitaran anda."
 }

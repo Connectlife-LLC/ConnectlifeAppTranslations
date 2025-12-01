@@ -2738,6 +2738,7 @@
     "next_step": "DALŠÍ KROK",
     "rf_start_convert_250": "Spustili jste Převést, mraznička se přemění na chytrou zónu s teplotou 0℃; chladnička se přemění na 4℃, věnujte prosím pozornost skladování potravin.",
     "rf_start_convert_213": "Režim převodu je povolen. Mraznička je nyní v režimu Smart Zone na 0 °C; chladnička na 4 °C. Zkontrolujte prosím skladování potravin.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Režim převodu je zakázán. Chytrá zóna se vrátí do mrazničky při -18 °C. Zkontrolujte prosím skladování potravin.",
     "unfold_zone": "rozvinout všechny zóny",
     "fold_zone": "přeložte všechny zóny",
@@ -7066,6 +7067,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Vyberte spotřebič, se kterým chcete vařit. Pokud neprovedete žádný výběr, budou navrženy recepty, které jsou kompatibilní s troubou i varnou deskou. Výběrem jednoho spotřebiče se recepty omezí pouze na daný spotřebič.",
     "breakfast": "snídaně",
     "lunch": "oběd",
+    "dinner": "",
     "starter": "startér",
     "main": "hlavní",
     "side": "strana",
@@ -7109,7 +7111,6 @@
     "CL_AI_program_status_run_title": "Vaření...",
     "CL_AI_program_agent_note": "Poznámka: Tento program byl vygenerován umělou inteligencí. Pro zajištění nejlepšího výsledku zkontrolujte nastavení.",
     "CL_AI_guide_assistant_tips": "Ahoj, já jsem VIDAA, tvoje <b>Asistent s umělou inteligencí</b>Mohu vás vést, navrhovat programy a usnadňovat vám každodenní úkoly. Chcete vidět, co umím?",
-    "CL_AI_guide_assistant_step_tips": "Ten/Ta/To <b>automatizace</b> bylo přesunuto do horního navigačního panelu",
     "CL_AI_program_type_oven_title": "Nejlepší program pro toto jídlo je:",
     "CL_AI_program_type_oven_optimised_title": "Skvělé, toto je optimalizovaný program:",
     "CL_AI_program_type_wash_title": "Nejlepší program pro toto praní je:",
@@ -7246,5 +7247,8 @@
     "CL_DV_hd_room_size_small": "Malý",
     "CL_DV_hd_room_size_medium": "Střední",
     "CL_DV_hd_room_size_large": "Velký",
-    "CL_DV_HD_exhaust": "Vyčerpat"
+    "CL_DV_HD_exhaust": "Vyčerpat",
+    "CL_AI_response_error_tips": "Nebyla přijata žádná odpověď. Zkuste prosím odeslat požadavek znovu.",
+    "CL_AI_guide_assistant_new_step_tips": "Mimochodem, <b>automatizace</b> bylo přesunuto do horní navigační lišty.",
+    "CL_CS_WM_wizard_tip": "Níže je uveden návrh programu a nastavení na základě vašich odpovědí. Vložte prádlo do pračky a kliknutím na tlačítko „START“ spusťte cyklus."
 }
