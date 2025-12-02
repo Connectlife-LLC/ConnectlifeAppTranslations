@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "בישול...",
     "CL_AI_program_agent_note": "הערה: תוכנית זו נוצרה על ידי בינה מלאכותית. יש לבדוק את ההגדרות כדי להבטיח את התוצאה הטובה ביותר.",
     "CL_AI_guide_assistant_tips": "היי, אני VIDAA, שלך <b>עוזר בינה מלאכותית</b>אני יכול/ה להדריך אותך, להציע תוכניות ולהקל על משימות יומיומיות. רוצה לראות מה אני יכול/ה לעשות?",
-    "CL_AI_guide_assistant_step_tips": "ה <b>אוטומציה</b> הועבר לסרגל הניווט העליון",
     "CL_AI_program_type_oven_title": "התוכנית הטובה ביותר למנה זו היא:",
     "CL_AI_program_type_oven_optimised_title": "מעולה, זוהי התוכנית המותאמת:",
     "CL_AI_program_type_wash_title": "התוכנית הטובה ביותר לכביסה זו היא:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "קָטָן",
     "CL_DV_hd_room_size_medium": "בינוני",
     "CL_DV_hd_room_size_large": "גָדוֹל",
-    "CL_DV_HD_exhaust": "פְּלִיטָה"
+    "CL_DV_HD_exhaust": "פְּלִיטָה",
+    "CL_AI_response_error_tips": "לא התקבלה תגובה. אנא נסה שוב את בקשתך.",
+    "CL_AI_guide_assistant_new_step_tips": "אגב, ה- <b>אוטומציה</b> הועבר לסרגל הניווט העליון.",
+    "CL_CS_WM_wizard_tip": "להלן התוכנית וההגדרות המוצעות בהתבסס על תשובותיך. הכניסו את הבגדים למכונה ולחצו על \"התחל\" כדי להתחיל את מחזור הכביסה."
 }

@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "요리...",
     "CL_AI_program_agent_note": "참고: 이 프로그램은 AI에 의해 생성되었습니다. 최상의 결과를 얻으려면 설정을 검토하세요.",
     "CL_AI_guide_assistant_tips": "안녕하세요, 저는 VIDAA입니다. <b>AI 어시스턴트</b>. 안내해 드리고, 프로그램을 제안해 드리고, 일상 업무를 더 쉽게 만들어 드릴 수 있습니다. 제가 무엇을 할 수 있는지 확인해 보시겠어요?",
-    "CL_AI_guide_assistant_step_tips": "그만큼 <b>오토메이션</b> 상단 탐색 모음으로 이동되었습니다.",
     "CL_AI_program_type_oven_title": "이 요리에 가장 적합한 프로그램은 다음과 같습니다.",
     "CL_AI_program_type_oven_optimised_title": "좋습니다. 최적화된 프로그램입니다.",
     "CL_AI_program_type_wash_title": "이 세탁에 가장 적합한 프로그램은 다음과 같습니다.",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "작은",
     "CL_DV_hd_room_size_medium": "중간",
     "CL_DV_hd_room_size_large": "크기가 큰",
-    "CL_DV_HD_exhaust": "배기가스"
+    "CL_DV_HD_exhaust": "배기가스",
+    "CL_AI_response_error_tips": "응답이 없습니다. 요청을 다시 시도해 주세요.",
+    "CL_AI_guide_assistant_new_step_tips": "그런데, <b>오토메이션</b> 상단 탐색바로 이동되었습니다.",
+    "CL_CS_WM_wizard_tip": "아래는 귀하의 답변을 바탕으로 제안되는 프로그램과 설정입니다. 세탁기에 옷을 넣고 \"시작\"을 클릭하여 세탁을 시작하세요."
 }

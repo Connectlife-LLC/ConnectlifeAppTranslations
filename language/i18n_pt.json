@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Culinária...",
     "CL_AI_program_agent_note": "Nota: Este programa foi gerado por IA. Revise as configurações para garantir o melhor resultado.",
     "CL_AI_guide_assistant_tips": "Olá, eu sou VIDAA, seu <b>assistente de IA</b>Posso orientá-lo(a), sugerir programas e facilitar as tarefas diárias. Quer ver o que posso fazer?",
-    "CL_AI_guide_assistant_step_tips": "O <b>automação</b> Foi movido para a barra de navegação superior.",
     "CL_AI_program_type_oven_title": "O melhor programa para este prato é:",
     "CL_AI_program_type_oven_optimised_title": "Ótimo, este é o programa otimizado:",
     "CL_AI_program_type_wash_title": "O melhor programa para esta lavagem é:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Pequeno",
     "CL_DV_hd_room_size_medium": "Médio",
     "CL_DV_hd_room_size_large": "Grande",
-    "CL_DV_HD_exhaust": "Escape"
+    "CL_DV_HD_exhaust": "Escape",
+    "CL_AI_response_error_tips": "Nenhuma resposta recebida. Por favor, tente novamente.",
+    "CL_AI_guide_assistant_new_step_tips": "Aliás, o <b>automação</b> Foi movido para a barra de navegação superior.",
+    "CL_CS_WM_wizard_tip": "Abaixo, você encontrará o programa e as configurações sugeridas com base nas suas respostas. Coloque as roupas na máquina e clique em \"INICIAR\" para começar o ciclo."
 }

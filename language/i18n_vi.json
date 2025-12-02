@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Nấu ăn...",
     "CL_AI_program_agent_note": "Lưu ý: Chương trình này được tạo bởi AI. Vui lòng xem lại cài đặt để đảm bảo kết quả tốt nhất.",
     "CL_AI_guide_assistant_tips": "Xin chào, tôi là VIDAA, <b>Trợ lý AI</b>Tôi có thể hướng dẫn bạn, đề xuất chương trình và giúp bạn thực hiện các công việc hàng ngày dễ dàng hơn. Bạn có muốn xem tôi có thể làm gì không?",
-    "CL_AI_guide_assistant_step_tips": "Các <b>tự động hóa</b> đã được di chuyển đến thanh điều hướng trên cùng",
     "CL_AI_program_type_oven_title": "Chương trình tốt nhất cho món ăn này là:",
     "CL_AI_program_type_oven_optimised_title": "Tuyệt vời, đây là chương trình được tối ưu hóa:",
     "CL_AI_program_type_wash_title": "Chương trình giặt tốt nhất cho loại quần áo này là:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Bé nhỏ",
     "CL_DV_hd_room_size_medium": "Trung bình",
     "CL_DV_hd_room_size_large": "To",
-    "CL_DV_HD_exhaust": "Khí thải"
+    "CL_DV_HD_exhaust": "Khí thải",
+    "CL_AI_response_error_tips": "Không nhận được phản hồi. Vui lòng thử lại yêu cầu của bạn.",
+    "CL_AI_guide_assistant_new_step_tips": "Nhân tiện, <b>tự động hóa</b> đã được chuyển đến thanh điều hướng trên cùng.",
+    "CL_CS_WM_wizard_tip": "Dưới đây là chương trình và cài đặt được đề xuất dựa trên câu trả lời của bạn. Cho quần áo vào máy và nhấn \"BẮT ĐẦU\" để bắt đầu chu trình giặt."
 }
