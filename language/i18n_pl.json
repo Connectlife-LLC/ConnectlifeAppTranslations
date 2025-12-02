@@ -2738,6 +2738,7 @@
     "next_step": "NASTĘPNY KROK",
     "rf_start_convert_250": "Rozpocząłeś konwersję, zamrażarka przekształci się w inteligentną strefę z temperaturą 0 ℃; lodówka zmieni temperaturę na 4℃, proszę zwrócić uwagę na przechowywanie żywności.",
     "rf_start_convert_213": "Tryb konwersji włączony. Zamrażarka jest teraz w strefie Smart Zone z temperaturą 0°C; lodówka z temperaturą 4°C. Proszę sprawdzić przechowywanie żywności.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Tryb konwersji wyłączony. Strefa Smart powraca do zamrażarki przy temperaturze -18°C. Sprawdź, czy przechowujesz żywność.",
     "unfold_zone": "rozwiń wszystkie strefy",
     "fold_zone": "złóż wszystkie strefy",
@@ -7066,6 +7067,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Wybierz urządzenie, na którym chcesz gotować. Jeśli nie dokonasz wyboru, zasugerowane zostaną przepisy, które działają zarówno z piekarnikiem, jak i płytą grzewczą. Wybranie jednego urządzenia ograniczy przepisy tylko do tego urządzenia.",
     "breakfast": "śniadanie",
     "lunch": "obiad",
+    "dinner": "",
     "starter": "rozrusznik",
     "main": "główny",
     "side": "strona",
@@ -7248,5 +7250,5 @@
     "CL_DV_HD_exhaust": "Wydechowy",
     "CL_AI_response_error_tips": "Nie otrzymano odpowiedzi. Spróbuj wysłać zapytanie ponownie.",
     "CL_AI_guide_assistant_new_step_tips": "A tak przy okazji, <b>automatyzacja</b> został przeniesiony na górny pasek nawigacyjny.",
-    "CL_CS_WM_wizard_tip": "Poniżej znajduje się sugerowany program i ustawienia oparte na Twoich odpowiedziach. Włóż ubrania do pralki i kliknij „START”, aby rozpocząć cykl prania."
+    "CL_CS_WM_wizard_tip": "Poniżej znajduje się sugerowany program i ustawienia oparte na Twoich odpowiedziach. Włóż ubrania do pralki i kliknij „URUCHOM”, aby rozpocząć cykl prania."
 }

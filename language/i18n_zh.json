@@ -2738,6 +2738,7 @@
     "next_step": "下一步",
     "rf_start_convert_250": "您已启动Convert，冷冻室将会转变为Smart Zone，温度转变为0℃；冷藏室温度将转变为4℃，请注意食材存放位置是否合理。",
     "rf_start_convert_213": "转换模式已启用。冷冻室现为智能温区，温度设定为 0°C；冷藏室温度设定为 4°C。请检查食物储存情况。",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "转换模式已禁用。智能区将恢复至-18°C冷冻状态。请检查食物储存情况。",
     "unfold_zone": "展开所有分区",
     "fold_zone": "折叠所有分区",
@@ -6757,10 +6758,10 @@
     "CL_AC_out_door_self_clean_fail": "如果室外温度低于 0°C 或高于 32°C，则无法启动室外清洁。",
     "manager": "经理",
     "CL_DV_WM_have_result": "我们有结果了！",
-    "CL_DV_WM_assist_result_tips": "以下是根据您的回答建议的程序和设置。将洗衣机放入洗衣机，然后点击“开始”即可开始洗涤。",
+    "CL_DV_WM_assist_result_tips": "以下是根据您的回答建议的程序和设置。将衣物放入洗衣机，然后点击“开始”即可开始洗涤。",
     "authorization_status": "授权状态",
     "QR_code": "二维码",
-    "CL_DV_TD_assist_result_tips": "以下是根据您的回答建议的程序和设置。将衣物放入滚筒烘干机，然后点击“开始”即可开始烘干。",
+    "CL_DV_TD_assist_result_tips": "以下是根据您的回答建议的程序和设置。将衣物放入烘干机，然后点击“开始”即可开始烘干。",
     "service__provider": "服务提供商",
     "CL_Energy_qr_code_tips": "此二维码用于授权服务提供商。服务提供商扫描此二维码后，即可查看您的储能系统。",
     "cacle_authorization_sub_title": "您确定取消当前服务提供商的授权吗？",
@@ -7066,6 +7067,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "选择您想使用的烹饪器具。如果未选择，系统将推荐适用于烤箱和炉灶的食谱。选择一种器具后，食谱将仅限于该器具。",
     "breakfast": "早餐",
     "lunch": "午餐",
+    "dinner": "",
     "starter": "起动机",
     "main": "主要的",
     "side": "边",
@@ -7248,5 +7250,5 @@
     "CL_DV_HD_exhaust": "排气",
     "CL_AI_response_error_tips": "未收到回复。请重试您的请求。",
     "CL_AI_guide_assistant_new_step_tips": "顺便说一下， <b>智慧管家</b> 已移至顶部导航栏。",
-    "CL_CS_WM_wizard_tip": "以下是根据您的回答建议的程序和设置。请将衣物放入洗衣机，然后点击“开始”按钮启动程序。"
+    "CL_CS_WM_wizard_tip": "以下是根据您的回答建议的程序和设置。请将衣物放入洗衣机，然后点击“启动”按钮启动程序。"
 }
