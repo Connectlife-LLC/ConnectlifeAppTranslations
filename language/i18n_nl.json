@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Koken...",
     "CL_AI_program_agent_note": "Let op: dit programma is gegenereerd door AI. Controleer de instellingen voor het beste resultaat.",
     "CL_AI_guide_assistant_tips": "Hallo, ik ben VIDAA, jouw <b>AI-assistent</b>Ik kan je begeleiden, programma's voorstellen en dagelijkse taken vergemakkelijken. Wil je zien wat ik kan doen?",
-    "CL_AI_guide_assistant_step_tips": "De <b>automatisering</b> is verplaatst naar de bovenste navigatiebalk",
     "CL_AI_program_type_oven_title": "Het beste programma voor dit gerecht is:",
     "CL_AI_program_type_oven_optimised_title": "Geweldig, dit is het geoptimaliseerde programma:",
     "CL_AI_program_type_wash_title": "Het beste programma voor deze wasbeurt is:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Klein",
     "CL_DV_hd_room_size_medium": "Gemiddeld",
     "CL_DV_hd_room_size_large": "Groot",
-    "CL_DV_HD_exhaust": "Uitlaat"
+    "CL_DV_HD_exhaust": "Uitlaat",
+    "CL_AI_response_error_tips": "Geen reactie ontvangen. Probeer het opnieuw.",
+    "CL_AI_guide_assistant_new_step_tips": "Trouwens, de <b>automatisering</b> is verplaatst naar de bovenste navigatiebalk.",
+    "CL_CS_WM_wizard_tip": "Hieronder vindt u het voorgestelde programma en de instellingen op basis van uw antwoorden. Doe de kleding in uw wasmachine en klik op \"START\" om de cyclus te starten."
 }

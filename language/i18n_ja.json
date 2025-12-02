@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "料理...",
     "CL_AI_program_agent_note": "注: このプログラムはAIによって生成されました。最適な結果を得るために設定をご確認ください。",
     "CL_AI_guide_assistant_tips": "こんにちは、VIDAAです。 <b>AIアシスタント</b>. ご案内、プログラムのご提案、日々の業務の効率化など、様々なサポートをさせていただきます。私のできることをぜひお見せください。",
-    "CL_AI_guide_assistant_step_tips": "その <b>オートメーション</b> 上部のナビゲーションバーに移動されました",
     "CL_AI_program_type_oven_title": "この料理に最適なプログラムは次のとおりです。",
     "CL_AI_program_type_oven_optimised_title": "素晴らしい、これが最適化されたプログラムです:",
     "CL_AI_program_type_wash_title": "この洗浄に最適なプログラムは次のとおりです。",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "小さい",
     "CL_DV_hd_room_size_medium": "ミディアム",
     "CL_DV_hd_room_size_large": "大きい",
-    "CL_DV_HD_exhaust": "排気"
+    "CL_DV_HD_exhaust": "排気",
+    "CL_AI_response_error_tips": "応答がありません。再度リクエストしてください。",
+    "CL_AI_guide_assistant_new_step_tips": "ちなみに、 <b>オートメーション</b> 上部のナビゲーション バーに移動されました。",
+    "CL_CS_WM_wizard_tip": "ご回答に基づいて、以下のプログラムと設定をご提案いたします。衣類を洗濯機に入れて「スタート」をクリックし、サイクルを開始してください。"
 }

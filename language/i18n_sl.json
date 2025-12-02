@@ -7111,7 +7111,6 @@
     "CL_AI_program_status_run_title": "Kuhanje ...",
     "CL_AI_program_agent_note": "Opomba: Ta program je ustvarila umetna inteligenca. Preverite nastavitve, da zagotovite najboljši rezultat.",
     "CL_AI_guide_assistant_tips": "Pozdravljeni, sem VIDAA, vaš pomočnik z umetno inteligenco <b></b>. Lahko vas vodim, predlagam programe in vam olajšam vsakodnevna opravila. Želite videti, kaj lahko naredim?",
-    "CL_AI_guide_assistant_step_tips": "Avtomatizacija <b></b> je bila prestavljena v zgornjo navigacijsko vrstico",
     "CL_AI_program_type_oven_title": "Najboljši program za to jed je:",
     "CL_AI_program_type_oven_optimised_title": "Super, to je optimiziran program:",
     "CL_AI_program_type_wash_title": "Najboljši program za to pranje je:",
@@ -7248,5 +7247,8 @@
     "CL_DV_hd_room_size_small": "Majhna",
     "CL_DV_hd_room_size_medium": "Srednja",
     "CL_DV_hd_room_size_large": "Velika",
-    "CL_DV_HD_exhaust": "Izpušni plini"
+    "CL_DV_HD_exhaust": "Izpušni plini",
+    "CL_AI_response_error_tips": "Ni odgovora. Poskusite znova oddati zahtevo.",
+    "CL_AI_guide_assistant_new_step_tips": "Mimogrede, <b>avtomatizacija</b> je bilo premaknjeno v zgornjo navigacijsko vrstico.",
+    "CL_CS_WM_wizard_tip": "Spodaj je predlagan program in nastavitve glede na vaše odgovore. V stroj naložite oblačila in kliknite »START«, da zaženete cikel."
 }

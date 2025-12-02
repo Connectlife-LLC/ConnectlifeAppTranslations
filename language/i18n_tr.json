@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Yemek pişirmek...",
     "CL_AI_program_agent_note": "Not: Bu program yapay zeka tarafından oluşturulmuştur. En iyi sonucu elde etmek için ayarları inceleyin.",
     "CL_AI_guide_assistant_tips": "Merhaba, ben VIDAA, sizin <b>Yapay zeka asistanı</b>Size rehberlik edebilir, program önerebilir ve günlük işlerinizi kolaylaştırabilirim. Neler yapabileceğimi görmek ister misiniz?",
-    "CL_AI_guide_assistant_step_tips": "The <b>otomasyon</b> üst gezinme çubuğuna taşındı",
     "CL_AI_program_type_oven_title": "Bu yemek için en iyi program şudur:",
     "CL_AI_program_type_oven_optimised_title": "Harika, optimize edilmiş program şu şekilde:",
     "CL_AI_program_type_wash_title": "Bu yıkama için en iyi program:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Küçük",
     "CL_DV_hd_room_size_medium": "Orta",
     "CL_DV_hd_room_size_large": "Büyük",
-    "CL_DV_HD_exhaust": "Egzoz"
+    "CL_DV_HD_exhaust": "Egzoz",
+    "CL_AI_response_error_tips": "Herhangi bir yanıt alınamadı. Lütfen talebinizi tekrar deneyin.",
+    "CL_AI_guide_assistant_new_step_tips": "Bu arada, <b>otomasyon</b> üst gezinme çubuğuna taşındı.",
+    "CL_CS_WM_wizard_tip": "Aşağıda, verdiğiniz yanıtlara göre önerilen program ve ayarlar yer almaktadır. Çamaşırları makinenize yükleyin ve yıkama işlemini başlatmak için \"BAŞLAT\"a tıklayın."
 }

@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Memasak...",
     "CL_AI_program_agent_note": "Catatan: Program ini dibuat oleh AI. Tinjau pengaturan untuk memastikan hasil terbaik.",
     "CL_AI_guide_assistant_tips": "Hai, saya VIDAA, teman kamu <b>Asisten AI</b>Saya bisa memandu Anda, menyarankan program, dan mempermudah tugas sehari-hari. Mau lihat apa saja yang bisa saya lakukan?",
-    "CL_AI_guide_assistant_step_tips": "Itu <b>otomatisasi</b> telah dipindahkan ke bilah navigasi atas",
     "CL_AI_program_type_oven_title": "Program terbaik untuk hidangan ini adalah:",
     "CL_AI_program_type_oven_optimised_title": "Bagus, ini adalah program yang dioptimalkan:",
     "CL_AI_program_type_wash_title": "Program terbaik untuk pencucian ini adalah:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Kecil",
     "CL_DV_hd_room_size_medium": "Sedang",
     "CL_DV_hd_room_size_large": "Besar",
-    "CL_DV_HD_exhaust": "Knalpot"
+    "CL_DV_HD_exhaust": "Knalpot",
+    "CL_AI_response_error_tips": "Tidak ada respons yang diterima. Silakan coba lagi permintaan Anda.",
+    "CL_AI_guide_assistant_new_step_tips": "Ngomong-ngomong, <b>otomatisasi</b> telah dipindahkan ke bilah navigasi atas.",
+    "CL_CS_WM_wizard_tip": "Berikut adalah program dan pengaturan yang disarankan berdasarkan jawaban Anda. Masukkan pakaian ke dalam mesin cuci Anda dan klik \"MULAI\" untuk memulai siklus Anda."
 }

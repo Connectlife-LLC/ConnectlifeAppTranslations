@@ -6187,7 +6187,7 @@
     "airecipe_ingredient_Black_Beans": "fagioli neri",
     "airecipe_ingredient_Black_pepper": "Pepe nero",
     "airecipe_ingredient_Blackberry": "Mora",
-    "airecipe_ingredient_Black-eyed_Peas": "Black Eyed Peas",
+    "airecipe_ingredient_Black-eyed_Peas": "Fagioli dall'occhio nero",
     "airecipe_ingredient_Blue_Cheese": "Formaggio blu",
     "airecipe_ingredient_Bok_Choy": "Bok Choy",
     "airecipe_ingredient_Boletus": "Porcino",
@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "Cucina...",
     "CL_AI_program_agent_note": "Nota: questo programma è stato generato dall'intelligenza artificiale. Rivedi le impostazioni per garantire il risultato migliore.",
     "CL_AI_guide_assistant_tips": "Ciao, sono VIDAA, il tuo <b>Assistente AI</b>Posso guidarti, suggerirti programmi e semplificarti le attività quotidiane. Vuoi vedere cosa posso fare?",
-    "CL_AI_guide_assistant_step_tips": "IL <b>automazione</b> è stato spostato nella barra di navigazione in alto",
     "CL_AI_program_type_oven_title": "Il programma migliore per questo piatto è:",
     "CL_AI_program_type_oven_optimised_title": "Ottimo, questo è il programma ottimizzato:",
     "CL_AI_program_type_wash_title": "Il programma migliore per questo lavaggio è:",
@@ -7246,5 +7245,8 @@
     "CL_DV_hd_room_size_small": "Piccolo",
     "CL_DV_hd_room_size_medium": "Medio",
     "CL_DV_hd_room_size_large": "Grande",
-    "CL_DV_HD_exhaust": "Scarico"
+    "CL_DV_HD_exhaust": "Scarico",
+    "CL_AI_response_error_tips": "Nessuna risposta ricevuta. Riprova a inviare la tua richiesta.",
+    "CL_AI_guide_assistant_new_step_tips": "A proposito, il <b>automazione</b> è stato spostato nella barra di navigazione superiore.",
+    "CL_CS_WM_wizard_tip": "Di seguito sono riportati il programma e le impostazioni suggeriti in base alle tue risposte. Carica i vestiti nella lavatrice e clicca su \"START\" per avviare il ciclo."
 }

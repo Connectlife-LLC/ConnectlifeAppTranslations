@@ -7109,7 +7109,6 @@
     "CL_AI_program_status_run_title": "烹飪...",
     "CL_AI_program_agent_note": "注意：本程式由人工智慧產生。請檢查設定以確保最佳效果。",
     "CL_AI_guide_assistant_tips": "嗨，我是VIDAA，你的 <b>人工智慧助手</b>我可以指導你，推薦合適的方案，讓日常任務更輕鬆。想看看我能做些什麼嗎？",
-    "CL_AI_guide_assistant_step_tips": "這 <b>自動化</b> 已移至頂部導覽列",
     "CL_AI_program_type_oven_title": "這道菜的最佳烹飪程序是：",
     "CL_AI_program_type_oven_optimised_title": "太好了，這是優化後的程序：",
     "CL_AI_program_type_wash_title": "最適合這種洗滌方式的程序是：",
@@ -7243,8 +7242,11 @@
     "CL_DV_EY_qr_code_expired": "此二維碼已過期，請重試。",
     "CL_AI_guidance_suggestion_new_desc": "最佳方案",
     "CL_AI_guidance_troubleshooting_new_title": "故障排除",
-    "CL_DV_hd_room_size_small": "小的",
-    "CL_DV_hd_room_size_medium": "五分熟",
-    "CL_DV_hd_room_size_large": "大的",
-    "CL_DV_HD_exhaust": "排氣"
+    "CL_DV_hd_room_size_small": "小",
+    "CL_DV_hd_room_size_medium": "中",
+    "CL_DV_hd_room_size_large": "大",
+    "CL_DV_HD_exhaust": "排氣",
+    "CL_AI_response_error_tips": "未收到回覆。請重試您的請求。",
+    "CL_AI_guide_assistant_new_step_tips": "順便說一下， <b>智慧管家</b> 已移至頂部導覽列。",
+    "CL_CS_WM_wizard_tip": "以下是根據您的回答建議的程序和設定。請將衣物放入洗衣機，然後點選「開始」按鈕啟動程序。"
 }
