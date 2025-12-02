@@ -7067,6 +7067,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Choose the appliance you want to cook with. If no selection is made, recipes that work with both oven and hob will be suggested. Selecting one will limit recipes to that appliance only",
     "breakfast": "breakfast",
     "lunch": "lunch",
+    "dinner": "",
     "starter": "starter",
     "main": "main",
     "side": "side",
