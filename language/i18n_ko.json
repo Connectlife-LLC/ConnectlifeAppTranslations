@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "최대 실내 온도",
     "CL_AC_dr_rate_power": "정격 부하 전력",
     "CL_AC_demand_subtitle": "그리드 안정성을 지원하기 위해 냉각을 자동으로 최적화합니다.",
-    "CL_DV_EY_self_sufficient": "자급자족",
     "CL_AC_comfort_auto_des": "실내 온도가 30°C를 넘으면 자동으로 냉방을 시작하고, 14°C 이하로 떨어지면 자동으로 난방을 시작합니다.",
     "CL_AC_comfort_auto": "컴포트 오토",
     "CL_MEAL_PLANNER_already_added": "이 요리법은 이미 이 요리에 추가되었습니다.",
@@ -7099,7 +7098,6 @@
     "CL_CF_CS_wm_g600_p_step_2": "\"확인\" 아이콘을 6초간 탭하여 PAr이 나타날 때까지 기다리세요. \n 이제 기기는 3분 동안 페어링할 준비가 되었습니다. \n 계속하려면 다음을 클릭하세요.",
     "CL_DV_LRC_descaling_in_progress": "석회질 제거 진행 중",
     "CL_DV_LRC_descaling_desc": "음료 진열장에 있는 지시사항을 따르세요.",
-    "CL_AI_wm_troubleshooting": "WM 문제 해결",
     "CL_AI_history_empty": "기록 없음",
     "CL_AI_history_empty_tips": "첫 번째 대화를 마치면 채팅 기록이 여기에 표시됩니다.",
     "CL_AI_troubleshooting_guide_tips": "가전제품 사용이나 문제 해결에 도움이 필요하신가요? 여기가 바로 그 곳입니다. 예상대로 작동하지 않을 경우 유용한 정보와 지원을 제공해 드리겠습니다.",
@@ -7116,7 +7114,6 @@
     "CL_AI_program_type_wash_title": "이 세탁에 가장 적합한 프로그램은 다음과 같습니다.",
     "CL_AI_program_type_dry_title": "이 건조기에 가장 적합한 프로그램은 다음과 같습니다.",
     "CL_AI_program_favorites_saved": "프로그램이 즐겨찾기에 저장되었습니다.",
-    "CL_AI_oven_troubleshooting": "오븐 문제 해결",
     "CL_AI_suggestion_wash_program": "최고의 세탁 프로그램",
     "CL_AI_suggestion_wash_program_desc": "나에게 맞는 세탁 프로그램을 선택하도록 도와주세요.",
     "CL_AI_suggestion_eco_washing": "친환경 세탁",
@@ -7250,5 +7247,12 @@
     "CL_DV_HD_exhaust": "배기가스",
     "CL_AI_response_error_tips": "응답이 없습니다. 요청을 다시 시도해 주세요.",
     "CL_AI_guide_assistant_new_step_tips": "그런데, <b>오토메이션</b> 상단 탐색바로 이동되었습니다.",
-    "CL_CS_WM_wizard_tip": "아래는 귀하의 답변을 바탕으로 제안되는 프로그램과 설정입니다. 세탁기에 옷을 넣고 \"시작\"을 클릭하여 세탁을 시작하세요."
+    "CL_CS_WM_wizard_tip": "아래는 귀하의 답변을 바탕으로 제안되는 프로그램과 설정입니다. 세탁기에 옷을 넣고 \"시작\"을 클릭하여 세탁을 시작하세요.",
+    "CL_DV_EY_date_to": "에게",
+    "CL_DV_EY_self_self_sufficiency": "자급자족",
+    "CL_DV_OV_auto_programs_des": "미리 정의된 자동 프로그램 세트는 식사 준비를 간소화하고 다양한 요리 유형에 대해 최적의 결과를 보장합니다.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "재료나 요리 검색",
+    "CL_DV_OV_browse_all_auto_programs": "모든 자동차 프로그램 탐색",
+    "CL_AI_oven_troubleshoot": "오븐 문제 해결",
+    "CL_AI_wm_troubleshoot": "WM 문제 해결"
 }

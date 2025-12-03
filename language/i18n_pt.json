@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Temperatura máxima interna",
     "CL_AC_dr_rate_power": "Potência de carga nominal",
     "CL_AC_demand_subtitle": "Otimiza automaticamente o resfriamento para garantir a estabilidade da rede elétrica.",
-    "CL_DV_EY_self_sufficient": "Autossuficiente",
     "CL_AC_comfort_auto_des": "Inicia automaticamente o resfriamento quando a temperatura ambiente ultrapassa 30°C e o aquecimento quando cai abaixo de 14°C.",
     "CL_AC_comfort_auto": "Comfort Auto",
     "CL_MEAL_PLANNER_already_added": "Esta receita já foi adicionada a esta refeição.",
@@ -7099,7 +7098,6 @@
     "CL_CF_CS_wm_g600_p_step_2": "Toque e mantenha pressionado o ícone “OK” por 6 segundos até \n PAr apareça. O dispositivo está pronto para emparelhamento por 3 minutos. Clique em \n para continuar.",
     "CL_DV_LRC_descaling_in_progress": "Descalcificação em andamento",
     "CL_DV_LRC_descaling_desc": "Por favor, siga as instruções no visor do seu armário de bebidas.",
-    "CL_AI_wm_troubleshooting": "Solução de problemas do WM",
     "CL_AI_history_empty": "Sem histórico",
     "CL_AI_history_empty_tips": "Seu histórico de bate-papo aparecerá aqui assim que você tiver sua primeira conversa.",
     "CL_AI_troubleshooting_guide_tips": "Precisa de ajuda para usar seu eletrodoméstico ou resolver algum problema? Este é o lugar certo. Vou te orientar com dicas e suporte caso algo não esteja funcionando como esperado.",
@@ -7116,7 +7114,6 @@
     "CL_AI_program_type_wash_title": "O melhor programa para esta lavagem é:",
     "CL_AI_program_type_dry_title": "O melhor programa para esta secadora é:",
     "CL_AI_program_favorites_saved": "Programa salvo nos favoritos.",
-    "CL_AI_oven_troubleshooting": "Solução de problemas do forno",
     "CL_AI_suggestion_wash_program": "Melhor programa de lavagem",
     "CL_AI_suggestion_wash_program_desc": "Ajude-me a escolher o programa de lavagem certo.",
     "CL_AI_suggestion_eco_washing": "Lavagem ecológica",
@@ -7250,5 +7247,12 @@
     "CL_DV_HD_exhaust": "Escape",
     "CL_AI_response_error_tips": "Nenhuma resposta recebida. Por favor, tente novamente.",
     "CL_AI_guide_assistant_new_step_tips": "Aliás, o <b>automação</b> Foi movido para a barra de navegação superior.",
-    "CL_CS_WM_wizard_tip": "Abaixo, você encontrará o programa e as configurações sugeridas com base nas suas respostas. Coloque as roupas na máquina e clique em \"INICIAR\" para começar o ciclo."
+    "CL_CS_WM_wizard_tip": "Abaixo, você encontrará o programa e as configurações sugeridas com base nas suas respostas. Coloque as roupas na máquina e clique em \"INICIAR\" para começar o ciclo.",
+    "CL_DV_EY_date_to": "para",
+    "CL_DV_EY_self_self_sufficiency": "Autossuficiência",
+    "CL_DV_OV_auto_programs_des": "Um conjunto de programas automáticos predefinidos simplifica o preparo das refeições e garante resultados ótimos para diversos tipos de pratos.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Procure por ingrediente ou prato",
+    "CL_DV_OV_browse_all_auto_programs": "Veja todos os programas automotivos",
+    "CL_AI_oven_troubleshoot": "Solução de problemas do forno",
+    "CL_AI_wm_troubleshoot": "Solução de problemas do WM"
 }
