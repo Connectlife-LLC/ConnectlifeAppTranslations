@@ -2738,7 +2738,6 @@
     "next_step": "URMATORUL PAS",
     "rf_start_convert_250": "Ați pornit funcția Convert, congelatorul se va transforma în Smart Zone cu o temperatură de 0℃; Frigiderul se va transforma în zonă de 4℃, vă rugăm să acordați atenție depozitării alimentelor.",
     "rf_start_convert_213": "Modul Conversie activat. Congelatorul este acum în Zona Inteligentă la 0°C; Frigiderul la 4°C. Vă rugăm să verificați depozitarea alimentelor.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Modul Conversie dezactivat. Zona Inteligentă revine la Congelator la -18°C. Vă rugăm să verificați depozitarea alimentelor.",
     "unfold_zone": "desfășurați toate zonele",
     "fold_zone": "pliați toate zonele",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Alegeți aparatul cu care doriți să gătiți. Dacă nu faceți nicio selecție, vor fi sugerate rețete care funcționează atât cu cuptorul, cât și cu plita. Selectarea uneia va limita rețetele doar la acel aparat.",
     "breakfast": "mic dejun",
     "lunch": "prânz",
-    "dinner": "",
     "starter": "starter",
     "main": "principal",
     "side": "lateral",
@@ -7254,5 +7252,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Caută ingredient sau preparat",
     "CL_DV_OV_browse_all_auto_programs": "Răsfoiți toate programele auto",
     "CL_AI_oven_troubleshoot": "Depanare cuptor",
-    "CL_AI_wm_troubleshoot": "Depanare WM"
+    "CL_AI_wm_troubleshoot": "Depanare WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Selectați ingredientele",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Alegeți ingrediente care pot fi folosite în rețetă. Din această selecție, Dish Designer le va folosi împreună pe cele care au un gust bun pentru a crea rețeta.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Ingredientele „opționale” sunt afișate cu gri. "
 }

@@ -2738,7 +2738,6 @@
     "next_step": "PASSO SUCCESSIVO",
     "rf_start_convert_250": "Hai avviato Convert, il congelatore si trasformerà in Smart Zone con una temperatura di 0℃; il frigorifero si trasformerà in 4℃, prestare attenzione alla conservazione degli alimenti.",
     "rf_start_convert_213": "Modalità di conversione abilitata. Il congelatore è ora impostato su Smart Zone a 0 °C; il frigorifero a 4 °C. Controllare la conservazione degli alimenti.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Modalità di conversione disattivata. La Smart Zone torna in modalità Congelatore a -18°C. Controllare la conservazione degli alimenti.",
     "unfold_zone": "aprire tutte le zone",
     "fold_zone": "piega tutte le zone",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Seleziona l'elettrodomestico con cui vuoi cucinare. Se non selezioni nulla, ti verranno suggerite ricette che funzionano sia con il forno che con il piano cottura. Selezionandone uno, le ricette saranno limitate solo a quell'elettrodomestico.",
     "breakfast": "colazione",
     "lunch": "pranzo",
-    "dinner": "",
     "starter": "antipasto",
     "main": "principale",
     "side": "lato",
@@ -7254,5 +7252,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Cerca ingrediente o piatto",
     "CL_DV_OV_browse_all_auto_programs": "Sfoglia tutti i programmi automatici",
     "CL_AI_oven_troubleshoot": "Risoluzione dei problemi del forno",
-    "CL_AI_wm_troubleshoot": "Risoluzione dei problemi WM"
+    "CL_AI_wm_troubleshoot": "Risoluzione dei problemi WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Seleziona gli ingredienti",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Scegli gli ingredienti che possono essere utilizzati nella ricetta. Da questa selezione, Dish Designer utilizzerà quelli che si abbinano meglio per creare la ricetta.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Gli ingredienti \"facoltativi\" sono mostrati in grigio. "
 }

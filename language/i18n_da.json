@@ -2738,7 +2738,6 @@
     "next_step": "NÆSTE SKRIDT",
     "rf_start_convert_250": "Du har startet Konverter, fryseren omdannes til Smart Zone med en temperatur på 0℃; Køleskabet omdannes til 4℃, vær opmærksom på opbevaring af mad.",
     "rf_start_convert_213": "Konverteringstilstand aktiveret. Fryseren er nu Smart Zone ved 0°C; køleskabet ved 4°C. Kontroller opbevaring af fødevarer.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Konverteringstilstand deaktiveret. Smart Zone vender tilbage til fryser ved -18°C. Kontroller opbevaring af madvarer.",
     "unfold_zone": "udfolde alle zoner",
     "fold_zone": "fold alle zoner",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Vælg det apparat, du vil lave mad med. Hvis du ikke foretager et valg, vil opskrifter, der fungerer med både ovn og kogeplade, blive foreslået. Hvis du vælger én, begrænses opskrifterne til kun det apparat.",
     "breakfast": "morgenmad",
     "lunch": "frokost",
-    "dinner": "",
     "starter": "forret",
     "main": "vigtigste",
     "side": "side",
@@ -7254,5 +7252,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Søg efter ingrediens eller ret",
     "CL_DV_OV_browse_all_auto_programs": "Gennemse alle bilprogrammer",
     "CL_AI_oven_troubleshoot": "Fejlfinding af ovn",
-    "CL_AI_wm_troubleshoot": "WM-fejlfinding"
+    "CL_AI_wm_troubleshoot": "WM-fejlfinding",
+    "CL_DISH_DESIGNER_select_ingredients": "Vælg ingredienser",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Vælg ingredienser, der kan bruges i opskriften. Fra dette udvalg vil Dish Designer bruge dem, der smager godt, sammen til at skabe opskriften.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "'Valgfrie' ingredienser er vist med gråt. "
 }

@@ -2738,7 +2738,6 @@
     "next_step": "NÄCHSTER SCHRITT",
     "rf_start_convert_250": "Sie haben die Konvertierung gestartet, der Gefrierschrank verwandelt sich in eine Smart Zone mit einer Temperatur von 0 °C; der Kühlschrank verwandelt sich in eine Temperatur von 4 °C. Achten Sie bitte auf die Lagerung der Lebensmittel.",
     "rf_start_convert_213": "Der Konvertierungsmodus ist aktiviert. Der Gefrierschrank befindet sich nun in der Smart Zone bei 0 °C, der Kühlschrank bei 4 °C. Bitte überprüfen Sie die Lagerung Ihrer Lebensmittel.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Der Konvertierungsmodus ist deaktiviert. Die Smart Zone schaltet wieder auf -18 °C in den Gefrierschrank. Bitte überprüfen Sie die eingelagerten Lebensmittel.",
     "unfold_zone": "Alle Zonen aufklappen",
     "fold_zone": "alle Zonen zusammenklappen",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Wählen Sie das Gerät, mit dem Sie kochen möchten. Wenn Sie keine Auswahl treffen, werden Ihnen Rezepte vorgeschlagen, die sowohl für Backofen als auch für Herdplatte geeignet sind. Wenn Sie ein Gerät auswählen, werden Ihnen nur Rezepte für dieses Gerät angezeigt.",
     "breakfast": "Frühstück",
     "lunch": "Mittagessen",
-    "dinner": "",
     "starter": "Anlasser",
     "main": "hauptsächlich",
     "side": "Seite",
@@ -7254,5 +7252,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Suche nach Zutat oder Gericht",
     "CL_DV_OV_browse_all_auto_programs": "Alle Autoprogramme durchsuchen",
     "CL_AI_oven_troubleshoot": "Ofen-Fehlerbehebung",
-    "CL_AI_wm_troubleshoot": "WM-Fehlerbehebung"
+    "CL_AI_wm_troubleshoot": "WM-Fehlerbehebung",
+    "CL_DISH_DESIGNER_select_ingredients": "Ausgewählte Zutaten",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Wählen Sie Zutaten aus, die im Rezept verwendet werden können. Aus dieser Auswahl verwendet Dish Designer diejenigen, die geschmacklich gut zusammenpassen, um das Rezept zu kreieren.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Optionale Zutaten sind grau dargestellt. "
 }

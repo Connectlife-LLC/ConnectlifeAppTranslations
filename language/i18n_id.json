@@ -2738,7 +2738,6 @@
     "next_step": "LANGKAH BERIKUTNYA",
     "rf_start_convert_250": "Anda telah memulai Konversi, Freezer akan berubah menjadi Smart Zone dengan suhu 0℃; Kulkas akan berubah menjadi 4℃, harap perhatikan penyimpanan makanan.",
     "rf_start_convert_213": "Mode konversi diaktifkan. Freezer sekarang berada di Zona Cerdas pada suhu 0°C; Kulkas pada suhu 4°C. Harap periksa penyimpanan makanan.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Mode konversi dinonaktifkan. Smart Zone kembali ke Freezer pada suhu -18°C. Harap periksa penyimpanan makanan.",
     "unfold_zone": "buka semua zona",
     "fold_zone": "lipat semua zona",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Pilih alat yang ingin Anda gunakan untuk memasak. Jika tidak ada pilihan, resep yang bisa digunakan dengan oven dan kompor akan disarankan. Memilih salah satu alat akan membatasi resep hanya untuk alat tersebut.",
     "breakfast": "sarapan",
     "lunch": "makan siang",
-    "dinner": "",
     "starter": "starter",
     "main": "utama",
     "side": "samping",
@@ -7254,5 +7252,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Cari bahan atau hidangan",
     "CL_DV_OV_browse_all_auto_programs": "Telusuri semua Program Otomatis",
     "CL_AI_oven_troubleshoot": "Pemecahan Masalah Oven",
-    "CL_AI_wm_troubleshoot": "Pemecahan Masalah WM"
+    "CL_AI_wm_troubleshoot": "Pemecahan Masalah WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Pilih bahan-bahan",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Pilih bahan-bahan yang mungkin digunakan dalam resep. Dari pilihan ini, Dish Designer akan menggabungkan bahan-bahan yang rasanya lezat untuk menciptakan resep tersebut.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Bahan-bahan 'Opsional' ditunjukkan dengan warna abu-abu. "
 }
