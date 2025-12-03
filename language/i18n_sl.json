@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Najvišja notranja temperatura",
     "CL_AC_dr_rate_power": "Nazivna moč obremenitve",
     "CL_AC_demand_subtitle": "Samodejno optimizira hlajenje za podporo stabilnosti omrežja.",
-    "CL_DV_EY_self_sufficient": "Samozadosten",
     "CL_AC_comfort_auto_des": "Samodejno se vklopi hlajenje, ko temperatura v prostoru preseže 30 °C, in ogrevanje, ko pade pod 14 °C.",
     "CL_AC_comfort_auto": "Udobje Auto",
     "CL_MEAL_PLANNER_already_added": "Ta recept je že dodan tej jedi.",
@@ -7099,7 +7098,6 @@
     "CL_CF_CS_wm_g600_p_step_2": "Dotaknite se ikone »V redu« in jo držite 6 sekund, dokler se ne prikaže PAr. \n Naprava je zdaj pripravljena za seznanjanje 3 minute. \n Za nadaljevanje kliknite NAPREJ.",
     "CL_DV_LRC_descaling_in_progress": "Odstranjevanje vodnega kamna v teku",
     "CL_DV_LRC_descaling_desc": "Prosimo, upoštevajte navodila na zaslonu vaše vitrine za osvežilne pijače.",
-    "CL_AI_wm_troubleshooting": "Odpravljanje težav z upravljanjem podatkov",
     "CL_AI_history_empty": "Brez zgodovine",
     "CL_AI_history_empty_tips": "Zgodovina vaših klepetov se bo prikazala tukaj, ko boste imeli prvi pogovor.",
     "CL_AI_troubleshooting_guide_tips": "Potrebujete pomoč pri uporabi naprave ali reševanju težave? To je pravi naslov. Z nasveti in podporo vam bom pomagal, če kaj ne bo delovalo po pričakovanjih.",
@@ -7116,7 +7114,6 @@
     "CL_AI_program_type_wash_title": "Najboljši program za to pranje je:",
     "CL_AI_program_type_dry_title": "Najboljši program za ta sušilni stroj je:",
     "CL_AI_program_favorites_saved": "Program shranjen med priljubljene.",
-    "CL_AI_oven_troubleshooting": "Odpravljanje težav s pečico",
     "CL_AI_suggestion_wash_program": "Najboljši program pranja",
     "CL_AI_suggestion_wash_program_desc": "Pomagajte mi izbrati pravi program pranja.",
     "CL_AI_suggestion_eco_washing": "Okolju prijazno pranje",
@@ -7250,5 +7247,12 @@
     "CL_DV_HD_exhaust": "Izpušni plini",
     "CL_AI_response_error_tips": "Ni odgovora. Poskusite znova oddati zahtevo.",
     "CL_AI_guide_assistant_new_step_tips": "Mimogrede, <b>avtomatizacija</b> je bilo premaknjeno v zgornjo navigacijsko vrstico.",
-    "CL_CS_WM_wizard_tip": "Spodaj je predlagan program in nastavitve glede na vaše odgovore. V stroj naložite oblačila in kliknite »ZAČETEK«, da zaženete cikel."
+    "CL_CS_WM_wizard_tip": "Spodaj je predlagan program in nastavitve glede na vaše odgovore. V stroj naložite oblačila in kliknite »ZAČETEK«, da zaženete cikel.",
+    "CL_DV_EY_date_to": "do",
+    "CL_DV_EY_self_self_sufficiency": "Samozadostnost",
+    "CL_DV_OV_auto_programs_des": "Nabor vnaprej določenih samodejnih programov poenostavi pripravo obrokov in zagotavlja optimalne rezultate za različne vrste jedi.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Iskanje sestavine ali jedi",
+    "CL_DV_OV_browse_all_auto_programs": "Brskaj po vseh samodejnih programih",
+    "CL_AI_oven_troubleshoot": "Odpravljanje težav s pečico",
+    "CL_AI_wm_troubleshoot": "Odpravljanje težav z upravljanjem podatkov"
 }
