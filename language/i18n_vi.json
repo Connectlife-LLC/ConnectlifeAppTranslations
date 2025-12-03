@@ -2738,7 +2738,6 @@
     "next_step": "BƯỚC TIẾP THEO",
     "rf_start_convert_250": "Bạn đã bắt đầu Convert, Tủ đông sẽ chuyển thành Smart Zone với nhiệt độ 0°C; Tủ lạnh sẽ chuyển thành 4oC, hãy chú ý đến việc bảo quản thực phẩm.",
     "rf_start_convert_213": "Chế độ chuyển đổi đã được bật. Ngăn đông hiện là Smart Zone ở 0°C; Ngăn mát ở 4°C. Vui lòng kiểm tra ngăn bảo quản thực phẩm.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Chế độ chuyển đổi đã tắt. Ngăn thông minh sẽ trở về ngăn đông ở nhiệt độ -18°C. Vui lòng kiểm tra tình trạng bảo quản thực phẩm.",
     "unfold_zone": "mở ra tất cả các khu vực",
     "fold_zone": "gấp tất cả các vùng",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Chọn thiết bị bạn muốn nấu. Nếu không chọn, các công thức nấu ăn có thể dùng được với cả lò nướng và bếp sẽ được đề xuất. Việc chọn một thiết bị sẽ giới hạn công thức nấu ăn chỉ dùng được với thiết bị đó.",
     "breakfast": "bữa sáng",
     "lunch": "bữa trưa",
-    "dinner": "",
     "starter": "người khởi xướng",
     "main": "chủ yếu",
     "side": "bên",
@@ -7254,5 +7252,7 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Tìm kiếm thành phần hoặc món ăn",
     "CL_DV_OV_browse_all_auto_programs": "Duyệt tất cả các Chương trình Tự động",
     "CL_AI_oven_troubleshoot": "Khắc phục sự cố lò nướng",
-    "CL_AI_wm_troubleshoot": "Khắc phục sự cố WM"
+    "CL_AI_wm_troubleshoot": "Khắc phục sự cố WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Chọn thành phần",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Chọn các nguyên liệu có thể dùng trong công thức. Từ danh sách này, Dish Designer sẽ sử dụng những nguyên liệu có hương vị ngon nhất để tạo nên công thức."
 }
