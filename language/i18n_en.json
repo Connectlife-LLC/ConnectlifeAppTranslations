@@ -7066,7 +7066,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Choose the appliance you want to cook with. If no selection is made, recipes that work with both oven and hob will be suggested. Selecting one will limit recipes to that appliance only",
     "breakfast": "breakfast",
     "lunch": "lunch",
-    "dinner": "",
     "starter": "starter",
     "main": "main",
     "side": "side",
@@ -7254,5 +7253,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Search for ingredient or dish",
     "CL_DV_OV_browse_all_auto_programs": "Browse all Auto Programs",
     "CL_AI_oven_troubleshoot": "Oven Troubleshoot",
-    "CL_AI_wm_troubleshoot": "WM Troubleshoot"
+    "CL_AI_wm_troubleshoot": "WM Troubleshoot",
+    "CL_DISH_DESIGNER_select_ingredients": "Select ingredients",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Choose ingredients that may be used in the recipe. From this selection, Dish Designer will use the ones that taste good together to create the recipe.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "‘Optional’-ingredients are shown in grey. "
 }

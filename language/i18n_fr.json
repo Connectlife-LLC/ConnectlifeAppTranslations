@@ -2738,7 +2738,6 @@
     "next_step": "L'ÉTAPE SUIVANTE",
     "rf_start_convert_250": "Vous avez démarré Convert, le congélateur se transformera en Smart Zone avec une température de 0℃ ; le réfrigérateur se transformera en 4℃, veuillez faire attention au stockage des aliments.",
     "rf_start_convert_213": "Mode de conversion activé. Le congélateur est désormais en zone intelligente à 0 °C ; le réfrigérateur à 4 °C. Veuillez vérifier la température de conservation des aliments.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Mode de conversion désactivé. La zone intelligente revient en mode congélateur à -18 °C. Veuillez vérifier la température des aliments.",
     "unfold_zone": "déplier toutes les zones",
     "fold_zone": "plier toutes les zones",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Choisissez l'appareil de cuisson que vous souhaitez utiliser. Si vous ne faites aucune sélection, des recettes compatibles avec le four et les plaques de cuisson vous seront proposées. En sélectionnant un appareil, vous limiterez les recettes à celui-ci.",
     "breakfast": "petit-déjeuner",
     "lunch": "déjeuner",
-    "dinner": "",
     "starter": "démarreur",
     "main": "principal",
     "side": "côté",
@@ -7254,5 +7252,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Rechercher un ingrédient ou un plat",
     "CL_DV_OV_browse_all_auto_programs": "Parcourir tous les programmes automobiles",
     "CL_AI_oven_troubleshoot": "Dépannage du four",
-    "CL_AI_wm_troubleshoot": "Dépannage WM"
+    "CL_AI_wm_troubleshoot": "Dépannage WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Ingrédients sélectionnés",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Choisissez les ingrédients qui pourraient servir à la recette. Parmi cette sélection, Dish Designer utilisera ceux qui se marient bien pour créer la recette.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Les ingrédients « facultatifs » sont indiqués en gris. "
 }

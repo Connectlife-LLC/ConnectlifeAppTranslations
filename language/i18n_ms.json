@@ -2738,7 +2738,6 @@
     "next_step": "LANGKAH SETERUSNYA",
     "rf_start_convert_250": "Anda telah mula Tukar, Pembeku Sejuk akan berubah menjadi Zon Pintar dengan suhu 0℃; Peti ais akan berubah menjadi 4℃, sila beri perhatian kepada penyimpanan makanan.",
     "rf_start_convert_213": "Mod tukar didayakan. Pembeku beku kini menjadi Zon Pintar pada 0°C; Peti ais pada 4°C. Sila semak simpanan makanan.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Mod penukaran dilumpuhkan. Zon Pintar kembali ke Peti Sejuk pada -18°C. Sila semak simpanan makanan.",
     "unfold_zone": "buka semua zon",
     "fold_zone": "lipat semua zon",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Pilih perkakas yang anda ingin gunakan untuk memasak. Jika tiada pilihan dibuat, resipi yang berfungsi dengan kedua-dua ketuhar dan dapur memasak akan dicadangkan. Memilih satu akan mengehadkan resipi kepada perkakas itu sahaja",
     "breakfast": "sarapan pagi",
     "lunch": "makan tengah hari",
-    "dinner": "",
     "starter": "pemula",
     "main": "utama",
     "side": "sebelah",
@@ -7254,5 +7252,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Cari bahan atau hidangan",
     "CL_DV_OV_browse_all_auto_programs": "Semak imbas semua Program Auto",
     "CL_AI_oven_troubleshoot": "Selesaikan Masalah Ketuhar",
-    "CL_AI_wm_troubleshoot": "Selesaikan masalah WM"
+    "CL_AI_wm_troubleshoot": "Selesaikan masalah WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Pilih bahan",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Pilih bahan-bahan yang boleh digunakan dalam resipi. Daripada pilihan ini, Dish Designer akan menggunakan resipi yang sedap bersama-sama untuk mencipta resipi.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Bahan 'Pilihan' ditunjukkan dalam warna kelabu. "
 }

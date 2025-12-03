@@ -7254,5 +7254,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Iskanje sestavine ali jedi",
     "CL_DV_OV_browse_all_auto_programs": "Brskaj po vseh samodejnih programih",
     "CL_AI_oven_troubleshoot": "Odpravljanje težav s pečico",
-    "CL_AI_wm_troubleshoot": "Odpravljanje težav z upravljanjem podatkov"
+    "CL_AI_wm_troubleshoot": "Odpravljanje težav z upravljanjem podatkov",
+    "CL_DISH_DESIGNER_select_ingredients": "Izberite sestavine",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Izberite sestavine, ki jih lahko uporabite v receptu. Iz te izbire bo Dish Designer uporabil tiste, ki so skupaj okusne, da ustvari recept.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "„Neobvezne“ sestavine so prikazane sivo. "
 }

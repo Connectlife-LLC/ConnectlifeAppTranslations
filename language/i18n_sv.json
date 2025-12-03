@@ -2738,7 +2738,6 @@
     "next_step": "NÄSTA STEG",
     "rf_start_convert_250": "Du har börjat Konvertera, frysen förvandlas till Smart Zone med en temperatur på 0℃; kylaren förvandlas till 4℃, var uppmärksam på förvaring av mat.",
     "rf_start_convert_213": "Konverteringsläge aktiverat. Frysen är nu Smart Zone vid 0 °C; kylskåpet vid 4 °C. Kontrollera matförvaringen.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Konverteringsläget är inaktiverat. Smart Zone återgår till frys vid -18 °C. Kontrollera matförvaringen.",
     "unfold_zone": "vika ut alla zoner",
     "fold_zone": "vik alla zoner",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Välj den apparat du vill laga mat med. Om inget val görs kommer recept som fungerar med både ugn och spishäll att föreslås. Om du väljer en begränsas recepten till endast den apparaten.",
     "breakfast": "frukost",
     "lunch": "lunch",
-    "dinner": "",
     "starter": "starter",
     "main": "huvud",
     "side": "sida",
@@ -7254,5 +7252,8 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Sök efter ingrediens eller rätt",
     "CL_DV_OV_browse_all_auto_programs": "Bläddra bland alla bilprogram",
     "CL_AI_oven_troubleshoot": "Felsökning av ugn",
-    "CL_AI_wm_troubleshoot": "WM-felsökning"
+    "CL_AI_wm_troubleshoot": "WM-felsökning",
+    "CL_DISH_DESIGNER_select_ingredients": "Välj ingredienser",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Välj ingredienser som kan användas i receptet. Från detta urval kommer Dish Designer att använda de som smakar bra tillsammans för att skapa receptet.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Ingredienser som är 'valfria' visas i grått. "
 }
