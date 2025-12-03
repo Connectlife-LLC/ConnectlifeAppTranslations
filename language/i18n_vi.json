@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Nhiệt độ trong nhà tối đa",
     "CL_AC_dr_rate_power": "Công suất tải định mức",
     "CL_AC_demand_subtitle": "Tự động tối ưu hóa khả năng làm mát để hỗ trợ sự ổn định của lưới điện.",
-    "CL_DV_EY_self_sufficient": "Tự cung tự cấp",
     "CL_AC_comfort_auto_des": "Tự động bắt đầu làm mát khi nhiệt độ phòng vượt quá 30°C và sưởi ấm khi nhiệt độ xuống dưới 14°C.",
     "CL_AC_comfort_auto": "Comfort Auto",
     "CL_MEAL_PLANNER_already_added": "Công thức này đã được thêm vào bữa ăn này.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Khí thải",
     "CL_AI_response_error_tips": "Không nhận được phản hồi. Vui lòng thử lại yêu cầu của bạn.",
     "CL_AI_guide_assistant_new_step_tips": "Nhân tiện, <b>tự động hóa</b> đã được chuyển đến thanh điều hướng trên cùng.",
-    "CL_CS_WM_wizard_tip": "Dưới đây là chương trình và cài đặt được đề xuất dựa trên câu trả lời của bạn. Cho quần áo vào máy và nhấn \"BẮT ĐẦU\" để bắt đầu chu trình giặt."
+    "CL_CS_WM_wizard_tip": "Dưới đây là chương trình và cài đặt được đề xuất dựa trên câu trả lời của bạn. Cho quần áo vào máy và nhấn \"BẮT ĐẦU\" để bắt đầu chu trình giặt.",
+    "CL_DV_EY_date_to": "sang",
+    "CL_DV_EY_self_self_sufficiency": "Tự cung tự cấp",
+    "CL_DV_OV_auto_programs_des": "Một bộ chương trình tự động được thiết lập sẵn giúp đơn giản hóa việc chuẩn bị bữa ăn và đảm bảo kết quả tối ưu cho nhiều loại món ăn khác nhau.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Tìm kiếm thành phần hoặc món ăn",
+    "CL_DV_OV_browse_all_auto_programs": "Duyệt tất cả các Chương trình Tự động"
 }

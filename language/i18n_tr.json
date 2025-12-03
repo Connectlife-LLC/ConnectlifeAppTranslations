@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maksimum İç Mekan Sıcaklığı",
     "CL_AC_dr_rate_power": "Nominal yük gücü",
     "CL_AC_demand_subtitle": "Şebeke kararlılığını desteklemek için soğutmayı otomatik olarak optimize eder.",
-    "CL_DV_EY_self_sufficient": "Kendi kendine yeten",
     "CL_AC_comfort_auto_des": "Oda sıcaklığı 30°C'nin üzerine çıktığında otomatik olarak soğutmaya, 14°C'nin altına düştüğünde ise ısıtmaya başlar.",
     "CL_AC_comfort_auto": "Konforlu Otomobil",
     "CL_MEAL_PLANNER_already_added": "Bu tarif bu yemeğe daha önce eklenmiş.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Egzoz",
     "CL_AI_response_error_tips": "Herhangi bir yanıt alınamadı. Lütfen talebinizi tekrar deneyin.",
     "CL_AI_guide_assistant_new_step_tips": "Bu arada, <b>otomasyon</b> üst gezinme çubuğuna taşındı.",
-    "CL_CS_WM_wizard_tip": "Aşağıda, verdiğiniz yanıtlara göre önerilen program ve ayarlar yer almaktadır. Çamaşırları makinenize yükleyin ve yıkama işlemini başlatmak için \"BAŞLA\"a tıklayın."
+    "CL_CS_WM_wizard_tip": "Aşağıda, verdiğiniz yanıtlara göre önerilen program ve ayarlar yer almaktadır. Çamaşırları makinenize yükleyin ve yıkama işlemini başlatmak için \"BAŞLA\"a tıklayın.",
+    "CL_DV_EY_date_to": "ile",
+    "CL_DV_EY_self_self_sufficiency": "Kendi kendine yeterlilik",
+    "CL_DV_OV_auto_programs_des": "Önceden tanımlanmış otomatik programlar, yemek hazırlamayı kolaylaştırır ve çeşitli yemek türleri için en iyi sonuçları garantiler.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Malzeme veya yemek arayın",
+    "CL_DV_OV_browse_all_auto_programs": "Tüm Otomatik Programlara Göz Atın"
 }

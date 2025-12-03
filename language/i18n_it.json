@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Temperatura interna massima",
     "CL_AC_dr_rate_power": "Potenza nominale del carico",
     "CL_AC_demand_subtitle": "Ottimizza automaticamente il raffreddamento per supportare la stabilità della rete.",
-    "CL_DV_EY_self_sufficient": "Autosufficiente",
     "CL_AC_comfort_auto_des": "Avvia automaticamente il raffreddamento quando la temperatura ambiente supera i 30°C e il riscaldamento quando scende sotto i 14°C.",
     "CL_AC_comfort_auto": "Comfort Auto",
     "CL_MEAL_PLANNER_already_added": "Questa ricetta è già stata aggiunta a questo pasto.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Scarico",
     "CL_AI_response_error_tips": "Nessuna risposta ricevuta. Riprova a inviare la tua richiesta.",
     "CL_AI_guide_assistant_new_step_tips": "A proposito, il <b>automazione</b> è stato spostato nella barra di navigazione superiore.",
-    "CL_CS_WM_wizard_tip": "Di seguito sono riportati il programma e le impostazioni suggeriti in base alle tue risposte. Carica i vestiti nella lavatrice e clicca su \"INIZIA\" per avviare il ciclo."
+    "CL_CS_WM_wizard_tip": "Di seguito sono riportati il programma e le impostazioni suggeriti in base alle tue risposte. Carica i vestiti nella lavatrice e clicca su \"INIZIA\" per avviare il ciclo.",
+    "CL_DV_EY_date_to": "a",
+    "CL_DV_EY_self_self_sufficiency": "Autosufficienza",
+    "CL_DV_OV_auto_programs_des": "Una serie di programmi automatici predefiniti semplifica la preparazione dei pasti e garantisce risultati ottimali per vari tipi di pietanze.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Cerca ingrediente o piatto",
+    "CL_DV_OV_browse_all_auto_programs": "Sfoglia tutti i programmi automatici"
 }

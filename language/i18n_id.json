@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Suhu Maksimum Dalam Ruangan",
     "CL_AC_dr_rate_power": "Daya beban terukur",
     "CL_AC_demand_subtitle": "Secara otomatis mengoptimalkan pendinginan untuk mendukung stabilitas jaringan.",
-    "CL_DV_EY_self_sufficient": "Mandiri",
     "CL_AC_comfort_auto_des": "Secara otomatis mulai mendinginkan saat suhu ruangan melebihi 30°C, dan memanaskan saat suhu turun di bawah 14°C.",
     "CL_AC_comfort_auto": "Kenyamanan Otomatis",
     "CL_MEAL_PLANNER_already_added": "Resep ini sudah ditambahkan ke makanan ini.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Knalpot",
     "CL_AI_response_error_tips": "Tidak ada respons yang diterima. Silakan coba lagi permintaan Anda.",
     "CL_AI_guide_assistant_new_step_tips": "Ngomong-ngomong, <b>otomatisasi</b> telah dipindahkan ke bilah navigasi atas.",
-    "CL_CS_WM_wizard_tip": "Berikut adalah program dan pengaturan yang disarankan berdasarkan jawaban Anda. Masukkan pakaian ke dalam mesin cuci Anda dan klik \"MULAI\" untuk memulai siklus Anda."
+    "CL_CS_WM_wizard_tip": "Berikut adalah program dan pengaturan yang disarankan berdasarkan jawaban Anda. Masukkan pakaian ke dalam mesin cuci Anda dan klik \"MULAI\" untuk memulai siklus Anda.",
+    "CL_DV_EY_date_to": "ke",
+    "CL_DV_EY_self_self_sufficiency": "Kemandirian",
+    "CL_DV_OV_auto_programs_des": "Serangkaian program otomatis yang telah ditentukan sebelumnya menyederhanakan persiapan makanan dan memastikan hasil optimal untuk berbagai jenis hidangan.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Cari bahan atau hidangan",
+    "CL_DV_OV_browse_all_auto_programs": "Telusuri semua Program Otomatis"
 }

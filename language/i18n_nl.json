@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maximale binnentemperatuur",
     "CL_AC_dr_rate_power": "Nominaal belastingsvermogen",
     "CL_AC_demand_subtitle": "Optimaliseert automatisch de koeling om de stabiliteit van het netwerk te ondersteunen.",
-    "CL_DV_EY_self_sufficient": "Zelfvoorzienend",
     "CL_AC_comfort_auto_des": "Begint automatisch te koelen wanneer de kamertemperatuur hoger is dan 30°C en te verwarmen wanneer de temperatuur onder de 14°C daalt.",
     "CL_AC_comfort_auto": "Comfort Auto",
     "CL_MEAL_PLANNER_already_added": "Dit recept is al aan deze maaltijd toegevoegd.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Uitlaat",
     "CL_AI_response_error_tips": "Geen reactie ontvangen. Probeer het opnieuw.",
     "CL_AI_guide_assistant_new_step_tips": "Trouwens, de <b>automatisering</b> is verplaatst naar de bovenste navigatiebalk.",
-    "CL_CS_WM_wizard_tip": "Hieronder vindt u het voorgestelde programma en de instellingen op basis van uw antwoorden. Doe de kleding in uw wasmachine en klik op \"START\" om de cyclus te starten."
+    "CL_CS_WM_wizard_tip": "Hieronder vindt u het voorgestelde programma en de instellingen op basis van uw antwoorden. Doe de kleding in uw wasmachine en klik op \"START\" om de cyclus te starten.",
+    "CL_DV_EY_date_to": "tot",
+    "CL_DV_EY_self_self_sufficiency": "Zelfredzaamheid",
+    "CL_DV_OV_auto_programs_des": "Een reeks vooraf gedefinieerde automatische programma's vereenvoudigen de maaltijdbereiding en zorgen voor optimale resultaten bij verschillende soorten gerechten.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Zoek op ingrediënt of gerecht",
+    "CL_DV_OV_browse_all_auto_programs": "Blader door alle automatische programma's"
 }

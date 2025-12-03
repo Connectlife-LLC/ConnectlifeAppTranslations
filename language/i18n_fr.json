@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Température intérieure maximale",
     "CL_AC_dr_rate_power": "Puissance nominale",
     "CL_AC_demand_subtitle": "Optimise automatiquement le refroidissement pour assurer la stabilité du réseau.",
-    "CL_DV_EY_self_sufficient": "Autosuffisant",
     "CL_AC_comfort_auto_des": "Le refroidissement se met automatiquement en marche lorsque la température ambiante dépasse 30 °C, et le chauffage lorsqu'elle descend en dessous de 14 °C.",
     "CL_AC_comfort_auto": "Voiture de confort",
     "CL_MEAL_PLANNER_already_added": "Cette recette a déjà été ajoutée à ce repas.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Échappement",
     "CL_AI_response_error_tips": "Aucune réponse reçue. Veuillez réessayer votre demande.",
     "CL_AI_guide_assistant_new_step_tips": "Au fait, le <b>automation</b> a été déplacé dans la barre de navigation supérieure.",
-    "CL_CS_WM_wizard_tip": "Voici le programme et les paramètres suggérés en fonction de vos réponses. Chargez le linge dans votre machine et cliquez sur « DEMARRER » pour lancer le cycle."
+    "CL_CS_WM_wizard_tip": "Voici le programme et les paramètres suggérés en fonction de vos réponses. Chargez le linge dans votre machine et cliquez sur « DEMARRER » pour lancer le cycle.",
+    "CL_DV_EY_date_to": "à",
+    "CL_DV_EY_self_self_sufficiency": "Autosuffisance",
+    "CL_DV_OV_auto_programs_des": "Un ensemble de programmes automatiques prédéfinis simplifie la préparation des repas et garantit des résultats optimaux pour différents types de plats.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Rechercher un ingrédient ou un plat",
+    "CL_DV_OV_browse_all_auto_programs": "Parcourir tous les programmes automobiles"
 }

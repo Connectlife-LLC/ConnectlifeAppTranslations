@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Temperatura maximă interioară",
     "CL_AC_dr_rate_power": "Putere nominală de sarcină",
     "CL_AC_demand_subtitle": "Optimizează automat răcirea pentru a susține stabilitatea rețelei.",
-    "CL_DV_EY_self_sufficient": "Autosuficient",
     "CL_AC_comfort_auto_des": "Pornește automat răcirea când temperatura camerei depășește 30°C și încălzirea când scade sub 14°C.",
     "CL_AC_comfort_auto": "Confort Auto",
     "CL_MEAL_PLANNER_already_added": "Această rețetă a fost deja adăugată la această masă.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Epuiza",
     "CL_AI_response_error_tips": "Nu s-a primit niciun răspuns. Vă rugăm să încercați din nou solicitarea.",
     "CL_AI_guide_assistant_new_step_tips": "Apropo, <b>automatizare</b> a fost mutat în bara de navigare superioară.",
-    "CL_CS_WM_wizard_tip": "Mai jos găsiți programul și setările sugerate, bazate pe răspunsurile dvs. Introduceți hainele în mașina de spălat și faceți clic pe „START” pentru a porni ciclul."
+    "CL_CS_WM_wizard_tip": "Mai jos găsiți programul și setările sugerate, bazate pe răspunsurile dvs. Introduceți hainele în mașina de spălat și faceți clic pe „START” pentru a porni ciclul.",
+    "CL_DV_EY_date_to": "la",
+    "CL_DV_EY_self_self_sufficiency": "Autosuficiență",
+    "CL_DV_OV_auto_programs_des": "Un set de programe automate predefinite simplifică prepararea meselor și asigură rezultate optime pentru diverse tipuri de preparate.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Caută ingredient sau preparat",
+    "CL_DV_OV_browse_all_auto_programs": "Răsfoiți toate programele auto"
 }

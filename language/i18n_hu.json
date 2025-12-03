@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maximális beltéri hőmérséklet",
     "CL_AC_dr_rate_power": "Névleges terhelési teljesítmény",
     "CL_AC_demand_subtitle": "Automatikusan optimalizálja a hűtést a hálózat stabilitásának támogatása érdekében.",
-    "CL_DV_EY_self_sufficient": "Önellátó",
     "CL_AC_comfort_auto_des": "Automatikusan hűtésre kapcsol, amikor a szoba hőmérséklete meghaladja a 30°C-ot, fűtésre, amikor 14°C alá csökken.",
     "CL_AC_comfort_auto": "Komfort Auto",
     "CL_MEAL_PLANNER_already_added": "Ez a recept már hozzáadódott ehhez az ételhez.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Kipufogó",
     "CL_AI_response_error_tips": "Nem érkezett válasz. Kérjük, próbálja meg újra a kérését.",
     "CL_AI_guide_assistant_new_step_tips": "Egyébként, a <b>automatizálás</b> átkerült a felső navigációs sávba.",
-    "CL_CS_WM_wizard_tip": "Az alábbiakban a válaszaidon alapuló javasolt programot és beállításokat találod. Tedd be a ruhákat a mosógépbe, és kattints a \"START\" gombra a ciklus elindításához."
+    "CL_CS_WM_wizard_tip": "Az alábbiakban a válaszaidon alapuló javasolt programot és beállításokat találod. Tedd be a ruhákat a mosógépbe, és kattints a \"START\" gombra a ciklus elindításához.",
+    "CL_DV_EY_date_to": "nak nek",
+    "CL_DV_EY_self_self_sufficiency": "Önellátás",
+    "CL_DV_OV_auto_programs_des": "Az előre meghatározott automatikus programok leegyszerűsítik az ételkészítést és optimális eredményeket biztosítanak a különféle ételek esetében.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Hozzávaló vagy étel keresése",
+    "CL_DV_OV_browse_all_auto_programs": "Böngésszen az összes autóprogram között"
 }

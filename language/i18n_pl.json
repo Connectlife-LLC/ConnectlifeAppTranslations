@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maksymalna temperatura wewnętrzna",
     "CL_AC_dr_rate_power": "Moc znamionowa obciążenia",
     "CL_AC_demand_subtitle": "Automatycznie optymalizuje chłodzenie, aby zapewnić stabilność sieci.",
-    "CL_DV_EY_self_sufficient": "Samowystarczalny",
     "CL_AC_comfort_auto_des": "Automatycznie rozpoczyna chłodzenie, gdy temperatura w pomieszczeniu przekroczy 30°C, i grzanie, gdy spadnie poniżej 14°C.",
     "CL_AC_comfort_auto": "Komfort Auto",
     "CL_MEAL_PLANNER_already_added": "Ten przepis został już dodany do tego posiłku.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Wydechowy",
     "CL_AI_response_error_tips": "Nie otrzymano odpowiedzi. Spróbuj wysłać zapytanie ponownie.",
     "CL_AI_guide_assistant_new_step_tips": "A tak przy okazji, <b>automatyzacja</b> został przeniesiony na górny pasek nawigacyjny.",
-    "CL_CS_WM_wizard_tip": "Poniżej znajduje się sugerowany program i ustawienia oparte na Twoich odpowiedziach. Włóż ubrania do pralki i kliknij „URUCHOM”, aby rozpocząć cykl prania."
+    "CL_CS_WM_wizard_tip": "Poniżej znajduje się sugerowany program i ustawienia oparte na Twoich odpowiedziach. Włóż ubrania do pralki i kliknij „URUCHOM”, aby rozpocząć cykl prania.",
+    "CL_DV_EY_date_to": "do",
+    "CL_DV_EY_self_self_sufficiency": "Samowystarczalność",
+    "CL_DV_OV_auto_programs_des": "Zestaw predefiniowanych programów automatycznych ułatwia przygotowywanie posiłków i gwarantuje optymalne rezultaty dla różnych typów potraw.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Wyszukaj składnik lub potrawę",
+    "CL_DV_OV_browse_all_auto_programs": "Przeglądaj wszystkie programy automatyczne"
 }
