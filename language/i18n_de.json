@@ -2738,7 +2738,6 @@
     "next_step": "NÄCHSTER SCHRITT",
     "rf_start_convert_250": "Sie haben die Konvertierung gestartet, der Gefrierschrank verwandelt sich in eine Smart Zone mit einer Temperatur von 0 °C; der Kühlschrank verwandelt sich in eine Temperatur von 4 °C. Achten Sie bitte auf die Lagerung der Lebensmittel.",
     "rf_start_convert_213": "Der Konvertierungsmodus ist aktiviert. Der Gefrierschrank befindet sich nun in der Smart Zone bei 0 °C, der Kühlschrank bei 4 °C. Bitte überprüfen Sie die Lagerung Ihrer Lebensmittel.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Der Konvertierungsmodus ist deaktiviert. Die Smart Zone schaltet wieder auf -18 °C in den Gefrierschrank. Bitte überprüfen Sie die eingelagerten Lebensmittel.",
     "unfold_zone": "Alle Zonen aufklappen",
     "fold_zone": "alle Zonen zusammenklappen",
@@ -5545,7 +5544,7 @@
     "CL_CF_HP_blue_permission_off_content_ios": "ConnectLife benötigt Bluetooth-Berechtigungen, um eine Verbindung herzustellen und Gerätepositionen zu bestimmen. Aktivieren Sie diese in den Einstellungen Ihres Telefons, um die volle Funktionalität zu gewährleisten.",
     "CL_CF_name_not_more_25_length": "Die maximale Länge des Gerätenamens beträgt 25 Zeichen",
     "new_chat": "Neuer Chat",
-    "search_for": "Suchen nach...",
+    "search_for": "Suchen",
     "CL_GOOGLE_connectLife_appliance": "ConnectLife-kompatibles Gerät",
     "CL_GOOGLE_matter_device": "Matter-fähiges Gerät",
     "CL_GOOGLE_google_home_device": "Entdecken Sie Google Home-Geräte",
@@ -5892,7 +5891,7 @@
     "CL_DISH_DESIGNER_filter_recipes": "Rezepte filtern",
     "Effort": "Bemühung",
     "Ingredients": "Zutaten",
-    "Cuisine": "Küche",
+    "Cuisine": "Landesküche",
     "Taste": "Geschmak",
     "Diet, allergies": "Ernährung, Allergien",
     "CL_DISH_DESIGNER_show_less_filters": "Weniger Filter anzeigen",
@@ -7067,7 +7066,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Wählen Sie das Gerät, mit dem Sie kochen möchten. Wenn Sie keine Auswahl treffen, werden Ihnen Rezepte vorgeschlagen, die sowohl für Backofen als auch für Herdplatte geeignet sind. Wenn Sie ein Gerät auswählen, werden Ihnen nur Rezepte für dieses Gerät angezeigt.",
     "breakfast": "Frühstück",
     "lunch": "Mittagessen",
-    "dinner": "",
     "starter": "Anlasser",
     "main": "hauptsächlich",
     "side": "Seite",
@@ -7250,5 +7248,6 @@
     "CL_DV_HD_exhaust": "Auspuff",
     "CL_AI_response_error_tips": "Es wurde keine Antwort empfangen. Bitte versuchen Sie Ihre Anfrage erneut.",
     "CL_AI_guide_assistant_new_step_tips": "Übrigens, die <b>Automatisierung</b> wurde in die obere Navigationsleiste verschoben.",
-    "CL_CS_WM_wizard_tip": "Nachfolgend finden Sie das Programm und die Einstellungen, die auf Ihren Antworten basieren. Legen Sie die Wäsche in Ihre Maschine und klicken Sie auf „START“, um den Waschgang zu starten."
+    "CL_CS_WM_wizard_tip": "Nachfolgend finden Sie das Programm und die Einstellungen, die auf Ihren Antworten basieren. Legen Sie die Wäsche in Ihre Maschine und klicken Sie auf „START“, um den Waschgang zu starten.",
+    "CL_DV_EY_date_to": "zu"
 }

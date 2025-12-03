@@ -2738,7 +2738,6 @@
     "next_step": "PRÓXIMO PASSO",
     "rf_start_convert_250": "Iniciou a opção de Converter, o congelador vai passar para uma Smart Zone com temperatura de 0 ℃; o frigorífico vai passar para 4 ℃, preste atenção ao armazenamento dos alimentos.",
     "rf_start_convert_213": "O modo de conversão foi ativado. O congelador agora está na Zona Inteligente a 0°C; o refrigerador a 4°C. Verifique o armazenamento dos alimentos.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "O modo de conversão foi desativado. A Zona Inteligente retorna ao congelador a -18°C. Verifique o armazenamento dos alimentos.",
     "unfold_zone": "desdobrar todas as zonas",
     "fold_zone": "dobrar todas as zonas",
@@ -7067,7 +7066,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Escolha o eletrodoméstico que deseja usar para cozinhar. Se nenhuma seleção for feita, serão sugeridas receitas que funcionam tanto no forno quanto no fogão. Selecionar um eletrodoméstico limitará as receitas apenas àquele que você escolheu.",
     "breakfast": "café da manhã",
     "lunch": "almoço",
-    "dinner": "",
     "starter": "iniciante",
     "main": "principal",
     "side": "lado",
@@ -7250,5 +7248,6 @@
     "CL_DV_HD_exhaust": "Escape",
     "CL_AI_response_error_tips": "Nenhuma resposta recebida. Por favor, tente novamente.",
     "CL_AI_guide_assistant_new_step_tips": "Aliás, o <b>automação</b> Foi movido para a barra de navegação superior.",
-    "CL_CS_WM_wizard_tip": "Abaixo, você encontrará o programa e as configurações sugeridas com base nas suas respostas. Coloque as roupas na máquina e clique em \"INICIAR\" para começar o ciclo."
+    "CL_CS_WM_wizard_tip": "Abaixo, você encontrará o programa e as configurações sugeridas com base nas suas respostas. Coloque as roupas na máquina e clique em \"INICIAR\" para começar o ciclo.",
+    "CL_DV_EY_date_to": "para"
 }

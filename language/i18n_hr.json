@@ -2738,7 +2738,6 @@
     "next_step": "SLJEDEĆI KORAK",
     "rf_start_convert_250": "Imate start Convert, zamrzivač će se pretvoriti u Pametnu zonu s temperaturom od 0 °C; hladnjak će se pretvoriti u 4 °C. Obratite pozornost na skladištenje hrane.",
     "rf_start_convert_213": "Način pretvaranja omogućen. Zamrzivač je sada Smart Zone na 0°C; Hladnjak na 4°C. Molimo provjerite skladištenje hrane.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Način pretvaranja onemogućen. Pametna zona se vraća u zamrzivač na -18°C. Provjerite skladištenje hrane.",
     "unfold_zone": "Otvori sve zone",
     "fold_zone": "Preklopi sve zone",
@@ -7067,7 +7066,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Odaberite uređaj s kojim želite kuhati. Ako ne odaberete ništa, predložit će se recepti koji rade i s pećnicom i s pločom za kuhanje. Odabirom jednog ograničit ćete recepte samo na taj uređaj.",
     "breakfast": "doručak",
     "lunch": "ručak",
-    "dinner": "",
     "starter": "starter",
     "main": "glavni",
     "side": "strana",
@@ -7250,5 +7248,6 @@
     "CL_DV_HD_exhaust": "Ispušni",
     "CL_AI_response_error_tips": "Nije primljen odgovor. Pokušajte ponovno poslati zahtjev.",
     "CL_AI_guide_assistant_new_step_tips": "Usput, <b>automatizacija</b> premješteno je na gornju navigacijsku traku.",
-    "CL_CS_WM_wizard_tip": "U nastavku je predloženi program i postavke na temelju vaših odgovora. Stavite odjeću u perilicu i kliknite \"POKRENI\" za početak ciklusa."
+    "CL_CS_WM_wizard_tip": "U nastavku je predloženi program i postavke na temelju vaših odgovora. Stavite odjeću u perilicu i kliknite \"POKRENI\" za početak ciklusa.",
+    "CL_DV_EY_date_to": "na"
 }
