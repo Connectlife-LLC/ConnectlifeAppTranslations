@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maksymalna temperatura wewnętrzna",
     "CL_AC_dr_rate_power": "Moc znamionowa obciążenia",
     "CL_AC_demand_subtitle": "Automatycznie optymalizuje chłodzenie, aby zapewnić stabilność sieci.",
-    "CL_DV_EY_self_sufficient": "Samowystarczalny",
     "CL_AC_comfort_auto_des": "Automatycznie rozpoczyna chłodzenie, gdy temperatura w pomieszczeniu przekroczy 30°C, i grzanie, gdy spadnie poniżej 14°C.",
     "CL_AC_comfort_auto": "Komfort Auto",
     "CL_MEAL_PLANNER_already_added": "Ten przepis został już dodany do tego posiłku.",
@@ -7099,7 +7098,6 @@
     "CL_CF_CS_wm_g600_p_step_2": "Kliknij i przytrzymaj ikonę „OK” przez 6 sekund, aż pojawi się PAr. \n Urządzenie będzie teraz gotowe do sparowania przez 3 minuty. \n Kliknij DALEJ, aby kontynuować.",
     "CL_DV_LRC_descaling_in_progress": "Trwa odkamienianie",
     "CL_DV_LRC_descaling_desc": "Proszę postępować zgodnie z instrukcjami wyświetlanymi na wyświetlaczu Państwa szafki z napojami i przekąskami.",
-    "CL_AI_wm_troubleshooting": "Rozwiązywanie problemów WM",
     "CL_AI_history_empty": "Brak historii",
     "CL_AI_history_empty_tips": "Historia czatów będzie wyświetlana tutaj po pierwszej rozmowie",
     "CL_AI_troubleshooting_guide_tips": "Potrzebujesz pomocy w obsłudze urządzenia lub rozwiązaniu problemu? To właściwe miejsce. Pomogę Ci, udzielając wskazówek i udzielając wsparcia, jeśli coś nie działa zgodnie z oczekiwaniami.",
@@ -7116,7 +7114,6 @@
     "CL_AI_program_type_wash_title": "Najlepszy program do tego prania to:",
     "CL_AI_program_type_dry_title": "Najlepszy program dla tej suszarki to:",
     "CL_AI_program_favorites_saved": "Program zapisany w ulubionych.",
-    "CL_AI_oven_troubleshooting": "Rozwiązywanie problemów z piekarnikiem",
     "CL_AI_suggestion_wash_program": "Najlepszy program prania",
     "CL_AI_suggestion_wash_program_desc": "Pomóż mi wybrać odpowiedni program prania.",
     "CL_AI_suggestion_eco_washing": "Ekologiczne pranie",
@@ -7250,5 +7247,12 @@
     "CL_DV_HD_exhaust": "Wydechowy",
     "CL_AI_response_error_tips": "Nie otrzymano odpowiedzi. Spróbuj wysłać zapytanie ponownie.",
     "CL_AI_guide_assistant_new_step_tips": "A tak przy okazji, <b>automatyzacja</b> został przeniesiony na górny pasek nawigacyjny.",
-    "CL_CS_WM_wizard_tip": "Poniżej znajduje się sugerowany program i ustawienia oparte na Twoich odpowiedziach. Włóż ubrania do pralki i kliknij „URUCHOM”, aby rozpocząć cykl prania."
+    "CL_CS_WM_wizard_tip": "Poniżej znajduje się sugerowany program i ustawienia oparte na Twoich odpowiedziach. Włóż ubrania do pralki i kliknij „URUCHOM”, aby rozpocząć cykl prania.",
+    "CL_DV_EY_date_to": "do",
+    "CL_DV_EY_self_self_sufficiency": "Samowystarczalność",
+    "CL_DV_OV_auto_programs_des": "Zestaw predefiniowanych programów automatycznych ułatwia przygotowywanie posiłków i gwarantuje optymalne rezultaty dla różnych typów potraw.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Wyszukaj składnik lub potrawę",
+    "CL_DV_OV_browse_all_auto_programs": "Przeglądaj wszystkie programy automatyczne",
+    "CL_AI_oven_troubleshoot": "Rozwiązywanie problemów z piekarnikiem",
+    "CL_AI_wm_troubleshoot": "Rozwiązywanie problemów WM"
 }
