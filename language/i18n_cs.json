@@ -2738,7 +2738,6 @@
     "next_step": "DALŠÍ KROK",
     "rf_start_convert_250": "Spustili jste Převést, mraznička se přemění na chytrou zónu s teplotou 0℃; chladnička se přemění na 4℃, věnujte prosím pozornost skladování potravin.",
     "rf_start_convert_213": "Režim převodu je povolen. Mraznička je nyní v režimu Smart Zone na 0 °C; chladnička na 4 °C. Zkontrolujte prosím skladování potravin.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Režim převodu je zakázán. Chytrá zóna se vrátí do mrazničky při -18 °C. Zkontrolujte prosím skladování potravin.",
     "unfold_zone": "rozvinout všechny zóny",
     "fold_zone": "přeložte všechny zóny",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Vyberte spotřebič, se kterým chcete vařit. Pokud neprovedete žádný výběr, budou navrženy recepty, které jsou kompatibilní s troubou i varnou deskou. Výběrem jednoho spotřebiče se recepty omezí pouze na daný spotřebič.",
     "breakfast": "snídaně",
     "lunch": "oběd",
-    "dinner": "",
     "starter": "startér",
     "main": "hlavní",
     "side": "strana",
@@ -7254,5 +7252,7 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Hledat ingredienci nebo pokrm",
     "CL_DV_OV_browse_all_auto_programs": "Procházet všechny automatické programy",
     "CL_AI_oven_troubleshoot": "Řešení problémů s troubou",
-    "CL_AI_wm_troubleshoot": "Řešení problémů s WM"
+    "CL_AI_wm_troubleshoot": "Řešení problémů s WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Vyberte ingredience",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Vyberte ingredience, které lze v receptu použít. Z tohoto výběru Dish Designer použije ty, které vám chutnají společně, k vytvoření receptu."
 }

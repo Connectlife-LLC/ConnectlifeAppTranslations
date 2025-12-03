@@ -2738,7 +2738,6 @@
     "next_step": "NASTĘPNY KROK",
     "rf_start_convert_250": "Rozpocząłeś konwersję, zamrażarka przekształci się w inteligentną strefę z temperaturą 0 ℃; lodówka zmieni temperaturę na 4℃, proszę zwrócić uwagę na przechowywanie żywności.",
     "rf_start_convert_213": "Tryb konwersji włączony. Zamrażarka jest teraz w strefie Smart Zone z temperaturą 0°C; lodówka z temperaturą 4°C. Proszę sprawdzić przechowywanie żywności.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Tryb konwersji wyłączony. Strefa Smart powraca do zamrażarki przy temperaturze -18°C. Sprawdź, czy przechowujesz żywność.",
     "unfold_zone": "rozwiń wszystkie strefy",
     "fold_zone": "złóż wszystkie strefy",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Wybierz urządzenie, na którym chcesz gotować. Jeśli nie dokonasz wyboru, zasugerowane zostaną przepisy, które działają zarówno z piekarnikiem, jak i płytą grzewczą. Wybranie jednego urządzenia ograniczy przepisy tylko do tego urządzenia.",
     "breakfast": "śniadanie",
     "lunch": "obiad",
-    "dinner": "",
     "starter": "rozrusznik",
     "main": "główny",
     "side": "strona",
@@ -7254,5 +7252,7 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Wyszukaj składnik lub potrawę",
     "CL_DV_OV_browse_all_auto_programs": "Przeglądaj wszystkie programy automatyczne",
     "CL_AI_oven_troubleshoot": "Rozwiązywanie problemów z piekarnikiem",
-    "CL_AI_wm_troubleshoot": "Rozwiązywanie problemów WM"
+    "CL_AI_wm_troubleshoot": "Rozwiązywanie problemów WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Wybierz składniki",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Wybierz składniki, które mogą zostać użyte w przepisie. Z tego wyboru Dish Designer wybierze te, które dobrze ze sobą współgrają, aby stworzyć przepis."
 }

@@ -2738,7 +2738,6 @@
     "next_step": "השלב הבא",
     "rf_start_convert_250": "התחלת להמיר, המקפיא יהפוך ל-Smart Zone עם טמפרטורה של 0℃; המקרר יהפוך ל-4℃, אנא שימו לב לאחסון המזון.",
     "rf_start_convert_213": "מצב המרה מופעל. המקפיא כעת במצב Smart Zone ב-0°C; המקרר ב-4°C. אנא בדוק את אחסון המזון.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "מצב המרה מושבת. האזור החכם חוזר למקפיא ב-18°C-. אנא בדוק את אחסון המזון.",
     "unfold_zone": "לפרוש את כל האזורים",
     "fold_zone": "לקפל את כל האזורים",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "בחרו את המכשיר שברצונכם לבשל איתו. אם לא תתבצע בחירה, יוצעו מתכונים שמתאימים גם לתנור וגם לכיריים. בחירת אחד מהם תגביל את המתכונים למכשיר זה בלבד.",
     "breakfast": "ארוחת בוקר",
     "lunch": "אֲרוּחַת צָהֳרִים",
-    "dinner": "",
     "starter": "מַתנֵעַ",
     "main": "רָאשִׁי",
     "side": "צַד",
@@ -7254,5 +7252,7 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "חיפוש מרכיב או מנה",
     "CL_DV_OV_browse_all_auto_programs": "עיין בכל תוכניות הרכב",
     "CL_AI_oven_troubleshoot": "פתרון בעיות בתנור",
-    "CL_AI_wm_troubleshoot": "פתרון בעיות WM"
+    "CL_AI_wm_troubleshoot": "פתרון בעיות WM",
+    "CL_DISH_DESIGNER_select_ingredients": "בחר מרכיבים",
+    "CL_DISH_DESIGNER_select_ingredients_des": "בחרו מרכיבים שניתן להשתמש בהם במתכון. מתוך בחירה זו, מעצב המנה ישתמש במרכיבים הטעימים יחד כדי ליצור את המתכון."
 }

@@ -2738,7 +2738,6 @@
     "next_step": "下一步",
     "rf_start_convert_250": "您已启动Convert，冷冻室将会转变为Smart Zone，温度转变为0℃；冷藏室温度将转变为4℃，请注意食材存放位置是否合理。",
     "rf_start_convert_213": "转换模式已启用。冷冻室现为智能温区，温度设定为 0°C；冷藏室温度设定为 4°C。请检查食物储存情况。",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "转换模式已禁用。智能区将恢复至-18°C冷冻状态。请检查食物储存情况。",
     "unfold_zone": "展开所有分区",
     "fold_zone": "折叠所有分区",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "选择您想使用的烹饪器具。如果未选择，系统将推荐适用于烤箱和炉灶的食谱。选择一种器具后，食谱将仅限于该器具。",
     "breakfast": "早餐",
     "lunch": "午餐",
-    "dinner": "",
     "starter": "起动机",
     "main": "主要的",
     "side": "边",
@@ -7254,5 +7252,7 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "搜索食材或菜肴",
     "CL_DV_OV_browse_all_auto_programs": "浏览所有汽车程序",
     "CL_AI_oven_troubleshoot": "烤箱故障排除",
-    "CL_AI_wm_troubleshoot": "WM故障排除"
+    "CL_AI_wm_troubleshoot": "WM故障排除",
+    "CL_DISH_DESIGNER_select_ingredients": "精选食材",
+    "CL_DISH_DESIGNER_select_ingredients_des": "选择食谱中可能用到的食材。菜品设计师会从这些食材中选择搭配起来味道不错的食材来制作这道菜。"
 }
