@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Sisälämpötilan enimmäisarvo",
     "CL_AC_dr_rate_power": "Nimelliskuormitusteho",
     "CL_AC_demand_subtitle": "Optimoi automaattisesti jäähdytyksen tukeakseen verkon vakautta.",
-    "CL_DV_EY_self_sufficient": "Omavarainen",
     "CL_AC_comfort_auto_des": "Jäähdytys käynnistyy automaattisesti, kun huonelämpötila ylittää 30 °C, ja lämmitys, kun se laskee alle 14 °C.",
     "CL_AC_comfort_auto": "Comfort Auto",
     "CL_MEAL_PLANNER_already_added": "Tämä resepti on jo lisätty tähän ateriaan.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Pakoputki",
     "CL_AI_response_error_tips": "Ei vastausta. Yritä pyyntöäsi uudelleen.",
     "CL_AI_guide_assistant_new_step_tips": "Muuten, <b>automaatio</b> on siirretty ylänavigointipalkkiin.",
-    "CL_CS_WM_wizard_tip": "Alla on ehdotus ohjelmasta ja asetuksista vastauksiisi perustuen. Laita vaatteet koneeseen ja käynnistä pesuohjelma napsauttamalla \"ALOITUS\"."
+    "CL_CS_WM_wizard_tip": "Alla on ehdotus ohjelmasta ja asetuksista vastauksiisi perustuen. Laita vaatteet koneeseen ja käynnistä pesuohjelma napsauttamalla \"ALOITUS\".",
+    "CL_DV_EY_date_to": "to",
+    "CL_DV_EY_self_self_sufficiency": "Omavaraisuus",
+    "CL_DV_OV_auto_programs_des": "Joukko ennalta määritettyjä automaattisia ohjelmia yksinkertaistaa ruoanlaittoa ja varmistaa optimaaliset tulokset erilaisille ruokalajeille.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Hae ainesosaa tai ruokaa",
+    "CL_DV_OV_browse_all_auto_programs": "Selaa kaikkia auto-ohjelmia"
 }

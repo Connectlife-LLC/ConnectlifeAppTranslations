@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maksimal indendørstemperatur",
     "CL_AC_dr_rate_power": "Nominel belastningseffekt",
     "CL_AC_demand_subtitle": "Optimerer automatisk køling for at understøtte netstabilitet.",
-    "CL_DV_EY_self_sufficient": "Selvforsynende",
     "CL_AC_comfort_auto_des": "Starter automatisk køling, når rumtemperaturen overstiger 30°C, og opvarmning, når den falder til under 14°C.",
     "CL_AC_comfort_auto": "Komfort Auto",
     "CL_MEAL_PLANNER_already_added": "Denne opskrift er allerede blevet tilføjet til dette måltid.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Udstødning",
     "CL_AI_response_error_tips": "Intet svar modtaget. Prøv venligst at gentage din anmodning.",
     "CL_AI_guide_assistant_new_step_tips": "Forresten, den <b>automatisering</b> er blevet flyttet til den øverste navigationslinje.",
-    "CL_CS_WM_wizard_tip": "Nedenfor er det foreslåede program og indstillinger baseret på dine svar. Læg tøjet i din maskine, og klik på \"START\" for at starte dit program."
+    "CL_CS_WM_wizard_tip": "Nedenfor er det foreslåede program og indstillinger baseret på dine svar. Læg tøjet i din maskine, og klik på \"START\" for at starte dit program.",
+    "CL_DV_EY_date_to": "til",
+    "CL_DV_EY_self_self_sufficiency": "Selvforsyning",
+    "CL_DV_OV_auto_programs_des": "Et sæt foruddefinerede automatiske programmer forenkler tilberedningen af måltider og sikrer optimale resultater for forskellige typer retter.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Søg efter ingrediens eller ret",
+    "CL_DV_OV_browse_all_auto_programs": "Gennemse alle bilprogrammer"
 }

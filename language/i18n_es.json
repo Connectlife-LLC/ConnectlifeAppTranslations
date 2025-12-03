@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Temperatura interior máxima",
     "CL_AC_dr_rate_power": "Potencia de carga nominal",
     "CL_AC_demand_subtitle": "Optimiza automáticamente la refrigeración para favorecer la estabilidad de la red eléctrica.",
-    "CL_DV_EY_self_sufficient": "Autosuficiente",
     "CL_AC_comfort_auto_des": "Enciende automáticamente el sistema de refrigeración cuando la temperatura ambiente supera los 30 °C y el de calefacción cuando baja de los 14 °C.",
     "CL_AC_comfort_auto": "Comfort Auto",
     "CL_MEAL_PLANNER_already_added": "Esta receta ya se ha añadido a esta comida.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Escape",
     "CL_AI_response_error_tips": "No se ha recibido respuesta. Intente realizar su solicitud de nuevo.",
     "CL_AI_guide_assistant_new_step_tips": "Por cierto, el <b>automatización</b> se ha movido a la barra de navegación superior.",
-    "CL_CS_WM_wizard_tip": "A continuación, se muestra el programa y la configuración sugeridos según sus respuestas. Cargue la ropa en la lavadora y haga clic en \"EMPEZAR\" para iniciar el ciclo."
+    "CL_CS_WM_wizard_tip": "A continuación, se muestra el programa y la configuración sugeridos según sus respuestas. Cargue la ropa en la lavadora y haga clic en \"EMPEZAR\" para iniciar el ciclo.",
+    "CL_DV_EY_date_to": "a",
+    "CL_DV_EY_self_self_sufficiency": "Autosuficiencia",
+    "CL_DV_OV_auto_programs_des": "Un conjunto de programas automáticos predefinidos simplifican la preparación de comidas y garantizan resultados óptimos para distintos tipos de platos.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Buscar ingrediente o plato",
+    "CL_DV_OV_browse_all_auto_programs": "Explorar todos los programas de automóviles"
 }

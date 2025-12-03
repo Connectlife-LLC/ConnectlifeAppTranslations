@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maximal inomhustemperatur",
     "CL_AC_dr_rate_power": "Nominell lasteffekt",
     "CL_AC_demand_subtitle": "Optimerar automatiskt kylningen för att stödja nätstabilitet.",
-    "CL_DV_EY_self_sufficient": "Självförsörjande",
     "CL_AC_comfort_auto_des": "Startar automatiskt kylning när rumstemperaturen överstiger 30 °C och uppvärmning när den sjunker under 14 °C.",
     "CL_AC_comfort_auto": "Komfort Auto",
     "CL_MEAL_PLANNER_already_added": "Det här receptet har redan lagts till i den här måltiden.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Uttömma",
     "CL_AI_response_error_tips": "Inget svar mottaget. Försök igen med din begäran.",
     "CL_AI_guide_assistant_new_step_tips": "Förresten, den <b>automatisering</b> har flyttats till den övre navigeringsfältet.",
-    "CL_CS_WM_wizard_tip": "Nedan följer förslag på program och inställningar baserat på dina svar. Lägg kläderna i maskinen och klicka på \"BÖRJA\" för att starta programmet."
+    "CL_CS_WM_wizard_tip": "Nedan följer förslag på program och inställningar baserat på dina svar. Lägg kläderna i maskinen och klicka på \"BÖRJA\" för att starta programmet.",
+    "CL_DV_EY_date_to": "till",
+    "CL_DV_EY_self_self_sufficiency": "Självförsörjning",
+    "CL_DV_OV_auto_programs_des": "En uppsättning fördefinierade automatiska program förenklar matlagningen och säkerställer optimala resultat för olika typer av rätter.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Sök efter ingrediens eller rätt",
+    "CL_DV_OV_browse_all_auto_programs": "Bläddra bland alla bilprogram"
 }

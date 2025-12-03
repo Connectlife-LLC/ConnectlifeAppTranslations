@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maximální vnitřní teplota",
     "CL_AC_dr_rate_power": "Jmenovitý výkon zátěže",
     "CL_AC_demand_subtitle": "Automaticky optimalizuje chlazení pro podporu stability sítě.",
-    "CL_DV_EY_self_sufficient": "Soběstačný",
     "CL_AC_comfort_auto_des": "Automaticky spustí chlazení, když teplota v místnosti překročí 30 °C, a vytápění, když klesne pod 14 °C.",
     "CL_AC_comfort_auto": "Komfortní auto",
     "CL_MEAL_PLANNER_already_added": "Tento recept již byl k tomuto jídlu přidán.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Vyčerpat",
     "CL_AI_response_error_tips": "Nebyla přijata žádná odpověď. Zkuste prosím odeslat požadavek znovu.",
     "CL_AI_guide_assistant_new_step_tips": "Mimochodem, <b>automatizace</b> bylo přesunuto do horní navigační lišty.",
-    "CL_CS_WM_wizard_tip": "Níže je uveden návrh programu a nastavení na základě vašich odpovědí. Vložte prádlo do pračky a kliknutím na tlačítko „START“ spusťte cyklus."
+    "CL_CS_WM_wizard_tip": "Níže je uveden návrh programu a nastavení na základě vašich odpovědí. Vložte prádlo do pračky a kliknutím na tlačítko „START“ spusťte cyklus.",
+    "CL_DV_EY_date_to": "na",
+    "CL_DV_EY_self_self_sufficiency": "Soběstačnost",
+    "CL_DV_OV_auto_programs_des": "Sada předdefinovaných automatických programů zjednodušuje přípravu jídel a zajišťuje optimální výsledky pro různé druhy pokrmů.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Hledat ingredienci nebo pokrm",
+    "CL_DV_OV_browse_all_auto_programs": "Procházet všechny automatické programy"
 }

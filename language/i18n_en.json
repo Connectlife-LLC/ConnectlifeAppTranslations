@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maximum Indoor Temperature",
     "CL_AC_dr_rate_power": "Rated load power",
     "CL_AC_demand_subtitle": "Automatically optimizes cooling to support grid stability.",
-    "CL_DV_EY_self_sufficient": "Self-sufficient",
     "CL_AC_comfort_auto_des": "Automatically starts cooling when room temperature exceeds 30°C, and heating when it drops below 14°C.",
     "CL_AC_comfort_auto": "Comfort Auto",
     "CL_MEAL_PLANNER_already_added": "This recipe has already been added to this meal.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Exhaust",
     "CL_AI_response_error_tips": "No response received. Please try your request again.",
     "CL_AI_guide_assistant_new_step_tips": "By the way, the <b>automation</b> has been moved to the top navigation bar.",
-    "CL_CS_WM_wizard_tip": "Below is the suggest program and settings base on your answers. Load the clothes into your machine and click \"START\" to start your cycle."
+    "CL_CS_WM_wizard_tip": "Below is the suggest program and settings base on your answers. Load the clothes into your machine and click \"START\" to start your cycle.",
+    "CL_DV_EY_date_to": "to",
+    "CL_DV_EY_self_self_sufficiency": "Self-sufficiency",
+    "CL_DV_OV_auto_programs_des": "A set of predefined automatic programs simplify meal preparation and ensure optimal results for various types of dishes.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Search for ingredient or dish",
+    "CL_DV_OV_browse_all_auto_programs": "Browse all Auto Programs"
 }

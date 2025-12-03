@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Temperatura máxima interna",
     "CL_AC_dr_rate_power": "Potência de carga nominal",
     "CL_AC_demand_subtitle": "Otimiza automaticamente o resfriamento para garantir a estabilidade da rede elétrica.",
-    "CL_DV_EY_self_sufficient": "Autossuficiente",
     "CL_AC_comfort_auto_des": "Inicia automaticamente o resfriamento quando a temperatura ambiente ultrapassa 30°C e o aquecimento quando cai abaixo de 14°C.",
     "CL_AC_comfort_auto": "Comfort Auto",
     "CL_MEAL_PLANNER_already_added": "Esta receita já foi adicionada a esta refeição.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Escape",
     "CL_AI_response_error_tips": "Nenhuma resposta recebida. Por favor, tente novamente.",
     "CL_AI_guide_assistant_new_step_tips": "Aliás, o <b>automação</b> Foi movido para a barra de navegação superior.",
-    "CL_CS_WM_wizard_tip": "Abaixo, você encontrará o programa e as configurações sugeridas com base nas suas respostas. Coloque as roupas na máquina e clique em \"INICIAR\" para começar o ciclo."
+    "CL_CS_WM_wizard_tip": "Abaixo, você encontrará o programa e as configurações sugeridas com base nas suas respostas. Coloque as roupas na máquina e clique em \"INICIAR\" para começar o ciclo.",
+    "CL_DV_EY_date_to": "para",
+    "CL_DV_EY_self_self_sufficiency": "Autossuficiência",
+    "CL_DV_OV_auto_programs_des": "Um conjunto de programas automáticos predefinidos simplifica o preparo das refeições e garante resultados ótimos para diversos tipos de pratos.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Procure por ingrediente ou prato",
+    "CL_DV_OV_browse_all_auto_programs": "Veja todos os programas automotivos"
 }

@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Suhu Dalaman Maksimum",
     "CL_AC_dr_rate_power": "Kuasa beban yang dinilai",
     "CL_AC_demand_subtitle": "Mengoptimumkan penyejukan secara automatik untuk menyokong kestabilan grid.",
-    "CL_DV_EY_self_sufficient": "Berdikari",
     "CL_AC_comfort_auto_des": "Mula menyejukkan secara automatik apabila suhu bilik melebihi 30°C, dan pemanasan apabila ia turun di bawah 14°C.",
     "CL_AC_comfort_auto": "Auto Selesa",
     "CL_MEAL_PLANNER_already_added": "Resipi ini telah dimasukkan ke dalam hidangan ini.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "ekzos",
     "CL_AI_response_error_tips": "Tiada maklum balas diterima. Sila cuba permintaan anda sekali lagi.",
     "CL_AI_guide_assistant_new_step_tips": "By the way, the <b>automasi</b> telah dialihkan ke bar navigasi atas.",
-    "CL_CS_WM_wizard_tip": "Di bawah ialah cadangan program dan tetapan berdasarkan jawapan anda. Muatkan pakaian ke dalam mesin anda dan klik \"MULA\" untuk memulakan kitaran anda."
+    "CL_CS_WM_wizard_tip": "Di bawah ialah cadangan program dan tetapan berdasarkan jawapan anda. Muatkan pakaian ke dalam mesin anda dan klik \"MULA\" untuk memulakan kitaran anda.",
+    "CL_DV_EY_date_to": "kepada",
+    "CL_DV_EY_self_self_sufficiency": "Berdikari",
+    "CL_DV_OV_auto_programs_des": "Satu set program automatik yang dipratentukan memudahkan penyediaan hidangan dan memastikan hasil yang optimum untuk pelbagai jenis hidangan.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Cari bahan atau hidangan",
+    "CL_DV_OV_browse_all_auto_programs": "Semak imbas semua Program Auto"
 }

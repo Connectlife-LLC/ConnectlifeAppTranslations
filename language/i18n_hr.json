@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maksimalna unutarnja temperatura",
     "CL_AC_dr_rate_power": "Nazivna snaga opterećenja",
     "CL_AC_demand_subtitle": "Automatski optimizira hlađenje kako bi se podržala stabilnost mreže.",
-    "CL_DV_EY_self_sufficient": "Samodostatan",
     "CL_AC_comfort_auto_des": "Automatski pokreće hlađenje kada temperatura u prostoriji prijeđe 30°C, a grijanje kada padne ispod 14°C.",
     "CL_AC_comfort_auto": "Udobnost Auto",
     "CL_MEAL_PLANNER_already_added": "Ovaj recept je već dodan ovom jelu.",
@@ -7250,5 +7249,10 @@
     "CL_DV_HD_exhaust": "Ispušni",
     "CL_AI_response_error_tips": "Nije primljen odgovor. Pokušajte ponovno poslati zahtjev.",
     "CL_AI_guide_assistant_new_step_tips": "Usput, <b>automatizacija</b> premješteno je na gornju navigacijsku traku.",
-    "CL_CS_WM_wizard_tip": "U nastavku je predloženi program i postavke na temelju vaših odgovora. Stavite odjeću u perilicu i kliknite \"POKRENI\" za početak ciklusa."
+    "CL_CS_WM_wizard_tip": "U nastavku je predloženi program i postavke na temelju vaših odgovora. Stavite odjeću u perilicu i kliknite \"POKRENI\" za početak ciklusa.",
+    "CL_DV_EY_date_to": "na",
+    "CL_DV_EY_self_self_sufficiency": "Samodostatnost",
+    "CL_DV_OV_auto_programs_des": "Skup unaprijed definiranih automatskih programa pojednostavljuje pripremu obroka i osigurava optimalne rezultate za različite vrste jela.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Pretražite sastojak ili jelo",
+    "CL_DV_OV_browse_all_auto_programs": "Pregledajte sve automatske programe"
 }
