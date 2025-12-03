@@ -2738,6 +2738,7 @@
     "next_step": "L'ÉTAPE SUIVANTE",
     "rf_start_convert_250": "Vous avez démarré Convert, le congélateur se transformera en Smart Zone avec une température de 0℃ ; le réfrigérateur se transformera en 4℃, veuillez faire attention au stockage des aliments.",
     "rf_start_convert_213": "Mode de conversion activé. Le congélateur est désormais en zone intelligente à 0 °C ; le réfrigérateur à 4 °C. Veuillez vérifier la température de conservation des aliments.",
+    "rf_close_convert_250": "",
     "rf_close_convert_213": "Mode de conversion désactivé. La zone intelligente revient en mode congélateur à -18 °C. Veuillez vérifier la température des aliments.",
     "unfold_zone": "déplier toutes les zones",
     "fold_zone": "plier toutes les zones",
@@ -7066,6 +7067,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Choisissez l'appareil de cuisson que vous souhaitez utiliser. Si vous ne faites aucune sélection, des recettes compatibles avec le four et les plaques de cuisson vous seront proposées. En sélectionnant un appareil, vous limiterez les recettes à celui-ci.",
     "breakfast": "petit-déjeuner",
     "lunch": "déjeuner",
+    "dinner": "",
     "starter": "démarreur",
     "main": "principal",
     "side": "côté",
@@ -7248,5 +7250,5 @@
     "CL_DV_HD_exhaust": "Échappement",
     "CL_AI_response_error_tips": "Aucune réponse reçue. Veuillez réessayer votre demande.",
     "CL_AI_guide_assistant_new_step_tips": "Au fait, le <b>automation</b> a été déplacé dans la barre de navigation supérieure.",
-    "CL_CS_WM_wizard_tip": "Voici le programme et les paramètres suggérés en fonction de vos réponses. Chargez le linge dans votre machine et cliquez sur « DÉMARRER » pour lancer le cycle."
+    "CL_CS_WM_wizard_tip": "Voici le programme et les paramètres suggérés en fonction de vos réponses. Chargez le linge dans votre machine et cliquez sur « DEMARRER » pour lancer le cycle."
 }

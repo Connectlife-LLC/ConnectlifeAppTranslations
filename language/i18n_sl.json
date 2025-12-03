@@ -340,7 +340,7 @@
     "add_appliance_enter_password_info": "Izberite omrežje Wi-Fi, s katerim se bo povezala vaša naprava.",
     "add_appliance_ssid": "SSID",
     "add_appliance_input_ssid": "Prosimo, vnesite svoj SSID.",
-    "add_appliance_connect_wifi_regex": "Prosimo, odprite nastavitve telefona, povežite telefon z Wi-Fi omrežjem „HIS-XXXX” in se vrnite v aplikacijo. Če ne najdete omrežja Wi-Fi „HIS-XXXX”, začnite postopek znova.",
+    "add_appliance_connect_wifi_regex": "Odprite nastavitve telefona, povežite telefon z omrežjem Wi-Fi »HIS-XXXX« in se vrnite v aplikacijo. Če ne najdete omrežja Wi-Fi »HIS-XXXX«, začnite postopek znova.",
     "add_appliance_connect_again": "Prosimo, izberite pravilni Soft AP Wi-Fi in poskusite znova.",
     "add_appliance_setting": "NASTAVITEV",
     "add_appliance_no_internet": "Telefon ni povezan z internetom",
@@ -7250,5 +7250,5 @@
     "CL_DV_HD_exhaust": "Izpušni plini",
     "CL_AI_response_error_tips": "Ni odgovora. Poskusite znova oddati zahtevo.",
     "CL_AI_guide_assistant_new_step_tips": "Mimogrede, <b>avtomatizacija</b> je bilo premaknjeno v zgornjo navigacijsko vrstico.",
-    "CL_CS_WM_wizard_tip": "Spodaj je predlagan program in nastavitve glede na vaše odgovore. V stroj naložite oblačila in kliknite »START«, da zaženete cikel."
+    "CL_CS_WM_wizard_tip": "Spodaj je predlagan program in nastavitve glede na vaše odgovore. V stroj naložite oblačila in kliknite »ZAČETEK«, da zaženete cikel."
 }
