@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maksimalna unutarnja temperatura",
     "CL_AC_dr_rate_power": "Nazivna snaga opterećenja",
     "CL_AC_demand_subtitle": "Automatski optimizira hlađenje kako bi se podržala stabilnost mreže.",
-    "CL_DV_EY_self_sufficient": "Samodostatan",
     "CL_AC_comfort_auto_des": "Automatski pokreće hlađenje kada temperatura u prostoriji prijeđe 30°C, a grijanje kada padne ispod 14°C.",
     "CL_AC_comfort_auto": "Udobnost Auto",
     "CL_MEAL_PLANNER_already_added": "Ovaj recept je već dodan ovom jelu.",
@@ -7099,7 +7098,6 @@
     "CL_CF_CS_wm_g600_p_step_2": "Dodirnite i držite ikonu „U redu“ 6 sekundi dok se ne pojavi PAr. \n Uređaj je sada spreman za uparivanje 3 minute. \n Kliknite DALJE za nastavak.",
     "CL_DV_LRC_descaling_in_progress": "Uklanjanje kamenca u tijeku",
     "CL_DV_LRC_descaling_desc": "Molimo slijedite upute na zaslonu vašeg ormarića za osvježenje.",
-    "CL_AI_wm_troubleshooting": "Rješavanje problema s WM-om",
     "CL_AI_history_empty": "Nema povijesti",
     "CL_AI_history_empty_tips": "Vaša povijest razgovora pojavit će se ovdje nakon što obavite svoj prvi razgovor",
     "CL_AI_troubleshooting_guide_tips": "Trebate li pomoć pri korištenju uređaja ili rješavanju problema? Ovo je pravo mjesto. Pružit ću vam savjete i podršku ako nešto ne funkcionira kako biste očekivali.",
@@ -7116,7 +7114,6 @@
     "CL_AI_program_type_wash_title": "Najbolji program za ovo pranje je:",
     "CL_AI_program_type_dry_title": "Najbolji program za ovu sušilicu je:",
     "CL_AI_program_favorites_saved": "Program spremljen u favorite.",
-    "CL_AI_oven_troubleshooting": "Rješavanje problema s pećnicom",
     "CL_AI_suggestion_wash_program": "Najbolji program pranja",
     "CL_AI_suggestion_wash_program_desc": "Pomozite mi odabrati pravi program pranja.",
     "CL_AI_suggestion_eco_washing": "Ekološki prihvatljivo pranje",
@@ -7250,5 +7247,12 @@
     "CL_DV_HD_exhaust": "Ispušni",
     "CL_AI_response_error_tips": "Nije primljen odgovor. Pokušajte ponovno poslati zahtjev.",
     "CL_AI_guide_assistant_new_step_tips": "Usput, <b>automatizacija</b> premješteno je na gornju navigacijsku traku.",
-    "CL_CS_WM_wizard_tip": "U nastavku je predloženi program i postavke na temelju vaših odgovora. Stavite odjeću u perilicu i kliknite \"POKRENI\" za početak ciklusa."
+    "CL_CS_WM_wizard_tip": "U nastavku je predloženi program i postavke na temelju vaših odgovora. Stavite odjeću u perilicu i kliknite \"POKRENI\" za početak ciklusa.",
+    "CL_DV_EY_date_to": "na",
+    "CL_DV_EY_self_self_sufficiency": "Samodostatnost",
+    "CL_DV_OV_auto_programs_des": "Skup unaprijed definiranih automatskih programa pojednostavljuje pripremu obroka i osigurava optimalne rezultate za različite vrste jela.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Pretražite sastojak ili jelo",
+    "CL_DV_OV_browse_all_auto_programs": "Pregledajte sve automatske programe",
+    "CL_AI_oven_troubleshoot": "Rješavanje problema s pećnicom",
+    "CL_AI_wm_troubleshoot": "Rješavanje problema s WM-om"
 }

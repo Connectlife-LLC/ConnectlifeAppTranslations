@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "最高室内温度",
     "CL_AC_dr_rate_power": "定格負荷電力",
     "CL_AC_demand_subtitle": "冷却を自動的に最適化してグリッドの安定性をサポートします。",
-    "CL_DV_EY_self_sufficient": "自給自足",
     "CL_AC_comfort_auto_des": "室温が30℃を超えると自動的に冷房を開始し、14℃以下になると自動的に暖房を開始します。",
     "CL_AC_comfort_auto": "コンフォートオート",
     "CL_MEAL_PLANNER_already_added": "このレシピはすでにこの食事に追加されています。",
@@ -7099,7 +7098,6 @@
     "CL_CF_CS_wm_g600_p_step_2": "PAr が表示されるまで、「OK」アイコンを 6 秒間タップして押し続けます。__ \nこれで、デバイスは 3 分間ペアリングできる状態になりました。__ \n [次へ] をクリックして続行します。",
     "CL_DV_LRC_descaling_in_progress": "スケール除去中",
     "CL_DV_LRC_descaling_desc": "飲料キャビネットのディスプレイの指示に従ってください。",
-    "CL_AI_wm_troubleshooting": "WM トラブルシューティング",
     "CL_AI_history_empty": "履歴なし",
     "CL_AI_history_empty_tips": "最初の会話を終えると、チャット履歴がここに表示されます",
     "CL_AI_troubleshooting_guide_tips": "家電製品の使い方や問題の解決でお困りですか？こちらが最適な場所です。何かが期待通りに動作しない場合は、ヒントやサポートをご提供いたします。",
@@ -7116,7 +7114,6 @@
     "CL_AI_program_type_wash_title": "この洗浄に最適なプログラムは次のとおりです。",
     "CL_AI_program_type_dry_title": "この乾燥機に最適なプログラムは次のとおりです。",
     "CL_AI_program_favorites_saved": "プログラムをお気に入りに保存しました。",
-    "CL_AI_oven_troubleshooting": "オーブンのトラブルシューティング",
     "CL_AI_suggestion_wash_program": "最高の洗濯プログラム",
     "CL_AI_suggestion_wash_program_desc": "適切な洗濯プログラムの選択を手伝ってください。",
     "CL_AI_suggestion_eco_washing": "環境に優しい洗濯",
@@ -7250,5 +7247,12 @@
     "CL_DV_HD_exhaust": "排気",
     "CL_AI_response_error_tips": "応答がありません。再度リクエストしてください。",
     "CL_AI_guide_assistant_new_step_tips": "ちなみに、 <b>オートメーション</b> 上部のナビゲーション バーに移動されました。",
-    "CL_CS_WM_wizard_tip": "ご回答に基づいて、以下のプログラムと設定をご提案いたします。衣類を洗濯機に入れて「スタート」をクリックし、サイクルを開始してください。"
+    "CL_CS_WM_wizard_tip": "ご回答に基づいて、以下のプログラムと設定をご提案いたします。衣類を洗濯機に入れて「スタート」をクリックし、サイクルを開始してください。",
+    "CL_DV_EY_date_to": "に",
+    "CL_DV_EY_self_self_sufficiency": "自給自足",
+    "CL_DV_OV_auto_programs_des": "事前に定義された一連の自動プログラムにより、食事の準備が簡単になり、さまざまな種類の料理で最適な結果が得られます。",
+    "CL_DV_OV_search_for_ingredient_placeholder": "食材や料理を検索",
+    "CL_DV_OV_browse_all_auto_programs": "すべての自動プログラムを閲覧する",
+    "CL_AI_oven_troubleshoot": "オーブンのトラブルシューティング",
+    "CL_AI_wm_troubleshoot": "WM トラブルシューティング"
 }

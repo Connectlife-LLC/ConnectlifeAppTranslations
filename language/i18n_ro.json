@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Temperatura maximă interioară",
     "CL_AC_dr_rate_power": "Putere nominală de sarcină",
     "CL_AC_demand_subtitle": "Optimizează automat răcirea pentru a susține stabilitatea rețelei.",
-    "CL_DV_EY_self_sufficient": "Autosuficient",
     "CL_AC_comfort_auto_des": "Pornește automat răcirea când temperatura camerei depășește 30°C și încălzirea când scade sub 14°C.",
     "CL_AC_comfort_auto": "Confort Auto",
     "CL_MEAL_PLANNER_already_added": "Această rețetă a fost deja adăugată la această masă.",
@@ -7099,7 +7098,6 @@
     "CL_CF_CS_wm_g600_p_step_2": "Atingeți și mențineți apăsată pictograma „OK” timp de 6 secunde până când apare PAr. \n Dispozitivul este acum gata de asociere timp de 3 minute. \n Faceți clic pe URMĂTORUL pentru a continua.",
     "CL_DV_LRC_descaling_in_progress": "Detartrare în curs",
     "CL_DV_LRC_descaling_desc": "Vă rugăm să urmați instrucțiunile de pe afișajul dulapului dumneavoastră cu băuturi răcoritoare.",
-    "CL_AI_wm_troubleshooting": "Depanare WM",
     "CL_AI_history_empty": "Fără istoric",
     "CL_AI_history_empty_tips": "Istoricul conversațiilor tale va apărea aici odată ce ai prima conversație.",
     "CL_AI_troubleshooting_guide_tips": "Ai nevoie de ajutor pentru utilizarea aparatului tău sau pentru rezolvarea unei probleme? Acesta este locul potrivit. Te voi îndruma cu sfaturi și asistență dacă ceva nu funcționează conform așteptărilor.",
@@ -7116,7 +7114,6 @@
     "CL_AI_program_type_wash_title": "Cel mai bun program pentru această spălare este:",
     "CL_AI_program_type_dry_title": "Cel mai bun program pentru acest uscător este:",
     "CL_AI_program_favorites_saved": "Program salvat la favorite.",
-    "CL_AI_oven_troubleshooting": "Depanarea cuptorului",
     "CL_AI_suggestion_wash_program": "Cel mai bun program de spălare",
     "CL_AI_suggestion_wash_program_desc": "Ajută-mă să aleg programul de spălare potrivit.",
     "CL_AI_suggestion_eco_washing": "Spălare ecologică",
@@ -7250,5 +7247,12 @@
     "CL_DV_HD_exhaust": "Epuiza",
     "CL_AI_response_error_tips": "Nu s-a primit niciun răspuns. Vă rugăm să încercați din nou solicitarea.",
     "CL_AI_guide_assistant_new_step_tips": "Apropo, <b>automatizare</b> a fost mutat în bara de navigare superioară.",
-    "CL_CS_WM_wizard_tip": "Mai jos găsiți programul și setările sugerate, bazate pe răspunsurile dvs. Introduceți hainele în mașina de spălat și faceți clic pe „START” pentru a porni ciclul."
+    "CL_CS_WM_wizard_tip": "Mai jos găsiți programul și setările sugerate, bazate pe răspunsurile dvs. Introduceți hainele în mașina de spălat și faceți clic pe „START” pentru a porni ciclul.",
+    "CL_DV_EY_date_to": "la",
+    "CL_DV_EY_self_self_sufficiency": "Autosuficiență",
+    "CL_DV_OV_auto_programs_des": "Un set de programe automate predefinite simplifică prepararea meselor și asigură rezultate optime pentru diverse tipuri de preparate.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Caută ingredient sau preparat",
+    "CL_DV_OV_browse_all_auto_programs": "Răsfoiți toate programele auto",
+    "CL_AI_oven_troubleshoot": "Depanare cuptor",
+    "CL_AI_wm_troubleshoot": "Depanare WM"
 }

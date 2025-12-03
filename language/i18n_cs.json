@@ -7048,7 +7048,6 @@
     "CL_AC_dr_override_max_indoor": "Maximální vnitřní teplota",
     "CL_AC_dr_rate_power": "Jmenovitý výkon zátěže",
     "CL_AC_demand_subtitle": "Automaticky optimalizuje chlazení pro podporu stability sítě.",
-    "CL_DV_EY_self_sufficient": "Soběstačný",
     "CL_AC_comfort_auto_des": "Automaticky spustí chlazení, když teplota v místnosti překročí 30 °C, a vytápění, když klesne pod 14 °C.",
     "CL_AC_comfort_auto": "Komfortní auto",
     "CL_MEAL_PLANNER_already_added": "Tento recept již byl k tomuto jídlu přidán.",
@@ -7099,7 +7098,6 @@
     "CL_CF_CS_wm_g600_p_step_2": "Klepněte a podržte ikonu „OK“ po dobu 6 sekund, dokud se nezobrazí PAr. \n Zařízení je nyní připraveno k párování po dobu 3 minut. \n Klikněte na DALŠÍ pro pokračování.",
     "CL_DV_LRC_descaling_in_progress": "Probíhá odvápňování",
     "CL_DV_LRC_descaling_desc": "Řiďte se prosím pokyny na displeji vaší vitríny s občerstvením.",
-    "CL_AI_wm_troubleshooting": "Řešení problémů s WM",
     "CL_AI_history_empty": "Žádná historie",
     "CL_AI_history_empty_tips": "Vaše historie chatu se zde zobrazí po vaší první konverzaci",
     "CL_AI_troubleshooting_guide_tips": "Potřebujete pomoc s používáním spotřebiče nebo s řešením problému? Tohle je to správné místo. Pomůžu vám s tipy a podporou, pokud něco nefunguje podle očekávání.",
@@ -7116,7 +7114,6 @@
     "CL_AI_program_type_wash_title": "Nejlepší program pro toto praní je:",
     "CL_AI_program_type_dry_title": "Nejlepší program pro tuto sušičku je:",
     "CL_AI_program_favorites_saved": "Program uložen do oblíbených.",
-    "CL_AI_oven_troubleshooting": "Řešení problémů s troubou",
     "CL_AI_suggestion_wash_program": "Nejlepší prací program",
     "CL_AI_suggestion_wash_program_desc": "Pomozte mi vybrat správný prací program.",
     "CL_AI_suggestion_eco_washing": "Ekologické praní",
@@ -7250,5 +7247,12 @@
     "CL_DV_HD_exhaust": "Vyčerpat",
     "CL_AI_response_error_tips": "Nebyla přijata žádná odpověď. Zkuste prosím odeslat požadavek znovu.",
     "CL_AI_guide_assistant_new_step_tips": "Mimochodem, <b>automatizace</b> bylo přesunuto do horní navigační lišty.",
-    "CL_CS_WM_wizard_tip": "Níže je uveden návrh programu a nastavení na základě vašich odpovědí. Vložte prádlo do pračky a kliknutím na tlačítko „START“ spusťte cyklus."
+    "CL_CS_WM_wizard_tip": "Níže je uveden návrh programu a nastavení na základě vašich odpovědí. Vložte prádlo do pračky a kliknutím na tlačítko „START“ spusťte cyklus.",
+    "CL_DV_EY_date_to": "na",
+    "CL_DV_EY_self_self_sufficiency": "Soběstačnost",
+    "CL_DV_OV_auto_programs_des": "Sada předdefinovaných automatických programů zjednodušuje přípravu jídel a zajišťuje optimální výsledky pro různé druhy pokrmů.",
+    "CL_DV_OV_search_for_ingredient_placeholder": "Hledat ingredienci nebo pokrm",
+    "CL_DV_OV_browse_all_auto_programs": "Procházet všechny automatické programy",
+    "CL_AI_oven_troubleshoot": "Řešení problémů s troubou",
+    "CL_AI_wm_troubleshoot": "Řešení problémů s WM"
 }
