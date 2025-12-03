@@ -2738,7 +2738,6 @@
     "next_step": "SEURAAVA VAIHE",
     "rf_start_convert_250": "Olet aloittanut muuntamisen, pakastin muuttuu Smart Zoneksi, jonka lämpötila on 0 ° C; jäähdytin muuttuu 4 ° C: seen, kiinnitä huomiota elintarvikkeiden varastointiin.",
     "rf_start_convert_213": "Muunnostila käytössä. Pakastin on nyt älykäs alue 0 °C:ssa; jääkaappi 4 °C:ssa. Tarkista elintarvikkeiden säilytys.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Muunnostila poistettu käytöstä. Älyalue palaa pakastintilaan -18 °C:ssa. Tarkista elintarvikkeiden säilytys.",
     "unfold_zone": "Avaa kaikki vyöhykkeet",
     "fold_zone": "Taita kaikki vyöhykkeet",
@@ -7067,7 +7066,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Valitse laite, jolla haluat valmistaa ruokaa. Jos et valitse mitään, ehdotetaan reseptejä, jotka toimivat sekä uunissa että liedellä. Yhden laitteen valitseminen rajoittaa reseptit vain kyseiseen laitteeseen.",
     "breakfast": "aamiainen",
     "lunch": "lounas",
-    "dinner": "",
     "starter": "käynnistin",
     "main": "pääasiallinen",
     "side": "sivu",
@@ -7250,5 +7248,6 @@
     "CL_DV_HD_exhaust": "Pakoputki",
     "CL_AI_response_error_tips": "Ei vastausta. Yritä pyyntöäsi uudelleen.",
     "CL_AI_guide_assistant_new_step_tips": "Muuten, <b>automaatio</b> on siirretty ylänavigointipalkkiin.",
-    "CL_CS_WM_wizard_tip": "Alla on ehdotus ohjelmasta ja asetuksista vastauksiisi perustuen. Laita vaatteet koneeseen ja käynnistä pesuohjelma napsauttamalla \"ALOITUS\"."
+    "CL_CS_WM_wizard_tip": "Alla on ehdotus ohjelmasta ja asetuksista vastauksiisi perustuen. Laita vaatteet koneeseen ja käynnistä pesuohjelma napsauttamalla \"ALOITUS\".",
+    "CL_DV_EY_date_to": "to"
 }

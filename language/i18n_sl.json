@@ -7250,5 +7250,6 @@
     "CL_DV_HD_exhaust": "Izpušni plini",
     "CL_AI_response_error_tips": "Ni odgovora. Poskusite znova oddati zahtevo.",
     "CL_AI_guide_assistant_new_step_tips": "Mimogrede, <b>avtomatizacija</b> je bilo premaknjeno v zgornjo navigacijsko vrstico.",
-    "CL_CS_WM_wizard_tip": "Spodaj je predlagan program in nastavitve glede na vaše odgovore. V stroj naložite oblačila in kliknite »ZAČETEK«, da zaženete cikel."
+    "CL_CS_WM_wizard_tip": "Spodaj je predlagan program in nastavitve glede na vaše odgovore. V stroj naložite oblačila in kliknite »ZAČETEK«, da zaženete cikel.",
+    "CL_DV_EY_date_to": "do"
 }

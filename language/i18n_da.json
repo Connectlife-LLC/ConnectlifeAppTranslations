@@ -2738,7 +2738,6 @@
     "next_step": "NÆSTE SKRIDT",
     "rf_start_convert_250": "Du har startet Konverter, fryseren omdannes til Smart Zone med en temperatur på 0℃; Køleskabet omdannes til 4℃, vær opmærksom på opbevaring af mad.",
     "rf_start_convert_213": "Konverteringstilstand aktiveret. Fryseren er nu Smart Zone ved 0°C; køleskabet ved 4°C. Kontroller opbevaring af fødevarer.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Konverteringstilstand deaktiveret. Smart Zone vender tilbage til fryser ved -18°C. Kontroller opbevaring af madvarer.",
     "unfold_zone": "udfolde alle zoner",
     "fold_zone": "fold alle zoner",
@@ -7067,7 +7066,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Vælg det apparat, du vil lave mad med. Hvis du ikke foretager et valg, vil opskrifter, der fungerer med både ovn og kogeplade, blive foreslået. Hvis du vælger én, begrænses opskrifterne til kun det apparat.",
     "breakfast": "morgenmad",
     "lunch": "frokost",
-    "dinner": "",
     "starter": "forret",
     "main": "vigtigste",
     "side": "side",
@@ -7250,5 +7248,6 @@
     "CL_DV_HD_exhaust": "Udstødning",
     "CL_AI_response_error_tips": "Intet svar modtaget. Prøv venligst at gentage din anmodning.",
     "CL_AI_guide_assistant_new_step_tips": "Forresten, den <b>automatisering</b> er blevet flyttet til den øverste navigationslinje.",
-    "CL_CS_WM_wizard_tip": "Nedenfor er det foreslåede program og indstillinger baseret på dine svar. Læg tøjet i din maskine, og klik på \"START\" for at starte dit program."
+    "CL_CS_WM_wizard_tip": "Nedenfor er det foreslåede program og indstillinger baseret på dine svar. Læg tøjet i din maskine, og klik på \"START\" for at starte dit program.",
+    "CL_DV_EY_date_to": "til"
 }

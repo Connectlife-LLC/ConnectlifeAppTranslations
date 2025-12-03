@@ -2738,7 +2738,6 @@
     "next_step": "VOLGENDE STAP",
     "rf_start_convert_250": "Je moet beginnen met converteren, de vriezer verandert in een Smart Zone met een temperatuur van 0°C; de koeler verandert in 4°C, let op de opslag van voedsel.",
     "rf_start_convert_213": "Convert-modus ingeschakeld. Vriezer is nu Smart Zone op 0 °C; koelkast op 4 °C. Controleer de voedselbewaring.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Convert-modus uitgeschakeld. Smart Zone schakelt terug naar vriezer bij -18°C. Controleer de voedselbewaring.",
     "unfold_zone": "Vouw alle zones uit",
     "fold_zone": "Vouw alle zones",
@@ -7067,7 +7066,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Kies het apparaat waarmee u wilt koken. Als u geen keuze maakt, worden recepten voorgesteld die geschikt zijn voor zowel de oven als de kookplaat. Als u er één selecteert, worden de recepten alleen voor dat apparaat weergegeven.",
     "breakfast": "ontbijt",
     "lunch": "lunch",
-    "dinner": "",
     "starter": "starter",
     "main": "voornaamst",
     "side": "kant",
@@ -7250,5 +7248,6 @@
     "CL_DV_HD_exhaust": "Uitlaat",
     "CL_AI_response_error_tips": "Geen reactie ontvangen. Probeer het opnieuw.",
     "CL_AI_guide_assistant_new_step_tips": "Trouwens, de <b>automatisering</b> is verplaatst naar de bovenste navigatiebalk.",
-    "CL_CS_WM_wizard_tip": "Hieronder vindt u het voorgestelde programma en de instellingen op basis van uw antwoorden. Doe de kleding in uw wasmachine en klik op \"START\" om de cyclus te starten."
+    "CL_CS_WM_wizard_tip": "Hieronder vindt u het voorgestelde programma en de instellingen op basis van uw antwoorden. Doe de kleding in uw wasmachine en klik op \"START\" om de cyclus te starten.",
+    "CL_DV_EY_date_to": "tot"
 }
