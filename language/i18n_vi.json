@@ -2738,7 +2738,6 @@
     "next_step": "BƯỚC TIẾP THEO",
     "rf_start_convert_250": "Bạn đã bắt đầu Convert, Tủ đông sẽ chuyển thành Smart Zone với nhiệt độ 0°C; Tủ lạnh sẽ chuyển thành 4oC, hãy chú ý đến việc bảo quản thực phẩm.",
     "rf_start_convert_213": "Chế độ chuyển đổi đã được bật. Ngăn đông hiện là Smart Zone ở 0°C; Ngăn mát ở 4°C. Vui lòng kiểm tra ngăn bảo quản thực phẩm.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Chế độ chuyển đổi đã tắt. Ngăn thông minh sẽ trở về ngăn đông ở nhiệt độ -18°C. Vui lòng kiểm tra tình trạng bảo quản thực phẩm.",
     "unfold_zone": "mở ra tất cả các khu vực",
     "fold_zone": "gấp tất cả các vùng",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Chọn thiết bị bạn muốn nấu. Nếu không chọn, các công thức nấu ăn có thể dùng được với cả lò nướng và bếp sẽ được đề xuất. Việc chọn một thiết bị sẽ giới hạn công thức nấu ăn chỉ dùng được với thiết bị đó.",
     "breakfast": "bữa sáng",
     "lunch": "bữa trưa",
-    "dinner": "",
     "starter": "người khởi xướng",
     "main": "chủ yếu",
     "side": "bên",
@@ -7108,7 +7106,6 @@
     "CL_AI_program_type_oven_started": "Lò đã bắt đầu",
     "CL_AI_program_status_run_title": "Nấu ăn...",
     "CL_AI_program_agent_note": "Lưu ý: Chương trình này được tạo bởi AI. Vui lòng xem lại cài đặt để đảm bảo kết quả tốt nhất.",
-    "CL_AI_guide_assistant_tips": "Xin chào, tôi là VIDAA, <b>Trợ lý AI</b>Tôi có thể hướng dẫn bạn, đề xuất chương trình và giúp bạn thực hiện các công việc hàng ngày dễ dàng hơn. Bạn có muốn xem tôi có thể làm gì không?",
     "CL_AI_program_type_oven_title": "Chương trình tốt nhất cho món ăn này là:",
     "CL_AI_program_type_oven_optimised_title": "Tuyệt vời, đây là chương trình được tối ưu hóa:",
     "CL_AI_program_type_wash_title": "Chương trình giặt tốt nhất cho loại quần áo này là:",
@@ -7258,5 +7255,13 @@
     "CL_DISH_DESIGNER_select_ingredients": "Chọn thành phần",
     "CL_DISH_DESIGNER_select_ingredients_des": "Chọn các nguyên liệu có thể dùng trong công thức. Từ danh sách này, Dish Designer sẽ sử dụng những nguyên liệu có hương vị ngon nhất để tạo nên công thức.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "Các thành phần 'Tùy chọn' được hiển thị bằng màu xám. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Xin chào, tôi là VIDAA, <b>Trợ lý AI</b>Tôi có thể hướng dẫn bạn, đề xuất chương trình và giúp bạn thực hiện các công việc hàng ngày dễ dàng hơn. Bạn có muốn xem tôi có thể làm gì không?",
+    "CL_CF_energy_solar_optimizer_title": "Bộ tối ưu hóa năng lượng mặt trời",
+    "CL_CF_energy_solar_optimizer_desc": "Tận dụng tối đa năng lượng mặt trời dư thừa của bạn",
+    "CL_CF_energy_solar_optimizer_devices_running": "## thiết bị đang chạy",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Sử dụng năng lượng mặt trời dư thừa",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Chế độ năng lượng mặt trời",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Sự bù trừ năng lượng mặt trời ngày nay",
+    "CL_CF_energy_solar_optimizer_applied_devices": "THIẾT BỊ ỨNG DỤNG"
 }
