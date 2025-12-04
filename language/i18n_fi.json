@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Hae ainesosaa tai ruokaa",
     "CL_DV_OV_browse_all_auto_programs": "Selaa kaikkia auto-ohjelmia",
     "CL_AI_oven_troubleshoot": "Uunin vianmääritys",
-    "CL_AI_wm_troubleshoot": "WM-vianmääritys"
+    "CL_AI_wm_troubleshoot": "WM-vianmääritys",
+    "CL_DISH_DESIGNER_select_ingredients": "Valitse ainesosat",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Valitse reseptissä käytettäviä ainesosia. Ruokasuunnittelija käyttää näistä aineksista ne, jotka maistuvat hyvältä yhdessä, reseptin luomiseen.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "'Valinnaiset' ainesosat on merkitty harmaalla. ",
+    "CL_CF_unit_ml": "ml"
 }

@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "ค้นหาส่วนผสมหรืออาหาร",
     "CL_DV_OV_browse_all_auto_programs": "เรียกดูโปรแกรมอัตโนมัติทั้งหมด",
     "CL_AI_oven_troubleshoot": "การแก้ไขปัญหาเตาอบ",
-    "CL_AI_wm_troubleshoot": "การแก้ไขปัญหา WM"
+    "CL_AI_wm_troubleshoot": "การแก้ไขปัญหา WM",
+    "CL_DISH_DESIGNER_select_ingredients": "เลือกส่วนผสม",
+    "CL_DISH_DESIGNER_select_ingredients_des": "เลือกส่วนผสมที่อาจนำมาใช้ในสูตรอาหาร จากส่วนผสมเหล่านี้ Dish Designer จะใช้ส่วนผสมที่รสชาติเข้ากันเพื่อสร้างสรรค์สูตรอาหาร",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "ส่วนผสม 'ตัวเลือก' จะแสดงเป็นสีเทา ",
+    "CL_CF_unit_ml": "มล."
 }

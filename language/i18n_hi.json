@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "सामग्री या व्यंजन खोजें",
     "CL_DV_OV_browse_all_auto_programs": "सभी ऑटो प्रोग्राम ब्राउज़ करें",
     "CL_AI_oven_troubleshoot": "ओवन समस्या निवारण",
-    "CL_AI_wm_troubleshoot": "WM समस्या निवारण"
+    "CL_AI_wm_troubleshoot": "WM समस्या निवारण",
+    "CL_DISH_DESIGNER_select_ingredients": "सामग्री का चयन करें",
+    "CL_DISH_DESIGNER_select_ingredients_des": "रेसिपी में इस्तेमाल होने वाली सामग्री चुनें। इस चयन में से, डिश डिज़ाइनर उन सामग्रियों का इस्तेमाल करके रेसिपी तैयार करेगा जो स्वादिष्ट लगेंगी।",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "'वैकल्पिक'-सामग्री ग्रे रंग में दिखाई गई है। ",
+    "CL_CF_unit_ml": "एमएल"
 }

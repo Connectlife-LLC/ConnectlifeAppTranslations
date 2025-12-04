@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Procure por ingrediente ou prato",
     "CL_DV_OV_browse_all_auto_programs": "Veja todos os programas automotivos",
     "CL_AI_oven_troubleshoot": "Solução de problemas do forno",
-    "CL_AI_wm_troubleshoot": "Solução de problemas do WM"
+    "CL_AI_wm_troubleshoot": "Solução de problemas do WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Selecione os ingredientes",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Escolha ingredientes que possam ser usados na receita. A partir dessa seleção, o Dish Designer usará aqueles que combinam bem para criar a receita.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Os ingredientes 'opcionais' são mostrados em cinza. ",
+    "CL_CF_unit_ml": "ml"
 }

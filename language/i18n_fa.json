@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "جستجوی مواد اولیه یا غذا",
     "CL_DV_OV_browse_all_auto_programs": "مرور همه برنامه‌های خودکار",
     "CL_AI_oven_troubleshoot": "عیب یابی فر",
-    "CL_AI_wm_troubleshoot": "عیب‌یابی WM"
+    "CL_AI_wm_troubleshoot": "عیب‌یابی WM",
+    "CL_DISH_DESIGNER_select_ingredients": "مواد تشکیل دهنده را انتخاب کنید",
+    "CL_DISH_DESIGNER_select_ingredients_des": "موادی را انتخاب کنید که ممکن است در دستور غذا استفاده شوند. از بین این انتخاب، طراح غذا از آنهایی که با هم طعم خوبی دارند برای تهیه دستور غذا استفاده خواهد کرد.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "مواد تشکیل دهنده «اختیاری» با رنگ خاکستری نشان داده شده‌اند. ",
+    "CL_CF_unit_ml": "میلی لیتر"
 }

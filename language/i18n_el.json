@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Αναζήτηση για συστατικό ή πιάτο",
     "CL_DV_OV_browse_all_auto_programs": "Περιηγηθείτε σε όλα τα αυτόματα προγράμματα",
     "CL_AI_oven_troubleshoot": "Αντιμετώπιση προβλημάτων φούρνου",
-    "CL_AI_wm_troubleshoot": "Αντιμετώπιση προβλημάτων WM"
+    "CL_AI_wm_troubleshoot": "Αντιμετώπιση προβλημάτων WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Επιλέξτε συστατικά",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Επιλέξτε υλικά που μπορούν να χρησιμοποιηθούν στη συνταγή. Από αυτήν την επιλογή, το Dish Designer θα χρησιμοποιήσει αυτά που έχουν ωραία γεύση μαζί για να δημιουργήσει τη συνταγή.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Τα «Προαιρετικά» συστατικά εμφανίζονται με γκρι χρώμα. ",
+    "CL_CF_unit_ml": "ml"
 }

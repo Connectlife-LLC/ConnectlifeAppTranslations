@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Пребарајте состојка или јадење",
     "CL_DV_OV_browse_all_auto_programs": "Прелистај ги сите автоматски програми",
     "CL_AI_oven_troubleshoot": "Решавање проблеми со рерната",
-    "CL_AI_wm_troubleshoot": "Решавање проблеми со WM"
+    "CL_AI_wm_troubleshoot": "Решавање проблеми со WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Изберете состојки",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Изберете состојки што можат да се користат во рецептот. Од овој избор, Dish Designer ќе ги користи оние што имаат добар вкус заедно за да го создаде рецептот.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "„Опционалните“ состојки се прикажани со сива боја. ",
+    "CL_CF_unit_ml": "мл"
 }
