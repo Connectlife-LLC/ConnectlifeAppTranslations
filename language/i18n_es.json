@@ -2738,7 +2738,6 @@
     "next_step": "PRÓXIMO PASO",
     "rf_start_convert_250": "Ha iniciado Convertir, el congelador se transformará en Smart Zone con una temperatura de 0 ℃; El refrigerador se transformará a 4 ℃, preste atención al almacenamiento de alimentos.",
     "rf_start_convert_213": "Modo de conversión activado. El congelador está ahora en Zona Inteligente a 0 °C; el frigorífico a 4 °C. Compruebe la forma en que se encuentran los alimentos.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Modo de conversión desactivado. La Zona Inteligente vuelve al Congelador a -18 °C. Compruebe el estado de los alimentos.",
     "unfold_zone": "desplegar todas las zonas",
     "fold_zone": "doblar todas las zonas",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Elige el electrodoméstico con el que quieres cocinar. Si no seleccionas ninguno, te sugeriremos recetas que funcionan tanto con horno como con vitrocerámica. Al seleccionar uno, las recetas se limitarán a ese electrodoméstico.",
     "breakfast": "desayuno",
     "lunch": "almuerzo",
-    "dinner": "",
     "starter": "motor de arranque",
     "main": "principal",
     "side": "lado",
@@ -7108,7 +7106,6 @@
     "CL_AI_program_type_oven_started": "El horno se encendió",
     "CL_AI_program_status_run_title": "Cocinando...",
     "CL_AI_program_agent_note": "Nota: Este programa fue generado por IA. Revise la configuración para obtener los mejores resultados.",
-    "CL_AI_guide_assistant_tips": "Hola, soy VIDAA, tu <b>asistente de IA</b>Puedo orientarte, sugerirte programas y facilitarte las tareas diarias. ¿Quieres ver lo que puedo hacer?",
     "CL_AI_program_type_oven_title": "El mejor programa para este plato es:",
     "CL_AI_program_type_oven_optimised_title": "¡Genial, este es el programa optimizado!",
     "CL_AI_program_type_wash_title": "El mejor programa para este lavado es:",
@@ -7258,5 +7255,7 @@
     "CL_DISH_DESIGNER_select_ingredients": "Seleccionar ingredientes",
     "CL_DISH_DESIGNER_select_ingredients_des": "Elige los ingredientes que se puedan usar en la receta. De esta selección, Dish Designer usará los que combinen bien para crear la receta.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "Los ingredientes “opcionales” se muestran en gris. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Hola, soy VIDAA, tu <b>Asistente de IA</b>Puedo guiarte, sugerirte programas y facilitarte las tareas diarias. ¿Quieres ver lo que puedo hacer?",
+    "CL_CF_energy_solar_optimizer_title": "Optimizador solar"
 }

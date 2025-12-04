@@ -2738,7 +2738,6 @@
     "next_step": "下一步",
     "rf_start_convert_250": "您已启动Convert，冷冻室将会转变为Smart Zone，温度转变为0℃；冷藏室温度将转变为4℃，请注意食材存放位置是否合理。",
     "rf_start_convert_213": "轉換模式已啟用。冷凍室現為智慧溫區，溫度設定為 0°C；冷藏室溫度設定為 4°C。請檢查食物儲存。",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "轉換模式已停用。智能區將恢復至-18°C冷凍狀態。請檢查食物儲存。",
     "unfold_zone": "展开所有分区",
     "fold_zone": "折叠全部区域",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "選擇您想使用的烹飪器具。如果未選擇，系統將推薦適用於烤箱和爐灶的食譜。選擇一種器具後，食譜將僅限於該器具。",
     "breakfast": "早餐",
     "lunch": "午餐",
-    "dinner": "",
     "starter": "起動機",
     "main": "主要的",
     "side": "邊",
@@ -7108,7 +7106,6 @@
     "CL_AI_program_type_oven_started": "烤箱啟動",
     "CL_AI_program_status_run_title": "烹飪...",
     "CL_AI_program_agent_note": "注意：本程式由人工智慧產生。請檢查設定以確保最佳效果。",
-    "CL_AI_guide_assistant_tips": "嗨，我是VIDAA，你的 <b>人工智慧助手</b>我可以指導你，推薦合適的方案，讓日常任務更輕鬆。想看看我能做些什麼嗎？",
     "CL_AI_program_type_oven_title": "這道菜的最佳烹飪程序是：",
     "CL_AI_program_type_oven_optimised_title": "太好了，這是優化後的程序：",
     "CL_AI_program_type_wash_title": "最適合這種洗滌方式的程序是：",
@@ -7258,5 +7255,7 @@
     "CL_DISH_DESIGNER_select_ingredients": "精選食材",
     "CL_DISH_DESIGNER_select_ingredients_des": "選擇食譜中可能用到的食材。菜餚設計師會從這些食材中選擇搭配起來味道不錯的食材來製作這道菜。",
     "CL_DISH_DESIGNER_select_ingredients_des2": "灰色部分為“可選”配料。 ",
-    "CL_CF_unit_ml": "毫升"
+    "CL_CF_unit_ml": "毫升",
+    "CL_AI_guide_assistant_new_tips": "嗨，我是VIDAA，你的 <b>人工智慧助手</b>我可以指導你，推薦合適的方案，讓日常任務更輕鬆。想看看我能做些什麼嗎？",
+    "CL_CF_energy_solar_optimizer_title": "太陽能優化器"
 }
