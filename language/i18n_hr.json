@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Pretražite sastojak ili jelo",
     "CL_DV_OV_browse_all_auto_programs": "Pregledajte sve automatske programe",
     "CL_AI_oven_troubleshoot": "Rješavanje problema s pećnicom",
-    "CL_AI_wm_troubleshoot": "Rješavanje problema s WM-om"
+    "CL_AI_wm_troubleshoot": "Rješavanje problema s WM-om",
+    "CL_DISH_DESIGNER_select_ingredients": "Odaberite sastojke",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Odaberite sastojke koji se mogu koristiti u receptu. Iz ovog odabira, Dish Designer će koristiti one koji imaju dobar okus zajedno kako bi stvorio recept.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "'Neobavezni' sastojci prikazani su sivom bojom. ",
+    "CL_CF_unit_ml": "Ml"
 }

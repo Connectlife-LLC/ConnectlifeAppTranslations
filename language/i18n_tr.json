@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Malzeme veya yemek arayın",
     "CL_DV_OV_browse_all_auto_programs": "Tüm Otomatik Programlara Göz Atın",
     "CL_AI_oven_troubleshoot": "Fırın Sorun Giderme",
-    "CL_AI_wm_troubleshoot": "WM Sorun Giderme"
+    "CL_AI_wm_troubleshoot": "WM Sorun Giderme",
+    "CL_DISH_DESIGNER_select_ingredients": "Malzemeleri seçin",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Tarifte kullanılabilecek malzemeleri seçin. Dish Designer, bu seçimler arasından birlikte lezzetli olanları kullanarak tarifi oluşturacaktır.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "'İsteğe bağlı' malzemeler gri renkte gösterilmiştir. ",
+    "CL_CF_unit_ml": "ml"
 }

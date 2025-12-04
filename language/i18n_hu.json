@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Hozzávaló vagy étel keresése",
     "CL_DV_OV_browse_all_auto_programs": "Böngésszen az összes autóprogram között",
     "CL_AI_oven_troubleshoot": "Sütő hibaelhárítása",
-    "CL_AI_wm_troubleshoot": "WM hibaelhárítás"
+    "CL_AI_wm_troubleshoot": "WM hibaelhárítás",
+    "CL_DISH_DESIGNER_select_ingredients": "Válasszon hozzávalókat",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Válassz olyan hozzávalókat, amelyek felhasználhatók a receptben. Ezekből a választékból a Dish Designer azokat fogja felhasználni a recept elkészítéséhez, amelyek jól ízlenek együtt.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Az „opcionális” hozzávalók szürkén jelennek meg. ",
+    "CL_CF_unit_ml": "ml"
 }

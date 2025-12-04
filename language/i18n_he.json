@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "חיפוש מרכיב או מנה",
     "CL_DV_OV_browse_all_auto_programs": "עיין בכל תוכניות הרכב",
     "CL_AI_oven_troubleshoot": "פתרון בעיות בתנור",
-    "CL_AI_wm_troubleshoot": "פתרון בעיות WM"
+    "CL_AI_wm_troubleshoot": "פתרון בעיות WM",
+    "CL_DISH_DESIGNER_select_ingredients": "בחר מרכיבים",
+    "CL_DISH_DESIGNER_select_ingredients_des": "בחרו מרכיבים שניתן להשתמש בהם במתכון. מתוך בחירה זו, מעצב המנה ישתמש במרכיבים הטעימים יחד כדי ליצור את המתכון.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "מרכיבים 'אופציונליים' מוצגים באפור. ",
+    "CL_CF_unit_ml": "ml"
 }

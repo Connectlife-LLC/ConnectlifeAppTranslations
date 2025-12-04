@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Caută ingredient sau preparat",
     "CL_DV_OV_browse_all_auto_programs": "Răsfoiți toate programele auto",
     "CL_AI_oven_troubleshoot": "Depanare cuptor",
-    "CL_AI_wm_troubleshoot": "Depanare WM"
+    "CL_AI_wm_troubleshoot": "Depanare WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Selectați ingredientele",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Alegeți ingrediente care pot fi folosite în rețetă. Din această selecție, Dish Designer le va folosi împreună pe cele care au un gust bun pentru a crea rețeta.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Ingredientele „opționale” sunt afișate cu gri. ",
+    "CL_CF_unit_ml": "ml"
 }

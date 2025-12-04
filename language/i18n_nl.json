@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Zoek op ingrediënt of gerecht",
     "CL_DV_OV_browse_all_auto_programs": "Blader door alle automatische programma's",
     "CL_AI_oven_troubleshoot": "Problemen met de oven oplossen",
-    "CL_AI_wm_troubleshoot": "WM Problemen oplossen"
+    "CL_AI_wm_troubleshoot": "WM Problemen oplossen",
+    "CL_DISH_DESIGNER_select_ingredients": "Selecteer ingrediënten",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Kies ingrediënten die in het recept gebruikt kunnen worden. Uit deze selectie gebruikt Dish Designer de ingrediënten die het lekkerst smaken om het recept te creëren.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "'Optionele' ingrediënten worden grijs weergegeven. ",
+    "CL_CF_unit_ml": "Ml"
 }

@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Søk etter ingrediens eller rett",
     "CL_DV_OV_browse_all_auto_programs": "Bla gjennom alle bilprogrammer",
     "CL_AI_oven_troubleshoot": "Feilsøking av ovn",
-    "CL_AI_wm_troubleshoot": "WM-feilsøking"
+    "CL_AI_wm_troubleshoot": "WM-feilsøking",
+    "CL_DISH_DESIGNER_select_ingredients": "Velg ingredienser",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Velg ingredienser som kan brukes i oppskriften. Fra dette utvalget vil Dish Designer bruke de som smaker godt sammen for å lage oppskriften.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "'Valgfrie' ingredienser er vist i grått. ",
+    "CL_CF_unit_ml": "ml"
 }

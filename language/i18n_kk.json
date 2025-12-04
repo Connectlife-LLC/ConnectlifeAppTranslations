@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Ингредиент немесе тағамды іздеңіз",
     "CL_DV_OV_browse_all_auto_programs": "Барлық автобағдарламаларды шолыңыз",
     "CL_AI_oven_troubleshoot": "Пеш ақауларын жою",
-    "CL_AI_wm_troubleshoot": "WM ақауларын жою"
+    "CL_AI_wm_troubleshoot": "WM ақауларын жою",
+    "CL_DISH_DESIGNER_select_ingredients": "Ингредиенттерді таңдаңыз",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Рецептте қолдануға болатын ингредиенттерді таңдаңыз. Осы таңдаудың ішінен тағам дизайнері рецепт жасау үшін дәмі жақсы болатындарын бірге пайдаланады.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "\"Қосымша\"-ингредиенттер сұр түспен көрсетілген. ",
+    "CL_CF_unit_ml": "мл"
 }

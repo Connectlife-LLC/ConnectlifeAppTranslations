@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "ابحث عن المكون أو الطبق",
     "CL_DV_OV_browse_all_auto_programs": "تصفح جميع برامج السيارات",
     "CL_AI_oven_troubleshoot": "استكشاف أخطاء الفرن وإصلاحها",
-    "CL_AI_wm_troubleshoot": "استكشاف أخطاء WM وإصلاحها"
+    "CL_AI_wm_troubleshoot": "استكشاف أخطاء WM وإصلاحها",
+    "CL_DISH_DESIGNER_select_ingredients": "اختر المكونات",
+    "CL_DISH_DESIGNER_select_ingredients_des": "اختر المكونات التي يمكن استخدامها في الوصفة. من هذا الاختيار، سيستخدم مصمم الأطباق المكونات ذات المذاق اللذيذ معًا لإنشاء الوصفة.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "تظهر المكونات \"اختيارية\" باللون الرمادي. ",
+    "CL_CF_unit_ml": "مل"
 }

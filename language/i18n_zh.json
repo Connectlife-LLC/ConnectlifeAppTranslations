@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "搜索食材或菜肴",
     "CL_DV_OV_browse_all_auto_programs": "浏览所有汽车程序",
     "CL_AI_oven_troubleshoot": "烤箱故障排除",
-    "CL_AI_wm_troubleshoot": "WM故障排除"
+    "CL_AI_wm_troubleshoot": "WM故障排除",
+    "CL_DISH_DESIGNER_select_ingredients": "精选食材",
+    "CL_DISH_DESIGNER_select_ingredients_des": "选择食谱中可能用到的食材。菜品设计师会从这些食材中选择搭配起来味道不错的食材来制作这道菜。",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "灰色显示的是“可选”配料。 ",
+    "CL_CF_unit_ml": "毫升"
 }

@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Hledat ingredienci nebo pokrm",
     "CL_DV_OV_browse_all_auto_programs": "Procházet všechny automatické programy",
     "CL_AI_oven_troubleshoot": "Řešení problémů s troubou",
-    "CL_AI_wm_troubleshoot": "Řešení problémů s WM"
+    "CL_AI_wm_troubleshoot": "Řešení problémů s WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Vyberte ingredience",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Vyberte ingredience, které lze v receptu použít. Z tohoto výběru Dish Designer použije ty, které vám chutnají společně, k vytvoření receptu.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "„Volitelné“ ingredience jsou zobrazeny šedě. ",
+    "CL_CF_unit_ml": "ml"
 }

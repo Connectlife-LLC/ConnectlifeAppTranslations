@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Suche nach Zutat oder Gericht",
     "CL_DV_OV_browse_all_auto_programs": "Alle Autoprogramme durchsuchen",
     "CL_AI_oven_troubleshoot": "Ofen-Fehlerbehebung",
-    "CL_AI_wm_troubleshoot": "WM-Fehlerbehebung"
+    "CL_AI_wm_troubleshoot": "WM-Fehlerbehebung",
+    "CL_DISH_DESIGNER_select_ingredients": "Ausgewählte Zutaten",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Wählen Sie Zutaten aus, die im Rezept verwendet werden können. Aus dieser Auswahl verwendet Dish Designer diejenigen, die geschmacklich gut zusammenpassen, um das Rezept zu kreieren.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Optionale Zutaten sind grau dargestellt. ",
+    "CL_CF_unit_ml": "ml"
 }

@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Tìm kiếm thành phần hoặc món ăn",
     "CL_DV_OV_browse_all_auto_programs": "Duyệt tất cả các Chương trình Tự động",
     "CL_AI_oven_troubleshoot": "Khắc phục sự cố lò nướng",
-    "CL_AI_wm_troubleshoot": "Khắc phục sự cố WM"
+    "CL_AI_wm_troubleshoot": "Khắc phục sự cố WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Chọn thành phần",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Chọn các nguyên liệu có thể dùng trong công thức. Từ danh sách này, Dish Designer sẽ sử dụng những nguyên liệu có hương vị ngon nhất để tạo nên công thức.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Các thành phần 'Tùy chọn' được hiển thị bằng màu xám. ",
+    "CL_CF_unit_ml": "ml"
 }

@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Поиск ингредиента или блюда",
     "CL_DV_OV_browse_all_auto_programs": "Просмотреть все автоматические программы",
     "CL_AI_oven_troubleshoot": "Устранение неполадок в духовке",
-    "CL_AI_wm_troubleshoot": "Устранение неполадок WM"
+    "CL_AI_wm_troubleshoot": "Устранение неполадок WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Выберите ингредиенты",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Выберите ингредиенты, которые можно использовать в рецепте. Dish Designer выберет из этого списка те, которые хорошо сочетаются друг с другом, и создаст рецепт.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "«Необязательные» ингредиенты показаны серым цветом. ",
+    "CL_CF_unit_ml": "мл"
 }

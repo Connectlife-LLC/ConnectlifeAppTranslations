@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Sök efter ingrediens eller rätt",
     "CL_DV_OV_browse_all_auto_programs": "Bläddra bland alla bilprogram",
     "CL_AI_oven_troubleshoot": "Felsökning av ugn",
-    "CL_AI_wm_troubleshoot": "WM-felsökning"
+    "CL_AI_wm_troubleshoot": "WM-felsökning",
+    "CL_DISH_DESIGNER_select_ingredients": "Välj ingredienser",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Välj ingredienser som kan användas i receptet. Från detta urval kommer Dish Designer att använda de som smakar bra tillsammans för att skapa receptet.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Ingredienser som är 'valfria' visas i grått. ",
+    "CL_CF_unit_ml": "ml"
 }

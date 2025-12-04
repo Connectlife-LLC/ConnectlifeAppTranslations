@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Cari bahan atau hidangan",
     "CL_DV_OV_browse_all_auto_programs": "Telusuri semua Program Otomatis",
     "CL_AI_oven_troubleshoot": "Pemecahan Masalah Oven",
-    "CL_AI_wm_troubleshoot": "Pemecahan Masalah WM"
+    "CL_AI_wm_troubleshoot": "Pemecahan Masalah WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Pilih bahan-bahan",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Pilih bahan-bahan yang mungkin digunakan dalam resep. Dari pilihan ini, Dish Designer akan menggabungkan bahan-bahan yang rasanya lezat untuk menciptakan resep tersebut.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Bahan-bahan 'Opsional' ditunjukkan dengan warna abu-abu. ",
+    "CL_CF_unit_ml": "ml"
 }

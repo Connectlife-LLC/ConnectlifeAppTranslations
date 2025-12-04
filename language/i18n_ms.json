@@ -7254,5 +7254,9 @@
     "CL_DV_OV_search_for_ingredient_placeholder": "Cari bahan atau hidangan",
     "CL_DV_OV_browse_all_auto_programs": "Semak imbas semua Program Auto",
     "CL_AI_oven_troubleshoot": "Selesaikan Masalah Ketuhar",
-    "CL_AI_wm_troubleshoot": "Selesaikan masalah WM"
+    "CL_AI_wm_troubleshoot": "Selesaikan masalah WM",
+    "CL_DISH_DESIGNER_select_ingredients": "Pilih bahan",
+    "CL_DISH_DESIGNER_select_ingredients_des": "Pilih bahan-bahan yang boleh digunakan dalam resipi. Daripada pilihan ini, Dish Designer akan menggunakan resipi yang sedap bersama-sama untuk mencipta resipi.",
+    "CL_DISH_DESIGNER_select_ingredients_des2": "Bahan 'Pilihan' ditunjukkan dalam warna kelabu. ",
+    "CL_CF_unit_ml": "ml"
 }
