@@ -2738,7 +2738,6 @@
     "next_step": "下一步",
     "rf_start_convert_250": "您已启动Convert，冷冻室将会转变为Smart Zone，温度转变为0℃；冷藏室温度将转变为4℃，请注意食材存放位置是否合理。",
     "rf_start_convert_213": "转换模式已启用。冷冻室现为智能温区，温度设定为 0°C；冷藏室温度设定为 4°C。请检查食物储存情况。",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "转换模式已禁用。智能区将恢复至-18°C冷冻状态。请检查食物储存情况。",
     "unfold_zone": "展开所有分区",
     "fold_zone": "折叠所有分区",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "选择您想使用的烹饪器具。如果未选择，系统将推荐适用于烤箱和炉灶的食谱。选择一种器具后，食谱将仅限于该器具。",
     "breakfast": "早餐",
     "lunch": "午餐",
-    "dinner": "",
     "starter": "起动机",
     "main": "主要的",
     "side": "边",
@@ -7108,7 +7106,6 @@
     "CL_AI_program_type_oven_started": "烤箱启动",
     "CL_AI_program_status_run_title": "烹饪...",
     "CL_AI_program_agent_note": "注意：本程序由人工智能生成。请检查设置以确保获得最佳效果。",
-    "CL_AI_guide_assistant_tips": "嗨，我是VIDAA，你的 <b>人工智能助手</b>我可以指导你，推荐合适的方案，让日常任务更轻松。想看看我能做些什么吗？",
     "CL_AI_program_type_oven_title": "这道菜的最佳烹饪程序是：",
     "CL_AI_program_type_oven_optimised_title": "太好了，这是优化后的程序：",
     "CL_AI_program_type_wash_title": "最适合这种洗涤方式的程序是：",
@@ -7258,5 +7255,13 @@
     "CL_DISH_DESIGNER_select_ingredients": "精选食材",
     "CL_DISH_DESIGNER_select_ingredients_des": "选择食谱中可能用到的食材。菜品设计师会从这些食材中选择搭配起来味道不错的食材来制作这道菜。",
     "CL_DISH_DESIGNER_select_ingredients_des2": "灰色显示的是“可选”配料。 ",
-    "CL_CF_unit_ml": "毫升"
+    "CL_CF_unit_ml": "毫升",
+    "CL_AI_guide_assistant_new_tips": "嗨，我是VIDAA，你的 <b>人工智能助手</b>我可以指导你，推荐合适的方案，让日常任务更轻松。想看看我能做些什么吗？",
+    "CL_CF_energy_solar_optimizer_title": "太阳能优化器",
+    "CL_CF_energy_solar_optimizer_desc": "充分利用多余的太阳能",
+    "CL_CF_energy_solar_optimizer_devices_running": "## 运行中的设备",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "利用多余的太阳能",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "太阳能模式",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "今日太阳能抵消",
+    "CL_CF_energy_solar_optimizer_applied_devices": "应用设备公司"
 }
