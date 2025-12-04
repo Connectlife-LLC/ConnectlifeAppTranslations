@@ -2738,7 +2738,6 @@
     "next_step": "NÆSTE SKRIDT",
     "rf_start_convert_250": "Du har startet Konverter, fryseren omdannes til Smart Zone med en temperatur på 0℃; Køleskabet omdannes til 4℃, vær opmærksom på opbevaring af mad.",
     "rf_start_convert_213": "Konverteringstilstand aktiveret. Fryseren er nu Smart Zone ved 0°C; køleskabet ved 4°C. Kontroller opbevaring af fødevarer.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Konverteringstilstand deaktiveret. Smart Zone vender tilbage til fryser ved -18°C. Kontroller opbevaring af madvarer.",
     "unfold_zone": "udfolde alle zoner",
     "fold_zone": "fold alle zoner",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Vælg det apparat, du vil lave mad med. Hvis du ikke foretager et valg, vil opskrifter, der fungerer med både ovn og kogeplade, blive foreslået. Hvis du vælger én, begrænses opskrifterne til kun det apparat.",
     "breakfast": "morgenmad",
     "lunch": "frokost",
-    "dinner": "",
     "starter": "forret",
     "main": "vigtigste",
     "side": "side",
@@ -7108,7 +7106,6 @@
     "CL_AI_program_type_oven_started": "Ovn startet",
     "CL_AI_program_status_run_title": "Madlavning...",
     "CL_AI_program_agent_note": "Bemærk: Dette program blev genereret af AI. Gennemgå indstillingerne for at sikre det bedste resultat.",
-    "CL_AI_guide_assistant_tips": "Hej, jeg er VIDAA, din <b>AI-assistent</b>Jeg kan vejlede dig, foreslå programmer og gøre daglige opgaver lettere. Vil du se, hvad jeg kan gøre?",
     "CL_AI_program_type_oven_title": "Det bedste program til denne ret er:",
     "CL_AI_program_type_oven_optimised_title": "Fantastisk, dette er det optimerede program:",
     "CL_AI_program_type_wash_title": "Det bedste program til denne vask er:",
@@ -7258,5 +7255,13 @@
     "CL_DISH_DESIGNER_select_ingredients": "Vælg ingredienser",
     "CL_DISH_DESIGNER_select_ingredients_des": "Vælg ingredienser, der kan bruges i opskriften. Fra dette udvalg vil Dish Designer bruge dem, der smager godt, sammen til at skabe opskriften.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "'Valgfrie' ingredienser er vist med gråt. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Hej, jeg er VIDAA, din <b>AI-assistent</b>Jeg kan vejlede dig, foreslå programmer og gøre daglige opgaver lettere. Vil du se, hvad jeg kan gøre?",
+    "CL_CF_energy_solar_optimizer_title": "Soloptimering",
+    "CL_CF_energy_solar_optimizer_desc": "Udnyt din overskydende solenergi fuldt ud",
+    "CL_CF_energy_solar_optimizer_devices_running": "## enheder kører",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Brug af overskydende solenergi",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Solenergitilstand",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Dagens solkompensation",
+    "CL_CF_energy_solar_optimizer_applied_devices": "ANVENDTE ENHEDER"
 }

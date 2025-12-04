@@ -2738,7 +2738,6 @@
     "next_step": "L'ÉTAPE SUIVANTE",
     "rf_start_convert_250": "Vous avez démarré Convert, le congélateur se transformera en Smart Zone avec une température de 0℃ ; le réfrigérateur se transformera en 4℃, veuillez faire attention au stockage des aliments.",
     "rf_start_convert_213": "Mode de conversion activé. Le congélateur est désormais en zone intelligente à 0 °C ; le réfrigérateur à 4 °C. Veuillez vérifier la température de conservation des aliments.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Mode de conversion désactivé. La zone intelligente revient en mode congélateur à -18 °C. Veuillez vérifier la température des aliments.",
     "unfold_zone": "déplier toutes les zones",
     "fold_zone": "plier toutes les zones",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Choisissez l'appareil de cuisson que vous souhaitez utiliser. Si vous ne faites aucune sélection, des recettes compatibles avec le four et les plaques de cuisson vous seront proposées. En sélectionnant un appareil, vous limiterez les recettes à celui-ci.",
     "breakfast": "petit-déjeuner",
     "lunch": "déjeuner",
-    "dinner": "",
     "starter": "démarreur",
     "main": "principal",
     "side": "côté",
@@ -7108,7 +7106,6 @@
     "CL_AI_program_type_oven_started": "Le four a commencé à chauffer",
     "CL_AI_program_status_run_title": "Cuisson...",
     "CL_AI_program_agent_note": "Remarque : Ce programme a été généré par une IA. Vérifiez les paramètres pour un résultat optimal.",
-    "CL_AI_guide_assistant_tips": "Salut, je suis VIDAA, votre <b>Assistant IA</b>Je peux vous guider, vous suggérer des programmes et simplifier vos tâches quotidiennes. Envie de voir ce que je peux faire ?",
     "CL_AI_program_type_oven_title": "Le meilleur programme pour ce plat est :",
     "CL_AI_program_type_oven_optimised_title": "Parfait, voici le programme optimisé :",
     "CL_AI_program_type_wash_title": "Le meilleur programme pour ce lavage est :",
@@ -7258,5 +7255,13 @@
     "CL_DISH_DESIGNER_select_ingredients": "Ingrédients sélectionnés",
     "CL_DISH_DESIGNER_select_ingredients_des": "Choisissez les ingrédients qui pourraient servir à la recette. Parmi cette sélection, Dish Designer utilisera ceux qui se marient bien pour créer la recette.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "Les ingrédients « facultatifs » sont indiqués en gris. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Salut, je suis VIDAA, votre <b>Assistant IA</b>Je peux vous guider, vous suggérer des programmes et simplifier vos tâches quotidiennes. Envie de voir ce que je peux faire ?",
+    "CL_CF_energy_solar_optimizer_title": "optimiseur solaire",
+    "CL_CF_energy_solar_optimizer_desc": "Tirez pleinement parti de votre surplus d'énergie solaire",
+    "CL_CF_energy_solar_optimizer_devices_running": "## appareils en cours d'exécution",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Utiliser l'énergie solaire excédentaire",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "mode d'énergie solaire",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Compensation solaire d'aujourd'hui",
+    "CL_CF_energy_solar_optimizer_applied_devices": "APPAREILS APPLIQUÉS"
 }

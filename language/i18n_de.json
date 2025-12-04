@@ -2738,7 +2738,6 @@
     "next_step": "NÄCHSTER SCHRITT",
     "rf_start_convert_250": "Sie haben die Konvertierung gestartet, der Gefrierschrank verwandelt sich in eine Smart Zone mit einer Temperatur von 0 °C; der Kühlschrank verwandelt sich in eine Temperatur von 4 °C. Achten Sie bitte auf die Lagerung der Lebensmittel.",
     "rf_start_convert_213": "Der Konvertierungsmodus ist aktiviert. Der Gefrierschrank befindet sich nun in der Smart Zone bei 0 °C, der Kühlschrank bei 4 °C. Bitte überprüfen Sie die Lagerung Ihrer Lebensmittel.",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "Der Konvertierungsmodus ist deaktiviert. Die Smart Zone schaltet wieder auf -18 °C in den Gefrierschrank. Bitte überprüfen Sie die eingelagerten Lebensmittel.",
     "unfold_zone": "Alle Zonen aufklappen",
     "fold_zone": "alle Zonen zusammenklappen",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Wählen Sie das Gerät, mit dem Sie kochen möchten. Wenn Sie keine Auswahl treffen, werden Ihnen Rezepte vorgeschlagen, die sowohl für Backofen als auch für Herdplatte geeignet sind. Wenn Sie ein Gerät auswählen, werden Ihnen nur Rezepte für dieses Gerät angezeigt.",
     "breakfast": "Frühstück",
     "lunch": "Mittagessen",
-    "dinner": "",
     "starter": "Anlasser",
     "main": "hauptsächlich",
     "side": "Seite",
@@ -7108,7 +7106,6 @@
     "CL_AI_program_type_oven_started": "Ofen gestartet",
     "CL_AI_program_status_run_title": "Kochen...",
     "CL_AI_program_agent_note": "Hinweis: Dieses Programm wurde von einer KI generiert. Überprüfen Sie die Einstellungen, um optimale Ergebnisse zu erzielen.",
-    "CL_AI_guide_assistant_tips": "Hallo, ich bin VIDAA, Ihr <b>KI-Assistent</b>Ich kann Sie beraten, Ihnen Programme vorschlagen und Ihnen alltägliche Aufgaben erleichtern. Möchten Sie sehen, was ich für Sie tun kann?",
     "CL_AI_program_type_oven_title": "Das beste Programm für dieses Gericht ist:",
     "CL_AI_program_type_oven_optimised_title": "Großartig, dies ist das optimierte Programm:",
     "CL_AI_program_type_wash_title": "Das beste Programm für diesen Waschgang ist:",
@@ -7258,5 +7255,13 @@
     "CL_DISH_DESIGNER_select_ingredients": "Ausgewählte Zutaten",
     "CL_DISH_DESIGNER_select_ingredients_des": "Wählen Sie Zutaten aus, die im Rezept verwendet werden können. Aus dieser Auswahl verwendet Dish Designer diejenigen, die geschmacklich gut zusammenpassen, um das Rezept zu kreieren.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "Optionale Zutaten sind grau dargestellt. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Hallo, ich bin VIDAA, Ihr <b>KI-Assistent</b>Ich kann Sie beraten, Ihnen Programme vorschlagen und Ihnen alltägliche Aufgaben erleichtern. Möchten Sie sehen, was ich für Sie tun kann?",
+    "CL_CF_energy_solar_optimizer_title": "Solaroptimierer",
+    "CL_CF_energy_solar_optimizer_desc": "Nutzen Sie Ihre überschüssige Solarenergie voll aus.",
+    "CL_CF_energy_solar_optimizer_devices_running": "## Geräte im Betrieb",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Nutzung überschüssiger Solarenergie",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Solarenergiemodus",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Heutige Solarkompensation",
+    "CL_CF_energy_solar_optimizer_applied_devices": "ANGEWANDTE GERÄTE"
 }

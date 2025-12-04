@@ -2738,7 +2738,6 @@
     "next_step": "अगला कदम",
     "rf_start_convert_250": "आपने कन्वर्ट शुरू कर दिया है, फ्रीजर 0 ℃ के तापमान के साथ स्मार्ट जोन में बदल जाएगा; फ्रिज 4 ℃ में बदल जाएगा, कृपया भोजन के भंडारण पर ध्यान दें।",
     "rf_start_convert_213": "कन्वर्ट मोड चालू है। फ़्रीज़र अब 0°C पर स्मार्ट ज़ोन है; फ़्रिज 4°C पर। कृपया खाद्य भंडारण की जाँच करें।",
-    "rf_close_convert_250": "",
     "rf_close_convert_213": "कन्वर्ट मोड अक्षम है। स्मार्ट ज़ोन -18°C पर फ़्रीज़र में वापस आ जाता है। कृपया खाद्य भंडारण की जाँच करें।",
     "unfold_zone": "सभी क्षेत्रों को खोलें",
     "fold_zone": "सभी क्षेत्रों को मोड़ो",
@@ -7066,7 +7065,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "वह उपकरण चुनें जिससे आप खाना बनाना चाहते हैं। अगर कोई विकल्प नहीं चुना जाता है, तो ओवन और हॉब दोनों पर काम करने वाली रेसिपी सुझाई जाएँगी। किसी एक को चुनने से रेसिपी सिर्फ़ उसी उपकरण तक सीमित हो जाएँगी।",
     "breakfast": "नाश्ता",
     "lunch": "दिन का खाना",
-    "dinner": "",
     "starter": "स्टार्टर",
     "main": "मुख्य",
     "side": "ओर",
@@ -7108,7 +7106,6 @@
     "CL_AI_program_type_oven_started": "ओवन चालू",
     "CL_AI_program_status_run_title": "खाना बनाना...",
     "CL_AI_program_agent_note": "नोट: यह प्रोग्राम AI द्वारा तैयार किया गया है। सर्वोत्तम परिणाम सुनिश्चित करने के लिए सेटिंग्स की समीक्षा करें।",
-    "CL_AI_guide_assistant_tips": "नमस्ते, मैं VIDAA हूँ, आपका <b>एआई सहायक</b>मैं आपको मार्गदर्शन दे सकता हूँ, कार्यक्रम सुझा सकता हूँ और आपके दैनिक कार्यों को आसान बना सकता हूँ। देखना चाहते हैं कि मैं क्या कर सकता हूँ?",
     "CL_AI_program_type_oven_title": "इस व्यंजन के लिए सबसे अच्छा कार्यक्रम है:",
     "CL_AI_program_type_oven_optimised_title": "बढ़िया, यह अनुकूलित कार्यक्रम है:",
     "CL_AI_program_type_wash_title": "इस धुलाई के लिए सबसे अच्छा कार्यक्रम है:",
@@ -7258,5 +7255,13 @@
     "CL_DISH_DESIGNER_select_ingredients": "सामग्री का चयन करें",
     "CL_DISH_DESIGNER_select_ingredients_des": "रेसिपी में इस्तेमाल होने वाली सामग्री चुनें। इस चयन में से, डिश डिज़ाइनर उन सामग्रियों का इस्तेमाल करके रेसिपी तैयार करेगा जो स्वादिष्ट लगेंगी।",
     "CL_DISH_DESIGNER_select_ingredients_des2": "'वैकल्पिक'-सामग्री ग्रे रंग में दिखाई गई है। ",
-    "CL_CF_unit_ml": "एमएल"
+    "CL_CF_unit_ml": "एमएल",
+    "CL_AI_guide_assistant_new_tips": "नमस्ते, मैं VIDAA हूँ, आपका <b>एआई सहायक</b>मैं आपको मार्गदर्शन दे सकता हूँ, कार्यक्रम सुझा सकता हूँ और आपके दैनिक कार्यों को आसान बना सकता हूँ। देखना चाहते हैं कि मैं क्या कर सकता हूँ?",
+    "CL_CF_energy_solar_optimizer_title": "सौर अनुकूलक",
+    "CL_CF_energy_solar_optimizer_desc": "अपनी अतिरिक्त सौर ऊर्जा का पूरा उपयोग करें",
+    "CL_CF_energy_solar_optimizer_devices_running": "## चल रहे उपकरण",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "अतिरिक्त सौर ऊर्जा का उपयोग",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "सौर ऊर्जा मोड",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "आज का सौर ऑफसेट",
+    "CL_CF_energy_solar_optimizer_applied_devices": "लागू उपकरण"
 }
