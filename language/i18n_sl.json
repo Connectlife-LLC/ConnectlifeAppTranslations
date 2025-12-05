@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Pečica je zagnana",
     "CL_AI_program_status_run_title": "Kuhanje ...",
     "CL_AI_program_agent_note": "Opomba: Ta program je ustvarila umetna inteligenca. Preverite nastavitve, da zagotovite najboljši rezultat.",
-    "CL_AI_guide_assistant_tips": "Pozdravljeni, sem VIDAA, vaš pomočnik z umetno inteligenco <b></b>. Lahko vas vodim, predlagam programe in vam olajšam vsakodnevna opravila. Želite videti, kaj lahko naredim?",
     "CL_AI_program_type_oven_title": "Najboljši program za to jed je:",
     "CL_AI_program_type_oven_optimised_title": "Super, to je optimiziran program:",
     "CL_AI_program_type_wash_title": "Najboljši program za to pranje je:",
@@ -7258,5 +7257,15 @@
     "CL_DISH_DESIGNER_select_ingredients": "Izberite sestavine",
     "CL_DISH_DESIGNER_select_ingredients_des": "Izberite sestavine, ki jih lahko uporabite v receptu. Iz te izbire bo Dish Designer uporabil tiste, ki so skupaj okusne, da ustvari recept.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "„Neobvezne“ sestavine so prikazane sivo. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Pozdravljeni, jaz sem VIDAA, vaš <b>AI asistent</b>. Lahko vas vodim, predlagam programe in olajšam vsakdanjih opravil. Želite videti, kaj lahko naredim?",
+    "CL_CF_energy_solar_optimizer_title": "Sončni optimizator",
+    "CL_CF_energy_solar_optimizer_desc": "V celoti izkoristite svojo presežno sončno energijo",
+    "CL_CF_energy_solar_optimizer_devices_running": "## naprav, ki delujejo",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Uporaba presežne sončne energije",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Način sončne energije",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Današnji sončni odmik",
+    "CL_CF_energy_solar_optimizer_applied_devices": "UPORABLJENE NAPRAVE",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Ustvarite svoje recepte",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Izberite sestavine, kuhinjo in okus, da oblikujete svojo edinstveno jed."
 }
