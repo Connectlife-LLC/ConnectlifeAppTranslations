@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Ο φούρνος ξεκίνησε",
     "CL_AI_program_status_run_title": "Μαγείρεμα...",
     "CL_AI_program_agent_note": "Σημείωση: Αυτό το πρόγραμμα δημιουργήθηκε από Τεχνητή Νοημοσύνη. Ελέγξτε τις ρυθμίσεις για να εξασφαλίσετε το καλύτερο αποτέλεσμα.",
-    "CL_AI_guide_assistant_tips": "Γεια σας, είμαι η VIDAA, η δική σας <b>Βοηθός Τεχνητής Νοημοσύνης</b>Μπορώ να σας καθοδηγήσω, να σας προτείνω προγράμματα και να σας διευκολύνω στις καθημερινές σας εργασίες. Θέλετε να δείτε τι μπορώ να κάνω;",
     "CL_AI_program_type_oven_title": "Το καλύτερο πρόγραμμα για αυτό το πιάτο είναι:",
     "CL_AI_program_type_oven_optimised_title": "Τέλεια, αυτό είναι το βελτιστοποιημένο πρόγραμμα:",
     "CL_AI_program_type_wash_title": "Το καλύτερο πρόγραμμα για αυτό το πλύσιμο είναι:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Επιλέξτε συστατικά",
     "CL_DISH_DESIGNER_select_ingredients_des": "Επιλέξτε υλικά που μπορούν να χρησιμοποιηθούν στη συνταγή. Από αυτήν την επιλογή, το Dish Designer θα χρησιμοποιήσει αυτά που έχουν ωραία γεύση μαζί για να δημιουργήσει τη συνταγή.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "Τα «Προαιρετικά» συστατικά εμφανίζονται με γκρι χρώμα. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Γεια σας, είμαι η VIDAA, η δική σας <b>Βοηθός Τεχνητής Νοημοσύνης</b>Μπορώ να σας καθοδηγήσω, να σας προτείνω προγράμματα και να σας διευκολύνω στις καθημερινές σας εργασίες. Θέλετε να δείτε τι μπορώ να κάνω;",
+    "CL_CF_energy_solar_optimizer_title": "Βελτιστοποιητής ηλιακής ενέργειας",
+    "CL_CF_energy_solar_optimizer_desc": "Αξιοποιήστε πλήρως την πλεονάζουσα ηλιακή σας ενέργεια",
+    "CL_CF_energy_solar_optimizer_devices_running": "## συσκευές σε λειτουργία",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Χρήση πλεονάζουσας ηλιακής ενέργειας",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Λειτουργία ηλιακής ενέργειας",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Η σημερινή ηλιακή αντιστάθμιση",
+    "CL_CF_energy_solar_optimizer_applied_devices": "ΕΦΑΡΜΟΣΜΕΝΕΣ ΣΥΣΚΕΥΕΣ",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Δημιουργήστε τις δικές σας συνταγές",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Επιλέξτε υλικά, κουζίνα και γεύση για να σχεδιάσετε το μοναδικό σας πιάτο.",
+    "CL_DV_OV_recipe": "Συνταγή"
 }

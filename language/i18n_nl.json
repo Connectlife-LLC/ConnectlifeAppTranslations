@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Oven gestart",
     "CL_AI_program_status_run_title": "Koken...",
     "CL_AI_program_agent_note": "Let op: dit programma is gegenereerd door AI. Controleer de instellingen voor het beste resultaat.",
-    "CL_AI_guide_assistant_tips": "Hallo, ik ben VIDAA, jouw <b>AI-assistent</b>Ik kan je begeleiden, programma's voorstellen en dagelijkse taken vergemakkelijken. Wil je zien wat ik kan doen?",
     "CL_AI_program_type_oven_title": "Het beste programma voor dit gerecht is:",
     "CL_AI_program_type_oven_optimised_title": "Geweldig, dit is het geoptimaliseerde programma:",
     "CL_AI_program_type_wash_title": "Het beste programma voor deze wasbeurt is:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Selecteer ingrediënten",
     "CL_DISH_DESIGNER_select_ingredients_des": "Kies ingrediënten die in het recept gebruikt kunnen worden. Uit deze selectie gebruikt Dish Designer de ingrediënten die het lekkerst smaken om het recept te creëren.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "'Optionele' ingrediënten worden grijs weergegeven. ",
-    "CL_CF_unit_ml": "Ml"
+    "CL_CF_unit_ml": "Ml",
+    "CL_AI_guide_assistant_new_tips": "Hallo, ik ben VIDAA, jouw <b>AI-assistent</b>Ik kan je begeleiden, programma's voorstellen en dagelijkse taken vergemakkelijken. Wil je zien wat ik kan doen?",
+    "CL_CF_energy_solar_optimizer_title": "Zonne-optimalisator",
+    "CL_CF_energy_solar_optimizer_desc": "Maak optimaal gebruik van uw overtollige zonne-energie",
+    "CL_CF_energy_solar_optimizer_devices_running": "## apparaten draaien",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Gebruik van overtollige zonne-energie",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Zonne-energiemodus",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "De zonne-offset van vandaag",
+    "CL_CF_energy_solar_optimizer_applied_devices": "TOEGEPASTE APPARATEN",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Maak je eigen recepten",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Kies ingrediënten, keuken en smaak om uw unieke gerecht te creëren.",
+    "CL_DV_OV_recipe": "Recept"
 }

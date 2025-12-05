@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Рерната е вклучена",
     "CL_AI_program_status_run_title": "Готвење...",
     "CL_AI_program_agent_note": "Забелешка: Оваа програма е генерирана од вештачка интелигенција. Прегледајте ги поставките за да го обезбедите најдобриот резултат.",
-    "CL_AI_guide_assistant_tips": "Здраво, јас сум ВИДАА, твојот <b>Асистент за вештачка интелигенција</b>Можам да ве водам, да ви предлагам програми и да ви ги олеснам секојдневните задачи. Сакате да видите што можам да направам?",
     "CL_AI_program_type_oven_title": "Најдобрата програма за ова јадење е:",
     "CL_AI_program_type_oven_optimised_title": "Одлично, ова е оптимизирана програма:",
     "CL_AI_program_type_wash_title": "Најдобрата програма за ова перење е:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Изберете состојки",
     "CL_DISH_DESIGNER_select_ingredients_des": "Изберете состојки што можат да се користат во рецептот. Од овој избор, Dish Designer ќе ги користи оние што имаат добар вкус заедно за да го создаде рецептот.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "„Опционалните“ состојки се прикажани со сива боја. ",
-    "CL_CF_unit_ml": "мл"
+    "CL_CF_unit_ml": "мл",
+    "CL_AI_guide_assistant_new_tips": "Здраво, јас сум ВИДАА, твојот <b>Асистент за вештачка интелигенција</b>Можам да ве водам, да ви предлагам програми и да ви ги олеснам секојдневните задачи. Сакате да видите што можам да направам?",
+    "CL_CF_energy_solar_optimizer_title": "Соларен оптимизатор",
+    "CL_CF_energy_solar_optimizer_desc": "Искористете ја вашата вишок сончева енергија во целост",
+    "CL_CF_energy_solar_optimizer_devices_running": "## уреди работат",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Користење на вишок сончева енергија",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Режим на сончева енергија",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Денешно соларско компензирање",
+    "CL_CF_energy_solar_optimizer_applied_devices": "ПРИМЕНЕТИ УРЕДИ",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Создадете свои рецепти",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Изберете состојки, кујна и вкус за да го дизајнирате вашето уникатно јадење.",
+    "CL_DV_OV_recipe": "Рецепт"
 }

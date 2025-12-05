@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Духовка запущена",
     "CL_AI_program_status_run_title": "Приготовление пищи...",
     "CL_AI_program_agent_note": "Примечание: эта программа создана искусственным интеллектом. Проверьте настройки, чтобы добиться наилучшего результата.",
-    "CL_AI_guide_assistant_tips": "Привет, я ВИДАА, твой <b>ИИ-помощник</b>Я могу помочь вам, предложить программы и облегчить выполнение повседневных задач. Хотите узнать, что я могу сделать?",
     "CL_AI_program_type_oven_title": "Лучшая программа для этого блюда:",
     "CL_AI_program_type_oven_optimised_title": "Отлично, это оптимизированная программа:",
     "CL_AI_program_type_wash_title": "Лучшая программа для этой стирки:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Выберите ингредиенты",
     "CL_DISH_DESIGNER_select_ingredients_des": "Выберите ингредиенты, которые можно использовать в рецепте. Dish Designer выберет из этого списка те, которые хорошо сочетаются друг с другом, и создаст рецепт.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "«Необязательные» ингредиенты показаны серым цветом. ",
-    "CL_CF_unit_ml": "мл"
+    "CL_CF_unit_ml": "мл",
+    "CL_AI_guide_assistant_new_tips": "Привет, я ВИДАА, твой <b>ИИ-помощник</b>Я могу помочь вам, предложить программы и облегчить выполнение повседневных задач. Хотите узнать, что я могу сделать?",
+    "CL_CF_energy_solar_optimizer_title": "Солнечный оптимизатор",
+    "CL_CF_energy_solar_optimizer_desc": "Используйте избыток солнечной энергии по полной программе",
+    "CL_CF_energy_solar_optimizer_devices_running": "## устройств работает",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Использование избыточной солнечной энергии",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Режим солнечной энергии",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Сегодняшнее смещение солнечной энергии",
+    "CL_CF_energy_solar_optimizer_applied_devices": "ПРИКЛАДНЫЕ УСТРОЙСТВА",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Создайте свои собственные рецепты",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Выберите ингредиенты, кухню и вкус, чтобы создать свое уникальное блюдо.",
+    "CL_DV_OV_recipe": "Рецепт"
 }

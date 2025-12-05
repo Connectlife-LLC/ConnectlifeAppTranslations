@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Oven mulai menyala",
     "CL_AI_program_status_run_title": "Memasak...",
     "CL_AI_program_agent_note": "Catatan: Program ini dibuat oleh AI. Tinjau pengaturan untuk memastikan hasil terbaik.",
-    "CL_AI_guide_assistant_tips": "Hai, saya VIDAA, teman kamu <b>Asisten AI</b>Saya bisa memandu Anda, menyarankan program, dan mempermudah tugas sehari-hari. Mau lihat apa saja yang bisa saya lakukan?",
     "CL_AI_program_type_oven_title": "Program terbaik untuk hidangan ini adalah:",
     "CL_AI_program_type_oven_optimised_title": "Bagus, ini adalah program yang dioptimalkan:",
     "CL_AI_program_type_wash_title": "Program terbaik untuk pencucian ini adalah:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Pilih bahan-bahan",
     "CL_DISH_DESIGNER_select_ingredients_des": "Pilih bahan-bahan yang mungkin digunakan dalam resep. Dari pilihan ini, Dish Designer akan menggabungkan bahan-bahan yang rasanya lezat untuk menciptakan resep tersebut.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "Bahan-bahan 'Opsional' ditunjukkan dengan warna abu-abu. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Hai, saya VIDAA, teman kamu <b>Asisten AI</b>Saya bisa memandu Anda, menyarankan program, dan mempermudah tugas sehari-hari. Mau lihat apa saja yang bisa saya lakukan?",
+    "CL_CF_energy_solar_optimizer_title": "Pengoptimal surya",
+    "CL_CF_energy_solar_optimizer_desc": "Manfaatkan sepenuhnya kelebihan energi matahari Anda",
+    "CL_CF_energy_solar_optimizer_devices_running": "## perangkat yang berjalan",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Memanfaatkan energi matahari berlebih",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Mode energi surya",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Pergeseran matahari hari ini",
+    "CL_CF_energy_solar_optimizer_applied_devices": "PERANGKAT TERAPKAN",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Buat resep Anda sendiri",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Pilih bahan, masakan, dan rasa untuk mendesain hidangan unik Anda.",
+    "CL_DV_OV_recipe": "Resep"
 }

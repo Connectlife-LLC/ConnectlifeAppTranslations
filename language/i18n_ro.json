@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Cuptorul a pornit",
     "CL_AI_program_status_run_title": "Gătit...",
     "CL_AI_program_agent_note": "Notă: Acest program a fost generat de inteligența artificială. Verificați setările pentru a asigura cel mai bun rezultat.",
-    "CL_AI_guide_assistant_tips": "Salut, sunt VIDAA, al tău <b>Asistent AI</b>Te pot ghida, sugera programe și îți pot ușura sarcinile zilnice. Vrei să vezi ce pot face?",
     "CL_AI_program_type_oven_title": "Cel mai bun program pentru acest fel de mâncare este:",
     "CL_AI_program_type_oven_optimised_title": "Grozav, acesta este programul optimizat:",
     "CL_AI_program_type_wash_title": "Cel mai bun program pentru această spălare este:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Selectați ingredientele",
     "CL_DISH_DESIGNER_select_ingredients_des": "Alegeți ingrediente care pot fi folosite în rețetă. Din această selecție, Dish Designer le va folosi împreună pe cele care au un gust bun pentru a crea rețeta.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "Ingredientele „opționale” sunt afișate cu gri. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Salut, sunt VIDAA, al tău <b>Asistent AI</b>Te pot ghida, sugera programe și îți pot ușura sarcinile zilnice. Vrei să vezi ce pot face?",
+    "CL_CF_energy_solar_optimizer_title": "Optimizator solar",
+    "CL_CF_energy_solar_optimizer_desc": "Folosește din plin surplusul de energie solară",
+    "CL_CF_energy_solar_optimizer_devices_running": "## dispozitive care rulează",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Utilizarea surplusului de energie solară",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Mod de energie solară",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Compensarea solară de astăzi",
+    "CL_CF_energy_solar_optimizer_applied_devices": "DISPOZITIVE APLICATE",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Creează-ți propriile rețete",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Alege ingrediente, bucătărie și gust pentru a-ți crea un preparat unic.",
+    "CL_DV_OV_recipe": "Reţetă"
 }

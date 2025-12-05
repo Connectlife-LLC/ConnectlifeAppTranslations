@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Le four a commencé à chauffer",
     "CL_AI_program_status_run_title": "Cuisson...",
     "CL_AI_program_agent_note": "Remarque : Ce programme a été généré par une IA. Vérifiez les paramètres pour un résultat optimal.",
-    "CL_AI_guide_assistant_tips": "Salut, je suis VIDAA, votre <b>Assistant IA</b>Je peux vous guider, vous suggérer des programmes et simplifier vos tâches quotidiennes. Envie de voir ce que je peux faire ?",
     "CL_AI_program_type_oven_title": "Le meilleur programme pour ce plat est :",
     "CL_AI_program_type_oven_optimised_title": "Parfait, voici le programme optimisé :",
     "CL_AI_program_type_wash_title": "Le meilleur programme pour ce lavage est :",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Ingrédients sélectionnés",
     "CL_DISH_DESIGNER_select_ingredients_des": "Choisissez les ingrédients qui pourraient servir à la recette. Parmi cette sélection, Dish Designer utilisera ceux qui se marient bien pour créer la recette.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "Les ingrédients « facultatifs » sont indiqués en gris. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Salut, je suis VIDAA, votre <b>Assistant IA</b>Je peux vous guider, vous suggérer des programmes et simplifier vos tâches quotidiennes. Envie de voir ce que je peux faire ?",
+    "CL_CF_energy_solar_optimizer_title": "optimiseur solaire",
+    "CL_CF_energy_solar_optimizer_desc": "Tirez pleinement parti de votre surplus d'énergie solaire",
+    "CL_CF_energy_solar_optimizer_devices_running": "## appareils en cours d'exécution",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Utiliser l'énergie solaire excédentaire",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "mode d'énergie solaire",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Compensation solaire d'aujourd'hui",
+    "CL_CF_energy_solar_optimizer_applied_devices": "APPAREILS APPLIQUÉS",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Créez vos propres recettes",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Choisissez les ingrédients, le type de cuisine et les saveurs pour créer votre plat unique.",
+    "CL_DV_OV_recipe": "Recette"
 }

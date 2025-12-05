@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "烤箱啟動",
     "CL_AI_program_status_run_title": "烹飪...",
     "CL_AI_program_agent_note": "注意：本程式由人工智慧產生。請檢查設定以確保最佳效果。",
-    "CL_AI_guide_assistant_tips": "嗨，我是VIDAA，你的 <b>人工智慧助手</b>我可以指導你，推薦合適的方案，讓日常任務更輕鬆。想看看我能做些什麼嗎？",
     "CL_AI_program_type_oven_title": "這道菜的最佳烹飪程序是：",
     "CL_AI_program_type_oven_optimised_title": "太好了，這是優化後的程序：",
     "CL_AI_program_type_wash_title": "最適合這種洗滌方式的程序是：",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "精選食材",
     "CL_DISH_DESIGNER_select_ingredients_des": "選擇食譜中可能用到的食材。菜餚設計師會從這些食材中選擇搭配起來味道不錯的食材來製作這道菜。",
     "CL_DISH_DESIGNER_select_ingredients_des2": "灰色部分為“可選”配料。 ",
-    "CL_CF_unit_ml": "毫升"
+    "CL_CF_unit_ml": "毫升",
+    "CL_AI_guide_assistant_new_tips": "嗨，我是VIDAA，你的 <b>人工智慧助手</b>我可以指導你，推薦合適的方案，讓日常任務更輕鬆。想看看我能做些什麼嗎？",
+    "CL_CF_energy_solar_optimizer_title": "太陽能優化器",
+    "CL_CF_energy_solar_optimizer_desc": "充分利用多餘的太陽能",
+    "CL_CF_energy_solar_optimizer_devices_running": "## 運作中的設備",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "利用多餘的太陽能",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "太陽能模式",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "今日太陽能抵消",
+    "CL_CF_energy_solar_optimizer_applied_devices": "應用設備公司",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "創建自己的食譜",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "選擇食材、菜餚和口味，設計出您獨特的菜餚。",
+    "CL_DV_OV_recipe": "食譜"
 }
