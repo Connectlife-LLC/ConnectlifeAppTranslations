@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Rúra spustená",
     "CL_AI_program_status_run_title": "Varenie...",
     "CL_AI_program_agent_note": "Poznámka: Tento program bol vygenerovaný umelou inteligenciou. Skontrolujte nastavenia, aby ste dosiahli čo najlepší výsledok.",
-    "CL_AI_guide_assistant_tips": "Ahoj, ja som VIDAA, tvoja <b>Asistent s umelou inteligenciou</b>Môžem vás sprevádzať, navrhovať programy a uľahčovať vám každodenné úlohy. Chcete vidieť, čo dokážem?",
     "CL_AI_program_type_oven_title": "Najlepší program pre toto jedlo je:",
     "CL_AI_program_type_oven_optimised_title": "Skvelé, toto je optimalizovaný program:",
     "CL_AI_program_type_wash_title": "Najlepší program pre toto pranie je:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Vyberte ingrediencie",
     "CL_DISH_DESIGNER_select_ingredients_des": "Vyberte ingrediencie, ktoré sa môžu použiť v recepte. Z tohto výberu Dish Designer použije tie, ktoré vám spolu chutia dobre, na vytvorenie receptu.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "„Voliteľné“ zložky sú zobrazené sivou farbou. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Ahoj, ja som VIDAA, tvoja <b>Asistent s umelou inteligenciou</b>Môžem vás sprevádzať, navrhovať programy a uľahčovať vám každodenné úlohy. Chcete vidieť, čo dokážem?",
+    "CL_CF_energy_solar_optimizer_title": "Solárny optimalizátor",
+    "CL_CF_energy_solar_optimizer_desc": "Využite naplno prebytočnú slnečnú energiu",
+    "CL_CF_energy_solar_optimizer_devices_running": "## spustených zariadení",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Využívanie prebytočnej slnečnej energie",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Režim solárnej energie",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Dnešný solárny offset",
+    "CL_CF_energy_solar_optimizer_applied_devices": "APLIKOVANÉ ZARIADENIA",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Vytvorte si vlastné recepty",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Vyberte si ingrediencie, kuchyňu a chuť, aby ste si vytvorili jedinečné jedlo.",
+    "CL_DV_OV_recipe": "Recept"
 }

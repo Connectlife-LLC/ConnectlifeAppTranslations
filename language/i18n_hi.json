@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "ओवन चालू",
     "CL_AI_program_status_run_title": "खाना बनाना...",
     "CL_AI_program_agent_note": "नोट: यह प्रोग्राम AI द्वारा तैयार किया गया है। सर्वोत्तम परिणाम सुनिश्चित करने के लिए सेटिंग्स की समीक्षा करें।",
-    "CL_AI_guide_assistant_tips": "नमस्ते, मैं VIDAA हूँ, आपका <b>एआई सहायक</b>मैं आपको मार्गदर्शन दे सकता हूँ, कार्यक्रम सुझा सकता हूँ और आपके दैनिक कार्यों को आसान बना सकता हूँ। देखना चाहते हैं कि मैं क्या कर सकता हूँ?",
     "CL_AI_program_type_oven_title": "इस व्यंजन के लिए सबसे अच्छा कार्यक्रम है:",
     "CL_AI_program_type_oven_optimised_title": "बढ़िया, यह अनुकूलित कार्यक्रम है:",
     "CL_AI_program_type_wash_title": "इस धुलाई के लिए सबसे अच्छा कार्यक्रम है:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "सामग्री का चयन करें",
     "CL_DISH_DESIGNER_select_ingredients_des": "रेसिपी में इस्तेमाल होने वाली सामग्री चुनें। इस चयन में से, डिश डिज़ाइनर उन सामग्रियों का इस्तेमाल करके रेसिपी तैयार करेगा जो स्वादिष्ट लगेंगी।",
     "CL_DISH_DESIGNER_select_ingredients_des2": "'वैकल्पिक'-सामग्री ग्रे रंग में दिखाई गई है। ",
-    "CL_CF_unit_ml": "एमएल"
+    "CL_CF_unit_ml": "एमएल",
+    "CL_AI_guide_assistant_new_tips": "नमस्ते, मैं VIDAA हूँ, आपका <b>एआई सहायक</b>मैं आपको मार्गदर्शन दे सकता हूँ, कार्यक्रम सुझा सकता हूँ और आपके दैनिक कार्यों को आसान बना सकता हूँ। देखना चाहते हैं कि मैं क्या कर सकता हूँ?",
+    "CL_CF_energy_solar_optimizer_title": "सौर अनुकूलक",
+    "CL_CF_energy_solar_optimizer_desc": "अपनी अतिरिक्त सौर ऊर्जा का पूरा उपयोग करें",
+    "CL_CF_energy_solar_optimizer_devices_running": "## चल रहे उपकरण",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "अतिरिक्त सौर ऊर्जा का उपयोग",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "सौर ऊर्जा मोड",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "आज का सौर ऑफसेट",
+    "CL_CF_energy_solar_optimizer_applied_devices": "लागू उपकरण",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "अपनी खुद की रेसिपी बनाएं",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "अपना अनूठा व्यंजन तैयार करने के लिए सामग्री, व्यंजन और स्वाद चुनें।",
+    "CL_DV_OV_recipe": "व्यंजन विधि"
 }

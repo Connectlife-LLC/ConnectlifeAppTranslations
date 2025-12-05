@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Pećnica je pokrenuta",
     "CL_AI_program_status_run_title": "Kuhanje...",
     "CL_AI_program_agent_note": "Napomena: Ovaj program generirala je umjetna inteligencija. Pregledajte postavke kako biste osigurali najbolji rezultat.",
-    "CL_AI_guide_assistant_tips": "Bok, ja sam VIDAA, tvoja <b>AI asistent</b>Mogu vas voditi, predlagati programe i olakšati vam svakodnevne zadatke. Želite li vidjeti što mogu učiniti?",
     "CL_AI_program_type_oven_title": "Najbolji program za ovo jelo je:",
     "CL_AI_program_type_oven_optimised_title": "Odlično, ovo je optimizirani program:",
     "CL_AI_program_type_wash_title": "Najbolji program za ovo pranje je:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Odaberite sastojke",
     "CL_DISH_DESIGNER_select_ingredients_des": "Odaberite sastojke koji se mogu koristiti u receptu. Iz ovog odabira, Dish Designer će koristiti one koji imaju dobar okus zajedno kako bi stvorio recept.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "'Neobavezni' sastojci prikazani su sivom bojom. ",
-    "CL_CF_unit_ml": "Ml"
+    "CL_CF_unit_ml": "Ml",
+    "CL_AI_guide_assistant_new_tips": "Bok, ja sam VIDAA, tvoja <b>AI asistent</b>Mogu vas voditi, predlagati programe i olakšati vam svakodnevne zadatke. Želite li vidjeti što mogu učiniti?",
+    "CL_CF_energy_solar_optimizer_title": "Solarni optimizator",
+    "CL_CF_energy_solar_optimizer_desc": "Iskoristite višak sunčeve energije u potpunosti",
+    "CL_CF_energy_solar_optimizer_devices_running": "## uređaja koji rade",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Korištenje viška solarne energije",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Način rada solarne energije",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Današnji solarni pomak",
+    "CL_CF_energy_solar_optimizer_applied_devices": "PRIMIJENJENI UREĐAJI",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Izradite vlastite recepte",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Odaberite sastojke, kuhinju i okus kako biste osmislili svoje jedinstveno jelo.",
+    "CL_DV_OV_recipe": "Recept"
 }

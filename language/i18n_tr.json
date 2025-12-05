@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Fırın başlatıldı",
     "CL_AI_program_status_run_title": "Yemek pişirmek...",
     "CL_AI_program_agent_note": "Not: Bu program yapay zeka tarafından oluşturulmuştur. En iyi sonucu elde etmek için ayarları inceleyin.",
-    "CL_AI_guide_assistant_tips": "Merhaba, ben VIDAA, sizin <b>Yapay zeka asistanı</b>Size rehberlik edebilir, program önerebilir ve günlük işlerinizi kolaylaştırabilirim. Neler yapabileceğimi görmek ister misiniz?",
     "CL_AI_program_type_oven_title": "Bu yemek için en iyi program şudur:",
     "CL_AI_program_type_oven_optimised_title": "Harika, optimize edilmiş program şu şekilde:",
     "CL_AI_program_type_wash_title": "Bu yıkama için en iyi program:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Malzemeleri seçin",
     "CL_DISH_DESIGNER_select_ingredients_des": "Tarifte kullanılabilecek malzemeleri seçin. Dish Designer, bu seçimler arasından birlikte lezzetli olanları kullanarak tarifi oluşturacaktır.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "'İsteğe bağlı' malzemeler gri renkte gösterilmiştir. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Merhaba, ben VIDAA, sizin <b>Yapay zeka asistanı</b>Size rehberlik edebilir, program önerebilir ve günlük işlerinizi kolaylaştırabilirim. Neler yapabileceğimi görmek ister misiniz?",
+    "CL_CF_energy_solar_optimizer_title": "Güneş enerjisi optimizasyonu",
+    "CL_CF_energy_solar_optimizer_desc": "Fazla güneş enerjinizi tam olarak kullanın",
+    "CL_CF_energy_solar_optimizer_devices_running": "## çalışan cihazlar",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Fazla güneş enerjisinin kullanılması",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Güneş enerjisi modu",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Bugünün güneş ofseti",
+    "CL_CF_energy_solar_optimizer_applied_devices": "UYGULANAN CİHAZLAR",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Kendi tariflerinizi yaratın",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Benzersiz yemeğinizi tasarlamak için malzemeleri, mutfağı ve lezzeti seçin.",
+    "CL_DV_OV_recipe": "Yemek tarifi"
 }

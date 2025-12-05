@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "התנור הופעל",
     "CL_AI_program_status_run_title": "בישול...",
     "CL_AI_program_agent_note": "הערה: תוכנית זו נוצרה על ידי בינה מלאכותית. יש לבדוק את ההגדרות כדי להבטיח את התוצאה הטובה ביותר.",
-    "CL_AI_guide_assistant_tips": "היי, אני VIDAA, שלך <b>עוזר בינה מלאכותית</b>אני יכול/ה להדריך אותך, להציע תוכניות ולהקל על משימות יומיומיות. רוצה לראות מה אני יכול/ה לעשות?",
     "CL_AI_program_type_oven_title": "התוכנית הטובה ביותר למנה זו היא:",
     "CL_AI_program_type_oven_optimised_title": "מעולה, זוהי התוכנית המותאמת:",
     "CL_AI_program_type_wash_title": "התוכנית הטובה ביותר לכביסה זו היא:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "בחר מרכיבים",
     "CL_DISH_DESIGNER_select_ingredients_des": "בחרו מרכיבים שניתן להשתמש בהם במתכון. מתוך בחירה זו, מעצב המנה ישתמש במרכיבים הטעימים יחד כדי ליצור את המתכון.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "מרכיבים 'אופציונליים' מוצגים באפור. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "היי, אני VIDAA, שלך <b>עוזר בינה מלאכותית</b>אני יכול/ה להדריך אותך, להציע תוכניות ולהקל על משימות יומיומיות. רוצה לראות מה אני יכול/ה לעשות?",
+    "CL_CF_energy_solar_optimizer_title": "אופטימיזציה סולארית",
+    "CL_CF_energy_solar_optimizer_desc": "נצלו את מלוא האנרגיה הסולארית העודפת שלכם",
+    "CL_CF_energy_solar_optimizer_devices_running": "## מכשירים פועלים",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "שימוש באנרגיה סולארית עודפת",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "מצב אנרגיה סולארית",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "קיזוז אנרגיה סולארית היום",
+    "CL_CF_energy_solar_optimizer_applied_devices": "מכשירים יישומיים",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "צור מתכונים משלך",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "בחרו מרכיבים, מטבח וטעם כדי לעצב את המנה הייחודית שלכם.",
+    "CL_DV_OV_recipe": "מַתכּוֹן"
 }

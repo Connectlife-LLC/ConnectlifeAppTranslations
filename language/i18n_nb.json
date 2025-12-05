@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Ovnen startet",
     "CL_AI_program_status_run_title": "Matlaging...",
     "CL_AI_program_agent_note": "Merk: Dette programmet ble generert av AI. Se gjennom innstillingene for å sikre best mulig resultat.",
-    "CL_AI_guide_assistant_tips": "Hei, jeg er VIDAA, din <b>AI-assistent</b>Jeg kan veilede deg, foreslå programmer og gjøre daglige gjøremål enklere. Vil du se hva jeg kan gjøre?",
     "CL_AI_program_type_oven_title": "Det beste programmet for denne retten er:",
     "CL_AI_program_type_oven_optimised_title": "Flott, dette er det optimaliserte programmet:",
     "CL_AI_program_type_wash_title": "Det beste programmet for denne vasken er:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Velg ingredienser",
     "CL_DISH_DESIGNER_select_ingredients_des": "Velg ingredienser som kan brukes i oppskriften. Fra dette utvalget vil Dish Designer bruke de som smaker godt sammen for å lage oppskriften.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "'Valgfrie' ingredienser er vist i grått. ",
-    "CL_CF_unit_ml": "ml"
+    "CL_CF_unit_ml": "ml",
+    "CL_AI_guide_assistant_new_tips": "Hei, jeg er VIDAA, din <b>AI-assistent</b>Jeg kan veilede deg, foreslå programmer og gjøre daglige gjøremål enklere. Vil du se hva jeg kan gjøre?",
+    "CL_CF_energy_solar_optimizer_title": "Soloptimaliserer",
+    "CL_CF_energy_solar_optimizer_desc": "Få full utnyttelse av overskuddsenergien din fra solen",
+    "CL_CF_energy_solar_optimizer_devices_running": "## enheter som kjører",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Bruk av overflødig solenergi",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Solenergimodus",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Dagens solkompensasjon",
+    "CL_CF_energy_solar_optimizer_applied_devices": "ANVENDTE ENHETER",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Lag dine egne oppskrifter",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Velg ingredienser, mat og smak for å designe din unike rett.",
+    "CL_DV_OV_recipe": "Oppskrift"
 }

@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "Пеш іске қосылды",
     "CL_AI_program_status_run_title": "Пісіру...",
     "CL_AI_program_agent_note": "Ескерту: Бұл бағдарлама AI арқылы жасалған. Ең жақсы нәтижеге көз жеткізу үшін параметрлерді қарап шығыңыз.",
-    "CL_AI_guide_assistant_tips": "Сәлем, мен VIDAA, сіздің <b>AI көмекшісі</b>. Мен сізге бағыт-бағдар бере аламын, бағдарламалар ұсынамын және күнделікті тапсырмаларды жеңілдетемін. Мен не істей алатынымды көргіңіз келе ме?",
     "CL_AI_program_type_oven_title": "Бұл тағамға арналған ең жақсы бағдарлама:",
     "CL_AI_program_type_oven_optimised_title": "Керемет, бұл оңтайландырылған бағдарлама:",
     "CL_AI_program_type_wash_title": "Бұл жууға арналған ең жақсы бағдарлама:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "Ингредиенттерді таңдаңыз",
     "CL_DISH_DESIGNER_select_ingredients_des": "Рецептте қолдануға болатын ингредиенттерді таңдаңыз. Осы таңдаудың ішінен тағам дизайнері рецепт жасау үшін дәмі жақсы болатындарын бірге пайдаланады.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "\"Қосымша\"-ингредиенттер сұр түспен көрсетілген. ",
-    "CL_CF_unit_ml": "мл"
+    "CL_CF_unit_ml": "мл",
+    "CL_AI_guide_assistant_new_tips": "Сәлем, мен VIDAA, сіздің <b>AI көмекшісі</b>. Мен сізге бағыт-бағдар бере аламын, бағдарламалар ұсынамын және күнделікті тапсырмаларды жеңілдетемін. Мен не істей алатынымды көргіңіз келе ме?",
+    "CL_CF_energy_solar_optimizer_title": "Күн оптимизаторы",
+    "CL_CF_energy_solar_optimizer_desc": "Артық күн энергиясын толық пайдаланыңыз",
+    "CL_CF_energy_solar_optimizer_devices_running": "## құрылғы жұмыс істейді",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "Артық күн энергиясын пайдалану",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "Күн энергиясының режимі",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "Бүгінгі күннің ауытқуы",
+    "CL_CF_energy_solar_optimizer_applied_devices": "ҚОЛДАНЫЛҒАН ҚҰРЫЛҒЫЛАР",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "Өз рецепттеріңізді жасаңыз",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "Бірегей тағамды жасау үшін ингредиенттерді, тағамдарды және дәмді таңдаңыз.",
+    "CL_DV_OV_recipe": "Рецепт"
 }

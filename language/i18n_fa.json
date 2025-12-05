@@ -7108,7 +7108,6 @@
     "CL_AI_program_type_oven_started": "فر روشن شد",
     "CL_AI_program_status_run_title": "آشپزی...",
     "CL_AI_program_agent_note": "توجه: این برنامه توسط هوش مصنوعی تولید شده است. برای اطمینان از بهترین نتیجه، تنظیمات را بررسی کنید.",
-    "CL_AI_guide_assistant_tips": "سلام، من ویدا هستم، شما <b>دستیار هوش مصنوعی</b>من می‌توانم شما را راهنمایی کنم، برنامه‌هایی پیشنهاد دهم و کارهای روزانه را آسان‌تر کنم. می‌خواهید ببینید چه کاری از دستم برمی‌آید؟",
     "CL_AI_program_type_oven_title": "بهترین برنامه برای این غذا:",
     "CL_AI_program_type_oven_optimised_title": "عالیه، این برنامه بهینه شده است:",
     "CL_AI_program_type_wash_title": "بهترین برنامه برای این شستشو:",
@@ -7258,5 +7257,16 @@
     "CL_DISH_DESIGNER_select_ingredients": "مواد تشکیل دهنده را انتخاب کنید",
     "CL_DISH_DESIGNER_select_ingredients_des": "موادی را انتخاب کنید که ممکن است در دستور غذا استفاده شوند. از بین این انتخاب، طراح غذا از آنهایی که با هم طعم خوبی دارند برای تهیه دستور غذا استفاده خواهد کرد.",
     "CL_DISH_DESIGNER_select_ingredients_des2": "مواد تشکیل دهنده «اختیاری» با رنگ خاکستری نشان داده شده‌اند. ",
-    "CL_CF_unit_ml": "میلی لیتر"
+    "CL_CF_unit_ml": "میلی لیتر",
+    "CL_AI_guide_assistant_new_tips": "سلام، من ویدا هستم، شما <b>دستیار هوش مصنوعی</b>من می‌توانم شما را راهنمایی کنم، برنامه‌هایی پیشنهاد دهم و کارهای روزانه را آسان‌تر کنم. می‌خواهید ببینید چه کاری از دستم برمی‌آید؟",
+    "CL_CF_energy_solar_optimizer_title": "بهینه‌ساز انرژی خورشیدی",
+    "CL_CF_energy_solar_optimizer_desc": "از انرژی خورشیدی اضافی خود به طور کامل استفاده کنید",
+    "CL_CF_energy_solar_optimizer_devices_running": "## دستگاه‌های در حال اجرا",
+    "CL_CF_energy_solar_optimizer_using_excess_solar_energy": "استفاده از انرژی خورشیدی مازاد",
+    "CL_CF_energy_solar_optimizer_solar_energy_mode": "حالت انرژی خورشیدی",
+    "CL_CF_energy_solar_optimizer_today_s_solar_offset": "انحراف خورشیدی امروز",
+    "CL_CF_energy_solar_optimizer_applied_devices": "دستگاه‌های کاربردی",
+    "CL_DISH_DESIGNER_create_your_own_recipes": "دستور العمل های خود را ایجاد کنید",
+    "CL_DISH_DESIGNER_create_your_own_recipes_des": "مواد اولیه، غذاها و طعم را برای طراحی غذای منحصر به فرد خود انتخاب کنید.",
+    "CL_DV_OV_recipe": "دستور پخت"
 }
