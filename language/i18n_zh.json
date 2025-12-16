@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "约8-70分钟",
     "CL_AC_out_door_self_clean_title": "大约8-15分钟",
     "CL_AC_self_clean_content": "清洁过程中只允许开关电源和切换模式。",
-    "CL_AC_one_self_clean_fail": "室内温度低于0℃或高于32℃时，无法启动室内清扫；室外温度低于0℃或高于32℃时，无法启动室外清扫。",
-    "CL_AC_in_door_self_clean_fail": "如果室内温度低于0°C或高于32°C，则无法启动室内清洁。",
-    "CL_AC_out_door_self_clean_fail": "如果室外温度低于 0°C 或高于 32°C，则无法启动室外清洁。",
+    "CL_AC_one_self_clean_fail": "此功能目前不支持APP控制，或者设备不满足清洗执行条件。",
+    "CL_AC_in_door_self_clean_fail": "此功能目前不支持APP控制，或者设备不满足清洗执行条件。",
+    "CL_AC_out_door_self_clean_fail": "此功能目前不支持APP控制，或者设备不满足清洗执行条件。",
     "manager": "经理",
     "CL_DV_WM_have_result": "我们有结果了！",
     "CL_DV_WM_assist_result_tips": "以下是根据您的回答建议的程序和设置。将衣物放入洗衣机，然后点击“开始”即可开始洗涤。",
@@ -7332,7 +7332,7 @@
     "CL_CF_energy_without_smart_energy": "没有智能能源",
     "CL_CF_energy_with_smart_energy": "智能能源",
     "CL_CF_energy_check_energy_benefit": "检查能源效益",
-    "CL_CF_energy_go_to_ems": "前往急救中心",
+    "CL_CF_energy_go_to_ems": "查看我的能源系统",
     "CL_CF_energy_excellent": "出色的！",
     "CL_CF_energy_great_news": "好消息！你使用的太阳能比电网电力还多。",
     "CL_CF_energy_self_powered": "自供电",
@@ -7404,7 +7404,7 @@
     "CL_DV_OV_recipe_category_level_2_Pastry": "糕点",
     "CL_DV_OV_recipe_category_level_2_Bake_off’s": "烘焙大赛",
     "CL_DV_OV_recipe_category_level_2_Dessert": "甜点",
-    "CL_CF_US_phone_auth_code_tips": "请查看您的手机以获取验证码",
+    "CL_CF_US_phone_auth_code_tips": "请注意查收手机验证码",
     "CL_CF_US_phone_error_tips": "请输入正确的手机号",
     "CL_CF_US_auth_code_error_tips": "验证码过期或错误",
     "CL_CF_US_too_frequent_error_tips": "操作过于频繁，请在1分钟后重试",
@@ -7457,5 +7457,6 @@
     "CL_HO_DS_003_title": "智享家庭互联新体验",
     "CL_HO_DS_003_content": "<p>ConnectLife专为厨房电器、洗衣机、干衣机、恒温酒柜等全品类家电管理而生。该平台支持连接多种联网设备，让您通过智能手机即可实现远程监控与操控，打造真正的智能家居中枢。</p><p>ConnectLife不仅是设备管家，更开创了家庭共享式智能体验。通过平台协作功能，每位家庭成员都能参与家居管理，实时掌握设备动态，确保生活井然有序。这对于工作繁忙的现代家庭，或需要照顾老人、儿童的用户群体尤为实用。</p><p>平台核心优势在于其直观易用的操作界面。简洁明了的指引设计让不同年龄层、技术水平的家庭成员都能轻松上手。您还可根据实际需求自定义设备组合，灵活增减联网家电，打造专属智慧家庭方案。</p><p>ConnectLife作为智能家居中枢平台，重新定义了家庭互联方式。通过设备联网，即便身处异地也能确保家中一切有序运转。立即下载ConnectLife应用程序，开启智慧家庭新篇章，体验设备互联带来的品质生活升级。</p>",
     "how_use_content": "<p>一、设备管理中心<br/>通过&quot;设备&quot;标签页集中管理全屋智能家电。完成ConnectLife账户注册后，点击&quot;添加设备&quot;或&quot;+&quot;按钮，即可轻松完成设备联网。已连接设备将统一显示在列表中，支持实时状态监控、参数调节、电子说明书查阅及设备解绑等操作。</p><p>二、智能场景配置<br/>&quot;自动化&quot;标签页提供场景化智能联动设置。用户可基于手动触发、定时设置或设备状态变化（如洗衣机完成工作）等条件，自定义跨品牌家电的智能场景联动，打造个性化智慧生活体验。</p><p>三、系统管理菜单<br/>&quot;菜单&quot;标签页集成全方位管理功能：<br/>&bull; 个人信息管理<br/>&bull; 智能空间与设备分组设置<br/>&bull; 电子说明书库<br/>&bull; 固件升级中心<br/>通过可视化界面轻松完成系统设置，充分发挥智能设备潜能。</p><p>四、快捷添加功能<br/>主界面&quot;+&quot;按钮实现两大核心功能：</p><p>设备添加：选择家电型号&rarr;扫码/NFC配对&rarr;三步完成设备联网<br/>说明书调取：即时获取设备操作指南与维护贴士<br/>五、家庭设备共享<br/>通过&quot;共享设备&quot;功能实现家庭成员权限管理：</p><p>选择目标设备&rarr;点击右上角共享图标<br/>输入共享对象注册邮箱<br/>对方通过邮件确认即可获得设备控制权限<br/>支持设置临时/永久权限，保障智能家居使用安全<br/>ConnectLife通过模块化功能设计，让用户轻松构建跨品牌智能家电管理系统。无论是设备基础操作还是高阶场景设置，都能通过直观的交互界面快速完成，真正实现全屋智能设备的一站式管理。</p>",
-    "CL_DV_OV_24_hour_clock": "24 小时制"
+    "CL_DV_OV_24_hour_clock": "24 小时制",
+    "CL_unlogin_card_tips": "体验全新智慧生活方式"
 }
