@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Omtrent 8–70 minutter",
     "CL_AC_out_door_self_clean_title": "Omtrent 8–15 minutter",
     "CL_AC_self_clean_content": "Kun av/på-funksjon og modusbytte er tillatt under rengjøring.",
-    "CL_AC_one_self_clean_fail": "Innendørs rengjøring kan ikke startes hvis innetemperaturen er under 0 °C eller over 32 °C; utendørs rengjøring kan ikke startes hvis utetemperaturen er under 0 °C eller over 32 °C.",
-    "CL_AC_in_door_self_clean_fail": "Innendørs rengjøring kan ikke startes hvis innetemperaturen er under 0 °C eller over 32 °C.",
-    "CL_AC_out_door_self_clean_fail": "Utendørs rengjøring kan ikke startes hvis utetemperaturen er under 0 °C eller over 32 °C.",
+    "CL_AC_one_self_clean_fail": "Denne funksjonen støtter for øyeblikket ikke APP-kontroll, eller enheten oppfyller ikke vilkårene for rengjøring.",
+    "CL_AC_in_door_self_clean_fail": "Denne funksjonen støtter for øyeblikket ikke APP-kontroll, eller enheten oppfyller ikke vilkårene for rengjøring.",
+    "CL_AC_out_door_self_clean_fail": "Denne funksjonen støtter for øyeblikket ikke APP-kontroll, eller enheten oppfyller ikke vilkårene for rengjøring.",
     "manager": "leder",
     "CL_DV_WM_have_result": "Vi har et resultat!",
     "CL_DV_WM_assist_result_tips": "Nedenfor finner du det foreslåtte programmet og innstillingene basert på svarene dine. Fyll vaskemaskinen og klikk på «START» for å starte vasken.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Mulig årsak \n Batterimodulen er frakoblet PCS-en; \n \n Slik håndterer du dette \n 1. Sjekk at batteriet er koblet til PCS-en. Hvis det ikke er tilkoblet, koble det til etter at du har slått av strømmen; \n 2. Sjekk om batterimodulen er defekt. Hvis det er en feil, kontakt tjenesteleverandøren for å løse den;",
     "problem_title_ess_13": "1022 Ingen BMS-kommunikasjon",
     "problem_content_answer_ess_13": "Mulig årsak \n BMS-kommunikasjonslinjen er unormalt tilkoblet \n \n Slik håndterer du dette \n Sjekk kommunikasjonslinjen mellom BMS og PCS, og etter at forbindelsen er normal, vil feilen løse seg av seg selv; \n",
-    "CL_DV_OV_24_hour_clock": "24-timers klokke"
+    "CL_DV_OV_24_hour_clock": "24-timers klokke",
+    "CL_login_delete_tips": "Slett konto"
 }

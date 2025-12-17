@@ -6753,9 +6753,9 @@
     "CL_AC_in_door_self_clean_title": "Približno 8–70 minut",
     "CL_AC_out_door_self_clean_title": "Približno 8–15 minut",
     "CL_AC_self_clean_content": "Med čiščenjem sta dovoljena samo vklop/izklop in preklapljanje med načini.",
-    "CL_AC_one_self_clean_fail": "Čiščenja v zaprtih prostorih ni mogoče začeti, če je notranja temperatura pod 0 °C ali nad 32 °C; čiščenja na prostem ni mogoče začeti, če je zunanja temperatura pod 0 °C ali nad 32 °C.",
-    "CL_AC_in_door_self_clean_fail": "Čiščenja v zaprtih prostorih ni mogoče začeti, če je notranja temperatura pod 0 °C ali nad 32 °C.",
-    "CL_AC_out_door_self_clean_fail": "Zunanjega čiščenja ni mogoče začeti, če je zunanja temperatura pod 0 °C ali nad 32 °C.",
+    "CL_AC_one_self_clean_fail": "Ta funkcija trenutno ne podpira nadzora APP ali pa naprava ne izpolnjuje pogojev za izvajanje čiščenja.",
+    "CL_AC_in_door_self_clean_fail": "Ta funkcija trenutno ne podpira nadzora APP ali pa naprava ne izpolnjuje pogojev za izvajanje čiščenja.",
+    "CL_AC_out_door_self_clean_fail": "Ta funkcija trenutno ne podpira nadzora APP ali pa naprava ne izpolnjuje pogojev za izvajanje čiščenja.",
     "manager": "vodja",
     "CL_DV_WM_have_result": "Imamo rezultat!",
     "CL_DV_WM_assist_result_tips": "Spodaj je predlagan program in nastavitve glede na vaše odgovore. Napolnite pralni stroj in kliknite »START«, da začnete pranje.",
@@ -7463,5 +7463,6 @@
     "problem_content_answer_ess_17": "Možen vzrok \n V baterijskem modulu je napaka; \n \n Kako ravnati v primeru \n 1. Ponovno zaženite baterijski modul, napaka izgine in ga lahko še naprej uporabljate; \n 2. Če ponovni zagon še vedno ne uspe ali se napaka pojavlja pogosto, se obrnite na ponudnika storitev;",
     "problem_title_ess_18": "4000 CT nenormalno",
     "problem_content_answer_ess_18": "Možen vzrok \n Težave z namestitvijo CT; \n \n Kako ravnati v primeru \n Za rešitev se obrnite na monterja;",
-    "CL_DV_OV_24_hour_clock": "24-urni format"
+    "CL_DV_OV_24_hour_clock": "24-urni format",
+    "CL_login_delete_tips": "Izbriši račun"
 }

@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Khoảng 8-70 phút",
     "CL_AC_out_door_self_clean_title": "Khoảng 8-15 phút",
     "CL_AC_self_clean_content": "Chỉ được phép bật/tắt nguồn và chuyển đổi chế độ trong quá trình vệ sinh.",
-    "CL_AC_one_self_clean_fail": "Không thể bắt đầu vệ sinh trong nhà nếu nhiệt độ trong nhà dưới 0°C hoặc trên 32°C; không thể bắt đầu vệ sinh ngoài trời nếu nhiệt độ ngoài trời dưới 0°C hoặc trên 32°C.",
-    "CL_AC_in_door_self_clean_fail": "Không thể bắt đầu vệ sinh trong nhà nếu nhiệt độ trong nhà dưới 0°C hoặc trên 32°C.",
-    "CL_AC_out_door_self_clean_fail": "Không thể bắt đầu vệ sinh ngoài trời nếu nhiệt độ ngoài trời dưới 0°C hoặc trên 32°C.",
+    "CL_AC_one_self_clean_fail": "Tính năng này hiện không hỗ trợ điều khiển qua ứng dụng hoặc thiết bị không đáp ứng các điều kiện thực hiện vệ sinh.",
+    "CL_AC_in_door_self_clean_fail": "Tính năng này hiện không hỗ trợ điều khiển qua ứng dụng hoặc thiết bị không đáp ứng các điều kiện thực hiện vệ sinh.",
+    "CL_AC_out_door_self_clean_fail": "Tính năng này hiện không hỗ trợ điều khiển qua ứng dụng hoặc thiết bị không đáp ứng các điều kiện thực hiện vệ sinh.",
     "manager": "giám đốc",
     "CL_DV_WM_have_result": "Chúng ta đã có kết quả!",
     "CL_DV_WM_assist_result_tips": "Dưới đây là chương trình và cài đặt được đề xuất dựa trên câu trả lời của bạn. Cho quần áo vào máy giặt và nhấn \"BẮT ĐẦU\" để bắt đầu giặt.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Nguyên nhân có thể là \n Mô-đun pin bị ngắt kết nối khỏi máy tính; \n \n Cách xử lý: \n 1. Kiểm tra xem pin đã được kết nối với máy tính chưa, nếu chưa, hãy kết nối sau khi tắt nguồn; \n 2. Kiểm tra xem mô-đun pin có bị lỗi không, nếu có lỗi, vui lòng liên hệ với nhà cung cấp dịch vụ để được hỗ trợ;",
     "problem_title_ess_13": "1022 Không có thông tin liên lạc BMS",
     "problem_content_answer_ess_13": "Nguyên nhân có thể là \n Đường dây liên lạc của BMS bị kết nối bất thường \n \n Cách xử lý \n Kiểm tra đường dây liên lạc giữa BMS và PCS, sau khi kết nối bình thường, lỗi sẽ tự khắc phục; \n",
-    "CL_DV_OV_24_hour_clock": "Đồng hồ 24 giờ"
+    "CL_DV_OV_24_hour_clock": "Đồng hồ 24 giờ",
+    "CL_login_delete_tips": "Xoá tài khoản"
 }

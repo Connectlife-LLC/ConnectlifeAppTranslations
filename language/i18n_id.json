@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Sekitar 8-70 menit",
     "CL_AC_out_door_self_clean_title": "Sekitar 8-15 menit",
     "CL_AC_self_clean_content": "Hanya daya hidup/mati dan peralihan mode yang diizinkan selama pembersihan.",
-    "CL_AC_one_self_clean_fail": "Pembersihan di dalam ruangan tidak dapat dimulai jika suhu di dalam ruangan di bawah 0°C atau di atas 32°C; pembersihan di luar ruangan tidak dapat dimulai jika suhu di luar ruangan di bawah 0°C atau di atas 32°C.",
-    "CL_AC_in_door_self_clean_fail": "Pembersihan dalam ruangan tidak dapat dimulai jika suhu dalam ruangan di bawah 0°C atau di atas 32°C.",
-    "CL_AC_out_door_self_clean_fail": "Pembersihan luar ruangan tidak dapat dimulai jika suhu luar ruangan di bawah 0°C atau di atas 32°C.",
+    "CL_AC_one_self_clean_fail": "Fitur ini saat ini tidak mendukung kontrol APP atau perangkat tidak memenuhi kondisi eksekusi pembersihan.",
+    "CL_AC_in_door_self_clean_fail": "Fitur ini saat ini tidak mendukung kontrol APP atau perangkat tidak memenuhi kondisi eksekusi pembersihan.",
+    "CL_AC_out_door_self_clean_fail": "Fitur ini saat ini tidak mendukung kontrol APP atau perangkat tidak memenuhi kondisi eksekusi pembersihan.",
     "manager": "manajer",
     "CL_DV_WM_have_result": "Kami punya hasil!",
     "CL_DV_WM_assist_result_tips": "Berikut adalah program dan pengaturan yang disarankan berdasarkan jawaban Anda. Masukkan mesin cuci Anda dan klik \"MULAI\" untuk memulai pencucian.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Kemungkinan penyebab \n Modul baterai terputus dari PCS; \n \n Cara mengatasi \n 1. Periksa apakah baterai terhubung dengan PCS, jika tidak terhubung, silakan hubungkan setelah mematikan daya; \n 2. Periksa apakah modul baterai rusak, jika ada kerusakan, silakan hubungi penyedia layanan untuk memperbaikinya;",
     "problem_title_ess_13": "1022 Tidak ada komunikasi BMS",
     "problem_content_answer_ess_13": "Kemungkinan penyebab \n Jalur komunikasi BMS terhubung secara tidak normal \n \n Cara mengatasi \n Periksa jalur komunikasi antara BMS dan PCS, dan setelah koneksi normal, kesalahan akan pulih dengan sendirinya; \n",
-    "CL_DV_OV_24_hour_clock": "jam 24 jam"
+    "CL_DV_OV_24_hour_clock": "jam 24 jam",
+    "CL_login_delete_tips": "Hapus akun"
 }

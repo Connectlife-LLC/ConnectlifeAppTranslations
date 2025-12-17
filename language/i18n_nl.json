@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Ongeveer 8-70 minuten",
     "CL_AC_out_door_self_clean_title": "Ongeveer 8-15 minuten",
     "CL_AC_self_clean_content": "Tijdens het reinigen zijn alleen het in- en uitschakelen en het wisselen van modus toegestaan.",
-    "CL_AC_one_self_clean_fail": "Binnenreiniging kan niet worden gestart als de binnentemperatuur lager is dan 0°C of hoger is dan 32°C. Buitenreiniging kan niet worden gestart als de buitentemperatuur lager is dan 0°C of hoger is dan 32°C.",
-    "CL_AC_in_door_self_clean_fail": "Het reinigen binnenshuis kan niet worden gestart als de binnentemperatuur lager is dan 0°C of hoger dan 32°C.",
-    "CL_AC_out_door_self_clean_fail": "Buitenreiniging kan niet worden gestart als de buitentemperatuur lager is dan 0°C of hoger dan 32°C.",
+    "CL_AC_one_self_clean_fail": "Deze functie ondersteunt momenteel geen APP-besturing of het apparaat voldoet niet aan de reinigingsvoorwaarden.",
+    "CL_AC_in_door_self_clean_fail": "Deze functie ondersteunt momenteel geen APP-besturing of het apparaat voldoet niet aan de reinigingsvoorwaarden.",
+    "CL_AC_out_door_self_clean_fail": "Deze functie ondersteunt momenteel geen APP-besturing of het apparaat voldoet niet aan de reinigingsvoorwaarden.",
     "manager": "manager",
     "CL_DV_WM_have_result": "We hebben een resultaat!",
     "CL_DV_WM_assist_result_tips": "Hieronder vindt u het voorgestelde programma en de instellingen op basis van uw antwoorden. Vul uw wasmachine en klik op \"START\" om de was te starten.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Mogelijke oorzaak \n De batterijmodule is losgekoppeld van de pc; \n \n 1. Controleer \n de batterij is aangesloten op de pc. Zo niet, sluit deze dan aan na het uitschakelen van de stroom; \n Controleer of de batterijmodule defect is. Neem in dat geval contact op met de serviceprovider voor reparatie.",
     "problem_title_ess_13": "1022 Geen BMS-communicatie",
     "problem_content_answer_ess_13": "Mogelijke oorzaak \n De BMS-communicatielijn is abnormaal verbonden \n \n \n Controleer de communicatielijn tussen de BMS en de PCS. Nadat de verbinding weer normaal is, zal de storing vanzelf verhelpen \n",
-    "CL_DV_OV_24_hour_clock": "24-uurs klok"
+    "CL_DV_OV_24_hour_clock": "24-uurs klok",
+    "CL_login_delete_tips": "Account verwijderen"
 }

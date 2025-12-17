@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "約8～70分",
     "CL_AC_out_door_self_clean_title": "約8～15分間",
     "CL_AC_self_clean_content": "洗浄中には電源のオン/オフとモードの切り替え可能です。",
-    "CL_AC_one_self_clean_fail": "室内温度が 0°C 未満または 32°C を超える場合、室内機清洗浄能を開始できません。また、室外温度が 0°C 未満または 32°C を超える場合、室外機洗浄機能を開始できません。",
-    "CL_AC_in_door_self_clean_fail": "室内温度が0℃未満または32℃を超える場合、室内機洗浄機能を開始できません。",
-    "CL_AC_out_door_self_clean_fail": "室外温度が 0°C 未満または 32°C を超える場合、室外機洗浄機能を開始できません。",
+    "CL_AC_one_self_clean_fail": "この機能は現在APP制御をサポートしていないか、デバイスがクリーニング実行条件を満たしていない。",
+    "CL_AC_in_door_self_clean_fail": "この機能は現在APP制御をサポートしていないか、デバイスがクリーニング実行条件を満たしていない。",
+    "CL_AC_out_door_self_clean_fail": "この機能は現在APP制御をサポートしていないか、デバイスがクリーニング実行条件を満たしていない。",
     "manager": "マネージャー",
     "CL_DV_WM_have_result": "結果が出ました！",
     "CL_DV_WM_assist_result_tips": "ご回答に基づいて、以下のプログラムと設定をご提案いたします。洗濯機に洗濯物を入れ、「スタート」をクリックして洗濯を開始してください。",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "考えられる原因\nバッテリー モジュールが PCS から切断されています。 \n \n対処方法\n 1. バッテリーが PCS に接続されていることを確認します。接続されていない場合は、電源を切ってから接続してください。 \n 2. バッテリー モジュールに障害がないか確認します。障害がある場合は、サービス プロバイダーに連絡して解決してください。",
     "problem_title_ess_13": "1022 BMS通信なし",
     "problem_content_answer_ess_13": "考えられる原因\n BMS 通信回線の接続に異常があります\n \n対処方法\n BMS と PCS 間の通信回線を確認し、接続が正常になると、障害は自然に回復します。 \n",
-    "CL_DV_OV_24_hour_clock": "24時間制"
+    "CL_DV_OV_24_hour_clock": "24時間制",
+    "CL_login_delete_tips": "アカウントを削除する"
 }

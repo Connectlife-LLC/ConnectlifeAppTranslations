@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Environ 8 à 70 minutes",
     "CL_AC_out_door_self_clean_title": "Environ 8 à 15 minutes",
     "CL_AC_self_clean_content": "Seuls la mise sous/hors tension et le changement de mode sont autorisés pendant le nettoyage.",
-    "CL_AC_one_self_clean_fail": "Le nettoyage intérieur ne peut pas être lancé si la température intérieure est inférieure à 0°C ou supérieure à 32°C ; le nettoyage extérieur ne peut pas être lancé si la température extérieure est inférieure à 0°C ou supérieure à 32°C.",
-    "CL_AC_in_door_self_clean_fail": "Le nettoyage intérieur ne peut pas être lancé si la température intérieure est inférieure à 0°C ou supérieure à 32°C.",
-    "CL_AC_out_door_self_clean_fail": "Le nettoyage extérieur ne peut pas être lancé si la température extérieure est inférieure à 0°C ou supérieure à 32°C.",
+    "CL_AC_one_self_clean_fail": "Cette fonction ne prend actuellement pas en charge le contrôle APP ou l'appareil ne remplit pas les conditions d'exécution du nettoyage.",
+    "CL_AC_in_door_self_clean_fail": "Cette fonction ne prend actuellement pas en charge le contrôle APP ou l'appareil ne remplit pas les conditions d'exécution du nettoyage.",
+    "CL_AC_out_door_self_clean_fail": "Cette fonction ne prend actuellement pas en charge le contrôle APP ou l'appareil ne remplit pas les conditions d'exécution du nettoyage.",
     "manager": "directeur",
     "CL_DV_WM_have_result": "Nous avons un résultat !",
     "CL_DV_WM_assist_result_tips": "Vous trouverez ci-dessous le programme et les paramètres suggérés en fonction de vos réponses. Chargez votre machine à laver et cliquez sur « DÉMARRER » pour lancer le lavage.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Cause possible \n Le module de batterie est déconnecté du PCS ; \n \n 1. Vérifiez \n la batterie est connectée au PCS. Si ce n’est pas le cas, veuillez la connecter après la mise hors tension ; \n Vérifiez si le module de batterie est défectueux. En cas de défaut, veuillez contacter le fournisseur de services pour le résoudre.",
     "problem_title_ess_13": "1022 Aucune communication avec le BMS",
     "problem_content_answer_ess_13": "Cause possible \n La ligne de communication du BMS est anormalement connectée \n \n \n Vérifiez la ligne de communication entre le BMS et le PCS \n Une fois la connexion rétablie, le problème se résoudra de lui-même.",
-    "CL_DV_OV_24_hour_clock": "Horloge 24 heures"
+    "CL_DV_OV_24_hour_clock": "Horloge 24 heures",
+    "CL_login_delete_tips": "Supprimer le compte"
 }

@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Ungefähr 8-70 Minuten",
     "CL_AC_out_door_self_clean_title": "Ungefähr 8-15 Minuten",
     "CL_AC_self_clean_content": "Während der Reinigung sind nur das Ein-/Ausschalten und das Umschalten des Modus zulässig.",
-    "CL_AC_one_self_clean_fail": "Bei Innentemperaturen unter 0 °C oder über 32 °C kann die Innenreinigung nicht gestartet werden, bei Außentemperaturen unter 0 °C oder über 32 °C kann die Außenreinigung nicht gestartet werden.",
-    "CL_AC_in_door_self_clean_fail": "Bei Innentemperaturen unter 0 °C oder über 32 °C kann die Innenreinigung nicht eingeleitet werden.",
-    "CL_AC_out_door_self_clean_fail": "Bei Außentemperaturen unter 0 °C oder über 32 °C kann die Außenreinigung nicht eingeleitet werden.",
+    "CL_AC_one_self_clean_fail": "Diese Funktion unterstützt derzeit keine APP-Steuerung oder das Gerät erfüllt nicht die Bedingungen für die Durchführung der Reinigung.",
+    "CL_AC_in_door_self_clean_fail": "Diese Funktion unterstützt derzeit keine APP-Steuerung oder das Gerät erfüllt nicht die Bedingungen für die Durchführung der Reinigung.",
+    "CL_AC_out_door_self_clean_fail": "Diese Funktion unterstützt derzeit keine APP-Steuerung oder das Gerät erfüllt nicht die Bedingungen für die Durchführung der Reinigung.",
     "manager": "Manager",
     "CL_DV_WM_have_result": "Wir haben ein Ergebnis!",
     "CL_DV_WM_assist_result_tips": "Nachfolgend finden Sie die Programm- und Einstellungsvorschläge basierend auf Ihren Antworten. Beladen Sie Ihre Waschmaschine und klicken Sie auf „START“, um den Waschgang zu starten.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Mögliche Ursache \n Das Batteriemodul ist vom PCS getrennt. Vorgehensweise \n 1. Prüfen Sie \n \n die Batterie mit dem PCS verbunden ist. Falls nicht, schließen Sie sie bitte nach dem Ausschalten an. \n Prüfen Sie, ob das Batteriemodul defekt ist. Falls ja, wenden Sie sich bitte an Ihren Serviceanbieter.",
     "problem_title_ess_13": "1022 Keine BMS-Kommunikation",
     "problem_content_answer_ess_13": "Mögliche Ursache \n Die BMS-Kommunikationsleitung ist fehlerhaft angeschlossen \n Vorgehensweise \n Überprüfen Sie die Kommunikationsleitung zwischen BMS und PCS \n Nach Wiederherstellung der Verbindung behebt sich der Fehler von selbst \n",
-    "CL_DV_OV_24_hour_clock": "24-Stunden-Uhr"
+    "CL_DV_OV_24_hour_clock": "24-Stunden-Uhr",
+    "CL_login_delete_tips": "Konto löschen"
 }

@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Přibližně 8–70 minut",
     "CL_AC_out_door_self_clean_title": "Přibližně 8–15 minut",
     "CL_AC_self_clean_content": "Během čištění je povoleno pouze zapínání/vypínání a přepínání režimů.",
-    "CL_AC_one_self_clean_fail": "Vnitřní čištění nelze zahájit, pokud je vnitřní teplota nižší než 0 °C nebo vyšší než 32 °C; venkovní čištění nelze zahájit, pokud je venkovní teplota nižší než 0 °C nebo vyšší než 32 °C.",
-    "CL_AC_in_door_self_clean_fail": "Čištění interiéru nelze zahájit, pokud je vnitřní teplota nižší než 0 °C nebo vyšší než 32 °C.",
-    "CL_AC_out_door_self_clean_fail": "Venkovní čištění nelze zahájit, pokud je venkovní teplota nižší než 0 °C nebo vyšší než 32 °C.",
+    "CL_AC_one_self_clean_fail": "Tato funkce v současné době nepodporuje ovládání APP nebo zařízení nesplňuje podmínky pro provádění čištění.",
+    "CL_AC_in_door_self_clean_fail": "Tato funkce v současné době nepodporuje ovládání APP nebo zařízení nesplňuje podmínky pro provádění čištění.",
+    "CL_AC_out_door_self_clean_fail": "Tato funkce v současné době nepodporuje ovládání APP nebo zařízení nesplňuje podmínky pro provádění čištění.",
     "manager": "manažer",
     "CL_DV_WM_have_result": "Máme výsledek!",
     "CL_DV_WM_assist_result_tips": "Níže je uveden navrhovaný program a nastavení na základě vašich odpovědí. Naplňte pračku prádlem a kliknutím na tlačítko „START“ spusťte praní.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Možná příčina \n Bateriový modul je odpojen od PCS; \n \n Jak problém vyřešit \n 1. Zkontrolujte, zda je baterie připojena k PCS. Pokud není, připojte ji po vypnutí napájení. \n 2. Zkontrolujte, zda není bateriový modul vadný. Pokud se vyskytne závada, obraťte se na poskytovatele servisu.",
     "problem_title_ess_13": "1022 Žádná komunikace s BMS",
     "problem_content_answer_ess_13": "Možná příčina \n Komunikační linka BMS je abnormálně připojena \n \n Jak problém vyřešit \n Zkontrolujte komunikační linku mezi BMS a PCS. Po obnovení normálního připojení se závada sama odstraní. \n",
-    "CL_DV_OV_24_hour_clock": "24hodinové hodiny"
+    "CL_DV_OV_24_hour_clock": "24hodinové hodiny",
+    "CL_login_delete_tips": "Smazat účet"
 }
