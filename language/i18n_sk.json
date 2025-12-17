@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Približne 8 – 70 minút",
     "CL_AC_out_door_self_clean_title": "Približne 8 – 15 minút",
     "CL_AC_self_clean_content": "Počas čistenia je povolené iba zapnutie/vypnutie a prepínanie režimov.",
-    "CL_AC_one_self_clean_fail": "Vnútorné čistenie nie je možné spustiť, ak je vnútorná teplota nižšia ako 0 °C alebo vyššia ako 32 °C; vonkajšie čistenie nie je možné spustiť, ak je vonkajšia teplota nižšia ako 0 °C alebo vyššia ako 32 °C.",
-    "CL_AC_in_door_self_clean_fail": "Čistenie interiéru nie je možné spustiť, ak je vnútorná teplota nižšia ako 0 °C alebo vyššia ako 32 °C.",
-    "CL_AC_out_door_self_clean_fail": "Vonkajšie čistenie nie je možné spustiť, ak je vonkajšia teplota nižšia ako 0 °C alebo vyššia ako 32 °C.",
+    "CL_AC_one_self_clean_fail": "Táto funkcia v súčasnosti nepodporuje ovládanie APP alebo zariadenie nespĺňa podmienky vykonávania čistenia.",
+    "CL_AC_in_door_self_clean_fail": "Táto funkcia v súčasnosti nepodporuje ovládanie APP alebo zariadenie nespĺňa podmienky vykonávania čistenia.",
+    "CL_AC_out_door_self_clean_fail": "Táto funkcia v súčasnosti nepodporuje ovládanie APP alebo zariadenie nespĺňa podmienky vykonávania čistenia.",
     "manager": "manažér",
     "CL_DV_WM_have_result": "Máme výsledok!",
     "CL_DV_WM_assist_result_tips": "Nižšie je uvedený navrhovaný program a nastavenia na základe vašich odpovedí. Naplňte práčku bielizňou a kliknutím na tlačidlo „ŠTART“ spustite pranie.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Možná príčina \n Batériový modul je odpojený od PCS; \n \n Ako riešiť problém \n 1. Skontrolujte, či je batéria pripojená k PCS. Ak nie je pripojená, pripojte ju po vypnutí napájania. \n 2. Skontrolujte, či nie je batériový modul chybný. Ak sa vyskytne porucha, kontaktujte poskytovateľa služieb.",
     "problem_title_ess_13": "1022 Žiadna komunikácia so systémom BMS",
     "problem_content_answer_ess_13": "Možná príčina \n Komunikačná linka BMS je abnormálne pripojená \n \n Ako riešiť \n Skontrolujte komunikačnú linku medzi BMS a PCS a po normálnom pripojení sa chyba sama odstráni; \n",
-    "CL_DV_OV_24_hour_clock": "24 hodinové hodiny"
+    "CL_DV_OV_24_hour_clock": "24 hodinové hodiny",
+    "CL_login_delete_tips": "Odstrániť účet"
 }

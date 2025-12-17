@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Körülbelül 8-70 perc",
     "CL_AC_out_door_self_clean_title": "Körülbelül 8-15 perc",
     "CL_AC_self_clean_content": "Tisztítás közben csak a be- és kikapcsolás, valamint az üzemmódváltás engedélyezett.",
-    "CL_AC_one_self_clean_fail": "A beltéri takarítás nem indítható el, ha a beltéri hőmérséklet 0°C alatt vagy 32°C felett van; a kültéri takarítás nem indítható el, ha a kültéri hőmérséklet 0°C alatt vagy 32°C felett van.",
-    "CL_AC_in_door_self_clean_fail": "A beltéri takarítás nem indítható el, ha a beltéri hőmérséklet 0°C alatt vagy 32°C felett van.",
-    "CL_AC_out_door_self_clean_fail": "A kültéri tisztítás nem indítható el, ha a kültéri hőmérséklet 0°C alatt vagy 32°C felett van.",
+    "CL_AC_one_self_clean_fail": "Ez a funkció jelenleg nem támogatja az APP-vezérlést, vagy a készülék nem felel meg a tisztítás végrehajtásának feltételeinek.",
+    "CL_AC_in_door_self_clean_fail": "Ez a funkció jelenleg nem támogatja az APP-vezérlést, vagy a készülék nem felel meg a tisztítás végrehajtásának feltételeinek.",
+    "CL_AC_out_door_self_clean_fail": "Ez a funkció jelenleg nem támogatja az APP-vezérlést, vagy a készülék nem felel meg a tisztítás végrehajtásának feltételeinek.",
     "manager": "menedzser",
     "CL_DV_WM_have_result": "Van egy eredményünk!",
     "CL_DV_WM_assist_result_tips": "Az alábbiakban a válaszaidon alapuló javasolt programot és beállításokat találod. Töltsd meg a mosógépet, és kattints a „START” gombra a mosás elindításához.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Lehetséges ok \n Az akkumulátormodul le van választva a PCS-ről; \n \n Teendők \n 1. Ellenőrizze, hogy az akkumulátor csatlakozik-e a PCS-hez. Ha nincs csatlakoztatva, kérjük, kikapcsolás után csatlakoztassa. \n 2. Ellenőrizze, hogy az akkumulátormodul hibás-e. Ha hibát észlel, kérjük, vegye fel a kapcsolatot a szervizzel a probléma megoldása érdekében.",
     "problem_title_ess_13": "1022 Nincs BMS kommunikáció",
     "problem_content_answer_ess_13": "Lehetséges ok \n A BMS kommunikációs vonala rendellenesen van csatlakoztatva \n \n Teendők \n Ellenőrizze a BMS és a PCS közötti kommunikációs vonalat, és miután a kapcsolat normálissá válik, a hiba magától megszűnik; \n",
-    "CL_DV_OV_24_hour_clock": "24 órás óra"
+    "CL_DV_OV_24_hour_clock": "24 órás óra",
+    "CL_login_delete_tips": "Fiók törlése"
 }

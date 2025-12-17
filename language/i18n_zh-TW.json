@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "約8-70分鐘",
     "CL_AC_out_door_self_clean_title": "約8-15分鐘",
     "CL_AC_self_clean_content": "清潔過程中只允許開關電源和切換模式。",
-    "CL_AC_one_self_clean_fail": "室內溫度低於0℃或高於32℃時，無法啟動室內清掃；室外溫度低於0℃或高於32℃時，無法啟動室外清掃。",
-    "CL_AC_in_door_self_clean_fail": "如果室內溫度低於0°C或高於32°C，則無法啟動室內清潔。",
-    "CL_AC_out_door_self_clean_fail": "如果室外溫度低於 0°C 或高於 32°C，則無法啟動室外清潔。",
+    "CL_AC_one_self_clean_fail": "此功能目前不支援APP控制，或裝置不符合清洗執行條件。",
+    "CL_AC_in_door_self_clean_fail": "此功能目前不支援APP控制，或裝置不符合清洗執行條件。",
+    "CL_AC_out_door_self_clean_fail": "此功能目前不支援APP控制，或裝置不符合清洗執行條件。",
     "manager": "主管",
     "CL_DV_WM_have_result": "我們有結果了！",
     "CL_DV_WM_assist_result_tips": "以下是根據您的回答建議的程序和設定。將洗衣機放入洗衣機，然後點選「開始」開始洗滌。",
@@ -7332,7 +7332,7 @@
     "CL_CF_energy_without_smart_energy": "沒有智慧能源",
     "CL_CF_energy_with_smart_energy": "智慧能源",
     "CL_CF_energy_check_energy_benefit": "檢查能源效益",
-    "CL_CF_energy_go_to_ems": "前往急診中心",
+    "CL_CF_energy_go_to_ems": "查看我的能源系統",
     "CL_CF_energy_excellent": "出色的！",
     "CL_CF_energy_great_news": "好消息！你使用的太陽能比電網電力還多。",
     "CL_CF_energy_self_powered": "自供電",
@@ -7404,7 +7404,7 @@
     "CL_DV_OV_recipe_category_level_2_Pastry": "糕點",
     "CL_DV_OV_recipe_category_level_2_Bake_off’s": "烘焙比賽",
     "CL_DV_OV_recipe_category_level_2_Dessert": "甜品",
-    "CL_CF_US_phone_auth_code_tips": "請查看您的手機以取得驗證碼",
+    "CL_CF_US_phone_auth_code_tips": "请注意查收手机验证码",
     "CL_CF_US_phone_error_tips": "請輸入正確的手机號",
     "CL_CF_US_auth_code_error_tips": "驗證碼過期或錯誤",
     "CL_CF_US_too_frequent_error_tips": "操作過於頻繁，請在1分鐘後重試",
@@ -7450,5 +7450,6 @@
     "problem_title_ess_12": "1021 電池未連接",
     "problem_content_answer_ess_12": "可能原因\n電池模組與PCS斷開連接；處理方法\n 1 \n檢查電池是否與PCS連接，如果未連接，請在斷電後連接； \n. 檢查電池模組是否有故障，如果有故障，請聯絡服務\n解決。",
     "problem_title_ess_13": "1022 無 BMS 通信",
-    "CL_DV_OV_24_hour_clock": "24小時制"
+    "CL_DV_OV_24_hour_clock": "24小時制",
+    "CL_login_delete_tips": "刪除帳號"
 }

@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Cirka 8–70 minuter",
     "CL_AC_out_door_self_clean_title": "Cirka 8–15 minuter",
     "CL_AC_self_clean_content": "Endast strömpåslagning/avstängning och lägesväxling är tillåtna under rengöring.",
-    "CL_AC_one_self_clean_fail": "Inomhusrengöring kan inte påbörjas om inomhustemperaturen är under 0 °C eller över 32 °C; utomhusrengöring kan inte påbörjas om utomhustemperaturen är under 0 °C eller över 32 °C.",
-    "CL_AC_in_door_self_clean_fail": "Rengöring inomhus kan inte påbörjas om inomhustemperaturen är under 0 °C eller över 32 °C.",
-    "CL_AC_out_door_self_clean_fail": "Utomhusrengöring kan inte påbörjas om utomhustemperaturen är under 0 °C eller över 32 °C.",
+    "CL_AC_one_self_clean_fail": "Den här funktionen stöder för närvarande inte APP-kontroll eller så uppfyller enheten inte villkoren för rengöring.",
+    "CL_AC_in_door_self_clean_fail": "Den här funktionen stöder för närvarande inte APP-kontroll eller så uppfyller enheten inte villkoren för rengöring.",
+    "CL_AC_out_door_self_clean_fail": "Den här funktionen stöder för närvarande inte APP-kontroll eller så uppfyller enheten inte villkoren för rengöring.",
     "manager": "chef",
     "CL_DV_WM_have_result": "Vi har ett resultat!",
     "CL_DV_WM_assist_result_tips": "Nedan följer det föreslagna programmet och inställningarna baserat på dina svar. Fyll tvättmaskinen och klicka på \"START\" för att starta tvätten.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Möjlig orsak \n Batterimodulen är bortkopplad från PCS:en; \n \n Så här hanterar du problemet \n 1. Kontrollera att batteriet är anslutet till PCS:en. Om det inte är det, anslut det efter att du har stängt av strömmen; \n 2. Kontrollera om batterimodulen är felaktig. Om det är ett fel, kontakta tjänsteleverantören för att åtgärda det.",
     "problem_title_ess_13": "1022 Ingen BMS-kommunikation",
     "problem_content_answer_ess_13": "Möjlig orsak \n BMS-kommunikationslinjen är felaktigt ansluten \n \n Så här hanterar du \n Kontrollera kommunikationslinjen mellan BMS och PCS, och när anslutningen är normal kommer felet att återställas av sig självt; \n",
-    "CL_DV_OV_24_hour_clock": "24 timmars klocka"
+    "CL_DV_OV_24_hour_clock": "24 timmars klocka",
+    "CL_login_delete_tips": "Radera konto"
 }

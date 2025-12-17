@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Aproximativ 8-70 de minute",
     "CL_AC_out_door_self_clean_title": "Aproximativ 8-15 minute",
     "CL_AC_self_clean_content": "În timpul curățării sunt permise doar pornirea/oprirea alimentării și schimbarea modului.",
-    "CL_AC_one_self_clean_fail": "Curățarea interioară nu poate fi inițiată dacă temperatura interioară este sub 0°C sau peste 32°C; curățarea exterioară nu poate fi inițiată dacă temperatura exterioară este sub 0°C sau peste 32°C.",
-    "CL_AC_in_door_self_clean_fail": "Curățarea interioară nu poate fi inițiată dacă temperatura interioară este sub 0°C sau peste 32°C.",
-    "CL_AC_out_door_self_clean_fail": "Curățarea exterioară nu poate fi inițiată dacă temperatura exterioară este sub 0°C sau peste 32°C.",
+    "CL_AC_one_self_clean_fail": "Această funcție nu acceptă în prezent controlul APP sau dispozitivul nu îndeplinește condițiile de executare a curățării.",
+    "CL_AC_in_door_self_clean_fail": "Această funcție nu acceptă în prezent controlul APP sau dispozitivul nu îndeplinește condițiile de executare a curățării.",
+    "CL_AC_out_door_self_clean_fail": "Această funcție nu acceptă în prezent controlul APP sau dispozitivul nu îndeplinește condițiile de executare a curățării.",
     "manager": "manager",
     "CL_DV_WM_have_result": "Avem un rezultat!",
     "CL_DV_WM_assist_result_tips": "Mai jos găsiți programul și setările sugerate, bazate pe răspunsurile dumneavoastră. Încărcați mașina de spălat și faceți clic pe „START” pentru a începe spălarea.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Motiv posibil \n Modulul bateriei este deconectat de la PCS; \n \n Cum se procedează în cazul \n 1. Verificați dacă bateria este conectată la PCS. Dacă nu este conectată, vă rugăm să o conectați după oprirea alimentării; \n 2. Verificați dacă modulul bateriei este defect. Dacă există o defecțiune, vă rugăm să contactați furnizorul de servicii pentru a o remedia.",
     "problem_title_ess_13": "1022 Fără comunicare BMS",
     "problem_content_answer_ess_13": "Motiv posibil \n Linia de comunicație BMS este conectată anormal \n \n Cum se procedează în cazul \n Verificați linia de comunicație dintre BMS și PCS, iar după ce conexiunea este normală, defecțiunea se va remedia de la sine; \n",
-    "CL_DV_OV_24_hour_clock": "Ceas de 24 de ore"
+    "CL_DV_OV_24_hour_clock": "Ceas de 24 de ore",
+    "CL_login_delete_tips": "Șterge cont"
 }

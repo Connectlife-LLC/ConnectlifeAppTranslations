@@ -6752,9 +6752,9 @@
     "CL_AC_in_door_self_clean_title": "Circa 8-70 minuti",
     "CL_AC_out_door_self_clean_title": "Circa 8-15 minuti",
     "CL_AC_self_clean_content": "Durante la pulizia è consentito solo accendere/spegnere l'alimentazione e cambiare modalità.",
-    "CL_AC_one_self_clean_fail": "La pulizia interna non può essere avviata se la temperatura interna è inferiore a 0°C o superiore a 32°C; la pulizia esterna non può essere avviata se la temperatura esterna è inferiore a 0°C o superiore a 32°C.",
-    "CL_AC_in_door_self_clean_fail": "La pulizia interna non può essere avviata se la temperatura interna è inferiore a 0°C o superiore a 32°C.",
-    "CL_AC_out_door_self_clean_fail": "La pulizia esterna non può essere avviata se la temperatura esterna è inferiore a 0°C o superiore a 32°C.",
+    "CL_AC_one_self_clean_fail": "Questa funzione attualmente non supporta il controllo APP o il dispositivo non soddisfa le condizioni di esecuzione della pulizia.",
+    "CL_AC_in_door_self_clean_fail": "Questa funzione attualmente non supporta il controllo APP o il dispositivo non soddisfa le condizioni di esecuzione della pulizia.",
+    "CL_AC_out_door_self_clean_fail": "Questa funzione attualmente non supporta il controllo APP o il dispositivo non soddisfa le condizioni di esecuzione della pulizia.",
     "manager": "manager",
     "CL_DV_WM_have_result": "Abbiamo un risultato!",
     "CL_DV_WM_assist_result_tips": "Di seguito sono riportati il programma e le impostazioni suggeriti in base alle tue risposte. Carica la lavatrice e clicca su \"START\" per avviare il lavaggio.",
@@ -7451,5 +7451,6 @@
     "problem_content_answer_ess_12": "Possibile motivo \n Il modulo batteria è scollegato dal PCS; \n \n Come gestire \n 1. Verificare che la batteria sia collegata al PCS; in caso contrario, collegarla dopo aver spento il dispositivo; \n 2. Verificare se il modulo batteria è difettoso; in caso di guasto, contattare il fornitore del servizio per risolverlo;",
     "problem_title_ess_13": "1022 Nessuna comunicazione BMS",
     "problem_content_answer_ess_13": "Possibile motivo \n La linea di comunicazione BMS è collegata in modo anomalo \n \n Come gestire \n Controllare la linea di comunicazione tra BMS e PCS e, una volta che la connessione è normale, il guasto si risolverà da solo; \n",
-    "CL_DV_OV_24_hour_clock": "Orologio 24 ore"
+    "CL_DV_OV_24_hour_clock": "Orologio 24 ore",
+    "CL_login_delete_tips": "Elimina account"
 }
