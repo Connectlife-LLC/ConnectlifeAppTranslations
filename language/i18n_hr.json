@@ -7452,5 +7452,6 @@
     "problem_title_ess_13": "1022 Nema BMS komunikacije",
     "problem_content_answer_ess_13": "Mogući razlog \n Komunikacijska linija BMS-a nije ispravno spojena \n \n Kako riješiti problem \n Provjerite komunikacijsku liniju između BMS-a i PCS-a i nakon što se veza uspostavi normalno, kvar će se sam od sebe oporaviti; \n",
     "CL_DV_OV_24_hour_clock": "24-satni format",
-    "CL_login_delete_tips": "Izbriši račun"
+    "CL_login_delete_tips": "Izbriši račun",
+    "Revenue": "Prihod"
 }

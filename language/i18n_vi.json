@@ -7452,5 +7452,6 @@
     "problem_title_ess_13": "1022 Không có thông tin liên lạc BMS",
     "problem_content_answer_ess_13": "Nguyên nhân có thể là \n Đường dây liên lạc của BMS bị kết nối bất thường \n \n Cách xử lý \n Kiểm tra đường dây liên lạc giữa BMS và PCS, sau khi kết nối bình thường, lỗi sẽ tự khắc phục; \n",
     "CL_DV_OV_24_hour_clock": "Đồng hồ 24 giờ",
-    "CL_login_delete_tips": "Xoá tài khoản"
+    "CL_login_delete_tips": "Xoá tài khoản",
+    "Revenue": "Doanh thu"
 }

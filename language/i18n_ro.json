@@ -7452,5 +7452,6 @@
     "problem_title_ess_13": "1022 Fără comunicare BMS",
     "problem_content_answer_ess_13": "Motiv posibil \n Linia de comunicație BMS este conectată anormal \n \n Cum se procedează în cazul \n Verificați linia de comunicație dintre BMS și PCS, iar după ce conexiunea este normală, defecțiunea se va remedia de la sine; \n",
     "CL_DV_OV_24_hour_clock": "Ceas de 24 de ore",
-    "CL_login_delete_tips": "Șterge cont"
+    "CL_login_delete_tips": "Șterge cont",
+    "Revenue": "Venituri"
 }

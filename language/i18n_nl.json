@@ -7426,7 +7426,7 @@
     "problem_content_answer_ess_06": "Mogelijke oorzaak \n Driefasige apparatuur, driefasige netspanning mist één of twee fasen; \n Oplossing \n Neem contact op met de serviceprovider;",
     "problem_title_ess_07": "1010 Meterstoring",
     "problem_content_answer_ess_07": "Mogelijke oorzaak \n Slecht contact van de communicatiekabel van de meter; \n \n Oplossing \n 1. Controleer of er geen speling is aan beide uiteinden van de communicatiekabel; \n 2. Als de bedrading in orde is en de storing al langer bestaat, neem dan contact op met de serviceprovider;",
-    "CL_CF_CS_hob_elica_integrated_cs_1": "Zorg ervoor dat uw apparaat is uitgeschakeld. \n Als de Wi-Fi-knop al brandt, sla deze stap dan over en ga naar stap 2. \n Als de Wi-Fi-knop niet brandt, druk dan op de Wi-Fi-knop om Wi-Fi in te schakelen.",
+    "CL_CF_CS_hob_elica_integrated_cs_1": "Zorg ervoor dat uw apparaat is uitgeschakeld. \nAls de Wi-Fi-knop al brandt, sla deze stap dan over en ga naar stap 2. \nAls de Wi-Fi-knop niet brandt, druk dan op de Wi-Fi-knop om Wi-Fi in te schakelen.",
     "CL_CF_CS_hob_elica_integrated_cs_2": " \n de Wi-Fi-knop 3 seconden ingedrukt. Het apparaatnetwerk is nu 5 minuten open voor verbinding. Klik op \n om verder te gaan.",
     "CL_AC_co2_tips": "CO2-informatie",
     "CL_AC_co2_moderate": "Gematigd",
@@ -7446,11 +7446,12 @@
     "problem_title_ess_10": "1017 Grid en Backup zijn omgewisseld",
     "problem_content_answer_ess_10": "Mogelijke oorzaak \n Netstroom en back-up zijn verwisseld; \n \n Hoe hiermee om te gaan \n Nadat de stroom is uitgeschakeld, de netstroom- en back-upaansluitingen opnieuw afstellen; \n",
     "problem_title_ess_11": "1020 Meerdere storingen en vergrendelingen \n",
-    "problem_content_answer_ess_11": "Mogelijke oorzaak \n Het apparaat heeft in korte tijd meerdere ernstige storingen achter elkaar ondervonden; \n \n Hoe hiermee om te gaan \n Neem contact op met de serviceprovider om het apparaat te laten ontgrendelen;",
+    "problem_content_answer_ess_11": "Mogelijke oorzaak \nHet apparaat heeft in korte tijd meerdere ernstige storingen achter elkaar ondervonden; \n \n Hoe hiermee om te gaan \n Neem contact op met de serviceprovider om het apparaat te laten ontgrendelen;",
     "problem_title_ess_12": "1021 Batterij niet aangesloten",
     "problem_content_answer_ess_12": "Mogelijke oorzaak \n De batterijmodule is losgekoppeld van de pc; \n \n 1. Controleer \n de batterij is aangesloten op de pc. Zo niet, sluit deze dan aan na het uitschakelen van de stroom; \n Controleer of de batterijmodule defect is. Neem in dat geval contact op met de serviceprovider voor reparatie.",
     "problem_title_ess_13": "1022 Geen BMS-communicatie",
     "problem_content_answer_ess_13": "Mogelijke oorzaak \n De BMS-communicatielijn is abnormaal verbonden \n \n \n Controleer de communicatielijn tussen de BMS en de PCS. Nadat de verbinding weer normaal is, zal de storing vanzelf verhelpen \n",
     "CL_DV_OV_24_hour_clock": "24-uurs klok",
-    "CL_login_delete_tips": "Account verwijderen"
+    "CL_login_delete_tips": "Account verwijderen",
+    "Revenue": "Winst"
 }
