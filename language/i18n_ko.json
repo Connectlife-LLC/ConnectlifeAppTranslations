@@ -7452,5 +7452,6 @@
     "problem_title_ess_13": "1022 BMS 통신 없음",
     "problem_content_answer_ess_13": "가능한 원인 \n BMS 통신 회선 연결 불량 \n 해결 방법 \n BMS와 PCS 간 통신 회선을 점검하고, 연결 \n 정상화되면 오류가 자동으로 복구됩니다 \n",
     "CL_DV_OV_24_hour_clock": "24시간 시계",
-    "CL_login_delete_tips": "계정 삭제"
+    "CL_login_delete_tips": "계정 삭제",
+    "Revenue": "수익"
 }

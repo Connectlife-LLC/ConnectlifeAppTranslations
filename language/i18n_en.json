@@ -7480,5 +7480,13 @@
     "CL_login_delete_auth_tips": "To ensure account security, please complete identity verification before logging out",
     "CL_login_delete_button": "Delete immediately",
     "CL_login_delete_content": "Before starting to cancel, please confirm the following:\n(1) There are no valid rights or assets in the account, or even if there are, you voluntarily give them up; Including but not limited to points, coupons, renewal relationships, VIP benefits, single point coupons, extended home appliance warranties, and account assets\n(2) The account has no outstanding orders or services, including but not limited to product orders, point redemption orders, installation/maintenance service orders, etc\n(3) The account is in a secure state and has not undergone any sensitive operations such as changing phone numbers or account passwords in the past 15 days\nAfter account cancellation, all associated information of the account will be deleted, and related rights, virtual assets, orders, etc. cannot be restored or retrieved. (Note: bolded: equity, virtual assets, orders)\nAt the same time, you will not be able to use this account to log in to other Hisense websites and clients, including but not limited to Hisense Aijia official account, Hisense Aijia applet, Hisense TV terminal, Hisense official mall applet, Hisense official mall app, Hisense official mall PC terminal, Hisense Integral Paradise PC terminal, TV micro assistant, Juhaoyue app.\nI have read and agreed to the \"Cancellation Agreement\" and voluntarily give up all virtual assets and personal information in this account.\nUsers can click on \"Cancel Agreement\" to enter the cancellation agreement page.\nThe bottom button displays as: Log out immediately, click to trigger the logout interface operation.",
-    "CL_login_delete_protocol_tips": "I have read and agreed to the<b>Cancellation Agreement</b>, and voluntarily delete personal information under my account."
+    "CL_login_delete_protocol_tips": "I have read and agreed to the <b>Cancellation Agreement</b>, and voluntarily delete personal information under my account.",
+    "CL_login_delete_protocol_title": "Account Cancellation Agreement",
+    "CL_login_change_phone_title": "Change phone number",
+    "CL_login_change_phone_tips": "To ensure account security, please enter the currently bound phone number",
+    "CL_login_change_phone_msg": "A mobile phone number can only be linked to one account, and after changing, the new phone number can be used to log in to this account.",
+    "Revenue": "Revenue",
+    "CL_DV_LRC_order_here": "ORDER HERE",
+    "CL_DV_LRC_pair_now": "PAIR NOW",
+    "CL_login_change_phone_same": "The new phone number is the same as the current one"
 }

@@ -7452,5 +7452,6 @@
     "problem_title_ess_13": "1022 Žádná komunikace s BMS",
     "problem_content_answer_ess_13": "Možná příčina \n Komunikační linka BMS je abnormálně připojena \n \n Jak problém vyřešit \n Zkontrolujte komunikační linku mezi BMS a PCS. Po obnovení normálního připojení se závada sama odstraní. \n",
     "CL_DV_OV_24_hour_clock": "24hodinové hodiny",
-    "CL_login_delete_tips": "Smazat účet"
+    "CL_login_delete_tips": "Smazat účet",
+    "Revenue": "Příjmy"
 }

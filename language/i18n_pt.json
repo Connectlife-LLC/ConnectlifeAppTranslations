@@ -7452,5 +7452,6 @@
     "problem_title_ess_13": "1022 Sem comunicação BMS",
     "problem_content_answer_ess_13": "Possível causa \n A linha de comunicação \n BMS está conectada de forma anormal. Como \n \n a linha de comunicação entre o BMS e o PCS. Após a normalização da conexão, a falha deverá se resolver sozinha \n",
     "CL_DV_OV_24_hour_clock": "24 horas",
-    "CL_login_delete_tips": "Eliminar conta"
+    "CL_login_delete_tips": "Eliminar conta",
+    "Revenue": "Receita"
 }

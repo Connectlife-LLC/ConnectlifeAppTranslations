@@ -7452,5 +7452,6 @@
     "problem_title_ess_13": "۱۰۲۲ عدم ارتباط BMS",
     "problem_content_answer_ess_13": "دلیل احتمالی \n اتصال غیرعادی خط ارتباطی BMS \n \n نحوه برخورد با \n خط ارتباطی بین BMS و PCS را بررسی کنید و پس از برقراری اتصال طبیعی، خطا به خودی خود برطرف می‌شود؛ \n",
     "CL_DV_OV_24_hour_clock": "ساعت ۲۴ ساعته",
-    "CL_login_delete_tips": "حذف حساب"
+    "CL_login_delete_tips": "حذف حساب",
+    "Revenue": "درآمد"
 }
