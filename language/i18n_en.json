@@ -7488,5 +7488,17 @@
     "Revenue": "Revenue",
     "CL_DV_LRC_order_here": "ORDER HERE",
     "CL_DV_LRC_pair_now": "PAIR NOW",
-    "CL_login_change_phone_same": "The new phone number is the same as the current one"
+    "CL_login_change_phone_same": "The new phone number is the same as the current one",
+    "CL_login_tips": "submit",
+    "CL_change_phone_suc": "Replacement successful",
+    "CL_login_change_phone_no_same": "The entered phone number does not match the currently bound phone number",
+    "CL_login_gener": "Gender",
+    "CL_login_birth": "Birthday",
+    "CL_login_m": "male",
+    "CL_login_w": "female",
+    "CL_login_nickname_error1": "Special characters and spaces are not supported",
+    "CL_login_nickname_error2": "Cannot save successfully as it does not support special characters or spaces.",
+    "CL_login_nickname_error3": "Nicknames are limited to 1-10 men or 3-30 English characters",
+    "CL_login_name_error": "Username and password incorrect",
+    "CL_login_has_bind": "This phone number has been linked to another account"
 }

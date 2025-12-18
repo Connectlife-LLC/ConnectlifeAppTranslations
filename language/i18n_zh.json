@@ -7473,5 +7473,17 @@
     "CL_login_change_phone_title": "更换手机号",
     "CL_login_change_phone_tips": "为了确保账号安全，请输入当前绑定的手机号",
     "CL_login_change_phone_msg": "一个手机号只能绑定一个账号，更换后可使用新手机号登录此账号。",
-    "Revenue": "收入"
+    "Revenue": "收入",
+    "CL_login_tips": "提交",
+    "CL_change_phone_suc": "更换成功",
+    "CL_login_change_phone_no_same": "输入的手机号和当前绑定的手机号不一致",
+    "CL_login_gener": "性别",
+    "CL_login_birth": "生日",
+    "CL_login_m": "男",
+    "CL_login_w": "女",
+    "CL_login_nickname_error1": "不支持特殊字符、空格",
+    "CL_login_nickname_error2": "不支持特殊字符、空格，无法保存成功。",
+    "CL_login_nickname_error3": "昵称限1-10个汉子或3-30个英文",
+    "CL_login_name_error": "用户名密码错误",
+    "CL_login_has_bind": "该手机号已被其他账号绑定"
 }
