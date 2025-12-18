@@ -7452,5 +7452,6 @@
     "problem_title_ess_13": "1022 אין תקשורת BMS",
     "problem_content_answer_ess_13": "סיבה אפשרית \n קו התקשורת של ה-BMS מחובר בצורה לא תקינה \n \n כיצד להתמודד עם \n בדוק את קו התקשורת בין ה-BMS ל-PCS, ולאחר שהחיבור יהיה תקין, התקלה תיפתר מעצמה; \n",
     "CL_DV_OV_24_hour_clock": "שעון 24 שעות",
-    "CL_login_delete_tips": "מחק חשבון"
+    "CL_login_delete_tips": "מחק חשבון",
+    "Revenue": "הַכנָסָה"
 }

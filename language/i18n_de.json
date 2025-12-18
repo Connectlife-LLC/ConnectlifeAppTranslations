@@ -7452,5 +7452,6 @@
     "problem_title_ess_13": "1022 Keine BMS-Kommunikation",
     "problem_content_answer_ess_13": "Mögliche Ursache \n Die BMS-Kommunikationsleitung ist fehlerhaft angeschlossen \n Vorgehensweise \n Überprüfen Sie die Kommunikationsleitung zwischen BMS und PCS \n Nach Wiederherstellung der Verbindung behebt sich der Fehler von selbst \n",
     "CL_DV_OV_24_hour_clock": "24-Stunden-Uhr",
-    "CL_login_delete_tips": "Konto löschen"
+    "CL_login_delete_tips": "Konto löschen",
+    "Revenue": "Einnahmen"
 }
