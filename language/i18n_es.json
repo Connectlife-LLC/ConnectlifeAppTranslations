@@ -7453,5 +7453,6 @@
     "problem_content_answer_ess_13": "Posible motivo \n La línea de comunicación BMS está conectada de forma anormal \n \n Cómo lidiar con \n Verifique la línea de comunicación entre BMS y PCS, y después de que la conexión sea normal, la falla se recuperará por sí sola; \n",
     "CL_DV_OV_24_hour_clock": "Formato 24 horas",
     "CL_login_delete_tips": "Borrar cuenta",
-    "Revenue": "Ganancia"
+    "Revenue": "Ganancia",
+    "CL_DV_OV_factory_reset_tips": "El aparato se puede restablecer a los valores predeterminados de fábrica."
 }

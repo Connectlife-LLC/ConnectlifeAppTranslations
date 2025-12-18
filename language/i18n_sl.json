@@ -7465,5 +7465,6 @@
     "problem_content_answer_ess_18": "Možen vzrok \n Težave z namestitvijo CT; \n \n Kako ravnati v primeru \n Za rešitev se obrnite na monterja;",
     "CL_DV_OV_24_hour_clock": "24-urni format",
     "CL_login_delete_tips": "Izbriši račun",
-    "Revenue": "Prihodki"
+    "Revenue": "Prihodki",
+    "CL_DV_OV_factory_reset_tips": "Napravo lahko ponastavite na tovarniške nastavitve. Vse osebne nastavitve in shranjeni podatki bodo izgubljeni."
 }

@@ -7453,5 +7453,6 @@
     "problem_content_answer_ess_13": "Possível causa \n A linha de comunicação \n BMS está conectada de forma anormal. Como \n \n a linha de comunicação entre o BMS e o PCS. Após a normalização da conexão, a falha deverá se resolver sozinha \n",
     "CL_DV_OV_24_hour_clock": "24 horas",
     "CL_login_delete_tips": "Eliminar conta",
-    "Revenue": "Receita"
+    "Revenue": "Receita",
+    "CL_DV_OV_factory_reset_tips": "O aparelho pode ser redefinido para os padrões de fábrica. Todas as configurações e dados serão perdidos."
 }

@@ -7453,5 +7453,6 @@
     "problem_content_answer_ess_13": "Možná príčina \n Komunikačná linka BMS je abnormálne pripojená \n \n Ako riešiť \n Skontrolujte komunikačnú linku medzi BMS a PCS a po normálnom pripojení sa chyba sama odstráni; \n",
     "CL_DV_OV_24_hour_clock": "24 hodinové hodiny",
     "CL_login_delete_tips": "Odstrániť účet",
-    "Revenue": "Príjmy"
+    "Revenue": "Príjmy",
+    "CL_DV_OV_factory_reset_tips": "Spotrebič je možné resetovať späť na výrobné nastavenia."
 }

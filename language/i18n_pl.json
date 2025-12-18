@@ -7453,5 +7453,6 @@
     "problem_content_answer_ess_13": "Możliwa przyczyna \n Linia komunikacyjna BMS jest nieprawidłowo podłączona \n \n Jak sobie poradzić z \n Sprawdź linię komunikacyjną między BMS i PCS. Po przywróceniu prawidłowego połączenia usterka ustąpi sama; \n",
     "CL_DV_OV_24_hour_clock": "Zegar 24-godzinny",
     "CL_login_delete_tips": "Usuń konto",
-    "Revenue": "Przychód"
+    "Revenue": "Przychód",
+    "CL_DV_OV_factory_reset_tips": "Urządzenie można zresetować do ustawień fabrycznych."
 }

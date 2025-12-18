@@ -7453,5 +7453,6 @@
     "problem_content_answer_ess_13": "Mahdollinen syy \n Asennusautomaation tietoliikennelinja on kytketty epänormaalisti \n \n Miten toimia, jos \n Tarkista rakennusautomaation ja asennusautomaation välinen tietoliikennelinja. Kun yhteys on normaali, vika korjaantuu itsestään. \n",
     "CL_DV_OV_24_hour_clock": "24 tunnin kello",
     "CL_login_delete_tips": "Poista tili",
-    "Revenue": "Tulot"
+    "Revenue": "Tulot",
+    "CL_DV_OV_factory_reset_tips": "Laite voidaan palauttaa tehdasasetuksiin."
 }

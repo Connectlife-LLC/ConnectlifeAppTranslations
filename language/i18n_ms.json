@@ -7453,5 +7453,6 @@
     "problem_content_answer_ess_13": "Sebab yang mungkin \n Talian komunikasi BMS disambungkan secara tidak normal \n \n Cara menangani \n Periksa talian komunikasi antara BMS dan PCS, dan selepas sambungan normal, kerosakan akan pulih dengan sendirinya; \n",
     "CL_DV_OV_24_hour_clock": "Jam 24 jam",
     "CL_login_delete_tips": "Padam akaun",
-    "Revenue": "Hasil"
+    "Revenue": "Hasil",
+    "CL_DV_OV_factory_reset_tips": "Perkakas boleh ditetapkan semula kepada lalai kilang."
 }
