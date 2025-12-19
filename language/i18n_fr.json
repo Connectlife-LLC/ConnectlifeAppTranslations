@@ -7453,5 +7453,7 @@
     "problem_content_answer_ess_13": "Cause possible \n La ligne de communication du BMS est anormalement connectée \n \n \n Vérifiez la ligne de communication entre le BMS et le PCS \n Une fois la connexion rétablie, le problème se résoudra de lui-même.",
     "CL_DV_OV_24_hour_clock": "Horloge 24 heures",
     "CL_login_delete_tips": "Supprimer le compte",
-    "Revenue": "Revenu"
+    "Revenue": "Revenu",
+    "CL_DV_OV_factory_reset_tips": "L'appareil peut être réinitialisé aux paramètres d'usine.",
+    "CL_DV_RF_Care_Reminder": "Soins et rappels"
 }

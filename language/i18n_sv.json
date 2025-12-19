@@ -7453,5 +7453,7 @@
     "problem_content_answer_ess_13": "Möjlig orsak \n BMS-kommunikationslinjen är felaktigt ansluten \n \n Så här hanterar du \n Kontrollera kommunikationslinjen mellan BMS och PCS, och när anslutningen är normal kommer felet att återställas av sig självt; \n",
     "CL_DV_OV_24_hour_clock": "24 timmars klocka",
     "CL_login_delete_tips": "Radera konto",
-    "Revenue": "Inkomst"
+    "Revenue": "Inkomst",
+    "CL_DV_OV_factory_reset_tips": "Apparaten kan återställas till fabriksinställningarna.",
+    "CL_DV_RF_Care_Reminder": "Omsorg och påminnelse"
 }

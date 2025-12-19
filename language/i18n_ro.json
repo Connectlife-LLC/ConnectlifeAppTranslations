@@ -7453,5 +7453,7 @@
     "problem_content_answer_ess_13": "Motiv posibil \n Linia de comunicație BMS este conectată anormal \n \n Cum se procedează în cazul \n Verificați linia de comunicație dintre BMS și PCS, iar după ce conexiunea este normală, defecțiunea se va remedia de la sine; \n",
     "CL_DV_OV_24_hour_clock": "Ceas de 24 de ore",
     "CL_login_delete_tips": "Șterge cont",
-    "Revenue": "Venituri"
+    "Revenue": "Venituri",
+    "CL_DV_OV_factory_reset_tips": "Aparatul poate fi resetat la setările implicite din fabrică.",
+    "CL_DV_RF_Care_Reminder": "Îngrijire și memento"
 }

@@ -7453,5 +7453,7 @@
     "problem_content_answer_ess_13": "Mulig årsak \n BMS-kommunikasjonslinjen er unormalt tilkoblet \n \n Slik håndterer du dette \n Sjekk kommunikasjonslinjen mellom BMS og PCS, og etter at forbindelsen er normal, vil feilen løse seg av seg selv; \n",
     "CL_DV_OV_24_hour_clock": "24-timers klokke",
     "CL_login_delete_tips": "Slett konto",
-    "Revenue": "Inntekter"
+    "Revenue": "Inntekter",
+    "CL_DV_OV_factory_reset_tips": "Apparatet kan tilbakestilles til fabrikkinnstillinger.",
+    "CL_DV_RF_Care_Reminder": "Omsorg og påminnelse"
 }

@@ -7453,5 +7453,7 @@
     "problem_content_answer_ess_13": "Mogelijke oorzaak \n De BMS-communicatielijn is abnormaal verbonden \n \n \n Controleer de communicatielijn tussen de BMS en de PCS. Nadat de verbinding weer normaal is, zal de storing vanzelf verhelpen \n",
     "CL_DV_OV_24_hour_clock": "24-uurs klok",
     "CL_login_delete_tips": "Account verwijderen",
-    "Revenue": "Winst"
+    "Revenue": "Winst",
+    "CL_DV_OV_factory_reset_tips": "Het apparaat kan worden teruggezet naar de fabrieksinstellingen.",
+    "CL_DV_RF_Care_Reminder": "Zorg en herinnering"
 }

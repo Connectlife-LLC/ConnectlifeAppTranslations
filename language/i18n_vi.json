@@ -7453,5 +7453,7 @@
     "problem_content_answer_ess_13": "Nguyên nhân có thể là \n Đường dây liên lạc của BMS bị kết nối bất thường \n \n Cách xử lý \n Kiểm tra đường dây liên lạc giữa BMS và PCS, sau khi kết nối bình thường, lỗi sẽ tự khắc phục; \n",
     "CL_DV_OV_24_hour_clock": "Đồng hồ 24 giờ",
     "CL_login_delete_tips": "Xoá tài khoản",
-    "Revenue": "Doanh thu"
+    "Revenue": "Doanh thu",
+    "CL_DV_OV_factory_reset_tips": "Thiết bị có thể được đặt lại về mặc định ban đầu.",
+    "CL_DV_RF_Care_Reminder": "Sự quan tâm và nhắc nhở"
 }

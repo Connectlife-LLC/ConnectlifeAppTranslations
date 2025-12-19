@@ -5844,7 +5844,7 @@
     "agent_about_me_content": "Niezależnie od tego, czy interesują Cię ustawienia, szukasz nowych pomysłów na przepisy, czy potrzebujesz szybkiej naprawy, gdy coś pójdzie nie tak, ten asystent jest tu po to, by Ci pomóc. Wystarczy zapytać! ",
     "vocal_fade_mode": "Tłumienie wokalu",
     "CL_DV_WM_Stage_Reminder": "Przypomnienie o etapie",
-    "CL_CF_CS_stage_reminder_Prewash_finished": "Pranie wstępne zakończone ",
+    "CL_CF_CS_stage_reminder_Prewash_finished": "Zakończono etap wstępnego mycia",
     "CL_CF_CS_stage_reminder_Washing_Stage_finished": "Etap mycia ukończony",
     "CL_CF_CS_stage_reminder_Rinse_stage_finished": "Etap płukania zakończony",
     "CL_CF_CS_stage_reminder_Spin_stage_finished": "Etap wirowania ukończony",
@@ -7453,5 +7453,7 @@
     "problem_content_answer_ess_13": "Możliwa przyczyna \n Linia komunikacyjna BMS jest nieprawidłowo podłączona \n \n Jak sobie poradzić z \n Sprawdź linię komunikacyjną między BMS i PCS. Po przywróceniu prawidłowego połączenia usterka ustąpi sama; \n",
     "CL_DV_OV_24_hour_clock": "Zegar 24-godzinny",
     "CL_login_delete_tips": "Usuń konto",
-    "Revenue": "Przychód"
+    "Revenue": "Przychód",
+    "CL_DV_OV_factory_reset_tips": "Urządzenie można zresetować do ustawień fabrycznych.",
+    "CL_DV_RF_Care_Reminder": "Opieka i przypomnienie"
 }

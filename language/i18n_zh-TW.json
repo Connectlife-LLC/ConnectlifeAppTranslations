@@ -7452,5 +7452,7 @@
     "problem_title_ess_13": "1022 無 BMS 通信",
     "CL_DV_OV_24_hour_clock": "24小時制",
     "CL_login_delete_tips": "刪除帳號",
-    "Revenue": "收入"
+    "Revenue": "收入",
+    "CL_DV_OV_factory_reset_tips": "设备可以重置回出厂默认设置。所有个人设置和存储的数据都将丢失。",
+    "CL_DV_RF_Care_Reminder": "關懷與提醒"
 }
