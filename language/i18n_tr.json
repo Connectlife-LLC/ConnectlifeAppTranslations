@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "\"+\" simgesine dokunup 3 saniye basılı tutun, \"Con\" yazısı görünene kadar bekleyin. Cihaz ağı artık 5 dakika boyunca bağlantıya açık. Devam etmek için \n tıklayın.",
-    "CL_CF_CS_wm_g600_p_step_3": "+ simgesine 6 saniye boyunca basılı tutun, PAr yazısı görünene kadar bekleyin. Cihaz artık 3 dakika boyunca eşleştirmeye hazır. \n Devam etmek için İLERİ'ye tıklayın."
+    "CL_CF_CS_wm_g600_p_step_3": "+ simgesine 6 saniye boyunca basılı tutun, PAr yazısı görünene kadar bekleyin. Cihaz artık 3 dakika boyunca eşleştirmeye hazır. \n Devam etmek için İLERİ'ye tıklayın.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "TARİH FORMATI AYARLA",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Etkinleştirildi",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "{##} ürününüzle eşleştirin veya bugün sipariş verin."
 }

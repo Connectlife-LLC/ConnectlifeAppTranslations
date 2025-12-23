@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Ketuk dan tahan ikon + selama 3 detik hingga muncul Con. Jaringan perangkat sekarang terbuka untuk koneksi selama 5 menit. Klik \n untuk melanjutkan.",
-    "CL_CF_CS_wm_g600_p_step_3": "Ketuk dan tahan ikon + selama 6 detik hingga muncul PAr. Perangkat sekarang siap untuk dipasangkan selama 3 menit. Klik \n untuk melanjutkan."
+    "CL_CF_CS_wm_g600_p_step_3": "Ketuk dan tahan ikon + selama 6 detik hingga muncul PAr. Perangkat sekarang siap untuk dipasangkan selama 3 menit. Klik \n untuk melanjutkan.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "ATUR FORMAT TANGGAL",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Diaktifkan",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Padukan {##} Anda atau pesan hari ini"
 }

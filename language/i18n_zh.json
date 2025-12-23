@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "若您更换了手机号，可修改手机号后继续使用当前账号。",
     "CL_login_modify_phone_title": "修改手机号",
     "CL_CF_CS_wm_g600_cs_step_3": "按住“+”图标 3 秒钟，直到出现“Con”。设备网络现已开放连接，有效期为 5 分钟。点击 \n下一步”继续。",
-    "CL_CF_CS_wm_g600_p_step_3": "按住“+”图标 6 秒钟，直到出现“PAR”。设备现在已准备好进行配对，等待 3 分钟。__ \n点击“下一步”继续。"
+    "CL_CF_CS_wm_g600_p_step_3": "按住“+”图标 6 秒钟，直到出现“PAR”。设备现在已准备好进行配对，等待 3 分钟。__ \n点击“下一步”继续。",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "设置日期格式",
+    "CL_login_phone_title": "手机号登录",
+    "CL_login_delete_content_tips": "账号注销后，将删除该账号所有关联信息，添加的设备将无法恢复或找回。",
+    "CL_CF_US_auth_code_error": "验证码错误或过期",
+    "CL_DV_LRC_activated": "活性",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "搭配您的{##}或立即订购"
 }

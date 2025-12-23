@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Dotaknite se ikone + in jo držite 3 sekunde, dokler se ne prikaže Con. Omrežje naprave je zdaj odprto za povezavo 5 minut. \n Za nadaljevanje kliknite NAPREJ.",
-    "CL_CF_CS_wm_g600_p_step_3": "Dotaknite se ikone + in jo držite 6 sekund, dokler se ne prikaže PAr. Naprava je zdaj pripravljena za seznanjanje 3 minute. \n Za nadaljevanje kliknite NAPREJ."
+    "CL_CF_CS_wm_g600_p_step_3": "Dotaknite se ikone + in jo držite 6 sekund, dokler se ne prikaže PAr. Naprava je zdaj pripravljena za seznanjanje 3 minute. \n Za nadaljevanje kliknite NAPREJ.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "NASTAVITE OBLIKO DATUMA",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Aktivirano",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Seznanite svoj {##} ali ga naročite še danes"
 }

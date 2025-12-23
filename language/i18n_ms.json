@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Ketik dan tahan ikon + selama 3 saat sehingga Con muncul. Rangkaian peranti kini dibuka untuk sambungan selama 5 minit. \n Klik SETERUSNYA untuk meneruskan.",
-    "CL_CF_CS_wm_g600_p_step_3": "Ketik dan tahan ikon + selama 6 saat sehingga PAr muncul. Peranti kini sedia untuk digandingkan selama 3 minit. \n Klik SETERUSNYA untuk meneruskan."
+    "CL_CF_CS_wm_g600_p_step_3": "Ketik dan tahan ikon + selama 6 saat sehingga PAr muncul. Peranti kini sedia untuk digandingkan selama 3 minit. \n Klik SETERUSNYA untuk meneruskan.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "TETAPKAN FORMAT TARIKH",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Diaktifkan",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Pasangkan {##} anda atau pesan hari ini"
 }

@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "แตะไอคอน + ค้างไว้ 3 วินาที จนกระทั่งคำว่า Con ปรากฏขึ้น เครือข่ายของอุปกรณ์จะเปิดให้เชื่อมต่อเป็นเวลา 5 นาที คลิก \n เพื่อดำเนินการต่อ",
-    "CL_CF_CS_wm_g600_p_step_3": "แตะไอคอน + ค้างไว้ 6 วินาที จนกระทั่ง PAr ปรากฏขึ้น อุปกรณ์พร้อมสำหรับการจับคู่เป็นเวลา 3 นาทีแล้ว \n คลิก NEXT เพื่อดำเนินการต่อ"
+    "CL_CF_CS_wm_g600_p_step_3": "แตะไอคอน + ค้างไว้ 6 วินาที จนกระทั่ง PAr ปรากฏขึ้น อุปกรณ์พร้อมสำหรับการจับคู่เป็นเวลา 3 นาทีแล้ว \n คลิก NEXT เพื่อดำเนินการต่อ",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "กำหนดรูปแบบวันที่",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "เปิดใช้งานแล้ว",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "จับคู่กับ {##} ของคุณ หรือสั่งซื้อได้เลยวันนี้"
 }

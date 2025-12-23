@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "הקש והחזק את סמל ה-+ למשך 3 שניות עד להופעת Con. רשת המכשיר פתוחה כעת לחיבור למשך 5 דקות. \n לחץ על הבא כדי להמשיך.",
-    "CL_CF_CS_wm_g600_p_step_3": "הקש והחזק את סמל ה-+ למשך 6 שניות עד להופעת PAr. המכשיר מוכן כעת לצימוד למשך 3 דקות. \n לחץ על הבא כדי להמשיך."
+    "CL_CF_CS_wm_g600_p_step_3": "הקש והחזק את סמל ה-+ למשך 6 שניות עד להופעת PAr. המכשיר מוכן כעת לצימוד למשך 3 דקות. \n לחץ על הבא כדי להמשיך.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "הגדר פורמט תאריך",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "מוּפעָל",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "התאם את ה-{##} שלך או הזמין אותו עוד היום"
 }

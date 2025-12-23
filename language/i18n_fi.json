@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Napauta ja pidä +-kuvaketta painettuna 3 sekuntia, kunnes Con tulee näkyviin. Laitteen verkko on nyt avoinna yhteyden muodostamista varten 5 minuutiksi. \n Jatka napsauttamalla SEURAAVA.",
-    "CL_CF_CS_wm_g600_p_step_3": "Napauta ja pidä +-kuvaketta painettuna 6 sekuntia, kunnes PAr tulee näkyviin. Laite on nyt valmis pariliitokseen 3 minuutin ajan. \n Jatka napsauttamalla SEURAAVA."
+    "CL_CF_CS_wm_g600_p_step_3": "Napauta ja pidä +-kuvaketta painettuna 6 sekuntia, kunnes PAr tulee näkyviin. Laite on nyt valmis pariliitokseen 3 minuutin ajan. \n Jatka napsauttamalla SEURAAVA.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "ASETA PÄIVÄMÄÄRÄN MUOTO",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Aktivoitu",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Yhdistä {##}-laitteesi tai tilaa se jo tänään"
 }

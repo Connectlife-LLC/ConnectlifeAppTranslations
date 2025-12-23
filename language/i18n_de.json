@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Halten Sie das Plus-Symbol 3 Sekunden lang gedrückt, bis „Con“ erscheint. Das Gerätenetzwerk ist nun für 5 Minuten zur Verbindung geöffnet. Klicken Sie auf \n, um fortzufahren.",
-    "CL_CF_CS_wm_g600_p_step_3": "Halten Sie das Plus-Symbol 6 Sekunden lang gedrückt, bis „PAr“ angezeigt wird. Das Gerät ist nun 3 Minuten lang bereit zum Koppeln. \n Klicken Sie auf WEITER, um fortzufahren."
+    "CL_CF_CS_wm_g600_p_step_3": "Halten Sie das Plus-Symbol 6 Sekunden lang gedrückt, bis „PAr“ angezeigt wird. Das Gerät ist nun 3 Minuten lang bereit zum Koppeln. \n Klicken Sie auf WEITER, um fortzufahren.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "DATUMSFORMAT FESTLEGEN",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Aktiviert",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Kombinieren Sie Ihr {##} oder bestellen Sie es noch heute"
 }

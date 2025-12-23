@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Trykk og hold inne +-ikonet i 3 sekunder til Con vises. Enhetens nettverk er nå åpent for tilkobling i 5 minutter. \n Klikk på NESTE for å fortsette.",
-    "CL_CF_CS_wm_g600_p_step_3": "Trykk og hold inne +-ikonet i 6 sekunder til PAr vises. Enheten er nå klar for paring i 3 minutter. \n Klikk på NESTE for å fortsette."
+    "CL_CF_CS_wm_g600_p_step_3": "Trykk og hold inne +-ikonet i 6 sekunder til PAr vises. Enheten er nå klar for paring i 3 minutter. \n Klikk på NESTE for å fortsette.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "ANGI DATOFORMAT",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Aktivert",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Koble sammen din {##} eller bestill den i dag"
 }
