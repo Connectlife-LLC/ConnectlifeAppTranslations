@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "+アイコンを3秒間長押しすると、「Con」が表示されます。デバイスのネットワークは5分間接続可能です。L__NEWLINE__ \n次へ」をクリックして続行してください。",
-    "CL_CF_CS_wm_g600_p_step_3": "PArが表示されるまで、+アイコンを6秒間長押ししてください。これでデバイスは3分間ペアリングできる状態になります。__ \n 「次へ」をクリックして続行してください。"
+    "CL_CF_CS_wm_g600_p_step_3": "PArが表示されるまで、+アイコンを6秒間長押ししてください。これでデバイスは3分間ペアリングできる状態になります。__ \n 「次へ」をクリックして続行してください。",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "日付形式の設定",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "有効化",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "{##} をペアリングするか、今すぐ注文してください"
 }

@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Tik en houd het + pictogram 3 seconden ingedrukt totdat Con verschijnt. Het apparaatnetwerk is nu 5 minuten open voor verbinding. Klik op \n om verder te gaan.",
-    "CL_CF_CS_wm_g600_p_step_3": "Tik en houd het + pictogram 6 seconden ingedrukt totdat PAr verschijnt. Het apparaat is nu 3 minuten klaar om te koppelen. Klik op \n om verder te gaan."
+    "CL_CF_CS_wm_g600_p_step_3": "Tik en houd het + pictogram 6 seconden ingedrukt totdat PAr verschijnt. Het apparaat is nu 3 minuten klaar om te koppelen. Klik op \n om verder te gaan.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "STEL DE DATUMINDELING IN",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Geactiveerd",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Combineer je {##} of bestel hem vandaag nog."
 }

@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "If you change your phone number, you can modify it and continue using your current account.",
     "CL_login_modify_phone_title": "Change mobile number",
     "CL_CF_CS_wm_g600_cs_step_3": "Tap and hold the “OK” icon for 3 seconds until Con appears. \nThe device network is now open for connection for 5 minutes. \nClick NEXT to continue.",
-    "CL_CF_CS_wm_g600_p_step_3": "Tap and hold the “OK” icon for 6 seconds until PAr appears.\nThe device is now ready for pairing for 3 minutes.\nClick NEXT to continue."
+    "CL_CF_CS_wm_g600_p_step_3": "Tap and hold the “OK” icon for 6 seconds until PAr appears.\nThe device is now ready for pairing for 3 minutes.\nClick NEXT to continue.",
+    "CL_DV_RF_set_time_period": "Set time period",
+    "set_date_format": "SET DATE FORMAT",
+    "CL_login_phone_title": "Mobile number login",
+    "CL_login_delete_content_tips": "After account cancellation, all associated information of the account will be deleted, and the added devices will not be recoverable or retrieved.",
+    "CL_CF_US_auth_code_error": "Verification code incorrect or expired",
+    "CL_DV_LRC_activated": "Activated",
+    "CL_DV_LRC_not_activated": "Not Activated",
+    "CL_DV_LRC_pair_order": "Pair your {##} or order it today"
 }

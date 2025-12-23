@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Mantén pulsado el icono + durante 3 segundos hasta que aparezca Con. La red del dispositivo estará disponible para la conexión durante 5 minutos. Haz clic en \n para continuar.",
-    "CL_CF_CS_wm_g600_p_step_3": "Mantenga pulsado el icono + durante 6 segundos hasta que aparezca PAr. El dispositivo estará listo para emparejarse durante 3 minutos. \n Haga clic en SIGUIENTE para continuar."
+    "CL_CF_CS_wm_g600_p_step_3": "Mantenga pulsado el icono + durante 6 segundos hasta que aparezca PAr. El dispositivo estará listo para emparejarse durante 3 minutos. \n Haga clic en SIGUIENTE para continuar.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "ESTABLECER FORMATO DE FECHA",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Activado",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Empareja tu {##} o pídelo hoy"
 }

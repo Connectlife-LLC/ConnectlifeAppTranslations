@@ -5845,7 +5845,7 @@
     "agent_about_me_content": "Ať už vás zajímají nastavení, chcete nové nápady na recepty nebo potřebujete rychlou opravu, když se něco pokazí, tento asistent je tu pro vás. Stačí se zeptat! ",
     "vocal_fade_mode": "Hlasový fader",
     "CL_DV_WM_Stage_Reminder": "Připomenutí fáze",
-    "CL_CF_CS_stage_reminder_Prewash_finished": "Předpírka dokončena",
+    "CL_CF_CS_stage_reminder_Prewash_finished": "Fáze předpírky dokončena",
     "CL_CF_CS_stage_reminder_Washing_Stage_finished": "Fáze praní dokončena",
     "CL_CF_CS_stage_reminder_Rinse_stage_finished": "Fáze oplachování dokončena",
     "CL_CF_CS_stage_reminder_Spin_stage_finished": "Fáze odstředění dokončena",
@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Klepněte a podržte ikonu + po dobu 3 sekund, dokud se nezobrazí Con. Síť zařízení je nyní otevřená pro připojení po dobu 5 minut. \n Klikněte na DALŠÍ pro pokračování.",
-    "CL_CF_CS_wm_g600_p_step_3": "Klepněte a podržte ikonu + po dobu 6 sekund, dokud se nezobrazí PAr. Zařízení je nyní připraveno k párování po dobu 3 minut. \n Klikněte na DALŠÍ pro pokračování."
+    "CL_CF_CS_wm_g600_p_step_3": "Klepněte a podržte ikonu + po dobu 6 sekund, dokud se nezobrazí PAr. Zařízení je nyní připraveno k párování po dobu 3 minut. \n Klikněte na DALŠÍ pro pokračování.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "NASTAVIT FORMÁT DATA",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Aktivováno",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Spárujte svůj {##} nebo si ho objednejte ještě dnes"
 }

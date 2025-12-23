@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Tocca e tieni premuta l'icona + per 3 secondi finché non appare Con. La rete del dispositivo è ora aperta alla connessione per 5 minuti. \n Fai clic su AVANTI per continuare.",
-    "CL_CF_CS_wm_g600_p_step_3": "Tocca e tieni premuta l'icona + per 6 secondi finché non appare PAr. Il dispositivo è ora pronto per l'associazione per 3 minuti. \n Fai clic su AVANTI per continuare."
+    "CL_CF_CS_wm_g600_p_step_3": "Tocca e tieni premuta l'icona + per 6 secondi finché non appare PAr. Il dispositivo è ora pronto per l'associazione per 3 minuti. \n Fai clic su AVANTI per continuare.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "IMPOSTA FORMATO DATA",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Attivato",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Abbina il tuo {##} o ordinalo oggi stesso"
 }

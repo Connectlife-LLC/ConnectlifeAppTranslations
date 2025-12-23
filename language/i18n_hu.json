@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Koppintson és tartsa lenyomva a + ikont 3 másodpercig, amíg meg nem jelenik a Con felirat. Az eszköz hálózata most 5 percig nyitva áll a csatlakozáshoz. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
-    "CL_CF_CS_wm_g600_p_step_3": "Koppintson és tartsa lenyomva a + ikont 6 másodpercig, amíg meg nem jelenik a PAr felirat. Az eszköz most 3 percig párosítható. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz."
+    "CL_CF_CS_wm_g600_p_step_3": "Koppintson és tartsa lenyomva a + ikont 6 másodpercig, amíg meg nem jelenik a PAr felirat. Az eszköz most 3 percig párosítható. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "DÁTUMFORMÁTUM BEÁLLÍTÁSA",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Aktív",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Párosítsa a {##} készülékét, vagy rendelje meg még ma"
 }

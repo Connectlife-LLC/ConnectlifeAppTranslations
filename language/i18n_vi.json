@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Nhấn giữ biểu tượng + trong 3 giây cho đến khi chữ Con xuất hiện. Mạng của thiết bị hiện đã được mở để kết nối trong 5 phút. \n TIẾP THEO để tiếp tục.",
-    "CL_CF_CS_wm_g600_p_step_3": "Nhấn giữ biểu tượng + trong 6 giây cho đến khi PAr xuất hiện. Thiết bị hiện đã sẵn sàng để ghép nối trong 3 phút. \n Nhấn TIẾP THEO để tiếp tục."
+    "CL_CF_CS_wm_g600_p_step_3": "Nhấn giữ biểu tượng + trong 6 giây cho đến khi PAr xuất hiện. Thiết bị hiện đã sẵn sàng để ghép nối trong 3 phút. \n Nhấn TIẾP THEO để tiếp tục.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "THIẾT LẬP ĐỊNH DẠNG NGÀY THÁNG",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Đã kích hoạt",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Ghép đôi {##} của bạn hoặc đặt hàng ngay hôm nay!"
 }

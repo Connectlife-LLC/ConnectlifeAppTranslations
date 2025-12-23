@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Klepnite a podržte ikonu + 3 sekundy, kým sa nezobrazí Con. Sieť zariadenia je teraz otvorená pre pripojenie na 5 minút. \n Kliknite na ĎALEJ pre pokračovanie.",
-    "CL_CF_CS_wm_g600_p_step_3": "Klepnite a podržte ikonu + 6 sekúnd, kým sa nezobrazí PAr. Zariadenie je teraz pripravené na párovanie po dobu 3 minút. \n Kliknite na ĎALEJ pre pokračovanie."
+    "CL_CF_CS_wm_g600_p_step_3": "Klepnite a podržte ikonu + 6 sekúnd, kým sa nezobrazí PAr. Zariadenie je teraz pripravené na párovanie po dobu 3 minút. \n Kliknite na ĎALEJ pre pokračovanie.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "NASTAVIŤ FORMÁT DÁTUMU",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Aktivované",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Spárujte svoj {##} alebo si ho objednajte ešte dnes"
 }

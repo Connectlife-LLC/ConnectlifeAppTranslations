@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "按住“+”圖示 3 秒鐘，直到出現“Con”。設備網路現已開放連接，有效期限為 5 分鐘。點選 \n下一步”繼續。",
-    "CL_CF_CS_wm_g600_p_step_3": "按住“+”圖示 6 秒鐘，直到出現“PAR”。設備現在已準備好進行配對，等待 3 分鐘。 __ \n點選「下一步」繼續。"
+    "CL_CF_CS_wm_g600_p_step_3": "按住“+”圖示 6 秒鐘，直到出現“PAR”。設備現在已準備好進行配對，等待 3 分鐘。 __ \n點選「下一步」繼續。",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "設定日期格式",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "活性",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "搭配您的{##}或立即訂購"
 }

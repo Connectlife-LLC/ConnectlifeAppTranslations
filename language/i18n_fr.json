@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Maintenez l'icône + enfoncée pendant 3 secondes jusqu'à ce que Con apparaisse. La connexion au réseau de l'appareil est maintenant ouverte pendant 5 minutes. Cliquez sur \n pour continuer.",
-    "CL_CF_CS_wm_g600_p_step_3": "Maintenez l'icône + enfoncée pendant 6 secondes jusqu'à ce que « Par » s'affiche. L'appareil est alors prêt pour le jumelage pendant 3 minutes. \n Cliquez sur SUIVANT pour continuer."
+    "CL_CF_CS_wm_g600_p_step_3": "Maintenez l'icône + enfoncée pendant 6 secondes jusqu'à ce que « Par » s'affiche. L'appareil est alors prêt pour le jumelage pendant 3 minutes. \n Cliquez sur SUIVANT pour continuer.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "DÉFINIR LE FORMAT DE DATE",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Activé",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Associez votre {##} ou commandez-le dès aujourd'hui"
 }

@@ -7530,5 +7530,13 @@
     "CL_login_modify_phone_tips": "",
     "CL_login_modify_phone_title": "",
     "CL_CF_CS_wm_g600_cs_step_3": "Dotknij i przytrzymaj ikonę + przez 3 sekundy, aż pojawi się Con. Sieć urządzenia będzie teraz otwarta i będzie można nawiązać połączenie przez 5 minut. \n Kliknij DALEJ, aby kontynuować.",
-    "CL_CF_CS_wm_g600_p_step_3": "Naciśnij i przytrzymaj ikonę + przez 6 sekund, aż pojawi się PAr. Urządzenie będzie teraz gotowe do sparowania przez 3 minuty. \n Kliknij DALEJ, aby kontynuować."
+    "CL_CF_CS_wm_g600_p_step_3": "Naciśnij i przytrzymaj ikonę + przez 6 sekund, aż pojawi się PAr. Urządzenie będzie teraz gotowe do sparowania przez 3 minuty. \n Kliknij DALEJ, aby kontynuować.",
+    "CL_DV_RF_set_time_period": "",
+    "set_date_format": "USTAW FORMAT DATY",
+    "CL_login_phone_title": "",
+    "CL_login_delete_content_tips": "",
+    "CL_CF_US_auth_code_error": "",
+    "CL_DV_LRC_activated": "Aktywowany",
+    "CL_DV_LRC_not_activated": "",
+    "CL_DV_LRC_pair_order": "Sparuj swój {##} lub zamów go już dziś"
 }
