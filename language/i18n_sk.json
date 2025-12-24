@@ -4820,7 +4820,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_3": "Potvrďte klepnutím na ikonu Wi-Fi. \n \n Potom môžete pokračovať v aplikácii klepnutím na tlačidlo NEXT nižšie.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Klepnite na ikonu Wi-Fi a podržte ju približne 5 sekúnd. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Klepnite na ikonu Wi-Fi a podržte ju približne 5 sekúnd, kým sa na displeji nezobrazí „Con“.",
-    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Posunutím doľava prejdite na „PAI“. Vstúpili ste do ponuky párovania. Teraz môžete pokračovať v aplikácii klepnutím na tlačidlo NEXT nižšie.",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Posuňte sa doľava a prejdite na „PAI“. Vstúpili ste do ponuky párovania.",
     "ai_troubleshooting_error_try_again": "Je nám ľúto, ale nenašli sme riešenie. Skúste to znova alebo nahláste problém, aby sme vám mohli pomôcť.",
     "CL_CF_SD_month_overlap": "Uistite sa, že sa vybrané mesiace neprekrývajú.",
     "CL_CF_AS_start_download": "Spustite sťahovanie",
@@ -7538,5 +7538,15 @@
     "CL_CF_US_auth_code_error": "",
     "CL_DV_LRC_activated": "Aktivované",
     "CL_DV_LRC_not_activated": "",
-    "CL_DV_LRC_pair_order": "Spárujte svoj {##} alebo si ho objednajte ešte dnes"
+    "CL_DV_LRC_pair_order": "Spárujte svoj {##} alebo si ho objednajte ešte dnes",
+    "CL_AC_auto_defrost_tips": "Automatické rozmrazovanie je prednastavená funkcia čistenia. \n Pri použití tohto režimu môže systém v dôsledku zmien teploty v miestnosti a zvukov tepelnej rozťažnosti a sťahovania generovaných čistením nesprávne vyhodnotiť prítomnosť osoby v miestnosti ako žiadnu osobu. \n Keď sa osoba nachádza mimo dosahu detekcie senzora alebo zostane v úplne nehybnom stave dlhší čas (napríklad v dôsledku hlbokého spánku) dlhšie ako 120 minút, bude to identifikované ako neobsadený stav.",
+    "CL_login_password_error": "",
+    "CL_login_password_tips": "",
+    "CL_login_webchat_tips": "",
+    "CL_connect_us_title": "",
+    "CL_connect_us_line": "",
+    "CL_connect_us_tips": "",
+    "CL_login_set_password_suc": "",
+    "CL_login_set_password_error1": "",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Potvrďte klepnutím na ikonu Wi-Fi. \n \n Potom môžete pokračovať v aplikácii klepnutím na tlačidlo NEXT nižšie."
 }

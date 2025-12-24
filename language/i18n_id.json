@@ -4820,7 +4820,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_3": "Ketuk ikon Wi-Fi untuk mengonfirmasi. \n \n Setelah itu, Anda dapat melanjutkan di aplikasi dengan mengetuk tombol LANJUTKAN di bawah.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Ketuk dan tahan ikon Wi-Fi selama sekitar 5 detik. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Ketuk dan tahan ikon Wi-Fi selama sekitar 5 detik hingga 'Con' muncul di layar.",
-    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Geser ke kiri untuk menuju ke 'PAI'. Anda telah memasuki menu pairing. Anda sekarang dapat melanjutkan di aplikasi dengan mengetuk tombol NEXT di bawah.",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Geser ke kiri untuk menuju 'PAI'. Anda telah memasuki menu pemasangan.",
     "ai_troubleshooting_error_try_again": "Maaf, kami tidak dapat menemukan solusi. Silakan coba lagi atau laporkan masalahnya agar kami dapat membantu.",
     "CL_CF_SD_month_overlap": "Pastikan bulan yang dipilih tidak tumpang tindih.",
     "CL_CF_AS_start_download": "Mulai mengunduh",
@@ -7538,5 +7538,15 @@
     "CL_CF_US_auth_code_error": "",
     "CL_DV_LRC_activated": "Diaktifkan",
     "CL_DV_LRC_not_activated": "",
-    "CL_DV_LRC_pair_order": "Padukan {##} Anda atau pesan hari ini"
+    "CL_DV_LRC_pair_order": "Padukan {##} Anda atau pesan hari ini",
+    "CL_AC_auto_defrost_tips": "Pembersihan Pencairan \n adalah fungsi pembersihan yang telah diatur sebelumnya. Saat menggunakan mode ini, karena perubahan suhu ruangan dan suara pemuaian dan penyusutan termal yang dihasilkan oleh pembersihan, sistem mungkin salah menilai keberadaan seseorang di ruangan sebagai tidak ada siapa pun \n Ketika seseorang berada di luar jangkauan deteksi sensor, atau tetap dalam keadaan tidak bergerak sama sekali untuk jangka waktu yang lama (misalnya karena tidur nyenyak) selama lebih dari 120 menit, maka akan dianggap sebagai keadaan kosong.",
+    "CL_login_password_error": "",
+    "CL_login_password_tips": "",
+    "CL_login_webchat_tips": "",
+    "CL_connect_us_title": "",
+    "CL_connect_us_line": "",
+    "CL_connect_us_tips": "",
+    "CL_login_set_password_suc": "",
+    "CL_login_set_password_error1": "",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Ketuk ikon Wi-Fi untuk mengonfirmasi. \n \n Setelah itu, Anda dapat melanjutkan di aplikasi dengan mengetuk tombol LANJUTKAN di bawah."
 }

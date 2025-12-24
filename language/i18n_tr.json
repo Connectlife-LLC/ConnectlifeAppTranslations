@@ -4820,7 +4820,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_3": "Onaylamak için Wi-Fi simgesine dokunun. \n \n Bundan sonra, aşağıdaki SONRAKİ düğmesine dokunarak uygulamada devam edebilirsiniz.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Wi-Fi simgesine yaklaşık 5 saniye basılı tutun. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Ekranda 'Con' yazısı görünene kadar Wi-Fi simgesine yaklaşık 5 saniye basılı tutun.",
-    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "'PAI'ye gitmek için sola kaydırın. Eşleştirme menüsüne girdiniz. Şimdi aşağıdaki SONRAKİ düğmesine dokunarak uygulamada devam edebilirsiniz.",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "'PAI'ye gitmek için sola kaydırın. Eşleştirme menüsüne girdiniz.",
     "ai_troubleshooting_error_try_again": "Üzgünüz, bir çözüm bulamadık. Lütfen tekrar deneyin veya sorunu bildirin, böylece size yardımcı olabiliriz.",
     "CL_CF_SD_month_overlap": "Lütfen seçtiğiniz ayların çakışmamasına dikkat edin.",
     "CL_CF_AS_start_download": "İndirmeyi başlat",
@@ -7538,5 +7538,15 @@
     "CL_CF_US_auth_code_error": "",
     "CL_DV_LRC_activated": "Etkinleştirildi",
     "CL_DV_LRC_not_activated": "",
-    "CL_DV_LRC_pair_order": "{##} ürününüzle eşleştirin veya bugün sipariş verin."
+    "CL_DV_LRC_pair_order": "{##} ürününüzle eşleştirin veya bugün sipariş verin.",
+    "CL_AC_auto_defrost_tips": "\n Buz Çözme temizliği, önceden ayarlanmış bir temizleme fonksiyonudur. Bu modu kullanırken, oda sıcaklığındaki değişiklikler ve temizlikten kaynaklanan termal genleşme ve büzülme sesleri nedeniyle sistem, odada birinin varlığını yokmuş gibi yanlış \n. Bir kişi sensörün algılama aralığının dışında olduğunda veya 120 dakikadan fazla bir süre boyunca (örneğin derin uyku nedeniyle) tamamen hareketsiz kaldığında, boş durum olarak değerlendirilecektir.",
+    "CL_login_password_error": "",
+    "CL_login_password_tips": "",
+    "CL_login_webchat_tips": "",
+    "CL_connect_us_title": "",
+    "CL_connect_us_line": "",
+    "CL_connect_us_tips": "",
+    "CL_login_set_password_suc": "",
+    "CL_login_set_password_error1": "",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Onaylamak için Wi-Fi simgesine dokunun. \n \n Bundan sonra, aşağıdaki SONRAKİ düğmesine dokunarak uygulamada devam edebilirsiniz."
 }
