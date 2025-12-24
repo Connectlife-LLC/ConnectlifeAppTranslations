@@ -4820,7 +4820,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_3": "Toque no ícone Wi-Fi para confirmar. \n \n Depois disso, você pode prosseguir no aplicativo tocando no botão PRÓXIMO abaixo.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Toque e segure o ícone Wi-Fi por aproximadamente 5 segundos. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Toque e segure o ícone Wi-Fi por aproximadamente 5 segundos até que \"Con\" apareça no visor.",
-    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Deslize para a esquerda para ir para 'PAI'. Você entrou no menu de pareamento. Agora você pode prosseguir no aplicativo tocando no botão PRÓXIMO abaixo.",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Deslize para a esquerda para acessar 'PAI'. Você entrou no menu de emparelhamento.",
     "ai_troubleshooting_error_try_again": "Lamentamos, mas não conseguimos encontrar uma solução. Tente novamente ou relate o problema para que possamos ajudar.",
     "CL_CF_SD_month_overlap": "Certifique-se de que os meses selecionados não se sobreponham.",
     "CL_CF_AS_start_download": "Iniciar o download",
@@ -7538,5 +7538,15 @@
     "CL_CF_US_auth_code_error": "",
     "CL_DV_LRC_activated": "Ativado",
     "CL_DV_LRC_not_activated": "",
-    "CL_DV_LRC_pair_order": "Combine seu {##} ou encomende hoje mesmo"
+    "CL_DV_LRC_pair_order": "Combine seu {##} ou encomende hoje mesmo",
+    "CL_AC_auto_defrost_tips": "A limpeza com descongelamento \n é uma função de limpeza pré-definida. Ao usar este modo, devido às mudanças na temperatura ambiente e aos sons de expansão e contração térmica gerados pela limpeza, o sistema pode interpretar erroneamente a presença de alguém no ambiente \n se não houvesse ninguém. Quando uma pessoa estiver fora do alcance de detecção do sensor ou permanecer completamente imóvel por um período prolongado (como durante um sono profundo) por mais de 120 minutos, o ambiente será considerado desocupado.",
+    "CL_login_password_error": "",
+    "CL_login_password_tips": "",
+    "CL_login_webchat_tips": "",
+    "CL_connect_us_title": "",
+    "CL_connect_us_line": "",
+    "CL_connect_us_tips": "",
+    "CL_login_set_password_suc": "",
+    "CL_login_set_password_error1": "",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Toque no ícone Wi-Fi para confirmar. \n \n Depois disso, você pode prosseguir no aplicativo tocando no botão PRÓXIMO abaixo."
 }

@@ -4820,7 +4820,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_3": "Tocca l'icona Wi-Fi per confermare. \n \nSuccessivamente puoi procedere nell'app toccando il pulsante AVANTI qui sotto.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Toccare e tenere premuta l'icona Wi-Fi per circa 5 secondi. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Tieni premuta l'icona Wi-Fi per circa 5 secondi finché non compare la scritta \"Con\" sul display.",
-    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Scorri verso sinistra per andare a 'PAI'. Sei entrato nel menu di associazione. Ora puoi procedere nell'app toccando il pulsante NEXT qui sotto.",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Scorri verso sinistra per andare a \"PAI\". Sei entrato nel menu di associazione.",
     "ai_troubleshooting_error_try_again": "Siamo spiacenti, ma non siamo riusciti a trovare una soluzione. Riprova o segnala il problema per consentirci di aiutarti.",
     "CL_CF_SD_month_overlap": "Assicurati che i mesi selezionati non si sovrappongano.",
     "CL_CF_AS_start_download": "Avvia il download",
@@ -7538,5 +7538,15 @@
     "CL_CF_US_auth_code_error": "",
     "CL_DV_LRC_activated": "Attivato",
     "CL_DV_LRC_not_activated": "",
-    "CL_DV_LRC_pair_order": "Abbina il tuo {##} o ordinalo oggi stesso"
+    "CL_DV_LRC_pair_order": "Abbina il tuo {##} o ordinalo oggi stesso",
+    "CL_AC_auto_defrost_tips": "La pulizia Auto-Defrost è una funzione di pulizia preimpostata. \n Quando si utilizza questa modalità, a causa delle variazioni della temperatura ambiente e dei suoni di espansione e contrazione termica generati dalla pulizia, il sistema potrebbe erroneamente rilevare la presenza di qualcuno nella stanza, come se non ci fosse nessuno. \n Quando una persona si trova al di fuori del raggio di rilevamento del sensore o rimane completamente immobile per un periodo prolungato (ad esempio a causa di un sonno profondo) per più di 120 minuti, verrà considerata come in stato di non presenza.",
+    "CL_login_password_error": "",
+    "CL_login_password_tips": "",
+    "CL_login_webchat_tips": "",
+    "CL_connect_us_title": "",
+    "CL_connect_us_line": "",
+    "CL_connect_us_tips": "",
+    "CL_login_set_password_suc": "",
+    "CL_login_set_password_error1": "",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Tocca l'icona Wi-Fi per confermare. \n \nSuccessivamente puoi procedere nell'app toccando il pulsante AVANTI qui sotto."
 }

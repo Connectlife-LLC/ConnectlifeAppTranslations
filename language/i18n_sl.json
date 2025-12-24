@@ -4820,7 +4820,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_3": "Za potrditev tapnite ikono Wi-Fi. \n \n Po tem lahko nadaljujete v aplikaciji tako, da se dotaknete spodnjega gumba NAPREJ.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Tapnite ikono Wi-Fi in jo držite približno 5 sekund. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Tapnite ikono Wi-Fi in jo držite približno 5 sekund, dokler se na zaslonu ne prikaže 'Con'.",
-    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Podrsajte v levo, da odprete 'PAI'. Vstopili ste v meni za seznanjanje. Zdaj lahko nadaljujete v aplikaciji tako, da tapnete spodnji gumb NAPREJ.",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Povlecite v levo, da odprete »PAI«. Vstopili ste v meni za seznanjanje.",
     "ai_troubleshooting_error_try_again": "Žal nam je, vendar nismo našli rešitve. Poskusite znova ali prijavite težavo, da vam lahko pomagamo.",
     "CL_CF_SD_month_overlap": "Pazite, da se izbrani meseci ne prekrivajo.",
     "CL_CF_AS_start_download": "Zaženite prenos",
@@ -7538,5 +7538,15 @@
     "CL_CF_US_auth_code_error": "",
     "CL_DV_LRC_activated": "Aktivirano",
     "CL_DV_LRC_not_activated": "",
-    "CL_DV_LRC_pair_order": "Seznanite svoj {##} ali ga naročite še danes"
+    "CL_DV_LRC_pair_order": "Seznanite svoj {##} ali ga naročite še danes",
+    "CL_AC_auto_defrost_tips": "Samodejno odmrzovanje je prednastavljena funkcija čiščenja. \n Pri uporabi tega načina lahko sistem zaradi sprememb temperature v prostoru in zvokov toplotnega raztezanja in krčenja, ki nastanejo med čiščenjem, napačno oceni prisotnost osebe v prostoru, kot da ni nikogar prisotnega. \n Ko je oseba zunaj dosega zaznavanja senzorja ali ostane v popolnoma negibnem stanju dlje časa (na primer zaradi globokega spanca) več kot 120 minut, bo to zaznano kot nezasedeno stanje.",
+    "CL_login_password_error": "",
+    "CL_login_password_tips": "",
+    "CL_login_webchat_tips": "",
+    "CL_connect_us_title": "",
+    "CL_connect_us_line": "",
+    "CL_connect_us_tips": "",
+    "CL_login_set_password_suc": "",
+    "CL_login_set_password_error1": "",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Za potrditev tapnite ikono Wi-Fi. \n \n Po tem lahko nadaljujete v aplikaciji tako, da se dotaknete spodnjega gumba NAPREJ."
 }

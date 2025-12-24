@@ -4820,7 +4820,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_3": "Ketik ikon Wi-Fi untuk mengesahkan. \n \n Selepas itu, anda boleh meneruskan dalam apl dengan mengetik pada butang SETERUSNYA di bawah.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Ketik dan tahan ikon Wi-Fi selama lebih kurang 5 saat. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Ketik dan tahan ikon Wi-Fi selama lebih kurang 5 saat sehingga 'Con' muncul pada paparan.",
-    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Luncurkan ke kiri untuk pergi ke 'PAI'. Anda telah memasuki menu berpasangan. Anda kini boleh meneruskan dalam apl dengan mengetik pada butang SETERUSNYA di bawah.",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Luncur ke kiri untuk pergi ke 'PAI'. Anda telah memasuki menu pasangan.",
     "ai_troubleshooting_error_try_again": "Harap maaf, tetapi kami tidak dapat mencari penyelesaian. Sila cuba lagi atau laporkan isu tersebut supaya kami boleh membantu.",
     "CL_CF_SD_month_overlap": "Sila pastikan bulan yang dipilih tidak bertindih.",
     "CL_CF_AS_start_download": "Mulakan muat turun",
@@ -7538,5 +7538,15 @@
     "CL_CF_US_auth_code_error": "",
     "CL_DV_LRC_activated": "Diaktifkan",
     "CL_DV_LRC_not_activated": "",
-    "CL_DV_LRC_pair_order": "Pasangkan {##} anda atau pesan hari ini"
+    "CL_DV_LRC_pair_order": "Pasangkan {##} anda atau pesan hari ini",
+    "CL_AC_auto_defrost_tips": "Pembersihan Auto-Nyahbeku ialah fungsi pembersihan yang telah ditetapkan. \n Apabila menggunakan mod ini, disebabkan oleh perubahan suhu bilik dan bunyi pengembangan dan pengecutan haba yang dihasilkan oleh pembersihan, sistem mungkin salah menilai kehadiran seseorang di dalam bilik kerana tiada sesiapa yang hadir. \n Apabila seseorang berada di luar julat pengesanan sensor atau kekal dalam keadaan tidak bergerak sepenuhnya untuk tempoh yang lama (seperti disebabkan oleh tidur yang nyenyak) selama lebih daripada 120 minit, ia akan ditentukan sebagai keadaan kosong.",
+    "CL_login_password_error": "",
+    "CL_login_password_tips": "",
+    "CL_login_webchat_tips": "",
+    "CL_connect_us_title": "",
+    "CL_connect_us_line": "",
+    "CL_connect_us_tips": "",
+    "CL_login_set_password_suc": "",
+    "CL_login_set_password_error1": "",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Ketik ikon Wi-Fi untuk mengesahkan. \n \n Selepas itu, anda boleh meneruskan dalam apl dengan mengetik pada butang SETERUSNYA di bawah."
 }

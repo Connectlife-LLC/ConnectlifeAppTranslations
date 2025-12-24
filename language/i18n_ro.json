@@ -4820,7 +4820,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_3": "Atingeți pictograma Wi-Fi pentru a confirma. \n \n După aceea, puteți continua în aplicație atingând butonul Următorul de mai jos.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Atingeți și mențineți apăsată pictograma Wi-Fi timp de aproximativ 5 secunde. ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "Atingeți și mențineți apăsată pictograma Wi-Fi timp de aproximativ 5 secunde până când pe afișaj apare „Con”.",
-    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Glisați spre stânga pentru a accesa „PAI”. Ați intrat în meniul de asociere. Acum puteți continua în aplicație atingând butonul URMĂTOR de mai jos.",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "Glisați spre stânga pentru a accesa „PAI”. Ați intrat în meniul de asociere.",
     "ai_troubleshooting_error_try_again": "Ne pare rău, dar nu am găsit o soluție. Vă rugăm să încercați din nou sau să raportați problema pentru a vă putea ajuta.",
     "CL_CF_SD_month_overlap": "Vă rugăm să vă asigurați că lunile selectate nu se suprapun.",
     "CL_CF_AS_start_download": "Începeți descărcarea",
@@ -7538,5 +7538,15 @@
     "CL_CF_US_auth_code_error": "",
     "CL_DV_LRC_activated": "Activat",
     "CL_DV_LRC_not_activated": "",
-    "CL_DV_LRC_pair_order": "Asociați-vă {##}-ul sau comandați-l astăzi"
+    "CL_DV_LRC_pair_order": "Asociați-vă {##}-ul sau comandați-l astăzi",
+    "CL_AC_auto_defrost_tips": "Curățarea prin dezghețare automată este o funcție de curățare presetată. \n Când se utilizează acest mod, din cauza schimbărilor de temperatură a camerei și a sunetelor de dilatare și contracție termică generate de curățare, sistemul poate evalua greșit prezența cuiva în cameră, considerându-se că nu este nimeni prezent. \n Când o persoană se află în afara razei de detectare a senzorului sau rămâne într-o stare complet nemișcată pentru o perioadă lungă de timp (cum ar fi din cauza somnului profund) mai mult de 120 de minute, aceasta va fi considerată o stare neocupată.",
+    "CL_login_password_error": "",
+    "CL_login_password_tips": "",
+    "CL_login_webchat_tips": "",
+    "CL_connect_us_title": "",
+    "CL_connect_us_line": "",
+    "CL_connect_us_tips": "",
+    "CL_login_set_password_suc": "",
+    "CL_login_set_password_error1": "",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Atingeți pictograma Wi-Fi pentru a confirma. \n \n După aceea, puteți continua în aplicație atingând butonul Următorul de mai jos."
 }

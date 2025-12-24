@@ -4820,7 +4820,7 @@
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_3": "Wi-Fi アイコンをタップして確認します。L__NEWLINE__ \nその後、下の [次へ] ボタンをタップしてアプリ内 \n進むことができます。",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_2": "Wi-Fi アイコンを約 5 秒間タップし続けます。 ",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2": "ディスプレイに「Con」が表示されるまで、Wi-Fi アイコンを約 5 秒間タップし続けます。",
-    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "左にスライドして「PAI」に進みます。ペアリング メニューに入りました。下の「次へ」ボタンをタップしてアプリを続行できます。",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_3": "左にスライドして「PAI」に進みます。ペアリングメニューに入りました。",
     "ai_troubleshooting_error_try_again": "申し訳ございませんが、解決策が見つかりませんでした。もう一度お試しいただくか、問題をご報告ください。",
     "CL_CF_SD_month_overlap": "選択した月が重複していないことを確認してください。",
     "CL_CF_AS_start_download": "ダウンロードを開始する",
@@ -7538,5 +7538,15 @@
     "CL_CF_US_auth_code_error": "",
     "CL_DV_LRC_activated": "有効化",
     "CL_DV_LRC_not_activated": "",
-    "CL_DV_LRC_pair_order": "{##} をペアリングするか、今すぐ注文してください"
+    "CL_DV_LRC_pair_order": "{##} をペアリングするか、今すぐ注文してください",
+    "CL_AC_auto_defrost_tips": "動解凍洗浄は、あらかじめ設定された洗浄機能です。\n 本モード使用中は、室温の変化や、洗浄による熱膨張・収縮音が発生するため、在宅者がいないと判断された場合に運転します。\n人がセンサーの検知範囲外にいる場合、または深い睡眠などにより長時間完全に静止している状態が120分以上継続した場合、無人と判断され、本機能が作動する可能性があります。",
+    "CL_login_password_error": "",
+    "CL_login_password_tips": "",
+    "CL_login_webchat_tips": "",
+    "CL_connect_us_title": "",
+    "CL_connect_us_line": "",
+    "CL_connect_us_tips": "",
+    "CL_login_set_password_suc": "",
+    "CL_login_set_password_error1": "",
+    "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Wi-Fi アイコンをタップして確認します。L__NEWLINE__ \nその後、下の [次へ] ボタンをタップしてアプリ内 \n進むことができます。"
 }
