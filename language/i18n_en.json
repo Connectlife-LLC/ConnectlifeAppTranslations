@@ -2736,10 +2736,10 @@
     "how_to_videos": "How-To Video’s",
     "more_errors_with_number": "## more errors",
     "next_step": "NEXT STEP",
-    "rf_start_convert_250": "Convert mode enabled. Freezer is now Smart Zone at 0°C; Fridge at 4°C. Please check food storage.",
-    "rf_start_convert_213": "Convert mode enabled. Freezer is now Smart Zone at 0°C; Fridge at 4°C. Please check food storage.",
+    "rf_start_convert_250": "Convert mode enabled. Freezer is now Smart Zone at 0°C; Fridge at 4°C, Please check food storage.",
+    "rf_start_convert_213": "Convert mode enabled. The Freezer will transform into Fridge with a temperature of 4℃. Please check food storage.",
     "rf_close_convert_250": "Convert mode disabled. Smart Zone returns to Freezer at -18°C. Please check food storage.",
-    "rf_close_convert_213": "Convert mode disabled. Smart Zone returns to Freezer at -18°C. Please check food storage.",
+    "rf_close_convert_213": "Convert mode disabled. The Fridge will transform into Freezer with a temperature of -18℃. Please check food storage.",
     "unfold_zone": "unfold all zones",
     "fold_zone": "fold all zones",
     "my_group": "My Groups",
@@ -7063,7 +7063,6 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Choose the appliance you want to cook with. If no selection is made, recipes that work with both oven and hob will be suggested. Selecting one will limit recipes to that appliance only",
     "breakfast": "breakfast",
     "lunch": "lunch",
-    "dinner": "",
     "starter": "starter",
     "main": "main",
     "side": "side",
@@ -7617,5 +7616,7 @@
     "CL_AC_ai_leave_home": "AI Leave Home",
     "CL_AC_es_ai_leave_home": "AI LEAVE HOME MODE",
     "CL_AC_es_ai_leave_mode": "ENABLE AI LEAVE HOME MODE",
-    "CL_AC_es_ai_leave_home_content": "Note: In AI Leave Home mode, the air conditioner will operate in the energy-saving mode preset by the manufacturer. Please ensure that there are no people at home to avoid discomfort caused by temperature changes in this mode."
+    "CL_AC_es_ai_leave_home_content": "Note: In AI Leave Home mode, the air conditioner will operate in the energy-saving mode preset by the manufacturer. Please ensure that there are no people at home to avoid discomfort caused by temperature changes in this mode.",
+    "CL_AI_AGENT_dish_designer_create_recipes2": "You can use Dish Designer to create your own recipes. The details you mentioned are already included. You can add more details to create your own recipes.",
+    "CL_AI_AGENT_delete_history_failed": "Couldn’t delete history. Please try again."
 }
