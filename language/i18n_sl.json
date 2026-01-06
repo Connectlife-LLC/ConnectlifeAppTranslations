@@ -7440,6 +7440,12 @@
     "log_out_new": "Odjava",
     "CL_CF_energy_go_to_set_tariff": "Pojdi na nastavitev tarife",
     "CL_CF_energy_tariff_not_set_content": "Če želite omogočiti to funkcijo, morate ročno konfigurirati ali izbrati samodejno oblikovanje cen električne energije.",
+    "CL_DV_RF_reminder_to_leave_home": "Opomnik za odhod od doma",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Če vrata hladilnika ostanejo zaprta 24 ur zapored, boste prejeli obvestilo, ki vas bo opomnilo na vašo malomarnost.",
+    "CL_DV_RF_home_come_remind": "Opomnik za vrnitev domov",
+    "CL_DV_RF_home_come_remind_desc": "Če nekdo odpre vrata hladilnika v določenem časovnem obdobju, boste prejeli obvestilo, kar vam bo omogočilo, da spremljate vrnitev družine domov.",
+    "CL_DV_RF_home_humidity_reminder": "Opomnik za visoko vlažnost",
+    "CL_DV_RF_home_humidity_reminder_desc": "Opozorilo boste prejeli, ko senzor vlažnosti zunaj hladilnika zazna, da je vlažnost v vašem domu dosegla 85 %.",
     "CL_CF_CS_wm_g800_cs_step_3": "Omrežje naprave je zdaj odprto za povezavo 5 minut. \n Kliknite NAPREJ za nadaljevanje.",
     "CL_CF_CS_wm_g800_p_step_3": "Naprava je zdaj pripravljena za seznanjanje 3 minute. Za nadaljevanje kliknite NAPREJ.",
     "set_time_format": "NASTAVITE OBLIKO ČASA",
@@ -7474,5 +7480,7 @@
     "CL_AC_es_ai_leave_mode": "OMOGOČI NAČIN UPORABE ODDOMA Z UI",
     "CL_AC_es_ai_leave_home_content": "Opomba: V načinu AI Leave Home bo klimatska naprava delovala v načinu varčevanja z energijo, ki ga je prednastavil proizvajalec. Da bi se izognili nelagodju zaradi temperaturnih sprememb v tem načinu, se prepričajte, da v hiši ni nikogar.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Z orodjem Dish Designer lahko ustvarite lastne recepte. Podrobnosti, ki ste jih omenili, so že vključene. Za ustvarjanje lastnih receptov lahko dodate še več podrobnosti.",
-    "CL_AI_AGENT_delete_history_failed": "Zgodovine ni bilo mogoče izbrisati. Poskusite znova."
+    "CL_AI_AGENT_delete_history_failed": "Zgodovine ni bilo mogoče izbrisati. Poskusite znova.",
+    "Appliance type": "Vrsta naprave",
+    "Meal type": "Vrsta obroka"
 }

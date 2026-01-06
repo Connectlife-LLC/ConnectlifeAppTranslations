@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Válaszd ki a használni kívánt készüléket. Ha nem választasz semmit, a rendszer olyan recepteket javasol, amelyek sütőben és tűzhelyen is működnek. Ha kiválasztasz egyet, a receptek csak az adott készülékre lesznek elérhetőek.",
     "breakfast": "reggeli",
     "lunch": "ebéd",
+    "dinner": "Vacsora",
     "starter": "indító",
     "main": "fő-",
     "side": "oldal",
@@ -7439,6 +7440,12 @@
     "log_out_new": "Jelentkezzen ki",
     "CL_CF_energy_go_to_set_tariff": "Ugrás a tarifa beállításához",
     "CL_CF_energy_tariff_not_set_content": "A funkció engedélyezéséhez manuálisan kell konfigurálnia vagy kiválasztania az automatikus áramárazást.",
+    "CL_DV_RF_reminder_to_leave_home": "Emlékeztető az otthon elhagyására",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Ha a hűtőszekrény ajtaja 24 órán keresztül nyitva marad, értesítést kap a hanyagságról.",
+    "CL_DV_RF_home_come_remind": "Hazatérési emlékeztető",
+    "CL_DV_RF_home_come_remind_desc": "Értesítést kapsz, ha valaki egy beállított időn belül kinyitja a hűtőszekrény ajtaját, így nyomon követheted családod hazaérkezését.",
+    "CL_DV_RF_home_humidity_reminder": "Magas páratartalom emlékeztető",
+    "CL_DV_RF_home_humidity_reminder_desc": "Riasztást fog kapni, amikor a hűtőszekrényen kívüli páratartalom-érzékelő azt érzékeli, hogy otthonában a páratartalom elérte a 85%-ot.",
     "CL_CF_CS_wm_g800_cs_step_3": "Az eszköz hálózata most 5 percre nyitva áll a csatlakozáshoz. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
     "CL_CF_CS_wm_g800_p_step_3": "Az eszköz most 3 percig párosítható. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
     "set_time_format": "IDŐFORMÁTUM BEÁLLÍTÁSA",
@@ -7472,5 +7479,7 @@
     "CL_AC_es_ai_leave_mode": "Mesterséges intelligencia által vezérelt otthonhagyási mód engedélyezése",
     "CL_AC_es_ai_leave_home_content": "Megjegyzés: AI Leave Home módban a légkondicionáló a gyártó által előre beállított energiatakarékos módban működik. Kérjük, győződjön meg arról, hogy senki sincs otthon, hogy elkerülje a hőmérséklet-változások okozta kellemetlenségeket ebben az üzemmódban.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "A Dish Designer segítségével saját recepteket hozhatsz létre. Az általad említett részletek már szerepelnek benne. További részleteket is hozzáadhatsz saját receptek létrehozásához.",
-    "CL_AI_AGENT_delete_history_failed": "Nem sikerült törölni az előzményeket. Próbáld újra."
+    "CL_AI_AGENT_delete_history_failed": "Nem sikerült törölni az előzményeket. Próbáld újra.",
+    "Appliance type": "Készülék típusa",
+    "Meal type": "Étkezés típusa"
 }

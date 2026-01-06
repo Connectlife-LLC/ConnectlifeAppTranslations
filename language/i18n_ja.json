@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "調理したい調理器具を選択してください。選択しない場合は、オーブンとコンロの両方で使えるレシピが提案されます。どちらかを選択すると、その調理器具でのみ使えるレシピが表示されます。",
     "breakfast": "朝食",
     "lunch": "ランチ",
+    "dinner": "夕食",
     "starter": "スターター",
     "main": "主要",
     "side": "側",
@@ -7439,6 +7440,12 @@
     "log_out_new": "ログアウト",
     "CL_CF_energy_go_to_set_tariff": "料金設定へ進む",
     "CL_CF_energy_tariff_not_set_content": "この機能を有効にするには、自動電気料金設定を手動で設定するか、選択する必要があります。",
+    "CL_DV_RF_reminder_to_leave_home": "家を出る際のリマインダー",
+    "CL_DV_RF_reminder_to_leave_home_desc": "冷蔵庫のドアが 24 時間連続して開けられていない場合、不注意を知らせる通知が表示されます。",
+    "CL_DV_RF_home_come_remind": "帰郷のお知らせ",
+    "CL_DV_RF_home_come_remind_desc": "設定された時間内に誰かが冷蔵庫のドアを開けると通知が届き、家族の帰宅状況を把握できます。",
+    "CL_DV_RF_home_humidity_reminder": "高湿度リマインダー",
+    "CL_DV_RF_home_humidity_reminder_desc": "冷蔵庫の外にある湿度センサーが家の中の湿度が 85% に達したことを検出すると、アラートが届きます。",
     "CL_CF_CS_wm_g800_cs_step_3": "デバイスのネットワーク接続が開放され、5分間有効です。  \n「次へ」をクリックして続行してください。",
     "CL_CF_CS_wm_g800_p_step_3": "デバイスは 3 分間ペアリングする準備ができました。__ \n [次へ] をクリックして続行します。",
     "set_time_format": "時刻形式の設定",
@@ -7471,5 +7478,7 @@
     "CL_AC_es_ai_leave_mode": "AI外出モードを有効にする",
     "CL_AC_es_ai_leave_home_content": "注：AIお留守番モードでは、エアコンはメーカーが設定した省エネモードで運転します。このモードでは、室温の変化による不快感を避けるため、必ずご在宅の状態で運転してください。",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Dish Designerを使えば、オリジナルのレシピを作成できます。ご指定いただいた詳細は既に含まれています。さらに詳細を追加して、オリジナルのレシピを作成することも可能です。",
-    "CL_AI_AGENT_delete_history_failed": "履歴を削除できませんでした。もう一度お試しください。"
+    "CL_AI_AGENT_delete_history_failed": "履歴を削除できませんでした。もう一度お試しください。",
+    "Appliance type": "家電の種類",
+    "Meal type": "食事の種類"
 }

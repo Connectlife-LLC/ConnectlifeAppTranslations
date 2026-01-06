@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Escolha o eletrodoméstico que deseja usar para cozinhar. Se nenhuma seleção for feita, serão sugeridas receitas que funcionam tanto no forno quanto no fogão. Selecionar um eletrodoméstico limitará as receitas apenas àquele que você escolheu.",
     "breakfast": "café da manhã",
     "lunch": "almoço",
+    "dinner": "Jantar",
     "starter": "iniciante",
     "main": "principal",
     "side": "lado",
@@ -7440,6 +7441,12 @@
     "CL_CF_energy_control_appliance_info_tip": "Com base no modo de funcionamento do equipamento, algumas funcionalidades podem não ser executadas com êxito.",
     "CL_CF_energy_go_to_set_tariff": "Vá para definir tarifa",
     "CL_CF_energy_tariff_not_set_content": "Para habilitar esse recurso, você precisa configurar manualmente ou selecionar o preço automático da eletricidade.",
+    "CL_DV_RF_reminder_to_leave_home": "Lembrete para sair de casa",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Se a porta do seu refrigerador permanecer fechada por 24 horas consecutivas, você receberá uma notificação para lembrá-lo da sua negligência.",
+    "CL_DV_RF_home_come_remind": "Lembrete de boas-vindas",
+    "CL_DV_RF_home_come_remind_desc": "Você receberá uma notificação se alguém abrir a porta da geladeira dentro de um determinado período de tempo, permitindo que você acompanhe o retorno da sua família para casa.",
+    "CL_DV_RF_home_humidity_reminder": "Aviso de alta umidade",
+    "CL_DV_RF_home_humidity_reminder_desc": "Você receberá um alerta quando o sensor de umidade externo da sua geladeira detectar que a umidade em sua casa atingiu 85%.",
     "CL_CF_CS_wm_g800_cs_step_3": "A rede do aparelho está agora aberta para ligação durante 5 minutos. \nClique em SEGUINTE para continuar.",
     "CL_CF_CS_wm_g800_p_step_3": "O aparelho está pronto para emparelhamento durante 3 minutos.\nClique em SEGUINTE para continuar.",
     "set_time_format": "DEFINIR FORMATO DE HORA",
@@ -7474,5 +7481,7 @@
     "CL_AC_es_ai_leave_mode": "ATIVAR O MODO DE SAÍDA DE CASA COM IA",
     "CL_AC_es_ai_leave_home_content": "Nota: No modo AI Leave Home, o ar condicionado funcionará no modo de economia de energia predefinido pelo fabricante. Certifique-se de que não haja ninguém em casa para evitar desconforto causado por mudanças de temperatura neste modo.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Você pode usar o Dish Designer para criar suas próprias receitas. Os detalhes que você mencionou já estão incluídos. Você pode adicionar mais detalhes para criar receitas personalizadas.",
-    "CL_AI_AGENT_delete_history_failed": "Não foi possível excluir o histórico. Tente novamente."
+    "CL_AI_AGENT_delete_history_failed": "Não foi possível excluir o histórico. Tente novamente.",
+    "Appliance type": "Tipo de aparelho",
+    "Meal type": "Tipo de refeição"
 }

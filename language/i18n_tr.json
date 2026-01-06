@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Pişirmek istediğiniz cihazı seçin. Herhangi bir seçim yapmazsanız, hem fırın hem de ocakla uyumlu tarifler önerilecektir. Birini seçtiğinizde, tarifler yalnızca o cihazla sınırlı kalacaktır.",
     "breakfast": "kahvaltı",
     "lunch": "öğle yemeği",
+    "dinner": "Akşam yemeği",
     "starter": "başlangıç",
     "main": "ana",
     "side": "taraf",
@@ -7439,6 +7440,12 @@
     "log_out_new": "Çıkış",
     "CL_CF_energy_go_to_set_tariff": "Tarife ayarlamaya git",
     "CL_CF_energy_tariff_not_set_content": "Bu özelliği etkinleştirmek için otomatik elektrik fiyatlandırmasını manuel olarak yapılandırmanız veya seçmeniz gerekir.",
+    "CL_DV_RF_reminder_to_leave_home": "Evden ayrılmanız için hatırlatma",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Buzdolabınızın kapağı 24 saat boyunca açılmazsa, ihmalkarlığınızı hatırlatmak için bir bildirim alacaksınız.",
+    "CL_DV_RF_home_come_remind": "Eve Dönüş Hatırlatması",
+    "CL_DV_RF_home_come_remind_desc": "Belirlenen zaman dilimi içinde biri buzdolabının kapağını açarsa bildirim alacaksınız, böylece ailenizin eve dönüşünü takip edebileceksiniz.",
+    "CL_DV_RF_home_humidity_reminder": "Yüksek nem uyarısı",
+    "CL_DV_RF_home_humidity_reminder_desc": "Buzdolabınızın dışındaki nem sensörü evinizdeki nem oranının %85'e ulaştığını tespit ettiğinde bir uyarı alacaksınız.",
     "CL_CF_CS_wm_g800_cs_step_3": "Cihaz ağı 5 dakika boyunca bağlantıya açık. Devam etmek için \n tıklayın.",
     "CL_CF_CS_wm_g800_p_step_3": "Cihaz 3 dakika boyunca eşleştirme için hazır. \n Devam etmek için İLERİ'ye tıklayın.",
     "set_time_format": "ZAMAN FORMATINI AYARLA",
@@ -7472,5 +7479,7 @@
     "CL_AC_es_ai_leave_mode": "YAPAY ZEKAYI ETKİNLEŞTİR EVDEN AYRILMA MODU",
     "CL_AC_es_ai_leave_home_content": "Not: Yapay Zeka Destekli Evden Ayrılma modunda, klima üretici tarafından önceden ayarlanmış enerji tasarrufu modunda çalışacaktır. Bu modda sıcaklık değişimlerinden kaynaklanan rahatsızlığı önlemek için lütfen evde kimsenin olmadığından emin olun.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Yemek Tasarımcısı'nı kullanarak kendi tariflerinizi oluşturabilirsiniz. Bahsettiğiniz detaylar zaten dahil edilmiş durumda. Kendi tariflerinizi oluşturmak için daha fazla detay ekleyebilirsiniz.",
-    "CL_AI_AGENT_delete_history_failed": "Geçmiş silinemedi. Lütfen tekrar deneyin."
+    "CL_AI_AGENT_delete_history_failed": "Geçmiş silinemedi. Lütfen tekrar deneyin.",
+    "Appliance type": "Cihaz türü",
+    "Meal type": "Yemek türü"
 }

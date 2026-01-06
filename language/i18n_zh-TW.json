@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "選擇您想使用的烹飪器具。如果未選擇，系統將推薦適用於烤箱和爐灶的食譜。選擇一種器具後，食譜將僅限於該器具。",
     "breakfast": "早餐",
     "lunch": "午餐",
+    "dinner": "晚餐",
     "starter": "起動機",
     "main": "主要的",
     "side": "邊",
@@ -7440,6 +7441,12 @@
     "log_out_new": "登出",
     "CL_CF_energy_go_to_set_tariff": "前往設定資費",
     "CL_CF_energy_tariff_not_set_content": "若要啟用此功能，您需要手動設定或選擇自動電價。",
+    "CL_DV_RF_reminder_to_leave_home": "提醒大家離家",
+    "CL_DV_RF_reminder_to_leave_home_desc": "如果您的冰箱門連續 24 小時未打開，您將收到通知提醒您疏忽了。",
+    "CL_DV_RF_home_come_remind": "返校節提醒",
+    "CL_DV_RF_home_come_remind_desc": "在設定的時間段內，如果有人打開冰箱門，您將收到通知，以便您可以追蹤家人回家的情況。",
+    "CL_DV_RF_home_humidity_reminder": "高濕度提醒",
+    "CL_DV_RF_home_humidity_reminder_desc": "當冰箱外部的濕度感測器偵測到您家中的濕度達到 85% 時，您將收到警報。",
     "CL_CF_CS_wm_g800_cs_step_3": "設備網路現已開放連接，有效期限為 5 分鐘。 L__NEWLINE__ 點選 \n下一步」繼續。",
     "CL_CF_CS_wm_g800_p_step_3": "設備已準備好進行配對，請等待 3 分鐘。 __ \n點選「下一步」繼續。",
     "set_time_format": "設定時間格式",
@@ -7472,5 +7479,7 @@
     "CL_AC_es_ai_leave_mode": "啟用 AI 離家模式",
     "CL_AC_es_ai_leave_home_content": "注意：在AI離家模式下，空調將以廠商預設的節能模式運作。請確保家中無人，以免此模式溫度變化造成不適。",
     "CL_AI_AGENT_dish_designer_create_recipes2": "您可以使用食譜設計器建立自己的食譜。您提到的細節已經包含在內。您可以添加更多細節來創建自己的食譜。",
-    "CL_AI_AGENT_delete_history_failed": "無法刪除歷史記錄。請重試。"
+    "CL_AI_AGENT_delete_history_failed": "無法刪除歷史記錄。請重試。",
+    "Appliance type": "電器類型",
+    "Meal type": "餐點類型"
 }
