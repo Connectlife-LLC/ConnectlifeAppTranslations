@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Velg apparatet du vil lage mat med. Hvis du ikke foretar noe valg, vil oppskrifter som fungerer med både stekeovn og koketopp bli foreslått. Hvis du velger én, vil oppskriftene begrenses til kun det apparatet.",
     "breakfast": "frokost",
     "lunch": "lunsj",
+    "dinner": "Middag",
     "starter": "forrett",
     "main": "hoved-",
     "side": "side",
@@ -7439,6 +7440,12 @@
     "log_out_new": "Logg av",
     "CL_CF_energy_go_to_set_tariff": "Gå til angi tariff",
     "CL_CF_energy_tariff_not_set_content": "For å aktivere denne funksjonen må du manuelt konfigurere eller velge automatisk strømprising.",
+    "CL_DV_RF_reminder_to_leave_home": "Påminnelse om å forlate hjemmet",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Hvis kjøleskapsdøren din forblir uåpnet i 24 timer sammenhengende, vil du motta et varsel som minner deg på forsømmelsen.",
+    "CL_DV_RF_home_come_remind": "Påminnelse om hjemkomst",
+    "CL_DV_RF_home_come_remind_desc": "Du vil motta et varsel hvis noen åpner kjøleskapsdøren innen en angitt tidsperiode, slik at du kan holde oversikt over familiens hjemkomst.",
+    "CL_DV_RF_home_humidity_reminder": "Påminnelse om høy luftfuktighet",
+    "CL_DV_RF_home_humidity_reminder_desc": "Du vil motta et varsel når fuktighetssensoren utenfor kjøleskapet registrerer at luftfuktigheten i hjemmet ditt har nådd 85 %.",
     "CL_CF_CS_wm_g800_cs_step_3": "Enhetens nettverk er nå åpent for tilkobling i 5 minutter. \n Klikk på NESTE for å fortsette.",
     "CL_CF_CS_wm_g800_p_step_3": "Enheten er nå klar for paring i 3 minutter. \n Klikk på NESTE for å fortsette.",
     "set_time_format": "ANGI TIDSFORMAT",
@@ -7470,5 +7477,8 @@
     "CL_AC_es_ai_leave_mode": "AKTIVER KI FORLATE HJEMME-MODUS",
     "CL_AC_es_ai_leave_home_content": "Merk: I AI Leave Home-modus vil klimaanlegget kjøre i energisparemodusen som er forhåndsinnstilt av produsenten. Sørg for at det ikke er noen personer hjemme for å unngå ubehag forårsaket av temperaturendringer i denne modusen.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Du kan bruke Dish Designer til å lage dine egne oppskrifter. Detaljene du nevnte er allerede inkludert. Du kan legge til flere detaljer for å lage dine egne oppskrifter.",
-    "CL_AI_AGENT_delete_history_failed": "Kunne ikke slette historikken. Prøv på nytt."
+    "CL_AI_AGENT_delete_history_failed": "Kunne ikke slette historikken. Prøv på nytt.",
+    "Appliance type": "Apparattype",
+    "Meal type": "Måltidstype",
+    "airecipe_ztrtest_app_tomato": "cherrytomat"
 }

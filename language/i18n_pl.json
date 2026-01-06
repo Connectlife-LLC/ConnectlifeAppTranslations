@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Wybierz urządzenie, na którym chcesz gotować. Jeśli nie dokonasz wyboru, zasugerowane zostaną przepisy, które działają zarówno z piekarnikiem, jak i płytą grzewczą. Wybranie jednego urządzenia ograniczy przepisy tylko do tego urządzenia.",
     "breakfast": "śniadanie",
     "lunch": "obiad",
+    "dinner": "Kolacja",
     "starter": "rozrusznik",
     "main": "główny",
     "side": "strona",
@@ -7439,6 +7440,12 @@
     "log_out_new": "Wyloguj",
     "CL_CF_energy_go_to_set_tariff": "Przejdź do ustawienia taryfy",
     "CL_CF_energy_tariff_not_set_content": "Aby włączyć tę funkcję, należy ręcznie skonfigurować lub wybrać automatyczne naliczanie cen za energię elektryczną.",
+    "CL_DV_RF_reminder_to_leave_home": "Przypomnienie o opuszczeniu domu",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Jeżeli drzwi Twojej lodówki pozostaną nieotwarte przez 24 godziny, otrzymasz powiadomienie przypominające o Twoim zaniedbaniu.",
+    "CL_DV_RF_home_come_remind": "Przypomnienie o powrocie do domu",
+    "CL_DV_RF_home_come_remind_desc": "Otrzymasz powiadomienie, jeśli ktoś w określonym czasie otworzy drzwi lodówki. Dzięki temu będziesz mógł śledzić powrót swojej rodziny do domu.",
+    "CL_DV_RF_home_humidity_reminder": "Przypomnienie o wysokiej wilgotności",
+    "CL_DV_RF_home_humidity_reminder_desc": "Otrzymasz powiadomienie, gdy czujnik wilgotności znajdujący się na zewnątrz lodówki wykryje, że wilgotność w domu osiągnęła 85%.",
     "CL_CF_CS_wm_g800_cs_step_3": "Sieć urządzeń będzie teraz otwarta i będzie można na nią nawiązać połączenie przez 5 minut.\n Kliknij DALEJ, aby kontynuować.",
     "CL_CF_CS_wm_g800_p_step_3": "Urządzenie będzie teraz gotowe do sparowania. Trwa to 3 minuty.\n Kliknij DALEJ, aby kontynuować.",
     "set_time_format": "USTAW FORMAT CZASU",
@@ -7473,5 +7480,8 @@
     "CL_AC_es_ai_leave_mode": "WŁĄCZ TRYB AI LEAVE HOME",
     "CL_AC_es_ai_leave_home_content": "Uwaga: W trybie AI Leave Home klimatyzator będzie działał w trybie oszczędzania energii ustawionym przez producenta. Aby uniknąć dyskomfortu spowodowanego zmianami temperatury w tym trybie, należy upewnić się, że w domu nie ma nikogo.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Możesz użyć Dish Designera do tworzenia własnych przepisów. Szczegóły, o których wspomniałeś, są już uwzględnione. Możesz dodać więcej szczegółów, aby tworzyć własne przepisy.",
-    "CL_AI_AGENT_delete_history_failed": "Nie udało się usunąć historii. Spróbuj ponownie."
+    "CL_AI_AGENT_delete_history_failed": "Nie udało się usunąć historii. Spróbuj ponownie.",
+    "Appliance type": "Typ urządzenia",
+    "Meal type": "Rodzaj posiłku",
+    "airecipe_ztrtest_app_tomato": "pomidor koktajlowy"
 }
