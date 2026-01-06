@@ -7439,6 +7439,12 @@
     "log_out_new": "Logga ut",
     "CL_CF_energy_go_to_set_tariff": "Gå till inställning av tariff",
     "CL_CF_energy_tariff_not_set_content": "För att aktivera den här funktionen måste du manuellt konfigurera eller välja automatisk elprissättning.",
+    "CL_DV_RF_reminder_to_leave_home": "Påminnelse om att lämna hemmet",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Om din kylskåpsdörr förblir oöppnad i 24 timmar i sträck får du en avisering som påminner dig om din försummelse.",
+    "CL_DV_RF_home_come_remind": "Påminnelse om hemkomst",
+    "CL_DV_RF_home_come_remind_desc": "Du får ett meddelande om någon öppnar kylskåpsdörren inom en viss tidsperiod, så att du kan hålla koll på när din familj återvänder hem.",
+    "CL_DV_RF_home_humidity_reminder": "Påminnelse om hög luftfuktighet",
+    "CL_DV_RF_home_humidity_reminder_desc": "Du får en varning när fuktighetssensorn utanför ditt kylskåp känner av att luftfuktigheten i ditt hem har nått 85 %.",
     "CL_CF_CS_wm_g800_cs_step_3": "Enhetens nätverk är nu öppet för anslutning i 5 minuter. \n Klicka på NÄSTA för att fortsätta.",
     "CL_CF_CS_wm_g800_p_step_3": "Enheten är nu redo för parkoppling i 3 minuter. \n Klicka på NÄSTA för att fortsätta.",
     "set_time_format": "STÄLL IN TIDSFORMAT",
@@ -7473,5 +7479,7 @@
     "CL_AC_es_ai_leave_mode": "AKTIVERA AI LÄMNA HEMMA-LÄGE",
     "CL_AC_es_ai_leave_home_content": "Obs: I AI Leave Home-läget kommer luftkonditioneringen att köras i det energisparläge som förinställts av tillverkaren. Se till att det inte finns några personer hemma för att undvika obehag orsakat av temperaturförändringar i detta läge.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Du kan använda Dish Designer för att skapa dina egna recept. Informationen du nämnde finns redan med. Du kan lägga till fler detaljer för att skapa dina egna recept.",
-    "CL_AI_AGENT_delete_history_failed": "Kunde inte radera historiken. Försök igen."
+    "CL_AI_AGENT_delete_history_failed": "Kunde inte radera historiken. Försök igen.",
+    "Appliance type": "Apparattyp",
+    "Meal type": "Måltidstyp"
 }

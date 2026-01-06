@@ -7440,6 +7440,12 @@
     "CL_CF_energy_control_appliance_info_tip": "Según el modo operativo del dispositivo, es posible que algunas funciones no se ejecuten correctamente.",
     "CL_CF_energy_go_to_set_tariff": "Ir a establecer tarifa",
     "CL_CF_energy_tariff_not_set_content": "Para habilitar esta función, debe configurar manualmente o seleccionar el precio automático de la electricidad.",
+    "CL_DV_RF_reminder_to_leave_home": "Recordatorio para salir de casa",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Si la puerta de su refrigerador permanece sin abrir durante 24 horas consecutivas, recibirá una notificación para recordarle su descuido.",
+    "CL_DV_RF_home_come_remind": "Recordatorio de regreso a casa",
+    "CL_DV_RF_home_come_remind_desc": "Recibirá una notificación si alguien abre la puerta del refrigerador dentro de un período de tiempo establecido, lo que le permitirá realizar un seguimiento del regreso de su familia a casa.",
+    "CL_DV_RF_home_humidity_reminder": "Recordatorio de alta humedad",
+    "CL_DV_RF_home_humidity_reminder_desc": "Recibirás una alerta cuando el sensor de humedad exterior de tu refrigerador detecte que la humedad en tu hogar ha alcanzado el 85%.",
     "CL_CF_CS_wm_g800_cs_step_3": "La red del dispositivo ahora está abierta para la conexión. \nHaga clic en SIGUIENTE para continuar.",
     "CL_CF_CS_wm_g800_p_step_3": "El dispositivo ahora está listo para emparejarse durante 3 minutos. \n Haga clic en SIGUIENTE para continuar.",
     "set_time_format": "ESTABLECER FORMATO DE HORA",
@@ -7474,5 +7480,7 @@
     "CL_AC_es_ai_leave_mode": "HABILITAR EL MODO DE SALIDA DE CASA CON IA",
     "CL_AC_es_ai_leave_home_content": "Nota: En el modo AI Leave Home, el aire acondicionado funcionará en el modo de ahorro de energía preconfigurado por el fabricante. Asegúrese de que no haya personas en casa para evitar molestias causadas por los cambios de temperatura en este modo.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Puedes usar Dish Designer para crear tus propias recetas. Los detalles que mencionaste ya están incluidos. Puedes agregar más detalles para crear tus propias recetas.",
-    "CL_AI_AGENT_delete_history_failed": "No se pudo eliminar el historial. Inténtalo de nuevo."
+    "CL_AI_AGENT_delete_history_failed": "No se pudo eliminar el historial. Inténtalo de nuevo.",
+    "Appliance type": "Tipo de aparato",
+    "Meal type": "Tipo de comida"
 }

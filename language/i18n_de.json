@@ -7439,6 +7439,12 @@
     "log_out_new": "Ausloggen",
     "CL_CF_energy_go_to_set_tariff": "Zum Tarif-Set",
     "CL_CF_energy_tariff_not_set_content": "Um diese Funktion zu aktivieren, müssen Sie die automatische Strompreisgestaltung manuell konfigurieren oder auswählen.",
+    "CL_DV_RF_reminder_to_leave_home": "Erinnerung, das Haus zu verlassen",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Wenn Ihre Kühlschranktür 24 Stunden lang ununterbrochen nicht geöffnet bleibt, erhalten Sie eine Benachrichtigung, um Sie an Ihre Nachlässigkeit zu erinnern.",
+    "CL_DV_RF_home_come_remind": "Erinnerung an die Heimkehr",
+    "CL_DV_RF_home_come_remind_desc": "Sie erhalten eine Benachrichtigung, wenn jemand innerhalb eines festgelegten Zeitraums die Kühlschranktür öffnet, sodass Sie die Rückkehr Ihrer Familie nach Hause verfolgen können.",
+    "CL_DV_RF_home_humidity_reminder": "Hinweis zu hoher Luftfeuchtigkeit",
+    "CL_DV_RF_home_humidity_reminder_desc": "Sie erhalten eine Benachrichtigung, sobald der Feuchtigkeitssensor an der Außenseite Ihres Kühlschranks feststellt, dass die Luftfeuchtigkeit in Ihrem Zuhause 85 % erreicht hat.",
     "CL_CF_CS_wm_g800_cs_step_3": "Das Gerätenetzwerk ist nun für 5 Minuten zur Verbindung geöffnet. Klicken Sie auf \n, um fortzufahren.",
     "CL_CF_CS_wm_g800_p_step_3": "Das Gerät ist nun 3 Minuten lang bereit zum Koppeln. \n Klicken Sie auf WEITER, um fortzufahren.",
     "set_time_format": "ZEITFORMAT EINSTELLEN",
@@ -7473,5 +7479,7 @@
     "CL_AC_es_ai_leave_mode": "KI-Verlassensmodus aktivieren",
     "CL_AC_es_ai_leave_home_content": "Hinweis: Im Modus „KI-Abwesenheitsmodus“ arbeitet die Klimaanlage im vom Hersteller voreingestellten Energiesparmodus. Bitte stellen Sie sicher, dass sich niemand im Haus befindet, um Unannehmlichkeiten durch Temperaturschwankungen in diesem Modus zu vermeiden.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Mit dem Rezeptdesigner können Sie Ihre eigenen Rezepte erstellen. Die von Ihnen genannten Details sind bereits enthalten. Sie können weitere Details hinzufügen, um Ihre eigenen Rezepte zu gestalten.",
-    "CL_AI_AGENT_delete_history_failed": "Verlauf konnte nicht gelöscht werden. Bitte versuchen Sie es erneut."
+    "CL_AI_AGENT_delete_history_failed": "Verlauf konnte nicht gelöscht werden. Bitte versuchen Sie es erneut.",
+    "Appliance type": "Gerätetyp",
+    "Meal type": "Mahlzeitentyp"
 }

@@ -7481,6 +7481,12 @@
     "log_out_new": "退出登录",
     "CL_CF_energy_go_to_set_tariff": "前往设置资费",
     "CL_CF_energy_tariff_not_set_content": "要启用此功能，您需要手动配置或选择自动电价。",
+    "CL_DV_RF_reminder_to_leave_home": "提醒大家离开家",
+    "CL_DV_RF_reminder_to_leave_home_desc": "如果您的冰箱门连续 24 小时未打开，您将收到通知提醒您疏忽大意。",
+    "CL_DV_RF_home_come_remind": "返校节提醒",
+    "CL_DV_RF_home_come_remind_desc": "在设定的时间段内，如果有人打开冰箱门，您将收到通知，以便您跟踪家人回家的情况。",
+    "CL_DV_RF_home_humidity_reminder": "高湿度提醒",
+    "CL_DV_RF_home_humidity_reminder_desc": "当冰箱外部的湿度传感器检测到您家中的湿度达到 85% 时，您将收到警报。",
     "CL_CF_CS_wm_g800_cs_step_3": "设备网络现已开放连接，持续时间为 5 分钟。\n单击“下一步”继续。",
     "CL_CF_CS_wm_g800_p_step_3": "设备已准备好进行配对，请等待 3 分钟。__ \n点击“下一步”继续。",
     "set_time_format": "设置时间格式",
@@ -7573,5 +7579,7 @@
     "CL_AC_es_ai_leave_mode": "启用 AI 离家模式",
     "CL_AC_es_ai_leave_home_content": "注意：在AI离家模式下，空调将以厂家预设的节能模式运行。请确保家中无人，以免此模式下温度变化造成不适。",
     "CL_AI_AGENT_dish_designer_create_recipes2": "您可以使用菜谱设计器创建自己的菜谱。您提到的细节已经包含在内。您可以添加更多细节来创建自己的菜谱。",
-    "CL_AI_AGENT_delete_history_failed": "无法删除历史记录。请重试。"
+    "CL_AI_AGENT_delete_history_failed": "无法删除历史记录。请重试。",
+    "Appliance type": "电器类型",
+    "Meal type": "餐食类型"
 }

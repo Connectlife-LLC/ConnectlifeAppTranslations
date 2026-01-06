@@ -7618,5 +7618,7 @@
     "CL_AC_es_ai_leave_mode": "ENABLE AI LEAVE HOME MODE",
     "CL_AC_es_ai_leave_home_content": "Note: In AI Leave Home mode, the air conditioner will operate in the energy-saving mode preset by the manufacturer. Please ensure that there are no people at home to avoid discomfort caused by temperature changes in this mode.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "You can use Dish Designer to create your own recipes. The details you mentioned are already included. You can add more details to create your own recipes.",
-    "CL_AI_AGENT_delete_history_failed": "Couldn’t delete history. Please try again."
+    "CL_AI_AGENT_delete_history_failed": "Couldn’t delete history. Please try again.",
+    "Appliance type": "Appliance type",
+    "Meal type": "Meal type"
 }

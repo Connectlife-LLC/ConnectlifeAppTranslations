@@ -7439,6 +7439,12 @@
     "log_out_new": "Đăng xuất",
     "CL_CF_energy_go_to_set_tariff": "Đi đến thiết lập giá cước",
     "CL_CF_energy_tariff_not_set_content": "Để kích hoạt tính năng này, bạn cần cấu hình thủ công hoặc chọn giá điện tự động.",
+    "CL_DV_RF_reminder_to_leave_home": "Lời nhắc nhở rời khỏi nhà",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Nếu cửa tủ lạnh của bạn không được mở trong 24 giờ liên tục, bạn sẽ nhận được thông báo nhắc nhở về sự lơ là của mình.",
+    "CL_DV_RF_home_come_remind": "Lời nhắc nhở về ngày trở về nhà",
+    "CL_DV_RF_home_come_remind_desc": "Bạn sẽ nhận được thông báo nếu ai đó mở cửa tủ lạnh trong một khoảng thời gian nhất định, giúp bạn theo dõi thời điểm gia đình mình trở về nhà.",
+    "CL_DV_RF_home_humidity_reminder": "Nhắc nhở về độ ẩm cao",
+    "CL_DV_RF_home_humidity_reminder_desc": "Bạn sẽ nhận được cảnh báo khi cảm biến độ ẩm bên ngoài tủ lạnh phát hiện độ ẩm trong nhà đạt mức 85%.",
     "CL_CF_CS_wm_g800_cs_step_3": "Mạng thiết bị hiện đã được mở để kết nối trong 5 phút. \n TIẾP THEO để tiếp tục.",
     "CL_CF_CS_wm_g800_p_step_3": "Thiết bị hiện đã sẵn sàng để ghép nối trong 3 phút. \n Nhấp vào TIẾP THEO để tiếp tục.",
     "set_time_format": "ĐỊNH DẠNG THỜI GIAN ĐẶT",
@@ -7471,5 +7477,7 @@
     "CL_AC_es_ai_leave_mode": "BẬT CHẾ ĐỘ AI RỜI KHỎI NHÀ",
     "CL_AC_es_ai_leave_home_content": "Lưu ý: Ở chế độ AI Leave Home, máy điều hòa sẽ hoạt động ở chế độ tiết kiệm năng lượng do nhà sản xuất cài đặt sẵn. Vui lòng đảm bảo không có người ở nhà để tránh khó chịu do thay đổi nhiệt độ trong chế độ này.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Bạn có thể sử dụng Dish Designer để tạo công thức nấu ăn của riêng mình. Các chi tiết bạn đã đề cập đã được bao gồm. Bạn có thể thêm các chi tiết khác để tạo ra công thức nấu ăn của riêng mình.",
-    "CL_AI_AGENT_delete_history_failed": "Không thể xóa lịch sử. Vui lòng thử lại."
+    "CL_AI_AGENT_delete_history_failed": "Không thể xóa lịch sử. Vui lòng thử lại.",
+    "Appliance type": "Loại thiết bị",
+    "Meal type": "Loại bữa ăn"
 }

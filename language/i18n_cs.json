@@ -7439,6 +7439,12 @@
     "log_out_new": "Odhlásit se",
     "CL_CF_energy_go_to_set_tariff": "Přejít k nastavení tarifu",
     "CL_CF_energy_tariff_not_set_content": "Chcete-li tuto funkci povolit, je nutné ručně nakonfigurovat nebo vybrat automatické ceny elektřiny.",
+    "CL_DV_RF_reminder_to_leave_home": "Připomínka k odchodu z domova",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Pokud dveře vaší ledničky zůstanou neotevřené po dobu 24 hodin po sobě, dostanete upozornění, které vám připomene vaši nedbalost.",
+    "CL_DV_RF_home_come_remind": "Připomínka návratu domů",
+    "CL_DV_RF_home_come_remind_desc": "Pokud někdo otevře dveře ledničky v nastaveném časovém úseku, dostanete upozornění, což vám umožní sledovat návrat vaší rodiny domů.",
+    "CL_DV_RF_home_humidity_reminder": "Připomenutí vysoké vlhkosti",
+    "CL_DV_RF_home_humidity_reminder_desc": "Obdržíte upozornění, když senzor vlhkosti vnější strany chladničky detekuje, že vlhkost ve vaší domácnosti dosáhla 85 %.",
     "CL_CF_CS_wm_g800_cs_step_3": "Síť zařízení je nyní otevřená pro připojení po dobu 5 minut. \n Klikněte na DALŠÍ pro pokračování.",
     "CL_CF_CS_wm_g800_p_step_3": "Zařízení je nyní připraveno k párování po dobu 3 minut. \n Klikněte na DALŠÍ pro pokračování.",
     "set_time_format": "NASTAVENÍ FORMÁTU ČASU",
@@ -7473,5 +7479,7 @@
     "CL_AC_es_ai_leave_mode": "POVOLIT REŽIM OPOUŠTĚNÍ DOMOVA S AI",
     "CL_AC_es_ai_leave_home_content": "Poznámka: V režimu AI Leave Home bude klimatizace pracovat v režimu úspory energie nastaveném výrobcem. Ujistěte se, že doma nejsou žádní lidé, abyste předešli nepohodlí způsobenému změnami teploty v tomto režimu.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Pomocí nástroje Dish Designer si můžete vytvořit vlastní recepty. Podrobnosti, které jste zmínili, jsou již zahrnuty. Můžete přidat další podrobnosti a vytvořit si vlastní recepty.",
-    "CL_AI_AGENT_delete_history_failed": "Historii se nepodařilo smazat. Zkuste to prosím znovu."
+    "CL_AI_AGENT_delete_history_failed": "Historii se nepodařilo smazat. Zkuste to prosím znovu.",
+    "Appliance type": "Typ spotřebiče",
+    "Meal type": "Typ jídla"
 }

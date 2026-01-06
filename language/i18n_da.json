@@ -7439,6 +7439,12 @@
     "log_out_new": "Log af",
     "CL_CF_energy_go_to_set_tariff": "Gå til indstilling af takst",
     "CL_CF_energy_tariff_not_set_content": "For at aktivere denne funktion skal du manuelt konfigurere eller vælge automatisk elprisfastsættelse.",
+    "CL_DV_RF_reminder_to_leave_home": "Påmindelse om at forlade hjemmet",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Hvis din køleskabsdør forbliver uåbnet i 24 timer i træk, vil du modtage en besked, der minder dig om din forsømmelse.",
+    "CL_DV_RF_home_come_remind": "Hjemkomstpåmindelse",
+    "CL_DV_RF_home_come_remind_desc": "Du modtager en besked, hvis nogen åbner køleskabsdøren inden for et bestemt tidsrum, så du kan holde styr på din families hjemkomst.",
+    "CL_DV_RF_home_humidity_reminder": "Påmindelse om høj luftfugtighed",
+    "CL_DV_RF_home_humidity_reminder_desc": "Du modtager en advarsel, når fugtighedssensoren uden for dit køleskab registrerer, at luftfugtigheden i dit hjem har nået 85 %.",
     "CL_CF_CS_wm_g800_cs_step_3": "Enhedens netværk er nu åbent for forbindelse i 5 minutter. \n Klik på NÆSTE for at fortsætte.",
     "CL_CF_CS_wm_g800_p_step_3": "Enheden er nu klar til parring i 3 minutter. \n Klik på NÆSTE for at fortsætte.",
     "set_time_format": "INDSTIL TIDSFORMAT",
@@ -7473,5 +7479,7 @@
     "CL_AC_es_ai_leave_mode": "AKTIVER AI FORLAD HJEMME-TILSTAND",
     "CL_AC_es_ai_leave_home_content": "Bemærk: I AI Leave Home-tilstand kører klimaanlægget i den energibesparende tilstand, der er forudindstillet af producenten. Sørg for, at der ikke er personer hjemme for at undgå ubehag forårsaget af temperaturændringer i denne tilstand.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Du kan bruge Dish Designer til at lave dine egne opskrifter. De oplysninger, du nævnte, er allerede inkluderet. Du kan tilføje flere detaljer for at lave dine egne opskrifter.",
-    "CL_AI_AGENT_delete_history_failed": "Historikken kunne ikke slettes. Prøv igen."
+    "CL_AI_AGENT_delete_history_failed": "Historikken kunne ikke slettes. Prøv igen.",
+    "Appliance type": "Apparattype",
+    "Meal type": "Måltidstype"
 }
