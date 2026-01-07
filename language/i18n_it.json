@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Seleziona l'elettrodomestico con cui vuoi cucinare. Se non selezioni nulla, ti verranno suggerite ricette che funzionano sia con il forno che con il piano cottura. Selezionandone uno, le ricette saranno limitate solo a quell'elettrodomestico.",
     "breakfast": "colazione",
     "lunch": "pranzo",
+    "dinner": "Cena",
     "starter": "antipasto",
     "main": "principale",
     "side": "lato",
@@ -7439,6 +7440,12 @@
     "log_out_new": "Esci",
     "CL_CF_energy_go_to_set_tariff": "Vai a imposta tariffa",
     "CL_CF_energy_tariff_not_set_content": "Per abilitare questa funzione, è necessario configurare manualmente o selezionare la tariffazione automatica dell'elettricità.",
+    "CL_DV_RF_reminder_to_leave_home": "Promemoria per uscire di casa",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Se la porta del frigorifero rimane chiusa per 24 ore consecutive, riceverai una notifica per ricordarti della tua negligenza.",
+    "CL_DV_RF_home_come_remind": "Promemoria per il ritorno a casa",
+    "CL_DV_RF_home_come_remind_desc": "Riceverai una notifica se qualcuno apre la porta del frigorifero entro un intervallo di tempo impostato, consentendoti di tenere traccia del ritorno a casa della tua famiglia.",
+    "CL_DV_RF_home_humidity_reminder": "Promemoria per umidità elevata",
+    "CL_DV_RF_home_humidity_reminder_desc": "Riceverai un avviso quando il sensore di umidità esterno al frigorifero rileva che l'umidità in casa ha raggiunto l'85%.",
     "CL_CF_CS_wm_g800_cs_step_3": "La rete del dispositivo è ora aperta alla connessione per 5 minuti.\nFare clic su NEXT per continuare.",
     "CL_CF_CS_wm_g800_p_step_3": "Il dispositivo è ora pronto per l'associazione per 3 minuti. \n Fare clic su AVANTI per continuare.",
     "set_time_format": "IMPOSTA IL FORMATO DELL'ORA",
@@ -7473,5 +7480,10 @@
     "CL_AC_es_ai_leave_mode": "ATTIVA LA MODALITÀ LASCIA CASA DELL'IA",
     "CL_AC_es_ai_leave_home_content": "Nota: in modalità AI Leave Home, il condizionatore funzionerà nella modalità di risparmio energetico preimpostata dal produttore. Assicurarsi che non ci siano persone in casa per evitare disagi causati dalle variazioni di temperatura in questa modalità.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Puoi usare Dish Designer per creare le tue ricette. I dettagli che hai menzionato sono già inclusi. Puoi aggiungere altri dettagli per creare le tue ricette.",
-    "CL_AI_AGENT_delete_history_failed": "Impossibile eliminare la cronologia. Riprova."
+    "CL_AI_AGENT_delete_history_failed": "Impossibile eliminare la cronologia. Riprova.",
+    "Appliance type": "Tipo di elettrodomestico",
+    "Meal type": "Tipo di pasto",
+    "airecipe_ztrtest_app_tomato": "pomodorini",
+    "CL_DV_LRC_cabinet_illumination_desc": "Le luci illuminano l'interno del vano frigo, facilitando il carico e lo svuotamento dell'apparecchio. Facilitano inoltre l'ispezione durante la pulizia interna.",
+    "CL_DV_LRC_turn_cabinet_illumination": "Accendere/spegnere l'illuminazione del mobile"
 }

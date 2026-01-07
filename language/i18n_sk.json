@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Vyberte spotrebič, s ktorým chcete variť. Ak neurobíte žiadny výber, budú vám navrhnuté recepty, ktoré sú funkčné s rúrou aj varnou doskou. Výberom jedného z nich sa recepty obmedzia iba na daný spotrebič.",
     "breakfast": "raňajky",
     "lunch": "obed",
+    "dinner": "Večera",
     "starter": "štartér",
     "main": "hlavné",
     "side": "strane",
@@ -7439,6 +7440,12 @@
     "log_out_new": "Odhlásiť sa",
     "CL_CF_energy_go_to_set_tariff": "Prejsť na nastavenie tarify",
     "CL_CF_energy_tariff_not_set_content": "Ak chcete túto funkciu povoliť, musíte manuálne nakonfigurovať alebo vybrať automatické ceny elektriny.",
+    "CL_DV_RF_reminder_to_leave_home": "Pripomienka na odchod z domu",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Ak dvere chladničky zostanú neotvorené 24 hodín po sebe, dostanete upozornenie, ktoré vám pripomenie vašu nedbanlivosť.",
+    "CL_DV_RF_home_come_remind": "Pripomienka na návrat domov",
+    "CL_DV_RF_home_come_remind_desc": "Ak niekto otvorí dvere chladničky v stanovenom časovom období, dostanete upozornenie, čo vám umožní sledovať návrat vašej rodiny domov.",
+    "CL_DV_RF_home_humidity_reminder": "Pripomienka vysokej vlhkosti",
+    "CL_DV_RF_home_humidity_reminder_desc": "Dostanete upozornenie, keď senzor vlhkosti mimo chladničky zistí, že vlhkosť vo vašej domácnosti dosiahla 85 %.",
     "CL_CF_CS_wm_g800_cs_step_3": "Sieť zariadenia je teraz otvorená na pripojenie na 5 minút. \n Kliknite na ĎALEJ pre pokračovanie.",
     "CL_CF_CS_wm_g800_p_step_3": "Zariadenie je teraz pripravené na párovanie po dobu 3 minút. \n Kliknite na ĎALEJ pre pokračovanie.",
     "set_time_format": "NASTAVENIE FORMÁTU ČASU",
@@ -7473,5 +7480,10 @@
     "CL_AC_es_ai_leave_mode": "POVOĽTE REŽIM OPUSTENIA DOMOVA S AI",
     "CL_AC_es_ai_leave_home_content": "Poznámka: V režime AI Leave Home bude klimatizácia pracovať v režime úspory energie prednastavenom výrobcom. Uistite sa, že doma nie sú žiadni ľudia, aby ste predišli nepohodliu spôsobenému zmenami teploty v tomto režime.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Na vytvorenie vlastných receptov si môžete použiť Dish Designer. Podrobnosti, ktoré ste spomenuli, sú už zahrnuté. Môžete pridať ďalšie podrobnosti a vytvoriť si vlastné recepty.",
-    "CL_AI_AGENT_delete_history_failed": "Históriu sa nepodarilo vymazať. Skúste to znova."
+    "CL_AI_AGENT_delete_history_failed": "Históriu sa nepodarilo vymazať. Skúste to znova.",
+    "Appliance type": "Typ spotrebiča",
+    "Meal type": "Typ jedla",
+    "airecipe_ztrtest_app_tomato": "čerešňová paradajka",
+    "CL_DV_LRC_cabinet_illumination_desc": "Svetlá osvetľujú vnútro priehradky na občerstvenie, čo vám pomáha pri vkladaní a vyprázdňovaní spotrebiča. Taktiež uľahčujú kontrolu pri čistení vnútra.",
+    "CL_DV_LRC_turn_cabinet_illumination": "Zapnutie/vypnutie osvetlenia skrinky"
 }

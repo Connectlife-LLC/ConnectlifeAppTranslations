@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Alegeți aparatul cu care doriți să gătiți. Dacă nu faceți nicio selecție, vor fi sugerate rețete care funcționează atât cu cuptorul, cât și cu plita. Selectarea uneia va limita rețetele doar la acel aparat.",
     "breakfast": "mic dejun",
     "lunch": "prânz",
+    "dinner": "Cină",
     "starter": "starter",
     "main": "principal",
     "side": "lateral",
@@ -7439,6 +7440,12 @@
     "log_out_new": "Deconectare",
     "CL_CF_energy_go_to_set_tariff": "Accesați pentru a seta tariful",
     "CL_CF_energy_tariff_not_set_content": "Pentru a activa această funcție, trebuie să configurați manual sau să selectați tarifarea automată a energiei electrice.",
+    "CL_DV_RF_reminder_to_leave_home": "Memento să plecați de acasă",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Dacă ușa frigiderului rămâne nedeschisă timp de 24 de ore consecutive, veți primi o notificare care vă va reaminti de neglijența dumneavoastră.",
+    "CL_DV_RF_home_come_remind": "Memento pentru întoarcerea acasă",
+    "CL_DV_RF_home_come_remind_desc": "Vei primi o notificare dacă cineva deschide ușa frigiderului într-un interval de timp stabilit, permițându-ți să urmărești întoarcerea familiei tale acasă.",
+    "CL_DV_RF_home_humidity_reminder": "Memento umiditate ridicată",
+    "CL_DV_RF_home_humidity_reminder_desc": "Vei primi o alertă atunci când senzorul de umiditate din exteriorul frigiderului detectează că umiditatea din locuința ta a ajuns la 85%.",
     "CL_CF_CS_wm_g800_cs_step_3": "Rețeaua dispozitivului este acum deschisă pentru conectare timp de 5 minute. \n Faceți clic pe URMĂTOR pentru a continua.",
     "CL_CF_CS_wm_g800_p_step_3": "Dispozitivul este acum gata de asociere timp de 3 minute. \n Faceți clic pe URMĂTOR pentru a continua.",
     "set_time_format": "SETARE FORMAT ORĂ",
@@ -7472,5 +7479,10 @@
     "CL_AC_es_ai_leave_mode": "ACTIVAȚI MODUL AI LEAVE HOME",
     "CL_AC_es_ai_leave_home_content": "Notă: În modul AI Leave Home, aparatul de aer condiționat va funcționa în modul de economisire a energiei presetat de producător. Asigurați-vă că nu există persoane în casă pentru a evita disconfortul cauzat de schimbările de temperatură în acest mod.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Poți folosi Dish Designer pentru a-ți crea propriile rețete. Detaliile pe care le-ai menționat sunt deja incluse. Poți adăuga mai multe detalii pentru a-ți crea propriile rețete.",
-    "CL_AI_AGENT_delete_history_failed": "Istoricul nu a putut fi șters. Vă rugăm să încercați din nou."
+    "CL_AI_AGENT_delete_history_failed": "Istoricul nu a putut fi șters. Vă rugăm să încercați din nou.",
+    "Appliance type": "Tipul aparatului",
+    "Meal type": "Tipul de masă",
+    "airecipe_ztrtest_app_tomato": "roșii cherry",
+    "CL_DV_LRC_cabinet_illumination_desc": "Luminile iluminează interiorul dulapului pentru băuturi răcoritoare, ceea ce vă ajută la încărcarea și golirea aparatului. De asemenea, facilitează inspecția la curățarea interiorului.",
+    "CL_DV_LRC_turn_cabinet_illumination": "Pornirea/oprirea iluminării dulapului"
 }
