@@ -7063,6 +7063,7 @@
     "CL_DISH_DESIGNER_appliance_type_content": "Odaberite uređaj s kojim želite kuhati. Ako ne odaberete ništa, predložit će se recepti koji rade i s pećnicom i s pločom za kuhanje. Odabirom jednog ograničit ćete recepte samo na taj uređaj.",
     "breakfast": "doručak",
     "lunch": "ručak",
+    "dinner": "Večera",
     "starter": "starter",
     "main": "glavni",
     "side": "strana",
@@ -7439,6 +7440,12 @@
     "log_out_new": "Odjavite se",
     "CL_CF_energy_go_to_set_tariff": "Idi na postavljanje tarife",
     "CL_CF_energy_tariff_not_set_content": "Da biste omogućili ovu značajku, morate ručno konfigurirati ili odabrati automatsko određivanje cijena električne energije.",
+    "CL_DV_RF_reminder_to_leave_home": "Podsjetnik za odlazak od kuće",
+    "CL_DV_RF_reminder_to_leave_home_desc": "Ako vrata vašeg hladnjaka ostanu zatvorena 24 sata zaredom, primit ćete obavijest koja će vas podsjetiti na vaš nemar.",
+    "CL_DV_RF_home_come_remind": "Podsjetnik za povratak kući",
+    "CL_DV_RF_home_come_remind_desc": "Primit ćete obavijest ako netko otvori vrata hladnjaka unutar određenog vremenskog razdoblja, što vam omogućuje praćenje povratka vaše obitelji kući.",
+    "CL_DV_RF_home_humidity_reminder": "Podsjetnik na visoku vlažnost",
+    "CL_DV_RF_home_humidity_reminder_desc": "Primit ćete upozorenje kada senzor vlažnosti izvan vašeg hladnjaka otkrije da je vlažnost u vašem domu dosegla 85%.",
     "CL_CF_CS_wm_g800_cs_step_3": "Mreža uređaja je otvorena za povezivanje idućih 5 minuta. \nKliknite DALJE kako bi nastavili.",
     "CL_CF_CS_wm_g800_p_step_3": "Uređaj je sada spreman za uparivanje u naredne 3 minute.\nKliknite DALJE za nastavak.",
     "set_time_format": "POSTAVI FORMAT VREMENA",
@@ -7473,5 +7480,10 @@
     "CL_AC_es_ai_leave_mode": "OMOGUĆI NAČIN RADA ZA IZLAZAK IZ DOMA S UMJETNOM INTELIGENTNOM RADNOM",
     "CL_AC_es_ai_leave_home_content": "Napomena: U načinu rada AI Leave Home, klima uređaj će raditi u načinu rada za uštedu energije koji je unaprijed postavio proizvođač. Molimo vas da u kući nema nikoga kako biste izbjegli nelagodu uzrokovanu promjenama temperature u ovom načinu rada.",
     "CL_AI_AGENT_dish_designer_create_recipes2": "Možete koristiti Dish Designer za izradu vlastitih recepata. Detalji koje ste spomenuli već su uključeni. Možete dodati još detalja za izradu vlastitih recepata.",
-    "CL_AI_AGENT_delete_history_failed": "Nije moguće izbrisati povijest. Pokušajte ponovno."
+    "CL_AI_AGENT_delete_history_failed": "Nije moguće izbrisati povijest. Pokušajte ponovno.",
+    "Appliance type": "Vrsta uređaja",
+    "Meal type": "Vrsta obroka",
+    "airecipe_ztrtest_app_tomato": "cherry rajčica",
+    "CL_DV_LRC_cabinet_illumination_desc": "Svjetla osvjetljavaju unutrašnjost ormarića za osvježenje što vam pomaže pri punjenju i pražnjenju uređaja. Također olakšavaju pregled prilikom čišćenja unutrašnjosti.",
+    "CL_DV_LRC_turn_cabinet_illumination": "Uključivanje/isključivanje osvjetljenja ormarića"
 }
