@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Vybrané ingredience",
     "CL_DISH_DESIGNER_chosen_cuisines": "Vybraná kuchyně",
     "CL_DISH_DESIGNER_chosen_taste": "Vybraná chuť",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Zvolená dieta a alergie",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Zvolená dieta, alergie",
     "Profile": "Profil",
     "CL_DISH_DESIGNER_link_kitchen": "Odkaz na kuchyňský inventář",
     "CL_DISH_DESIGNER_do_not_include": "NEZAHRNUJTE",
@@ -7491,5 +7491,7 @@
     "CL_protocol_update_content": "Vítejte v aplikaci Hisense Love Home. Nedávno jsme aktualizovali její obsah. <b>Zásady ochrany osobních údajů.<b> Abyste lépe chránili svá práva, pečlivě si přečtěte tyto zásady před použitím aplikace Hisense Love Home. Kliknutím na tlačítko „souhlasím“ souhlasíte s výše uvedenými zásadami. Pokud s nimi nesouhlasíte, nebudeme moci naše služby používat.",
     "smart_support_helps_4_asia": "4. Kontaktujte nás",
     "CL_protocol_back_content": "Jste si jisti, že chcete odvolat Uživatelskou smlouvu a Zásady ochrany osobních údajů, se kterými jste již souhlasili? \n \n \n Po odvolání se aplikace automaticky ukončí.",
-    "CL_protocol_back_button": "zrušit"
+    "CL_protocol_back_button": "zrušit",
+    "CL_DV_TD_light": "Univerzální",
+    "CL_DV_TD_medium": "Střední"
 }

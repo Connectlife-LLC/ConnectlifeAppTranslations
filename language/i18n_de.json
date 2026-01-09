@@ -5500,7 +5500,7 @@
     "warranty_year_month_duration": "##-Jahre **-Monate Garantie",
     "CL_DV_LC_ota_tips": "Der Firmware-Prozess deaktiviert die Nutzung des Geräts für die Dauer des Updates. Die Geräteschnittstelle kann während des Updates blinken.",
     "CL_DV_LC_accessory_available_for_pairing": "ZUBEHÖR ZUR KOPPELUNG VERFÜGBAR",
-    "CL_CF_SD_share": "Aktie",
+    "CL_CF_SD_share": "Teilen",
     "CL_CF_SD_share_device": "Wählen Sie das Gerät aus, das Sie freigeben möchten.",
     "CL_CF_SD_share_select_all": "Alle ausverkaufen",
     "CL_CF_SD_share_select_how": "Wählen Sie aus, wie Sie teilen möchten.",
@@ -5512,7 +5512,7 @@
     "CL_CF_SD_share_success_sent": "Einladung erfolgreich versendet",
     "CL_CF_SD_share_gen_qrcode": "QR-Code generieren",
     "CL_CF_SD_sh_via_email": "Per E-Mail",
-    "CL_CF_SD_share_btn": "AKTIE",
+    "CL_CF_SD_share_btn": "TEILEN",
     "CL_DV_TD_start_drying": "Beginnen Sie mit dem Trocknen",
     "CL_DV_LC_unlock_two_doors_tips": "Möchten Sie „Zwei Türen entriegeln“ aktivieren, um die Kopplung mit zwei Türschlössern zu ermöglichen?",
     "CL_CF_AM_tv_change_power": "Energiestatus ändern",
@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Ausgewählte Zutaten",
     "CL_DISH_DESIGNER_chosen_cuisines": "Ausgewählte landesküche(n)",
     "CL_DISH_DESIGNER_chosen_taste": "Ausgewählter Geschmack",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Ausgewählte Diät und Allergien",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Gewählte Ernährungsweise, Allergien",
     "Profile": "Profil",
     "CL_DISH_DESIGNER_link_kitchen": "Link zum Kücheninventar",
     "CL_DISH_DESIGNER_do_not_include": "NICHT EINSCHLIESSEN",
@@ -7491,5 +7491,7 @@
     "CL_protocol_update_content": "Willkommen bei der Hisense Love Home App. Wir haben die App kürzlich aktualisiert. <b>Datenschutzrichtlinie.<b> Um Ihre Rechte bestmöglich zu schützen, lesen Sie diese Richtlinie bitte sorgfältig durch, bevor Sie die Hisense Love Home App nutzen. Mit einem Klick auf „Zustimmen“ erklären Sie sich mit der oben genannten Richtlinie einverstanden. Sollten Sie nicht zustimmen, können wir Ihnen unsere Dienste nicht anbieten.",
     "smart_support_helps_4_asia": "4. Kontaktieren Sie uns",
     "CL_protocol_back_content": "Möchten Sie die Nutzungsvereinbarung und die Datenschutzrichtlinie \n denen Sie bereits zugestimmt haben \n wirklich widerrufen? Nach dem Widerruf wird die Anwendung automatisch beendet \n",
-    "CL_protocol_back_button": "widerrufen"
+    "CL_protocol_back_button": "widerrufen",
+    "CL_DV_TD_light": "Licht",
+    "CL_DV_TD_medium": "Mittel"
 }

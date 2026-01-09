@@ -5591,7 +5591,7 @@
     "CL_DV_TD_turn_child_lock": "打开/关闭儿童锁",
     "CL_DV_TD_child_lock_desc": "启用后，它将在显示器最后一次使用后 1 分钟激活。 ",
     "CL_CF_CS_scan_error_2": "这不是要连接的正确标签。请尝试扫描其他标签。",
-    "CL_DV_TD_turn_drum_illumination": "打开/关闭鼓照明",
+    "CL_DV_TD_turn_drum_illumination": "打开/关闭桶照明",
     "CL_DV_TD_bundling_detection_desc": "衣物缠绕检测有助于确保衣物均匀干燥，无需手动分开衣物。此功能默认始终启用，但您可以在此处禁用。 ",
     "window_convering_level": "窗帘级别",
     "CL_GGGGLE_select_window_convering_level": "选择窗口覆盖级别",
@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "精选食材",
     "CL_DISH_DESIGNER_chosen_cuisines": "已选菜系",
     "CL_DISH_DESIGNER_chosen_taste": "选择的口味",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "选择的饮食和过敏",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "选择的饮食、过敏",
     "Profile": "轮廓",
     "CL_DISH_DESIGNER_link_kitchen": "厨房库存链接",
     "CL_DISH_DESIGNER_do_not_include": "不包括",
@@ -6698,9 +6698,9 @@
     "preparation_time": "准备时间",
     "CL_HR_fridge_not_bound": "此冰箱未绑定活期账户，请先绑定。",
     "CL_CF_CS_wm86_td76_ui1_cs_step3_new": "跳过显示屏上的说明并按“下一步”。",
-    "CL_CF_CS_wm86_td76_ui1_cs_step5": "显示屏上开始倒计时。设备网络现已开放连接，持续 5 分钟。__ \n您现在可以在应用程序中完成配对过程。 ",
+    "CL_CF_CS_wm86_td76_ui1_cs_step5": "显示屏上开始倒计时。设备网络现已开放连接，持续 5 分钟。\n您现在可以在应用程序中完成配对过程。 ",
     "CL_CF_CS_wm86_td76_ui1_p_step1": "打开设备。向右旋转旋钮，进入“系统设置”，点击“Enter”。",
-    "CL_CF_CS_wm86_td76_ui3_p_step5": "显示屏上开始倒计时。设备网络现已开放连接，持续 3 分钟。__ \n您现在可以在应用程序中完成配对过程。 ",
+    "CL_CF_CS_wm86_td76_ui3_p_step5": "显示屏上开始倒计时。设备网络现已开放连接，持续 3 分钟。\n您现在可以在应用程序中完成配对过程。 ",
     "input_recipe_name": "输入配方名称",
     "create_new_recipe": "创建新食谱",
     "input_ingredient_name": "输入成分名称",
@@ -7589,5 +7589,7 @@
     "CL_protocol_update_content": "欢迎您使用海信爱家App，我们于近日更新了App的<b>《隐私政策》</b>。为了更好地保护您的权益，请您在使用前海信爱家App前，务必仔细阅读该政策。点击同意代表您同意上述政策。如果您不同意。将无法使用我们的服务。",
     "smart_support_helps_4_asia": "4. 联系我们",
     "CL_protocol_back_content": "确定要撤回已经同意的《用户协议》和《隐私政策》吗？\n\n\n撤回后将自动退出应用",
-    "CL_protocol_back_button": "撤回"
+    "CL_protocol_back_button": "撤回",
+    "CL_DV_TD_light": "少量",
+    "CL_DV_TD_medium": "中等"
 }

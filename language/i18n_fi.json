@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Valitut ainesosat",
     "CL_DISH_DESIGNER_chosen_cuisines": "Valitut keittiöt",
     "CL_DISH_DESIGNER_chosen_taste": "Valittu maku",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Valittu ruokavalio ja allergiat",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Valittu ruokavalio, allergiat",
     "Profile": "Profiili",
     "CL_DISH_DESIGNER_link_kitchen": "Linkki keittiön varastotietoihin",
     "CL_DISH_DESIGNER_do_not_include": "ÄLÄ SISÄLLÄ",
@@ -7491,5 +7491,7 @@
     "CL_protocol_update_content": "Tervetuloa käyttämään Hisense Love Home -sovellusta. Olemme äskettäin päivittäneet sovelluksen <b>Tietosuojakäytäntö.<b> Oikeuksiesi suojaamiseksi luethan nämä käytännöt huolellisesti ennen Hisense Love Home -sovelluksen käyttöä. Napsauttamalla \"hyväksyn\" hyväksyt yllä olevan käytännön. Jos et hyväksy, emme voi käyttää palveluitamme.",
     "smart_support_helps_4_asia": "4. Ota yhteyttä",
     "CL_protocol_back_content": "Haluatko varmasti peruuttaa jo hyväksymäsi käyttäjäsopimuksen ja tietosuojakäytännön? \n \n \n Peruutuksen jälkeen sovellus sulkeutuu automaattisesti.",
-    "CL_protocol_back_button": "peruuttaa"
+    "CL_protocol_back_button": "peruuttaa",
+    "CL_DV_TD_light": "Yleis",
+    "CL_DV_TD_medium": "Keskiverto"
 }

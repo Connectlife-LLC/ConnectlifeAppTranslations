@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "ส่วนผสมที่เลือก",
     "CL_DISH_DESIGNER_chosen_cuisines": "อาหารที่เลือก",
     "CL_DISH_DESIGNER_chosen_taste": "รสชาติที่เลือก",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "เลือกอาหารและการแพ้",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "อาหารที่เลือก อาการแพ้",
     "Profile": "ประวัติโดยย่อ",
     "CL_DISH_DESIGNER_link_kitchen": "ลิงค์ไปยังรายการสินค้าในครัว",
     "CL_DISH_DESIGNER_do_not_include": "อย่ารวม",
@@ -7490,5 +7490,7 @@
     "CL_protocol_update_content": "ยินดีต้อนรับสู่การใช้งานแอป Hisense Love Home เราได้อัปเดตแอปเวอร์ชันล่าสุดแล้ว <b>นโยบายความเป็นส่วนตัว.<b> เพื่อปกป้องสิทธิ์ของคุณให้ดียิ่งขึ้น โปรดอ่านนโยบายนี้อย่างละเอียดก่อนใช้งานแอป Hisense Love Home การคลิก 'ยอมรับ' หมายความว่าคุณยอมรับนโยบายข้างต้น หากคุณไม่ยอมรับ เราจะไม่สามารถให้บริการของคุณได้",
     "smart_support_helps_4_asia": "4. ติดต่อเรา",
     "CL_protocol_back_content": "คุณแน่ใจหรือ \n \n ต้องการยกเลิกข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวที่คุณได้ตกลงไว้แล้ว? หลังจากยกเลิกแล้ว แอป \n เคชันจะปิดโดยอัตโนมัติ",
-    "CL_protocol_back_button": "ถอน"
+    "CL_protocol_back_button": "ถอน",
+    "CL_DV_TD_light": "ต่ำ",
+    "CL_DV_TD_medium": "ปานกลาง"
 }

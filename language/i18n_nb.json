@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Utvalgte ingredienser",
     "CL_DISH_DESIGNER_chosen_cuisines": "Valgt(e) kjøkken(er)",
     "CL_DISH_DESIGNER_chosen_taste": "Valgt smak",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Valgt kosthold og allergier",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Valgt kosthold, allergier",
     "Profile": "Profil",
     "CL_DISH_DESIGNER_link_kitchen": "Lenke til kjøkkeninventar",
     "CL_DISH_DESIGNER_do_not_include": "IKKE INKLUDER",
@@ -7488,5 +7488,7 @@
     "CL_protocol_update_content": "Velkommen til å bruke Hisense Love Home-appen. Vi har nylig oppdatert appens <b>Personvernregler.<b> For å bedre beskytte dine rettigheter, vennligst les disse retningslinjene nøye før du bruker Hisense Love Home-appen. Hvis du klikker på «godta», godtar du retningslinjene ovenfor. Hvis du ikke godtar, vil vi ikke kunne bruke tjenestene våre.",
     "smart_support_helps_4_asia": "4. Kontakt oss",
     "CL_protocol_back_content": "Er du sikker på at du vil trekke tilbake brukeravtalen og personvernerklæringen som du allerede har godtatt? \n \n \n Etter tilbaketrekking vil applikasjonen automatisk avsluttes.",
-    "CL_protocol_back_button": "tilbakekalle"
+    "CL_protocol_back_button": "tilbakekalle",
+    "CL_DV_TD_light": "Lys",
+    "CL_DV_TD_medium": "Medium"
 }
