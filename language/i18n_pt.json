@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Ingredientes escolhidos",
     "CL_DISH_DESIGNER_chosen_cuisines": "Cozinha(s) escolhida(s)",
     "CL_DISH_DESIGNER_chosen_taste": "Gosto escolhido",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Dieta escolhida e alergias",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Dieta escolhida, alergias",
     "Profile": "Perfil",
     "CL_DISH_DESIGNER_link_kitchen": "Link para o inventário da cozinha",
     "CL_DISH_DESIGNER_do_not_include": "NÃO INCLUIR",
@@ -7492,5 +7492,7 @@
     "CL_protocol_update_content": "Bem-vindo ao aplicativo Hisense Love Home. Atualizamos recentemente o aplicativo. <b>Política de Privacidade.<b> Para melhor proteger seus direitos, leia esta política atentamente antes de usar o aplicativo Hisense Love Home. Clicar em \"Concordo\" significa que você concorda com a política acima. Caso não concorde, não será possível utilizar nossos serviços.",
     "smart_support_helps_4_asia": "4. Entre em contato conosco",
     "CL_protocol_back_content": "Tem certeza \n que deseja revogar \n Contrato de Usuário e \n Política de Privacidade com os quais você já concordou? Após a revogação, o aplicativo será encerrado automaticamente.",
-    "CL_protocol_back_button": "revogar"
+    "CL_protocol_back_button": "revogar",
+    "CL_DV_TD_light": "Luz",
+    "CL_DV_TD_medium": "Médio"
 }

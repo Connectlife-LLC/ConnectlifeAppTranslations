@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Bahan-bahan pilihan",
     "CL_DISH_DESIGNER_chosen_cuisines": "Masakan pilihan",
     "CL_DISH_DESIGNER_chosen_taste": "Selera yang dipilih",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Diet dan alergi yang dipilih",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Diet yang dipilih, alergi",
     "Profile": "Profil",
     "CL_DISH_DESIGNER_link_kitchen": "Tautan ke inventaris dapur",
     "CL_DISH_DESIGNER_do_not_include": "JANGAN TERMASUK",
@@ -7488,5 +7488,7 @@
     "CL_protocol_update_content": "Selamat datang menggunakan Aplikasi Hisense Love Home. Kami baru saja memperbarui Aplikasi ini. <b>Kebijakan Privasi.<b> Untuk melindungi hak Anda dengan lebih baik, harap baca kebijakan ini dengan saksama sebelum menggunakan Aplikasi Hisense Love Home. Mengklik 'setuju' berarti Anda menyetujui kebijakan di atas. Jika Anda tidak setuju, Anda tidak dapat menggunakan layanan kami.",
     "smart_support_helps_4_asia": "4. Hubungi Kami",
     "CL_protocol_back_content": " \n Anda yakin ingin membatalkan Perjanjian Pengguna dan Kebijakan Privasi yang telah Anda setujui? Setelah \n, aplikasi akan otomatis keluar \n",
-    "CL_protocol_back_button": "menarik kembali"
+    "CL_protocol_back_button": "menarik kembali",
+    "CL_DV_TD_light": "Lampu",
+    "CL_DV_TD_medium": "Sedang"
 }

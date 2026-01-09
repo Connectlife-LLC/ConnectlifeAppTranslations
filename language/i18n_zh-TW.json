@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "精選食材",
     "CL_DISH_DESIGNER_chosen_cuisines": "已選菜系",
     "CL_DISH_DESIGNER_chosen_taste": "選擇的口味",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "選擇的飲食和過敏",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "選擇的飲食、過敏",
     "Profile": "輪廓",
     "CL_DISH_DESIGNER_link_kitchen": "廚房庫存鏈接",
     "CL_DISH_DESIGNER_do_not_include": "不包括",
@@ -6698,9 +6698,9 @@
     "preparation_time": "準備時間",
     "CL_HR_fridge_not_bound": "此冰箱未綁定活期帳戶，請先綁定。",
     "CL_CF_CS_wm86_td76_ui1_cs_step3_new": "跳過顯示幕上的說明並按“下一步”。",
-    "CL_CF_CS_wm86_td76_ui1_cs_step5": "顯示幕上開始倒數計時。設備網路現已開放連接，持續 5 分鐘。 __ \n您現在可以在應用程式中完成配對過程。 ",
+    "CL_CF_CS_wm86_td76_ui1_cs_step5": "顯示幕上開始倒數計時。設備網路現已開放連接，持續 5 分鐘。\n您現在可以在應用程式中完成配對過程。 ",
     "CL_CF_CS_wm86_td76_ui1_p_step1": "打開設備。向右旋轉旋鈕，進入“系統設定”，點擊“Enter”。",
-    "CL_CF_CS_wm86_td76_ui3_p_step5": "顯示幕上開始倒數計時。設備網路現已開放連接，持續 3 分鐘。 __ \n您現在可以在應用程式中完成配對過程。 ",
+    "CL_CF_CS_wm86_td76_ui3_p_step5": "顯示幕上開始倒數計時。設備網路現已開放連接，持續 3 分鐘。\n您現在可以在應用程式中完成配對過程。 ",
     "input_recipe_name": "輸入配方名稱",
     "create_new_recipe": "建立新食譜",
     "input_ingredient_name": "輸入成分名稱",
@@ -7490,5 +7490,7 @@
     "CL_protocol_update_content": "歡迎使用海信愛家App。我們最近更新了該App。 <b>隱私權政策。<b> 為了更好地保護您的權益，請在使用海信愛家App前仔細閱讀本政策。點選「同意」即表示您同意以上政策。如果您不同意，我們將無法為您服務。",
     "smart_support_helps_4_asia": "4. 聯絡我們",
     "CL_protocol_back_content": "您確定要撤銷您已同意的使用者協議和隱私權政策嗎？ \n \n ，應用程式將自動退出\n",
-    "CL_protocol_back_button": "撤銷"
+    "CL_protocol_back_button": "撤銷",
+    "CL_DV_TD_light": "普通洗程",
+    "CL_DV_TD_medium": "中"
 }

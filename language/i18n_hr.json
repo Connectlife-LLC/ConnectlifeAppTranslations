@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Odabrani sastojci",
     "CL_DISH_DESIGNER_chosen_cuisines": "Odabrana kuhinja/e",
     "CL_DISH_DESIGNER_chosen_taste": "Odabrani okus",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Odabrana prehrana i alergije",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Odabrana prehrana, alergije",
     "Profile": "Profil",
     "CL_DISH_DESIGNER_link_kitchen": "Veza do inventara kuhinje",
     "CL_DISH_DESIGNER_do_not_include": "NE UKLJUČUJTE",
@@ -7491,5 +7491,7 @@
     "CL_protocol_update_content": "Dobrodošli u aplikaciju Hisense Love Home. Nedavno smo ažurirali aplikaciju. <b>Pravila privatnosti.<b> Kako biste bolje zaštitili svoja prava, pažljivo pročitajte ova pravila prije korištenja aplikacije Hisense Love Home. Klikom na 'slažem se' prihvaćate gore navedena pravila. Ako se ne slažete, nećemo moći koristiti naše usluge.",
     "smart_support_helps_4_asia": "4. Kontaktirajte nas",
     "CL_protocol_back_content": "Jeste li sigurni da želite povući Ugovor o korištenju i Pravila o privatnosti s kojima ste se već složili? \n \n \n Nakon povlačenja, aplikacija će se automatski zatvoriti",
-    "CL_protocol_back_button": "opozvati"
+    "CL_protocol_back_button": "opozvati",
+    "CL_DV_TD_light": "Svjetlo",
+    "CL_DV_TD_medium": "Srednje pečeno"
 }

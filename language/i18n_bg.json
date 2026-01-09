@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Избрани съставки",
     "CL_DISH_DESIGNER_chosen_cuisines": "Избрана(и) кухня(и)",
     "CL_DISH_DESIGNER_chosen_taste": "Избран вкус",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Избрана диета и алергии",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Избрана диета, алергии",
     "Profile": "Профил",
     "CL_DISH_DESIGNER_link_kitchen": "Връзка към инвентара на кухнята",
     "CL_DISH_DESIGNER_do_not_include": "НЕ ВКЛЮЧВАЙТЕ",
@@ -7490,5 +7490,7 @@
     "CL_protocol_update_content": "Добре дошли в приложението Hisense Love Home. Наскоро актуализирахме приложението. <b>Политика за поверителност.<b> За да защитите по-добре правата си, моля, прочетете внимателно тази политика, преди да използвате приложението Hisense Love Home. Кликването върху „съгласен съм“ означава, че приемате горната политика. Ако не сте съгласни, няма да можем да използваме нашите услуги.",
     "smart_support_helps_4_asia": "4. Свържете се с нас",
     "CL_protocol_back_content": "Наистина ли искате да оттеглите Потребителското споразумение и Политиката за поверителност, с които вече сте се съгласили? \n \n \n След оттеглянето приложението ще се затвори автоматично.",
-    "CL_protocol_back_button": "отменя"
+    "CL_protocol_back_button": "отменя",
+    "CL_DV_TD_light": "светлина",
+    "CL_DV_TD_medium": "Среден"
 }

@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Seçilmiş malzemeler",
     "CL_DISH_DESIGNER_chosen_cuisines": "Seçilen mutfak(lar)",
     "CL_DISH_DESIGNER_chosen_taste": "Seçilmiş tat",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Seçilen diyet ve alerjiler",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Seçilen diyet, alerjiler",
     "Profile": "Profil",
     "CL_DISH_DESIGNER_link_kitchen": "Mutfak envanterine bağlantı",
     "CL_DISH_DESIGNER_do_not_include": "İÇERMEYİN",
@@ -7490,5 +7490,7 @@
     "CL_protocol_update_content": "Hisense Love Home Uygulamasını kullanmaya hoş geldiniz. Uygulamamızı yakın zamanda güncelledik. <b>Gizlilik Politikası.<b> Haklarınızı daha iyi korumak için, Hisense Love Home Uygulamasını kullanmadan önce lütfen bu politikayı dikkatlice okuyun. 'Kabul et' seçeneğine tıklamanız, yukarıdaki politikayı kabul ettiğiniz anlamına gelir. Kabul etmiyorsanız, hizmetlerimizi kullanamayacaksınız.",
     "smart_support_helps_4_asia": "4. Bize Ulaşın",
     "CL_protocol_back_content": "Daha \n kabul ettiğiniz Kullanıcı Sözleşmesi ve Gizlilik Politikası'nı geri çekmek istediğinizden emin misiniz? \n çekme işleminden sonra uygulama otomatik olarak kapanacaktır \n",
-    "CL_protocol_back_button": "geri çekmek"
+    "CL_protocol_back_button": "geri çekmek",
+    "CL_DV_TD_light": "HAFİF",
+    "CL_DV_TD_medium": "Orta"
 }

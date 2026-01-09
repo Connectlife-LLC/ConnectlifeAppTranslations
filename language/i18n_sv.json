@@ -5929,7 +5929,7 @@
     "CL_DISH_DESIGNER_chosen_ingredients": "Valda ingredienser",
     "CL_DISH_DESIGNER_chosen_cuisines": "Valda kök",
     "CL_DISH_DESIGNER_chosen_taste": "Vald smak",
-    "CL_DISH_DESIGNER_chosen_diet_allergies": "Vald kost och allergier",
+    "CL_DISH_DESIGNER_chosen_diet_allergies": "Vald kost, allergier",
     "Profile": "Profil",
     "CL_DISH_DESIGNER_link_kitchen": "Länk till köksinventariet",
     "CL_DISH_DESIGNER_do_not_include": "INKLUDERA INTE",
@@ -7491,5 +7491,7 @@
     "CL_protocol_update_content": "Välkommen att använda Hisense Love Home-appen. Vi har nyligen uppdaterat appens <b>Integritetspolicy.<b> För att bättre skydda dina rättigheter, vänligen läs denna policy noggrant innan du använder Hisense Love Home-appen. Genom att klicka på \"godkänn\" godkänner du ovanstående policy. Om du inte godkänner kommer vi inte att kunna använda våra tjänster.",
     "smart_support_helps_4_asia": "4. Kontakta oss",
     "CL_protocol_back_content": "Är du säker på att du vill återkalla användaravtalet och sekretesspolicyn som du redan har godkänt? \n \n \n Efter återkallelsen avslutas applikationen automatiskt.",
-    "CL_protocol_back_button": "återkalla"
+    "CL_protocol_back_button": "återkalla",
+    "CL_DV_TD_light": "Universal",
+    "CL_DV_TD_medium": "Medium"
 }
