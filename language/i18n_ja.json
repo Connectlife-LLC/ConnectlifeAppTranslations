@@ -7489,5 +7489,7 @@
     "CL_protocol_update_content": "Hisense Love Homeアプリをご利用いただきありがとうございます。アプリは最近アップデートされました。 <b>プライバシーポリシー。<b> お客様の権利をより適切に保護するため、Hisense Love Homeアプリをご利用になる前に、本ポリシーをよくお読みください。「同意する」をクリックすると、上記のポリシーに同意したことになります。同意いただけない場合、当社のサービスをご利用いただけません。",
     "smart_support_helps_4_asia": "4. お問い合わせ",
     "CL_protocol_back_content": "すでに同意した利用規約とプライバシーポリシーを撤回してもよろしいですか？ \n \n \n撤回すると、アプリケーションは自動的に終了します",
-    "CL_protocol_back_button": "取り消す"
+    "CL_protocol_back_button": "取り消す",
+    "CL_DV_TD_light": "ユニバーサル",
+    "CL_DV_TD_medium": "ミディアム"
 }
