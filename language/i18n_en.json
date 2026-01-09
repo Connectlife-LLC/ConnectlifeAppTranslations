@@ -7630,5 +7630,6 @@
     "CL_protocol_back_content": "Are you sure you want to withdraw the User Agreement and Privacy Policy that you have already agreed to? \n\n\nAfter withdrawal, the application will automatically exit",
     "CL_protocol_back_button": "revoke",
     "CL_DV_TD_light": "Light",
-    "CL_DV_TD_medium": "Medium"
+    "CL_DV_TD_medium": "Medium",
+    "CL_ASKO_name": "ASKO"
 }
