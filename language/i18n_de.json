@@ -7491,5 +7491,7 @@
     "CL_protocol_update_content": "Willkommen bei der Hisense Love Home App. Wir haben die App kürzlich aktualisiert. <b>Datenschutzrichtlinie.<b> Um Ihre Rechte bestmöglich zu schützen, lesen Sie diese Richtlinie bitte sorgfältig durch, bevor Sie die Hisense Love Home App nutzen. Mit einem Klick auf „Zustimmen“ erklären Sie sich mit der oben genannten Richtlinie einverstanden. Sollten Sie nicht zustimmen, können wir Ihnen unsere Dienste nicht anbieten.",
     "smart_support_helps_4_asia": "4. Kontaktieren Sie uns",
     "CL_protocol_back_content": "Möchten Sie die Nutzungsvereinbarung und die Datenschutzrichtlinie \n denen Sie bereits zugestimmt haben \n wirklich widerrufen? Nach dem Widerruf wird die Anwendung automatisch beendet \n",
-    "CL_protocol_back_button": "widerrufen"
+    "CL_protocol_back_button": "widerrufen",
+    "CL_DV_TD_light": "Licht",
+    "CL_DV_TD_medium": "Mittel"
 }

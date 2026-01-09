@@ -7491,5 +7491,7 @@
     "CL_protocol_update_content": "Vitajte v aplikácii Hisense Love Home. Nedávno sme aktualizovali jej obsah. <b>Zásady ochrany osobných údajov.<b> Pre lepšiu ochranu vašich práv si pred použitím aplikácie Hisense Love Home pozorne prečítajte tieto zásady. Kliknutím na tlačidlo „súhlasím“ súhlasíte s vyššie uvedenými zásadami. Ak s nimi nesúhlasíte, nebudeme môcť používať naše služby.",
     "smart_support_helps_4_asia": "4. Kontaktujte nás",
     "CL_protocol_back_content": "Naozaj chcete odvolať Používateľskú zmluvu a Zásady ochrany osobných údajov, s ktorými ste už súhlasili? \n \n \n Po odvolaní sa aplikácia automaticky ukončí",
-    "CL_protocol_back_button": "zrušiť"
+    "CL_protocol_back_button": "zrušiť",
+    "CL_DV_TD_light": "Univerzálny",
+    "CL_DV_TD_medium": "Stredné"
 }

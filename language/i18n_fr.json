@@ -7499,5 +7499,7 @@
     "CL_protocol_update_content": "Bienvenue sur l'application Hisense Love Home. Nous avons récemment mis à jour l'application. <b>Politique de confidentialité.<b> Pour mieux protéger vos droits, veuillez lire attentivement cette politique avant d'utiliser l'application Hisense Love Home. En cliquant sur « Accepter », vous acceptez la politique ci-dessus. Si vous n'êtes pas d'accord, vous ne pourrez pas utiliser nos services.",
     "smart_support_helps_4_asia": "4. Contactez-nous",
     "CL_protocol_back_content": "Êtes-vous sûr de vouloir retirer votre consentement au Contrat d'utilisation et à la Politique de confidentialité que vous avez déjà acceptés ? \n \n \n Après le retrait, l'application se fermera automatiquement.",
-    "CL_protocol_back_button": "révoquer"
+    "CL_protocol_back_button": "révoquer",
+    "CL_DV_TD_light": "Universel",
+    "CL_DV_TD_medium": "Moyen"
 }

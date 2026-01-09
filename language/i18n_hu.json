@@ -7490,5 +7490,7 @@
     "CL_protocol_update_content": "Üdvözöljük a Hisense Love Home alkalmazásban. Nemrég frissítettük az alkalmazást. <b>Adatvédelmi irányelvek.<b> Jogainak jobb védelme érdekében kérjük, figyelmesen olvassa el ezt a szabályzatot a Hisense Love Home alkalmazás használata előtt. Az „elfogadom” gombra kattintva elfogadja a fenti szabályzatot. Ha nem ért egyet, nem tudjuk használni szolgáltatásainkat.",
     "smart_support_helps_4_asia": "4. Kapcsolatfelvétel",
     "CL_protocol_back_content": "Biztosan visszavonja a már elfogadott Felhasználói szerződést és Adatvédelmi irányelveket? \n \n \n A visszavonás után az alkalmazás automatikusan kilép.",
-    "CL_protocol_back_button": "visszavon"
+    "CL_protocol_back_button": "visszavon",
+    "CL_DV_TD_light": "Világos",
+    "CL_DV_TD_medium": "Közepes"
 }

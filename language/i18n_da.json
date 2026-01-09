@@ -7491,5 +7491,7 @@
     "CL_protocol_update_content": "Velkommen til at bruge Hisense Love Home-appen. Vi har for nylig opdateret appens <b>Privatlivspolitik.<b> For bedre at beskytte dine rettigheder bedes du læse denne politik omhyggeligt, inden du bruger Hisense Love Home-appen. Hvis du klikker på 'accepter', accepterer du ovenstående politik. Hvis du ikke accepterer, kan vi ikke bruge vores tjenester.",
     "smart_support_helps_4_asia": "4. Kontakt os",
     "CL_protocol_back_content": "Er du sikker på, at du vil trække brugeraftalen og privatlivspolitikken tilbage, som du allerede har accepteret? \n \n \n Efter tilbagetrækning afsluttes applikationen automatisk.",
-    "CL_protocol_back_button": "tilbagekalde"
+    "CL_protocol_back_button": "tilbagekalde",
+    "CL_DV_TD_light": "Universal",
+    "CL_DV_TD_medium": "Medium"
 }

@@ -7589,5 +7589,7 @@
     "CL_protocol_update_content": "欢迎您使用海信爱家App，我们于近日更新了App的<b>《隐私政策》</b>。为了更好地保护您的权益，请您在使用前海信爱家App前，务必仔细阅读该政策。点击同意代表您同意上述政策。如果您不同意。将无法使用我们的服务。",
     "smart_support_helps_4_asia": "4. 联系我们",
     "CL_protocol_back_content": "确定要撤回已经同意的《用户协议》和《隐私政策》吗？\n\n\n撤回后将自动退出应用",
-    "CL_protocol_back_button": "撤回"
+    "CL_protocol_back_button": "撤回",
+    "CL_DV_TD_light": "日常洗",
+    "CL_DV_TD_medium": "中"
 }

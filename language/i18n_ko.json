@@ -7489,5 +7489,7 @@
     "CL_protocol_update_content": "하이센스 러브홈 앱에 오신 것을 환영합니다. 최근 앱을 업데이트했습니다. <b>개인정보 보호정책.<b> 고객님의 권리를 더욱 효과적으로 보호하기 위해, 하이센스 러브홈 앱을 사용하기 전에 본 정책을 주의 깊게 읽어주시기 바랍니다. '동의'를 클릭하시면 위 정책에 동의하시는 것으로 간주됩니다. 동의하지 않으실 경우, 저희 서비스를 이용하실 수 없습니다.",
     "smart_support_helps_4_asia": "4. 문의하기",
     "CL_protocol_back_content": "이미 동의하신 이용 \n 및 개인정보처리방침을 철회하시겠습니까? \n 하시면 애플리케이션이 자동으로 종료됩니다 \n",
-    "CL_protocol_back_button": "취소"
+    "CL_protocol_back_button": "취소",
+    "CL_DV_TD_light": "빛",
+    "CL_DV_TD_medium": "중간"
 }

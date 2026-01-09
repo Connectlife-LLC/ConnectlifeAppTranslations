@@ -7491,5 +7491,7 @@
     "CL_protocol_update_content": "Dobrodošli v aplikaciji Hisense Love Home. Pred kratkim smo posodobili aplikacijo. <b>Pravilnik o zasebnosti.<b> Za boljšo zaščito svojih pravic vas prosimo, da pred uporabo aplikacije Hisense Love Home natančno preberete ta pravilnik. S klikom na »strinjam se« se strinjate z zgornjim pravilnikom. Če se ne strinjate, ne bomo mogli uporabljati naših storitev.",
     "smart_support_helps_4_asia": "4. Kontaktirajte nas",
     "CL_protocol_back_content": "Ali ste prepričani, da želite preklicati uporabniško pogodbo in pravilnik o zasebnosti, s katerima ste se že strinjali? \n \n \n Po preklicu se bo aplikacija samodejno zaprla.",
-    "CL_protocol_back_button": "preklicati"
+    "CL_protocol_back_button": "preklicati",
+    "CL_DV_TD_light": "Luč",
+    "CL_DV_TD_medium": "Srednja"
 }
