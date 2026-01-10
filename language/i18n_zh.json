@@ -7591,5 +7591,6 @@
     "CL_protocol_back_content": "确定要撤回已经同意的《用户协议》和《隐私政策》吗？\n\n\n撤回后将自动退出应用",
     "CL_protocol_back_button": "撤回",
     "CL_DV_TD_light": "少量",
-    "CL_DV_TD_medium": "中等"
+    "CL_DV_TD_medium": "中等",
+    "CL_ASKO_name": "雅士高"
 }
