@@ -7633,5 +7633,9 @@
     "CL_DV_TD_medium": "Medium",
     "CL_ASKO_name": "ASKO",
     "CL_DV_RF_weather_smart_control_desc": "Once activated, it will remind you to turn on the quick-cooling and quick-freezing modes in the event of extreme weather to prevent power outages from affecting your food storage.",
-    "CL_CF_CS_pind_config_wifi_step2": "Tap and hold the **** symbol #### for 5 seconds until the Wi-Fi symbol appears."
+    "CL_CF_CS_pind_config_wifi_step2": "Tap and hold the **** symbol #### for 5 seconds until the Wi-Fi symbol appears.",
+    "CL_DV_OV_water_tank_full": "Water tank is full.",
+    "CL_DV_OV_water_tank_remaining_desc": "Remaining water capacity: {##} liters.",
+    "CL_DV_OV_water_tank_xx_full": "Water tank is {##} full.",
+    "CL_DV_OV_water_tank_empty": "Water tank is empty."
 }
