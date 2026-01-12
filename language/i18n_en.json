@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "In the ConnectLife app, select “Add device” and scan the QR code that are located on the door ring of your device and click “Next”. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "The device network is now open for connection for 5 minutes.\nYou can now finish the pairing process in the app. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Tap on “Pair device”.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Make sure that Wiffi system is enabled, then turn the knob to move to \"Connection setup\" and click on \"Enter\".",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Make sure that Wifi system is enabled, then turn the knob to move to \"Connection setup\" and click on \"Enter\".",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Go to “WiFi settings” and click on “Enter”. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Turn the knob and go to \"Add device\" and then click \"Enter\".",
     "CL_CF_CS_hob_hi_6_cs_1": "Set the device to normal operating conditions.\nIf the Wi-Fi symbol is already lit, skip this step and go to Step 2.\nIf the Wi-Fi symbol is not lit up, tap the Wi-Fi key to enable the Wi-Fi.",
@@ -7031,9 +7031,9 @@
     "CL_AC_search_device_content": "Operate the wall wired remote control, the device card will be highlighted, and the corresponding air conditioner can be accurately found.",
     "CL_CF_CS_wake_signal_tip": "The Wi-Fi signal is weak. Pairing may take longer or fail.",
     "CL_DV_OV_picture_saved": "Picture saved to your device",
-    "CL_CF_CS_induction_hob_cs_step_1": "Make sure your induction hob is off.",
+    "CL_CF_CS_induction_hob_cs_step_1": "Make sure your induction hob is @off#.",
     "CL_CF_CS_pind_config_wifi_new_step2": "Tap and hold the ‘’on/off’’ symbol \u2028#### for 5 seconds until the Wi-Fi symbol appears.",
-    "CL_CF_CS_pind_config_wifi_new_step3": "Tap and hold the Wi-Fi symbol #### \u2028for 5 seconds until ‘’C’’ appears. \u2028\u2028If you see an \"L\" instead of a \"C\" then go back to Step 1 and try again.",
+    "CL_CF_CS_pind_config_wifi_new_step3": "Tap and hold the Wi-Fi symbol #### \u2028for 5 seconds until ‘’**C**’’ appears. \u2028\u2028If you see an \"L\" instead of a \"C\" then go back to Step 1 and try again.",
     "CL_CF_CS_pind_config_wifi_new_step4": "Shortly tap on the Wi-Fi symbol. ‘’C’’ will start to blink. You can now proceed in the app by tapping on the NEXT button below\u2028\u2028If you do not see a blinking “C”, then go back and try the steps again.",
     "CL_AC_log_reporting": "Log reporting",
     "CL_AC_log_reporting_content": "To improve your experience, we collect diagnostic data such as usage logs, feature updates, error reports, and voice interactions. This helps us enhance functionality and resolve issues faster.",
@@ -7630,5 +7630,8 @@
     "CL_protocol_back_content": "Are you sure you want to withdraw the User Agreement and Privacy Policy that you have already agreed to? \n\n\nAfter withdrawal, the application will automatically exit",
     "CL_protocol_back_button": "revoke",
     "CL_DV_TD_light": "Light",
-    "CL_DV_TD_medium": "Medium"
+    "CL_DV_TD_medium": "Medium",
+    "CL_ASKO_name": "ASKO",
+    "CL_DV_RF_weather_smart_control_desc": "Once activated, it will remind you to turn on the quick-cooling and quick-freezing modes in the event of extreme weather to prevent power outages from affecting your food storage.",
+    "CL_CF_CS_pind_config_wifi_step2": "Tap and hold the **** symbol #### for 5 seconds until the Wi-Fi symbol appears."
 }
