@@ -7684,5 +7684,6 @@
     "CL_DV_EY_hp_settings": "HP Ayarları",
     "CL_DV_EY_grid_power": "Şebeke gücü",
     "CL_DV_EY_reactive_power": "Reaktif güç",
-    "CL_DV_EY_weekday": "Hafta içi"
+    "CL_DV_EY_weekday": "Hafta içi",
+    "CL_AI_guide_assistant_new_title": "Merhaba, ben VIDAA, sizin <b>Yapay zeka asistanı</b>Size rehberlik edebilir, programlar önerebilir ve günlük işlerinizi kolaylaştırabilirim. "
 }

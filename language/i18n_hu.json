@@ -7684,5 +7684,6 @@
     "CL_DV_EY_hp_settings": "HP beállítások",
     "CL_DV_EY_grid_power": "Hálózati energia",
     "CL_DV_EY_reactive_power": "Reaktív teljesítmény",
-    "CL_DV_EY_weekday": "Hétköznap"
+    "CL_DV_EY_weekday": "Hétköznap",
+    "CL_AI_guide_assistant_new_title": "Szia, VIDAA vagyok, a te <b>MI asszisztens</b>Útmutatást tudok nyújtani, programokat javasolni, és megkönnyíteni a mindennapi feladatokat. "
 }

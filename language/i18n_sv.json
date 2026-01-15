@@ -7685,5 +7685,6 @@
     "CL_DV_EY_hp_settings": "HP-inställningar",
     "CL_DV_EY_grid_power": "Nätkraft",
     "CL_DV_EY_reactive_power": "Reaktiv effekt",
-    "CL_DV_EY_weekday": "Veckodag"
+    "CL_DV_EY_weekday": "Veckodag",
+    "CL_AI_guide_assistant_new_title": "Hej, jag är VIDAA, din <b>AI-assistent</b>Jag kan vägleda dig, föreslå program och göra dagliga uppgifter enklare. "
 }

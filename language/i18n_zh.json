@@ -7784,5 +7784,6 @@
     "CL_DV_EY_hp_settings": "HP 设置",
     "CL_DV_EY_grid_power": "电网电力",
     "CL_DV_EY_reactive_power": "无功功率",
-    "CL_DV_EY_weekday": "工作日"
+    "CL_DV_EY_weekday": "工作日",
+    "CL_AI_guide_assistant_new_title": "嗨，我是VIDAA，你的 <b>人工智能助手</b>我可以指导你，推荐方案，让日常任务更轻松。 "
 }

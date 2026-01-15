@@ -7686,5 +7686,6 @@
     "CL_DV_EY_hp_settings": "Configuración de HP",
     "CL_DV_EY_grid_power": "Energía de red",
     "CL_DV_EY_reactive_power": "Potencia reactiva",
-    "CL_DV_EY_weekday": "Día laborable"
+    "CL_DV_EY_weekday": "Día laborable",
+    "CL_AI_guide_assistant_new_title": "Hola, soy VIDAA, tu <b>Asistente de inteligencia artificial</b>Puedo guiarte, sugerirte programas y facilitarte las tareas diarias. "
 }

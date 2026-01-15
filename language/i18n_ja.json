@@ -7683,5 +7683,6 @@
     "CL_DV_EY_hp_settings": "HP設定",
     "CL_DV_EY_grid_power": "グリッド電力",
     "CL_DV_EY_reactive_power": "無効電力",
-    "CL_DV_EY_weekday": "平日"
+    "CL_DV_EY_weekday": "平日",
+    "CL_AI_guide_assistant_new_title": "こんにちは、VIDAAです。 <b>AIアシスタント</b>. ご案内したり、プログラムを提案したり、日々の作業を楽にしたりすることができます。 "
 }

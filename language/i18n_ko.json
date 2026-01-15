@@ -7683,5 +7683,6 @@
     "CL_DV_EY_hp_settings": "HP 설정",
     "CL_DV_EY_grid_power": "전력망",
     "CL_DV_EY_reactive_power": "무효 전력",
-    "CL_DV_EY_weekday": "주일"
+    "CL_DV_EY_weekday": "주일",
+    "CL_AI_guide_assistant_new_title": "안녕하세요, 저는 VIDAA입니다. <b>AI 비서</b>제가 안내해 드리고, 프로그램을 추천해 드리고, 일상적인 업무를 더 쉽게 만들어 드릴 수 있습니다. "
 }
