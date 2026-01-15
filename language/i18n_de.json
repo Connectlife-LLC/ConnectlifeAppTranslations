@@ -7685,5 +7685,9 @@
     "CL_DV_EY_hp_settings": "HP-Einstellungen",
     "CL_DV_EY_grid_power": "Netzstrom",
     "CL_DV_EY_reactive_power": "Blindleistung",
-    "CL_DV_EY_weekday": "Wochentag"
+    "CL_DV_EY_weekday": "Wochentag",
+    "CL_AI_guide_assistant_new_title": "Hallo, ich bin VIDAA, Ihr <b>KI-Assistent</b>Ich kann Sie beraten, Ihnen Programme vorschlagen und Ihnen alltägliche Aufgaben erleichtern. ",
+    "CL_bind_phone": "Telefonnummer binden",
+    "ai_mode_time_use": "KI-Modus (für zeitabhängige Preisgestaltung)",
+    "ai_mode_real_time": "KI-Modus (für Echtzeit-Preisanpassung)"
 }

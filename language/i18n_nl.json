@@ -7685,5 +7685,9 @@
     "CL_DV_EY_hp_settings": "HP-instellingen",
     "CL_DV_EY_grid_power": "Netstroom",
     "CL_DV_EY_reactive_power": "Reactief vermogen",
-    "CL_DV_EY_weekday": "Weekdag"
+    "CL_DV_EY_weekday": "Weekdag",
+    "CL_AI_guide_assistant_new_title": "Hallo, ik ben VIDAA, uw <b>AI-assistent</b>Ik kan je begeleiden, programma's aanbevelen en dagelijkse taken gemakkelijker maken. ",
+    "CL_bind_phone": "Bind telefoonnummer",
+    "ai_mode_time_use": "AI-modus (voor tijdgebonden prijsstelling)",
+    "ai_mode_real_time": "AI-modus (voor realtime prijsreactie)"
 }
