@@ -7568,9 +7568,6 @@
     "overcapacity_mode": "超容量模式",
     "disable": "停用",
     "CL_ENERGY_abnormal": "異常",
-    "self_consume": "自發自用",
-    "peak_shift": "削峰填谷",
-    "bat_priority": "電池優先",
     "CL_DV_EY_anti_reflux": "抗逆流",
     "CL_DV_EY_grid_standard": "網格標準",
     "CL_DV_EY_meter_type": "儀表類型",
@@ -7684,5 +7681,14 @@
     "CL_DV_EY_hp_settings": "HP 設定",
     "CL_DV_EY_grid_power": "電網電力",
     "CL_DV_EY_reactive_power": "無功功率",
-    "CL_DV_EY_weekday": "工作日"
+    "CL_DV_EY_weekday": "工作日",
+    "CL_AI_guide_assistant_new_title": "嗨，我是VIDAA，你的 <b>人工智慧助手</b>我可以指導你，推薦方案，讓日常任務更輕鬆。 ",
+    "CL_bind_phone": "綁定電話號碼",
+    "ai_mode_time_use": "AI 模式-分时TOU電價響應",
+    "ai_mode_real_time": "AI模式-實時電價響應",
+    "CL_login_bind_tips": "已綁定",
+    "self_consume": "自用",
+    "peak_shift": "峰位移",
+    "bat_priority": "蝙蝠優先權",
+    "CL_DV_EY_device_not_found_tips": "未發現設備，請靠近重試。"
 }

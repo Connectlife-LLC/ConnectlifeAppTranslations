@@ -7568,9 +7568,6 @@
     "overcapacity_mode": "Режим на свръхкапацитет",
     "disable": "деактивиране",
     "CL_ENERGY_abnormal": "ненормален",
-    "self_consume": "Самоконсумиране",
-    "peak_shift": "PeakShift",
-    "bat_priority": "BatPriority",
     "CL_DV_EY_anti_reflux": "Антирефлукс",
     "CL_DV_EY_grid_standard": "Стандарт на мрежата",
     "CL_DV_EY_meter_type": "Тип измервателен уред",
@@ -7684,5 +7681,14 @@
     "CL_DV_EY_hp_settings": "Настройки на HP",
     "CL_DV_EY_grid_power": "Мощност на мрежата",
     "CL_DV_EY_reactive_power": "Реактивна мощност",
-    "CL_DV_EY_weekday": "Делничен ден"
+    "CL_DV_EY_weekday": "Делничен ден",
+    "CL_AI_guide_assistant_new_title": "Здравей, аз съм ВИДАА, твоята <b>Асистент с изкуствен интелект</b>Мога да ви насочвам, да ви предлагам програми и да ви улеснявам ежедневните задачи. ",
+    "CL_bind_phone": "Свързване на телефонен номер",
+    "ai_mode_time_use": "Режим с изкуствен интелект (за ценообразуване въз основа на времето на употреба)",
+    "ai_mode_real_time": "AI режим (за отговор на цените в реално време)",
+    "CL_login_bind_tips": "Вече обвързан",
+    "self_consume": "Самостоятелна консумация",
+    "peak_shift": "Изместване на пика",
+    "bat_priority": "Приоритет на прилепите",
+    "CL_DV_EY_device_not_found_tips": "Устройството не е намерено, моля, приближете се и опитайте отново."
 }

@@ -7569,9 +7569,6 @@
     "overcapacity_mode": "Ylikapasiteettitila",
     "disable": "poista käytöstä",
     "CL_ENERGY_abnormal": "epänormaali",
-    "self_consume": "SelfConsume",
-    "peak_shift": "Huippusiirtymä",
-    "bat_priority": "LepakkoPrioriteetti",
     "CL_DV_EY_anti_reflux": "Refluksilääke",
     "CL_DV_EY_grid_standard": "Ruudukkostandardi",
     "CL_DV_EY_meter_type": "Mittarin tyyppi",
@@ -7685,5 +7682,14 @@
     "CL_DV_EY_hp_settings": "HP-asetukset",
     "CL_DV_EY_grid_power": "Verkkovirta",
     "CL_DV_EY_reactive_power": "Loisteho",
-    "CL_DV_EY_weekday": "Arkipäivä"
+    "CL_DV_EY_weekday": "Arkipäivä",
+    "CL_AI_guide_assistant_new_title": "Hei, olen VIDAA, sinun <b>Tekoälyavustaja</b>Voin opastaa sinua, ehdottaa ohjelmia ja helpottaa päivittäisiä tehtäviä. ",
+    "CL_bind_phone": "Sido puhelinnumero",
+    "ai_mode_time_use": "Tekoälytila ​​(käyttöaikaiseen hinnoitteluvastaukseen)",
+    "ai_mode_real_time": "Tekoälytila ​​(reaaliaikaista hinnoitteluvastausta varten)",
+    "CL_login_bind_tips": "Jo sidottu",
+    "self_consume": "Itsekulutus",
+    "peak_shift": "Huippusiirtymä",
+    "bat_priority": "Lepakkoprioriteetti",
+    "CL_DV_EY_device_not_found_tips": "Laitetta ei löytynyt, siirry lähemmäs ja yritä uudelleen."
 }

@@ -7566,9 +7566,6 @@
     "overcapacity_mode": "Mode kelebihan kapasitas",
     "disable": "cacat",
     "CL_ENERGY_abnormal": "abnormal",
-    "self_consume": "Konsumsi Sendiri",
-    "peak_shift": "Pergeseran Puncak",
-    "bat_priority": "Prioritas Kelelawar",
     "CL_DV_EY_anti_reflux": "Anti refluks",
     "CL_DV_EY_grid_standard": "Standar grid",
     "CL_DV_EY_meter_type": "Jenis meteran",
@@ -7682,5 +7679,14 @@
     "CL_DV_EY_hp_settings": "Pengaturan HP",
     "CL_DV_EY_grid_power": "Listrik jaringan",
     "CL_DV_EY_reactive_power": "Daya reaktif",
-    "CL_DV_EY_weekday": "Hari kerja"
+    "CL_DV_EY_weekday": "Hari kerja",
+    "CL_AI_guide_assistant_new_title": "Hai, saya VIDAA, Anda <b>Asisten AI</b>Saya dapat membimbing Anda, menyarankan program, dan mempermudah tugas harian. ",
+    "CL_bind_phone": "Hubungkan Nomor Telepon",
+    "ai_mode_time_use": "Mode AI (untuk Respons Harga Berdasarkan Waktu Penggunaan)",
+    "ai_mode_real_time": "Mode AI (untuk Respons Harga Real-Time)",
+    "CL_login_bind_tips": "Sudah Terikat",
+    "self_consume": "Mengonsumsi diri sendiri",
+    "peak_shift": "Pergeseran puncak",
+    "bat_priority": "Prioritas kelelawar",
+    "CL_DV_EY_device_not_found_tips": "Perangkat tidak ditemukan, harap mendekat dan coba lagi."
 }

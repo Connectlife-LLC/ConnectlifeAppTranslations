@@ -7569,9 +7569,6 @@
     "overcapacity_mode": "Overkapacitetstilstand",
     "disable": "deaktiver",
     "CL_ENERGY_abnormal": "abnorm",
-    "self_consume": "Selvforbrug",
-    "peak_shift": "PeakShift",
-    "bat_priority": "BatPriority",
     "CL_DV_EY_anti_reflux": "Anti-refluks",
     "CL_DV_EY_grid_standard": "Gitterstandard",
     "CL_DV_EY_meter_type": "Målertype",
@@ -7685,5 +7682,14 @@
     "CL_DV_EY_hp_settings": "HP-indstillinger",
     "CL_DV_EY_grid_power": "Netstrøm",
     "CL_DV_EY_reactive_power": "Reaktiv effekt",
-    "CL_DV_EY_weekday": "Hverdag"
+    "CL_DV_EY_weekday": "Hverdag",
+    "CL_AI_guide_assistant_new_title": "Hej, jeg er VIDAA, din <b>AI-assistent</b>Jeg kan vejlede dig, foreslå programmer og gøre daglige opgaver lettere. ",
+    "CL_bind_phone": "Bind telefonnummer",
+    "ai_mode_time_use": "AI-tilstand (til prisfastsættelse ved brugstidspunkt)",
+    "ai_mode_real_time": "AI-tilstand (til prisrespons i realtid)",
+    "CL_login_bind_tips": "Allerede bundet",
+    "self_consume": "Selvforbrug",
+    "peak_shift": "Peakskift",
+    "bat_priority": "Flagermusprioritet",
+    "CL_DV_EY_device_not_found_tips": "Enheden blev ikke fundet. Flyt venligst tættere på, og prøv igen."
 }

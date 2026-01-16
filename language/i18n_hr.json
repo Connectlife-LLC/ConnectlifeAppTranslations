@@ -7569,9 +7569,6 @@
     "overcapacity_mode": "Način rada s prekomjernim kapacitetom",
     "disable": "onemogućiti",
     "CL_ENERGY_abnormal": "abnormalan",
-    "self_consume": "Samopotrošnja",
-    "peak_shift": "Pomak vršnih vrijednosti",
-    "bat_priority": "Prioritet šišmiša",
     "CL_DV_EY_anti_reflux": "Protiv refluksa",
     "CL_DV_EY_grid_standard": "Standard mreže",
     "CL_DV_EY_meter_type": "Vrsta brojila",
@@ -7685,5 +7682,14 @@
     "CL_DV_EY_hp_settings": "HP-ove postavke",
     "CL_DV_EY_grid_power": "Mrežna snaga",
     "CL_DV_EY_reactive_power": "Reaktivna snaga",
-    "CL_DV_EY_weekday": "Radni dan"
+    "CL_DV_EY_weekday": "Radni dan",
+    "CL_AI_guide_assistant_new_title": "Bok, ja sam VIDAA, tvoja <b>AI asistent</b>Mogu vas voditi, predlagati programe i olakšati vam svakodnevne zadatke. ",
+    "CL_bind_phone": "Veza telefonskog broja",
+    "ai_mode_time_use": "AI način rada (za odgovor na određivanje cijena na temelju vremena korištenja)",
+    "ai_mode_real_time": "AI način rada (za odgovor na cijene u stvarnom vremenu)",
+    "CL_login_bind_tips": "Već vezan",
+    "self_consume": "Samostalna konzumacija",
+    "peak_shift": "Pomak vršnih vrijednosti",
+    "bat_priority": "Prioritet šišmiša",
+    "CL_DV_EY_device_not_found_tips": "Uređaj nije pronađen, približite se i pokušajte ponovno."
 }

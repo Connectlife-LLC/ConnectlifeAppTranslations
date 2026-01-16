@@ -7569,9 +7569,6 @@
     "overcapacity_mode": "Tryb nadwyżki mocy",
     "disable": "wyłączyć",
     "CL_ENERGY_abnormal": "nieprawidłowy",
-    "self_consume": "Samokonsumpcja",
-    "peak_shift": "PeakShift",
-    "bat_priority": "Priorytet Bat",
     "CL_DV_EY_anti_reflux": "Przeciw refluksowi",
     "CL_DV_EY_grid_standard": "Standard siatki",
     "CL_DV_EY_meter_type": "Typ licznika",
@@ -7685,5 +7682,14 @@
     "CL_DV_EY_hp_settings": "Ustawienia HP",
     "CL_DV_EY_grid_power": "Moc sieciowa",
     "CL_DV_EY_reactive_power": "Moc bierna",
-    "CL_DV_EY_weekday": "Dzień powszedni"
+    "CL_DV_EY_weekday": "Dzień powszedni",
+    "CL_AI_guide_assistant_new_title": "Cześć, jestem VIDAA, Twoja <b>Asystent AI</b>Mogę Cię poprowadzić, zaproponować programy i ułatwić codzienne zadania. ",
+    "CL_bind_phone": "Powiąż numer telefonu",
+    "ai_mode_time_use": "Tryb AI (do reagowania na ceny zależne od czasu użytkowania)",
+    "ai_mode_real_time": "Tryb AI (do reagowania na ceny w czasie rzeczywistym)",
+    "CL_login_bind_tips": "Już związany",
+    "self_consume": "Samodzielne spożycie",
+    "peak_shift": "Przesunięcie szczytowe",
+    "bat_priority": "Priorytet nietoperza",
+    "CL_DV_EY_device_not_found_tips": "Urządzenie nie zostało znalezione. Proszę podejść bliżej i spróbować ponownie."
 }

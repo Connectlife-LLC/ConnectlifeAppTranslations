@@ -7568,9 +7568,6 @@
     "overcapacity_mode": "Mod supracapacitate",
     "disable": "dezactiva",
     "CL_ENERGY_abnormal": "anormal",
-    "self_consume": "Autoconsum",
-    "peak_shift": "PeakShift",
-    "bat_priority": "Prioritate Bată",
     "CL_DV_EY_anti_reflux": "Antireflux",
     "CL_DV_EY_grid_standard": "Standardul grilei",
     "CL_DV_EY_meter_type": "Tipul contorului",
@@ -7684,5 +7681,14 @@
     "CL_DV_EY_hp_settings": "Setări HP",
     "CL_DV_EY_grid_power": "Rețea electrică",
     "CL_DV_EY_reactive_power": "Putere reactivă",
-    "CL_DV_EY_weekday": "Ziua lucrătoare"
+    "CL_DV_EY_weekday": "Ziua lucrătoare",
+    "CL_AI_guide_assistant_new_title": "Salut, sunt VIDAA, al tău <b>Asistent AI</b>Te pot îndruma, sugera programe și îți pot ușura sarcinile zilnice. ",
+    "CL_bind_phone": "Legați numărul de telefon",
+    "ai_mode_time_use": "Mod AI (pentru răspuns la prețuri în funcție de momentul utilizării)",
+    "ai_mode_real_time": "Mod AI (pentru răspuns la prețuri în timp real)",
+    "CL_login_bind_tips": "Deja legat",
+    "self_consume": "Autoconsum",
+    "peak_shift": "Schimbare de vârf",
+    "bat_priority": "Prioritate lilieci",
+    "CL_DV_EY_device_not_found_tips": "Dispozitivul nu a fost găsit, vă rugăm să vă apropiați și să încercați din nou."
 }

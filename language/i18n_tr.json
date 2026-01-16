@@ -7568,9 +7568,6 @@
     "overcapacity_mode": "Aşırı kapasite modu",
     "disable": "devre dışı bırakmak",
     "CL_ENERGY_abnormal": "anormal",
-    "self_consume": "Kendi Kendini Tüket",
-    "peak_shift": "Zirve Kayması",
-    "bat_priority": "Yarasa Önceliği",
     "CL_DV_EY_anti_reflux": "Reflü önleyici",
     "CL_DV_EY_grid_standard": "Şebeke standardı",
     "CL_DV_EY_meter_type": "Sayaç tipi",
@@ -7684,5 +7681,14 @@
     "CL_DV_EY_hp_settings": "HP Ayarları",
     "CL_DV_EY_grid_power": "Şebeke gücü",
     "CL_DV_EY_reactive_power": "Reaktif güç",
-    "CL_DV_EY_weekday": "Hafta içi"
+    "CL_DV_EY_weekday": "Hafta içi",
+    "CL_AI_guide_assistant_new_title": "Merhaba, ben VIDAA, sizin <b>Yapay zeka asistanı</b>Size rehberlik edebilir, programlar önerebilir ve günlük işlerinizi kolaylaştırabilirim. ",
+    "CL_bind_phone": "Telefon Numarasını Bağla",
+    "ai_mode_time_use": "Yapay Zeka Modu (Kullanım Zamanına Dayalı Fiyatlandırma Yanıtı için)",
+    "ai_mode_real_time": "Yapay Zeka Modu (Gerçek Zamanlı Fiyat Yanıtı için)",
+    "CL_login_bind_tips": "Zaten Bağlı",
+    "self_consume": "Kendi kendine tüketim",
+    "peak_shift": "Zirve kayması",
+    "bat_priority": "Yarasa önceliği",
+    "CL_DV_EY_device_not_found_tips": "Cihaz bulunamadı, lütfen daha yakına gelin ve tekrar deneyin."
 }

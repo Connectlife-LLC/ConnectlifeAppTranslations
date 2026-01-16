@@ -7569,9 +7569,6 @@
     "overcapacity_mode": "Režim nadmernej kapacity",
     "disable": "zakázať",
     "CL_ENERGY_abnormal": "abnormálny",
-    "self_consume": "SelfConsume",
-    "peak_shift": "Špičkový posun",
-    "bat_priority": "BatPriority",
     "CL_DV_EY_anti_reflux": "Proti refluxu",
     "CL_DV_EY_grid_standard": "Štandard mriežky",
     "CL_DV_EY_meter_type": "Typ merača",
@@ -7685,5 +7682,14 @@
     "CL_DV_EY_hp_settings": "Nastavenia HP",
     "CL_DV_EY_grid_power": "Sieťová energia",
     "CL_DV_EY_reactive_power": "Reaktívny výkon",
-    "CL_DV_EY_weekday": "Všedný deň"
+    "CL_DV_EY_weekday": "Všedný deň",
+    "CL_AI_guide_assistant_new_title": "Ahoj, ja som VIDAA, tvoja <b>Asistent s umelou inteligenciou</b>Môžem vás sprevádzať, navrhovať programy a uľahčovať každodenné úlohy. ",
+    "CL_bind_phone": "Priradiť telefónne číslo",
+    "ai_mode_time_use": "Režim AI (pre reakciu na stanovenie cien v závislosti od času používania)",
+    "ai_mode_real_time": "Režim AI (pre reakciu na ceny v reálnom čase)",
+    "CL_login_bind_tips": "Už zviazaný",
+    "self_consume": "Vlastná spotreba",
+    "peak_shift": "Posun vrcholu",
+    "bat_priority": "Priorita netopierov",
+    "CL_DV_EY_device_not_found_tips": "Zariadenie sa nenašlo, priblížte sa a skúste to znova."
 }

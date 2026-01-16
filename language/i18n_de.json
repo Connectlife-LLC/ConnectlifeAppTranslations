@@ -7569,9 +7569,6 @@
     "overcapacity_mode": "Überkapazitätsmodus",
     "disable": "deaktivieren",
     "CL_ENERGY_abnormal": "abnormal",
-    "self_consume": "Selbstkonsum",
-    "peak_shift": "PeakShift",
-    "bat_priority": "BatPriority",
     "CL_DV_EY_anti_reflux": "Anti-Reflux",
     "CL_DV_EY_grid_standard": "Rasterstandard",
     "CL_DV_EY_meter_type": "Zählertyp",
@@ -7685,5 +7682,14 @@
     "CL_DV_EY_hp_settings": "HP-Einstellungen",
     "CL_DV_EY_grid_power": "Netzstrom",
     "CL_DV_EY_reactive_power": "Blindleistung",
-    "CL_DV_EY_weekday": "Wochentag"
+    "CL_DV_EY_weekday": "Wochentag",
+    "CL_AI_guide_assistant_new_title": "Hallo, ich bin VIDAA, Ihr <b>KI-Assistent</b>Ich kann Sie beraten, Ihnen Programme vorschlagen und Ihnen alltägliche Aufgaben erleichtern. ",
+    "CL_bind_phone": "Telefonnummer binden",
+    "ai_mode_time_use": "KI-Modus (für zeitabhängige Preisgestaltung)",
+    "ai_mode_real_time": "KI-Modus (für Echtzeit-Preisanpassung)",
+    "CL_login_bind_tips": "Bereits gebunden",
+    "self_consume": "Selbstverzehrung",
+    "peak_shift": "Peakverschiebung",
+    "bat_priority": "Fledermauspriorität",
+    "CL_DV_EY_device_not_found_tips": "Gerät nicht gefunden, bitte näher herangehen und es erneut versuchen."
 }

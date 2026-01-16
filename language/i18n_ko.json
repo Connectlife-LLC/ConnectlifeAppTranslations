@@ -7567,9 +7567,6 @@
     "overcapacity_mode": "과잉용량 모드",
     "disable": "장애를 입히다",
     "CL_ENERGY_abnormal": "이상",
-    "self_consume": "자가소비",
-    "peak_shift": "피크시프트",
-    "bat_priority": "배트프라이어리티",
     "CL_DV_EY_anti_reflux": "역류 방지",
     "CL_DV_EY_grid_standard": "그리드 표준",
     "CL_DV_EY_meter_type": "계량기 유형",
@@ -7683,5 +7680,14 @@
     "CL_DV_EY_hp_settings": "HP 설정",
     "CL_DV_EY_grid_power": "전력망",
     "CL_DV_EY_reactive_power": "무효 전력",
-    "CL_DV_EY_weekday": "주일"
+    "CL_DV_EY_weekday": "주일",
+    "CL_AI_guide_assistant_new_title": "안녕하세요, 저는 VIDAA입니다. <b>AI 비서</b>제가 안내해 드리고, 프로그램을 추천해 드리고, 일상적인 업무를 더 쉽게 만들어 드릴 수 있습니다. ",
+    "CL_bind_phone": "전화번호 연결",
+    "ai_mode_time_use": "AI 모드(시간대별 요금제 응답용)",
+    "ai_mode_real_time": "AI 모드(실시간 가격 대응용)",
+    "CL_login_bind_tips": "이미 확정됨",
+    "self_consume": "자가 소비",
+    "peak_shift": "피크 시프트",
+    "bat_priority": "배트 우선 순위",
+    "CL_DV_EY_device_not_found_tips": "기기를 찾을 수 없습니다. 가까이 이동하여 다시 시도해 주세요."
 }
