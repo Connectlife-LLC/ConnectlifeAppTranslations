@@ -7577,9 +7577,6 @@
     "overcapacity_mode": "Mode de surcapacité",
     "disable": "désactiver",
     "CL_ENERGY_abnormal": "anormal",
-    "self_consume": "Autoconsommation",
-    "peak_shift": "PeakShift",
-    "bat_priority": "BatPriorité",
     "CL_DV_EY_anti_reflux": "Anti-reflux",
     "CL_DV_EY_grid_standard": "Norme de grille",
     "CL_DV_EY_meter_type": "Type de compteur",
@@ -7693,5 +7690,13 @@
     "CL_DV_EY_hp_settings": "Paramètres HP",
     "CL_DV_EY_grid_power": "Énergie du réseau",
     "CL_DV_EY_reactive_power": "Puissance réactive",
-    "CL_DV_EY_weekday": "Jour de la semaine"
+    "CL_DV_EY_weekday": "Jour de la semaine",
+    "CL_AI_guide_assistant_new_title": "Salut, je suis VIDAA, votre <b>Assistant IA</b>Je peux vous guider, vous suggérer des programmes et faciliter vos tâches quotidiennes. ",
+    "CL_bind_phone": "Numéro de téléphone lié",
+    "ai_mode_time_use": "Mode IA (pour la réponse tarifaire en fonction des heures d'utilisation)",
+    "ai_mode_real_time": "Mode IA (pour une réponse tarifaire en temps réel)",
+    "CL_login_bind_tips": "Déjà lié",
+    "self_consume": "Autoconsommation",
+    "peak_shift": "Décalage maximal",
+    "bat_priority": "Priorité aux chauves-souris"
 }

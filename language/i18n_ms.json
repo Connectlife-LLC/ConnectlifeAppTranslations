@@ -7566,9 +7566,6 @@
     "overcapacity_mode": "Mod kapasiti berlebihan",
     "disable": "lumpuhkan",
     "CL_ENERGY_abnormal": "tidak normal",
-    "self_consume": "SelfConsume",
-    "peak_shift": "Anjakan Puncak",
-    "bat_priority": "Keutamaan Kelawar",
     "CL_DV_EY_anti_reflux": "Anti refluks",
     "CL_DV_EY_grid_standard": "Piawaian grid",
     "CL_DV_EY_meter_type": "Jenis meter",
@@ -7682,5 +7679,13 @@
     "CL_DV_EY_hp_settings": "Tetapan HP",
     "CL_DV_EY_grid_power": "Kuasa grid",
     "CL_DV_EY_reactive_power": "Kuasa reaktif",
-    "CL_DV_EY_weekday": "Hari bekerja"
+    "CL_DV_EY_weekday": "Hari bekerja",
+    "CL_AI_guide_assistant_new_title": "Hai, saya VIDAA, nama anda <b>Pembantu AI</b>Saya boleh membimbing anda, mencadangkan program dan memudahkan tugasan harian. ",
+    "CL_bind_phone": "Nombor Telefon Bind",
+    "ai_mode_time_use": "Mod AI (untuk Respons Harga Masa Penggunaan)",
+    "ai_mode_real_time": "Mod AI (untuk Respons Harga Masa Nyata)",
+    "CL_login_bind_tips": "Sudah Terikat",
+    "self_consume": "Makan sendiri",
+    "peak_shift": "Anjakan puncak",
+    "bat_priority": "Keutamaan kelawar"
 }

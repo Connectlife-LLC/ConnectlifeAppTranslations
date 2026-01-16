@@ -7570,9 +7570,6 @@
     "overcapacity_mode": "Modo de sobrecapacidade",
     "disable": "desativar",
     "CL_ENERGY_abnormal": "anormal",
-    "self_consume": "Autoconsumo",
-    "peak_shift": "Mudança de pico",
-    "bat_priority": "BatPrioridade",
     "CL_DV_EY_anti_reflux": "Anti-refluxo",
     "CL_DV_EY_grid_standard": "Padrão de grade",
     "CL_DV_EY_meter_type": "Tipo de medidor",
@@ -7686,5 +7683,13 @@
     "CL_DV_EY_hp_settings": "Configurações HP",
     "CL_DV_EY_grid_power": "Energia da rede",
     "CL_DV_EY_reactive_power": "Potência reativa",
-    "CL_DV_EY_weekday": "Dia da semana"
+    "CL_DV_EY_weekday": "Dia da semana",
+    "CL_AI_guide_assistant_new_title": "Olá, eu sou VIDAA, seu <b>assistente de IA</b>Posso orientá-lo(a), sugerir programas e facilitar as tarefas diárias. ",
+    "CL_bind_phone": "Vincular número de telefone",
+    "ai_mode_time_use": "Modo IA (para resposta de preços por tempo de uso)",
+    "ai_mode_real_time": "Modo IA (para resposta de preços em tempo real)",
+    "CL_login_bind_tips": "Já vinculado",
+    "self_consume": "Autoconsumo",
+    "peak_shift": "Deslocamento de pico",
+    "bat_priority": "Prioridade do morcego"
 }
