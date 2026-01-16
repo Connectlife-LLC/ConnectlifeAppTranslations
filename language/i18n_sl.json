@@ -7685,5 +7685,10 @@
     "CL_DV_EY_hp_settings": "HP-jeve nastavitve",
     "CL_DV_EY_grid_power": "Omrežna moč",
     "CL_DV_EY_reactive_power": "Reaktivna moč",
-    "CL_DV_EY_weekday": "Delovni dan"
+    "CL_DV_EY_weekday": "Delovni dan",
+    "CL_AI_guide_assistant_new_title": "Živjo, jaz sem VIDAA, tvoja <b>Pomočnik umetne inteligence</b>Lahko vas vodim, predlagam programe in vam olajšam vsakodnevna opravila. ",
+    "CL_bind_phone": "Povezava telefonske številke",
+    "ai_mode_time_use": "Način umetne inteligence (za odziv na cene glede na čas uporabe)",
+    "ai_mode_real_time": "Način umetne inteligence (za odziv na cene v realnem času)",
+    "CL_login_bind_tips": "Že vezani"
 }
