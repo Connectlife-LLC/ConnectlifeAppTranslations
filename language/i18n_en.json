@@ -7707,9 +7707,6 @@
     "overcapacity_mode": "Overcapacity mode",
     "disable": "disable",
     "CL_ENERGY_abnormal": "abnormal",
-    "self_consume": "SelfConsume",
-    "peak_shift": "PeakShift",
-    "bat_priority": "BatPriority",
     "CL_DV_EY_anti_reflux": "Anti reflux",
     "CL_DV_EY_grid_standard": "Grid standard",
     "CL_DV_EY_meter_type": "Meter type",
@@ -7823,5 +7820,14 @@
     "CL_DV_EY_hp_settings": "HP Settings",
     "CL_DV_EY_grid_power": "Grid power",
     "CL_DV_EY_reactive_power": "Reactive power",
-    "CL_DV_EY_weekday": "Weekday"
+    "CL_DV_EY_weekday": "Weekday",
+    "CL_AI_guide_assistant_new_title": "Hi, I’m VIDAA, your <b>AI assistant</b>. I can guide you, suggest programs, and make daily tasks easier. ",
+    "CL_bind_phone": "Bind Phone Number",
+    "ai_mode_time_use": "AI Mode(for Time-of-Use Pricing Response)",
+    "ai_mode_real_time": "AI Mode(for Real-Time Pricing Response)",
+    "CL_login_bind_tips": "Already Bound",
+    "self_consume": "Self consume",
+    "peak_shift": "Peak shift",
+    "bat_priority": "Bat priority",
+    "CL_DV_EY_device_not_found_tips": "Device not found, please move closer and try again."
 }

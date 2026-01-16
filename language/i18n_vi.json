@@ -7567,9 +7567,6 @@
     "overcapacity_mode": "Chế độ quá tải",
     "disable": "vô hiệu hóa",
     "CL_ENERGY_abnormal": "bất thường",
-    "self_consume": "Tự tiêu dùng",
-    "peak_shift": "PeakShift",
-    "bat_priority": "Ưu tiên của Bat",
     "CL_DV_EY_anti_reflux": "Chống trào ngược",
     "CL_DV_EY_grid_standard": "Tiêu chuẩn lưới",
     "CL_DV_EY_meter_type": "Loại đồng hồ đo",
@@ -7683,5 +7680,13 @@
     "CL_DV_EY_hp_settings": "Cài đặt HP",
     "CL_DV_EY_grid_power": "Điện lưới",
     "CL_DV_EY_reactive_power": "Công suất phản kháng",
-    "CL_DV_EY_weekday": "Ngày trong tuần"
+    "CL_DV_EY_weekday": "Ngày trong tuần",
+    "CL_AI_guide_assistant_new_title": "Chào, tôi là VIDAA, bạn <b>Trợ lý AI</b>Tôi có thể hướng dẫn bạn, đề xuất các chương trình và giúp bạn thực hiện các công việc hàng ngày dễ dàng hơn. ",
+    "CL_bind_phone": "Số điện thoại liên kết",
+    "ai_mode_time_use": "Chế độ AI (để phản hồi giá theo thời gian sử dụng)",
+    "ai_mode_real_time": "Chế độ AI (để phản hồi giá theo thời gian thực)",
+    "CL_login_bind_tips": "Đã đóng bìa",
+    "self_consume": "Tự tiêu thụ",
+    "peak_shift": "Sự dịch chuyển đỉnh",
+    "bat_priority": "Ưu tiên của dơi"
 }
