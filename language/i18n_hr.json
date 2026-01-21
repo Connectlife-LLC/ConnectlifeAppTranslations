@@ -7889,5 +7889,6 @@
     "CL_DV_WM_ad_tank_black": "Crn",
     "CL_DV_WM_ad_tank_sensitive": "Osjetljivo",
     "CL_DV_WM_ad_tank_other": "Ostalo",
-    "CL_DV_WM_ad_tank_other_rinse": "Drugo ispiranje"
+    "CL_DV_WM_ad_tank_other_rinse": "Drugo ispiranje",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Isključite toplinsku pumpu, istovremeno dugo pritisnite gumb [Uključeno/Isključeno] i gumb [Dolje] 5 sekundi, nakon čega će Wi-Fi lampica treptati. "
 }

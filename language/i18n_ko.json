@@ -7889,5 +7889,6 @@
     "CL_DV_WM_ad_tank_black": "검은색",
     "CL_DV_WM_ad_tank_sensitive": "예민한",
     "CL_DV_WM_ad_tank_other": "다른",
-    "CL_DV_WM_ad_tank_other_rinse": "다른 헹굼"
+    "CL_DV_WM_ad_tank_other_rinse": "다른 헹굼",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "히트펌프 전원을 끄고 [켜기/끄기] 버튼과 [아래] 버튼을 동시에 5초간 길게 누르면 Wi-Fi 표시등이 깜빡입니다. "
 }

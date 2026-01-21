@@ -7889,5 +7889,6 @@
     "CL_DV_WM_ad_tank_black": "Črn",
     "CL_DV_WM_ad_tank_sensitive": "Občutljivo perilo",
     "CL_DV_WM_ad_tank_other": "Drugo",
-    "CL_DV_WM_ad_tank_other_rinse": "Drugo izpiranje"
+    "CL_DV_WM_ad_tank_other_rinse": "Drugo izpiranje",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Izklopite črpalko, dolgo pritisnite gumb za vklop/izklop in gumb navzdol hkrati za 3 sekunde, nato bo lučka Wi-Fi utripala."
 }

@@ -7889,5 +7889,6 @@
     "CL_DV_WM_ad_tank_black": "Черный",
     "CL_DV_WM_ad_tank_sensitive": "Деликатное",
     "CL_DV_WM_ad_tank_other": "Другой",
-    "CL_DV_WM_ad_tank_other_rinse": "Другое ополаскивание"
+    "CL_DV_WM_ad_tank_other_rinse": "Другое ополаскивание",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Выключите тепловой насос, одновременно нажмите и удерживайте кнопку [Вкл./Выкл.] и кнопку [Вниз] в течение 3 секунд, после чего начнет мигать индикатор Wi-Fi. "
 }

@@ -7889,5 +7889,6 @@
     "CL_DV_WM_ad_tank_black": "काला",
     "CL_DV_WM_ad_tank_sensitive": "संवेदनशील",
     "CL_DV_WM_ad_tank_other": "अन्य",
-    "CL_DV_WM_ad_tank_other_rinse": "अन्य कुल्ला"
+    "CL_DV_WM_ad_tank_other_rinse": "अन्य कुल्ला",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "हीट पंप को बंद करें, [चालू/बंद] बटन और [नीचे] बटन को एक साथ 5 सेकंड तक दबाए रखें, फिर वाई-फाई लाइट चमकने लगेगी। "
 }

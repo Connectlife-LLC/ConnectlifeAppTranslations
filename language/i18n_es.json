@@ -7889,5 +7889,6 @@
     "CL_DV_WM_ad_tank_black": "Negro",
     "CL_DV_WM_ad_tank_sensitive": "Sensible",
     "CL_DV_WM_ad_tank_other": "Otro",
-    "CL_DV_WM_ad_tank_other_rinse": "Otro enjuague"
+    "CL_DV_WM_ad_tank_other_rinse": "Otro enjuague",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Apague la bomba de la pila, mantenga pulsado el botón On/Off y el botón Abajo al mismo tiempo durante 3 segundos, entonces la luz Wi-Fi parpadeará."
 }

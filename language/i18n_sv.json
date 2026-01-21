@@ -7889,5 +7889,6 @@
     "CL_DV_WM_ad_tank_black": "Svart",
     "CL_DV_WM_ad_tank_sensitive": "Skontvätt",
     "CL_DV_WM_ad_tank_other": "Andra",
-    "CL_DV_WM_ad_tank_other_rinse": "Annan sköljning"
+    "CL_DV_WM_ad_tank_other_rinse": "Annan sköljning",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Stäng av högpumpen, tryck länge på På/Av-knappen och Ned-knappen samtidigt i 3 sekunder, sedan blinkar Wi-Fi-lampan."
 }

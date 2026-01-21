@@ -7889,5 +7889,6 @@
     "CL_DV_WM_ad_tank_black": "Black",
     "CL_DV_WM_ad_tank_sensitive": "Sensitive",
     "CL_DV_WM_ad_tank_other": "Other",
-    "CL_DV_WM_ad_tank_other_rinse": "Other rinse"
+    "CL_DV_WM_ad_tank_other_rinse": "Other rinse",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Power off the heat pump, long press [On/Off] button and [Down] button at the same time for 5 seconds, then the Wi-Fi light will flash. "
 }

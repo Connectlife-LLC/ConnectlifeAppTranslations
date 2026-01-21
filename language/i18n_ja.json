@@ -7889,5 +7889,6 @@
     "CL_DV_WM_ad_tank_black": "黒",
     "CL_DV_WM_ad_tank_sensitive": "センシティブ",
     "CL_DV_WM_ad_tank_other": "他の",
-    "CL_DV_WM_ad_tank_other_rinse": "その他のすすぎ"
+    "CL_DV_WM_ad_tank_other_rinse": "その他のすすぎ",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "ヒートポンプの電源をオフにし、[オン/オフ]ボタンと[下]ボタンを同時に5秒間長押しすると、Wi-Fiライトが点滅します。 "
 }
