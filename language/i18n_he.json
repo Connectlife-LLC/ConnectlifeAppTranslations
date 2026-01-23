@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "שָׁחוֹר",
     "CL_DV_WM_ad_tank_sensitive": "רָגִישׁ",
     "CL_DV_WM_ad_tank_other": "אַחֵר",
-    "CL_DV_WM_ad_tank_other_rinse": "שטיפה אחרת"
+    "CL_DV_WM_ad_tank_other_rinse": "שטיפה אחרת",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "כבו את משאבת החום, לחצו לחיצה ארוכה על כפתור [הפעלה/כיבוי] ועל כפתור [למטה] בו זמנית למשך 5 שניות, לאחר מכן נורית ה-Wi-Fi תהבהב. ",
+    "CL_login_account_safe": "כדי להבטיח את אבטחת חשבונך, עלינו לאמת את זהותך. נשלח הודעת SMS עם קוד אימות למספר זה:",
+    "CL_DV_RF_FM_location": "מקום"
 }

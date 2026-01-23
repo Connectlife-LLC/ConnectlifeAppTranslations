@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "Musta",
     "CL_DV_WM_ad_tank_sensitive": "Herkät tekstiilit",
     "CL_DV_WM_ad_tank_other": "Muut",
-    "CL_DV_WM_ad_tank_other_rinse": "Muu huuhtelu"
+    "CL_DV_WM_ad_tank_other_rinse": "Muu huuhtelu",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Sammuta kasapumppu, paina pitkään On/Off-painiketta ja alas-painiketta samanaikaisesti 3 sekunnin ajan, sitten Wi-Fi-valo vilkkuu.",
+    "CL_login_account_safe": "Tilisi turvallisuuden varmistamiseksi meidän on vahvistettava henkilöllisyytesi. Lähetämme vahvistuskoodin tekstiviestillä tähän numeroon:",
+    "CL_DV_RF_FM_location": "Paikka"
 }

@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "سوداء",
     "CL_DV_WM_ad_tank_sensitive": "حساس",
     "CL_DV_WM_ad_tank_other": "آخر",
-    "CL_DV_WM_ad_tank_other_rinse": "شطف آخر"
+    "CL_DV_WM_ad_tank_other_rinse": "شطف آخر",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "قم بإيقاف تشغيل مضخة الحرارة، واضغط مطولاً على زر [تشغيل/إيقاف] وزر [أسفل] في نفس الوقت لمدة 5 ثوانٍ، ثم سيومض ضوء الواي فاي. ",
+    "CL_login_account_safe": "لضمان أمان حسابك، نحتاج إلى التحقق من هويتك. سنرسل رمز التحقق عبر رسالة نصية قصيرة إلى هذا الرقم:",
+    "CL_DV_RF_FM_location": "مكان"
 }

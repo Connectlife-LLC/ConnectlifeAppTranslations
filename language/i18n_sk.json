@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "čierna",
     "CL_DV_WM_ad_tank_sensitive": "Jemné",
     "CL_DV_WM_ad_tank_other": "Iné",
-    "CL_DV_WM_ad_tank_other_rinse": "Iné oplachovanie"
+    "CL_DV_WM_ad_tank_other_rinse": "Iné oplachovanie",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Vypnite tepelné čerpadlo, súčasne dlho stlačte tlačidlá [Zap./Vyp.] a [Nadol] po dobu 5 sekúnd, potom bude blikať kontrolka Wi-Fi. ",
+    "CL_login_account_safe": "Aby sme zaistili bezpečnosť vášho účtu, musíme overiť vašu totožnosť. Na toto číslo vám pošleme SMS s overovacím kódom:",
+    "CL_DV_RF_FM_location": "Poloha"
 }

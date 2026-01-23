@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "Svart",
     "CL_DV_WM_ad_tank_sensitive": "Følsom",
     "CL_DV_WM_ad_tank_other": "Annet",
-    "CL_DV_WM_ad_tank_other_rinse": "Annen skylling"
+    "CL_DV_WM_ad_tank_other_rinse": "Annen skylling",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Slå av varmepumpen, trykk lenge på [Av/På]-knappen og [Ned]-knappen samtidig i 5 sekunder, så blinker Wi-Fi-lampen. ",
+    "CL_login_account_safe": "For å sikre kontoens sikkerhet må vi bekrefte identiteten din. Vi sender en SMS med bekreftelseskode til dette nummeret:",
+    "CL_DV_RF_FM_location": "Sted"
 }

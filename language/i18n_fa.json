@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "سیاه",
     "CL_DV_WM_ad_tank_sensitive": "حساس",
     "CL_DV_WM_ad_tank_other": "دیگر",
-    "CL_DV_WM_ad_tank_other_rinse": "شستشوی دیگر"
+    "CL_DV_WM_ad_tank_other_rinse": "شستشوی دیگر",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "پمپ هیپ را خاموش کنید، دکمه روشن/خاموش و دکمه پایین را همزمان به مدت 3 ثانیه فشار دهید، سپس چراغ Wi-Fi چشمک می زند.",
+    "CL_login_account_safe": "برای اطمینان از امنیت حساب شما، باید هویت شما را تأیید کنیم. ما یک کد تأیید را به این شماره پیامک خواهیم کرد:",
+    "CL_DV_RF_FM_location": "محل"
 }

@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "Sort",
     "CL_DV_WM_ad_tank_sensitive": "Sensitiv",
     "CL_DV_WM_ad_tank_other": "Andre",
-    "CL_DV_WM_ad_tank_other_rinse": "Anden skylning"
+    "CL_DV_WM_ad_tank_other_rinse": "Anden skylning",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Sluk varmepumpen, tryk længe på [Tænd/Sluk]-knappen og [Ned]-knappen samtidig i 5 sekunder, hvorefter Wi-Fi-lampen blinker. ",
+    "CL_login_account_safe": "For at sikre din kontos sikkerhed skal vi bekræfte din identitet. Vi sender en SMS med en bekræftelseskode til dette nummer:",
+    "CL_DV_RF_FM_location": "Sted"
 }

@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "สีดำ",
     "CL_DV_WM_ad_tank_sensitive": "อ่อนไหว",
     "CL_DV_WM_ad_tank_other": "อื่น",
-    "CL_DV_WM_ad_tank_other_rinse": "การล้างอื่นๆ"
+    "CL_DV_WM_ad_tank_other_rinse": "การล้างอื่นๆ",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "ปิดเครื่องปั๊มความร้อน กดปุ่ม [เปิด/ปิด] และปุ่ม [ลง] พร้อมกันค้างไว้ 5 วินาที จากนั้นไฟแสดงสถานะ Wi-Fi จะกะพริบ ",
+    "CL_login_account_safe": "เพื่อความปลอดภัยของบัญชีของคุณ เราจำเป็นต้องตรวจสอบตัวตนของคุณ เราจะส่งรหัสยืนยันทาง SMS ไปยังหมายเลขนี้:",
+    "CL_DV_RF_FM_location": "ตำแหน่งที่ตั้ง"
 }

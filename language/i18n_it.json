@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "Nero",
     "CL_DV_WM_ad_tank_sensitive": "Delicati",
     "CL_DV_WM_ad_tank_other": "Altro",
-    "CL_DV_WM_ad_tank_other_rinse": "Altro risciacquo"
+    "CL_DV_WM_ad_tank_other_rinse": "Altro risciacquo",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Spegnere la pompa dell'heap, premere a lungo il pulsante On/Off e il pulsante Giù contemporaneamente per 3 secondi, quindi la spia Wi-Fi lampeggerà.",
+    "CL_login_account_safe": "Per garantire la sicurezza del tuo account, dobbiamo verificare la tua identità. Invieremo un codice di verifica tramite SMS a questo numero:",
+    "CL_DV_RF_FM_location": "Posizione"
 }

@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "Czarny",
     "CL_DV_WM_ad_tank_sensitive": "Delikatny",
     "CL_DV_WM_ad_tank_other": "Inny",
-    "CL_DV_WM_ad_tank_other_rinse": "Inne płukanie"
+    "CL_DV_WM_ad_tank_other_rinse": "Inne płukanie",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Wyłącz pompę hałdy, naciśnij i przytrzymaj jednocześnie przycisk włączania/wyłączania i przycisk w dół przez 3 sekundy, a następnie zacznie migać lampka Wi-Fi.",
+    "CL_login_account_safe": "Aby zapewnić bezpieczeństwo Twojego konta, musimy zweryfikować Twoją tożsamość. Wyślemy SMS z kodem weryfikacyjnym na ten numer:",
+    "CL_DV_RF_FM_location": "Lokalizacja"
 }

@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "Fekete",
     "CL_DV_WM_ad_tank_sensitive": "Érzékeny",
     "CL_DV_WM_ad_tank_other": "Más",
-    "CL_DV_WM_ad_tank_other_rinse": "Egyéb öblítés"
+    "CL_DV_WM_ad_tank_other_rinse": "Egyéb öblítés",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Kapcsolja ki a hőszivattyút, majd nyomja meg egyszerre a [Be/Ki] és a [Le] gombot 5 másodpercig, ekkor a Wi-Fi jelzőfény villogni kezd. ",
+    "CL_login_account_safe": "Fiókod biztonságának garantálása érdekében ellenőriznünk kell a személyazonosságodat. Egy ellenőrző kódot tartalmazó SMS-t küldünk erre a számra:",
+    "CL_DV_RF_FM_location": "Hely"
 }

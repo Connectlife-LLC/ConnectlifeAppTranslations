@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "Noir",
     "CL_DV_WM_ad_tank_sensitive": "Délicat",
     "CL_DV_WM_ad_tank_other": "Autre",
-    "CL_DV_WM_ad_tank_other_rinse": "Autre rinçage"
+    "CL_DV_WM_ad_tank_other_rinse": "Autre rinçage",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Éteignez la pompe à tas, appuyez longuement sur le bouton Marche/Arrêt et le bouton Bas en même temps pendant 3 secondes, puis le voyant Wi-Fi clignotera.",
+    "CL_login_account_safe": "Pour garantir la sécurité de votre compte, nous devons vérifier votre identité. Nous vous enverrons un code de vérification par SMS à ce numéro :",
+    "CL_DV_RF_FM_location": "Emplacement"
 }

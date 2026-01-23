@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "黑色",
     "CL_DV_WM_ad_tank_sensitive": "敏感衣物",
     "CL_DV_WM_ad_tank_other": "其他",
-    "CL_DV_WM_ad_tank_other_rinse": "其他冲洗"
+    "CL_DV_WM_ad_tank_other_rinse": "其他冲洗",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "关闭热泵电源，同时长按[开/关]按钮和[向下]按钮5秒钟，然后Wi-Fi指示灯将闪烁。 ",
+    "CL_login_account_safe": "为了保证你的账号安全，需要验证身份。我们将发送校验码短信到这个号码：",
+    "CL_DV_RF_FM_location": "地点"
 }

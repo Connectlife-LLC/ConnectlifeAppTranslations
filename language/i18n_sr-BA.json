@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "Црна",
     "CL_DV_WM_ad_tank_sensitive": "Osetljiv",
     "CL_DV_WM_ad_tank_other": "Друго",
-    "CL_DV_WM_ad_tank_other_rinse": "Друго испирање"
+    "CL_DV_WM_ad_tank_other_rinse": "Друго испирање",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Искључите топлотну пумпу, дуго притисните дугме [Укључено/Искључено] и дугме [Доле] истовремено 5 секунди, након чега ће лампица Wi-Fi-ја трептати. ",
+    "CL_login_account_safe": "Да бисмо осигурали безбедност вашег налога, потребно је да потврдимо ваш идентитет. Послаћемо вам СМС поруку са верификационим кодом на овај број:",
+    "CL_DV_RF_FM_location": "Lokaciju"
 }

@@ -7889,5 +7889,8 @@
     "CL_DV_WM_ad_tank_black": "Siyah",
     "CL_DV_WM_ad_tank_sensitive": "Hassas",
     "CL_DV_WM_ad_tank_other": "Diğer",
-    "CL_DV_WM_ad_tank_other_rinse": "Diğer durulama"
+    "CL_DV_WM_ad_tank_other_rinse": "Diğer durulama",
+    "CL_CF_CS_self_pump_style_3_cs_step_1": "Isı pompasını kapatın, [Açma/Kapama] düğmesine ve [Aşağı] düğmesine aynı anda 5 saniye basılı tutun, ardından Wi-Fi ışığı yanıp sönmeye başlayacaktır. ",
+    "CL_login_account_safe": "Hesabınızın güvenliğini sağlamak için kimliğinizi doğrulamamız gerekiyor. Bu numaraya bir doğrulama kodu SMS'i göndereceğiz:",
+    "CL_DV_RF_FM_location": "Konum"
 }
