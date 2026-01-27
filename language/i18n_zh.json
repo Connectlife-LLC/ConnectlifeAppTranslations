@@ -7910,5 +7910,12 @@
     "CL_DV_EY_end_time1": "结束时间1",
     "CL_DV_EY_zero_export_power": "零出口功率",
     "CL_DV_LRC_recommended_program_is_hidden": "来自{##}的推荐程序已隐藏，请手动选择。",
-    "bms_bat_cell_max_temp": "BMS BAT 电池最高温度"
+    "bms_bat_cell_max_temp": "BMS BAT 电池最高温度",
+    "CL_AC_leave_home_np1": "最大节省模式",
+    "CL_AC_leave_home_np1_tips": "如果长时间无人居住，系统将自动关闭，以最大限度地节省能源。",
+    "CL_AC_leave_home_np2": "舒适保持模式",
+    "CL_AC_leave_home_np2_des": "即使家中无人，空调仍会以制造商设定的节能模式继续运行，以维持基本的舒适度。",
+    "CL_AC_leave_home_np_notes": "请确保家中无人，以免因这些模式下的温度变化而造成不适。",
+    "CL_AC_leave_home_np_power_tips": "空调长时间未检测到人员活动，即将自动关机。是否继续？",
+    "CL_AC_leave_home_np_power_button": "确认关闭"
 }

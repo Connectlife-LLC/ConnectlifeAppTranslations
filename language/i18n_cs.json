@@ -7910,5 +7910,12 @@
     "CL_DV_EY_end_time1": "Čas ukončení 1",
     "CL_DV_EY_zero_export_power": "Nulová exportní síla",
     "CL_DV_LRC_recommended_program_is_hidden": "Doporučený program od {##} je skrytý, vyberte jej prosím ručně.",
-    "bms_bat_cell_max_temp": "Maximální teplota článku BMS BAT"
+    "bms_bat_cell_max_temp": "Maximální teplota článku BMS BAT",
+    "CL_AC_leave_home_np1": "Režim maximálních úspor",
+    "CL_AC_leave_home_np1_tips": "Systém se po delší době nečinnosti vypne, aby se maximalizovala úspora energie.",
+    "CL_AC_leave_home_np2": "Režim komfortního udržení",
+    "CL_AC_leave_home_np2_des": "Klimatizace bude i nadále běžet v úsporném režimu nastaveném výrobcem, i když nikdo nebude doma, aby se udržela základní úroveň komfortu.",
+    "CL_AC_leave_home_np_notes": "Ujistěte se prosím, že váš domov není obydlený, abyste se vyhnuli nepohodlí způsobenému změnami teploty v těchto režimech.",
+    "CL_AC_leave_home_np_power_tips": "Klimatizace po delší dobu nedetekuje žádnou lidskou přítomnost a chystá se spustit automatické vypnutí. Potvrdit pokračování?",
+    "CL_AC_leave_home_np_power_button": "POTVRĎTE VYPNUTÍ"
 }

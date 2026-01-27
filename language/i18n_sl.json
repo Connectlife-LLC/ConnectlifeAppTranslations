@@ -7910,5 +7910,12 @@
     "CL_DV_EY_end_time1": "Končni čas1",
     "CL_DV_EY_zero_export_power": "Ničelna izvozna moč",
     "CL_DV_LRC_recommended_program_is_hidden": "Priporočeni program od {##} je skrit, prosimo, izberite ga ročno.",
-    "bms_bat_cell_max_temp": "Najvišja temperatura celice BMS BAT"
+    "bms_bat_cell_max_temp": "Najvišja temperatura celice BMS BAT",
+    "CL_AC_leave_home_np1": "Način največjega varčevanja",
+    "CL_AC_leave_home_np1_tips": "Sistem se bo po daljšem obdobju brez uporabe izklopil, da se poveča prihranek energije.",
+    "CL_AC_leave_home_np2": "Način udobnega zadrževanja",
+    "CL_AC_leave_home_np2_des": "Klimatska naprava bo še naprej delovala v načinu varčevanja z energijo, ki ga je nastavil proizvajalec, ko ni nikogar doma, da se ohrani osnovna raven udobja.",
+    "CL_AC_leave_home_np_notes": "Da bi se izognili nelagodju zaradi temperaturnih sprememb v teh načinih, se prepričajte, da v vašem domu ni nikogar.",
+    "CL_AC_leave_home_np_power_tips": "Klimatska naprava dlje časa ne zazna prisotnosti ljudi in se bo kmalu samodejno izklopila. Želite potrditi nadaljevanje?",
+    "CL_AC_leave_home_np_power_button": "POTRDI ZA IZKLOP"
 }

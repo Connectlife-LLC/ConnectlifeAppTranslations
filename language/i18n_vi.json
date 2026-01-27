@@ -7910,5 +7910,12 @@
     "CL_DV_EY_end_time1": "Thời gian kết thúc1",
     "CL_DV_EY_zero_export_power": "Không có điện xuất khẩu",
     "CL_DV_LRC_recommended_program_is_hidden": "Chương trình được đề xuất từ ​​{##} đang bị ẩn, vui lòng chọn thủ công.",
-    "bms_bat_cell_max_temp": "Nhiệt độ tối đa của pin BMS"
+    "bms_bat_cell_max_temp": "Nhiệt độ tối đa của pin BMS",
+    "CL_AC_leave_home_np1": "Chế độ tiết kiệm tối đa",
+    "CL_AC_leave_home_np1_tips": "Hệ thống sẽ tự động tắt sau một thời gian dài không có người sử dụng để tối đa hóa việc tiết kiệm năng lượng.",
+    "CL_AC_leave_home_np2": "Chế độ cầm nắm thoải mái",
+    "CL_AC_leave_home_np2_des": "Máy điều hòa sẽ tiếp tục hoạt động ở chế độ tiết kiệm năng lượng do nhà sản xuất thiết lập khi không có ai ở nhà để duy trì mức độ thoải mái cơ bản.",
+    "CL_AC_leave_home_np_notes": "Vui lòng đảm bảo nhà bạn không có người ở để tránh khó chịu do thay đổi nhiệt độ trong các chế độ này.",
+    "CL_AC_leave_home_np_power_tips": "Máy điều hòa không khí phát hiện không có người trong một thời gian dài và sắp tự động tắt. Bạn xác nhận để tiếp tục?",
+    "CL_AC_leave_home_np_power_button": "XÁC NHẬN ĐỂ TẮT"
 }
