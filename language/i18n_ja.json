@@ -7614,7 +7614,7 @@
     "CL_bind_phone_tips": "",
     "CL_CF_SD_sh_via_phone": "",
     "CL_CF_SD_share_via_phone": "",
-    "CL_AC_ai_leave_home": "AIが家を出る",
+    "CL_AC_ai_leave_home": "不在节电",
     "CL_AC_es_ai_leave_home": "AI外出モード",
     "CL_AC_es_ai_leave_mode": "AI外出モードを有効にする",
     "CL_AC_es_ai_leave_home_content": "注：AIお留守番モードでは、エアコンはメーカーが設定した省エネモードで運転します。このモードでは、室温の変化による不快感を避けるため、必ずご在宅の状態で運転してください。",
@@ -7910,5 +7910,13 @@
     "CL_DV_EY_end_time1": "終了時間1",
     "CL_DV_EY_zero_export_power": "輸出力ゼロ",
     "CL_DV_LRC_recommended_program_is_hidden": "{##} からの推奨プログラムは非表示になっています。手動で選択してください。",
-    "bms_bat_cell_max_temp": "BMS BATセル最大温度"
+    "bms_bat_cell_max_temp": "BMS BATセル最大温度",
+    "CL_AC_leave_home_np1": "最大節約モード",
+    "CL_AC_leave_home_np1_tips": "一定時間人が使用されていない場合は、エネルギーの節約を最大限にするためにシステムがオフになります。",
+    "CL_AC_leave_home_np2": "コンフォートホールドモード",
+    "CL_AC_leave_home_np2_des": "家に誰もいないときは、エアコンはメーカーが設定した省エネ状態で稼働し続け、基本的な快適レベルを維持します。",
+    "CL_AC_leave_home_np_notes": "これらのモードでは温度変化による不快感を避けるため、家に人がいないことを確認してください。",
+    "CL_AC_leave_home_np_power_tips": "エアコンは一定時間人がいないことを検知し、自動停止を開始します。続行しますか？",
+    "CL_AC_leave_home_np_power_button": "オフにするには確認",
+    "CL_AC_self_clean_error_tips": "セルフクリーニングが進行中のため、この操作は実行できません。"
 }
