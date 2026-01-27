@@ -7910,5 +7910,13 @@
     "CL_DV_EY_end_time1": "Czas zakończenia 1",
     "CL_DV_EY_zero_export_power": "Zerowa moc eksportowa",
     "CL_DV_LRC_recommended_program_is_hidden": "Polecany program z {##} jest ukryty, proszę wybrać ręcznie.",
-    "bms_bat_cell_max_temp": "Maksymalna temperatura ogniwa BMS BAT"
+    "bms_bat_cell_max_temp": "Maksymalna temperatura ogniwa BMS BAT",
+    "CL_AC_leave_home_np1": "Tryb maksymalnego oszczędzania",
+    "CL_AC_leave_home_np1_tips": "System wyłączy się po dłuższym okresie braku obecności w celu maksymalizacji oszczędności energii.",
+    "CL_AC_leave_home_np2": "Tryb trzymania komfortowego",
+    "CL_AC_leave_home_np2_des": "Gdy w domu nikogo nie ma, klimatyzator będzie działać w trybie oszczędzania energii ustawionym przez producenta, co pozwoli utrzymać podstawowy poziom komfortu.",
+    "CL_AC_leave_home_np_notes": "Upewnij się, że w domu nie ma nikogo, aby uniknąć dyskomfortu spowodowanego zmianami temperatury w tych trybach.",
+    "CL_AC_leave_home_np_power_tips": "Klimatyzator nie wykrył obecności człowieka przez dłuższy czas i za chwilę rozpocznie automatyczne wyłączenie. Czy potwierdzić, aby kontynuować?",
+    "CL_AC_leave_home_np_power_button": "POTWIERDŹ, ABY WYŁĄCZYĆ",
+    "CL_AC_self_clean_error_tips": "Trwa samoczyszczenie, tej operacji nie można wykonać."
 }
