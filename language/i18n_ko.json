@@ -7910,5 +7910,12 @@
     "CL_DV_EY_end_time1": "종료 시간1",
     "CL_DV_EY_zero_export_power": "수출 전력 제로",
     "CL_DV_LRC_recommended_program_is_hidden": "{##}에서 추천하는 프로그램이 숨겨져 있습니다. 수동으로 선택해 주세요.",
-    "bms_bat_cell_max_temp": "BMS 배터리 셀 최대 온도"
+    "bms_bat_cell_max_temp": "BMS 배터리 셀 최대 온도",
+    "CL_AC_leave_home_np1": "최대 절약 모드",
+    "CL_AC_leave_home_np1_tips": "장시간 사람이 없을 경우 에너지 절약을 극대화하기 위해 시스템이 자동으로 꺼집니다.",
+    "CL_AC_leave_home_np2": "편안한 그립 모드",
+    "CL_AC_leave_home_np2_des": "에어컨은 집에 아무도 없을 때에도 제조사에서 설정한 에너지 절약 모드로 계속 작동하여 기준이 되는 쾌적한 온도를 유지합니다.",
+    "CL_AC_leave_home_np_notes": "이러한 모드 전환 시 온도 변화로 인한 불편함을 방지하기 위해 집에 아무도 없는지 확인해 주십시오.",
+    "CL_AC_leave_home_np_power_tips": "에어컨이 장시간 사람의 움직임을 감지하지 못해 자동 종료를 준비합니다. 계속하시겠습니까?",
+    "CL_AC_leave_home_np_power_button": "전원을 끄려면 확인하세요"
 }

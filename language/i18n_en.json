@@ -7910,5 +7910,12 @@
     "CL_DV_EY_end_time1": "End Time1",
     "CL_DV_EY_zero_export_power": "Zero export power",
     "CL_DV_LRC_recommended_program_is_hidden": "Recommended program from {##} is hidden, please select manually.",
-    "bms_bat_cell_max_temp": "BMS BAT Cell Max Temp"
+    "bms_bat_cell_max_temp": "BMS BAT Cell Max Temp",
+    "CL_AC_leave_home_np1": "Max savings mode",
+    "CL_AC_leave_home_np1_tips": "The system will turn off after an extended period of no occupancy to maximize energy savings.",
+    "CL_AC_leave_home_np2": "Comfort hold mode",
+    "CL_AC_leave_home_np2_des": "The AC will continue to run in a manufacturer-set energy-saving state when no one is home to maintain a baseline comfort level.",
+    "CL_AC_leave_home_np_notes": "Please ensure your home is unoccupied to avoid discomfort due to temperature changes in these modes.",
+    "CL_AC_leave_home_np_power_tips": "The air conditioner detects no human presence for an extended period and is about to initiate auto-shutdown. Confirm to proceed?",
+    "CL_AC_leave_home_np_power_button": "CONFIRM TO TURN OFF"
 }

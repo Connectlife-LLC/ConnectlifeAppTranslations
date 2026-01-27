@@ -7910,5 +7910,12 @@
     "CL_DV_EY_end_time1": "Eindtijd1",
     "CL_DV_EY_zero_export_power": "Nul exportvermogen",
     "CL_DV_LRC_recommended_program_is_hidden": "Het aanbevolen programma van {##} is verborgen, selecteer het handmatig.",
-    "bms_bat_cell_max_temp": "BMS BAT-cel maximale temperatuur"
+    "bms_bat_cell_max_temp": "BMS BAT-cel maximale temperatuur",
+    "CL_AC_leave_home_np1": "Maximale besparingsmodus",
+    "CL_AC_leave_home_np1_tips": "Het systeem schakelt zichzelf na een langere periode van inactiviteit uit om maximaal energie te besparen.",
+    "CL_AC_leave_home_np2": "Comfort-houdmodus",
+    "CL_AC_leave_home_np2_des": "De airconditioning blijft in een door de fabrikant ingestelde energiebesparende stand draaien wanneer er niemand thuis is, om een ​​basiscomfortniveau te handhaven.",
+    "CL_AC_leave_home_np_notes": "Zorg ervoor dat uw huis onbewoond is om ongemak door temperatuurschommelingen in deze standen te voorkomen.",
+    "CL_AC_leave_home_np_power_tips": "De airconditioner detecteert gedurende langere tijd geen menselijke aanwezigheid en staat op het punt automatisch uit te schakelen. Wilt u doorgaan?",
+    "CL_AC_leave_home_np_power_button": "BEVESTIG DAT U HET UITSCHAKELEN WILT"
 }

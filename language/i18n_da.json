@@ -7910,5 +7910,12 @@
     "CL_DV_EY_end_time1": "Sluttidspunkt1",
     "CL_DV_EY_zero_export_power": "Nul eksportkraft",
     "CL_DV_LRC_recommended_program_is_hidden": "Anbefalet program fra {##} er skjult, vælg venligst manuelt.",
-    "bms_bat_cell_max_temp": "BMS BAT Celle Maks. Temp."
+    "bms_bat_cell_max_temp": "BMS BAT Celle Maks. Temp.",
+    "CL_AC_leave_home_np1": "Maksimal sparetilstand",
+    "CL_AC_leave_home_np1_tips": "Systemet slukker efter en længere periode uden tilstedeværelse for at maksimere energibesparelserne.",
+    "CL_AC_leave_home_np2": "Komfortholdtilstand",
+    "CL_AC_leave_home_np2_des": "Klimaanlægget vil fortsætte med at køre i en producentindstillet energibesparende tilstand, når der ikke er nogen hjemme, for at opretholde et grundlæggende komfortniveau.",
+    "CL_AC_leave_home_np_notes": "Sørg for, at der ikke er personer i dit hjem for at undgå ubehag på grund af temperaturændringer i disse tilstande.",
+    "CL_AC_leave_home_np_power_tips": "Klimaanlægget registrerer ingen menneskelig tilstedeværelse i en længere periode og er ved at starte automatisk slukning. Bekræft for at fortsætte?",
+    "CL_AC_leave_home_np_power_button": "BEKRÆFT FOR AT SLUKKE"
 }

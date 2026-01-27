@@ -7910,5 +7910,12 @@
     "CL_DV_EY_end_time1": "Sluttid1",
     "CL_DV_EY_zero_export_power": "Noll exportkraft",
     "CL_DV_LRC_recommended_program_is_hidden": "Rekommenderat program från {##} är dolt, vänligen välj manuellt.",
-    "bms_bat_cell_max_temp": "BMS BAT Cell Max Temp"
+    "bms_bat_cell_max_temp": "BMS BAT Cell Max Temp",
+    "CL_AC_leave_home_np1": "Maximalt sparläge",
+    "CL_AC_leave_home_np1_tips": "Systemet stängs av efter en längre period utan närvaro för att maximera energibesparingen.",
+    "CL_AC_leave_home_np2": "Komfortläge",
+    "CL_AC_leave_home_np2_des": "Luftkonditioneringen fortsätter att gå i ett energisparläge som ställts in av tillverkaren när ingen är hemma för att bibehålla en grundläggande komfortnivå.",
+    "CL_AC_leave_home_np_notes": "Se till att ditt hem är tomt för att undvika obehag på grund av temperaturförändringar i dessa lägen.",
+    "CL_AC_leave_home_np_power_tips": "Luftkonditioneringen detekterar ingen mänsklig närvaro under en längre tid och är på väg att initiera automatisk avstängning. Bekräfta att du vill fortsätta?",
+    "CL_AC_leave_home_np_power_button": "BEKRÄFTA FÖR ATT STÄNGA AV"
 }
