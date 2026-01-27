@@ -7614,7 +7614,7 @@
     "CL_bind_phone_tips": "",
     "CL_CF_SD_sh_via_phone": "",
     "CL_CF_SD_share_via_phone": "",
-    "CL_AC_ai_leave_home": "AIが家を出る",
+    "CL_AC_ai_leave_home": "不在节电",
     "CL_AC_es_ai_leave_home": "AI外出モード",
     "CL_AC_es_ai_leave_mode": "AI外出モードを有効にする",
     "CL_AC_es_ai_leave_home_content": "注：AIお留守番モードでは、エアコンはメーカーが設定した省エネモードで運転します。このモードでは、室温の変化による不快感を避けるため、必ずご在宅の状態で運転してください。",
