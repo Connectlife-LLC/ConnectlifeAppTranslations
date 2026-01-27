@@ -7910,5 +7910,13 @@
     "CL_DV_EY_end_time1": "Päättymisaika1",
     "CL_DV_EY_zero_export_power": "Nolla vientitehoa",
     "CL_DV_LRC_recommended_program_is_hidden": "Suositeltu ohjelma käyttäjältä {##} on piilotettu, valitse manuaalisesti.",
-    "bms_bat_cell_max_temp": "BMS BAT -kennon maksimilämpötila"
+    "bms_bat_cell_max_temp": "BMS BAT -kennon maksimilämpötila",
+    "CL_AC_leave_home_np1": "Maksimi säästötila",
+    "CL_AC_leave_home_np1_tips": "Järjestelmä sammuu pitkän poissaolon jälkeen energiansäästön maksimoimiseksi.",
+    "CL_AC_leave_home_np2": "Mukavuuspitotila",
+    "CL_AC_leave_home_np2_des": "Ilmastointilaite jatkaa toimimista valmistajan asettamassa energiansäästötilassa, kun ketään ei ole kotona, jotta perusmukavuustaso säilyy.",
+    "CL_AC_leave_home_np_notes": "Varmista, että kotisi on tyhjillään, jotta vältyt lämpötilanmuutosten aiheuttamilta epämukavuuksilta näissä tiloissa.",
+    "CL_AC_leave_home_np_power_tips": "Ilmastointilaite ei havaitse ihmisen läsnäoloa pitkään aikaan ja on käynnistämässä automaattisen sammutuksen. Vahvistetaanko jatkaaksesi?",
+    "CL_AC_leave_home_np_power_button": "VAHVISTA POIS PÄÄLTÄ",
+    "CL_AC_self_clean_error_tips": "Itsepuhdistus on käynnissä, tätä toimintoa ei voida suorittaa."
 }
