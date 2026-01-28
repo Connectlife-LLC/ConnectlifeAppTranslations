@@ -7910,5 +7910,19 @@
     "CL_DV_EY_end_time1": "שעת סיום 1",
     "CL_DV_EY_zero_export_power": "אפס כוח יצוא",
     "CL_DV_LRC_recommended_program_is_hidden": "התוכנית המומלצת מ-{##} מוסתרת, אנא בחר ידנית.",
-    "bms_bat_cell_max_temp": "טמפרטורת מקסימום תא BMS"
+    "bms_bat_cell_max_temp": "טמפרטורת מקסימום תא BMS",
+    "CL_AC_leave_home_np1": "מצב חיסכון מקסימלי",
+    "CL_AC_leave_home_np1_tips": "המערכת תכבה לאחר תקופה ממושכת של חוסר נוכחות כדי למקסם את חיסכון האנרגיה.",
+    "CL_AC_leave_home_np2": "מצב אחיזה נוח",
+    "CL_AC_leave_home_np2_des": "המזגן ימשיך לפעול במצב חיסכון באנרגיה שנקבע על ידי היצרן כאשר אין אף אחד בבית, כדי לשמור על רמת נוחות בסיסית.",
+    "CL_AC_leave_home_np_notes": "אנא ודאו שהבית שלכם ריק כדי למנוע אי נוחות עקב שינויי טמפרטורה במצבים אלה.",
+    "CL_AC_leave_home_np_power_tips": "המזגן לא מזהה נוכחות אנושית למשך זמן ממושך ועומד להתחיל כיבוי אוטומטי. האם לאשר להמשיך?",
+    "CL_AC_leave_home_np_power_button": "אשר את הכיבוי",
+    "CL_AC_self_clean_error_tips": "ניקוי עצמי מתבצע, לא ניתן לבצע פעולה זו.",
+    "CL_TS_dynamic_tariff": "תעריף דינמי",
+    "CL_TS_fixed_tariff": "תעריף קבוע",
+    "CL_TS_electricity_price": "מחיר החשמל",
+    "CL_TS_fixed_tariff_tips": "הגדר ידנית את תעריף החשמל.",
+    "CL_TS_peak_rates": "תעריפי שיא/שפל",
+    "CL_TS_input_electricity_price": "מחיר חשמל קלט"
 }

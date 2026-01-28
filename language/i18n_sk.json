@@ -7910,5 +7910,19 @@
     "CL_DV_EY_end_time1": "Čas ukončenia 1",
     "CL_DV_EY_zero_export_power": "Nulová exportná sila",
     "CL_DV_LRC_recommended_program_is_hidden": "Odporúčaný program od {##} je skrytý, vyberte ho manuálne.",
-    "bms_bat_cell_max_temp": "Maximálna teplota článku BMS BAT"
+    "bms_bat_cell_max_temp": "Maximálna teplota článku BMS BAT",
+    "CL_AC_leave_home_np1": "Režim maximálnej úspory",
+    "CL_AC_leave_home_np1_tips": "Systém sa po dlhšom období neprítomnosti v miestnosti vypne, aby sa maximalizovala úspora energie.",
+    "CL_AC_leave_home_np2": "Režim komfortného udržiavania",
+    "CL_AC_leave_home_np2_des": "Klimatizácia bude pokračovať v režime úspory energie nastavenom výrobcom, keď nikto nebude doma, aby sa udržala základná úroveň komfortu.",
+    "CL_AC_leave_home_np_notes": "Uistite sa, že váš domov nie je obsadený, aby ste predišli nepohodliu spôsobenému zmenami teploty v týchto režimoch.",
+    "CL_AC_leave_home_np_power_tips": "Klimatizácia dlhší čas nedetekuje žiadnu ľudskú prítomnosť a chystá sa spustiť automatické vypnutie. Potvrdiť pokračovanie?",
+    "CL_AC_leave_home_np_power_button": "POTVRDTE VYPNUTIE",
+    "CL_AC_self_clean_error_tips": "Prebieha samočistenie, túto operáciu nie je možné vykonať.",
+    "CL_TS_dynamic_tariff": "Dynamická tarifa",
+    "CL_TS_fixed_tariff": "Pevná tarifa",
+    "CL_TS_electricity_price": "Cena elektriny",
+    "CL_TS_fixed_tariff_tips": "Ručne nastavte sadzbu elektriny.",
+    "CL_TS_peak_rates": "Sadzby v špičke/mimo špičky",
+    "CL_TS_input_electricity_price": "Cena vstupnej elektriny"
 }
