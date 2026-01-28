@@ -7910,5 +7910,19 @@
     "CL_DV_EY_end_time1": "Bitiş Zamanı1",
     "CL_DV_EY_zero_export_power": "Sıfır ihracat gücü",
     "CL_DV_LRC_recommended_program_is_hidden": "{##} tarafından önerilen program gizlenmiştir, lütfen manuel olarak seçin.",
-    "bms_bat_cell_max_temp": "BMS BAT Hücresi Maksimum Sıcaklığı"
+    "bms_bat_cell_max_temp": "BMS BAT Hücresi Maksimum Sıcaklığı",
+    "CL_AC_leave_home_np1": "Maksimum tasarruf modu",
+    "CL_AC_leave_home_np1_tips": "Sistem, enerji tasarrufunu en üst düzeye çıkarmak için uzun süre kullanılmadığında otomatik olarak kapanacaktır.",
+    "CL_AC_leave_home_np2": "Konfor tutma modu",
+    "CL_AC_leave_home_np2_des": "Evde kimse olmadığında, klima üretici tarafından ayarlanmış enerji tasarrufu modunda çalışmaya devam ederek temel konfor seviyesini koruyacaktır.",
+    "CL_AC_leave_home_np_notes": "Bu modlarda sıcaklık değişimlerinden kaynaklanabilecek rahatsızlıkları önlemek için lütfen evinizin boş olduğundan emin olun.",
+    "CL_AC_leave_home_np_power_tips": "Klima uzun süre insan varlığını algılamadı ve otomatik kapanma işlemine başlamak üzere. Devam etmek için onaylıyor musunuz?",
+    "CL_AC_leave_home_np_power_button": "KAPATMAK İÇİN ONAYLAYIN",
+    "CL_AC_self_clean_error_tips": "Otomatik temizleme işlemi devam ediyor, bu işlem gerçekleştirilemez.",
+    "CL_TS_dynamic_tariff": "Dinamik tarife",
+    "CL_TS_fixed_tariff": "Sabit tarife",
+    "CL_TS_electricity_price": "Elektrik fiyatı",
+    "CL_TS_fixed_tariff_tips": "Elektrik tarifesini manuel olarak ayarlayın.",
+    "CL_TS_peak_rates": "Zirve/Düşük sezon tarifeleri",
+    "CL_TS_input_electricity_price": "Girdi elektriği fiyatı"
 }

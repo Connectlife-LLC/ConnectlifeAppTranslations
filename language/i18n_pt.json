@@ -7910,5 +7910,19 @@
     "CL_DV_EY_end_time1": "Fim do Tempo1",
     "CL_DV_EY_zero_export_power": "Energia de exportação zero",
     "CL_DV_LRC_recommended_program_is_hidden": "O programa recomendado de {##} está oculto; selecione-o manualmente.",
-    "bms_bat_cell_max_temp": "Temperatura máxima da célula BMS BAT"
+    "bms_bat_cell_max_temp": "Temperatura máxima da célula BMS BAT",
+    "CL_AC_leave_home_np1": "Modo de economia máxima",
+    "CL_AC_leave_home_np1_tips": "O sistema será desligado após um período prolongado de desocupação para maximizar a economia de energia.",
+    "CL_AC_leave_home_np2": "Modo de retenção confortável",
+    "CL_AC_leave_home_np2_des": "O ar condicionado continuará funcionando em um modo de economia de energia definido pelo fabricante quando não houver ninguém em casa, para manter um nível básico de conforto.",
+    "CL_AC_leave_home_np_notes": "Certifique-se de que sua casa esteja desocupada para evitar desconforto devido às mudanças de temperatura nesses modos.",
+    "CL_AC_leave_home_np_power_tips": "O ar-condicionado não detectou a presença de pessoas por um período prolongado e está prestes a iniciar o desligamento automático. Confirma para prosseguir?",
+    "CL_AC_leave_home_np_power_button": "CONFIRME PARA DESLIGAR",
+    "CL_AC_self_clean_error_tips": "Autolimpeza em andamento; esta operação não pode ser realizada.",
+    "CL_TS_dynamic_tariff": "Tarifa dinâmica",
+    "CL_TS_fixed_tariff": "Tarifa fixa",
+    "CL_TS_electricity_price": "Preço da eletricidade",
+    "CL_TS_fixed_tariff_tips": "Defina manualmente a tarifa de eletricidade.",
+    "CL_TS_peak_rates": "Tarifas de pico/fora de pico",
+    "CL_TS_input_electricity_price": "preço da eletricidade de entrada"
 }

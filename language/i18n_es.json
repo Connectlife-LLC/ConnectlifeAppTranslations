@@ -7910,5 +7910,19 @@
     "CL_DV_EY_end_time1": "Fin del tiempo1",
     "CL_DV_EY_zero_export_power": "Cero poder exportador",
     "CL_DV_LRC_recommended_program_is_hidden": "El programa recomendado de {##} está oculto, selecciónelo manualmente.",
-    "bms_bat_cell_max_temp": "Temperatura máxima de la celda BMS BAT"
+    "bms_bat_cell_max_temp": "Temperatura máxima de la celda BMS BAT",
+    "CL_AC_leave_home_np1": "Modo de ahorro máximo",
+    "CL_AC_leave_home_np1_tips": "El sistema se apagará después de un período prolongado sin ocupación para maximizar el ahorro de energía.",
+    "CL_AC_leave_home_np2": "Modo de sujeción cómoda",
+    "CL_AC_leave_home_np2_des": "El aire acondicionado continuará funcionando en un estado de ahorro de energía configurado por el fabricante cuando no haya nadie en casa para mantener un nivel de comodidad base.",
+    "CL_AC_leave_home_np_notes": "Asegúrese de que su casa esté desocupada para evitar molestias debido a los cambios de temperatura en estos modos.",
+    "CL_AC_leave_home_np_power_tips": "El aire acondicionado no detecta presencia humana durante un periodo prolongado y está a punto de apagarse automáticamente. ¿Desea confirmar para continuar?",
+    "CL_AC_leave_home_np_power_button": "CONFIRMAR PARA APAGAR",
+    "CL_AC_self_clean_error_tips": "Autolimpieza en curso, esta operación no se puede realizar.",
+    "CL_TS_dynamic_tariff": "Tarifa dinámica",
+    "CL_TS_fixed_tariff": "Tarifa fija",
+    "CL_TS_electricity_price": "Precio de la electricidad",
+    "CL_TS_fixed_tariff_tips": "Establecer manualmente la tarifa eléctrica.",
+    "CL_TS_peak_rates": "Tarifas de horas punta/fuera de horas punta",
+    "CL_TS_input_electricity_price": "Precio de la electricidad de entrada"
 }
