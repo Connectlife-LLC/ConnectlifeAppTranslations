@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Modo IA (para respuesta de precios en tiempo real)",
     "CL_login_bind_tips": "Ya atado",
     "self_consume": "Autoconsumo",
-    "peak_shift": "Cambio de hora punta",
     "bat_priority": "Prioridad de murciélagos",
     "CL_DV_EY_device_not_found_tips": "Dispositivo no encontrado, acérquese y vuelva a intentarlo.",
     "CL_bind_suc": "éxito del enlace",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Crea tu propia receta",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Antes de limpiar: \n - Retire el hielo del depósito de hielo y llene el tanque de agua con agua. \n - Asegúrese de que las puertas del refrigerador y del congelador estén cerradas. \n Después de completar lo anterior, inicie la función de limpieza de la máquina de hielo. \n 2. Durante la limpieza: \n - Un solo ciclo de limpieza toma aproximadamente 2 minutos. La fabricación de hielo se detendrá durante este tiempo. Espere hasta que se complete la limpieza. \n 3. Después de limpiar: \n - Vacíe el agua restante del depósito de hielo y límpielo antes de reiniciar la fabricación de hielo para evitar contaminar el hielo nuevo. \n - Cuando finalice la limpieza, la unidad cambiará automáticamente al modo normal de fabricación de hielo. Si no necesita continuar fabricando hielo, apague la máquina de hielo.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Precauciones de limpieza",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Antes de limpiar, revise atentamente las precauciones de limpieza en la sección \"Más información\" y realice los preparativos necesarios. El proceso de limpieza dura aproximadamente 2 minutos. Una vez finalizado, limpie rápidamente la bandeja de hielo para evitar que se contamine durante la fabricación.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Antes de limpiar, revise atentamente las precauciones de limpieza en '<b>Más información</b>y realice los preparativos necesarios. El proceso de limpieza dura aproximadamente 2 minutos. Una vez finalizado, limpie rápidamente la bandeja de hielo para evitar que se contamine durante la fabricación.",
     "CL_protocol_up_content": "Le damos la bienvenida a la aplicación Hisense ConnectLife ASIA. Recientemente hemos actualizado la aplicación. <b>Política de privacidad.</b> Para proteger mejor sus derechos, lea atentamente esta política antes de usar la aplicación Hisense ConnectLife ASIA. Al hacer clic en \"Aceptar\", significa que acepta la política anterior. Si no la acepta, no podremos usar nuestros servicios.",
     "CL_phone_incorrect": "Número de teléfono incorrecto",
     "CL_CF_US_auth_code_error_re": "Error en el código de verificación o caducado, inténtalo de nuevo.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Los datos de facturación históricos pueden volverse inexactos después de cambiar la unidad monetaria.",
     "CL_DV_WM_dirt_light": "Luz",
     "CL_DV_WM_dirt_medium": "Media",
-    "CL_DV_WM_dirt_heavy": "Alto"
+    "CL_DV_WM_dirt_heavy": "Alto",
+    "CL_DV_EY_clean": "Limpio",
+    "CL_DV_EY_voltage_range_tips": "El umbral de sobretensión debe establecerse en un valor más alto que el umbral de subtensión.",
+    "CL_DV_EY_frequency_range_tips": "La frecuencia alta de la red debe configurarse más alta que la frecuencia baja de la red.",
+    "CL_DV_EY_ble_disconnected_tips": "La conexión Bluetooth se ha desconectado. Comprueba el estado del Bluetooth de tu teléfono.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH PERDIDO",
+    "CL_DV_EY_ble_upgrading_tips": "El sistema de almacenamiento de energía se encuentra en proceso de actualización. Inténtelo de nuevo una vez finalizada la actualización.",
+    "rated_power": "Potencia nominal"
 }

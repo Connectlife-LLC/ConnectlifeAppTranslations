@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Modo IA (para resposta de preços em tempo real)",
     "CL_login_bind_tips": "Já vinculado",
     "self_consume": "Autoconsumo",
-    "peak_shift": "Deslocamento de pico",
     "bat_priority": "Prioridade do morcego",
     "CL_DV_EY_device_not_found_tips": "Dispositivo não encontrado. Por favor, aproxime-se e tente novamente.",
     "CL_bind_suc": "sucesso na vinculação",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Crie sua própria receita",
     "CL_DV_RF_ice_maker_cleaning_desc": "\n Antes da limpeza: - Remova todo o gelo do compartimento de gelo e encha o reservatório de água. - \n -se de que as portas do refrigerador e do freezer estejam fechadas. \n Após concluir os passos acima, inicie a função de limpeza da máquina de gelo. \n \n Durante a limpeza: - Um ciclo de limpeza leva cerca de 2 minutos. A produção de gelo será interrompida durante esse período. Aguarde até que a limpeza seja concluída. \n 3. Após a limpeza: \n Esvazie a água restante do compartimento de gelo e limpe-o antes de reiniciar a produção de gelo para evitar a contaminação do novo gelo. \n Ao término da limpeza, o aparelho retornará automaticamente ao modo normal de produção de gelo. Se não precisar mais produzir gelo, desligue a máquina de gelo.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Precauções de limpeza",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Antes de limpar, leia atentamente as precauções de limpeza na seção \"Saiba mais\" e faça os preparativos necessários. O processo de limpeza leva aproximadamente 2 minutos. Após a conclusão, limpe imediatamente a bandeja de gelo para evitar a contaminação do gelo durante o processo de fabricação de gelo.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Antes de limpar, por favor, revise cuidadosamente as precauções de limpeza em '<b>Saber mais</b>Na seção ' e faça os preparativos necessários. O processo de limpeza leva aproximadamente 2 minutos. Assim que estiver concluído, limpe imediatamente a bandeja de gelo para evitar a contaminação do gelo durante o processo de fabricação de gelo.",
     "CL_protocol_up_content": "Bem-vindo ao aplicativo Hisense ConnectLife ASIA. Atualizamos recentemente o aplicativo. <b>Política de Privacidade.</b> Para melhor proteger seus direitos, leia esta política atentamente antes de usar o aplicativo Hisense ConnectLife ASIA. Clicar em \"Concordo\" significa que você concorda com a política acima. Caso não concorde, não será possível utilizar nossos serviços.",
     "CL_phone_incorrect": "Número de telefone incorreto",
     "CL_CF_US_auth_code_error_re": "O código de verificação apresentou erro ou expirou. Tente novamente.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Os dados históricos de faturamento podem ficar imprecisos após a alteração da unidade monetária.",
     "CL_DV_WM_dirt_light": "Luz",
     "CL_DV_WM_dirt_medium": "Médio",
-    "CL_DV_WM_dirt_heavy": "Alto"
+    "CL_DV_WM_dirt_heavy": "Alto",
+    "CL_DV_EY_clean": "Limpar",
+    "CL_DV_EY_voltage_range_tips": "O limite de sobretensão deve ser definido acima do limite de subtensão.",
+    "CL_DV_EY_frequency_range_tips": "A frequência alta da rede deve ser definida em um valor superior à frequência baixa da rede.",
+    "CL_DV_EY_ble_disconnected_tips": "A conexão Bluetooth foi desconectada. Verifique o status do Bluetooth no seu telefone.",
+    "CL_DV_EY_ble_lost": "PERDIDO O BLUETOOTH",
+    "CL_DV_EY_ble_upgrading_tips": "O sistema de armazenamento de energia está passando por uma atualização. Tente novamente após a conclusão da atualização.",
+    "rated_power": "Potência nominal"
 }

@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "AI-modus (for prisrespons i sanntid)",
     "CL_login_bind_tips": "Allerede bundet",
     "self_consume": "Selvforbruk",
-    "peak_shift": "Toppskifte",
     "bat_priority": "Flaggermusprioritet",
     "CL_DV_EY_device_not_found_tips": "Enheten ble ikke funnet. Flytt deg nærmere og prøv på nytt.",
     "CL_bind_suc": "bindingssuksess",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Lag din egen oppskrift",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Før rengjøring: \n - Fjern all is fra isbeholderen og fyll vanntanken med vann. \n - Sørg for at kjøleskaps- og fryserdørene er lukket. \n Etter at du har fullført ovenstående, start ismaskinens rengjøringsfunksjon. \n 2. Under rengjøring: \n - En enkelt rengjøringssyklus tar omtrent 2 minutter. Isproduksjonen vil pause i løpet av denne tiden. Vent til rengjøringen er fullført. \n 3. Etter rengjøring: \n - Tøm eventuelt gjenværende vann fra isbeholderen og rengjør beholderen før du starter isproduksjonen på nytt for å unngå å forurense ny is. \n - Når rengjøringen er ferdig, vil enheten automatisk gå over til normal isproduksjonsmodus. Hvis du ikke trenger å fortsette å lage is, må du slå av ismaskinen.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Rengjøringsforholdsregler",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Før rengjøring, vennligst les nøye gjennom rengjøringsreglene i avsnittet «Finn ut mer» og gjør nødvendige forberedelser. Rengjøringsprosessen tar omtrent 2 minutter. Når den er fullført, rengjør isbrettet umiddelbart for å unngå at isen forurenses under isproduksjonsprosessen.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Før rengjøring, vennligst les nøye gjennom rengjøringsreglene i '<b>Lær mer</b>'-delen og gjør de nødvendige forberedelsene. Rengjøringsprosessen tar omtrent 2 minutter. Når den er fullført, rengjør isbrettet umiddelbart for å unngå at isen forurenses under isproduksjonsprosessen.",
     "CL_protocol_up_content": "Velkommen til å bruke Hisense ConnectLife ASIA-appen. Vi har nylig oppdatert appens <b>Personvernregler.</b> For å bedre beskytte dine rettigheter, vennligst les disse retningslinjene nøye før du bruker Hisense ConnectLife ASIA-appen. Hvis du klikker på «godta», godtar du retningslinjene ovenfor. Hvis du ikke godtar, vil vi ikke kunne bruke tjenestene våre.",
     "CL_phone_incorrect": "Feil telefonnummer",
     "CL_CF_US_auth_code_error_re": "Feil med bekreftelseskode eller utløpt. Prøv på nytt.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Historiske faktureringsdata kan bli unøyaktige etter at valutaenheten er endret.",
     "CL_DV_WM_dirt_light": "Lys",
     "CL_DV_WM_dirt_medium": "Medium",
-    "CL_DV_WM_dirt_heavy": "Tung"
+    "CL_DV_WM_dirt_heavy": "Tung",
+    "CL_DV_EY_clean": "Rengjøre",
+    "CL_DV_EY_voltage_range_tips": "Overspenningsterskelen må settes høyere enn underspenningsterskelen.",
+    "CL_DV_EY_frequency_range_tips": "Nettfrekvensen høy må settes høyere enn nettfrekvensen lav.",
+    "CL_DV_EY_ble_disconnected_tips": "Bluetooth-tilkoblingen er frakoblet. Sjekk telefonens Bluetooth-status.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH MISTET",
+    "CL_DV_EY_ble_upgrading_tips": "Energilagringssystemet oppgraderes for tiden. Prøv igjen etter at oppgraderingen er fullført.",
+    "rated_power": "Nominell effekt"
 }
