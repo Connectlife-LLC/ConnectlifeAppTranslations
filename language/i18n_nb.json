@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Bluetooth-tilkoblingen er frakoblet. Sjekk telefonens Bluetooth-status.",
     "CL_DV_EY_ble_lost": "BLUETOOTH MISTET",
     "CL_DV_EY_ble_upgrading_tips": "Energilagringssystemet oppgraderes for tiden. Prøv igjen etter at oppgraderingen er fullført.",
-    "rated_power": "Nominell effekt"
+    "rated_power": "Nominell effekt",
+    "CL_AC_human_error_tips": "Kan ikke angi denne funksjonen. Sjekk om det er noen feil på sensoren for menneskelig tilstedeværelse."
 }

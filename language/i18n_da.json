@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Bluetooth-forbindelsen er blevet afbrudt. Kontroller venligst din telefons Bluetooth-status.",
     "CL_DV_EY_ble_lost": "BLUETOOTH MISTE",
     "CL_DV_EY_ble_upgrading_tips": "Energilagringssystemet er i øjeblikket under opgradering. Prøv igen, når opgraderingen er fuldført.",
-    "rated_power": "Nominel effekt"
+    "rated_power": "Nominel effekt",
+    "CL_AC_human_error_tips": "Denne funktion kunne ikke indstilles. Kontroller venligst for funktionsfejl i tilstedeværelsessensoren."
 }

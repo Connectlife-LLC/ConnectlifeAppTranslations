@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "A Bluetooth-kapcsolat megszakadt. Kérjük, ellenőrizze a telefon Bluetooth-állapotát.",
     "CL_DV_EY_ble_lost": "BLUETOOTH ELVESZETT",
     "CL_DV_EY_ble_upgrading_tips": "Az energiatároló rendszer jelenleg frissítés alatt áll. Kérjük, próbálja újra a frissítés befejezése után.",
-    "rated_power": "Névleges teljesítmény"
+    "rated_power": "Névleges teljesítmény",
+    "CL_AC_human_error_tips": "Nem sikerült beállítani ezt a funkciót. Ellenőrizze az emberi jelenlét érzékelő hibás működését."
 }

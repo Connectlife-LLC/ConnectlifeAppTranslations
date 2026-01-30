@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "蓝牙连接已断开。请检查手机的蓝牙状态。",
     "CL_DV_EY_ble_lost": "蓝牙连接丢失",
     "CL_DV_EY_ble_upgrading_tips": "储能系统目前正在升级，请待升级完成后再试。",
-    "rated_power": "额定功率"
+    "rated_power": "额定功率",
+    "CL_AC_human_error_tips": "无法设置此功能。请检查人体感应器是否出现故障。"
 }

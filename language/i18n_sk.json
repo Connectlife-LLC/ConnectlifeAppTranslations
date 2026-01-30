@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Pripojenie Bluetooth bolo prerušené. Skontrolujte stav Bluetooth vášho telefónu.",
     "CL_DV_EY_ble_lost": "STRATA BLUETOOTH",
     "CL_DV_EY_ble_upgrading_tips": "Systém skladovania energie sa momentálne aktualizuje. Skúste to znova po dokončení aktualizácie.",
-    "rated_power": "Menovitý výkon"
+    "rated_power": "Menovitý výkon",
+    "CL_AC_human_error_tips": "Túto funkciu nie je možné nastaviť. Skontrolujte, či nedochádza k poruche snímača ľudskej prítomnosti."
 }

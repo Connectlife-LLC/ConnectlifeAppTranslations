@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "De Bluetooth-verbinding is verbroken. Controleer de Bluetooth-status van uw telefoon.",
     "CL_DV_EY_ble_lost": "BLUETOOTH VERLOREN",
     "CL_DV_EY_ble_upgrading_tips": "Het energieopslagsysteem wordt momenteel geüpgraded. Probeer het na de upgrade opnieuw.",
-    "rated_power": "Nominaal vermogen"
+    "rated_power": "Nominaal vermogen",
+    "CL_AC_human_error_tips": "Deze functie kan niet worden ingesteld. Controleer of de aanwezigheidssensor defect is."
 }

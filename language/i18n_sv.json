@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Bluetooth-anslutningen har kopplats bort. Kontrollera telefonens Bluetooth-status.",
     "CL_DV_EY_ble_lost": "BLUETOOTH FÖRLORAD",
     "CL_DV_EY_ble_upgrading_tips": "Energilagringssystemet uppgraderas för närvarande. Försök igen när uppgraderingen är klar.",
-    "rated_power": "Nominell effekt"
+    "rated_power": "Nominell effekt",
+    "CL_AC_human_error_tips": "Det gick inte att ställa in den här funktionen. Kontrollera om det finns några fel på närvarosensorn."
 }

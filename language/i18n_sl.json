@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Povezava Bluetooth je bila prekinjena. Preverite stanje povezave Bluetooth v telefonu.",
     "CL_DV_EY_ble_lost": "IZGUBLJEN BLUETOOTH",
     "CL_DV_EY_ble_upgrading_tips": "Sistem za shranjevanje energije se trenutno nadgrajuje. Poskusite znova po končani nadgradnji.",
-    "rated_power": "Nazivna moč"
+    "rated_power": "Nazivna moč",
+    "CL_AC_human_error_tips": "Te funkcije ni mogoče nastaviti. Preverite morebitne okvare senzorja prisotnosti osebe."
 }

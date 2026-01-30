@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Sambungan Bluetooth telah diputuskan sambungannya. Sila semak status Bluetooth telefon anda.",
     "CL_DV_EY_ble_lost": "BLUETOOTH HILANG",
     "CL_DV_EY_ble_upgrading_tips": "Sistem storan tenaga sedang menjalani penaiktarafan. Sila cuba lagi selepas penaiktarafan selesai.",
-    "rated_power": "Kuasa yang dinilai"
+    "rated_power": "Kuasa yang dinilai",
+    "CL_AC_human_error_tips": "Tidak dapat menetapkan fungsi ini. Sila semak kerosakan sensor kehadiran manusia."
 }

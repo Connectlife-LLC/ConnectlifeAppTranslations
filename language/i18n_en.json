@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "The Bluetooth connection has been disconnected. Please check your phone's Bluetooth status.",
     "CL_DV_EY_ble_lost": "BLUETOOTH LOST",
     "CL_DV_EY_ble_upgrading_tips": "The energy storage system is currently undergoing an upgrade. Please try again after the upgrade is complete.",
-    "rated_power": "Rated power"
+    "rated_power": "Rated power",
+    "CL_AC_human_error_tips": "Unable to set this function. Please check for human presence sensor malfunctions."
 }

@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Die Bluetooth-Verbindung wurde getrennt. Bitte überprüfen Sie den Bluetooth-Status Ihres Telefons.",
     "CL_DV_EY_ble_lost": "BLUETOOTH VERLOREN",
     "CL_DV_EY_ble_upgrading_tips": "Das Energiespeichersystem wird derzeit modernisiert. Bitte versuchen Sie es nach Abschluss der Modernisierung erneut.",
-    "rated_power": "Nennleistung"
+    "rated_power": "Nennleistung",
+    "CL_AC_human_error_tips": "Diese Funktion konnte nicht eingestellt werden. Bitte überprüfen Sie den Anwesenheitssensor auf Fehlfunktionen."
 }
