@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "AI 모드(실시간 가격 대응용)",
     "CL_login_bind_tips": "이미 확정됨",
     "self_consume": "자가 소비",
-    "peak_shift": "피크 시프트",
     "bat_priority": "배트 우선 순위",
     "CL_DV_EY_device_not_found_tips": "기기를 찾을 수 없습니다. 가까이 이동하여 다시 시도해 주세요.",
     "CL_bind_suc": "바인딩 성공",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "나만의 레시피를 만들어 보세요",
     "CL_DV_RF_ice_maker_cleaning_desc": "\n 청소 전: - 얼음통의 얼음을 모두 제거하고 물탱크에 물을 채우세요. \n 냉장고와 냉동실 문이 모두 닫혀 있는지 확인하세요. \n 위의 단계를 완료한 후 제빙기의 청소 기능을 시작하세요. \n 청소 중: \n 청소는 한 번 완료하는 데 약 2분이 소요됩니다. 청소 중에는 제빙이 일시 중단됩니다. 청소가 완료될 때까지 기다려 주세요. \n 청소 \n : - 얼음통에 남아 있는 물을 모두 비우고 얼음통을 청소한 후 제빙을 다시 시작하여 새 얼음이 오염되는 것을 방지하세요. - 청소 \n 완료되면 제품이 자동으로 일반 제빙 모드로 전환됩니다. 더 이상 얼음을 만들 필요가 없는 경우 제빙기를 끄세요.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "청소 시 주의사항",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "청소하기 전에 '자세히 알아보기' 섹션의 청소 주의사항을 꼼꼼히 읽고 필요한 준비를 해 주십시오. 청소 과정은 약 2분 정도 소요됩니다. 청소가 완료되면 제빙 과정 중 얼음 오염을 방지하기 위해 얼음 트레이를 즉시 세척해 주십시오.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "청소하기 전에 '에 있는 청소 주의사항을 꼼꼼히 읽어보세요'<b>더 알아보기</b>'섹션'을 선택하고 필요한 준비를 하십시오. 청소 과정은 약 2분 정도 소요됩니다. 청소가 완료되면 제빙 과정 중 얼음 오염을 방지하기 위해 얼음 트레이를 즉시 세척하십시오.",
     "CL_protocol_up_content": "Hisense ConnectLife ASIA 앱을 이용해 주셔서 감사합니다. 최근 앱이 업데이트되었습니다. <b>개인정보 보호정책.</b> 사용자의 권리를 더욱 효과적으로 보호하기 위해 Hisense ConnectLife ASIA 앱을 사용하기 전에 본 정책을 주의 깊게 읽어 주시기 바랍니다. '동의'를 클릭하시면 위 정책에 동의하는 것으로 간주됩니다. 동의하지 않으실 경우, 당사 서비스를 이용하실 수 없습니다.",
     "CL_phone_incorrect": "잘못된 전화번호입니다",
     "CL_CF_US_auth_code_error_re": "인증 코드 오류 또는 만료되었습니다. 다시 시도해 주세요.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "통화 단위를 변경하면 과거 청구 데이터가 부정확해질 수 있습니다.",
     "CL_DV_WM_dirt_light": "빛",
     "CL_DV_WM_dirt_medium": "중간",
-    "CL_DV_WM_dirt_heavy": "무거운"
+    "CL_DV_WM_dirt_heavy": "무거운",
+    "CL_DV_EY_clean": "깨끗한",
+    "CL_DV_EY_voltage_range_tips": "과전압 임계값은 저전압 임계값보다 높게 설정해야 합니다.",
+    "CL_DV_EY_frequency_range_tips": "계통 주파수 상한값은 계통 주파수 하한값보다 높게 설정해야 합니다.",
+    "CL_DV_EY_ble_disconnected_tips": "블루투스 연결이 끊어졌습니다. 휴대폰의 블루투스 상태를 확인해 주세요.",
+    "CL_DV_EY_ble_lost": "블루투스 연결 끊김",
+    "CL_DV_EY_ble_upgrading_tips": "에너지 저장 시스템이 현재 업그레이드 중입니다. 업그레이드가 완료된 후 다시 시도해 주세요.",
+    "rated_power": "정격 출력"
 }

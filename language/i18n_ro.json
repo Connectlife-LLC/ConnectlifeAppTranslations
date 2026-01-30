@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Mod AI (pentru răspuns la prețuri în timp real)",
     "CL_login_bind_tips": "Deja legat",
     "self_consume": "Autoconsum",
-    "peak_shift": "Schimbare de vârf",
     "bat_priority": "Prioritate lilieci",
     "CL_DV_EY_device_not_found_tips": "Dispozitivul nu a fost găsit, vă rugăm să vă apropiați și să încercați din nou.",
     "CL_bind_suc": "succes de legare",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Creează-ți propria rețetă",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Înainte de curățare: \n - Îndepărtați orice gheață din recipientul de gheață și umpleți rezervorul de apă cu apă. \n - Asigurați-vă că ușile frigiderului și congelatorului sunt închise. \n După finalizarea celor de mai sus, porniți funcția de curățare a aparatului de gheață. \n 2. În timpul curățării: \n - Un singur ciclu de curățare durează aproximativ 2 minute. Producția de gheață se va întrerupe în acest timp. Vă rugăm să așteptați până când curățarea este completă. \n 3. După curățare: \n - Goliți orice apă rămasă din recipientul de gheață și curățați recipientul înainte de a reporni producerea de gheață pentru a evita contaminarea gheții noi. \n - Când curățarea se termină, unitatea va trece automat la modul normal de producere a gheții. Dacă nu este nevoie să continuați să produceți gheață, vă rugăm să opriți aparatul de gheață.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Precauții de curățare",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Înainte de curățare, vă rugăm să examinați cu atenție precauțiile de curățare din secțiunea „Aflați mai multe” și să faceți pregătirile necesare. Procesul de curățare durează aproximativ 2 minute. După finalizare, curățați prompt tava pentru gheață pentru a evita contaminarea gheții în timpul procesului de fabricare a gheții.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Înainte de curățare, vă rugăm să examinați cu atenție precauțiile de curățare din „<b>Află mai multe</b>„secțiunea ' și efectuați pregătirile necesare. Procesul de curățare durează aproximativ 2 minute. După finalizare, curățați prompt tava pentru gheață pentru a evita contaminarea gheții în timpul procesului de fabricare a gheții.”",
     "CL_protocol_up_content": "Bine ați venit să utilizați aplicația Hisense ConnectLife ASIA. Am actualizat recent aplicația <b>Politica de confidențialitate.</b> Pentru a vă proteja mai bine drepturile, vă rugăm să citiți cu atenție această politică înainte de a utiliza aplicația Hisense ConnectLife ASIA. Dacă faceți clic pe „sunt de acord”, înseamnă că sunteți de acord cu politica de mai sus. Dacă nu sunteți de acord, nu vom putea utiliza serviciile noastre.",
     "CL_phone_incorrect": "Număr de telefon incorect",
     "CL_CF_US_auth_code_error_re": "Codul de verificare a fost eroat sau a expirat, vă rugăm să încercați din nou.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Datele istorice de facturare pot deveni inexacte după schimbarea unității monetare.",
     "CL_DV_WM_dirt_light": "Aprinde",
     "CL_DV_WM_dirt_medium": "Mediu",
-    "CL_DV_WM_dirt_heavy": "Greu"
+    "CL_DV_WM_dirt_heavy": "Greu",
+    "CL_DV_EY_clean": "Curat",
+    "CL_DV_EY_voltage_range_tips": "Pragul de supratensiune trebuie setat la o valoare mai mare decât pragul de subtensiune.",
+    "CL_DV_EY_frequency_range_tips": "Frecvența maximă a rețelei trebuie setată mai mare decât frecvența minimă a rețelei.",
+    "CL_DV_EY_ble_disconnected_tips": "Conexiunea Bluetooth a fost întreruptă. Verificați starea Bluetooth a telefonului.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH PIERDUT",
+    "CL_DV_EY_ble_upgrading_tips": "Sistemul de stocare a energiei este în curs de actualizare. Vă rugăm să încercați din nou după finalizarea actualizării.",
+    "rated_power": "Putere nominală"
 }

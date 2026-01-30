@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "AI-tilstand (til prisrespons i realtid)",
     "CL_login_bind_tips": "Allerede bundet",
     "self_consume": "Selvforbrug",
-    "peak_shift": "Peakskift",
     "bat_priority": "Flagermusprioritet",
     "CL_DV_EY_device_not_found_tips": "Enheden blev ikke fundet. Flyt venligst tættere på, og prøv igen.",
     "CL_bind_suc": "binding succes",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Lav din egen opskrift",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Før rengøring: \n - Fjern eventuel is fra isbeholderen, og fyld vandtanken med vand. \n - Sørg for, at køleskabs- og fryserdørene er lukkede. \n Start ismaskinens rengøringsfunktion efter ovenstående. \n 2. Under rengøring: \n - En enkelt rengøringscyklus tager cirka 2 minutter. Isproduktionen vil holde pause i løbet af denne tid. Vent, indtil rengøringen er færdig. \n 3. Efter rengøring: \n - Tøm eventuel resterende vand fra isbeholderen, og rengør beholderen, før du genoptager isproduktionen, for at undgå at forurene ny is. \n - Når rengøringen er afsluttet, skifter enheden automatisk til normal isfremstillingstilstand. Hvis du ikke har brug for at fortsætte med at lave is, skal du slukke ismaskinen.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Rengøringsforholdsregler",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Gennemgå venligst rengøringsforholdsreglerne i afsnittet 'Læs mere' omhyggeligt, og foretag de nødvendige forberedelser, inden rengøringen påbegyndes. Rengøringsprocessen tager cirka 2 minutter. Når den er færdig, skal du straks rengøre isbakken for at undgå kontaminering af isen under isfremstillingsprocessen.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Gennemgå venligst rengøringsforholdsreglerne i ' før rengøring<b>Lær mere</b>'-afsnittet og foretag de nødvendige forberedelser. Rengøringsprocessen tager cirka 2 minutter. Når den er færdig, skal du straks rengøre isbakken for at undgå kontaminering af isen under isfremstillingsprocessen.",
     "CL_protocol_up_content": "Velkommen til at bruge Hisense ConnectLife ASIA-appen. Vi har for nylig opdateret appens <b>Privatlivspolitik.</b> For bedre at beskytte dine rettigheder bedes du læse denne politik omhyggeligt, inden du bruger Hisense ConnectLife ASIA-appen. Hvis du klikker på 'accepter', accepterer du ovenstående politik. Hvis du ikke accepterer, kan vi ikke bruge vores tjenester.",
     "CL_phone_incorrect": "Forkert telefonnummer",
     "CL_CF_US_auth_code_error_re": "Fejl i bekræftelseskode eller den er udløbet. Prøv igen.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Historiske faktureringsdata kan blive unøjagtige efter ændring af valutaenheden.",
     "CL_DV_WM_dirt_light": "Lys",
     "CL_DV_WM_dirt_medium": "Medium",
-    "CL_DV_WM_dirt_heavy": "Tung"
+    "CL_DV_WM_dirt_heavy": "Tung",
+    "CL_DV_EY_clean": "Ren",
+    "CL_DV_EY_voltage_range_tips": "Overspændingstærsklen skal indstilles højere end underspændingstærsklen.",
+    "CL_DV_EY_frequency_range_tips": "Netfrekvensen høj skal indstilles højere end netfrekvensen lav.",
+    "CL_DV_EY_ble_disconnected_tips": "Bluetooth-forbindelsen er blevet afbrudt. Kontroller venligst din telefons Bluetooth-status.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH MISTE",
+    "CL_DV_EY_ble_upgrading_tips": "Energilagringssystemet er i øjeblikket under opgradering. Prøv igen, når opgraderingen er fuldført.",
+    "rated_power": "Nominel effekt"
 }
