@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Chế độ AI (để phản hồi giá theo thời gian thực)",
     "CL_login_bind_tips": "Đã đóng bìa",
     "self_consume": "Tự tiêu thụ",
-    "peak_shift": "Sự dịch chuyển đỉnh",
     "bat_priority": "Ưu tiên của dơi",
     "CL_DV_EY_device_not_found_tips": "Không tìm thấy thiết bị, vui lòng di chuyển đến gần hơn và thử lại.",
     "CL_bind_suc": "ràng buộc thành công",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Tạo công thức của riêng bạn",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Trước khi vệ sinh: \n Lấy hết đá ra khỏi khay đá và đổ đầy nước vào bình chứa nước. \n Đảm bảo cửa tủ lạnh và tủ đông đã đóng kín. Sau khi hoàn thành các bước trên, hãy khởi động chức năng vệ sinh máy làm đá. \n \n quá trình vệ sinh: \n Một chu kỳ vệ sinh mất khoảng 2 phút. Quá trình làm đá sẽ tạm dừng trong thời gian này. Vui lòng chờ cho đến khi quá trình vệ sinh hoàn tất. \n Sau \n vệ sinh: - Đổ hết nước còn lại trong khay đá và vệ sinh khay trước khi khởi động lại quá trình làm \n để tránh làm nhiễm bẩn đá mới. - Khi quá trình vệ sinh kết thúc, thiết bị sẽ tự động chuyển sang chế độ làm đá bình thường. Nếu bạn không cần tiếp tục làm đá, vui lòng tắt máy làm đá.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Biện pháp phòng ngừa khi vệ sinh",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Trước khi vệ sinh, vui lòng xem kỹ các biện pháp phòng ngừa khi vệ sinh trong phần 'Tìm hiểu thêm' và chuẩn bị các bước cần thiết. Quá trình vệ sinh mất khoảng 2 phút. Sau khi hoàn tất, hãy nhanh chóng làm sạch khay đá để tránh làm nhiễm bẩn đá trong quá trình làm đá.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Trước khi vệ sinh, vui lòng xem kỹ các biện pháp phòng ngừa khi vệ sinh trong phần '<b>Tìm hiểu thêm</b>' Phần này và thực hiện các bước chuẩn bị cần thiết. Quá trình vệ sinh mất khoảng 2 phút. Sau khi hoàn tất, hãy nhanh chóng làm sạch khay đá để tránh làm nhiễm bẩn đá trong quá trình làm đá.",
     "CL_protocol_up_content": "Chào mừng bạn đến với ứng dụng Hisense ConnectLife ASIA. Chúng tôi vừa cập nhật ứng dụng. <b>Chính sách bảo mật.</b> Để bảo vệ quyền lợi của bạn tốt hơn, vui lòng đọc kỹ chính sách này trước khi sử dụng ứng dụng Hisense ConnectLife ASIA. Nhấp vào 'đồng ý' có nghĩa là bạn đồng ý với chính sách nêu trên. Nếu bạn không đồng ý, chúng tôi sẽ không thể cung cấp dịch vụ cho bạn.",
     "CL_phone_incorrect": "Số điện thoại không chính xác",
     "CL_CF_US_auth_code_error_re": "Mã xác minh bị lỗi hoặc đã hết hạn, vui lòng thử lại.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Dữ liệu thanh toán trước đây có thể trở nên không chính xác sau khi thay đổi đơn vị tiền tệ.",
     "CL_DV_WM_dirt_light": "Ánh sáng",
     "CL_DV_WM_dirt_medium": "Trung bình",
-    "CL_DV_WM_dirt_heavy": "Nặng"
+    "CL_DV_WM_dirt_heavy": "Nặng",
+    "CL_DV_EY_clean": "Lau dọn",
+    "CL_DV_EY_voltage_range_tips": "Ngưỡng quá áp phải được đặt cao hơn ngưỡng thiếu áp.",
+    "CL_DV_EY_frequency_range_tips": "Tần số lưới cao phải được đặt cao hơn tần số lưới thấp.",
+    "CL_DV_EY_ble_disconnected_tips": "Kết nối Bluetooth đã bị ngắt. Vui lòng kiểm tra trạng thái Bluetooth trên điện thoại của bạn.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH BỊ MẤT",
+    "CL_DV_EY_ble_upgrading_tips": "Hệ thống lưu trữ năng lượng hiện đang được nâng cấp. Vui lòng thử lại sau khi quá trình nâng cấp hoàn tất.",
+    "rated_power": "Công suất định mức"
 }

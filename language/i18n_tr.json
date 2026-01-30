@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Yapay Zeka Modu (Gerçek Zamanlı Fiyat Yanıtı için)",
     "CL_login_bind_tips": "Zaten Bağlı",
     "self_consume": "Kendi kendine tüketim",
-    "peak_shift": "Zirve kayması",
     "bat_priority": "Yarasa önceliği",
     "CL_DV_EY_device_not_found_tips": "Cihaz bulunamadı, lütfen daha yakına gelin ve tekrar deneyin.",
     "CL_bind_suc": "bağlama başarısı",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Kendi tarifinizi oluşturun",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Temizlemeden önce: \n - Buz haznesindeki buzları çıkarın ve su tankını suyla doldurun. \n - Buzdolabı ve dondurucu kapılarının kapalı olduğundan emin olun. \n Yukarıdakileri tamamladıktan sonra, buz yapıcı cihazının temizleme fonksiyonunu başlatın. \n 2. Temizleme sırasında: \n - Tek bir temizleme döngüsü yaklaşık 2 dakika sürer. Bu süre boyunca buz yapımı duraklayacaktır. Lütfen temizleme tamamlanana kadar bekleyin. \n 3. Temizlemeden sonra: \n - Buz haznesindeki kalan suyu boşaltın ve yeni buzu kirletmemek için buz yapımına yeniden başlamadan önce hazneyi temizleyin. \n - Temizleme bittiğinde, cihaz otomatik olarak normal buz yapma moduna geçecektir. Buz yapmaya devam etmeniz gerekmiyorsa, lütfen buz yapıcıyı kapatın.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Temizlik Önlemleri",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Temizlemeden önce, lütfen 'Daha fazla bilgi edinin' bölümündeki temizleme önlemlerini dikkatlice inceleyin ve gerekli hazırlıkları yapın. Temizleme işlemi yaklaşık 2 dakika sürer. İşlem tamamlandıktan sonra, buz yapma işlemi sırasında buzun kirlenmesini önlemek için buz kalıbını hemen temizleyin.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Temizliğe başlamadan önce lütfen ' bölümündeki temizlik önlemlerini dikkatlice inceleyin.<b>Daha fazla bilgi edin</b>' bölümüne gidin ve gerekli hazırlıkları yapın. Temizleme işlemi yaklaşık 2 dakika sürer. İşlem tamamlandıktan sonra, buz yapım sürecinde buzun kirlenmesini önlemek için buz kalıbını hemen temizleyin.",
     "CL_protocol_up_content": "Hisense ConnectLife ASIA Uygulamasını kullanmaya hoş geldiniz. Uygulamanın özelliklerini yakın zamanda güncelledik. <b>Gizlilik Politikası.</b> Haklarınızı daha iyi korumak için, Hisense ConnectLife ASIA Uygulamasını kullanmadan önce lütfen bu politikayı dikkatlice okuyun. 'Kabul et' seçeneğine tıklamanız, yukarıdaki politikayı kabul ettiğiniz anlamına gelir. Kabul etmiyorsanız, hizmetlerimizi kullanamayacaksınız.",
     "CL_phone_incorrect": "Yanlış telefon numarası",
     "CL_CF_US_auth_code_error_re": "Doğrulama kodu hatası veya süresi dolmuş, lütfen tekrar deneyin.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Para birimi değiştirildikten sonra geçmiş faturalama verileri yanlış hale gelebilir.",
     "CL_DV_WM_dirt_light": "Işık",
     "CL_DV_WM_dirt_medium": "Orta",
-    "CL_DV_WM_dirt_heavy": "AĞIR"
+    "CL_DV_WM_dirt_heavy": "AĞIR",
+    "CL_DV_EY_clean": "Temiz",
+    "CL_DV_EY_voltage_range_tips": "Aşırı gerilim eşiği, düşük gerilim eşiğinden daha yüksek ayarlanmalıdır.",
+    "CL_DV_EY_frequency_range_tips": "Şebeke frekansının üst değeri, şebeke frekansının alt değerinden daha yüksek ayarlanmalıdır.",
+    "CL_DV_EY_ble_disconnected_tips": "Bluetooth bağlantısı kesildi. Lütfen telefonunuzun Bluetooth durumunu kontrol edin.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH KAYBOLDU",
+    "CL_DV_EY_ble_upgrading_tips": "Enerji depolama sistemi şu anda yükseltme işleminden geçiyor. Lütfen yükseltme tamamlandıktan sonra tekrar deneyin.",
+    "rated_power": "Nominal güç"
 }

@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "AI način rada (za odgovor na cijene u stvarnom vremenu)",
     "CL_login_bind_tips": "Već vezan",
     "self_consume": "Samostalna konzumacija",
-    "peak_shift": "Pomak vršnih vrijednosti",
     "bat_priority": "Prioritet šišmiša",
     "CL_DV_EY_device_not_found_tips": "Uređaj nije pronađen, približite se i pokušajte ponovno.",
     "CL_bind_suc": "uspješno povezivanje",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Kreirajte vlastiti recept",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Prije čišćenja: \n - Uklonite led iz posude za led i napunite spremnik za vodu vodom. \n - Provjerite jesu li vrata hladnjaka i zamrzivača zatvorena. \n Nakon što dovršite gore navedeno, pokrenite funkciju čišćenja ledomata. \n 2. Tijekom čišćenja: \n - Jedan ciklus čišćenja traje oko 2 minute. Proizvodnja leda će se pauzirati tijekom tog vremena. Pričekajte dok se čišćenje ne završi. \n 3. Nakon čišćenja: \n - Ispraznite preostalu vodu iz posude za led i očistite je prije ponovnog pokretanja proizvodnje leda kako biste izbjegli kontaminaciju novog leda. \n - Kada čišćenje završi, uređaj će se automatski prebaciti u normalan način rada za proizvodnju leda. Ako ne trebate nastaviti s proizvodnjom leda, isključite ledomat.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Mjere opreza pri čišćenju",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Prije čišćenja pažljivo pročitajte mjere opreza za čišćenje u odjeljku 'Saznajte više' i izvršite potrebne pripreme. Postupak čišćenja traje otprilike 2 minute. Nakon završetka, odmah očistite posudu za led kako biste izbjegli kontaminaciju leda tijekom procesa izrade leda.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Prije čišćenja, pažljivo pročitajte mjere opreza za čišćenje u '<b>Saznajte više</b>'odjeljak' i izvršite potrebne pripreme. Postupak čišćenja traje otprilike 2 minute. Nakon završetka, odmah očistite posudu za led kako biste izbjegli kontaminaciju leda tijekom procesa izrade leda.",
     "CL_protocol_up_content": "Dobrodošli u aplikaciju Hisense ConnectLife ASIA. Nedavno smo ažurirali aplikaciju <b>Pravila privatnosti.</b> Kako biste bolje zaštitili svoja prava, pažljivo pročitajte ovu politiku prije korištenja aplikacije Hisense ConnectLife ASIA. Klikom na 'slažem se' prihvaćate gore navedenu politiku. Ako se ne slažete, nećemo moći koristiti naše usluge.",
     "CL_phone_incorrect": "Netočan broj telefona",
     "CL_CF_US_auth_code_error_re": "Pogreška koda za provjeru ili je istekao, pokušajte ponovno",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Povijesni podaci o naplati mogu postati netočni nakon promjene valutne jedinice.",
     "CL_DV_WM_dirt_light": "Svjetlo",
     "CL_DV_WM_dirt_medium": "Srednje pečeno",
-    "CL_DV_WM_dirt_heavy": "Teško"
+    "CL_DV_WM_dirt_heavy": "Teško",
+    "CL_DV_EY_clean": "Čist",
+    "CL_DV_EY_voltage_range_tips": "Prag prenapona mora biti postavljen na više mjesto od praga podnapona.",
+    "CL_DV_EY_frequency_range_tips": "Visoka mrežna frekvencija mora biti postavljena na višu vrijednost od donje mrežne frekvencije.",
+    "CL_DV_EY_ble_disconnected_tips": "Bluetooth veza je prekinuta. Provjerite status Bluetootha na telefonu.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH IZGUBLJEN",
+    "CL_DV_EY_ble_upgrading_tips": "Sustav za pohranu energije trenutno se nadograđuje. Pokušajte ponovno nakon što nadogradnja bude dovršena.",
+    "rated_power": "Nazivna snaga"
 }

@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Tekoälytila ​​(reaaliaikaista hinnoitteluvastausta varten)",
     "CL_login_bind_tips": "Jo sidottu",
     "self_consume": "Itsekulutus",
-    "peak_shift": "Huippusiirtymä",
     "bat_priority": "Lepakkoprioriteetti",
     "CL_DV_EY_device_not_found_tips": "Laitetta ei löytynyt, siirry lähemmäs ja yritä uudelleen.",
     "CL_bind_suc": "sitoa menestystä",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Luo oma reseptisi",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Ennen puhdistusta: \n - Poista jää jääastiasta ja täytä vesisäiliö vedellä. \n - Varmista, että jääkaapin ja pakastimen ovet ovat kiinni. \n Kun olet suorittanut yllä olevat toimenpiteet, käynnistä jääkoneen puhdistustoiminto. \n 2. Puhdistuksen aikana: \n - Yksi puhdistussykli kestää noin 2 minuuttia. Jään valmistus keskeytyy tänä aikana. Odota, kunnes puhdistus on valmis. \n 3. Puhdistuksen jälkeen: \n - Tyhjennä jäljellä oleva vesi jääastiasta ja puhdista astia ennen jään valmistuksen jatkamista, jotta vältät uuden jään kontaminoitumisen. \n - Kun puhdistus on päättynyt, laite siirtyy automaattisesti normaaliin jäänvalmistustilaan. Jos et halua jatkaa jään valmistusta, sammuta jääkone.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Puhdistusohjeet",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Ennen puhdistusta lue huolellisesti puhdistusohjeet osiosta \"Lisätietoja\" ja tee tarvittavat valmistelut. Puhdistus kestää noin 2 minuuttia. Puhdista jääpala-alusta viipymättä puhdistuksen jälkeen, jotta jää ei likaannu jäänvalmistuksen aikana.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Ennen puhdistusta lue huolellisesti puhdistusohjeet kohdasta '<b>Lue lisää</b>'-osiossa ja tee tarvittavat valmistelut. Puhdistusprosessi kestää noin 2 minuuttia. Puhdista jääpala-alusta viipymättä puhdistuksen jälkeen, jotta jää ei likaannu jäänvalmistuksen aikana.",
     "CL_protocol_up_content": "Tervetuloa käyttämään Hisense ConnectLife ASIA -sovellusta. Olemme äskettäin päivittäneet sovelluksen <b>Tietosuojakäytäntö.</b> Oikeuksiesi suojaamiseksi luethan nämä käytännöt huolellisesti ennen Hisense ConnectLife ASIA -sovelluksen käyttöä. Napsauttamalla \"hyväksyn\" hyväksyt yllä olevan käytännön. Jos et hyväksy, emme voi käyttää palveluitamme.",
     "CL_phone_incorrect": "Väärä puhelinnumero",
     "CL_CF_US_auth_code_error_re": "Vahvistuskoodi on virheellinen tai vanhentunut, yritä uudelleen",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Historialliset laskutustiedot voivat muuttua epätarkkoiksi valuuttayksikön vaihtamisen jälkeen.",
     "CL_DV_WM_dirt_light": "Valo",
     "CL_DV_WM_dirt_medium": "Keskiverto",
-    "CL_DV_WM_dirt_heavy": "Raskas"
+    "CL_DV_WM_dirt_heavy": "Raskas",
+    "CL_DV_EY_clean": "Puhdas",
+    "CL_DV_EY_voltage_range_tips": "Ylijännitekynnys on asetettava korkeammaksi kuin alijännitekynnys.",
+    "CL_DV_EY_frequency_range_tips": "Verkkotaajuuden yläraja on asetettava korkeammaksi kuin verkkotaajuuden alaraja.",
+    "CL_DV_EY_ble_disconnected_tips": "Bluetooth-yhteys on katkaistu. Tarkista puhelimesi Bluetooth-tila.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH-YHTEYS KATKOON",
+    "CL_DV_EY_ble_upgrading_tips": "Energian varastointijärjestelmää päivitetään parhaillaan. Yritä uudelleen päivityksen valmistuttua.",
+    "rated_power": "Nimellisteho"
 }

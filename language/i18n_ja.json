@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "AIモード（リアルタイム価格対応）",
     "CL_login_bind_tips": "すでに縛られている",
     "self_consume": "自家消費",
-    "peak_shift": "ピークシフト",
     "bat_priority": "バット優先",
     "CL_DV_EY_device_not_found_tips": "デバイスが見つかりません。近づいてもう一度お試しください。",
     "CL_bind_suc": "バインド成功",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "自分だけのレシピを作ろう",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. 洗浄前: \n - 製氷容器から氷を取り除き、水タンクに水を入れます。 \n - 冷蔵庫と冷凍庫のドアが閉まっていることを確認します。 \n上記の手順が完了したら、製氷機の洗浄機能を開始します。 \n 2. 洗浄中: \n - 1 回の洗浄サイクルには約 2 分かかります。この間、製氷は一時停止します。洗浄が完了するまでお待ちください。 \n 3. 洗浄後: \n - 新しい氷が汚染されないように、製氷容器に残っている水をすべて空にし、容器を洗浄してから製氷を再開してください。 \n - 洗浄が終了すると、自動的に通常の製氷モードに切り替わります。製氷を続ける必要がない場合は、製氷機の電源をオフにしてください。",
     "CL_DV_RF_ice_maker_cleaning_precautions": "清掃上の注意",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "清掃の前に、「詳細はこちら」セクションの清掃に関する注意事項をよくご確認の上、必要な準備を行ってください。清掃には約2分かかります。完了したら、製氷中に氷が汚染されないように、速やかに製氷皿を清掃してください。",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "清掃前に、「<b>もっと詳しく知る</b>'セクションに移動し、必要な準備をしてください。洗浄には約2分かかります。完了したら、製氷中に氷が汚染されないように、すぐに製氷皿を洗浄してください。",
     "CL_protocol_up_content": "Hisense ConnectLife ASIAアプリをご利用いただきありがとうございます。アプリは最近アップデートされました。 <b>プライバシーポリシー。</b> お客様の権利をより適切に保護するため、Hisense ConnectLife ASIAアプリをご利用になる前に、本ポリシーをよくお読みください。「同意する」をクリックすると、上記のポリシーに同意したことになります。同意いただけない場合、当社のサービスをご利用いただけません。",
     "CL_phone_incorrect": "電話番号が間違っています",
     "CL_CF_US_auth_code_error_re": "確認コードにエラーがあるか期限が切れています。もう一度お試しください。",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "通貨単位を変更すると、過去の請求データが不正確になる可能性があります。",
     "CL_DV_WM_dirt_light": "ライト",
     "CL_DV_WM_dirt_medium": "ミディアム",
-    "CL_DV_WM_dirt_heavy": "多い"
+    "CL_DV_WM_dirt_heavy": "多い",
+    "CL_DV_EY_clean": "クリーン",
+    "CL_DV_EY_voltage_range_tips": "過電圧しきい値は、低電圧しきい値よりも高く設定する必要があります。",
+    "CL_DV_EY_frequency_range_tips": "グリッド周波数の高は、グリッド周波数の低よりも高く設定する必要があります。",
+    "CL_DV_EY_ble_disconnected_tips": "Bluetooth接続が切断されました。お使いの携帯電話のBluetoothステータスをご確認ください。",
+    "CL_DV_EY_ble_lost": "Bluetoothが失われました",
+    "CL_DV_EY_ble_upgrading_tips": "エネルギー貯蔵システムは現在アップグレード中です。アップグレードが完了してからもう一度お試しください。",
+    "rated_power": "定格出力"
 }

@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "AI-modus (voor realtime prijsreactie)",
     "CL_login_bind_tips": "Reeds gebonden",
     "self_consume": "Zelfconsumptie",
-    "peak_shift": "Piekverschuiving",
     "bat_priority": "Vleermuisprioriteit",
     "CL_DV_EY_device_not_found_tips": "Apparaat niet gevonden, kom dichterbij en probeer het opnieuw.",
     "CL_bind_suc": "succes binden",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Maak je eigen recept",
     "CL_DV_RF_ice_maker_cleaning_desc": "\n Voor het reinigen: - Verwijder al het ijs uit de ijsbak en vul het waterreservoir met water. \n Zorg ervoor dat de deuren van de koelkast en vriezer gesloten zijn. \n Start na het voltooien van bovenstaande stappen de reinigingsfunctie van de ijsmachine. \n \n Tijdens het reinigen: - Een reinigingscyclus duurt ongeveer 2 minuten. Het ijsmaken wordt gedurende deze tijd onderbroken. Wacht tot het reinigen is voltooid. \n \n \n het reinigen: - Leeg al het resterende water uit de ijsbak en reinig de bak voordat u het ijsmaken hervat om te voorkomen dat nieuw ijs wordt besmet. - Wanneer het reinigen is voltooid, schakelt het apparaat automatisch over naar de normale ijsmaakmodus. Als u geen ijs meer hoeft te maken, schakelt u de ijsmachine uit.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Reinigingsvoorzorgsmaatregelen",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Voordat u begint met schoonmaken, dient u de schoonmaakvoorschriften in het gedeelte 'Meer informatie' zorgvuldig door te lezen en de nodige voorbereidingen te treffen. Het schoonmaakproces duurt ongeveer 2 minuten. Maak de ijsbak na afloop direct schoon om te voorkomen dat het ijs tijdens het ijsbereidingsproces wordt verontreinigd.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Lees voor het schoonmaken de schoonmaakvoorschriften in '<b>Leer meer</b>' sectie en tref de nodige voorbereidingen. Het reinigingsproces duurt ongeveer 2 minuten. Maak na afloop de ijsbak direct schoon om te voorkomen dat het ijs tijdens het ijsbereidingsproces wordt verontreinigd.",
     "CL_protocol_up_content": "Welkom bij de Hisense ConnectLife ASIA-app. We hebben de app onlangs bijgewerkt. <b>Privacybeleid.</b> Om uw rechten beter te beschermen, verzoeken wij u dit beleid zorgvuldig te lezen voordat u de Hisense ConnectLife ASIA-app gebruikt. Door op 'akkoord' te klikken, gaat u akkoord met bovenstaand beleid. Indien u niet akkoord gaat, kunnen wij onze diensten niet aanbieden.",
     "CL_phone_incorrect": "Onjuist telefoonnummer",
     "CL_CF_US_auth_code_error_re": "De verificatiecode is ongeldig of verlopen. Probeer het opnieuw.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Historische factuurgegevens kunnen onnauwkeurig worden na een wijziging van de valuta-eenheid.",
     "CL_DV_WM_dirt_light": "Licht",
     "CL_DV_WM_dirt_medium": "Gemiddeld",
-    "CL_DV_WM_dirt_heavy": "Zwaar"
+    "CL_DV_WM_dirt_heavy": "Zwaar",
+    "CL_DV_EY_clean": "Schoon",
+    "CL_DV_EY_voltage_range_tips": "De overspanningsdrempel moet hoger worden ingesteld dan de onderspanningsdrempel.",
+    "CL_DV_EY_frequency_range_tips": "De hoge netfrequentie moet hoger worden ingesteld dan de lage netfrequentie.",
+    "CL_DV_EY_ble_disconnected_tips": "De Bluetooth-verbinding is verbroken. Controleer de Bluetooth-status van uw telefoon.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH VERLOREN",
+    "CL_DV_EY_ble_upgrading_tips": "Het energieopslagsysteem wordt momenteel geüpgraded. Probeer het na de upgrade opnieuw.",
+    "rated_power": "Nominaal vermogen"
 }

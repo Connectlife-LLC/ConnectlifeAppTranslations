@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Modalità AI (per risposta ai prezzi in tempo reale)",
     "CL_login_bind_tips": "Già vincolato",
     "self_consume": "Autoconsumo",
-    "peak_shift": "spostamento di picco",
     "bat_priority": "Priorità dei pipistrelli",
     "CL_DV_EY_device_not_found_tips": "Dispositivo non trovato, avvicinati e riprova.",
     "CL_bind_suc": "legare il successo",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Crea la tua ricetta",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Prima della pulizia: \n - Rimuovere il ghiaccio dal contenitore del ghiaccio e riempire il serbatoio dell'acqua. \n - Assicurarsi che le porte del frigorifero e del congelatore siano chiuse. \n Dopo aver completato quanto sopra, avviare la funzione di pulizia della macchina del ghiaccio. \n 2. Durante la pulizia: \n - Un singolo ciclo di pulizia dura circa 2 minuti. La produzione di ghiaccio si interromperà durante questo periodo. Attendere il completamento della pulizia. \n 3. Dopo la pulizia: \n - Svuotare l'acqua residua dal contenitore del ghiaccio e pulirlo prima di riavviare la produzione di ghiaccio per evitare di contaminare il nuovo ghiaccio. \n - Al termine della pulizia, l'unità passerà automaticamente alla normale modalità di produzione di ghiaccio. Se non è necessario continuare a produrre ghiaccio, spegnere la macchina del ghiaccio.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Precauzioni per la pulizia",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Prima della pulizia, leggere attentamente le precauzioni di pulizia nella sezione \"Ulteriori informazioni\" ed effettuare i preparativi necessari. Il processo di pulizia richiede circa 2 minuti. Una volta completato, pulire tempestivamente la vaschetta del ghiaccio per evitare la contaminazione del ghiaccio durante il processo di produzione.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Prima della pulizia, leggere attentamente le precauzioni di pulizia in '<b>Saperne di più</b>' ed effettuare i preparativi necessari. Il processo di pulizia richiede circa 2 minuti. Una volta completato, pulire tempestivamente la vaschetta del ghiaccio per evitare la contaminazione del ghiaccio durante il processo di produzione.",
     "CL_protocol_up_content": "Benvenuti all'app Hisense ConnectLife ASIA. Abbiamo recentemente aggiornato l'app <b>Politica sulla riservatezza.</b> Per tutelare al meglio i tuoi diritti, ti preghiamo di leggere attentamente la presente informativa prima di utilizzare l'app Hisense ConnectLife ASIA. Cliccando su \"Accetto\" accetti la suddetta informativa. In caso contrario, non potremo utilizzare i nostri servizi.",
     "CL_phone_incorrect": "Numero di telefono errato",
     "CL_CF_US_auth_code_error_re": "Codice di verifica errato o scaduto, riprova.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "I dati di fatturazione storici potrebbero risultare inaccurati dopo aver modificato l'unità di valuta.",
     "CL_DV_WM_dirt_light": "Leggero",
     "CL_DV_WM_dirt_medium": "Medio",
-    "CL_DV_WM_dirt_heavy": "Sporco"
+    "CL_DV_WM_dirt_heavy": "Sporco",
+    "CL_DV_EY_clean": "Pulito",
+    "CL_DV_EY_voltage_range_tips": "La soglia di sovratensione deve essere impostata su un valore superiore alla soglia di sottotensione.",
+    "CL_DV_EY_frequency_range_tips": "La frequenza di rete alta deve essere impostata su un valore più alto della frequenza di rete bassa.",
+    "CL_DV_EY_ble_disconnected_tips": "La connessione Bluetooth è stata interrotta. Controlla lo stato Bluetooth del tuo telefono.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH PERSO",
+    "CL_DV_EY_ble_upgrading_tips": "Il sistema di accumulo di energia è attualmente in fase di aggiornamento. Riprovare al termine dell'aggiornamento.",
+    "rated_power": "Potenza nominale"
 }

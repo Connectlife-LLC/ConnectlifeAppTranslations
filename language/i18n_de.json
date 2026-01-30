@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "KI-Modus (für Echtzeit-Preisanpassung)",
     "CL_login_bind_tips": "Bereits gebunden",
     "self_consume": "Selbstverzehrung",
-    "peak_shift": "Peakverschiebung",
     "bat_priority": "Fledermauspriorität",
     "CL_DV_EY_device_not_found_tips": "Gerät nicht gefunden, bitte näher herangehen und es erneut versuchen.",
     "CL_bind_suc": "Erfolg binden",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Kreiere dein eigenes Rezept",
     "CL_DV_RF_ice_maker_cleaning_desc": "\n Vor der Reinigung: – Entfernen Sie das Eis aus dem Eisbehälter und füllen Sie den Wassertank mit Wasser. \n Stellen Sie sicher, dass die Türen von Kühlschrank und Gefrierschrank geschlossen sind. \n Starten Sie anschließend die Reinigungsfunktion des Eisbereiters. \n Während der Reinigung: \n Ein Reinigungszyklus dauert ca. 2 Minuten. Die Eisproduktion wird währenddessen unterbrochen. Bitte warten Sie, bis die Reinigung abgeschlossen \n. 3. Nach der Reinigung: – Leeren Sie das restliche Wasser aus dem Eisbehälter und reinigen Sie ihn, bevor Sie die Eisproduktion wieder aufnehmen \n um eine Verunreinigung des neuen Eises zu vermeiden. – Nach Abschluss \n Reinigung schaltet das Gerät automatisch in den normalen Eisproduktionsmodus. Wenn Sie kein weiteres Eis benötigen, schalten Sie den Eisbereiter bitte aus.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Reinigungsvorkehrungen",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Bitte lesen Sie vor der Reinigung die Reinigungshinweise im Abschnitt „Mehr erfahren“ sorgfältig durch und treffen Sie die notwendigen Vorbereitungen. Die Reinigung dauert etwa 2 Minuten. Reinigen Sie anschließend umgehend die Eiswürfelform, um eine Verunreinigung des Eises während der Eisproduktion zu vermeiden.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Bitte lesen Sie vor der Reinigung die Reinigungshinweise in der Rubrik „“ sorgfältig durch.<b>Mehr erfahren</b>Den Abschnitt öffnen und die notwendigen Vorbereitungen treffen. Der Reinigungsvorgang dauert etwa 2 Minuten. Nach Abschluss der Reinigung die Eiswürfelform umgehend reinigen, um eine Verunreinigung des Eises während der Eiswürfelproduktion zu vermeiden.",
     "CL_protocol_up_content": "Willkommen bei der Hisense ConnectLife ASIA App. Wir haben die App kürzlich aktualisiert. <b>Datenschutzrichtlinie.</b> Um Ihre Rechte besser zu schützen, lesen Sie diese Richtlinie bitte sorgfältig durch, bevor Sie die Hisense ConnectLife ASIA App nutzen. Mit einem Klick auf „Zustimmen“ erklären Sie sich mit der oben genannten Richtlinie einverstanden. Sollten Sie nicht zustimmen, können wir unsere Dienste nicht nutzen.",
     "CL_phone_incorrect": "Falsche Telefonnummer",
     "CL_CF_US_auth_code_error_re": "Der Bestätigungscode ist fehlerhaft oder abgelaufen. Bitte versuchen Sie es erneut.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Historische Abrechnungsdaten können nach einer Änderung der Währungseinheit ungenau werden.",
     "CL_DV_WM_dirt_light": "Licht",
     "CL_DV_WM_dirt_medium": "Mittel",
-    "CL_DV_WM_dirt_heavy": "schmutzig"
+    "CL_DV_WM_dirt_heavy": "schmutzig",
+    "CL_DV_EY_clean": "Sauber",
+    "CL_DV_EY_voltage_range_tips": "Die Überspannungsschwelle muss höher eingestellt werden als die Unterspannungsschwelle.",
+    "CL_DV_EY_frequency_range_tips": "Die obere Netzfrequenz muss höher eingestellt werden als die untere Netzfrequenz.",
+    "CL_DV_EY_ble_disconnected_tips": "Die Bluetooth-Verbindung wurde getrennt. Bitte überprüfen Sie den Bluetooth-Status Ihres Telefons.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH VERLOREN",
+    "CL_DV_EY_ble_upgrading_tips": "Das Energiespeichersystem wird derzeit modernisiert. Bitte versuchen Sie es nach Abschluss der Modernisierung erneut.",
+    "rated_power": "Nennleistung"
 }

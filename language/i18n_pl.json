@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Tryb AI (do reagowania na ceny w czasie rzeczywistym)",
     "CL_login_bind_tips": "Już związany",
     "self_consume": "Samodzielne spożycie",
-    "peak_shift": "Przesunięcie szczytowe",
     "bat_priority": "Priorytet nietoperza",
     "CL_DV_EY_device_not_found_tips": "Urządzenie nie zostało znalezione. Proszę podejść bliżej i spróbować ponownie.",
     "CL_bind_suc": "wiązać sukces",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Stwórz własny przepis",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Przed czyszczeniem: \n - Usuń cały lód z pojemnika na lód i napełnij zbiornik na wodę. \n - Upewnij się, że drzwi lodówki i zamrażarki są zamknięte. \n Po wykonaniu powyższych czynności uruchom funkcję czyszczenia kostkarki do lodu. \n 2. Podczas czyszczenia: \n - Pojedynczy cykl czyszczenia trwa około 2 minut. Wytwarzanie lodu zostanie w tym czasie wstrzymane. Poczekaj na zakończenie czyszczenia. \n 3. Po czyszczeniu: \n - Opróżnij pojemnik na lód z pozostałej wody i wyczyść go przed ponownym uruchomieniem wytwarzania lodu, aby uniknąć zanieczyszczenia nowego lodu. \n - Po zakończeniu czyszczenia urządzenie automatycznie przełączy się na normalny tryb wytwarzania lodu. Jeśli nie chcesz kontynuować wytwarzania lodu, wyłącz kostkarkę do lodu.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Środki ostrożności podczas czyszczenia",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Przed czyszczeniem należy dokładnie zapoznać się ze środkami ostrożności dotyczącymi czyszczenia w sekcji „Dowiedz się więcej” i dokonać niezbędnych przygotowań. Proces czyszczenia trwa około 2 minut. Po jego zakończeniu należy niezwłocznie wyczyścić tackę na lód, aby uniknąć zanieczyszczenia lodu podczas produkcji.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Przed czyszczeniem należy dokładnie zapoznać się ze środkami ostrożności dotyczącymi czyszczenia podanymi w '<b>Dowiedz się więcej</b>' i wykonaj niezbędne przygotowania. Proces czyszczenia trwa około 2 minut. Po jego zakończeniu należy niezwłocznie wyczyścić tackę na lód, aby uniknąć zanieczyszczenia lodu podczas produkcji.",
     "CL_protocol_up_content": "Zapraszamy do korzystania z aplikacji Hisense ConnectLife ASIA. Niedawno zaktualizowaliśmy aplikację. <b>Polityka prywatności.</b> Aby lepiej chronić swoje prawa, prosimy o uważne zapoznanie się z niniejszą polityką przed rozpoczęciem korzystania z aplikacji Hisense ConnectLife ASIA. Kliknięcie przycisku „Akceptuję” oznacza akceptację powyższej polityki. W przypadku braku akceptacji nie będziemy mogli korzystać z naszych usług.",
     "CL_phone_incorrect": "Nieprawidłowy numer telefonu",
     "CL_CF_US_auth_code_error_re": "Błąd kodu weryfikacyjnego lub wygasł, spróbuj ponownie",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Historyczne dane rozliczeniowe mogą stać się niedokładne po zmianie jednostki walutowej.",
     "CL_DV_WM_dirt_light": "Światło",
     "CL_DV_WM_dirt_medium": "Średni",
-    "CL_DV_WM_dirt_heavy": "Ciężki"
+    "CL_DV_WM_dirt_heavy": "Ciężki",
+    "CL_DV_EY_clean": "Czysty",
+    "CL_DV_EY_voltage_range_tips": "Próg przepięcia musi być ustawiony wyżej niż próg podnapięcia.",
+    "CL_DV_EY_frequency_range_tips": "Częstotliwość sieci górnej musi być ustawiona wyżej niż częstotliwość sieci dolnej.",
+    "CL_DV_EY_ble_disconnected_tips": "Połączenie Bluetooth zostało przerwane. Sprawdź stan Bluetooth w telefonie.",
+    "CL_DV_EY_ble_lost": "UTRATA BLUETOOTH",
+    "CL_DV_EY_ble_upgrading_tips": "System magazynowania energii jest obecnie modernizowany. Spróbuj ponownie po zakończeniu aktualizacji.",
+    "rated_power": "Moc znamionowa"
 }
