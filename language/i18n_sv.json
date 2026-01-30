@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "AI-läge (för prissättningsrespons i realtid)",
     "CL_login_bind_tips": "Redan bunden",
     "self_consume": "Självkonsumera",
-    "peak_shift": "Toppförskjutning",
     "bat_priority": "Fladdermusprioritet",
     "CL_DV_EY_device_not_found_tips": "Enheten hittades inte, flytta dig närmare och försök igen.",
     "CL_bind_suc": "bindning lyckades",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Skapa ditt eget recept",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Före rengöring: \n - Ta bort all is från isbehållaren och fyll vattentanken med vatten. \n - Se till att kylskåps- och frysdörrarna är stängda. \n Starta ismaskinens rengöringsfunktion efter att du har slutfört ovanstående. \n 2. Under rengöring: \n - En rengöringscykel tar cirka 2 minuter. Istillverkningen pausar under denna tid. Vänta tills rengöringen är klar. \n 3. Efter rengöring: \n - Töm eventuellt kvarvarande vatten från isbehållaren och rengör behållaren innan du startar om istillverkningen för att undvika att kontaminera ny is. \n - När rengöringen är klar växlar enheten automatiskt till normalt istillverkningsläge. Om du inte behöver fortsätta att tillverka is, stäng av ismaskinen.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Rengöringsåtgärder",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Innan rengöring, läs noggrant igenom rengöringsåtgärderna i avsnittet \"Läs mer\" och gör nödvändiga förberedelser. Rengöringsprocessen tar cirka 2 minuter. Rengör isbrickan omedelbart när den är klar för att undvika att isen kontamineras under istillverkningsprocessen.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Innan rengöring, vänligen läs noggrant igenom rengöringsåtgärderna i '<b>Läs mer</b>' och gör nödvändiga förberedelser. Rengöringsprocessen tar cirka 2 minuter. Rengör isbrickan omedelbart när den är klar för att undvika att isen kontamineras under istillverkningsprocessen.",
     "CL_protocol_up_content": "Välkommen att använda Hisense ConnectLife ASIA-appen. Vi har nyligen uppdaterat appens <b>Integritetspolicy.</b> För att bättre skydda dina rättigheter, vänligen läs denna policy noggrant innan du använder Hisense ConnectLife ASIA-appen. Genom att klicka på \"godkänn\" godkänner du ovanstående policy. Om du inte godkänner kommer vi inte att kunna använda våra tjänster.",
     "CL_phone_incorrect": "Felaktigt telefonnummer",
     "CL_CF_US_auth_code_error_re": "Verifieringskod fel eller har upphört att gälla, försök igen",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Historiska faktureringsdata kan bli felaktiga efter att valutaenheten har ändrats.",
     "CL_DV_WM_dirt_light": "Ljus",
     "CL_DV_WM_dirt_medium": "Medium",
-    "CL_DV_WM_dirt_heavy": "smutsig"
+    "CL_DV_WM_dirt_heavy": "smutsig",
+    "CL_DV_EY_clean": "Rena",
+    "CL_DV_EY_voltage_range_tips": "Överspänningströskeln måste ställas in högre än underspänningströskeln.",
+    "CL_DV_EY_frequency_range_tips": "Nätfrekvensen hög måste ställas in högre än nätfrekvensen låg.",
+    "CL_DV_EY_ble_disconnected_tips": "Bluetooth-anslutningen har kopplats bort. Kontrollera telefonens Bluetooth-status.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH FÖRLORAD",
+    "CL_DV_EY_ble_upgrading_tips": "Energilagringssystemet uppgraderas för närvarande. Försök igen när uppgraderingen är klar.",
+    "rated_power": "Nominell effekt"
 }

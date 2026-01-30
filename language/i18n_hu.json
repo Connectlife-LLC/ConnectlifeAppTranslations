@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "AI mód (valós idejű árképzési válaszokhoz)",
     "CL_login_bind_tips": "Már megkötözve",
     "self_consume": "Önfogyasztás",
-    "peak_shift": "Csúcsváltás",
     "bat_priority": "Denevérprioritás",
     "CL_DV_EY_device_not_found_tips": "Az eszköz nem található, kérjük, menjen közelebb, és próbálja újra.",
     "CL_bind_suc": "siker kötése",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Készítsd el a saját receptedet",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Tisztítás előtt: \n - Távolítsa el a jeget a jégtartályból, és töltse fel vízzel a víztartályt. \n - Győződjön meg arról, hogy a hűtőszekrény és a fagyasztó ajtaja zárva van. \n A fentiek elvégzése után indítsa el a jégkészítő tisztító funkcióját. \n 2. Tisztítás közben: \n - Egyetlen tisztítási ciklus körülbelül 2 percig tart. A jégkészítés ez idő alatt szünetel. Kérjük, várjon, amíg a tisztítás befejeződik. \n 3. Tisztítás után: \n - Öntse ki a maradék vizet a jégtartályból, és tisztítsa meg a tartályt, mielőtt újraindítaná a jégkészítést, hogy elkerülje az új jég szennyeződését. \n - A tisztítás befejezésekor a készülék automatikusan normál jégkészítő üzemmódba kapcsol. Ha nincs szüksége a jégkészítés folytatására, kérjük, kapcsolja ki a jégkészítőt.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Tisztítási óvintézkedések",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Tisztítás előtt kérjük, figyelmesen olvassa el a „További információk” részben található tisztítási óvintézkedéseket, és tegye meg a szükséges előkészületeket. A tisztítási folyamat körülbelül 2 percig tart. A befejezés után azonnal tisztítsa meg a jégtálcát, hogy elkerülje a jég szennyeződését a jégkészítés során.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Tisztítás előtt kérjük, figyelmesen olvassa el a tisztítási óvintézkedéseket a következő részben: '<b>Tudj meg többet</b>„részletet, és végezze el a szükséges előkészületeket. A tisztítási folyamat körülbelül 2 percig tart. A befejezés után azonnal tisztítsa meg a jégtálcát, hogy elkerülje a jég szennyeződését a jégkészítés során.",
     "CL_protocol_up_content": "Üdvözöljük a Hisense ConnectLife ASIA alkalmazásban. Nemrég frissítettük az alkalmazást. <b>Adatvédelmi irányelvek.</b> Jogainak fokozott védelme érdekében kérjük, figyelmesen olvassa el ezt a szabályzatot a Hisense ConnectLife ASIA alkalmazás használata előtt. Az „elfogadom” gombra kattintva elfogadja a fenti szabályzatot. Ha nem ért egyet, nem tudjuk használni szolgáltatásainkat.",
     "CL_phone_incorrect": "Helytelen telefonszám",
     "CL_CF_US_auth_code_error_re": "Hiba vagy lejárt az ellenőrző kód, kérjük, próbálja újra",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "A korábbi számlázási adatok pontatlanná válhatnak a pénznem megváltoztatása után.",
     "CL_DV_WM_dirt_light": "Fény",
     "CL_DV_WM_dirt_medium": "Közepes",
-    "CL_DV_WM_dirt_heavy": "Nehéz"
+    "CL_DV_WM_dirt_heavy": "Nehéz",
+    "CL_DV_EY_clean": "Tiszta",
+    "CL_DV_EY_voltage_range_tips": "A túlfeszültségi küszöbértéket magasabbra kell beállítani, mint az alulfeszültségi küszöbértéket.",
+    "CL_DV_EY_frequency_range_tips": "A hálózati frekvencia felső értékét magasabbra kell állítani, mint az alacsony hálózati frekvencia értékét.",
+    "CL_DV_EY_ble_disconnected_tips": "A Bluetooth-kapcsolat megszakadt. Kérjük, ellenőrizze a telefon Bluetooth-állapotát.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH ELVESZETT",
+    "CL_DV_EY_ble_upgrading_tips": "Az energiatároló rendszer jelenleg frissítés alatt áll. Kérjük, próbálja újra a frissítés befejezése után.",
+    "rated_power": "Névleges teljesítmény"
 }

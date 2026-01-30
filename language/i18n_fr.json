@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Mode IA (pour une réponse tarifaire en temps réel)",
     "CL_login_bind_tips": "Déjà lié",
     "self_consume": "Autoconsommation",
-    "peak_shift": "Décalage maximal",
     "bat_priority": "Priorité aux chauves-souris",
     "CL_DV_EY_device_not_found_tips": "Appareil introuvable, veuillez vous rapprocher et réessayer.",
     "CL_bind_suc": "lier le succès",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Créez votre propre recette",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Avant le nettoyage : \n - Retirez la glace du bac à glaçons et remplissez le réservoir d'eau. \n - Assurez-vous que les portes du réfrigérateur et du congélateur sont fermées. \n Une fois ces étapes réalisées, lancez le cycle de nettoyage de la machine à glaçons. \n 2. Pendant le nettoyage : \n - Un cycle de nettoyage dure environ 2 minutes. La production de glace sera interrompue pendant ce temps. Veuillez patienter jusqu'à la fin du nettoyage. \n 3. Après le nettoyage : \n - Videz l'eau restante du bac à glaçons et nettoyez-le avant de relancer la production de glace afin d'éviter toute contamination de la nouvelle glace. \n - Une fois le nettoyage terminé, l'appareil repassera automatiquement en mode de production de glace normal. Si vous n'avez plus besoin de glace, veuillez éteindre la machine à glaçons.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Précautions de nettoyage",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Avant le nettoyage, veuillez consulter attentivement les précautions de nettoyage dans la section « En savoir plus » et prendre les dispositions nécessaires. Le nettoyage dure environ 2 minutes. Une fois terminé, nettoyez immédiatement le bac à glaçons afin d'éviter toute contamination des glaçons lors de leur fabrication.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Avant le nettoyage, veuillez consulter attentivement les précautions de nettoyage dans «<b>Apprendre encore plus</b>Préparez la section et effectuez les préparatifs nécessaires. Le nettoyage prend environ 2 minutes. Une fois terminé, nettoyez immédiatement le bac à glaçons afin d'éviter toute contamination des glaçons lors de leur fabrication.",
     "CL_protocol_up_content": "Bienvenue sur l'application Hisense ConnectLife ASIA. Nous avons récemment mis à jour l'application. <b>Politique de confidentialité.</b> Pour mieux protéger vos droits, veuillez lire attentivement cette politique avant d'utiliser l'application Hisense ConnectLife ASIA. En cliquant sur « Accepter », vous acceptez la politique ci-dessus. Si vous n'êtes pas d'accord, vous ne pourrez pas utiliser nos services.",
     "CL_phone_incorrect": "Numéro de téléphone incorrect",
     "CL_CF_US_auth_code_error_re": "Code de vérification erroné ou expiré, veuillez réessayer.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Les données de facturation historiques peuvent devenir inexactes après un changement d'unité monétaire.",
     "CL_DV_WM_dirt_light": "Lumière",
     "CL_DV_WM_dirt_medium": "Moyen",
-    "CL_DV_WM_dirt_heavy": "Sale"
+    "CL_DV_WM_dirt_heavy": "Sale",
+    "CL_DV_EY_clean": "Faire le ménage",
+    "CL_DV_EY_voltage_range_tips": "Le seuil de surtension doit être fixé à un niveau supérieur au seuil de sous-tension.",
+    "CL_DV_EY_frequency_range_tips": "La fréquence haute du réseau doit être réglée à une valeur supérieure à la fréquence basse du réseau.",
+    "CL_DV_EY_ble_disconnected_tips": "La connexion Bluetooth a été interrompue. Veuillez vérifier l'état du Bluetooth de votre téléphone.",
+    "CL_DV_EY_ble_lost": "Bluetooth perdu",
+    "CL_DV_EY_ble_upgrading_tips": "Le système de stockage d'énergie est actuellement en cours de mise à niveau. Veuillez réessayer une fois la mise à niveau terminée.",
+    "rated_power": "Puissance nominale"
 }

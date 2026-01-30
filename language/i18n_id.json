@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Mode AI (untuk Respons Harga Real-Time)",
     "CL_login_bind_tips": "Sudah Terikat",
     "self_consume": "Mengonsumsi diri sendiri",
-    "peak_shift": "Pergeseran puncak",
     "bat_priority": "Prioritas kelelawar",
     "CL_DV_EY_device_not_found_tips": "Perangkat tidak ditemukan, harap mendekat dan coba lagi.",
     "CL_bind_suc": "mengikat kesuksesan",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Buat resep Anda sendiri",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Sebelum membersihkan: \n Keluarkan semua es dari wadah es dan isi tangki air dengan air. \n Pastikan pintu lemari es dan freezer tertutup. Setelah menyelesaikan hal di atas, mulai fungsi pembersihan pembuat es. \n \n membersihkan: \n Satu siklus pembersihan membutuhkan waktu sekitar 2 menit. Pembuatan es akan berhenti sementara selama waktu ini. Harap \n hingga pembersihan selesai. 3. Setelah membersihkan: \n Kosongkan sisa air dari wadah es dan bersihkan wadah sebelum memulai kembali pembuatan es untuk menghindari kontaminasi es baru. \n Setelah pembersihan selesai, unit akan secara otomatis beralih ke mode pembuatan es normal. Jika Anda tidak perlu melanjutkan pembuatan es, harap matikan pembuat es.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Tindakan Pencegahan Pembersihan",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Sebelum membersihkan, harap tinjau dengan saksama tindakan pencegahan pembersihan di bagian 'Pelajari lebih lanjut' dan lakukan persiapan yang diperlukan. Proses pembersihan membutuhkan waktu sekitar 2 menit. Setelah selesai, segera bersihkan baki es untuk menghindari kontaminasi es selama proses pembuatan es.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Sebelum membersihkan, harap tinjau dengan saksama tindakan pencegahan pembersihan di '<b>Pelajari selengkapnya</b>Masuk ke bagian tersebut dan lakukan persiapan yang diperlukan. Proses pembersihan memakan waktu sekitar 2 menit. Setelah selesai, segera bersihkan baki es untuk menghindari kontaminasi es selama proses pembuatan es.",
     "CL_protocol_up_content": "Selamat datang di aplikasi Hisense ConnectLife ASIA. Kami baru saja memperbarui aplikasi ini. <b>Kebijakan Privasi.</b> Untuk melindungi hak Anda dengan lebih baik, harap baca kebijakan ini dengan saksama sebelum menggunakan Aplikasi Hisense ConnectLife ASIA. Mengklik 'setuju' berarti Anda menyetujui kebijakan di atas. Jika Anda tidak setuju, Anda tidak dapat menggunakan layanan kami.",
     "CL_phone_incorrect": "Nomor telepon salah",
     "CL_CF_US_auth_code_error_re": "Kode verifikasi error atau sudah kedaluwarsa, silakan coba lagi.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Data penagihan historis mungkin menjadi tidak akurat setelah perubahan unit mata uang.",
     "CL_DV_WM_dirt_light": "Lampu",
     "CL_DV_WM_dirt_medium": "Sedang",
-    "CL_DV_WM_dirt_heavy": "Berat"
+    "CL_DV_WM_dirt_heavy": "Berat",
+    "CL_DV_EY_clean": "Membersihkan",
+    "CL_DV_EY_voltage_range_tips": "Ambang batas tegangan lebih harus ditetapkan lebih tinggi daripada ambang batas tegangan kurang.",
+    "CL_DV_EY_frequency_range_tips": "Frekuensi jaringan tinggi harus diatur lebih tinggi daripada frekuensi jaringan rendah.",
+    "CL_DV_EY_ble_disconnected_tips": "Koneksi Bluetooth telah terputus. Silakan periksa status Bluetooth ponsel Anda.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH HILANG",
+    "CL_DV_EY_ble_upgrading_tips": "Sistem penyimpanan energi saat ini sedang menjalani peningkatan. Silakan coba lagi setelah peningkatan selesai.",
+    "rated_power": "Daya terukur"
 }

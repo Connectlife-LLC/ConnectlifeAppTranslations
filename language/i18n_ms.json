@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Mod AI (untuk Respons Harga Masa Nyata)",
     "CL_login_bind_tips": "Sudah Terikat",
     "self_consume": "Makan sendiri",
-    "peak_shift": "Anjakan puncak",
     "bat_priority": "Keutamaan kelawar",
     "CL_DV_EY_device_not_found_tips": "Peranti tidak ditemui, sila bergerak lebih dekat dan cuba lagi.",
     "CL_bind_suc": "kejayaan mengikat",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Cipta resipi anda sendiri",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Sebelum membersihkan: \n - Keluarkan sebarang ais dari tong ais dan isi tangki air dengan air. \n - Pastikan pintu peti sejuk dan peti sejuk beku ditutup. \n Selepas menyelesaikan perkara di atas, mulakan fungsi pembersihan pembuat ais. \n 2. Semasa membersihkan: \n - Satu kitaran pembersihan mengambil masa kira-kira 2 minit. Pembuatan ais akan berhenti seketika dalam tempoh ini. Sila tunggu sehingga pembersihan selesai. \n 3. Selepas membersihkan: \n - Kosongkan sebarang air yang tinggal dari tong ais dan bersihkan tong sebelum memulakan semula pembuatan ais untuk mengelakkan pencemaran ais baharu. \n - Apabila pembersihan tamat, unit akan bertukar secara automatik ke mod pembuatan ais biasa. Jika anda tidak perlu terus membuat ais, sila matikan pembuat ais.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Langkah Berjaga-jaga Pembersihan",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Sebelum membersihkan, sila semak langkah berjaga-jaga pembersihan di bahagian 'Ketahui lebih lanjut' dengan teliti dan buat persediaan yang diperlukan. Proses pembersihan mengambil masa kira-kira 2 minit. Setelah selesai, bersihkan dulang ais dengan segera untuk mengelakkan pencemaran ais semasa proses pembuatan ais.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Sebelum membersihkan, sila semak dengan teliti langkah berjaga-jaga pembersihan dalam '<b>Ketahui lebih lanjut</b>' dan buat persediaan yang diperlukan. Proses pembersihan mengambil masa kira-kira 2 minit. Setelah selesai, bersihkan dulang ais dengan segera untuk mengelakkan pencemaran ais semasa proses pembuatan ais.",
     "CL_protocol_up_content": "Selamat datang untuk menggunakan Aplikasi Hisense ConnectLife ASIA. Kami baru-baru ini telah mengemas kini Aplikasi ini <b>Dasar Privasi.</b> Untuk melindungi hak anda dengan lebih baik, sila baca dasar ini dengan teliti sebelum menggunakan Aplikasi Hisense ConnectLife ASIA. Mengklik 'setuju' bermaksud anda bersetuju dengan dasar di atas. Jika anda tidak bersetuju, kami tidak akan dapat menggunakan perkhidmatan kami.",
     "CL_phone_incorrect": "Nombor telefon salah",
     "CL_CF_US_auth_code_error_re": "Ralat kod pengesahan atau tamat tempoh, sila cuba lagi",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Data pengebilan sejarah mungkin menjadi tidak tepat selepas menukar unit mata wang.",
     "CL_DV_WM_dirt_light": "Cahaya",
     "CL_DV_WM_dirt_medium": "Sederhana",
-    "CL_DV_WM_dirt_heavy": "Berat"
+    "CL_DV_WM_dirt_heavy": "Berat",
+    "CL_DV_EY_clean": "Bersih",
+    "CL_DV_EY_voltage_range_tips": "Ambang voltan lampau mesti ditetapkan lebih tinggi daripada ambang voltan bawah.",
+    "CL_DV_EY_frequency_range_tips": "Frekuensi grid tinggi mesti ditetapkan lebih tinggi daripada frekuensi grid rendah.",
+    "CL_DV_EY_ble_disconnected_tips": "Sambungan Bluetooth telah diputuskan sambungannya. Sila semak status Bluetooth telefon anda.",
+    "CL_DV_EY_ble_lost": "BLUETOOTH HILANG",
+    "CL_DV_EY_ble_upgrading_tips": "Sistem storan tenaga sedang menjalani penaiktarafan. Sila cuba lagi selepas penaiktarafan selesai.",
+    "rated_power": "Kuasa yang dinilai"
 }

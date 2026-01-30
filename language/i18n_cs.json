@@ -7819,7 +7819,6 @@
     "ai_mode_real_time": "Režim AI (pro odezvu na ceny v reálném čase)",
     "CL_login_bind_tips": "Již vázán",
     "self_consume": "Vlastní spotřeba",
-    "peak_shift": "Posun vrcholu",
     "bat_priority": "Priorita netopýrů",
     "CL_DV_EY_device_not_found_tips": "Zařízení nenalezeno, přibližte se prosím a zkuste to znovu.",
     "CL_bind_suc": "úspěšná vazba",
@@ -7873,7 +7872,7 @@
     "CL_MP_create_new_recipes2": "Vytvořte si vlastní recept",
     "CL_DV_RF_ice_maker_cleaning_desc": "1. Před čištěním: \n - Odstraňte veškerý led ze zásobníku na led a naplňte nádržku na vodu vodou. \n - Ujistěte se, že jsou dvířka chladničky a mrazničky zavřená. \n Po dokončení výše uvedeného spusťte čisticí funkci výrobníku ledu. \n 2. Během čištění: \n - Jeden čisticí cyklus trvá přibližně 2 minuty. Během této doby se výroba ledu pozastaví. Počkejte, dokud nebude čištění dokončeno. \n 3. Po čištění: \n - Vylijte veškerou zbývající vodu ze zásobníku na led a před opětovným spuštěním výroby ledu jej vyčistěte, abyste zabránili kontaminaci nového ledu. \n - Po dokončení čištění se jednotka automaticky přepne do normálního režimu výroby ledu. Pokud již nepotřebujete pokračovat ve výrobě ledu, vypněte výrobník ledu.",
     "CL_DV_RF_ice_maker_cleaning_precautions": "Bezpečnostní opatření pro čištění",
-    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Před čištěním si pečlivě prostudujte bezpečnostní opatření k čištění v části „Další informace“ a proveďte nezbytné přípravy. Proces čištění trvá přibližně 2 minuty. Po dokončení ihned očistěte misku na led, abyste zabránili kontaminaci ledu během procesu výroby ledu.",
+    "CL_DV_RF_ice_maker_cleaning_precautions_info": "Před čištěním si prosím pečlivě prostudujte bezpečnostní opatření v části „…“<b>Zjistěte více</b>' a proveďte potřebné přípravy. Proces čištění trvá přibližně 2 minuty. Po dokončení ihned vyčistěte misku na led, abyste zabránili kontaminaci ledu během procesu výroby ledu.",
     "CL_protocol_up_content": "Vítejte v aplikaci Hisense ConnectLife ASIA. Nedávno jsme aktualizovali její obsah. <b>Zásady ochrany osobních údajů.</b> Abyste lépe chránili svá práva, pečlivě si přečtěte tyto zásady před použitím aplikace Hisense ConnectLife ASIA. Kliknutím na tlačítko „souhlasím“ souhlasíte s výše uvedenými zásadami. Pokud s nimi nesouhlasíte, nebudeme moci naše služby používat.",
     "CL_phone_incorrect": "Nesprávné telefonní číslo",
     "CL_CF_US_auth_code_error_re": "Chyba ověřovacího kódu nebo vypršela platnost, zkuste to prosím znovu.",
@@ -7928,5 +7927,12 @@
     "CL_TS_change_currency_tips": "Historická fakturační data se mohou po změně měnové jednotky stát nepřesnými.",
     "CL_DV_WM_dirt_light": "Světlo",
     "CL_DV_WM_dirt_medium": "Střední",
-    "CL_DV_WM_dirt_heavy": "znečištění"
+    "CL_DV_WM_dirt_heavy": "znečištění",
+    "CL_DV_EY_clean": "Čistý",
+    "CL_DV_EY_voltage_range_tips": "Prahová hodnota přepětí musí být nastavena výše než prahová hodnota podpětí.",
+    "CL_DV_EY_frequency_range_tips": "Vysoká frekvence sítě musí být nastavena výše než nízká frekvence sítě.",
+    "CL_DV_EY_ble_disconnected_tips": "Připojení Bluetooth bylo odpojeno. Zkontrolujte prosím stav Bluetooth v telefonu.",
+    "CL_DV_EY_ble_lost": "ZTRACENO BLUETOOTH",
+    "CL_DV_EY_ble_upgrading_tips": "Systém úložiště energie právě prochází aktualizací. Zkuste to prosím znovu po dokončení aktualizace.",
+    "rated_power": "Jmenovitý výkon"
 }
