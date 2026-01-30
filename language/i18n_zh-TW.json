@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "藍牙連線已中斷。請檢查手機的藍牙狀態。",
     "CL_DV_EY_ble_lost": "藍牙連線遺失",
     "CL_DV_EY_ble_upgrading_tips": "儲能係統目前正在升級，請待升級完成後再試。",
-    "rated_power": "額定功率"
+    "rated_power": "額定功率",
+    "CL_AC_human_error_tips": "無法設定此功能。請檢查人體感應器是否有故障。"
 }

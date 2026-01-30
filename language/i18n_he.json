@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "חיבור ה-Bluetooth נותק. אנא בדוק את מצב ה-Bluetooth של הטלפון שלך.",
     "CL_DV_EY_ble_lost": "בלוטות' אבוד",
     "CL_DV_EY_ble_upgrading_tips": "מערכת אחסון האנרגיה עוברת כעת שדרוג. אנא נסה שוב לאחר השלמת השדרוג.",
-    "rated_power": "הספק מדורג"
+    "rated_power": "הספק מדורג",
+    "CL_AC_human_error_tips": "לא ניתן להגדיר פונקציה זו. אנא בדוק אם יש תקלות בחיישן נוכחות אנושית."
 }

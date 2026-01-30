@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Połączenie Bluetooth zostało przerwane. Sprawdź stan Bluetooth w telefonie.",
     "CL_DV_EY_ble_lost": "UTRATA BLUETOOTH",
     "CL_DV_EY_ble_upgrading_tips": "System magazynowania energii jest obecnie modernizowany. Spróbuj ponownie po zakończeniu aktualizacji.",
-    "rated_power": "Moc znamionowa"
+    "rated_power": "Moc znamionowa",
+    "CL_AC_human_error_tips": "Nie można ustawić tej funkcji. Sprawdź, czy czujnik obecności człowieka nie działa nieprawidłowo."
 }

@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Conexiunea Bluetooth a fost întreruptă. Verificați starea Bluetooth a telefonului.",
     "CL_DV_EY_ble_lost": "BLUETOOTH PIERDUT",
     "CL_DV_EY_ble_upgrading_tips": "Sistemul de stocare a energiei este în curs de actualizare. Vă rugăm să încercați din nou după finalizarea actualizării.",
-    "rated_power": "Putere nominală"
+    "rated_power": "Putere nominală",
+    "CL_AC_human_error_tips": "Nu se poate seta această funcție. Verificați dacă există defecțiuni ale senzorului de prezență umană."
 }

@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Připojení Bluetooth bylo odpojeno. Zkontrolujte prosím stav Bluetooth v telefonu.",
     "CL_DV_EY_ble_lost": "ZTRACENO BLUETOOTH",
     "CL_DV_EY_ble_upgrading_tips": "Systém úložiště energie právě prochází aktualizací. Zkuste to prosím znovu po dokončení aktualizace.",
-    "rated_power": "Jmenovitý výkon"
+    "rated_power": "Jmenovitý výkon",
+    "CL_AC_human_error_tips": "Tuto funkci nelze nastavit. Zkontrolujte prosím, zda nedochází k poruše senzoru přítomnosti osoby."
 }

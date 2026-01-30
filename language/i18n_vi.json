@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Kết nối Bluetooth đã bị ngắt. Vui lòng kiểm tra trạng thái Bluetooth trên điện thoại của bạn.",
     "CL_DV_EY_ble_lost": "BLUETOOTH BỊ MẤT",
     "CL_DV_EY_ble_upgrading_tips": "Hệ thống lưu trữ năng lượng hiện đang được nâng cấp. Vui lòng thử lại sau khi quá trình nâng cấp hoàn tất.",
-    "rated_power": "Công suất định mức"
+    "rated_power": "Công suất định mức",
+    "CL_AC_human_error_tips": "Không thể thiết lập chức năng này. Vui lòng kiểm tra xem cảm biến phát hiện người có bị lỗi không."
 }

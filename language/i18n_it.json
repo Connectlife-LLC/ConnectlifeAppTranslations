@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "La connessione Bluetooth è stata interrotta. Controlla lo stato Bluetooth del tuo telefono.",
     "CL_DV_EY_ble_lost": "BLUETOOTH PERSO",
     "CL_DV_EY_ble_upgrading_tips": "Il sistema di accumulo di energia è attualmente in fase di aggiornamento. Riprovare al termine dell'aggiornamento.",
-    "rated_power": "Potenza nominale"
+    "rated_power": "Potenza nominale",
+    "CL_AC_human_error_tips": "Impossibile impostare questa funzione. Verificare eventuali malfunzionamenti del sensore di presenza umana."
 }

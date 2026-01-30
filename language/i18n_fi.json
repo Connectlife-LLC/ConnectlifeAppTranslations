@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Bluetooth-yhteys on katkaistu. Tarkista puhelimesi Bluetooth-tila.",
     "CL_DV_EY_ble_lost": "BLUETOOTH-YHTEYS KATKOON",
     "CL_DV_EY_ble_upgrading_tips": "Energian varastointijärjestelmää päivitetään parhaillaan. Yritä uudelleen päivityksen valmistuttua.",
-    "rated_power": "Nimellisteho"
+    "rated_power": "Nimellisteho",
+    "CL_AC_human_error_tips": "Tämän toiminnon asettaminen epäonnistui. Tarkista läsnäolotunnistimen toimintahäiriöt."
 }

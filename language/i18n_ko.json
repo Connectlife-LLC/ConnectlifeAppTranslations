@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "블루투스 연결이 끊어졌습니다. 휴대폰의 블루투스 상태를 확인해 주세요.",
     "CL_DV_EY_ble_lost": "블루투스 연결 끊김",
     "CL_DV_EY_ble_upgrading_tips": "에너지 저장 시스템이 현재 업그레이드 중입니다. 업그레이드가 완료된 후 다시 시도해 주세요.",
-    "rated_power": "정격 출력"
+    "rated_power": "정격 출력",
+    "CL_AC_human_error_tips": "이 기능을 설정할 수 없습니다. 인체 감지 센서의 오작동 여부를 확인해 주십시오."
 }

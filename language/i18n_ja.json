@@ -7934,5 +7934,6 @@
     "CL_DV_EY_ble_disconnected_tips": "Bluetooth接続が切断されました。お使いの携帯電話のBluetoothステータスをご確認ください。",
     "CL_DV_EY_ble_lost": "Bluetoothが失われました",
     "CL_DV_EY_ble_upgrading_tips": "エネルギー貯蔵システムは現在アップグレード中です。アップグレードが完了してからもう一度お試しください。",
-    "rated_power": "定格出力"
+    "rated_power": "定格出力",
+    "CL_AC_human_error_tips": "この機能を設定できません。人感センサーの故障がないか確認してください。"
 }
