@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Пускова потужність к.с.",
     "CL_DV_EY_hp_stop_power": "Потужність зупинки HP",
     "CL_DV_EY_hp_start_soc": "Початковий SOC HP",
-    "CL_DV_EY_hp_stop_soc": "Зупинка HP SoC",
+    "CL_DV_EY_hp_stop_soc": "Зупинка HP SOC",
     "CL_DV_EY_min_run_time_once": "Мінімальний час виконання один раз",
     "CL_DV_EY_min_run_time_day": "Максимальний час роботи протягом дня",
     "CL_DV_EY_stop_month1": "Зупинити місяць 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "планувальник",
     "CL_DV_EY_month_from": "Місяць від",
     "CL_DV_EY_month_to": "Місяць до",
-    "CL_DV_EY_enable_scheduler": "Увімкнути планувальник"
+    "CL_DV_EY_enable_scheduler": "Увімкнути планувальник",
+    "CL_DV_EY_unlock_tips": "Ви впевнені, що хочете розблокувати?"
 }

@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Kuasa mula HP",
     "CL_DV_EY_hp_stop_power": "Kuasa henti HP",
     "CL_DV_EY_hp_start_soc": "HP memulakan SOC",
-    "CL_DV_EY_hp_stop_soc": "HP berhenti SoC",
+    "CL_DV_EY_hp_stop_soc": "HP berhenti SOC",
     "CL_DV_EY_min_run_time_once": "Masa larian minimum sekali",
     "CL_DV_EY_min_run_time_day": "Hari masa larian maksimum",
     "CL_DV_EY_stop_month1": "Hentikan bulan 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "penjadual",
     "CL_DV_EY_month_from": "Bulan dari",
     "CL_DV_EY_month_to": "Bulan ke",
-    "CL_DV_EY_enable_scheduler": "Dayakan penjadual"
+    "CL_DV_EY_enable_scheduler": "Dayakan penjadual",
+    "CL_DV_EY_unlock_tips": "Adakah anda pasti untuk membuka kunci?"
 }

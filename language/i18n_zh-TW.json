@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "調度器",
     "CL_DV_EY_month_from": "月",
     "CL_DV_EY_month_to": "月至",
-    "CL_DV_EY_enable_scheduler": "啟用調度程序"
+    "CL_DV_EY_enable_scheduler": "啟用調度程序",
+    "CL_DV_EY_unlock_tips": "你確定要解鎖嗎？"
 }

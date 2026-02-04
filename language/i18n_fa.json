@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "قدرت شروع HP",
     "CL_DV_EY_hp_stop_power": "قدرت توقف HP",
     "CL_DV_EY_hp_start_soc": "مرکز عملیات امنیت (SOC) را از HP شروع کنید",
-    "CL_DV_EY_hp_stop_soc": "HP SoC را متوقف کنید",
+    "CL_DV_EY_hp_stop_soc": "HP SOC را متوقف کنید",
     "CL_DV_EY_min_run_time_once": "حداقل زمان اجرا یک بار",
     "CL_DV_EY_min_run_time_day": "حداکثر زمان اجرا در روز",
     "CL_DV_EY_stop_month1": "ماه توقف ۱",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "برنامه‌ریز",
     "CL_DV_EY_month_from": "ماه از",
     "CL_DV_EY_month_to": "ماه تا",
-    "CL_DV_EY_enable_scheduler": "فعال کردن زمان‌بندی"
+    "CL_DV_EY_enable_scheduler": "فعال کردن زمان‌بندی",
+    "CL_DV_EY_unlock_tips": "مطمئنی آنلاک میشه؟"
 }

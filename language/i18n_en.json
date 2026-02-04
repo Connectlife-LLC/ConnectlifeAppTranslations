@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "scheduler",
     "CL_DV_EY_month_from": "Month from",
     "CL_DV_EY_month_to": "Month to",
-    "CL_DV_EY_enable_scheduler": "Enable scheduler"
+    "CL_DV_EY_enable_scheduler": "Enable scheduler",
+    "CL_DV_EY_unlock_tips": "Are you sure to unlock?"
 }

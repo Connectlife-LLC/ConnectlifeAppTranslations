@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "כוח התחלתי של HP",
     "CL_DV_EY_hp_stop_power": "כוח עצירה של HP",
     "CL_DV_EY_hp_start_soc": "הפעלה של HP במערכת ההפעלה (SOC)",
-    "CL_DV_EY_hp_stop_soc": "עצירת HP SoC",
+    "CL_DV_EY_hp_stop_soc": "עצירת HP SOC",
     "CL_DV_EY_min_run_time_once": "זמן ריצה מינימלי פעם אחת",
     "CL_DV_EY_min_run_time_day": "זמן ריצה מקסימלי ביום",
     "CL_DV_EY_stop_month1": "עצירת חודש 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "מתזמן",
     "CL_DV_EY_month_from": "חודש מ",
     "CL_DV_EY_month_to": "חודש עד",
-    "CL_DV_EY_enable_scheduler": "הפעל את מתזמן"
+    "CL_DV_EY_enable_scheduler": "הפעל את מתזמן",
+    "CL_DV_EY_unlock_tips": "האם אתה בטוח שברצונך לפתוח?"
 }

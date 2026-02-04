@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HP 시동 전력",
     "CL_DV_EY_hp_stop_power": "HP 정지 전력",
     "CL_DV_EY_hp_start_soc": "HP 스타트 SOC",
-    "CL_DV_EY_hp_stop_soc": "HP 스톱 SoC",
+    "CL_DV_EY_hp_stop_soc": "HP 스톱 SOC",
     "CL_DV_EY_min_run_time_once": "최소 실행 시간(1회)",
     "CL_DV_EY_min_run_time_day": "최대 작동 시간(일)",
     "CL_DV_EY_stop_month1": "1개월 정지",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "스케줄러",
     "CL_DV_EY_month_from": "한 달",
     "CL_DV_EY_month_to": "한 달",
-    "CL_DV_EY_enable_scheduler": "스케줄러 활성화"
+    "CL_DV_EY_enable_scheduler": "스케줄러 활성화",
+    "CL_DV_EY_unlock_tips": "정말 잠금 해제하시겠습니까?"
 }

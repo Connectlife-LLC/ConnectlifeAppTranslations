@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "προγραμματιστής",
     "CL_DV_EY_month_from": "Μήνας από",
     "CL_DV_EY_month_to": "Μήνας έως",
-    "CL_DV_EY_enable_scheduler": "Ενεργοποίηση χρονοπρογραμματιστή"
+    "CL_DV_EY_enable_scheduler": "Ενεργοποίηση χρονοπρογραμματιστή",
+    "CL_DV_EY_unlock_tips": "Είστε σίγουροι ότι θα ξεκλειδώσετε;"
 }

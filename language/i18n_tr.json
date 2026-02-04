@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HP başlangıç gücü",
     "CL_DV_EY_hp_stop_power": "HP durdurma gücü",
     "CL_DV_EY_hp_start_soc": "HP başlangıç SOC'u",
-    "CL_DV_EY_hp_stop_soc": "HP SoC'yi durduruyor",
+    "CL_DV_EY_hp_stop_soc": "HP SOC'yi durduruyor",
     "CL_DV_EY_min_run_time_once": "Minimum çalışma süresi bir kez",
     "CL_DV_EY_min_run_time_day": "Maksimum çalışma süresi (gün)",
     "CL_DV_EY_stop_month1": "1. ayı durdurun",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "zamanlayıcı",
     "CL_DV_EY_month_from": "Aydan itibaren",
     "CL_DV_EY_month_to": "Aydan aya",
-    "CL_DV_EY_enable_scheduler": "Zamanlayıcıyı etkinleştir"
+    "CL_DV_EY_enable_scheduler": "Zamanlayıcıyı etkinleştir",
+    "CL_DV_EY_unlock_tips": "Kilidi açmak istediğinizden emin misiniz?"
 }

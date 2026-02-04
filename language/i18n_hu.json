@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "LE indítóteljesítmény",
     "CL_DV_EY_hp_stop_power": "HP leállítóerő",
     "CL_DV_EY_hp_start_soc": "HP indítási SOC",
-    "CL_DV_EY_hp_stop_soc": "HP leállítás SoC",
+    "CL_DV_EY_hp_stop_soc": "HP leállítás SOC",
     "CL_DV_EY_min_run_time_once": "Minimum futási idő egyszer",
     "CL_DV_EY_min_run_time_day": "Napi maximális futási idő",
     "CL_DV_EY_stop_month1": "1. hónap leállítása",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "ütemező",
     "CL_DV_EY_month_from": "Hónap ettől:",
     "CL_DV_EY_month_to": "Hónaptól",
-    "CL_DV_EY_enable_scheduler": "Ütemező engedélyezése"
+    "CL_DV_EY_enable_scheduler": "Ütemező engedélyezése",
+    "CL_DV_EY_unlock_tips": "Biztosan feloldja?"
 }

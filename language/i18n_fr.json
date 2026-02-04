@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Puissance de démarrage HP",
     "CL_DV_EY_hp_stop_power": "Puissance d'arrêt HP",
     "CL_DV_EY_hp_start_soc": "HP démarre le SOC",
-    "CL_DV_EY_hp_stop_soc": "HP arrête le SoC",
+    "CL_DV_EY_hp_stop_soc": "HP arrête le SOC",
     "CL_DV_EY_min_run_time_once": "Durée d'exécution minimale une fois",
     "CL_DV_EY_min_run_time_day": "Durée maximale d'exécution par jour",
     "CL_DV_EY_stop_month1": "Arrêter le mois 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "planificateur",
     "CL_DV_EY_month_from": "Mois à partir de",
     "CL_DV_EY_month_to": "Mois à",
-    "CL_DV_EY_enable_scheduler": "Activer le planificateur"
+    "CL_DV_EY_enable_scheduler": "Activer le planificateur",
+    "CL_DV_EY_unlock_tips": "Êtes-vous sûr de déverrouiller ?"
 }

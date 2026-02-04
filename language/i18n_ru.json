@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HP стартовая мощность",
     "CL_DV_EY_hp_stop_power": "HP стоп-мощность",
     "CL_DV_EY_hp_start_soc": "HP start SOC",
-    "CL_DV_EY_hp_stop_soc": "HP останавливает SoC",
+    "CL_DV_EY_hp_stop_soc": "HP останавливает SOC",
     "CL_DV_EY_min_run_time_once": "Минимальное время выполнения один раз",
     "CL_DV_EY_min_run_time_day": "Максимальное время работы в день",
     "CL_DV_EY_stop_month1": "Остановить месяц 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "планировщик",
     "CL_DV_EY_month_from": "Месяц с",
     "CL_DV_EY_month_to": "Месяц до",
-    "CL_DV_EY_enable_scheduler": "Включить планировщик"
+    "CL_DV_EY_enable_scheduler": "Включить планировщик",
+    "CL_DV_EY_unlock_tips": "Вы уверены, что разблокировали?"
 }

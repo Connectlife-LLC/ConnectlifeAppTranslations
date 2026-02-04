@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HP іске қосу қуаты",
     "CL_DV_EY_hp_stop_power": "HP тоқтату қуаты",
     "CL_DV_EY_hp_start_soc": "HP іске қосу SOC",
-    "CL_DV_EY_hp_stop_soc": "HP тоқтату SoC",
+    "CL_DV_EY_hp_stop_soc": "HP тоқтату SOC",
     "CL_DV_EY_min_run_time_once": "Бір рет минималды жұмыс уақыты",
     "CL_DV_EY_min_run_time_day": "Максималды жұмыс уақыты күні",
     "CL_DV_EY_stop_month1": "1-ай тоқтайды",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "жоспарлаушы",
     "CL_DV_EY_month_from": "Айдың басы",
     "CL_DV_EY_month_to": "Айға дейін",
-    "CL_DV_EY_enable_scheduler": "Жоспарлағышты қосу"
+    "CL_DV_EY_enable_scheduler": "Жоспарлағышты қосу",
+    "CL_DV_EY_unlock_tips": "Құлпын ашатыныңызға сенімдісіз бе?"
 }

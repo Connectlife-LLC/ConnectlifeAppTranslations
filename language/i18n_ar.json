@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "جدولة",
     "CL_DV_EY_month_from": "الشهر من",
     "CL_DV_EY_month_to": "شهر إلى",
-    "CL_DV_EY_enable_scheduler": "تفعيل المجدول"
+    "CL_DV_EY_enable_scheduler": "تفعيل المجدول",
+    "CL_DV_EY_unlock_tips": "هل أنت متأكد من فتح القفل؟"
 }

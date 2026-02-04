@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HV:n käynnistysteho",
     "CL_DV_EY_hp_stop_power": "HP:n pysäytysteho",
     "CL_DV_EY_hp_start_soc": "HP:n käynnistys SOC",
-    "CL_DV_EY_hp_stop_soc": "HP-pysäytys SoC",
+    "CL_DV_EY_hp_stop_soc": "HP-pysäytys SOC",
     "CL_DV_EY_min_run_time_once": "Minimiaika kerran",
     "CL_DV_EY_min_run_time_day": "Päivän maksimiaika",
     "CL_DV_EY_stop_month1": "Lopeta kuukausi 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "ajastin",
     "CL_DV_EY_month_from": "Kuukausi alkaen",
     "CL_DV_EY_month_to": "Kuukausi",
-    "CL_DV_EY_enable_scheduler": "Ota ajoitus käyttöön"
+    "CL_DV_EY_enable_scheduler": "Ota ajoitus käyttöön",
+    "CL_DV_EY_unlock_tips": "Oletko varma, että avaat?"
 }

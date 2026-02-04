@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HP-Startleistung",
     "CL_DV_EY_hp_stop_power": "HP-Stromabschaltung",
     "CL_DV_EY_hp_start_soc": "HP startet SOC",
-    "CL_DV_EY_hp_stop_soc": "HP stoppt SoC",
+    "CL_DV_EY_hp_stop_soc": "HP stoppt SOC",
     "CL_DV_EY_min_run_time_once": "Mindestlaufzeit einmalig",
     "CL_DV_EY_min_run_time_day": "Maximale Laufzeit pro Tag",
     "CL_DV_EY_stop_month1": "Stopp Monat 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "Terminplaner",
     "CL_DV_EY_month_from": "Monat ab",
     "CL_DV_EY_month_to": "Monat bis",
-    "CL_DV_EY_enable_scheduler": "Zeitplaner aktivieren"
+    "CL_DV_EY_enable_scheduler": "Zeitplaner aktivieren",
+    "CL_DV_EY_unlock_tips": "Möchten Sie das Entsperren wirklich?"
 }

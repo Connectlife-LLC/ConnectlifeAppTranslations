@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "अनुसूचक",
     "CL_DV_EY_month_from": "महीने से",
     "CL_DV_EY_month_to": "महीने से",
-    "CL_DV_EY_enable_scheduler": "शेड्यूलर को सक्षम करें"
+    "CL_DV_EY_enable_scheduler": "शेड्यूलर को सक्षम करें",
+    "CL_DV_EY_unlock_tips": "क्या आप अनलॉक करने के लिए निश्चित हैं?"
 }

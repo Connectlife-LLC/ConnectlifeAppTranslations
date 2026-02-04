@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Putere de pornire HP",
     "CL_DV_EY_hp_stop_power": "Putere de oprire HP",
     "CL_DV_EY_hp_start_soc": "SOC de pornire HP",
-    "CL_DV_EY_hp_stop_soc": "SoC de oprire HP",
+    "CL_DV_EY_hp_stop_soc": "SOC de oprire HP",
     "CL_DV_EY_min_run_time_once": "Timp minim de rulare o dată",
     "CL_DV_EY_min_run_time_day": "Timp maxim de funcționare zi",
     "CL_DV_EY_stop_month1": "Opriți luna 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "planificator",
     "CL_DV_EY_month_from": "Lună de la",
     "CL_DV_EY_month_to": "Lună până la",
-    "CL_DV_EY_enable_scheduler": "Activează programatorul"
+    "CL_DV_EY_enable_scheduler": "Activează programatorul",
+    "CL_DV_EY_unlock_tips": "Sigur vrei să deblochezi?"
 }

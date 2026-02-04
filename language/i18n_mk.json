@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HP моќност на стартување",
     "CL_DV_EY_hp_stop_power": "HP запирање на напојувањето",
     "CL_DV_EY_hp_start_soc": "HP старт SOC",
-    "CL_DV_EY_hp_stop_soc": "HP стоп SoC",
+    "CL_DV_EY_hp_stop_soc": "HP стоп SOC",
     "CL_DV_EY_min_run_time_once": "Мин. време на извршување еднаш",
     "CL_DV_EY_min_run_time_day": "Максимално време на извршување на денот",
     "CL_DV_EY_stop_month1": "Запри месец1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "распоредувач",
     "CL_DV_EY_month_from": "Месец од",
     "CL_DV_EY_month_to": "Месец до",
-    "CL_DV_EY_enable_scheduler": "Овозможи распоредувач"
+    "CL_DV_EY_enable_scheduler": "Овозможи распоредувач",
+    "CL_DV_EY_unlock_tips": "Дали сигурно сакате да отклучите?"
 }

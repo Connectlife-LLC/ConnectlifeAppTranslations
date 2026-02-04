@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Štartovací výkon HP",
     "CL_DV_EY_hp_stop_power": "Zastavovací výkon HP",
     "CL_DV_EY_hp_start_soc": "Štartovací SOC HP",
-    "CL_DV_EY_hp_stop_soc": "Zastavenie HP SoC",
+    "CL_DV_EY_hp_stop_soc": "Zastavenie HP SOC",
     "CL_DV_EY_min_run_time_once": "Minimálny čas spustenia raz",
     "CL_DV_EY_min_run_time_day": "Maximálny čas behu počas dňa",
     "CL_DV_EY_stop_month1": "Zastaviť mesiac 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "plánovač",
     "CL_DV_EY_month_from": "Mesiac od",
     "CL_DV_EY_month_to": "Mesiac do",
-    "CL_DV_EY_enable_scheduler": "Povoliť plánovač"
+    "CL_DV_EY_enable_scheduler": "Povoliť plánovač",
+    "CL_DV_EY_unlock_tips": "Naozaj chceš odomknúť?"
 }

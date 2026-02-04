@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HK startkraft",
     "CL_DV_EY_hp_stop_power": "HP-stoppkraft",
     "CL_DV_EY_hp_start_soc": "HP start SOC",
-    "CL_DV_EY_hp_stop_soc": "HP-stopp SoC",
+    "CL_DV_EY_hp_stop_soc": "HP-stopp SOC",
     "CL_DV_EY_min_run_time_once": "Min. kjøretid én gang",
     "CL_DV_EY_min_run_time_day": "Maksimal kjøretid dag",
     "CL_DV_EY_stop_month1": "Stopp måned 1",
@@ -7960,5 +7960,6 @@
     "CL_DV_EY_scheduler": "planlegger",
     "CL_DV_EY_month_from": "Måned fra",
     "CL_DV_EY_month_to": "Måned til",
-    "CL_DV_EY_enable_scheduler": "Aktiver planlegger"
+    "CL_DV_EY_enable_scheduler": "Aktiver planlegger",
+    "CL_DV_EY_unlock_tips": "Er du sikker på at du vil låse opp?"
 }
