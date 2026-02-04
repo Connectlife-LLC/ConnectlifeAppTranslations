@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Молочні продукти",
     "CL_DV_WM_program_evaluate_Drying_performance": "Продуктивність сушіння",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Це може відображати ступінь зносу одягу після прання. 1 зірка означає значний знос, тоді як 5 зірок означають, що одяг взагалі не має зносу.",
-    "CL_phone_has_bind_wechat": "Цей номер телефону вже пов'язаний з іншим обліковим записом WeChat"
+    "CL_phone_has_bind_wechat": "Цей номер телефону вже пов'язаний з іншим обліковим записом WeChat",
+    "select_month": "Виберіть місяць",
+    "CL_DV_EY_prohibition": "Сухий закон",
+    "CL_DV_EY_scheduler": "планувальник",
+    "CL_DV_EY_month_from": "Місяць від",
+    "CL_DV_EY_month_to": "Місяць до",
+    "CL_DV_EY_enable_scheduler": "Увімкнути планувальник"
 }

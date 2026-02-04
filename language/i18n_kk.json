@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Сүт өнімдері",
     "CL_DV_WM_program_evaluate_Drying_performance": "Кептіру өнімділігі",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Бұл жуудан кейін киімнің тозу дәрежесін көрсетуі мүмкін. 1 жұлдыз көп тозғанын, ал 5 жұлдыз киімнің мүлде тозбағанын көрсетеді.",
-    "CL_phone_has_bind_wechat": "Бұл телефон нөмірі басқа WeChat тіркелгісіне байланыстырылған"
+    "CL_phone_has_bind_wechat": "Бұл телефон нөмірі басқа WeChat тіркелгісіне байланыстырылған",
+    "select_month": "Айды таңдаңыз",
+    "CL_DV_EY_prohibition": "Тыйым салу",
+    "CL_DV_EY_scheduler": "жоспарлаушы",
+    "CL_DV_EY_month_from": "Айдың басы",
+    "CL_DV_EY_month_to": "Айға дейін",
+    "CL_DV_EY_enable_scheduler": "Жоспарлағышты қосу"
 }

@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Produse lactate",
     "CL_DV_WM_program_evaluate_Drying_performance": "Performanța de uscare",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Aceasta poate reflecta gradul de uzură al hainelor după spălare. 1 stea indică o uzură semnificativă, în timp ce 5 stele indică faptul că hainele nu prezintă deloc uzură.",
-    "CL_phone_has_bind_wechat": "Acest număr de telefon este deja conectat la un alt cont WeChat"
+    "CL_phone_has_bind_wechat": "Acest număr de telefon este deja conectat la un alt cont WeChat",
+    "select_month": "Selectați luna",
+    "CL_DV_EY_prohibition": "Interdicţie",
+    "CL_DV_EY_scheduler": "planificator",
+    "CL_DV_EY_month_from": "Lună de la",
+    "CL_DV_EY_month_to": "Lună până la",
+    "CL_DV_EY_enable_scheduler": "Activează programatorul"
 }

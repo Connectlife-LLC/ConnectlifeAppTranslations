@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "מוצרי חלב",
     "CL_DV_WM_program_evaluate_Drying_performance": "ביצועי ייבוש",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "זה יכול לשקף את מידת הבלאי של הבגדים לאחר הכביסה. כוכב אחד מציין בלאי רב, בעוד 5 כוכבים מציינים שהבגדים אינם בלאי כלל.",
-    "CL_phone_has_bind_wechat": "מספר הטלפון הזה כבר מקושר לחשבון WeChat אחר"
+    "CL_phone_has_bind_wechat": "מספר הטלפון הזה כבר מקושר לחשבון WeChat אחר",
+    "select_month": "בחר חודש",
+    "CL_DV_EY_prohibition": "איסור",
+    "CL_DV_EY_scheduler": "מתזמן",
+    "CL_DV_EY_month_from": "חודש מ",
+    "CL_DV_EY_month_to": "חודש עד",
+    "CL_DV_EY_enable_scheduler": "הפעל את מתזמן"
 }

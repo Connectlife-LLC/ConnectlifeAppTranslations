@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Mliečne výrobky",
     "CL_DV_WM_program_evaluate_Drying_performance": "Výkon sušenia",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Toto môže odrážať stupeň opotrebovania oblečenia po vypraní. 1 hviezdička označuje značné opotrebovanie, zatiaľ čo 5 hviezdičiek označuje, že oblečenie nie je vôbec opotrebované.",
-    "CL_phone_has_bind_wechat": "Toto telefónne číslo je už prepojené s iným účtom WeChat"
+    "CL_phone_has_bind_wechat": "Toto telefónne číslo je už prepojené s iným účtom WeChat",
+    "select_month": "Vyberte mesiac",
+    "CL_DV_EY_prohibition": "Zákaz",
+    "CL_DV_EY_scheduler": "plánovač",
+    "CL_DV_EY_month_from": "Mesiac od",
+    "CL_DV_EY_month_to": "Mesiac do",
+    "CL_DV_EY_enable_scheduler": "Povoliť plánovač"
 }

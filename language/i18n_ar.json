@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "منتجات الألبان",
     "CL_DV_WM_program_evaluate_Drying_performance": "أداء التجفيف",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "يمكن أن يعكس هذا درجة التآكل والتلف للملابس بعد الغسيل. تشير نجمة واحدة إلى الكثير من التآكل، بينما تشير 5 نجوم إلى عدم وجود أي تآكل على الملابس على الإطلاق.",
-    "CL_phone_has_bind_wechat": "هذا الرقم مرتبط بالفعل بحساب WeChat آخر"
+    "CL_phone_has_bind_wechat": "هذا الرقم مرتبط بالفعل بحساب WeChat آخر",
+    "select_month": "اختر الشهر",
+    "CL_DV_EY_prohibition": "حظر",
+    "CL_DV_EY_scheduler": "جدولة",
+    "CL_DV_EY_month_from": "الشهر من",
+    "CL_DV_EY_month_to": "شهر إلى",
+    "CL_DV_EY_enable_scheduler": "تفعيل المجدول"
 }

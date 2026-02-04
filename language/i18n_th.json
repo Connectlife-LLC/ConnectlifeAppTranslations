@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "ผลิตภัณฑ์นม",
     "CL_DV_WM_program_evaluate_Drying_performance": "ประสิทธิภาพการอบแห้ง",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "สิ่งนี้สามารถสะท้อนถึงระดับความสึกหรอของเสื้อผ้าหลังการซักได้ 1 ดาวหมายถึงมีการสึกหรอมาก ในขณะที่ 5 ดาวหมายความว่าเสื้อผ้าไม่มีการสึกหรอเลย",
-    "CL_phone_has_bind_wechat": "หมายเลขโทรศัพท์นี้เชื่อมโยงกับบัญชี WeChat อื่นอยู่แล้ว"
+    "CL_phone_has_bind_wechat": "หมายเลขโทรศัพท์นี้เชื่อมโยงกับบัญชี WeChat อื่นอยู่แล้ว",
+    "select_month": "เลือกเดือน",
+    "CL_DV_EY_prohibition": "การห้าม",
+    "CL_DV_EY_scheduler": "ตัวกำหนดตารางเวลา",
+    "CL_DV_EY_month_from": "เดือนจาก",
+    "CL_DV_EY_month_to": "เดือนถึง",
+    "CL_DV_EY_enable_scheduler": "เปิดใช้งานตัวกำหนดเวลา"
 }

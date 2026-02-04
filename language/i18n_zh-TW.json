@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "乳製品",
     "CL_DV_WM_program_evaluate_Drying_performance": "乾燥性能",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "這可以反映衣服洗完後的磨損程度，1星表示磨損嚴重，5顆星表示衣服完全沒有磨損。",
-    "CL_phone_has_bind_wechat": "此手機號碼已關聯另一個微信帳號"
+    "CL_phone_has_bind_wechat": "此手機號碼已關聯另一個微信帳號",
+    "select_month": "選擇月份",
+    "CL_DV_EY_prohibition": "禁酒令",
+    "CL_DV_EY_scheduler": "調度器",
+    "CL_DV_EY_month_from": "月",
+    "CL_DV_EY_month_to": "月至",
+    "CL_DV_EY_enable_scheduler": "啟用調度程序"
 }

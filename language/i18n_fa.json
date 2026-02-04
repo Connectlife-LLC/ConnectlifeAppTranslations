@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "محصولات لبنی",
     "CL_DV_WM_program_evaluate_Drying_performance": "عملکرد خشک کردن",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "این می‌تواند میزان ساییدگی و پارگی لباس‌ها پس از شستشو را نشان دهد. ۱ ستاره نشان‌دهنده‌ی ساییدگی زیاد است، در حالی که ۵ ستاره نشان می‌دهد که لباس‌ها اصلاً ساییدگی ندارند.",
-    "CL_phone_has_bind_wechat": "این شماره تلفن از قبل به یک حساب WeChat دیگر متصل است"
+    "CL_phone_has_bind_wechat": "این شماره تلفن از قبل به یک حساب WeChat دیگر متصل است",
+    "select_month": "ماه را انتخاب کنید",
+    "CL_DV_EY_prohibition": "ممنوعیت",
+    "CL_DV_EY_scheduler": "برنامه‌ریز",
+    "CL_DV_EY_month_from": "ماه از",
+    "CL_DV_EY_month_to": "ماه تا",
+    "CL_DV_EY_enable_scheduler": "فعال کردن زمان‌بندی"
 }

@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Mejeriprodukter",
     "CL_DV_WM_program_evaluate_Drying_performance": "Tørreevne",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Dette kan afspejle graden af slid på tøjet efter vask. 1 stjerne indikerer meget slid, mens 5 stjerner indikerer, at tøjet slet ikke er slidt.",
-    "CL_phone_has_bind_wechat": "Dette telefonnummer er allerede knyttet til en anden WeChat-konto"
+    "CL_phone_has_bind_wechat": "Dette telefonnummer er allerede knyttet til en anden WeChat-konto",
+    "select_month": "Vælg måned",
+    "CL_DV_EY_prohibition": "Forbud",
+    "CL_DV_EY_scheduler": "planlægger",
+    "CL_DV_EY_month_from": "Måned fra",
+    "CL_DV_EY_month_to": "Måned til",
+    "CL_DV_EY_enable_scheduler": "Aktivér planlægger"
 }

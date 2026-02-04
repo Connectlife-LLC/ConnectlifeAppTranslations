@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Milchprodukte",
     "CL_DV_WM_program_evaluate_Drying_performance": "Trocknungsleistung",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Dies kann den Abnutzungsgrad der Kleidung nach dem Waschen widerspiegeln. 1 Stern bedeutet starke Abnutzung, während 5 Sterne bedeuten, dass die Kleidung überhaupt keine Abnutzung aufweist.",
-    "CL_phone_has_bind_wechat": "Diese Telefonnummer ist bereits mit einem anderen WeChat-Konto verknüpft."
+    "CL_phone_has_bind_wechat": "Diese Telefonnummer ist bereits mit einem anderen WeChat-Konto verknüpft.",
+    "select_month": "Monat auswählen",
+    "CL_DV_EY_prohibition": "Verbot",
+    "CL_DV_EY_scheduler": "Terminplaner",
+    "CL_DV_EY_month_from": "Monat ab",
+    "CL_DV_EY_month_to": "Monat bis",
+    "CL_DV_EY_enable_scheduler": "Zeitplaner aktivieren"
 }

@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Zuivelproducten",
     "CL_DV_WM_program_evaluate_Drying_performance": "Droogprestaties",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Dit kan de mate van slijtage van de kleding na het wassen weergeven. 1 ster betekent dat er veel slijtage is opgetreden, terwijl 5 sterren aangeven dat de kleding helemaal geen slijtage heeft.",
-    "CL_phone_has_bind_wechat": "Dit telefoonnummer is al gekoppeld aan een ander WeChat-account."
+    "CL_phone_has_bind_wechat": "Dit telefoonnummer is al gekoppeld aan een ander WeChat-account.",
+    "select_month": "Selecteer maand",
+    "CL_DV_EY_prohibition": "Verbod",
+    "CL_DV_EY_scheduler": "planner",
+    "CL_DV_EY_month_from": "Maand vanaf",
+    "CL_DV_EY_month_to": "Maand tot",
+    "CL_DV_EY_enable_scheduler": "Schakel de planner in"
 }

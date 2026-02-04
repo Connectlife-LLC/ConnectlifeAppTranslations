@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Mlečni izdelki",
     "CL_DV_WM_program_evaluate_Drying_performance": "Učinkovitost sušenja",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "To lahko odraža stopnjo obrabe oblačil po pranju. 1 zvezdica pomeni veliko obrabe, 5 zvezdic pa, da oblačila sploh niso obrabljena.",
-    "CL_phone_has_bind_wechat": "Ta telefonska številka je že povezana z drugim računom WeChat"
+    "CL_phone_has_bind_wechat": "Ta telefonska številka je že povezana z drugim računom WeChat",
+    "select_month": "Izberite mesec",
+    "CL_DV_EY_prohibition": "Prepoved",
+    "CL_DV_EY_scheduler": "razporejevalnik",
+    "CL_DV_EY_month_from": "Mesec od",
+    "CL_DV_EY_month_to": "Mesec do",
+    "CL_DV_EY_enable_scheduler": "Omogoči razporejevalnik"
 }

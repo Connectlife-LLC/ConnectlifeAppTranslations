@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Produkty mleczne",
     "CL_DV_WM_program_evaluate_Drying_performance": "Wydajność suszenia",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Może to odzwierciedlać stopień zużycia ubrań po praniu. 1 gwiazdka oznacza, że ubrania są mocno zużyte, natomiast 5 gwiazdek oznacza, że ubrania nie są w ogóle zużyte.",
-    "CL_phone_has_bind_wechat": "Ten numer telefonu jest już powiązany z innym kontem WeChat"
+    "CL_phone_has_bind_wechat": "Ten numer telefonu jest już powiązany z innym kontem WeChat",
+    "select_month": "Wybierz miesiąc",
+    "CL_DV_EY_prohibition": "Zakaz",
+    "CL_DV_EY_scheduler": "harmonogram",
+    "CL_DV_EY_month_from": "Miesiąc od",
+    "CL_DV_EY_month_to": "Miesiąc do",
+    "CL_DV_EY_enable_scheduler": "Włącz harmonogram"
 }

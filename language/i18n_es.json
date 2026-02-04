@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "Productos lácteos",
     "CL_DV_WM_program_evaluate_Drying_performance": "Rendimiento de secado",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Esto puede reflejar el grado de desgaste de la ropa después del lavado. 1 estrella indica mucho desgaste, mientras que 5 estrellas indican que la ropa no tiene ningún desgaste.",
-    "CL_phone_has_bind_wechat": "Este número de teléfono ya está vinculado a otra cuenta de WeChat"
+    "CL_phone_has_bind_wechat": "Este número de teléfono ya está vinculado a otra cuenta de WeChat",
+    "select_month": "Seleccionar mes",
+    "CL_DV_EY_prohibition": "Prohibición",
+    "CL_DV_EY_scheduler": "programador",
+    "CL_DV_EY_month_from": "Mes desde",
+    "CL_DV_EY_month_to": "Mes a",
+    "CL_DV_EY_enable_scheduler": "Habilitar programador"
 }

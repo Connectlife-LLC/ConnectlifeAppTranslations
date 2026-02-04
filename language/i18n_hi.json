@@ -7954,5 +7954,11 @@
     "CL_DV_WM_dairy_products": "डेयरी उत्पादों",
     "CL_DV_WM_program_evaluate_Drying_performance": "सुखाने का प्रदर्शन",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "इससे कपड़े धोने के बाद उसमें हुए घिसाव की मात्रा का पता चलता है। 1 स्टार का मतलब है कि कपड़े में बहुत अधिक घिसाव है, जबकि 5 स्टार का मतलब है कि कपड़े में कोई घिसाव नहीं है।",
-    "CL_phone_has_bind_wechat": "यह फ़ोन नंबर पहले से ही किसी अन्य वीचैट खाते से जुड़ा हुआ है।"
+    "CL_phone_has_bind_wechat": "यह फ़ोन नंबर पहले से ही किसी अन्य वीचैट खाते से जुड़ा हुआ है।",
+    "select_month": "महीना चुनिए",
+    "CL_DV_EY_prohibition": "निषेध",
+    "CL_DV_EY_scheduler": "अनुसूचक",
+    "CL_DV_EY_month_from": "महीने से",
+    "CL_DV_EY_month_to": "महीने से",
+    "CL_DV_EY_enable_scheduler": "शेड्यूलर को सक्षम करें"
 }
