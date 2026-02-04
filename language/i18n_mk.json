@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Млечни производи",
     "CL_DV_WM_program_evaluate_Drying_performance": "Перформанси на сушење",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Ова може да го одрази степенот на абење на облеката по перењето. 1 ѕвезда означува многу абење, додека 5 ѕвезди означуваат дека облеката воопшто не е абена.",
-    "CL_phone_has_bind_wechat": "Овој телефонски број е веќе поврзан со друга сметка на WeChat"
+    "CL_phone_has_bind_wechat": "Овој телефонски број е веќе поврзан со друга сметка на WeChat",
+    "select_month": "Изберете месец",
+    "CL_DV_EY_prohibition": "Прохибиција",
+    "CL_DV_EY_scheduler": "распоредувач"
 }

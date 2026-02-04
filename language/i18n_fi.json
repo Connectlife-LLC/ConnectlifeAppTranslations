@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Maitotuotteet",
     "CL_DV_WM_program_evaluate_Drying_performance": "Kuivausteho",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Tämä voi heijastaa vaatteiden kulumisastetta pesun jälkeen. Yksi tähti tarkoittaa paljon kulumista, kun taas viisi tähteä tarkoittaa, että vaatteissa ei ole lainkaan kulumaa.",
-    "CL_phone_has_bind_wechat": "Tämä puhelinnumero on jo linkitetty toiseen WeChat-tiliin"
+    "CL_phone_has_bind_wechat": "Tämä puhelinnumero on jo linkitetty toiseen WeChat-tiliin",
+    "select_month": "Valitse kuukausi",
+    "CL_DV_EY_prohibition": "Kielto",
+    "CL_DV_EY_scheduler": "ajastin"
 }

@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Süt ürünleri",
     "CL_DV_WM_program_evaluate_Drying_performance": "Kurutma performansı",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Bu, kıyafetlerin yıkandıktan sonraki aşınma ve yıpranma derecesini yansıtabilir. 1 yıldız çok fazla aşınma olduğunu gösterirken, 5 yıldız kıyafetlerde hiç aşınma olmadığını gösterir.",
-    "CL_phone_has_bind_wechat": "Bu telefon numarası zaten başka bir WeChat hesabına bağlı."
+    "CL_phone_has_bind_wechat": "Bu telefon numarası zaten başka bir WeChat hesabına bağlı.",
+    "select_month": "Ay Seçin",
+    "CL_DV_EY_prohibition": "Yasaklama",
+    "CL_DV_EY_scheduler": "zamanlayıcı"
 }

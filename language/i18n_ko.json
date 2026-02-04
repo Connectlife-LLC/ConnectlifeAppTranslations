@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "유제품",
     "CL_DV_WM_program_evaluate_Drying_performance": "건조 성능",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "이는 세탁 후 옷의 마모 정도를 반영할 수 있습니다. 별 1개는 옷이 많이 마모되었음을 나타내고, 별 5개는 옷이 전혀 마모되지 않았음을 나타냅니다.",
-    "CL_phone_has_bind_wechat": "이 전화번호는 이미 다른 위챗 계정에 연결되어 있습니다."
+    "CL_phone_has_bind_wechat": "이 전화번호는 이미 다른 위챗 계정에 연결되어 있습니다.",
+    "select_month": "월을 선택하세요",
+    "CL_DV_EY_prohibition": "금지",
+    "CL_DV_EY_scheduler": "스케줄러"
 }

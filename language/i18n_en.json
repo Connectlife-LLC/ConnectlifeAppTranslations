@@ -6824,7 +6824,7 @@
     "CL_TA_MA_threshold_set": "SET Threshold",
     "CL_TA_MA_purchase": "Purchase",
     "CL_TA_MA_feed_in": "Feed-in",
-    "CL_TA_MA_tariff_set_guide_tips": "Click to select a single hour, or long press and slide to multi-select",
+    "CL_TA_MA_tariff_set_guide_tips": "Click to select a single hour, or press and slide to multi-select",
     "CL_TA_MA_tariff_set_title": "Click to select time, and set the tariff, multiple selections by sliding are supported.",
     "CL_TA_MA_tariff_set": "SET TARIFF",
     "CL_TA_MA_edit_tariff": "Edit Tariff",
@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Dairy products",
     "CL_DV_WM_program_evaluate_Drying_performance": "Drying performance",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "This can reflect the degree of wear and tear of the clothes after washing. 1 star indicates a lot of wear, while 5 stars indicate that the clothes have no wear at all.",
-    "CL_phone_has_bind_wechat": "This phone number is already linked to another WeChat account"
+    "CL_phone_has_bind_wechat": "This phone number is already linked to another WeChat account",
+    "select_month": "Select Month",
+    "CL_DV_EY_prohibition": "Prohibition",
+    "CL_DV_EY_scheduler": "scheduler"
 }

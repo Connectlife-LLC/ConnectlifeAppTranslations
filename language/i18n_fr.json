@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Produits laitiers",
     "CL_DV_WM_program_evaluate_Drying_performance": "Performance de séchage",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Cela peut refléter le degré d'usure des vêtements après le lavage. 1 étoile indique beaucoup d'usure, tandis que 5 étoiles indiquent que les vêtements ne présentent aucune usure.",
-    "CL_phone_has_bind_wechat": "Ce numéro de téléphone est déjà associé à un autre compte WeChat."
+    "CL_phone_has_bind_wechat": "Ce numéro de téléphone est déjà associé à un autre compte WeChat.",
+    "select_month": "Sélectionner le mois",
+    "CL_DV_EY_prohibition": "Interdiction",
+    "CL_DV_EY_scheduler": "planificateur"
 }

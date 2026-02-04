@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Produk tenusu",
     "CL_DV_WM_program_evaluate_Drying_performance": "Prestasi pengeringan",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Ini boleh mencerminkan tahap haus dan lusuh pakaian selepas dicuci. 1 bintang menunjukkan banyak kehausan, manakala 5 bintang menunjukkan bahawa pakaian itu tidak memakai sama sekali.",
-    "CL_phone_has_bind_wechat": "Nombor telefon ini telah dipautkan ke akaun WeChat yang lain"
+    "CL_phone_has_bind_wechat": "Nombor telefon ini telah dipautkan ke akaun WeChat yang lain",
+    "select_month": "Pilih Bulan",
+    "CL_DV_EY_prohibition": "Larangan",
+    "CL_DV_EY_scheduler": "penjadual"
 }

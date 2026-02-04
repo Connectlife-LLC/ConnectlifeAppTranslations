@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Γαλακτοκομικά προϊόντα",
     "CL_DV_WM_program_evaluate_Drying_performance": "Απόδοση στεγνώματος",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Αυτό μπορεί να αντικατοπτρίζει τον βαθμό φθοράς των ρούχων μετά το πλύσιμο. 1 αστέρι υποδηλώνει μεγάλη φθορά, ενώ 5 αστέρια υποδηλώνουν ότι τα ρούχα δεν έχουν καθόλου φθορά.",
-    "CL_phone_has_bind_wechat": "Αυτός ο αριθμός τηλεφώνου είναι ήδη συνδεδεμένος με έναν άλλο λογαριασμό WeChat"
+    "CL_phone_has_bind_wechat": "Αυτός ο αριθμός τηλεφώνου είναι ήδη συνδεδεμένος με έναν άλλο λογαριασμό WeChat",
+    "select_month": "Επιλέξτε μήνα",
+    "CL_DV_EY_prohibition": "Απαγόρευση",
+    "CL_DV_EY_scheduler": "προγραμματιστής"
 }

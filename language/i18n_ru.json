@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Молочные продукты",
     "CL_DV_WM_program_evaluate_Drying_performance": "Эффективность сушки",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Это может отражать степень износа одежды после стирки. 1 звезда указывает на сильный износ, а 5 звезд указывают на то, что одежда вообще не имеет следов износа.",
-    "CL_phone_has_bind_wechat": "Этот номер телефона уже привязан к другому аккаунту WeChat."
+    "CL_phone_has_bind_wechat": "Этот номер телефона уже привязан к другому аккаунту WeChat.",
+    "select_month": "Выберите месяц",
+    "CL_DV_EY_prohibition": "Запрет",
+    "CL_DV_EY_scheduler": "планировщик"
 }

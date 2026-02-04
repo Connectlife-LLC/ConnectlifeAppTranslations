@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Mléčné výrobky",
     "CL_DV_WM_program_evaluate_Drying_performance": "Výkon sušení",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "To může odrážet stupeň opotřebení oblečení po vyprání. 1 hvězdička označuje velké opotřebení, zatímco 5 hvězdiček znamená, že oblečení není vůbec opotřebované.",
-    "CL_phone_has_bind_wechat": "Toto telefonní číslo je již propojeno s jiným účtem WeChat"
+    "CL_phone_has_bind_wechat": "Toto telefonní číslo je již propojeno s jiným účtem WeChat",
+    "select_month": "Vyberte měsíc",
+    "CL_DV_EY_prohibition": "Zákaz",
+    "CL_DV_EY_scheduler": "plánovač"
 }

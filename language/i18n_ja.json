@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "乳製品",
     "CL_DV_WM_program_evaluate_Drying_performance": "乾燥性能",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "これは、洗濯後の衣服の摩耗の程度を反映します。1 つ星は摩耗がかなり大きいことを示し、5 つ星は衣服がまったく摩耗していないことを示します。",
-    "CL_phone_has_bind_wechat": "この電話番号はすでに別のWeChatアカウントにリンクされています"
+    "CL_phone_has_bind_wechat": "この電話番号はすでに別のWeChatアカウントにリンクされています",
+    "select_month": "月を選択",
+    "CL_DV_EY_prohibition": "禁止",
+    "CL_DV_EY_scheduler": "スケジューラ"
 }

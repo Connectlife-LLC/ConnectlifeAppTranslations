@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Meieriprodukter",
     "CL_DV_WM_program_evaluate_Drying_performance": "Tørkeevne",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Dette kan gjenspeile graden av slitasje på klærne etter vask. 1 stjerne indikerer mye slitasje, mens 5 stjerner indikerer at klærne ikke har noen slitasje i det hele tatt.",
-    "CL_phone_has_bind_wechat": "Dette telefonnummeret er allerede koblet til en annen WeChat-konto"
+    "CL_phone_has_bind_wechat": "Dette telefonnummeret er allerede koblet til en annen WeChat-konto",
+    "select_month": "Velg måned",
+    "CL_DV_EY_prohibition": "Forbud",
+    "CL_DV_EY_scheduler": "planlegger"
 }

@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Prodotti lattiero-caseari",
     "CL_DV_WM_program_evaluate_Drying_performance": "Prestazioni di asciugatura",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Questo può riflettere il grado di usura dei vestiti dopo il lavaggio. 1 stella indica molta usura, mentre 5 stelle indicano che i vestiti non sono affatto usurati.",
-    "CL_phone_has_bind_wechat": "Questo numero di telefono è già collegato a un altro account WeChat"
+    "CL_phone_has_bind_wechat": "Questo numero di telefono è già collegato a un altro account WeChat",
+    "select_month": "Seleziona mese",
+    "CL_DV_EY_prohibition": "Divieto",
+    "CL_DV_EY_scheduler": "pianificatore"
 }

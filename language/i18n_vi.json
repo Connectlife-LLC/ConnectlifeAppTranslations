@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Sản phẩm từ sữa",
     "CL_DV_WM_program_evaluate_Drying_performance": "Hiệu suất sấy",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Điều này có thể phản ánh mức độ hao mòn của quần áo sau khi giặt. 1 sao biểu thị mức độ hao mòn nhiều, trong khi 5 sao biểu thị mức độ hao mòn hoàn toàn của quần áo.",
-    "CL_phone_has_bind_wechat": "Số điện thoại này đã được liên kết với một tài khoản WeChat khác."
+    "CL_phone_has_bind_wechat": "Số điện thoại này đã được liên kết với một tài khoản WeChat khác.",
+    "select_month": "Chọn tháng",
+    "CL_DV_EY_prohibition": "Cấm đoán",
+    "CL_DV_EY_scheduler": "bộ lập lịch"
 }

@@ -7954,5 +7954,8 @@
     "CL_DV_WM_dairy_products": "Mejeriprodukter",
     "CL_DV_WM_program_evaluate_Drying_performance": "Torkprestanda",
     "CL_DV_WM_program_evaluate_Drying_performance_desc": "Detta kan återspegla graden av slitage på kläderna efter tvätt. 1 stjärna indikerar mycket slitage, medan 5 stjärnor indikerar att kläderna inte har något slitage alls.",
-    "CL_phone_has_bind_wechat": "Det här telefonnumret är redan länkat till ett annat WeChat-konto"
+    "CL_phone_has_bind_wechat": "Det här telefonnumret är redan länkat till ett annat WeChat-konto",
+    "select_month": "Välj månad",
+    "CL_DV_EY_prohibition": "Förbud",
+    "CL_DV_EY_scheduler": "schemaläggare"
 }
