@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "V aplikaci ConnectLife vyberte možnost „Přidat zařízení“, naskenujte QR kód, který se nachází na kroužku u dveří vašeho zařízení, a klikněte na tlačítko „Další“. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Síť zařízení je nyní otevřená pro připojení po dobu 5 minut. \n Nyní můžete dokončit proces párování v aplikaci. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Klepněte na „Spárovat zařízení“.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Ujistěte se, že je systém Wi-Fi povolen, poté otočením knoflíku přejděte na „Nastavení připojení“ a klikněte na „Enter“.",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Ujistěte se, že je systém WiFi povolen, poté otočením knoflíku přejděte na „Nastavení připojení“ a klikněte na „Enter“.",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Přejděte do „Nastavení WiFi“ a klikněte na „Enter“. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Otočte knoflíkem a přejděte na „Přidat zařízení“ a poté klikněte na „Enter“.",
     "CL_CF_CS_hob_hi_6_cs_1": "Nastavte zařízení do normálního provozního stavu. \n Pokud symbol Wi-Fi již svítí, tento krok přeskočte a přejděte ke kroku 2. \n Pokud symbol Wi-Fi nesvítí, klepnutím na tlačítko Wi-Fi povolte Wi-Fi.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Startovací výkon HP",
     "CL_DV_EY_hp_stop_power": "HP brzdný výkon",
     "CL_DV_EY_hp_start_soc": "HP start SOC",
-    "CL_DV_EY_hp_stop_soc": "Zastavení HP SoC",
+    "CL_DV_EY_hp_stop_soc": "Zastavení HP SOC",
     "CL_DV_EY_min_run_time_once": "Minimální doba běhu jednou",
     "CL_DV_EY_min_run_time_day": "Maximální doba běhu během dne",
     "CL_DV_EY_stop_month1": "Zastavit měsíc 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "plánovač",
     "CL_DV_EY_month_from": "Měsíc od",
     "CL_DV_EY_month_to": "Měsíc do",
-    "CL_DV_EY_enable_scheduler": "Povolit plánovač"
+    "CL_DV_EY_enable_scheduler": "Povolit plánovač",
+    "CL_DV_EY_unlock_tips": "Jsi si jistý/á, že chceš odemknout?",
+    "CL_DV_TD_g_eco_meter_conserve": "Váš výběr by mohl být udržitelnější. Zkuste zvolit jiný program, který šetří energii a je šetrnější k životnímu prostředí."
 }

@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "Valitse ConnectLife-sovelluksessa ”Lisää laite” ja skannaa laitteesi ovirenkaassa oleva QR-koodi. Napsauta sitten ”Seuraava”. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Laitteen verkko on nyt avoinna yhteydelle 5 minuutin ajan. \n Voit nyt viimeistellä pariliitoksen muodostamisen sovelluksessa. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Napauta ”Yhdistä laite”.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Varmista, että Wi-Fi-järjestelmä on käytössä, käännä sitten nuppia siirtyäksesi kohtaan \"Yhteyden määritys\" ja napsauta \"Enter\".",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Varmista, että WiFi-järjestelmä on käytössä, käännä sitten nuppia siirtyäksesi kohtaan \"Yhteyden määritys\" ja napsauta \"Enter\".",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Siirry kohtaan \"WiFi-asetukset\" ja napsauta \"Enter\". ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Käännä nuppia ja siirry kohtaan \"Lisää laite\" ja napsauta sitten \"Enter\".",
     "CL_CF_CS_hob_hi_6_cs_1": "Aseta laite normaaleihin käyttöolosuhteisiin. \n Jos Wi-Fi-symboli palaa jo, ohita tämä vaihe ja siirry vaiheeseen 2. \n Jos Wi-Fi-symboli ei pala, ota Wi-Fi käyttöön napauttamalla Wi-Fi-näppäintä.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HV:n käynnistysteho",
     "CL_DV_EY_hp_stop_power": "HP:n pysäytysteho",
     "CL_DV_EY_hp_start_soc": "HP:n käynnistys SOC",
-    "CL_DV_EY_hp_stop_soc": "HP-pysäytys SoC",
+    "CL_DV_EY_hp_stop_soc": "HP-pysäytys SOC",
     "CL_DV_EY_min_run_time_once": "Minimiaika kerran",
     "CL_DV_EY_min_run_time_day": "Päivän maksimiaika",
     "CL_DV_EY_stop_month1": "Lopeta kuukausi 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "ajastin",
     "CL_DV_EY_month_from": "Kuukausi alkaen",
     "CL_DV_EY_month_to": "Kuukausi",
-    "CL_DV_EY_enable_scheduler": "Ota ajoitus käyttöön"
+    "CL_DV_EY_enable_scheduler": "Ota ajoitus käyttöön",
+    "CL_DV_EY_unlock_tips": "Oletko varma, että avaat?",
+    "CL_DV_TD_g_eco_meter_conserve": "Valintasi voisi olla kestävämpi. Kokeile valita toinen ohjelma energian säästämiseksi ja ympäristöystävällisemmäksi."
 }

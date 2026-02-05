@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "W aplikacji ConnectLife wybierz opcję „Dodaj urządzenie”, zeskanuj kod QR znajdujący się na kółku urządzenia i kliknij „Dalej”. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Sieć urządzeń będzie teraz otwarta i można będzie nawiązać połączenie przez 5 minut. \n Teraz możesz dokończyć proces parowania w aplikacji. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Kliknij „Sparuj urządzenie”.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Upewnij się, że system Wi-Fi jest włączony, następnie przekręć pokrętło, aby przejść do „Ustawień połączenia” i kliknij „Enter”.",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Upewnij się, że system WiFi jest włączony, następnie przekręć pokrętło, aby przejść do „Ustawień połączenia” i kliknij „Enter”.",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Przejdź do „Ustawień Wi-Fi” i kliknij „Enter”. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Przekręć pokrętło i przejdź do „Dodaj urządzenie”, a następnie kliknij „Enter”.",
     "CL_CF_CS_hob_hi_6_cs_1": "Ustaw urządzenie w normalnym trybie pracy. \n Jeśli symbol Wi-Fi już się świeci, pomiń ten krok i przejdź do kroku 2. \n Jeśli symbol Wi-Fi nie świeci, dotknij przycisku Wi-Fi, aby włączyć Wi-Fi.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Moc startowa HP",
     "CL_DV_EY_hp_stop_power": "Moc zatrzymania HP",
     "CL_DV_EY_hp_start_soc": "HP start SOC",
-    "CL_DV_EY_hp_stop_soc": "HP stop SoC",
+    "CL_DV_EY_hp_stop_soc": "HP stop SOC",
     "CL_DV_EY_min_run_time_once": "Minimalny czas wykonania raz",
     "CL_DV_EY_min_run_time_day": "Maksymalny czas pracy w ciągu dnia",
     "CL_DV_EY_stop_month1": "Zatrzymaj miesiąc 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "harmonogram",
     "CL_DV_EY_month_from": "Miesiąc od",
     "CL_DV_EY_month_to": "Miesiąc do",
-    "CL_DV_EY_enable_scheduler": "Włącz harmonogram"
+    "CL_DV_EY_enable_scheduler": "Włącz harmonogram",
+    "CL_DV_EY_unlock_tips": "Czy na pewno chcesz odblokować?",
+    "CL_DV_TD_g_eco_meter_conserve": "Twój wybór może być bardziej zrównoważony. Spróbuj wybrać inny program, aby oszczędzać energię i być bardziej przyjaznym dla środowiska."
 }

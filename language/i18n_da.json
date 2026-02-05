@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "I ConnectLife-appen skal du vælge \"Tilføj enhed\", scanne QR-koden, der findes på dørringen på din enhed, og klikke på \"Næste\". ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Enhedens netværk er nu åbent for forbindelse i 5 minutter. \n Du kan nu afslutte parringsprocessen i appen. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Tryk på “Par enhed”.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Sørg for, at Wifi-systemet er aktiveret, drej derefter på knappen for at gå til \"Forbindelsesopsætning\", og klik på \"Enter\".",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Sørg for, at WiFi-systemet er aktiveret, drej derefter på knappen for at gå til \"Forbindelsesopsætning\", og klik på \"Enter\".",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Gå til \"WiFi-indstillinger\" og klik på \"Enter\". ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Drej på knappen, gå til \"Tilføj enhed\", og klik derefter på \"Enter\".",
     "CL_CF_CS_hob_hi_6_cs_1": "Indstil enheden til normale driftsforhold. \n Hvis Wi-Fi-symbolet allerede lyser, skal du springe dette trin over og gå til trin 2. \n Hvis Wi-Fi-symbolet ikke lyser, skal du trykke på Wi-Fi-tasten for at aktivere Wi-Fi.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HK startkraft",
     "CL_DV_EY_hp_stop_power": "HK-stopkraft",
     "CL_DV_EY_hp_start_soc": "HP start SOC",
-    "CL_DV_EY_hp_stop_soc": "HP stop SoC",
+    "CL_DV_EY_hp_stop_soc": "HP stop SOC",
     "CL_DV_EY_min_run_time_once": "Min. køretid én gang",
     "CL_DV_EY_min_run_time_day": "Maksimal køretid om dagen",
     "CL_DV_EY_stop_month1": "Stop måned 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "planlægger",
     "CL_DV_EY_month_from": "Måned fra",
     "CL_DV_EY_month_to": "Måned til",
-    "CL_DV_EY_enable_scheduler": "Aktivér planlægger"
+    "CL_DV_EY_enable_scheduler": "Aktivér planlægger",
+    "CL_DV_EY_unlock_tips": "Er du sikker på at du vil låse op?",
+    "CL_DV_TD_g_eco_meter_conserve": "Dit valg kunne være mere bæredygtigt. Prøv at vælge et andet program for at spare energi og være mere miljøvenlig."
 }

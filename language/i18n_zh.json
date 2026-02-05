@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "在 ConnectLife 应用程序中，选择“添加设备”并扫描设备门环上的二维码，然后单击“下一步”。 ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "设备网络现已开放连接 5 分钟。__ \n您现在可以在应用程序中完成配对过程。 ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "点击“配对设备”。",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "确保 Wi-Fi 系统已启用，然后转动旋钮移动到“连接设置”，并按“确认”。",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "确保 WiFi 系统已启用，然后转动旋钮移动到“连接设置”，并按“确认”。",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "进入“WiFi设置”，点击“进入”。 ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "转动旋钮，进入“添加设备”，点击“Enter”。",
     "CL_CF_CS_hob_hi_6_cs_1": "将设备设置为正常运行状态。__ \n如果 Wi-Fi 符号已亮起，请跳过此步骤并转至步骤 2。__ \n如果 Wi-Fi 符号未亮起，请点击 Wi-Fi 键以启用 Wi-Fi。",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "调度器",
     "CL_DV_EY_month_from": "月份",
     "CL_DV_EY_month_to": "月至",
-    "CL_DV_EY_enable_scheduler": "启用调度程序"
+    "CL_DV_EY_enable_scheduler": "启用调度程序",
+    "CL_DV_EY_unlock_tips": "你确定要解锁吗？",
+    "CL_DV_TD_g_eco_meter_conserve": "您的选择可能更可持续。请尝试选择其他节能环保的方案。"
 }

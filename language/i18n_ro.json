@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "În aplicația ConnectLife, selectați „Adăugați dispozitiv” și scanați codul QR care se află pe inelul ușii dispozitivului, apoi faceți clic pe „Următorul”. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Rețeaua dispozitivului este acum deschisă pentru conectare timp de 5 minute. \n Acum puteți finaliza procesul de asociere în aplicație. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Atingeți „Asociere dispozitiv”.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Asigurați-vă că sistemul Wifi este activat, apoi rotiți butonul pentru a accesa „Configurare conexiune” și faceți clic pe „Enter”.",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Asigurați-vă că sistemul WiFi este activat, apoi rotiți butonul pentru a trece la „Configurare conexiune” și faceți clic pe „Enter”.",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Accesați „Setări WiFi” și faceți clic pe „Enter”. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Rotiți butonul și accesați „Adăugați dispozitiv”, apoi faceți clic pe „Enter”.",
     "CL_CF_CS_hob_hi_6_cs_1": "Setați dispozitivul la condiții normale de funcționare. \n Dacă simbolul Wi-Fi este deja aprins, săriți peste acest pas și treceți la Pasul 2. \n Dacă simbolul Wi-Fi nu este aprins, atingeți tasta Wi-Fi pentru a activa Wi-Fi-ul.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Putere de pornire HP",
     "CL_DV_EY_hp_stop_power": "Putere de oprire HP",
     "CL_DV_EY_hp_start_soc": "SOC de pornire HP",
-    "CL_DV_EY_hp_stop_soc": "SoC de oprire HP",
+    "CL_DV_EY_hp_stop_soc": "SOC de oprire HP",
     "CL_DV_EY_min_run_time_once": "Timp minim de rulare o dată",
     "CL_DV_EY_min_run_time_day": "Timp maxim de funcționare zi",
     "CL_DV_EY_stop_month1": "Opriți luna 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "planificator",
     "CL_DV_EY_month_from": "Lună de la",
     "CL_DV_EY_month_to": "Lună până la",
-    "CL_DV_EY_enable_scheduler": "Activează programatorul"
+    "CL_DV_EY_enable_scheduler": "Activează programatorul",
+    "CL_DV_EY_unlock_tips": "Sigur vrei să deblochezi?",
+    "CL_DV_TD_g_eco_meter_conserve": "Alegerea ta ar putea fi mai sustenabilă. Încearcă să alegi un alt program pentru a economisi energie și a fi mai ecologic."
 }

@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "I ConnectLife-appen velger du «Legg til enhet», skanner QR-koden som finnes på dørringen på enheten din og klikker på «Neste». ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Enhetens nettverk er nå åpent for tilkobling i 5 minutter. \n Du kan nå fullføre paringsprosessen i appen. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Trykk på «Koble til enhet».",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Sørg for at Wifi-systemet er aktivert, vri deretter på knotten for å gå til «Tilkoblingsoppsett» og klikk på «Enter».",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Sørg for at WiFi-systemet er aktivert, vri deretter på knotten for å gå til «Tilkoblingsoppsett» og klikk på «Enter».",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Gå til «WiFi-innstillinger» og klikk på «Enter». ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Vri på knotten og gå til «Legg til enhet», og klikk deretter på «Enter».",
     "CL_CF_CS_hob_hi_6_cs_1": "Sett enheten til normale driftsforhold. \n Hvis Wi-Fi-symbolet allerede lyser, hopper du over dette trinnet og går til trinn 2. \n Hvis Wi-Fi-symbolet ikke lyser, trykker du på Wi-Fi-tasten for å aktivere Wi-Fi.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HK startkraft",
     "CL_DV_EY_hp_stop_power": "HP-stoppkraft",
     "CL_DV_EY_hp_start_soc": "HP start SOC",
-    "CL_DV_EY_hp_stop_soc": "HP-stopp SoC",
+    "CL_DV_EY_hp_stop_soc": "HP-stopp SOC",
     "CL_DV_EY_min_run_time_once": "Min. kjøretid én gang",
     "CL_DV_EY_min_run_time_day": "Maksimal kjøretid dag",
     "CL_DV_EY_stop_month1": "Stopp måned 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "planlegger",
     "CL_DV_EY_month_from": "Måned fra",
     "CL_DV_EY_month_to": "Måned til",
-    "CL_DV_EY_enable_scheduler": "Aktiver planlegger"
+    "CL_DV_EY_enable_scheduler": "Aktiver planlegger",
+    "CL_DV_EY_unlock_tips": "Er du sikker på at du vil låse opp?",
+    "CL_DV_TD_g_eco_meter_conserve": "Valget ditt kan være mer bærekraftig. Prøv å velge et annet program for å spare energi og være mer miljøvennlig."
 }

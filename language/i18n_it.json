@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "Nell'app ConnectLife, seleziona \"Aggiungi dispositivo\" e scansiona il codice QR che trovi sul campanello del tuo dispositivo, quindi fai clic su \"Avanti\". ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "La rete del dispositivo è ora aperta alla connessione per 5 minuti. \n Ora puoi completare il processo di associazione nell'app. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Tocca \"Associa dispositivo\".",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Assicurati che il sistema Wi-Fi sia abilitato, quindi ruota la manopola per passare a \"Configurazione connessione\" e clicca su \"Invio\".",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Assicurati che il sistema WiFi sia abilitato, quindi ruota la manopola per passare a \"Configurazione connessione\" e clicca su \"Invio\".",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Vai su “Impostazioni WiFi” e clicca su “Invio”. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Ruota la manopola e vai su \"Aggiungi dispositivo\", quindi clicca su \"Invio\".",
     "CL_CF_CS_hob_hi_6_cs_1": "Impostare il dispositivo sulle normali condizioni operative. \n Se il simbolo Wi-Fi è già acceso, saltare questo passaggio e andare al passaggio 2. \n Se il simbolo Wi-Fi non è acceso, toccare il tasto Wi-Fi per attivare il Wi-Fi.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Potenza di avviamento HP",
     "CL_DV_EY_hp_stop_power": "Potenza di arresto HP",
     "CL_DV_EY_hp_start_soc": "Avvio SOC HP",
-    "CL_DV_EY_hp_stop_soc": "HP interrompe SoC",
+    "CL_DV_EY_hp_stop_soc": "HP interrompe SOC",
     "CL_DV_EY_min_run_time_once": "Tempo di esecuzione minimo una volta",
     "CL_DV_EY_min_run_time_day": "Tempo massimo di esecuzione al giorno",
     "CL_DV_EY_stop_month1": "Stop mese 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "pianificatore",
     "CL_DV_EY_month_from": "Mese da",
     "CL_DV_EY_month_to": "Mese a",
-    "CL_DV_EY_enable_scheduler": "Abilita pianificatore"
+    "CL_DV_EY_enable_scheduler": "Abilita pianificatore",
+    "CL_DV_EY_unlock_tips": "Sei sicuro di voler sbloccare?",
+    "CL_DV_TD_g_eco_meter_conserve": "La tua scelta potrebbe essere più sostenibile. Prova a selezionare un altro programma per risparmiare energia e rispettare l'ambiente."
 }

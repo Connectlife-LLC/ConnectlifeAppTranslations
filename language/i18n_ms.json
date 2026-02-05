@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "Dalam apl ConnectLife, pilih \"Tambah peranti\" dan imbas kod QR yang terletak pada gelang pintu peranti anda dan klik \"Seterusnya\". ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Rangkaian peranti kini dibuka untuk sambungan selama 5 minit. \n Anda kini boleh menyelesaikan proses berpasangan dalam apl. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Ketik pada \"Gandingkan peranti\".",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Pastikan sistem Wifi diaktifkan, kemudian putar tombol untuk beralih ke \"Persediaan sambungan\" dan klik pada \"Enter\".",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Pastikan sistem WiFi diaktifkan, kemudian putar tombol untuk beralih ke \"Persediaan sambungan\" dan klik pada \"Enter\".",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Pergi ke \"tetapan WiFi\" dan klik pada \"Enter\". ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Putar tombol dan pergi ke \"Tambah peranti\" dan kemudian klik \"Enter\".",
     "CL_CF_CS_hob_hi_6_cs_1": "Tetapkan peranti kepada keadaan operasi biasa. \n Jika simbol Wi-Fi sudah menyala, langkau langkah ini dan pergi ke Langkah 2. \n Jika simbol Wi-Fi tidak menyala, ketik kekunci Wi-Fi untuk mendayakan Wi-Fi.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Kuasa mula HP",
     "CL_DV_EY_hp_stop_power": "Kuasa henti HP",
     "CL_DV_EY_hp_start_soc": "HP memulakan SOC",
-    "CL_DV_EY_hp_stop_soc": "HP berhenti SoC",
+    "CL_DV_EY_hp_stop_soc": "HP berhenti SOC",
     "CL_DV_EY_min_run_time_once": "Masa larian minimum sekali",
     "CL_DV_EY_min_run_time_day": "Hari masa larian maksimum",
     "CL_DV_EY_stop_month1": "Hentikan bulan 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "penjadual",
     "CL_DV_EY_month_from": "Bulan dari",
     "CL_DV_EY_month_to": "Bulan ke",
-    "CL_DV_EY_enable_scheduler": "Dayakan penjadual"
+    "CL_DV_EY_enable_scheduler": "Dayakan penjadual",
+    "CL_DV_EY_unlock_tips": "Adakah anda pasti untuk membuka kunci?",
+    "CL_DV_TD_g_eco_meter_conserve": "Pilihan anda mungkin lebih lestari. Cuba pilih program lain untuk menjimatkan tenaga dan lebih mesra alam."
 }

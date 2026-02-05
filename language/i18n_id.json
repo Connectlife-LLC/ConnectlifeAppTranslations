@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "Di aplikasi ConnectLife, pilih “Tambahkan perangkat” dan pindai kode QR yang terletak di pintu perangkat Anda dan klik “Berikutnya”. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Jaringan perangkat sekarang terbuka untuk koneksi selama 5 menit. \n Anda sekarang dapat menyelesaikan proses pemasangan di aplikasi. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Ketuk “Pasangkan perangkat”.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Pastikan sistem Wifi diaktifkan, lalu putar kenop untuk menuju ke \"Pengaturan koneksi\" dan klik \"Enter\".",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Pastikan sistem WiFi diaktifkan, lalu putar kenop untuk menuju ke \"Pengaturan koneksi\" dan klik \"Masuk\".",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Buka “Pengaturan WiFi” dan klik “Enter”. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Putar kenop dan buka \"Tambahkan perangkat\", lalu klik \"Enter\".",
     "CL_CF_CS_hob_hi_6_cs_1": "Atur perangkat ke kondisi pengoperasian normal. \n Jika simbol Wi-Fi sudah menyala, lewati langkah ini dan lanjutkan ke Langkah 2. \n Jika simbol Wi-Fi tidak menyala, ketuk tombol Wi-Fi untuk mengaktifkan Wi-Fi.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Daya awal HP",
     "CL_DV_EY_hp_stop_power": "HP berhenti daya",
     "CL_DV_EY_hp_start_soc": "HP memulai SOC",
-    "CL_DV_EY_hp_stop_soc": "HP menghentikan SoC",
+    "CL_DV_EY_hp_stop_soc": "HP menghentikan SOC",
     "CL_DV_EY_min_run_time_once": "Waktu berjalan minimum sekali",
     "CL_DV_EY_min_run_time_day": "Waktu berjalan maksimum per hari",
     "CL_DV_EY_stop_month1": "Berhenti bulan 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "penjadwal",
     "CL_DV_EY_month_from": "Bulan dari",
     "CL_DV_EY_month_to": "Bulan hingga",
-    "CL_DV_EY_enable_scheduler": "Aktifkan penjadwal"
+    "CL_DV_EY_enable_scheduler": "Aktifkan penjadwal",
+    "CL_DV_EY_unlock_tips": "Apakah Anda yakin ingin membukanya?",
+    "CL_DV_TD_g_eco_meter_conserve": "Pilihan Anda bisa lebih berkelanjutan. Cobalah memilih program lain untuk menghemat energi dan lebih ramah lingkungan."
 }

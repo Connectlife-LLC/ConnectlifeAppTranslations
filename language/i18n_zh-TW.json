@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "在 ConnectLife 應用程式中，選擇「新增裝置」並掃描裝置門環上的二維碼，然後按一下「下一步」。 ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "設備網路現已開放連接，持續時間為 5 分鐘。 \n您現在可以在應用程式中完成配對過程。 ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "點選“配對裝置”。",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "確保 Wi-Fi 系統已啟用，然後轉動旋鈕移至“連接設定”，並按“確認”。",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "確保 WiFi 系統已啟用，然後轉動旋鈕移動到“連接設定”，並按“確認”。",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "進入“WiFi設定”，點選“進入”。 ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "轉動旋鈕，進入“新增設備”，點擊“Enter”。",
     "CL_CF_CS_hob_hi_6_cs_1": "將設備設定為正常運作狀態。 \n如果 Wi-Fi 符號已亮起，請跳過此步驟並前往步驟 2。 __ \n如果 Wi-Fi 符號未亮起，請點選 Wi-Fi 鍵以啟用 Wi-Fi。",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "調度器",
     "CL_DV_EY_month_from": "月",
     "CL_DV_EY_month_to": "月至",
-    "CL_DV_EY_enable_scheduler": "啟用調度程序"
+    "CL_DV_EY_enable_scheduler": "啟用調度程序",
+    "CL_DV_EY_unlock_tips": "你確定要解鎖嗎？",
+    "CL_DV_TD_g_eco_meter_conserve": "您的選擇可能更永續。請嘗試選擇其他節能環保的方案。"
 }
