@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "A ConnectLife alkalmazásban válaszd az „Eszköz hozzáadása” lehetőséget, olvasd be az eszközöd ajtaján található QR-kódot, majd kattints a „Tovább” gombra. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Az eszköz hálózata most 5 percig csatlakozhat. \n Most már befejezheti a párosítási folyamatot az alkalmazásban. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Koppintson az „Eszköz párosítása” elemre.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Győződjön meg arról, hogy a Wifi rendszer engedélyezve van, majd forgassa el a gombot a „Kapcsolat beállítása” menüpontra lépéshez, és kattintson az „Enter” gombra.",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Győződjön meg arról, hogy a WiFi rendszer engedélyezve van, majd forgassa el a gombot a „Kapcsolat beállítása” menüpontra lépéshez, és kattintson az „Enter” gombra.",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Lépjen a „WiFi beállítások” menüpontra, és kattintson az „Enter” gombra. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Forgassa el a gombot, és lépjen az „Eszköz hozzáadása” menüpontra, majd kattintson az „Enter” gombra.",
     "CL_CF_CS_hob_hi_6_cs_1": "Állítsa a készüléket normál működési körülmények közé. \n Ha a Wi-Fi szimbólum már világít, ugorjon erre a lépésre, és folytassa a 2. lépéssel. \n Ha a Wi-Fi szimbólum nem világít, koppintson a Wi-Fi gombra a Wi-Fi engedélyezéséhez.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "LE indítóteljesítmény",
     "CL_DV_EY_hp_stop_power": "HP leállítóerő",
     "CL_DV_EY_hp_start_soc": "HP indítási SOC",
-    "CL_DV_EY_hp_stop_soc": "HP leállítás SoC",
+    "CL_DV_EY_hp_stop_soc": "HP leállítás SOC",
     "CL_DV_EY_min_run_time_once": "Minimum futási idő egyszer",
     "CL_DV_EY_min_run_time_day": "Napi maximális futási idő",
     "CL_DV_EY_stop_month1": "1. hónap leállítása",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "ütemező",
     "CL_DV_EY_month_from": "Hónap ettől:",
     "CL_DV_EY_month_to": "Hónaptól",
-    "CL_DV_EY_enable_scheduler": "Ütemező engedélyezése"
+    "CL_DV_EY_enable_scheduler": "Ütemező engedélyezése",
+    "CL_DV_EY_unlock_tips": "Biztosan feloldja?",
+    "CL_DV_TD_g_eco_meter_conserve": "A választásod lehetne fenntarthatóbb is. Próbálj ki egy másik programot, hogy energiát takaríts meg és környezetbarátabb legyél."
 }

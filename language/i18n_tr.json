@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "ConnectLife uygulamasında “Cihaz ekle” seçeneğini seçin ve cihazınızın kapı halkasında bulunan QR kodunu tarayın ve “İleri”ye tıklayın. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Cihaz ağı artık 5 dakika boyunca bağlantıya açık. \n Artık uygulamada eşleştirme işlemini tamamlayabilirsiniz. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "“Cihazı eşleştir”e dokunun.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Öncelikle Wi-Fi sisteminin etkinleştirildiğinden emin olun, ardından düğmeyi çevirerek \"Bağlantı kurulumu\" seçeneğine gelin ve \"Enter\" tuşuna tıklayın.",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "WiFi sisteminin etkinleştirildiğinden emin olun, ardından düğmeyi çevirerek \"Bağlantı kurulumu\" seçeneğine gelin ve \"Enter\" tuşuna tıklayın.",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "“WiFi ayarları”na gidin ve “Enter”a tıklayın. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Düğmeyi çevirin ve \"Cihaz ekle\"ye gidin ve ardından \"Enter\"a tıklayın.",
     "CL_CF_CS_hob_hi_6_cs_1": "Cihazı normal çalışma koşullarına ayarlayın. \n Wi-Fi simgesi zaten yanıyorsa, bu adımı atlayın ve 2. Adıma geçin. \n Wi-Fi simgesi yanmıyorsa, Wi-Fi'yi etkinleştirmek için Wi-Fi tuşuna dokunun.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HP başlangıç gücü",
     "CL_DV_EY_hp_stop_power": "HP durdurma gücü",
     "CL_DV_EY_hp_start_soc": "HP başlangıç SOC'u",
-    "CL_DV_EY_hp_stop_soc": "HP SoC'yi durduruyor",
+    "CL_DV_EY_hp_stop_soc": "HP SOC'yi durduruyor",
     "CL_DV_EY_min_run_time_once": "Minimum çalışma süresi bir kez",
     "CL_DV_EY_min_run_time_day": "Maksimum çalışma süresi (gün)",
     "CL_DV_EY_stop_month1": "1. ayı durdurun",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "zamanlayıcı",
     "CL_DV_EY_month_from": "Aydan itibaren",
     "CL_DV_EY_month_to": "Aydan aya",
-    "CL_DV_EY_enable_scheduler": "Zamanlayıcıyı etkinleştir"
+    "CL_DV_EY_enable_scheduler": "Zamanlayıcıyı etkinleştir",
+    "CL_DV_EY_unlock_tips": "Kilidi açmak istediğinizden emin misiniz?",
+    "CL_DV_TD_g_eco_meter_conserve": "Seçiminiz daha sürdürülebilir olabilir. Enerji tasarrufu sağlamak ve daha çevre dostu olmak için başka bir program seçmeyi deneyin."
 }

@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "In the ConnectLife app, select “Add device” and scan the QR code that are located on the door ring of your device and click “Next”. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "The device network is now open for connection for 5 minutes.\nYou can now finish the pairing process in the app. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Tap on “Pair device”.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Make sure that Wifi system is enabled, then turn the knob to move to \"Connection setup\" and click on \"Enter\".",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Make sure that WiFi system is enabled, then turn the knob to move to \"Connection setup\" and click on \"Enter\".",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Go to “WiFi settings” and click on “Enter”. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Turn the knob and go to \"Add device\" and then click \"Enter\".",
     "CL_CF_CS_hob_hi_6_cs_1": "Set the device to normal operating conditions.\nIf the Wi-Fi symbol is already lit, skip this step and go to Step 2.\nIf the Wi-Fi symbol is not lit up, tap the Wi-Fi key to enable the Wi-Fi.",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "scheduler",
     "CL_DV_EY_month_from": "Month from",
     "CL_DV_EY_month_to": "Month to",
-    "CL_DV_EY_enable_scheduler": "Enable scheduler"
+    "CL_DV_EY_enable_scheduler": "Enable scheduler",
+    "CL_DV_EY_unlock_tips": "Are you sure to unlock?",
+    "CL_DV_TD_g_eco_meter_conserve": "Your selection could be more sustainable. Try selecting another program to conserve energy and be more eco friendly."
 }

@@ -5332,7 +5332,7 @@
     "CL_CF_CS_wm86_td76_ui3_cs_step5": "Trong ứng dụng ConnectLife, chọn “Thêm thiết bị” và quét mã QR nằm trên chuông cửa của thiết bị và nhấp vào “Tiếp theo”. ",
     "CL_CF_CS_wm86_td76_ui3_cs_step6": "Mạng thiết bị hiện đã mở để kết nối trong 5 phút. \n Bây giờ bạn có thể hoàn tất quá trình ghép nối trong ứng dụng. ",
     "CL_CF_CS_wm86_td76_ui3_p_step3": "Chạm vào “Ghép nối thiết bị”.",
-    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Hãy đảm bảo rằng hệ thống Wifi đã được bật, sau đó xoay núm điều chỉnh để chuyển sang \"Thiết lập kết nối\" và nhấn \"Enter\".",
+    "CL_CF_CS_wm86_td76_ui1_cs_step2": "Hãy đảm bảo rằng hệ thống WiFi đã được bật, sau đó xoay núm điều chỉnh để chuyển sang \"Thiết lập kết nối\" và nhấn \"Enter\".",
     "CL_CF_CS_wm86_td76_ui1_p_step2": "Vào “Cài đặt WiFi” và nhấp vào “Enter”. ",
     "CL_CF_CS_wm86_td76_ui1_p_step3": "Xoay núm và đi tới \"Thêm thiết bị\" rồi nhấp vào \"Enter\".",
     "CL_CF_CS_hob_hi_6_cs_1": "Đặt thiết bị ở điều kiện hoạt động bình thường. \n Nếu biểu tượng Wi-Fi đã sáng, hãy bỏ qua bước này và chuyển sang Bước 2. \n Nếu biểu tượng Wi-Fi không sáng, hãy nhấn phím Wi-Fi để bật Wi-Fi.",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Nguồn khởi động HP",
     "CL_DV_EY_hp_stop_power": "Công suất dừng HP",
     "CL_DV_EY_hp_start_soc": "HP khởi động SOC",
-    "CL_DV_EY_hp_stop_soc": "HP dừng SoC",
+    "CL_DV_EY_hp_stop_soc": "HP dừng SOC",
     "CL_DV_EY_min_run_time_once": "Thời gian chạy tối thiểu một lần",
     "CL_DV_EY_min_run_time_day": "Thời gian chạy tối đa mỗi ngày",
     "CL_DV_EY_stop_month1": "Dừng tháng 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "bộ lập lịch",
     "CL_DV_EY_month_from": "Tháng từ",
     "CL_DV_EY_month_to": "Tháng tới",
-    "CL_DV_EY_enable_scheduler": "Bật bộ lập lịch"
+    "CL_DV_EY_enable_scheduler": "Bật bộ lập lịch",
+    "CL_DV_EY_unlock_tips": "Bạn có chắc chắn muốn mở khóa không?",
+    "CL_DV_TD_g_eco_meter_conserve": "Lựa chọn của bạn có thể bền vững hơn. Hãy thử chọn một chương trình khác tiết kiệm năng lượng và thân thiện với môi trường hơn."
 }
