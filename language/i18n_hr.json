@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Startna snaga KS",
     "CL_DV_EY_hp_stop_power": "HP zaustavna snaga",
     "CL_DV_EY_hp_start_soc": "HP početni SOC",
-    "CL_DV_EY_hp_stop_soc": "HP zaustavljanje SoC-a",
+    "CL_DV_EY_hp_stop_soc": "HP zaustavljanje SOC-a",
     "CL_DV_EY_min_run_time_once": "Minimalno vrijeme izvođenja jednom",
     "CL_DV_EY_min_run_time_day": "Maksimalno vrijeme izvođenja dnevno",
     "CL_DV_EY_stop_month1": "Zaustavi mjesec 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "planer",
     "CL_DV_EY_month_from": "Mjesec od",
     "CL_DV_EY_month_to": "Mjesec do",
-    "CL_DV_EY_enable_scheduler": "Omogući planer"
+    "CL_DV_EY_enable_scheduler": "Omogući planer",
+    "CL_DV_EY_unlock_tips": "Jeste li sigurni da želite otključati?",
+    "CL_DV_TD_g_eco_meter_conserve": "Vaš odabir bi mogao biti održiviji. Pokušajte odabrati drugi program kako biste uštedjeli energiju i bili ekološki prihvatljiviji."
 }

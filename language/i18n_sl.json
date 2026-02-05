@@ -1886,7 +1886,7 @@
     "program_name_mix": "Mešano perilo",
     "program_name_synthetics": "Sintetika",
     "program_name_wool": "Volna",
-    "program_name_baby": "Otroška oblačila",
+    "program_name_baby": "Baby",
     "program_name_sensitive": "Občutljivo",
     "program_name_shirts": "Srajce",
     "program_name_sportsware": "Športna oblačila",
@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Začetna moč KM",
     "CL_DV_EY_hp_stop_power": "Zaustavna moč HP",
     "CL_DV_EY_hp_start_soc": "HP-jev zagonski SOC",
-    "CL_DV_EY_hp_stop_soc": "HP zaustavitev SoC",
+    "CL_DV_EY_hp_stop_soc": "HP zaustavitev SOC",
     "CL_DV_EY_min_run_time_once": "Minimalni čas delovanja enkrat",
     "CL_DV_EY_min_run_time_day": "Najdaljši čas delovanja na dan",
     "CL_DV_EY_stop_month1": "Ustavi 1. mesec",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "razporejevalnik",
     "CL_DV_EY_month_from": "Mesec od",
     "CL_DV_EY_month_to": "Mesec do",
-    "CL_DV_EY_enable_scheduler": "Omogoči razporejevalnik"
+    "CL_DV_EY_enable_scheduler": "Omogoči razporejevalnik",
+    "CL_DV_EY_unlock_tips": "Ste prepričani, da želite odkleniti?",
+    "CL_DV_TD_g_eco_meter_conserve": "Vaša izbira bi lahko bila bolj trajnostna. Poskusite izbrati drug program, ki bo varčeval z energijo in bo bolj okolju prijazen."
 }

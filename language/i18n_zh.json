@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "调度器",
     "CL_DV_EY_month_from": "月份",
     "CL_DV_EY_month_to": "月至",
-    "CL_DV_EY_enable_scheduler": "启用调度程序"
+    "CL_DV_EY_enable_scheduler": "启用调度程序",
+    "CL_DV_EY_unlock_tips": "你确定要解锁吗？",
+    "CL_DV_TD_g_eco_meter_conserve": "您的选择可能更可持续。请尝试选择其他节能环保的方案。"
 }

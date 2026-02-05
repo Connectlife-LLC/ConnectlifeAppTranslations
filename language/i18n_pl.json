@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Moc startowa HP",
     "CL_DV_EY_hp_stop_power": "Moc zatrzymania HP",
     "CL_DV_EY_hp_start_soc": "HP start SOC",
-    "CL_DV_EY_hp_stop_soc": "HP stop SoC",
+    "CL_DV_EY_hp_stop_soc": "HP stop SOC",
     "CL_DV_EY_min_run_time_once": "Minimalny czas wykonania raz",
     "CL_DV_EY_min_run_time_day": "Maksymalny czas pracy w ciągu dnia",
     "CL_DV_EY_stop_month1": "Zatrzymaj miesiąc 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "harmonogram",
     "CL_DV_EY_month_from": "Miesiąc od",
     "CL_DV_EY_month_to": "Miesiąc do",
-    "CL_DV_EY_enable_scheduler": "Włącz harmonogram"
+    "CL_DV_EY_enable_scheduler": "Włącz harmonogram",
+    "CL_DV_EY_unlock_tips": "Czy na pewno chcesz odblokować?",
+    "CL_DV_TD_g_eco_meter_conserve": "Twój wybór może być bardziej zrównoważony. Spróbuj wybrać inny program, aby oszczędzać energię i być bardziej przyjaznym dla środowiska."
 }

@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Daya awal HP",
     "CL_DV_EY_hp_stop_power": "HP berhenti daya",
     "CL_DV_EY_hp_start_soc": "HP memulai SOC",
-    "CL_DV_EY_hp_stop_soc": "HP menghentikan SoC",
+    "CL_DV_EY_hp_stop_soc": "HP menghentikan SOC",
     "CL_DV_EY_min_run_time_once": "Waktu berjalan minimum sekali",
     "CL_DV_EY_min_run_time_day": "Waktu berjalan maksimum per hari",
     "CL_DV_EY_stop_month1": "Berhenti bulan 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "penjadwal",
     "CL_DV_EY_month_from": "Bulan dari",
     "CL_DV_EY_month_to": "Bulan hingga",
-    "CL_DV_EY_enable_scheduler": "Aktifkan penjadwal"
+    "CL_DV_EY_enable_scheduler": "Aktifkan penjadwal",
+    "CL_DV_EY_unlock_tips": "Apakah Anda yakin ingin membukanya?",
+    "CL_DV_TD_g_eco_meter_conserve": "Pilihan Anda bisa lebih berkelanjutan. Cobalah memilih program lain untuk menghemat energi dan lebih ramah lingkungan."
 }

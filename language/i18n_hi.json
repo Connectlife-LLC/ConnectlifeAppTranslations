@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "अनुसूचक",
     "CL_DV_EY_month_from": "महीने से",
     "CL_DV_EY_month_to": "महीने से",
-    "CL_DV_EY_enable_scheduler": "शेड्यूलर को सक्षम करें"
+    "CL_DV_EY_enable_scheduler": "शेड्यूलर को सक्षम करें",
+    "CL_DV_EY_unlock_tips": "क्या आप अनलॉक करने के लिए निश्चित हैं?",
+    "CL_DV_TD_g_eco_meter_conserve": "आपका चयन अधिक टिकाऊ हो सकता है। ऊर्जा संरक्षण और पर्यावरण के प्रति अधिक जागरूक होने के लिए कोई दूसरा कार्यक्रम चुनकर देखें।"
 }
