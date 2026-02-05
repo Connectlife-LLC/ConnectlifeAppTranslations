@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Nguồn khởi động HP",
     "CL_DV_EY_hp_stop_power": "Công suất dừng HP",
     "CL_DV_EY_hp_start_soc": "HP khởi động SOC",
-    "CL_DV_EY_hp_stop_soc": "HP dừng SoC",
+    "CL_DV_EY_hp_stop_soc": "HP dừng SOC",
     "CL_DV_EY_min_run_time_once": "Thời gian chạy tối thiểu một lần",
     "CL_DV_EY_min_run_time_day": "Thời gian chạy tối đa mỗi ngày",
     "CL_DV_EY_stop_month1": "Dừng tháng 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "bộ lập lịch",
     "CL_DV_EY_month_from": "Tháng từ",
     "CL_DV_EY_month_to": "Tháng tới",
-    "CL_DV_EY_enable_scheduler": "Bật bộ lập lịch"
+    "CL_DV_EY_enable_scheduler": "Bật bộ lập lịch",
+    "CL_DV_EY_unlock_tips": "Bạn có chắc chắn muốn mở khóa không?",
+    "CL_DV_TD_g_eco_meter_conserve": "Lựa chọn của bạn có thể bền vững hơn. Hãy thử chọn một chương trình khác tiết kiệm năng lượng và thân thiện với môi trường hơn."
 }

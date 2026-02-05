@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "Startovací výkon HP",
     "CL_DV_EY_hp_stop_power": "HP brzdný výkon",
     "CL_DV_EY_hp_start_soc": "HP start SOC",
-    "CL_DV_EY_hp_stop_soc": "Zastavení HP SoC",
+    "CL_DV_EY_hp_stop_soc": "Zastavení HP SOC",
     "CL_DV_EY_min_run_time_once": "Minimální doba běhu jednou",
     "CL_DV_EY_min_run_time_day": "Maximální doba běhu během dne",
     "CL_DV_EY_stop_month1": "Zastavit měsíc 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "plánovač",
     "CL_DV_EY_month_from": "Měsíc od",
     "CL_DV_EY_month_to": "Měsíc do",
-    "CL_DV_EY_enable_scheduler": "Povolit plánovač"
+    "CL_DV_EY_enable_scheduler": "Povolit plánovač",
+    "CL_DV_EY_unlock_tips": "Jsi si jistý/á, že chceš odemknout?",
+    "CL_DV_TD_g_eco_meter_conserve": "Váš výběr by mohl být udržitelnější. Zkuste zvolit jiný program, který šetří energii a je šetrnější k životnímu prostředí."
 }

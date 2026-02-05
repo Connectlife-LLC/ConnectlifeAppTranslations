@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HP始動力",
     "CL_DV_EY_hp_stop_power": "HP停止電力",
     "CL_DV_EY_hp_start_soc": "HP スタート SOC",
-    "CL_DV_EY_hp_stop_soc": "HP停止SoC",
+    "CL_DV_EY_hp_stop_soc": "HP停止SOC",
     "CL_DV_EY_min_run_time_once": "最小実行時間（1回）",
     "CL_DV_EY_min_run_time_day": "最大稼働時間（日）",
     "CL_DV_EY_stop_month1": "停止月1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "スケジューラ",
     "CL_DV_EY_month_from": "月～",
     "CL_DV_EY_month_to": "月～",
-    "CL_DV_EY_enable_scheduler": "スケジューラを有効にする"
+    "CL_DV_EY_enable_scheduler": "スケジューラを有効にする",
+    "CL_DV_EY_unlock_tips": "ロックを解除しますか?",
+    "CL_DV_TD_g_eco_meter_conserve": "より持続可能な選択をしてください。エネルギーを節約し、より環境に優しい別のプログラムを選択してください。"
 }

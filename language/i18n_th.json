@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "กำลังไฟเริ่มต้น HP",
     "CL_DV_EY_hp_stop_power": "พลังหยุด HP",
     "CL_DV_EY_hp_start_soc": "HP เริ่ม SOC",
-    "CL_DV_EY_hp_stop_soc": "HP หยุด SoC",
+    "CL_DV_EY_hp_stop_soc": "HP หยุด SOC",
     "CL_DV_EY_min_run_time_once": "เวลาทำงานขั้นต่ำหนึ่งครั้ง",
     "CL_DV_EY_min_run_time_day": "ระยะเวลาใช้งานสูงสุดต่อวัน",
     "CL_DV_EY_stop_month1": "หยุดเดือนที่ 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "ตัวกำหนดตารางเวลา",
     "CL_DV_EY_month_from": "เดือนจาก",
     "CL_DV_EY_month_to": "เดือนถึง",
-    "CL_DV_EY_enable_scheduler": "เปิดใช้งานตัวกำหนดเวลา"
+    "CL_DV_EY_enable_scheduler": "เปิดใช้งานตัวกำหนดเวลา",
+    "CL_DV_EY_unlock_tips": "คุณแน่ใจหรือว่าต้องการปลดล็อก?",
+    "CL_DV_TD_g_eco_meter_conserve": "ตัวเลือกของคุณอาจไม่ยั่งยืนกว่านี้ ลองเลือกโปรแกรมอื่นเพื่อประหยัดพลังงานและเป็นมิตรกับสิ่งแวดล้อมมากขึ้น"
 }

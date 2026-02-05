@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HP starteffekt",
     "CL_DV_EY_hp_stop_power": "HP-stoppkraft",
     "CL_DV_EY_hp_start_soc": "HP startar SOC",
-    "CL_DV_EY_hp_stop_soc": "HP-stopp SoC",
+    "CL_DV_EY_hp_stop_soc": "HP-stopp SOC",
     "CL_DV_EY_min_run_time_once": "Minsta körtid en gång",
     "CL_DV_EY_min_run_time_day": "Max körtid dag",
     "CL_DV_EY_stop_month1": "Stopp månad 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "schemaläggare",
     "CL_DV_EY_month_from": "Månad från",
     "CL_DV_EY_month_to": "Månad till",
-    "CL_DV_EY_enable_scheduler": "Aktivera schemaläggaren"
+    "CL_DV_EY_enable_scheduler": "Aktivera schemaläggaren",
+    "CL_DV_EY_unlock_tips": "Är du säker på att du vill låsa upp?",
+    "CL_DV_TD_g_eco_meter_conserve": "Ditt val kan vara mer hållbart. Försök att välja ett annat program för att spara energi och vara mer miljövänligt."
 }

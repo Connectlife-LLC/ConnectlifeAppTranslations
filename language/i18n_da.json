@@ -7777,7 +7777,7 @@
     "CL_DV_EY_hp_start_power": "HK startkraft",
     "CL_DV_EY_hp_stop_power": "HK-stopkraft",
     "CL_DV_EY_hp_start_soc": "HP start SOC",
-    "CL_DV_EY_hp_stop_soc": "HP stop SoC",
+    "CL_DV_EY_hp_stop_soc": "HP stop SOC",
     "CL_DV_EY_min_run_time_once": "Min. køretid én gang",
     "CL_DV_EY_min_run_time_day": "Maksimal køretid om dagen",
     "CL_DV_EY_stop_month1": "Stop måned 1",
@@ -7960,5 +7960,7 @@
     "CL_DV_EY_scheduler": "planlægger",
     "CL_DV_EY_month_from": "Måned fra",
     "CL_DV_EY_month_to": "Måned til",
-    "CL_DV_EY_enable_scheduler": "Aktivér planlægger"
+    "CL_DV_EY_enable_scheduler": "Aktivér planlægger",
+    "CL_DV_EY_unlock_tips": "Er du sikker på at du vil låse op?",
+    "CL_DV_TD_g_eco_meter_conserve": "Dit valg kunne være mere bæredygtigt. Prøv at vælge et andet program for at spare energi og være mere miljøvenlig."
 }
