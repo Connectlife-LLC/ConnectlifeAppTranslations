@@ -4801,7 +4801,7 @@
     "CL_CF_CM_online_shop_title": "Spletna trgovina",
     "CL_CF_CM_brand_online_shop_title": "** spletna trgovina",
     "CL_CF_CM_category_shop_title": "Trgovina ** ##",
-    "CL_CF_CS__online_shop_laundry": "pranje perila",
+    "CL_CF_CS__online_shop_laundry": "za pranje perila",
     "CL_CF_CS__online_shop_ovens": "Pečice",
     "CL_CF_CS__online_shop_dishwashers": "pomivalni stroji",
     "CL_CF_CS__online_shop_refrigerators": "hladilniki",
@@ -7962,5 +7962,6 @@
     "CL_DV_EY_month_to": "Mesec do",
     "CL_DV_EY_enable_scheduler": "Omogoči razporejevalnik",
     "CL_DV_EY_unlock_tips": "Ste prepričani, da želite odkleniti?",
-    "CL_DV_TD_g_eco_meter_conserve": "Vaša izbira bi lahko bila bolj trajnostna. Poskusite izbrati drug program, ki bo varčeval z energijo in bo bolj okolju prijazen."
+    "CL_DV_TD_g_eco_meter_conserve": "Vaša izbira bi lahko bila bolj trajnostna. Poskusite izbrati drug program, ki bo varčeval z energijo in bo bolj okolju prijazen.",
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Razpoložljivo temperaturno območje za hladilni del je odvisno od trenutne nastavitve Dura Fresh™."
 }

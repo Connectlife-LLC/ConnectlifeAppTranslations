@@ -7962,5 +7962,6 @@
     "CL_DV_EY_month_to": "Maand tot",
     "CL_DV_EY_enable_scheduler": "Schakel de planner in",
     "CL_DV_EY_unlock_tips": "Weet je zeker dat je wilt ontgrendelen?",
-    "CL_DV_TD_g_eco_meter_conserve": "Je keuze zou duurzamer kunnen zijn. Probeer een ander programma te kiezen dat energie bespaart en milieuvriendelijker is."
+    "CL_DV_TD_g_eco_meter_conserve": "Je keuze zou duurzamer kunnen zijn. Probeer een ander programma te kiezen dat energie bespaart en milieuvriendelijker is.",
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Het beschikbare temperatuurbereik voor het koelgedeelte is afhankelijk van de huidige Dura Fresh™-instelling."
 }

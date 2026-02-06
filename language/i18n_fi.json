@@ -7962,5 +7962,6 @@
     "CL_DV_EY_month_to": "Kuukausi",
     "CL_DV_EY_enable_scheduler": "Ota ajoitus käyttöön",
     "CL_DV_EY_unlock_tips": "Oletko varma, että avaat?",
-    "CL_DV_TD_g_eco_meter_conserve": "Valintasi voisi olla kestävämpi. Kokeile valita toinen ohjelma energian säästämiseksi ja ympäristöystävällisemmäksi."
+    "CL_DV_TD_g_eco_meter_conserve": "Valintasi voisi olla kestävämpi. Kokeile valita toinen ohjelma energian säästämiseksi ja ympäristöystävällisemmäksi.",
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Jääkaappiosaston käytettävissä oleva lämpötila-alue riippuu nykyisestä Dura Fresh™ -asetuksesta."
 }
