@@ -7962,5 +7962,6 @@
     "CL_DV_EY_month_to": "Mese a",
     "CL_DV_EY_enable_scheduler": "Abilita pianificatore",
     "CL_DV_EY_unlock_tips": "Sei sicuro di voler sbloccare?",
-    "CL_DV_TD_g_eco_meter_conserve": "La tua scelta potrebbe essere più sostenibile. Prova a selezionare un altro programma per risparmiare energia e rispettare l'ambiente."
+    "CL_DV_TD_g_eco_meter_conserve": "La tua scelta potrebbe essere più sostenibile. Prova a selezionare un altro programma per risparmiare energia e rispettare l'ambiente.",
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "L'intervallo di temperatura disponibile per il vano frigorifero dipende dall'impostazione corrente di Dura Fresh™"
 }

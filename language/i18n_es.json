@@ -7962,5 +7962,6 @@
     "CL_DV_EY_month_to": "Mes a",
     "CL_DV_EY_enable_scheduler": "Habilitar programador",
     "CL_DV_EY_unlock_tips": "¿Estás seguro de desbloquear?",
-    "CL_DV_TD_g_eco_meter_conserve": "Tu selección podría ser más sostenible. Intenta seleccionar otro programa para ahorrar energía y ser más ecológico."
+    "CL_DV_TD_g_eco_meter_conserve": "Tu selección podría ser más sostenible. Intenta seleccionar otro programa para ahorrar energía y ser más ecológico.",
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "El rango de temperatura disponible para el compartimento frigorífico depende de la configuración actual de Dura Fresh™"
 }

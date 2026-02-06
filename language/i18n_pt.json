@@ -7962,5 +7962,6 @@
     "CL_DV_EY_month_to": "Mês para",
     "CL_DV_EY_enable_scheduler": "Ativar agendador",
     "CL_DV_EY_unlock_tips": "Tem certeza que deseja desbloquear?",
-    "CL_DV_TD_g_eco_meter_conserve": "Sua escolha poderia ser mais sustentável. Tente selecionar outro programa para economizar energia e ser mais ecológico."
+    "CL_DV_TD_g_eco_meter_conserve": "Sua escolha poderia ser mais sustentável. Tente selecionar outro programa para economizar energia e ser mais ecológico.",
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "A faixa de temperatura disponível para o compartimento do refrigerador depende da configuração atual do Dura Fresh™."
 }
