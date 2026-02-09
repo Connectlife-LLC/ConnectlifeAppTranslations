@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "启用调度程序",
     "CL_DV_EY_unlock_tips": "你确定要解锁吗？",
     "CL_DV_TD_g_eco_meter_conserve": "您的选择可能更可持续。请尝试选择其他节能环保的方案。",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "冰箱隔间的可用温度范围取决于当前的 Dura Fresh™ 设置。"
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "冰箱隔间的可用温度范围取决于当前的 Dura Fresh™ 设置。",
+    "CL_net_error": "网络异常，请重试"
 }

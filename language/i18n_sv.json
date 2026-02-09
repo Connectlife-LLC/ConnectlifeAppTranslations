@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "Aktivera schemaläggaren",
     "CL_DV_EY_unlock_tips": "Är du säker på att du vill låsa upp?",
     "CL_DV_TD_g_eco_meter_conserve": "Ditt val kan vara mer hållbart. Försök att välja ett annat program för att spara energi och vara mer miljövänligt.",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "Det tillgängliga temperaturintervallet för kylfacket beror på den aktuella Dura Fresh™-inställningen."
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Det tillgängliga temperaturintervallet för kylfacket beror på den aktuella Dura Fresh™-inställningen.",
+    "CL_net_error": "Nätverksfel, försök igen."
 }

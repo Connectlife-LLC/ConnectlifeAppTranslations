@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "Włącz harmonogram",
     "CL_DV_EY_unlock_tips": "Czy na pewno chcesz odblokować?",
     "CL_DV_TD_g_eco_meter_conserve": "Twój wybór może być bardziej zrównoważony. Spróbuj wybrać inny program, aby oszczędzać energię i być bardziej przyjaznym dla środowiska.",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "Dostępny zakres temperatur w komorze lodówki zależy od aktualnego ustawienia Dura Fresh™"
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Dostępny zakres temperatur w komorze lodówki zależy od aktualnego ustawienia Dura Fresh™",
+    "CL_net_error": "Błąd sieci, spróbuj ponownie."
 }
