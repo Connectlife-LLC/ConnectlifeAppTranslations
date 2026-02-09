@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Koppla ihop din {##} eller beställ den idag",
     "CL_AC_auto_defrost_tips": "Automatisk avfrostning är en förinställd rengöringsfunktion. \n När du använder det här läget kan systemet, på grund av förändringar i rumstemperaturen och de termiska expansions- och kontraktionsljud som genereras av rengöringen, felbedöma närvaron av någon i rummet som att ingen är närvarande. \n När en person befinner sig utanför sensorns detekteringsområde, eller förblir i ett helt orörligt tillstånd under en längre period (t.ex. på grund av djup sömn) i mer än 60 minuter, kommer den att definieras som ett obemannat tillstånd.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Nytt lösenord",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

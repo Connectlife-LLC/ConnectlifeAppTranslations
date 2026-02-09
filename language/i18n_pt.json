@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Combine seu {##} ou encomende hoje mesmo",
     "CL_AC_auto_defrost_tips": "A limpeza com descongelamento \n é uma função de limpeza pré-definida. Ao usar este modo, devido às mudanças na temperatura ambiente e aos sons de expansão e contração térmica gerados pela limpeza, o sistema pode interpretar erroneamente a presença de alguém no ambiente \n se não houvesse ninguém. Quando uma pessoa estiver fora do alcance de detecção do sensor ou permanecer completamente imóvel por um período prolongado (como durante um sono profundo) por mais de 60 minutos, o ambiente será considerado desocupado.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Nova Senha",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

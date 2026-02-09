@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "{##}와 함께 사용하거나 지금 바로 주문하세요.",
     "CL_AC_auto_defrost_tips": "자동 제상 청소는 미리 설정된 청소 기능입니다. \n 이 모드를 사용할 때, 실내 온도 변화와 청소 과정에서 발생하는 열팽창 및 수축 소음으로 인해 시스템이 실내에 사람이 없는 것으로 잘못 판단할 수 있습니다. \n 사람이 센서 감지 범위를 벗어나 있거나, 60분 이상 완전히 정지된 상태(예: 깊은 수면)를 유지하는 경우, 사람이 없는 것으로 판단됩니다.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "새 비밀번호",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

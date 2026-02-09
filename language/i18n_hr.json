@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Uparite svoj {##} ili ga naručite već danas",
     "CL_AC_auto_defrost_tips": "Čišćenje automatskim odmrzavanjem je unaprijed postavljena funkcija čišćenja. \n Prilikom korištenja ovog načina rada, zbog promjena temperature u prostoriji i zvukova toplinskog širenja i skupljanja koji nastaju čišćenjem, sustav može pogrešno procijeniti prisutnost nekoga u prostoriji kao da nitko nije prisutan. \n Kada je osoba izvan dometa detekcije senzora ili ostane u potpuno nepomičnom stanju dulje vrijeme (npr. zbog dubokog sna) dulje od 60 minuta, to će se utvrditi kao nezauzeto stanje.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Nova lozinka",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

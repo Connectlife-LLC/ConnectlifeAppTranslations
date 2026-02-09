@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Spárujte svoj {##} alebo si ho objednajte ešte dnes",
     "CL_AC_auto_defrost_tips": "Automatické rozmrazovanie je prednastavená funkcia čistenia. \n Pri použití tohto režimu môže systém v dôsledku zmien teploty v miestnosti a zvukov tepelnej rozťažnosti a sťahovania generovaných čistením nesprávne vyhodnotiť prítomnosť osoby v miestnosti ako žiadnu osobu. \n Keď sa osoba nachádza mimo dosahu detekcie senzora alebo zostane v úplne nehybnom stave dlhší čas (napríklad v dôsledku hlbokého spánku) dlhšie ako 60 minút, bude to identifikované ako neobsadený stav.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Nové heslo",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

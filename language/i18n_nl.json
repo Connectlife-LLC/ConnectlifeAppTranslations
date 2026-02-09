@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Combineer je {##} of bestel hem vandaag nog.",
     "CL_AC_auto_defrost_tips": "De automatische ontdooifunctie is een vooraf ingestelde reinigingsfunctie. \n Bij gebruik van deze modus kan het systeem, vanwege temperatuurschommelingen in de ruimte en de geluiden die ontstaan door thermische uitzetting en krimp tijdens het reinigen, ten onrechte de aanwezigheid van iemand in de ruimte als afwezig beschouwen. \n Wanneer een persoon zich buiten het detectiebereik van de sensor bevindt of gedurende een langere periode (bijvoorbeeld door diepe slaap) langer dan 60 minuten volledig stilstaat, wordt dit als onbezet beschouwd.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Nieuw wachtwoord",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Associez votre {##} ou commandez-le dès aujourd'hui",
     "CL_AC_auto_defrost_tips": "Le dégivrage automatique est une fonction de nettoyage préréglée. \n Lors de l'utilisation de ce mode, en raison des variations de température ambiante et des bruits de dilatation et de contraction thermiques générés par le nettoyage, le système peut interpréter à tort la présence d'une personne dans la pièce comme étant vide. \n Lorsqu'une personne se trouve hors de la zone de détection du capteur, ou reste complètement immobile pendant une période prolongée (par exemple, en cas de sommeil profond) pendant plus de 60 minutes, la pièce sera considérée comme inoccupée.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Nouveau mot de passe",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Sparuj swój {##} lub zamów go już dziś",
     "CL_AC_auto_defrost_tips": "Funkcja automatycznego odmrażania jest wstępnie ustawioną funkcją czyszczenia. \n Podczas korzystania z tego trybu, ze względu na zmiany temperatury w pomieszczeniu oraz dźwięki rozszerzania się i kurczenia cieplnego generowane podczas czyszczenia, system może błędnie ocenić obecność kogoś w pomieszczeniu i uznać, że nikogo tam nie ma. \n Jeśli osoba znajduje się poza zasięgiem wykrywania czujnika lub pozostaje w całkowitym bezruchu przez dłuższy czas (np. z powodu głębokiego snu) przez ponad 60 minut, zostanie ona uznana za osobę nieobecną.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Nowe hasło",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

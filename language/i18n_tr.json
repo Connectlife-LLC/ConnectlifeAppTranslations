@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "{##} ürününüzle eşleştirin veya bugün sipariş verin.",
     "CL_AC_auto_defrost_tips": " Buz Çözme temizliği, önceden ayarlanmış bir temizleme fonksiyonudur. Bu modu kullanırken, oda sıcaklığındaki değişiklikler ve temizlikten kaynaklanan termal genleşme ve büzülme sesleri nedeniyle sistem, odada birinin varlığını yokmuş gibi yanlış \n. Bir kişi sensörün algılama aralığının dışında olduğunda veya 60 dakikadan fazla bir süre boyunca (örneğin derin uyku nedeniyle) tamamen hareketsiz kaldığında, boş durum olarak değerlendirilecektir.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Yeni Şifre",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

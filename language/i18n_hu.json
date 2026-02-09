@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Párosítsa a {##} készülékét, vagy rendelje meg még ma",
     "CL_AC_auto_defrost_tips": "Az automatikus leolvasztásos tisztítás egy előre beállított takarítási funkció. \n Ennek az üzemmódnak a használatakor a szobahőmérséklet-változások, valamint a takarítás során keletkező hőtágulási és -összehúzódási hangok miatt a rendszer tévesen úgy ítélheti meg a szobában tartózkodó személyek jelenlétét, mintha senki sem lenne jelen. \n Amikor egy személy az érzékelő érzékelési tartományán kívül tartózkodik, vagy hosszabb ideig (például mély alvás miatt) 60 percnél tovább teljesen mozdulatlan állapotban marad, a rendszer üresen álló állapotként azonosítja a személyt.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Új jelszó",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

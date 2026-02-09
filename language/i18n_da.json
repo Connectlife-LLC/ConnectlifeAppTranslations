@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Par din {##} eller bestil den i dag",
     "CL_AC_auto_defrost_tips": "Automatisk optøning er en forudindstillet rengøringsfunktion. \n Når denne tilstand bruges, kan systemet på grund af ændringer i rumtemperaturen og de termiske udvidelses- og sammentrækningslyde, der genereres under rengøring, fejlvurdere tilstedeværelsen af en person i rummet som ingen til stede. \n Når en person er uden for sensorens detektionsområde eller forbliver i en fuldstændig ubevægelig tilstand i en længere periode (f.eks. på grund af dyb søvn) i mere end 60 minutter, vil den blive registreret som en ubeboet tilstand.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Ny adgangskode",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

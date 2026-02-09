@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Kombinieren Sie Ihr {##} oder bestellen Sie es noch heute",
     "CL_AC_auto_defrost_tips": "Die automatische Abtau-Reinigung ist eine voreingestellte Reinigungsfunktion. Bei Verwendung dieses Modus kann \n aufgrund von Raumtemperaturänderungen und den beim Reinigen entstehenden Geräuschen der Wärmeausdehnung und -zusammenziehung vorkommen, dass das System die Anwesenheit einer Person im Raum fälschlicherweise als Abwesenheit \n. Wenn sich eine Person außerhalb des Erfassungsbereichs des Sensors befindet oder sich über einen längeren Zeitraum (z. B. im Tiefschlaf) mehr als 60 Minuten lang völlig bewegungslos verhält, wird dies als unbesetzt gewertet.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Neues Passwort",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

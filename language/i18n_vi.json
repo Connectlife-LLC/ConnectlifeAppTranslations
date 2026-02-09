@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Ghép đôi {##} của bạn hoặc đặt hàng ngay hôm nay!",
     "CL_AC_auto_defrost_tips": "Chế độ \n động rã đông là một chức năng làm sạch được cài đặt sẵn. Khi sử dụng chế độ này, do sự thay đổi nhiệt độ phòng và âm thanh giãn nở và co lại do quá trình làm sạch tạo ra, hệ thống có \n nhận định sai sự hiện diện của người trong phòng là không có ai. Khi một người ở ngoài phạm vi phát hiện của cảm biến, hoặc ở trạng thái hoàn toàn bất động trong một thời gian dài (ví dụ như do ngủ sâu) hơn 60 phút, hệ thống sẽ xác định đó là trạng thái không có người.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Mật khẩu mới",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

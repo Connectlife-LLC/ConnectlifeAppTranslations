@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Asociați-vă {##}-ul sau comandați-l astăzi",
     "CL_AC_auto_defrost_tips": "Curățarea prin dezghețare automată este o funcție de curățare presetată. \n Când se utilizează acest mod, din cauza schimbărilor de temperatură a camerei și a sunetelor de dilatare și contracție termică generate de curățare, sistemul poate evalua greșit prezența cuiva în cameră, considerându-se că nu este nimeni prezent. \n Când o persoană se află în afara razei de detectare a senzorului sau rămâne într-o stare complet nemișcată pentru o perioadă lungă de timp (cum ar fi din cauza somnului profund) mai mult de 60 de minute, aceasta va fi considerată o stare neocupată.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Parolă Nouă",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

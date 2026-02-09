@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Padukan {##} Anda atau pesan hari ini",
     "CL_AC_auto_defrost_tips": "Pembersihan Pencairan \n adalah fungsi pembersihan yang telah diatur sebelumnya. Saat menggunakan mode ini, karena perubahan suhu ruangan dan suara pemuaian dan penyusutan termal yang dihasilkan oleh pembersihan, sistem mungkin salah menilai keberadaan seseorang di ruangan sebagai tidak ada siapa pun \n Ketika seseorang berada di luar jangkauan deteksi sensor, atau tetap dalam keadaan tidak bergerak sama sekali untuk jangka waktu yang lama (misalnya karena tidur nyenyak) selama lebih dari 60 menit, maka akan dianggap sebagai keadaan kosong.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Kata Sandi Baru",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

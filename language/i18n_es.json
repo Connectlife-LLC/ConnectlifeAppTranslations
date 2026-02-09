@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Empareja tu {##} o pídelo hoy",
     "CL_AC_auto_defrost_tips": "La limpieza automática por descongelación es una función de limpieza preestablecida. \n Al usar este modo, debido a los cambios de temperatura de la habitación y los sonidos de expansión y contracción térmica generados por la limpieza, el sistema puede juzgar erróneamente la presencia de alguien en la habitación como si no hubiera nadie presente. \n Cuando una persona está fuera del rango de detección del sensor o permanece en un estado completamente inmóvil durante un período prolongado (por ejemplo, debido a un sueño profundo) durante más de 60 minutos, se determinará como un estado desocupado.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Nueva contraseña",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",

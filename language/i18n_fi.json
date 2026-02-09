@@ -7540,7 +7540,7 @@
     "CL_DV_LRC_pair_order": "Yhdistä {##}-laitteesi tai tilaa se jo tänään",
     "CL_AC_auto_defrost_tips": "Automaattinen sulatuspuhdistus on esiasetettu puhdistustoiminto. \n Tässä tilassa järjestelmä saattaa huoneenlämpötilan muutosten ja puhdistuksen aiheuttamien lämpölaajenemis- ja supistumisäänien vuoksi tulkita huoneessa olevan henkilön läsnäolon virheellisesti niin, ettei kukaan ole läsnä. \n Kun henkilö on anturin tunnistusalueen ulkopuolella tai pysyy täysin liikkumattomassa tilassa pitkään (esimerkiksi syvän unen vuoksi) yli 60 minuuttia, tila tulkitaan tyhjillään olevaksi tilaksi.",
     "CL_login_password_error": "",
-    "CL_login_password_tips": "",
+    "CL_login_password_tips": "Uusi salasana",
     "CL_login_webchat_tips": "",
     "CL_connect_us_title": "",
     "CL_connect_us_line": "",
