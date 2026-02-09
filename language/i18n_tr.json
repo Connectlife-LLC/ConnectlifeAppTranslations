@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "Zamanlayıcıyı etkinleştir",
     "CL_DV_EY_unlock_tips": "Kilidi açmak istediğinizden emin misiniz?",
     "CL_DV_TD_g_eco_meter_conserve": "Seçiminiz daha sürdürülebilir olabilir. Enerji tasarrufu sağlamak ve daha çevre dostu olmak için başka bir program seçmeyi deneyin.",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "Buzdolabı bölmesinin kullanılabilir sıcaklık aralığı, mevcut Dura Fresh™ ayarına bağlıdır."
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Buzdolabı bölmesinin kullanılabilir sıcaklık aralığı, mevcut Dura Fresh™ ayarına bağlıdır.",
+    "CL_net_error": "Ağ hatası oluştu, lütfen tekrar deneyin."
 }

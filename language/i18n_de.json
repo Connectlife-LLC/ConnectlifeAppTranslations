@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "Zeitplaner aktivieren",
     "CL_DV_EY_unlock_tips": "Möchten Sie das Entsperren wirklich?",
     "CL_DV_TD_g_eco_meter_conserve": "Ihre Auswahl könnte nachhaltiger sein. Versuchen Sie, ein anderes Programm zu wählen, um Energie zu sparen und umweltfreundlicher zu sein.",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "Der verfügbare Temperaturbereich für das Kühlfach hängt von der aktuellen Dura Fresh™-Einstellung ab."
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Der verfügbare Temperaturbereich für das Kühlfach hängt von der aktuellen Dura Fresh™-Einstellung ab.",
+    "CL_net_error": "Netzwerkfehler, bitte versuchen Sie es erneut."
 }

@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "スケジューラを有効にする",
     "CL_DV_EY_unlock_tips": "ロックを解除しますか?",
     "CL_DV_TD_g_eco_meter_conserve": "より持続可能な選択をしてください。エネルギーを節約し、より環境に優しい別のプログラムを選択してください。",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "冷蔵室の利用可能な温度範囲は、現在のDura Fresh™設定によって異なります。"
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "冷蔵室の利用可能な温度範囲は、現在のDura Fresh™設定によって異なります。",
+    "CL_net_error": "ネットワークエラーです。もう一度お試しください。"
 }

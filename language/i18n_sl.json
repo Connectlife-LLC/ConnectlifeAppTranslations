@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "Omogoči razporejevalnik",
     "CL_DV_EY_unlock_tips": "Ste prepričani, da želite odkleniti?",
     "CL_DV_TD_g_eco_meter_conserve": "Vaša izbira bi lahko bila bolj trajnostna. Poskusite izbrati drug program, ki bo varčeval z energijo in bo bolj okolju prijazen.",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "Razpoložljivo temperaturno območje za hladilni del je odvisno od trenutne nastavitve Dura Fresh™."
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Razpoložljivo temperaturno območje za hladilni del je odvisno od trenutne nastavitve Dura Fresh™.",
+    "CL_net_error": "Napaka omrežja, poskusite znova."
 }

@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "Aktivér planlægger",
     "CL_DV_EY_unlock_tips": "Er du sikker på at du vil låse op?",
     "CL_DV_TD_g_eco_meter_conserve": "Dit valg kunne være mere bæredygtigt. Prøv at vælge et andet program for at spare energi og være mere miljøvenlig.",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "Det tilgængelige temperaturområde for køleskabet afhænger af den aktuelle Dura Fresh™-indstilling."
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Det tilgængelige temperaturområde for køleskabet afhænger af den aktuelle Dura Fresh™-indstilling.",
+    "CL_net_error": "Netværksfejl, prøv igen."
 }

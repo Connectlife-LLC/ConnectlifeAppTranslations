@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "Povoliť plánovač",
     "CL_DV_EY_unlock_tips": "Naozaj chceš odomknúť?",
     "CL_DV_TD_g_eco_meter_conserve": "Váš výber by mohol byť udržateľnejší. Skúste si vybrať iný program, ktorý šetrí energiu a je šetrnejší k životnému prostrediu.",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "Dostupný teplotný rozsah pre chladničku závisí od aktuálneho nastavenia Dura Fresh™."
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "Dostupný teplotný rozsah pre chladničku závisí od aktuálneho nastavenia Dura Fresh™.",
+    "CL_net_error": "Chyba siete, skúste to znova."
 }

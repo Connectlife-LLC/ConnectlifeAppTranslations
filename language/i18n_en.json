@@ -7963,5 +7963,6 @@
     "CL_DV_EY_enable_scheduler": "Enable scheduler",
     "CL_DV_EY_unlock_tips": "Are you sure to unlock?",
     "CL_DV_TD_g_eco_meter_conserve": "Your selection could be more sustainable. Try selecting another program to conserve energy and be more eco friendly.",
-    "CL_DV_RF_dura_fresh_temperature_control_tips": "The available temperature range for the fridge compartment depends on the current Dura Fresh™ setting"
+    "CL_DV_RF_dura_fresh_temperature_control_tips": "The available temperature range for the fridge compartment depends on the current Dura Fresh™ setting",
+    "CL_net_error": "Network error, please try again."
 }
