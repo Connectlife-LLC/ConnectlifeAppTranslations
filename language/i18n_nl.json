@@ -2852,7 +2852,7 @@
     "oven_atag_extras_clean_with_mw_content": "Met behulp van water, magnetrons en een stortdoek kunt u gemakkelijk vet en vuil van de wanden van de oven verwijderen.",
     "oven_atag_extras_reheat": "Opwarmen / Regenereren",
     "oven_atag_extras_reheat_content": "Deze functie regenereert voorgekookte gerechten. Met het gebruik van stoom is er geen kwaliteitsverlies. Smaak en texturen blijven behouden, zoals bij verse bereiding. Er kunnen meerdere gerechten tegelijk worden bereid.",
-    "oven_atag_extras_clean_with_preserving": "Behoud",
+    "oven_atag_extras_clean_with_preserving": "Conserveren",
     "oven_atag_extras_clean_with_preserving_content": "Het proces waarmee we de houdbaarheid van voedsel verlengen.",
     "device_has_available_upgrade_strategy": "Er is een upgradestrategie beschikbaar voor dit apparaat.",
     "bake_step_gratin_below": "Gegratineerd van onderaf",
@@ -4094,7 +4094,7 @@
     "CL_DV_OV_extra_stage_cooking_desc": "Maak aangepaste kookprogramma's met maximaal {##} verschillende fasen.",
     "CL_DV_OV_extra_defrost_desc": "Een reeks vooraf gedefinieerde programma's om voedsel op de juiste manier te ontdooien, zodat de kwaliteit ervan na het invriezen gewaarborgd blijft.",
     "CL_DV_OV_extra_warming_desc": "Verwarm eerder gekookte gerechten opnieuw met behulp van de vooraf ingestelde ovenprogramma's. Behoudt maximale smaak en textuur.",
-    "CL_DV_OV_extra_non_food": "Niet-eetbaar",
+    "CL_DV_OV_extra_non_food": "Non food",
     "CL_DV_OV_extra_non_food_desc": "Verwarm uw borden, hete stenen of steriliseer flessen met speciale programma's.",
     "CL_DV_OV_extra_preserving_desc": "Door voedsel te conserveren, blijft het langer houdbaar, terwijl de voedingswaarde, textuur en smaak behouden blijven.",
     "CL_DV_OV_extra_fast_cool": "Snel afkoelen",
@@ -5854,7 +5854,7 @@
     "CL_CF_CS_stage_reminder_Preheating_stage_finished": "Voorverwarmingsfase voltooid",
     "CL_CF_CS_stage_reminder_Drying_finished": "Drogen voltooid",
     "CL_DV_WM_wash_dry_link_tip": "Als de WashDry Sync-functie is ingeschakeld, wordt uw wasprogramma na afloop van het wassen automatisch naar de geselecteerde wasdroger overgedragen.",
-    "CL_DISH_DESIGNER_guide_title": "Verander de manier waarop u \nmet Dish Designer",
+    "CL_DISH_DESIGNER_guide_title": "Verander hoe je kookt\nmet Dish Designer",
     "CL_DISH_DESIGNER_guide_content": "Ontdek nieuwe gerechten, smaken en keukens met recepten op maat. Speciaal voor jou, aangestuurd door AI.",
     "CL_DISH_DESIGNER_title": "Dish Designer",
     "CL_DISH_DESIGNER_ingredients": "Ingrediënten",
@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "Weet je zeker dat je wilt ontgrendelen?",
     "CL_DV_TD_g_eco_meter_conserve": "Je keuze zou duurzamer kunnen zijn. Probeer een ander programma te kiezen dat energie bespaart en milieuvriendelijker is.",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "Het beschikbare temperatuurbereik voor het koelgedeelte is afhankelijk van de huidige Dura Fresh™-instelling.",
-    "CL_net_error": "Netwerkfout, probeer het opnieuw."
+    "CL_net_error": "Netwerkfout, probeer het opnieuw.",
+    "CL_TA_MA_threshold_segments": "Segment ##"
 }

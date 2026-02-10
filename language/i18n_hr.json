@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "Jeste li sigurni da želite otključati?",
     "CL_DV_TD_g_eco_meter_conserve": "Vaš odabir bi mogao biti održiviji. Pokušajte odabrati drugi program kako biste uštedjeli energiju i bili ekološki prihvatljiviji.",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "Raspoloživi temperaturni raspon za odjeljak hladnjaka ovisi o trenutnoj postavci Dura Fresh™",
-    "CL_net_error": "Mrežna pogreška, pokušajte ponovno."
+    "CL_net_error": "Mrežna pogreška, pokušajte ponovno.",
+    "CL_TA_MA_threshold_segments": "Segment ##"
 }

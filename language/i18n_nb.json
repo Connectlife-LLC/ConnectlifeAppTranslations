@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "Er du sikker på at du vil låse opp?",
     "CL_DV_TD_g_eco_meter_conserve": "Valget ditt kan være mer bærekraftig. Prøv å velge et annet program for å spare energi og være mer miljøvennlig.",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "Det tilgjengelige temperaturområdet for kjøleseksjonen avhenger av gjeldende Dura Fresh™-innstilling.",
-    "CL_net_error": "Nettverksfeil, prøv på nytt."
+    "CL_net_error": "Nettverksfeil, prøv på nytt.",
+    "CL_TA_MA_threshold_segments": "Segment ##"
 }

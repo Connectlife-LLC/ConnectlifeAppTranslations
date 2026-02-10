@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "Jsi si jistý/á, že chceš odemknout?",
     "CL_DV_TD_g_eco_meter_conserve": "Váš výběr by mohl být udržitelnější. Zkuste zvolit jiný program, který šetří energii a je šetrnější k životnímu prostředí.",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "Dostupný teplotní rozsah pro chladicí prostor závisí na aktuálním nastavení Dura Fresh™.",
-    "CL_net_error": "Chyba sítě, zkuste to prosím znovu."
+    "CL_net_error": "Chyba sítě, zkuste to prosím znovu.",
+    "CL_TA_MA_threshold_segments": "Segment ##"
 }
