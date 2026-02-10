@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "정말 잠금 해제하시겠습니까?",
     "CL_DV_TD_g_eco_meter_conserve": "더 지속 가능한 선택을 해보세요. 에너지 절약과 환경 보호를 위해 다른 프로그램을 선택해 보시는 건 어떨까요?",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "냉장실의 온도 범위는 현재 Dura Fresh™ 설정에 따라 달라집니다.",
-    "CL_net_error": "네트워크 오류가 발생했습니다. 다시 시도해 주세요."
+    "CL_net_error": "네트워크 오류가 발생했습니다. 다시 시도해 주세요.",
+    "CL_TA_MA_threshold_segments": "세그먼트 ##"
 }

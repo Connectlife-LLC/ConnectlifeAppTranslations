@@ -7843,7 +7843,7 @@
     "CL_DV_OV_timelapse_complete": "Your baking is complete! The timelapse video is now being generated. You’ll receive a notification as soon as it’s ready to view and save.",
     "CL_unknown_phone": "Unknown phone",
     "CL_phone_verify_button": "Verify your identity via SMS",
-    "CL_DV_RF_temp_exit_cool": "Manually adjust the temperature and exit the rapid cooling function.",
+    "CL_DV_RF_temp_exit_cool": "Manually adjust the temperature and exit the fast freeze function.",
     "CLDV_RF_temp_exit_eco": "Manually adjust the temperature and exit energy-saving mode.",
     "CL_DV_RF_temp_exit_holiday": "Manually adjust the temperature and exit holiday mode.",
     "CL_DV_RF_temp_exit_party": "Manually adjust the temperature and exit party mode.",
@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "Are you sure to unlock?",
     "CL_DV_TD_g_eco_meter_conserve": "Your selection could be more sustainable. Try selecting another program to conserve energy and be more eco friendly.",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "The available temperature range for the fridge compartment depends on the current Dura Fresh™ setting",
-    "CL_net_error": "Network error, please try again."
+    "CL_net_error": "Network error, please try again.",
+    "CL_TA_MA_threshold_segments": "Segment ##"
 }

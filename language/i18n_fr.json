@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "Êtes-vous sûr de déverrouiller ?",
     "CL_DV_TD_g_eco_meter_conserve": "Votre choix pourrait être plus durable. Essayez de choisir un autre programme pour économiser l'énergie et être plus respectueux de l'environnement.",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "La plage de températures disponible pour le compartiment réfrigérateur dépend du réglage Dura Fresh™ actuel.",
-    "CL_net_error": "Erreur réseau, veuillez réessayer."
+    "CL_net_error": "Erreur réseau, veuillez réessayer.",
+    "CL_TA_MA_threshold_segments": "Segment ##"
 }

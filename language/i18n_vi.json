@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "Bạn có chắc chắn muốn mở khóa không?",
     "CL_DV_TD_g_eco_meter_conserve": "Lựa chọn của bạn có thể bền vững hơn. Hãy thử chọn một chương trình khác tiết kiệm năng lượng và thân thiện với môi trường hơn.",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "Phạm vi nhiệt độ khả dụng cho ngăn mát tủ lạnh phụ thuộc vào cài đặt Dura Fresh™ hiện tại.",
-    "CL_net_error": "Lỗi mạng, vui lòng thử lại."
+    "CL_net_error": "Lỗi mạng, vui lòng thử lại.",
+    "CL_TA_MA_threshold_segments": "Đoạn ##"
 }

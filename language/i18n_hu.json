@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "Biztosan feloldja?",
     "CL_DV_TD_g_eco_meter_conserve": "A választásod lehetne fenntarthatóbb is. Próbálj ki egy másik programot, hogy energiát takaríts meg és környezetbarátabb legyél.",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "A hűtőrekeszben elérhető hőmérséklet-tartomány az aktuális Dura Fresh™ beállítástól függ.",
-    "CL_net_error": "Hálózati hiba, kérjük, próbálja újra."
+    "CL_net_error": "Hálózati hiba, kérjük, próbálja újra.",
+    "CL_TA_MA_threshold_segments": "Szegmens ##"
 }

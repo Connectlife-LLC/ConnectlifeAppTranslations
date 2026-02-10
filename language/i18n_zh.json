@@ -7843,7 +7843,7 @@
     "CL_DV_OV_timelapse_complete": "烘焙完成！延时视频正在生成中。视频生成后，您将收到通知，即可观看和保存。",
     "CL_unknown_phone": "未知手机",
     "CL_phone_verify_button": "通过短信验证身份",
-    "CL_DV_RF_temp_exit_cool": "手动调节温度，退出速冷功能",
+    "CL_DV_RF_temp_exit_cool": "手动调节温度，退出快速冷冻功能",
     "CLDV_RF_temp_exit_eco": "手动调节温度，退出节能模式",
     "CL_DV_RF_temp_exit_holiday": "手动调节温度，退出假日模式",
     "CL_DV_RF_temp_exit_party": "手动调节温度，退出派对模式",
@@ -7924,9 +7924,9 @@
     "CL_TS_fixed_tariff_tips": "手动设置电价。",
     "CL_TS_peak_rates": "高峰/非高峰时段费率",
     "CL_TS_input_electricity_price": "输入电力价格",
-    "CL_DV_WM_dirt_light": "少量",
+    "CL_DV_WM_dirt_light": "轻微",
     "CL_DV_WM_dirt_medium": "中等",
-    "CL_DV_WM_dirt_heavy": "脏污",
+    "CL_DV_WM_dirt_heavy": "严重",
     "CL_DV_EY_clean": "干净的",
     "CL_DV_EY_voltage_range_tips": "过电压阈值必须设置得高于欠电压阈值。",
     "CL_DV_EY_frequency_range_tips": "电网频率上限必须高于电网频率下限。",
@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "你确定要解锁吗？",
     "CL_DV_TD_g_eco_meter_conserve": "您的选择可能更可持续。请尝试选择其他节能环保的方案。",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "冰箱隔间的可用温度范围取决于当前的 Dura Fresh™ 设置。",
-    "CL_net_error": "网络异常，请重试"
+    "CL_net_error": "网络异常，请重试",
+    "CL_TA_MA_threshold_segments": "## 段"
 }

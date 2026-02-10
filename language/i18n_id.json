@@ -7964,5 +7964,6 @@
     "CL_DV_EY_unlock_tips": "Apakah Anda yakin ingin membukanya?",
     "CL_DV_TD_g_eco_meter_conserve": "Pilihan Anda bisa lebih berkelanjutan. Cobalah memilih program lain untuk menghemat energi dan lebih ramah lingkungan.",
     "CL_DV_RF_dura_fresh_temperature_control_tips": "Kisaran suhu yang tersedia untuk kompartemen kulkas bergantung pada pengaturan Dura Fresh™ saat ini.",
-    "CL_net_error": "Terjadi kesalahan jaringan, silakan coba lagi."
+    "CL_net_error": "Terjadi kesalahan jaringan, silakan coba lagi.",
+    "CL_TA_MA_threshold_segments": "Segmen ##"
 }
