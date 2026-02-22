@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Crispy, even baking",
     "CL_DV_OV_24_mode_95_short_desc": "More top heat, for browning and crisp",
     "CL_DV_OV_24_mode_96_short_desc": "More bottom heat, even cooking and crispier bases",
-    "CL_DV_OV_24_mode_98_short_desc": "For crispy outside and tender inside"
+    "CL_DV_OV_24_mode_98_short_desc": "For crispy outside and tender inside",
+    "CL_CF_about_ICP_code": "ICP Filing Number",
+    "CL_CF_about_complaints_and_reports": "Complaints and Reports",
+    "CL_CF_about_complaints_and_reports_content": "Please call the complaint and reporting hotline",
+    "CL_CF_about_call_immediately": "Call immediately"
 }
