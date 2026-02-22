@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "कुरकुरा, एक समान पका हुआ",
     "CL_DV_OV_24_mode_95_short_desc": "भूनने और कुरकुरापन लाने के लिए ऊपर से अधिक आंच दें।",
     "CL_DV_OV_24_mode_96_short_desc": "नीचे से अधिक गर्मी, समान रूप से पकना और अधिक कुरकुरा तल।",
-    "CL_DV_OV_24_mode_98_short_desc": "बाहर से कुरकुरा और अंदर से मुलायम के लिए"
+    "CL_DV_OV_24_mode_98_short_desc": "बाहर से कुरकुरा और अंदर से मुलायम के लिए",
+    "CL_CF_about_ICP_code": "आईसीपी फाइलिंग नंबर",
+    "CL_CF_about_complaints_and_reports": "शिकायतें और रिपोर्ट",
+    "CL_CF_about_complaints_and_reports_content": "कृपया शिकायत और रिपोर्टिंग हॉटलाइन पर कॉल करें।",
+    "CL_CF_about_call_immediately": "तुरंत कॉल करें"
 }

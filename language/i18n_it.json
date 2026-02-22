@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Cottura croccante e uniforme",
     "CL_DV_OV_24_mode_95_short_desc": "Più calore superiore, per doratura e croccantezza",
     "CL_DV_OV_24_mode_96_short_desc": "Più calore dal basso, cottura uniforme e basi più croccanti",
-    "CL_DV_OV_24_mode_98_short_desc": "Per un esterno croccante e un interno tenero"
+    "CL_DV_OV_24_mode_98_short_desc": "Per un esterno croccante e un interno tenero",
+    "CL_CF_about_ICP_code": "Numero di deposito ICP",
+    "CL_CF_about_complaints_and_reports": "Reclami e segnalazioni",
+    "CL_CF_about_complaints_and_reports_content": "Si prega di chiamare la hotline per reclami e segnalazioni",
+    "CL_CF_about_call_immediately": "Chiama subito"
 }

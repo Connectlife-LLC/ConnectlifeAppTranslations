@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Хрскаво, равномерно печење",
     "CL_DV_OV_24_mode_95_short_desc": "Више горње температуре, за поруменело и хрскаво печење",
     "CL_DV_OV_24_mode_96_short_desc": "Више доње топлоте, равномерно кување и хрскавија основа",
-    "CL_DV_OV_24_mode_98_short_desc": "За хрскаву спољашњост и нежну унутрашњост"
+    "CL_DV_OV_24_mode_98_short_desc": "За хрскаву спољашњост и нежну унутрашњост",
+    "CL_CF_about_ICP_code": "Број подношења ICP-а",
+    "CL_CF_about_complaints_and_reports": "Жалбе и извештаји",
+    "CL_CF_about_complaints_and_reports_content": "Молимо вас да позовете телефонску линију за жалбе и пријављивање",
+    "CL_CF_about_call_immediately": "Позовите одмах"
 }

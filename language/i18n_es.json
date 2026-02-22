@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Horneado crujiente y uniforme",
     "CL_DV_OV_24_mode_95_short_desc": "Más calor en la parte superior, para dorar y dejar crujiente",
     "CL_DV_OV_24_mode_96_short_desc": "Más calor en la base, cocción uniforme y bases más crujientes",
-    "CL_DV_OV_24_mode_98_short_desc": "Para un exterior crujiente y un interior tierno"
+    "CL_DV_OV_24_mode_98_short_desc": "Para un exterior crujiente y un interior tierno",
+    "CL_CF_about_ICP_code": "Número de presentación del ICP",
+    "CL_CF_about_complaints_and_reports": "Quejas e informes",
+    "CL_CF_about_complaints_and_reports_content": "Por favor llame a la línea directa de quejas y denuncias",
+    "CL_CF_about_call_immediately": "Llama inmediatamente"
 }

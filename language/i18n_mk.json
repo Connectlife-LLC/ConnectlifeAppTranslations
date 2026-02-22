@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Крцкаво, рамномерно за печење",
     "CL_DV_OV_24_mode_95_short_desc": "Повеќе горна топлина, за запечување и крцкавост",
     "CL_DV_OV_24_mode_96_short_desc": "Повеќе долна топлина, рамномерно готвење и покрцкави основи",
-    "CL_DV_OV_24_mode_98_short_desc": "За крцкаво однадвор и меко одвнатре"
+    "CL_DV_OV_24_mode_98_short_desc": "За крцкаво однадвор и меко одвнатре",
+    "CL_CF_about_ICP_code": "ICP број за поднесување",
+    "CL_CF_about_complaints_and_reports": "Жалби и извештаи",
+    "CL_CF_about_complaints_and_reports_content": "Ве молиме јавете се на телефонската линија за жалби и пријавување",
+    "CL_CF_about_call_immediately": "Јавете се веднаш"
 }

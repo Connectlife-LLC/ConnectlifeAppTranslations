@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Τραγανό, ομοιόμορφο στο ψήσιμο",
     "CL_DV_OV_24_mode_95_short_desc": "Περισσότερη υψηλή θερμοκρασία, για ροδισμα και τραγανότητα",
     "CL_DV_OV_24_mode_96_short_desc": "Περισσότερη κάτω θερμότητα, ομοιόμορφο μαγείρεμα και πιο τραγανές βάσεις",
-    "CL_DV_OV_24_mode_98_short_desc": "Για τραγανό απ' έξω και τρυφερό από μέσα"
+    "CL_DV_OV_24_mode_98_short_desc": "Για τραγανό απ' έξω και τρυφερό από μέσα",
+    "CL_CF_about_ICP_code": "Αριθμός καταχώρισης ICP",
+    "CL_CF_about_complaints_and_reports": "Παράπονα και Αναφορές",
+    "CL_CF_about_complaints_and_reports_content": "Παρακαλούμε καλέστε την τηλεφωνική γραμμή καταγγελιών και αναφορών",
+    "CL_CF_about_call_immediately": "Καλέστε αμέσως"
 }

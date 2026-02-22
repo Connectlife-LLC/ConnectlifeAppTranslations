@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "กรอบ สม่ำเสมอ",
     "CL_DV_OV_24_mode_95_short_desc": "ใช้ไฟแรงขึ้นด้านบน เพื่อให้เนื้อเหลืองกรอบ",
     "CL_DV_OV_24_mode_96_short_desc": "ความร้อนจากด้านล่างมากขึ้น ทำให้อาหารสุกทั่วถึงและได้ฐานที่กรอบยิ่งขึ้น",
-    "CL_DV_OV_24_mode_98_short_desc": "เพื่อความกรอบนอกนุ่มใน"
+    "CL_DV_OV_24_mode_98_short_desc": "เพื่อความกรอบนอกนุ่มใน",
+    "CL_CF_about_ICP_code": "หมายเลขการยื่น ICP",
+    "CL_CF_about_complaints_and_reports": "ข้อร้องเรียนและรายงาน",
+    "CL_CF_about_complaints_and_reports_content": "โปรดโทรติดต่อสายด่วนรับเรื่องร้องเรียนและรายงานปัญหา",
+    "CL_CF_about_call_immediately": "โทรด่วน"
 }

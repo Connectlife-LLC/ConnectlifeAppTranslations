@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "바삭하고 고르게 구워짐",
     "CL_DV_OV_24_mode_95_short_desc": "윗불을 더 세게 켜서 노릇하게 굽고 바삭하게 만드세요.",
     "CL_DV_OV_24_mode_96_short_desc": "바닥 열이 더 많이 발생하여 골고루 익고 바닥이 더 바삭해집니다.",
-    "CL_DV_OV_24_mode_98_short_desc": "겉은 바삭하고 속은 촉촉한"
+    "CL_DV_OV_24_mode_98_short_desc": "겉은 바삭하고 속은 촉촉한",
+    "CL_CF_about_ICP_code": "ICP 제출 번호",
+    "CL_CF_about_complaints_and_reports": "불만 및 신고",
+    "CL_CF_about_complaints_and_reports_content": "불만 및 신고 핫라인으로 전화해 주세요.",
+    "CL_CF_about_call_immediately": "지금 바로 전화하세요"
 }

@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Sprød, jævn bagning",
     "CL_DV_OV_24_mode_95_short_desc": "Mere overvarme, for bruning og sprødhed",
     "CL_DV_OV_24_mode_96_short_desc": "Mere undervarme, jævnere tilberedning og sprødere bund",
-    "CL_DV_OV_24_mode_98_short_desc": "For sprød yderside og mør indeni"
+    "CL_DV_OV_24_mode_98_short_desc": "For sprød yderside og mør indeni",
+    "CL_CF_about_ICP_code": "ICP-registreringsnummer",
+    "CL_CF_about_complaints_and_reports": "Klager og rapporter",
+    "CL_CF_about_complaints_and_reports_content": "Ring venligst til klage- og indberetningslinjen",
+    "CL_CF_about_call_immediately": "Ring med det samme"
 }

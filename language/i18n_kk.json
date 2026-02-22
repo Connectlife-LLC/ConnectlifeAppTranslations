@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Қытырлақ, біркелкі пісіріледі",
     "CL_DV_OV_24_mode_95_short_desc": "Қуыру және қытырлақ ету үшін жоғарғы қыздыруды күшейтіңіз",
     "CL_DV_OV_24_mode_96_short_desc": "Астыңғы қызу көбірек, пісіру біркелкі және табақшалар қытырлақ болады",
-    "CL_DV_OV_24_mode_98_short_desc": "Сырты қытырлақ, іші жұмсақ болу үшін"
+    "CL_DV_OV_24_mode_98_short_desc": "Сырты қытырлақ, іші жұмсақ болу үшін",
+    "CL_CF_about_ICP_code": "ICP тіркеу нөмірі",
+    "CL_CF_about_complaints_and_reports": "Шағымдар мен есептер",
+    "CL_CF_about_complaints_and_reports_content": "Шағымдану және хабарлау сенім телефонына қоңырау шалыңыз",
+    "CL_CF_about_call_immediately": "Дереу қоңырау шалыңыз"
 }

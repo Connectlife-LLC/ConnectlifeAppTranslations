@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "カリカリに均一に焼き上げます",
     "CL_DV_OV_24_mode_95_short_desc": "焼き色とカリカリ感を出すために、上火を強めにかける",
     "CL_DV_OV_24_mode_96_short_desc": "底部の熱がより強くなり、調理が均一になり、底がよりカリカリになります",
-    "CL_DV_OV_24_mode_98_short_desc": "外はカリカリ、中は柔らかい"
+    "CL_DV_OV_24_mode_98_short_desc": "外はカリカリ、中は柔らかい",
+    "CL_CF_about_ICP_code": "ICP申請番号",
+    "CL_CF_about_complaints_and_reports": "苦情と報告",
+    "CL_CF_about_complaints_and_reports_content": "苦情・通報ホットラインにお電話ください",
+    "CL_CF_about_call_immediately": "すぐに電話してください"
 }

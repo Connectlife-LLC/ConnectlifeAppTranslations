@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Sprø, jevn steking",
     "CL_DV_OV_24_mode_95_short_desc": "Mer overvarme, for bruning og sprøhet",
     "CL_DV_OV_24_mode_96_short_desc": "Mer undervarme, jevnere steking og sprøere bunn",
-    "CL_DV_OV_24_mode_98_short_desc": "For sprø utenpå og mør inni"
+    "CL_DV_OV_24_mode_98_short_desc": "For sprø utenpå og mør inni",
+    "CL_CF_about_ICP_code": "ICP-innleveringsnummer",
+    "CL_CF_about_complaints_and_reports": "Klager og rapporter",
+    "CL_CF_about_complaints_and_reports_content": "Vennligst ring klage- og rapporteringstelefonen",
+    "CL_CF_about_call_immediately": "Ring umiddelbart"
 }

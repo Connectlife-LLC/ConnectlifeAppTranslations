@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Хрупкави, равномерно печене",
     "CL_DV_OV_24_mode_95_short_desc": "Повече горна топлина, за запичане и хрупкавост",
     "CL_DV_OV_24_mode_96_short_desc": "Повече долна топлина, равномерно готвене и по-хрупкава основа",
-    "CL_DV_OV_24_mode_98_short_desc": "За хрупкава отвън и крехка отвътре"
+    "CL_DV_OV_24_mode_98_short_desc": "За хрупкава отвън и крехка отвътре",
+    "CL_CF_about_ICP_code": "Номер на подаване на ICP",
+    "CL_CF_about_complaints_and_reports": "Жалби и доклади",
+    "CL_CF_about_complaints_and_reports_content": "Моля, обадете се на горещата линия за оплаквания и подаване на сигнали",
+    "CL_CF_about_call_immediately": "Обадете се веднага"
 }

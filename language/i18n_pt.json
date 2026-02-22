@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Crocante e assado por igual",
     "CL_DV_OV_24_mode_95_short_desc": "Mais calor na parte superior, para dourar e ficar crocante.",
     "CL_DV_OV_24_mode_96_short_desc": "Mais calor na base, cozimento uniforme e bases mais crocantes.",
-    "CL_DV_OV_24_mode_98_short_desc": "Crocante por fora e macio por dentro."
+    "CL_DV_OV_24_mode_98_short_desc": "Crocante por fora e macio por dentro.",
+    "CL_CF_about_ICP_code": "Número de arquivamento do ICP",
+    "CL_CF_about_complaints_and_reports": "Reclamações e denúncias",
+    "CL_CF_about_complaints_and_reports_content": "Por favor, ligue para a linha direta de reclamações e denúncias.",
+    "CL_CF_about_call_immediately": "Ligue imediatamente"
 }
