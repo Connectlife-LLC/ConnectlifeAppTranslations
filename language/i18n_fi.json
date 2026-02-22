@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Rapea, tasainen paistos",
     "CL_DV_OV_24_mode_95_short_desc": "Enemmän ylälämpöä ruskistamisen ja rapeuden aikaansaamiseksi",
     "CL_DV_OV_24_mode_96_short_desc": "Enemmän pohjalämpöä, tasaisempi kypsennys ja rapeammat pohjat",
-    "CL_DV_OV_24_mode_98_short_desc": "Rapeaksi ulkopuolelta ja mureaksi sisältä"
+    "CL_DV_OV_24_mode_98_short_desc": "Rapeaksi ulkopuolelta ja mureaksi sisältä",
+    "CL_CF_about_ICP_code": "ICP-hakemusnumero",
+    "CL_CF_about_complaints_and_reports": "Valitukset ja raportit",
+    "CL_CF_about_complaints_and_reports_content": "Soita valitus- ja ilmoituslinjaan",
+    "CL_CF_about_call_immediately": "Soita heti"
 }

@@ -2413,7 +2413,7 @@
     "wine_food_match_9": "Kryddstark mat",
     "wine_food_match_10": "All skräpmat duger",
     "wine_food_match_11": "Svampar",
-    "wine_food_match_12": "Fjäderfän",
+    "wine_food_match_12": "Fågel",
     "wine_food_match_13": "Förrätter och snacks",
     "wine_food_match_14": "Nötkött",
     "wine_food_match_15": "Kalvkött",
@@ -6609,7 +6609,7 @@
     "airecipe_ingredient_Pomegranate": "Granatäpple",
     "airecipe_ingredient_Pork_Chop_____": "Fläskkotlett",
     "airecipe_ingredient_Pork_Liver____": "Fläsklever",
-    "airecipe_ingredient_Poultry": "Fjäderfän",
+    "airecipe_ingredient_Poultry": "Fågel",
     "airecipe_ingredient_Precut_Fruit": "Förskuren frukt",
     "airecipe_ingredient_Precut_Vegetables": "Förskurna grönsaker",
     "airecipe_ingredient_Prunes": "Katrinplommon",
@@ -7391,7 +7391,7 @@
     "CL_DV_OV_recipe_category_level_2_Fruit": "Frukt",
     "CL_DV_OV_recipe_category_level_2_Eggs": "Ägg",
     "CL_DV_OV_recipe_category_level_2_Rice_Grains": "Ris - Spannmål",
-    "CL_DV_OV_recipe_category_level_2_Poultry": "Fjäderfän",
+    "CL_DV_OV_recipe_category_level_2_Poultry": "Fågel",
     "CL_DV_OV_recipe_category_level_2_Casserole": "Gryta",
     "CL_CF_energy_ai_eco_saving_energy": "Spara energi",
     "CL_DV_OV_recipe_category_level_2_Au_gratin": "Gratinerad",
@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Krispig, jämn bakning",
     "CL_DV_OV_24_mode_95_short_desc": "Mer övervärme, för bryning och krispighet",
     "CL_DV_OV_24_mode_96_short_desc": "Mer undervärme, jämnare tillagning och krispigare bottnar",
-    "CL_DV_OV_24_mode_98_short_desc": "För krispigt utsida och mört insida"
+    "CL_DV_OV_24_mode_98_short_desc": "För krispigt utsida och mört insida",
+    "CL_CF_about_ICP_code": "ICP-ansökningsnummer",
+    "CL_CF_about_complaints_and_reports": "Klagomål och rapporter",
+    "CL_CF_about_complaints_and_reports_content": "Ring klagomåls- och anmälningslinjen",
+    "CL_CF_about_call_immediately": "Ring omedelbart"
 }

@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Křupavé, rovnoměrné pečení",
     "CL_DV_OV_24_mode_95_short_desc": "Více horního ohřevu pro zhnědnutí a křupavost",
     "CL_DV_OV_24_mode_96_short_desc": "Více spodního ohřevu, rovnoměrnější vaření a křupavější dno",
-    "CL_DV_OV_24_mode_98_short_desc": "Pro křupavý povrch a měkký vnitřek"
+    "CL_DV_OV_24_mode_98_short_desc": "Pro křupavý povrch a měkký vnitřek",
+    "CL_CF_about_ICP_code": "Číslo registrace ICP",
+    "CL_CF_about_complaints_and_reports": "Stížnosti a hlášení",
+    "CL_CF_about_complaints_and_reports_content": "Zavolejte prosím na linku pro podávání stížností a hlášení",
+    "CL_CF_about_call_immediately": "Okamžitě volejte"
 }

@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Chrupiące, równomiernie upieczone",
     "CL_DV_OV_24_mode_95_short_desc": "Więcej ciepła od góry, dla zrumienienia i chrupkości",
     "CL_DV_OV_24_mode_96_short_desc": "Więcej ciepła od dołu, równomierne pieczenie i bardziej chrupiące spody",
-    "CL_DV_OV_24_mode_98_short_desc": "Aby uzyskać chrupiącą skórkę i delikatność w środku"
+    "CL_DV_OV_24_mode_98_short_desc": "Aby uzyskać chrupiącą skórkę i delikatność w środku",
+    "CL_CF_about_ICP_code": "Numer zgłoszenia ICP",
+    "CL_CF_about_complaints_and_reports": "Skargi i raporty",
+    "CL_CF_about_complaints_and_reports_content": "Proszę zadzwonić na infolinię do składania skarg i zgłoszeń",
+    "CL_CF_about_call_immediately": "Zadzwoń natychmiast"
 }

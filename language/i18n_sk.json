@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Chrumkavé, rovnomerné pečenie",
     "CL_DV_OV_24_mode_95_short_desc": "Viac horného ohrevu pre zhnednutie a chrumkavosť",
     "CL_DV_OV_24_mode_96_short_desc": "Viac spodného ohrevu, rovnomerné varenie a chrumkavejšie dno",
-    "CL_DV_OV_24_mode_98_short_desc": "Pre chrumkavý zvonku a jemný vnútri"
+    "CL_DV_OV_24_mode_98_short_desc": "Pre chrumkavý zvonku a jemný vnútri",
+    "CL_CF_about_ICP_code": "Číslo podania ICP",
+    "CL_CF_about_complaints_and_reports": "Sťažnosti a hlásenia",
+    "CL_CF_about_complaints_and_reports_content": "Zavolajte, prosím, na horúcu linku pre sťažnosti a hlásenie",
+    "CL_CF_about_call_immediately": "Okamžite zavolajte"
 }

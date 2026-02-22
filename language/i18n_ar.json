@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "مقرمش، مخبوز بالتساوي",
     "CL_DV_OV_24_mode_95_short_desc": "مزيد من الحرارة العلوية، للحصول على لون بني ومقرمش",
     "CL_DV_OV_24_mode_96_short_desc": "حرارة سفلية أكبر، طهي متساوٍ وقواعد أكثر قرمشة",
-    "CL_DV_OV_24_mode_98_short_desc": "للحصول على قشرة خارجية مقرمشة ولب داخلي طري"
+    "CL_DV_OV_24_mode_98_short_desc": "للحصول على قشرة خارجية مقرمشة ولب داخلي طري",
+    "CL_CF_about_ICP_code": "رقم ملف ICP",
+    "CL_CF_about_complaints_and_reports": "الشكاوى والتقارير",
+    "CL_CF_about_complaints_and_reports_content": "يرجى الاتصال بالخط الساخن للشكاوى والإبلاغ",
+    "CL_CF_about_call_immediately": "اتصل فوراً"
 }

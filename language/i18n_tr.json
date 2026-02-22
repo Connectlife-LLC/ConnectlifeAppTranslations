@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Çıtır çıtır, eşit şekilde pişmiş",
     "CL_DV_OV_24_mode_95_short_desc": "Daha fazla üst ısı, kızarma ve çıtırlaşma için.",
     "CL_DV_OV_24_mode_96_short_desc": "Daha fazla alt ısı, eşit pişirme ve daha çıtır tabanlar.",
-    "CL_DV_OV_24_mode_98_short_desc": "Dışı çıtır, içi yumuşacık"
+    "CL_DV_OV_24_mode_98_short_desc": "Dışı çıtır, içi yumuşacık",
+    "CL_CF_about_ICP_code": "ICP Dosyalama Numarası",
+    "CL_CF_about_complaints_and_reports": "Şikayetler ve Raporlar",
+    "CL_CF_about_complaints_and_reports_content": "Lütfen şikayet ve ihbar hattını arayın.",
+    "CL_CF_about_call_immediately": "Hemen arayın"
 }

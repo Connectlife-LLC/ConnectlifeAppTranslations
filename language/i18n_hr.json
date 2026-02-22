@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Hrskavo, ravnomjerno pečeno",
     "CL_DV_OV_24_mode_95_short_desc": "Više gornje topline, za smeđu boju i hrskavost",
     "CL_DV_OV_24_mode_96_short_desc": "Više donje topline, ravnomjerno kuhanje i hrskavija baza",
-    "CL_DV_OV_24_mode_98_short_desc": "Za hrskavu vanjštinu i mekanu unutrašnjost"
+    "CL_DV_OV_24_mode_98_short_desc": "Za hrskavu vanjštinu i mekanu unutrašnjost",
+    "CL_CF_about_ICP_code": "Broj prijave ICP-a",
+    "CL_CF_about_complaints_and_reports": "Pritužbe i izvješća",
+    "CL_CF_about_complaints_and_reports_content": "Molimo nazovite telefonsku liniju za pritužbe i prijave",
+    "CL_CF_about_call_immediately": "Odmah nazovite"
 }

@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "ترد، حتی در حال پخت",
     "CL_DV_OV_24_mode_95_short_desc": "حرارت بیشتر از بالا، برای قهوه‌ای شدن و ترد شدن",
     "CL_DV_OV_24_mode_96_short_desc": "حرارت بیشتر از پایین، پخت یکنواخت و تردتر شدن پایه‌ها",
-    "CL_DV_OV_24_mode_98_short_desc": "برای تردی از بیرون و نرمی از داخل"
+    "CL_DV_OV_24_mode_98_short_desc": "برای تردی از بیرون و نرمی از داخل",
+    "CL_CF_about_ICP_code": "شماره ثبت ICP",
+    "CL_CF_about_complaints_and_reports": "شکایات و گزارش‌ها",
+    "CL_CF_about_complaints_and_reports_content": "لطفا با خط ویژه شکایات و گزارش تماس بگیرید",
+    "CL_CF_about_call_immediately": "فوراً تماس بگیرید"
 }

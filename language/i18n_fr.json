@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Croustillant et cuit uniformément",
     "CL_DV_OV_24_mode_95_short_desc": "Plus de chaleur par le haut, pour dorer et croustiller",
     "CL_DV_OV_24_mode_96_short_desc": "Plus de chaleur par le bas, une cuisson uniforme et des bases plus croustillantes",
-    "CL_DV_OV_24_mode_98_short_desc": "Pour un extérieur croustillant et un intérieur tendre."
+    "CL_DV_OV_24_mode_98_short_desc": "Pour un extérieur croustillant et un intérieur tendre.",
+    "CL_CF_about_ICP_code": "Numéro de dépôt ICP",
+    "CL_CF_about_complaints_and_reports": "Plaintes et signalements",
+    "CL_CF_about_complaints_and_reports_content": "Veuillez appeler la ligne d'assistance téléphonique pour les plaintes et les signalements.",
+    "CL_CF_about_call_immediately": "Appelez immédiatement"
 }

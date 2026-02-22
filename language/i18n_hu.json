@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Ropogós, egyenletes sütés",
     "CL_DV_OV_24_mode_95_short_desc": "Több felső hő a pirításért és ropogósságért",
     "CL_DV_OV_24_mode_96_short_desc": "Több alsó hő, egyenletesebb sütés és ropogósabb alj",
-    "CL_DV_OV_24_mode_98_short_desc": "Ropogós kívül és puha belülért"
+    "CL_DV_OV_24_mode_98_short_desc": "Ropogós kívül és puha belülért",
+    "CL_CF_about_ICP_code": "ICP bejelentési szám",
+    "CL_CF_about_complaints_and_reports": "Panaszok és jelentések",
+    "CL_CF_about_complaints_and_reports_content": "Kérjük, hívja a panasz- és bejelentési forródrótot",
+    "CL_CF_about_call_immediately": "Hívjon azonnal"
 }

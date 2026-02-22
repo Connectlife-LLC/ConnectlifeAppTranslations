@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "Knusprig, gleichmäßig gebacken",
     "CL_DV_OV_24_mode_95_short_desc": "Mehr Oberhitze für Bräunung und Knusprigkeit",
     "CL_DV_OV_24_mode_96_short_desc": "Mehr Hitze von unten, gleichmäßiges Garen und knusprigere Böden",
-    "CL_DV_OV_24_mode_98_short_desc": "Für eine knusprige Außenseite und ein zartes Inneres"
+    "CL_DV_OV_24_mode_98_short_desc": "Für eine knusprige Außenseite und ein zartes Inneres",
+    "CL_CF_about_ICP_code": "ICP-Registrierungsnummer",
+    "CL_CF_about_complaints_and_reports": "Beschwerden und Meldungen",
+    "CL_CF_about_complaints_and_reports_content": "Bitte rufen Sie die Beschwerde- und Meldehotline an.",
+    "CL_CF_about_call_immediately": "Rufen Sie sofort an!"
 }

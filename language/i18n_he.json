@@ -8054,5 +8054,9 @@
     "CL_DV_OV_24_mode_94_short_desc": "אפייה פריכה ואחידה",
     "CL_DV_OV_24_mode_95_short_desc": "חום עליון נוסף, להשחמה ופריכות",
     "CL_DV_OV_24_mode_96_short_desc": "חום תחתון רב יותר, בישול אחיד ותחתיות פריכות יותר",
-    "CL_DV_OV_24_mode_98_short_desc": "לחוץ פריך ומבפנים רך"
+    "CL_DV_OV_24_mode_98_short_desc": "לחוץ פריך ומבפנים רך",
+    "CL_CF_about_ICP_code": "מספר רישום ICP",
+    "CL_CF_about_complaints_and_reports": "תלונות ודיווחים",
+    "CL_CF_about_complaints_and_reports_content": "אנא התקשרו לקו החם לתלונות ודיווחים",
+    "CL_CF_about_call_immediately": "התקשרו מיד"
 }
