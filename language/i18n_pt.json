@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "Número de arquivamento do ICP",
     "CL_CF_about_complaints_and_reports": "Reclamações e denúncias",
     "CL_CF_about_complaints_and_reports_content": "Por favor, ligue para a linha direta de reclamações e denúncias.",
-    "CL_CF_about_call_immediately": "Ligue imediatamente"
+    "CL_CF_about_call_immediately": "Ligue imediatamente",
+    "CL_login_delete_content_msg": "<b>1. Não existem direitos ou ativos válidos na conta ou, se existirem, você renuncia a eles voluntariamente;</b><br> \n Incluindo, entre outros, pontos, cupons, contratos de renovação, direitos VIP, cupons de ponto único, garantia estendida de eletrodomésticos e outros direitos e ativos da conta.<br> \n <br> \n <b>2. Se existem pedidos ou serviços pendentes na conta.</b><br> \n Incluindo, entre outros, pedidos de produtos, pedidos de resgate de pontos, pedidos de serviços de instalação/reparo, etc.<br> \n <br> \n <b>3. A conta está em um estado seguro.</b><br> \n Nenhuma operação sensível, como alteração de número de celular ou senha da conta, foi realizada nos últimos 15 dias.",
+    "CL_login_delete_content_title": "Antes de iniciar o cancelamento, confirme o seguinte:",
+    "CL_login_delete_content_msg_1": "Após a exclusão da conta, todas as informações associadas a ela serão apagadas e os direitos, ativos virtuais e pedidos relacionados não poderão ser restaurados ou recuperados.<br><br>Ao mesmo tempo, você não poderá usar esta conta para acessar outros sites e clientes da Hisense, incluindo, entre outros, a Conta Oficial Hisense Aijia, o Mini Programa Hisense Aijia, a Hisense TV, o Mini Programa da Loja Oficial Hisense, o Aplicativo da Loja Oficial Hisense, o PC da Loja Oficial Hisense, o PC Hisense Points Paradise, o Micro Assistente de TV e o Aplicativo Juhaxue."
 }

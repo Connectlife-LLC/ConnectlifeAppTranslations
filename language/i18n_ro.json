@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "Număr de înregistrare ICP",
     "CL_CF_about_complaints_and_reports": "Reclamații și rapoarte",
     "CL_CF_about_complaints_and_reports_content": "Vă rugăm să sunați la linia telefonică de reclamații și raportări",
-    "CL_CF_about_call_immediately": "Sunați imediat"
+    "CL_CF_about_call_immediately": "Sunați imediat",
+    "CL_login_delete_content_msg": "<b>1. Nu există drepturi sau active valide în cont sau, dacă există, renunțați în mod voluntar la acestea;</b><br> \n Inclusiv, dar fără a se limita la, puncte, cupoane, relații de reînnoire, drepturi VIP, cupoane cu puncte individuale, garanție extinsă pentru electrocasnice și alte drepturi și active din cont.<br> \n <br> \n <b>2. Dacă există comenzi sau servicii restante în cont.</b><br> \n Inclusiv, dar fără a se limita la, comenzi de produse, comenzi de răscumpărare a punctelor, comenzi de servicii de instalare/reparare etc.<br> \n <br> \n <b>3. Contul este într-o stare securizată.</b><br> \n Nu s-au efectuat operațiuni sensibile, cum ar fi schimbarea numărului de telefon mobil sau a parolei contului, în ultimele 15 zile.",
+    "CL_login_delete_content_title": "Înainte de a începe anularea, vă rugăm să confirmați următoarele:",
+    "CL_login_delete_content_msg_1": "După ștergerea contului, toate informațiile asociate cu acesta vor fi șterse, iar <b>drepturile, activele virtuale și comenzile</b> aferente nu pot fi restaurate sau recuperate.<br><br>În același timp, nu veți putea utiliza acest cont pentru a vă conecta la alte site-uri web și clienți Hisense, inclusiv, dar fără a se limita la, Contul Oficial Hisense Aijia, Programul Hisense Aijia Mini, Hisense TV, Programul Hisense Official Mall Mini, Aplicația Hisense Official Mall, PC-ul Hisense Official Mall, PC-ul Hisense Points Paradise, Asistentul TV Micro și Aplicația Juhaxue."
 }

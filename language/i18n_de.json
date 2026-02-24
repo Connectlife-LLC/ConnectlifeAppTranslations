@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "ICP-Registrierungsnummer",
     "CL_CF_about_complaints_and_reports": "Beschwerden und Meldungen",
     "CL_CF_about_complaints_and_reports_content": "Bitte rufen Sie die Beschwerde- und Meldehotline an.",
-    "CL_CF_about_call_immediately": "Rufen Sie sofort an!"
+    "CL_CF_about_call_immediately": "Rufen Sie sofort an!",
+    "CL_login_delete_content_msg": "1. Es bestehen keine gültigen Rechte oder Vermögenswerte auf dem Konto, oder falls doch, verzichten Sie freiwillig darauf;</b><br> \n Dies umfasst unter anderem Punkte, Gutscheine, Vertragsverlängerungen, VIP-Rechte, Einzelpunkt-Gutscheine, Garantieverlängerungen für Haushaltsgeräte und andere Rechte und Kontovermögen.<br> \n <br> \n <b>2. Es bestehen keine offenen Bestellungen oder Dienstleistungen auf dem Konto.</b><br> \n Dies umfasst unter anderem Produktbestellungen, Bestellungen zur Einlösung von Punkten, Bestellungen für Installations-/Reparaturdienstleistungen usw.<br> \n <br> \n <b>3. Das Konto ist sicher.</b><br> \n In den letzten 15 Tagen wurden keine sensiblen Vorgänge wie die Änderung der Mobiltelefonnummer oder des Kontopassworts durchgeführt.",
+    "CL_login_delete_content_title": "Bevor Sie mit der Stornierung beginnen, bestätigen Sie bitte Folgendes:",
+    "CL_login_delete_content_msg_1": "Nach der Kontolöschung werden alle mit diesem Konto verknüpften Informationen gelöscht, und zugehörige Rechte, virtuelle Güter und Bestellungen können nicht wiederhergestellt werden. Gleichzeitig können Sie sich mit diesem Konto nicht mehr bei anderen Hisense-Websites und -Clients anmelden, einschließlich, aber nicht beschränkt auf Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant und Juhaxue App."
 }

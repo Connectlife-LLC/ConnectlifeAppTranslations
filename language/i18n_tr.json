@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "ICP Dosyalama Numarası",
     "CL_CF_about_complaints_and_reports": "Şikayetler ve Raporlar",
     "CL_CF_about_complaints_and_reports_content": "Lütfen şikayet ve ihbar hattını arayın.",
-    "CL_CF_about_call_immediately": "Hemen arayın"
+    "CL_CF_about_call_immediately": "Hemen arayın",
+    "CL_login_delete_content_msg": "<b>1. Hesapta geçerli hak veya varlık bulunmamaktadır veya varsa, bunlardan gönüllü olarak feragat ediyorsunuz;</b><br> \n Puanlar, kuponlar, yenileme ilişkileri, VIP hakları, tek puanlık kuponlar, ev aletleri uzatılmış garanti ve diğer haklar ve hesap varlıkları dahil ancak bunlarla sınırlı olmamak üzere<br> \n <br> \n <b>2. Hesapta bekleyen sipariş veya hizmet olup olmadığı</b><br> \n Ürün siparişleri, puan kullanım siparişleri, kurulum/onarım servis siparişleri vb. dahil ancak bunlarla sınırlı olmamak üzere<br> \n <br> \n <b>3. Hesap güvenli durumdadır</b><br> \n Son 15 gün içinde cep telefonu numarası veya hesap şifresi değiştirme gibi hassas işlemler yapılmamıştır",
+    "CL_login_delete_content_title": "İptal işlemine başlamadan önce lütfen aşağıdakileri onaylayın:",
+    "CL_login_delete_content_msg_1": "Hesap silindikten sonra, bu hesapla ilişkili tüm bilgiler silinecek ve ilgili haklar, sanal varlıklar ve siparişler geri yüklenemez veya kurtarılamaz.<br><br>Aynı zamanda, Hisense Aijia Resmi Hesabı, Hisense Aijia Mini Programı, Hisense TV, Hisense Resmi Alışveriş Merkezi Mini Programı, Hisense Resmi Alışveriş Merkezi Uygulaması, Hisense Resmi Alışveriş Merkezi Bilgisayarı, Hisense Puan Cenneti Bilgisayarı, TV Mikro Asistanı ve Juhaxue Uygulaması dahil ancak bunlarla sınırlı olmamak üzere diğer Hisense web sitelerine ve istemcilerine bu hesabı kullanarak giriş yapamazsınız."
 }

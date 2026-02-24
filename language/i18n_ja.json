@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "ICP申請番号",
     "CL_CF_about_complaints_and_reports": "苦情と報告",
     "CL_CF_about_complaints_and_reports_content": "苦情・通報ホットラインにお電話ください",
-    "CL_CF_about_call_immediately": "すぐに電話してください"
+    "CL_CF_about_call_immediately": "すぐに電話してください",
+    "CL_login_delete_content_msg": "<b>1. アカウントに有効な権利または資産がないか、または存在する場合は自主的に放棄していること。</b><br> \nポイント、クーポン、更新関係、VIP 権利、シングルポイント クーポン、家電製品の延長保証、その他の権利およびアカウント資産を含みますが、これらに限定されません。<br> \n <br> \n <b>2. アカウントに未処理の注文またはサービスがあるかどうか</b><br> \n製品の注文、ポイント交換注文、設置/修理サービスの注文などを含みますが、これらに限定されません。<br> \n <br> \n <b>3. アカウントは安全な状態にあること。</b><br> \n過去 15 日間に携帯電話番号やアカウントのパスワードを変更するなどの機密操作が行われていないこと。",
+    "CL_login_delete_content_title": "キャンセルを開始する前に、以下を確認してください。",
+    "CL_login_delete_content_msg_1": "アカウントを削除すると、このアカウントに関連付けられているすべての情報が削除され、関連する<b>権利、仮想資産、注文</b>を復元または取得することはできません。<br><br>同時に、このアカウントを使用して、Hisense Aijia 公式アカウント、Hisense Aijia ミニプログラム、Hisense TV、Hisense 公式モール ミニプログラム、Hisense 公式モール アプリ、Hisense 公式モール PC、Hisense Points Paradise PC、TV Micro Assistant、Juhaxue アプリなどを含む (ただしこれらに限定されない) 他の Hisense ウェブサイトやクライアントにログインできなくなります。"
 }

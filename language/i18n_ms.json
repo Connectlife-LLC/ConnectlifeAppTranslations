@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "Nombor Pemfailan ICP",
     "CL_CF_about_complaints_and_reports": "Aduan dan Laporan",
     "CL_CF_about_complaints_and_reports_content": "Sila hubungi talian hotline aduan dan pelaporan",
-    "CL_CF_about_call_immediately": "Hubungi segera"
+    "CL_CF_about_call_immediately": "Hubungi segera",
+    "CL_login_delete_content_msg": "<b>1. Tiada hak atau aset yang sah dalam akaun, atau jika ada, anda secara sukarela mengetepikannya;</b><br> \n Termasuk tetapi tidak terhad kepada mata ganjaran, kupon, hubungan pembaharuan, hak VIP, kupon mata tunggal, jaminan lanjutan perkakas rumah dan hak serta aset akaun lain<br> \n <br> \n <b>2. Sama ada terdapat sebarang pesanan atau perkhidmatan tertunggak dalam akaun</b><br> \n Termasuk tetapi tidak terhad kepada pesanan produk, pesanan penebusan mata ganjaran, pesanan perkhidmatan pemasangan/pembaikan, dsb.<br> \n <br> \n <b>3. Akaun berada dalam keadaan selamat</b><br> \n Tiada operasi sensitif seperti menukar nombor telefon bimbit atau kata laluan akaun dalam tempoh 15 hari yang lalu",
+    "CL_login_delete_content_title": "Sebelum mula membatalkan, sila sahkan perkara berikut:",
+    "CL_login_delete_content_msg_1": "Selepas pemadaman akaun, semua maklumat yang berkaitan dengan akaun ini akan dipadamkan, dan <b>hak, aset maya dan pesanan</b> yang berkaitan tidak boleh dipulihkan atau diambil semula.<br><br>Pada masa yang sama, anda tidak akan dapat menggunakan akaun ini untuk log masuk ke laman web dan pelanggan Hisense yang lain, termasuk tetapi tidak terhad kepada Akaun Rasmi Hisense Aijia, Program Mini Hisense Aijia, TV Hisense, Program Mini Pusat Beli-belah Rasmi Hisense, Aplikasi Pusat Beli-belah Rasmi Hisense, PC Pusat Beli-belah Rasmi Hisense, PC Hisense Points Paradise, Pembantu Mikro TV dan Aplikasi Juhaxue."
 }

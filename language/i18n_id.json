@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "Nomor Pengajuan ICP",
     "CL_CF_about_complaints_and_reports": "Keluhan dan Laporan",
     "CL_CF_about_complaints_and_reports_content": "Silakan hubungi saluran pengaduan dan pelaporan.",
-    "CL_CF_about_call_immediately": "Hubungi segera"
+    "CL_CF_about_call_immediately": "Hubungi segera",
+    "CL_login_delete_content_msg": "<b>1. Tidak ada hak atau aset yang sah di akun, atau jika ada, Anda secara sukarela melepaskannya;</b><br> \n Termasuk namun tidak terbatas pada poin, kupon, hubungan perpanjangan, hak VIP, kupon poin tunggal, perpanjangan garansi peralatan rumah tangga, dan hak serta aset akun lainnya.<br> \n <br> \n <b>2. Apakah ada pesanan atau layanan yang belum terselesaikan di akun?</b><br> \n Termasuk namun tidak terbatas pada pesanan produk, pesanan penukaran poin, pesanan layanan instalasi/perbaikan, dll.<br> \n <br> \n <b>3. Akun dalam keadaan aman.</b><br> \n Tidak ada operasi sensitif seperti mengubah nomor telepon seluler atau kata sandi akun dalam 15 hari terakhir.",
+    "CL_login_delete_content_title": "Sebelum memulai proses pembatalan, mohon konfirmasikan hal berikut:",
+    "CL_login_delete_content_msg_1": "Setelah penghapusan akun, semua informasi yang terkait dengan akun ini akan dihapus, dan hak, aset virtual, dan pesanan terkait tidak dapat dipulihkan atau diambil kembali.<br><br>Pada saat yang sama, Anda tidak akan dapat menggunakan akun ini untuk masuk ke situs web dan klien Hisense lainnya, termasuk namun tidak terbatas pada Akun Resmi Hisense Aijia, Program Mini Hisense Aijia, Hisense TV, Program Mini Mal Resmi Hisense, Aplikasi Mal Resmi Hisense, PC Mal Resmi Hisense, PC Hisense Points Paradise, Asisten Mikro TV, dan Aplikasi Juhaxue."
 }

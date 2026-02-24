@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "Številka vloge ICP",
     "CL_CF_about_complaints_and_reports": "Pritožbe in poročila",
     "CL_CF_about_complaints_and_reports_content": "Pokličite telefonsko številko za pritožbe in prijave",
-    "CL_CF_about_call_immediately": "Pokliči takoj"
+    "CL_CF_about_call_immediately": "Pokliči takoj",
+    "CL_login_delete_content_msg": "<b>1. Na računu ni veljavnih pravic ali sredstev ali pa se jim prostovoljno odpovedujete;</b><br> \n Vključno s točkami, kuponi, podaljšanimi razmerji, VIP pravicami, kuponi za eno točko, podaljšano garancijo za gospodinjske aparate in drugimi pravicami ter sredstvi računa<br> \n <br> \n <b>2. Ali so na računu kakšna neporavnana naročila ali storitve</b><br> \n Vključno z naročili izdelkov, naročili za unovčenje točk, naročili za storitve namestitve/popravila itd., vendar ne omejeno nanje.<br> \n <br> \n <b>3. Račun je v varnem stanju</b><br> \n V zadnjih 15 dneh ni bilo izvedenih občutljivih operacij, kot je sprememba številke mobilnega telefona ali gesla za račun.",
+    "CL_login_delete_content_title": "Preden začnete s preklicem, potrdite naslednje:",
+    "CL_login_delete_content_msg_1": "Po izbrisu računa bodo izbrisani vsi podatki, povezani s tem računom, in povezanih **pravic, virtualnih sredstev in naročil** ni mogoče obnoviti ali pridobiti.<br><br>Hkrati tega računa ne boste mogli uporabljati za prijavo v druga spletna mesta in odjemalce Hisense, vključno z, vendar ne omejeno na, uradni račun Hisense Aijia, program Hisense Aijia Mini, Hisense TV, uradni mini program Hisense Mall, aplikacijo Hisense Official Mall, uradni računalnik Hisense Mall, računalnik Hisense Points Paradise, TV Micro Assistant in aplikacijo Juhaxue."
 }

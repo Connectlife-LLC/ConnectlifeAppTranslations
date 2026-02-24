@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "Số đăng ký ICP",
     "CL_CF_about_complaints_and_reports": "Khiếu nại và Báo cáo",
     "CL_CF_about_complaints_and_reports_content": "Vui lòng gọi đến đường dây nóng tiếp nhận khiếu nại và báo cáo.",
-    "CL_CF_about_call_immediately": "Gọi ngay lập tức"
+    "CL_CF_about_call_immediately": "Gọi ngay lập tức",
+    "CL_login_delete_content_msg": "<b>1. Không có quyền hoặc tài sản hợp lệ nào trong tài khoản, hoặc nếu có, bạn tự nguyện từ bỏ chúng;</b><br> \n Bao gồm nhưng không giới hạn ở điểm, phiếu giảm giá, mối quan hệ gia hạn, quyền VIP, phiếu giảm giá một điểm, bảo hành mở rộng thiết bị gia dụng và các quyền và tài sản tài khoản khác<br> \n <br> \n <b>2. Có bất kỳ đơn đặt hàng hoặc dịch vụ nào chưa thanh toán trong tài khoản không?</b><br> \n Bao gồm nhưng không giới hạn ở đơn đặt hàng sản phẩm, đơn đặt hàng đổi điểm, đơn đặt hàng dịch vụ lắp đặt/sửa chữa, v.v.<br> \n <br> \n <b>3. Tài khoản đang ở trạng thái an toàn</b><br> \n Không có thao tác nhạy cảm nào như thay đổi số điện thoại di động hoặc mật khẩu tài khoản trong 15 ngày qua",
+    "CL_login_delete_content_title": "Trước khi tiến hành hủy, vui lòng xác nhận những thông tin sau:",
+    "CL_login_delete_content_msg_1": "Sau khi xóa tài khoản, tất cả thông tin liên quan đến tài khoản này sẽ bị xóa và các quyền, tài sản ảo và đơn đặt hàng liên quan không thể được khôi phục hoặc lấy lại.<br><br>Đồng thời, bạn sẽ không thể sử dụng tài khoản này để đăng nhập vào các trang web và ứng dụng khác của Hisense, bao gồm nhưng không giới hạn ở Tài khoản chính thức Hisense Aijia, Chương trình mini Hisense Aijia, TV Hisense, Chương trình mini Hisense Official Mall, Ứng dụng Hisense Official Mall, PC Hisense Official Mall, PC Hisense Points Paradise, TV Micro Assistant và Ứng dụng Juhaxue."
 }

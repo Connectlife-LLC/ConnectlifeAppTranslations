@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "Broj prijave ICP-a",
     "CL_CF_about_complaints_and_reports": "Pritužbe i izvješća",
     "CL_CF_about_complaints_and_reports_content": "Molimo nazovite telefonsku liniju za pritužbe i prijave",
-    "CL_CF_about_call_immediately": "Odmah nazovite"
+    "CL_CF_about_call_immediately": "Odmah nazovite",
+    "CL_login_delete_content_msg": "<b>1. Na računu nema valjanih prava ili imovine ili, ako postoje, dobrovoljno ih se odričete;</b><br> \n Uključujući, ali ne ograničavajući se na bodove, kupone, odnose za obnovu, VIP prava, kupone s jednim bodom, produljeno jamstvo za kućanske aparate i druga prava i imovinu računa<br> \n <br> \n <b>2. Postoje li na računu nepodmirene narudžbe ili usluge</b><br> \n Uključujući, ali ne ograničavajući se na narudžbe proizvoda, narudžbe za iskorištavanje bodova, narudžbe za instalaciju/popravak itd.<br> \n <br> \n <b>3. Račun je u sigurnom stanju</b><br> \n Nema osjetljivih operacija poput promjene broja mobitela ili lozinke računa u posljednjih 15 dana",
+    "CL_login_delete_content_title": "Prije početka otkazivanja, molimo vas da potvrdite sljedeće:",
+    "CL_login_delete_content_msg_1": "Nakon brisanja računa, sve informacije povezane s ovim računom bit će izbrisane, a povezana **prava, virtualna imovina i narudžbe** ne mogu se vratiti ili dohvatiti.<br><br>Istodobno, nećete moći koristiti ovaj račun za prijavu na druge Hisense web stranice i klijente, uključujući, ali ne ograničavajući se na Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant i Juhaxue App."
 }

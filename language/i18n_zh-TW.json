@@ -8058,5 +8058,8 @@
     "CL_CF_about_ICP_code": "ICP備案號",
     "CL_CF_about_complaints_and_reports": "投訴与舉報",
     "CL_CF_about_complaints_and_reports_content": "請撥打投訴与檢舉專線",
-    "CL_CF_about_call_immediately": "立即致電"
+    "CL_CF_about_call_immediately": "立即致電",
+    "CL_login_delete_content_msg": "<b>1. 帳戶內不存在任何有效權益或資產，或即使存在，您也自願放棄這些權益或資產；</b><br> \n包括但不限於積分、優惠券、續訂關係、VIP權益、單點優惠券、家電公司等權益及資產帳戶<br> \n <br> 存在於未完成的訂單或\n. \n包括但不限於產品訂單、積分兌換訂單、安裝/維修服務訂單等；</br> \n <br> \n <b>3. 帳戶處於安全狀態</b><br> \n過去15天內未進行任何敏感操作，例如更改手機號碼或帳號密碼。 </b>",
+    "CL_login_delete_content_title": "取消訂單前，請確認以下事項：",
+    "CL_login_delete_content_msg_1": "帳戶刪除後，與該帳戶相關的所有資訊將被刪除，相關的<b>權限、虛擬資產和訂單</b>將無法恢復或找回。 <br><br>同時，您將無法使用該帳號登入其他海信網站和客戶端，包括但不限於海信愛家官方帳號、海信愛家小程式、海信電視、海信官方商城小程式、海信官方商城App、海信官方商城PC"
 }
