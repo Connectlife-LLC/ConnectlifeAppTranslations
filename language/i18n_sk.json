@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "Číslo podania ICP",
     "CL_CF_about_complaints_and_reports": "Sťažnosti a hlásenia",
     "CL_CF_about_complaints_and_reports_content": "Zavolajte, prosím, na horúcu linku pre sťažnosti a hlásenie",
-    "CL_CF_about_call_immediately": "Okamžite zavolajte"
+    "CL_CF_about_call_immediately": "Okamžite zavolajte",
+    "CL_login_delete_content_msg": "<b>1. Na účte nie sú žiadne platné práva ani aktíva, alebo ak áno, dobrovoľne sa ich vzdávate;</b><br> \n Vrátane, ale nie výlučne, bodov, kupónov, obnovovacích vzťahov, VIP práv, kupónov za jeden bod, predĺženej záruky na domáce spotrebiče a iných práv a aktív účtu<br> \n <br> \n <b>2. Či sú na účte nejaké nevybavené objednávky alebo služby</b><br> \n Vrátane, ale nie výlučne, objednávok produktov, objednávok na uplatnenie bodov, objednávok inštalačných/opravných služieb atď.<br> \n <br> \n <b>3. Účet je v zabezpečenom stave</b><br> \n Žiadne citlivé operácie, ako je zmena čísla mobilného telefónu alebo hesla k účtu, za posledných 15 dní",
+    "CL_login_delete_content_title": "Pred začatím rušenia si overte nasledujúce:",
+    "CL_login_delete_content_msg_1": "Po odstránení účtu budú všetky informácie spojené s týmto účtom odstránené a súvisiace <b>práva, virtuálne aktíva a objednávky</b> nie je možné obnoviť ani získať späť.<br><br>Zároveň nebudete môcť tento účet použiť na prihlásenie na iné webové stránky a ku klientom Hisense vrátane, ale nie výlučne, oficiálneho účtu Hisense Aijia, programu Hisense Aijia Mini, Hisense TV, oficiálneho mini programu Hisense Mall, aplikácie Hisense Official Mall, počítača Hisense Official Mall, počítača Hisense Points Paradise, TV Micro Assistant a aplikácie Juhaxue.",
+    "CL_CF_camera_permission_usage_instructions_title": "Pokyny na používanie povolení kamery",
+    "CL_CF_camera_permission_usage_instructions_content": "Používa sa na bežnú prevádzku funkcií súvisiacich s fotografovaním a skenovaním QR kódov."
 }

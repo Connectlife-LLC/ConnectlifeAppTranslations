@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "ICP bejelentési szám",
     "CL_CF_about_complaints_and_reports": "Panaszok és jelentések",
     "CL_CF_about_complaints_and_reports_content": "Kérjük, hívja a panasz- és bejelentési forródrótot",
-    "CL_CF_about_call_immediately": "Hívjon azonnal"
+    "CL_CF_about_call_immediately": "Hívjon azonnal",
+    "CL_login_delete_content_msg": "<b>1. Nincsenek érvényes jogok vagy eszközök a fiókban, vagy ha vannak is, Ön önkéntesen lemond róluk;</b><br> \n Beleértve, de nem kizárólagosan a pontokat, kuponokat, megújítási kapcsolatokat, VIP jogokat, egypontos kuponokat, háztartási gépek kiterjesztett garanciáját és egyéb jogokat és fiókeszközöket.<br> \n <br> \n <b>2. Vannak-e függőben lévő megrendelések vagy szolgáltatások a fiókban.</b><br> \n Beleértve, de nem kizárólagosan a termékrendeléseket, pontbeváltási megrendeléseket, telepítési/javítási szolgáltatási megrendeléseket stb.<br> \n <br> \n <b>3. A fiók biztonságos állapotban van.</b><br> \n Az elmúlt 15 napban nem történt bizalmas művelet, például mobiltelefonszám vagy fiókjelszó módosítása.",
+    "CL_login_delete_content_title": "A lemondás megkezdése előtt kérjük, ellenőrizze a következőket:",
+    "CL_login_delete_content_msg_1": "A fiók törlése után az ehhez a fiókhoz kapcsolódó összes információ törlődik, és a kapcsolódó <b>jogok, virtuális eszközök és megrendelések</b> nem állíthatók vissza és nem igényelhetők vissza.<br><br>Ugyanakkor nem fogsz tudni ezzel a fiókkal bejelentkezni más Hisense webhelyekre és kliensekbe, beleértve, de nem kizárólagosan a Hisense Aijia hivatalos fiókját, a Hisense Aijia Mini programot, a Hisense TV-t, a Hisense hivatalos bevásárlóközpont Mini programot, a Hisense hivatalos bevásárlóközpont alkalmazást, a Hisense hivatalos bevásárlóközpont számítógépet, a Hisense Points Paradise PC-t, a TV Micro Assistant és a Juhaxue alkalmazást.",
+    "CL_CF_camera_permission_usage_instructions_title": "Kameraengedély használati utasításai",
+    "CL_CF_camera_permission_usage_instructions_content": "A fényképezéssel és QR-kódok beolvasásával kapcsolatos funkciók normál működéséhez használatos."
 }

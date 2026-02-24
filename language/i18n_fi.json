@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "ICP-hakemusnumero",
     "CL_CF_about_complaints_and_reports": "Valitukset ja raportit",
     "CL_CF_about_complaints_and_reports_content": "Soita valitus- ja ilmoituslinjaan",
-    "CL_CF_about_call_immediately": "Soita heti"
+    "CL_CF_about_call_immediately": "Soita heti",
+    "CL_login_delete_content_msg": "<b>1. Tilillä ei ole voimassa olevia oikeuksia tai varoja, tai jos on, luovut niistä vapaaehtoisesti;</b><br> \n Sisältää, mutta ei rajoittuen, pisteet, kupongit, uusimissuhteet, VIP-oikeudet, yhden pisteen kupongit, kodinkoneiden laajennetun takuun ja muut oikeudet ja tilin varat<br> \n <br> \n <b>2. Onko tilillä maksamattomia tilauksia tai palveluita</b><br> \n Sisältää, mutta ei rajoittuen, tuotetilaukset, pisteiden lunastustilaukset, asennus-/korjauspalvelutilaukset jne.<br> \n <br> \n <b>3. Tili on suojatussa tilassa</b><br> \n Ei arkaluonteisia toimintoja, kuten matkapuhelinnumeron tai tilin salasanan vaihtamista, viimeisen 15 päivän aikana",
+    "CL_login_delete_content_title": "Ennen peruutuksen aloittamista varmista seuraavat asiat:",
+    "CL_login_delete_content_msg_1": "Tilin poistamisen jälkeen kaikki tähän tiliin liittyvät tiedot poistetaan, eikä siihen liittyviä oikeuksia, virtuaalisia varoja ja tilauksia</b> voida palauttaa tai noutaa.<br><br>Samaan aikaan et voi käyttää tätä tiliä kirjautumiseen muille Hisense-verkkosivustoille ja -asiakasohjelmiin, mukaan lukien, mutta ei rajoittuen, Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant ja Juhaxue App.",
+    "CL_CF_camera_permission_usage_instructions_title": "Kameran käyttöluvan käyttöohjeet",
+    "CL_CF_camera_permission_usage_instructions_content": "Sitä käytetään valokuvien ottamiseen ja QR-koodien skannaamiseen liittyvien toimintojen normaaliin toimintaan."
 }

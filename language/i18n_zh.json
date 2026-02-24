@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "ICP备案号",
     "CL_CF_about_complaints_and_reports": "投诉与举报",
     "CL_CF_about_complaints_and_reports_content": "请拨打投诉与举报电话",
-    "CL_CF_about_call_immediately": "立即拨打"
+    "CL_CF_about_call_immediately": "立即拨打",
+    "CL_login_delete_content_msg": "<b>1. 账号不存在有效期内的权益或资产，或即使有但您自愿放弃；</b><br>\n包括不限于积分、优惠券、续费关系、VIP权益、单点券、家电延保等权益及账号资产<br>\n<br>\n<b>2. 账号是否存在未完结订单或服务</b><br>\n包括不限于商品订单、积分兑换订单、安装/维修服务订单等<br>\n<br>\n<b>3. 账号处于安全状态</b><br>\n最近15天无修改手机号、账号密码等敏感操作",
+    "CL_login_delete_content_title": "开始注销前，请确认以下内容：",
+    "CL_login_delete_content_msg_1": "账号注销后，将删除该账号所有关联信息，相关<b>权益、虚拟资产、订单</b>等均无法恢复或找回。<br><br>同时将无法使用该账号登录其他海信旗下的网站及客户端，包括但不限于海信爱家公众号、海信爱家小程序、海信电视端、海信官方商城小程序、海信官方商城App、海信官方商城PC端、海信积分乐园PC端、电视微助手、聚好学App。",
+    "CL_CF_camera_permission_usage_instructions_title": "相机权限使用说明",
+    "CL_CF_camera_permission_usage_instructions_content": "用于拍照、二维码扫描相关功能的正常使用"
 }

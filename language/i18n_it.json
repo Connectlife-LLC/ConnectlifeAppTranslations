@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "Numero di deposito ICP",
     "CL_CF_about_complaints_and_reports": "Reclami e segnalazioni",
     "CL_CF_about_complaints_and_reports_content": "Si prega di chiamare la hotline per reclami e segnalazioni",
-    "CL_CF_about_call_immediately": "Chiama subito"
+    "CL_CF_about_call_immediately": "Chiama subito",
+    "CL_login_delete_content_msg": "<b>1. Non ci sono diritti o beni validi nell'account, o se ci sono, vi rinunci volontariamente;</b><br> \n Inclusi, a titolo esemplificativo ma non esaustivo, punti, coupon, rapporti di rinnovo, diritti VIP, coupon a punto singolo, garanzia estesa per elettrodomestici e altri diritti e beni dell'account<br> \n <br> \n <b>2. Se ci sono ordini o servizi in sospeso nell'account</b><br> \n Inclusi, a titolo esemplificativo ma non esaustivo, ordini di prodotti, ordini di riscatto punti, ordini di servizi di installazione/riparazione, ecc.<br> \n <br> \n <b>3. L'account è in uno stato sicuro</b><br> \n Nessuna operazione sensibile come la modifica del numero di cellulare o della password dell'account negli ultimi 15 giorni",
+    "CL_login_delete_content_title": "Prima di procedere con l'annullamento, ti preghiamo di confermare quanto segue:",
+    "CL_login_delete_content_msg_1": "Dopo l'eliminazione dell'account, tutte le informazioni associate a questo account verranno eliminate e i relativi <b>diritti, asset virtuali e ordini</b> non potranno essere ripristinati o recuperati.<br><br>Allo stesso tempo, non potrai utilizzare questo account per accedere ad altri siti Web e clienti Hisense, inclusi, a titolo esemplificativo ma non esaustivo, l'account ufficiale Hisense Aijia, il programma Hisense Aijia Mini, Hisense TV, il programma Hisense Official Mall Mini, l'app Hisense Official Mall, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant e l'app Juhaxue.",
+    "CL_CF_camera_permission_usage_instructions_title": "Istruzioni per l'utilizzo dell'autorizzazione della fotocamera",
+    "CL_CF_camera_permission_usage_instructions_content": "Viene utilizzato per il normale funzionamento delle funzioni relative allo scatto di foto e alla scansione di codici QR"
 }
