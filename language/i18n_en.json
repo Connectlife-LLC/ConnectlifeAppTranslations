@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "ICP Filing Number",
     "CL_CF_about_complaints_and_reports": "Complaints and Reports",
     "CL_CF_about_complaints_and_reports_content": "Please call the complaint and reporting hotline",
-    "CL_CF_about_call_immediately": "Call immediately"
+    "CL_CF_about_call_immediately": "Call immediately",
+    "CL_login_delete_content_msg": "<b>1. There are no valid rights or assets in the account, or if there are, you voluntarily waive them;</b><br>\nIncluding but not limited to points, coupons, renewal relationships, VIP rights, single-point coupons, home appliance extended warranty and other rights and account assets<br>\n<br>\n<b>2. Whether there are any outstanding orders or services in the account</b><br>\nIncluding but not limited to product orders, points redemption orders, installation/repair service orders, etc.<br>\n<br>\n<b>3. The account is in a secure state</b><br>\nNo sensitive operations such as changing mobile phone number or account password in the last 15 days",
+    "CL_login_delete_content_title": "Before starting to cancel, please confirm the following:",
+    "CL_login_delete_content_msg_1": "After account deletion, all information associated with this account will be deleted, and related <b>rights, virtual assets, and orders</b> cannot be restored or retrieved.<br><br>At the same time, you will not be able to use this account to log in to other Hisense websites and clients, including but not limited to Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant, and Juhaxue App.",
+    "CL_CF_camera_permission_usage_instructions_title": "Camera Permission Usage Instructions",
+    "CL_CF_camera_permission_usage_instructions_content": "For the normal use of photo taking and QR code scanning functions."
 }

@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "Número de presentación del ICP",
     "CL_CF_about_complaints_and_reports": "Quejas e informes",
     "CL_CF_about_complaints_and_reports_content": "Por favor llame a la línea directa de quejas y denuncias",
-    "CL_CF_about_call_immediately": "Llama inmediatamente"
+    "CL_CF_about_call_immediately": "Llama inmediatamente",
+    "CL_login_delete_content_msg": "<b>1. No existen derechos ni activos válidos en la cuenta, o si los hay, usted renuncia voluntariamente a ellos;</b><br> \n Incluyendo, entre otros, puntos, cupones, relaciones de renovación, derechos VIP, cupones de un solo punto, garantía extendida de electrodomésticos y otros derechos y activos de la cuenta.<br> \n <br> \n <b>2. Si existen pedidos o servicios pendientes en la cuenta.</b><br> \n Incluyendo, entre otros, pedidos de productos, pedidos de canje de puntos, pedidos de servicio de instalación/reparación, etc.<br> \n <br> \n <b>3. La cuenta se encuentra en estado seguro.</b><br> \n No se han realizado operaciones confidenciales, como cambiar el número de teléfono móvil o la contraseña de la cuenta, en los últimos 15 días.",
+    "CL_login_delete_content_title": "Antes de comenzar a cancelar, por favor confirma lo siguiente:",
+    "CL_login_delete_content_msg_1": "Después de eliminar la cuenta, se eliminará toda la información asociada con esta cuenta y no se podrán restaurar ni recuperar los <b>derechos, activos virtuales y pedidos</b> relacionados.<br><br>Al mismo tiempo, no podrá usar esta cuenta para iniciar sesión en otros sitios web y clientes de Hisense, incluidos, entre otros, la cuenta oficial de Hisense Aijia, el programa Hisense Aijia Mini, Hisense TV, el programa Hisense Official Mall Mini, la aplicación Hisense Official Mall, la PC Hisense Official Mall, la PC Hisense Points Paradise, el TV Micro Assistant y la aplicación Juhaxue.",
+    "CL_CF_camera_permission_usage_instructions_title": "Instrucciones de uso del permiso de la cámara",
+    "CL_CF_camera_permission_usage_instructions_content": "Se utiliza para el funcionamiento normal de las funciones relacionadas con la toma de fotografías y el escaneo de códigos QR."
 }

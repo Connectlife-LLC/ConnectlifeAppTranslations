@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "ICP-ansökningsnummer",
     "CL_CF_about_complaints_and_reports": "Klagomål och rapporter",
     "CL_CF_about_complaints_and_reports_content": "Ring klagomåls- och anmälningslinjen",
-    "CL_CF_about_call_immediately": "Ring omedelbart"
+    "CL_CF_about_call_immediately": "Ring omedelbart",
+    "CL_login_delete_content_msg": "<b>1. Det finns inga giltiga rättigheter eller tillgångar på kontot, eller om det finns, avstår du frivilligt från dem;</b><br> \n Inklusive men inte begränsat till poäng, kuponger, förnyelseavtal, VIP-rättigheter, kuponger för enskilda poäng, förlängd garanti för hushållsapparater och andra rättigheter och kontotillgångar<br> \n <br> \n <b>2. Huruvida det finns några utestående beställningar eller tjänster på kontot</b><br> \n Inklusive men inte begränsat till produktbeställningar, poänginlösen, installations-/reparationsbeställningar etc.<br> \n <br> \n <b>3. Kontot är i ett säkert tillstånd</b><br> \n Inga känsliga åtgärder som att ändra mobiltelefonnummer eller kontolösenord under de senaste 15 dagarna",
+    "CL_login_delete_content_title": "Innan du börjar avbryta, vänligen bekräfta följande:",
+    "CL_login_delete_content_msg_1": "Efter att kontot har raderats kommer all information som är kopplad till detta konto att raderas, och relaterade **rättigheter, virtuella tillgångar och beställningar** kan inte återställas eller hämtas.<br><br>Samtidigt kommer du inte att kunna använda detta konto för att logga in på andra Hisense-webbplatser och -klienter, inklusive men inte begränsat till Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant och Juhaxue App.",
+    "CL_CF_camera_permission_usage_instructions_title": "Instruktioner för användning av kamerabehörighet",
+    "CL_CF_camera_permission_usage_instructions_content": "Den används för normal drift av funktioner relaterade till att ta foton och skanna QR-koder."
 }

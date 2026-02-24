@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "Numer zgłoszenia ICP",
     "CL_CF_about_complaints_and_reports": "Skargi i raporty",
     "CL_CF_about_complaints_and_reports_content": "Proszę zadzwonić na infolinię do składania skarg i zgłoszeń",
-    "CL_CF_about_call_immediately": "Zadzwoń natychmiast"
+    "CL_CF_about_call_immediately": "Zadzwoń natychmiast",
+    "CL_login_delete_content_msg": "<b>1. Na koncie nie ma żadnych ważnych praw ani aktywów, a jeśli są, dobrowolnie się ich zrzekasz;</b><br> \n W tym, ale nie ograniczając się do punktów, kuponów, relacji odnowieniowych, praw VIP, kuponów jednopunktowych, rozszerzonej gwarancji na urządzenia gospodarstwa domowego i innych praw i aktywów konta<br> \n <br> \n <b>2. Czy na koncie są jakieś nierozliczone zamówienia lub usługi</b><br> \n W tym, ale nie ograniczając się do zamówień produktów, zamówień na wymianę punktów, zamówień na usługi instalacyjne/naprawcze itp.<br> \n <br> \n <b>3. Konto jest w stanie bezpiecznym</b><br> \n W ciągu ostatnich 15 dni nie wykonywano żadnych poufnych operacji, takich jak zmiana numeru telefonu komórkowego lub hasła do konta",
+    "CL_login_delete_content_title": "Przed rozpoczęciem anulowania należy sprawdzić następujące kwestie:",
+    "CL_login_delete_content_msg_1": "Po usunięciu konta wszystkie informacje powiązane z tym kontem zostaną usunięte, a powiązane <b>prawa, aktywa wirtualne i zamówienia</b> nie będą mogły zostać przywrócone ani pobrane.<br><br>Jednocześnie nie będziesz mógł używać tego konta do logowania się do innych witryn i klientów Hisense, w tym między innymi do konta Hisense Aijia Official Account, programu Hisense Aijia Mini, telewizora Hisense TV, programu Hisense Official Mall Mini, aplikacji Hisense Official Mall, komputera Hisense Official Mall, komputera Hisense Points Paradise, asystenta TV Micro Assistant i aplikacji Juhaxue.",
+    "CL_CF_camera_permission_usage_instructions_title": "Instrukcje dotyczące korzystania z uprawnień kamery",
+    "CL_CF_camera_permission_usage_instructions_content": "Służy do normalnego wykonywania funkcji związanych z robieniem zdjęć i skanowaniem kodów QR"
 }

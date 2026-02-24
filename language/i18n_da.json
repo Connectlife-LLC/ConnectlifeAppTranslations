@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "ICP-registreringsnummer",
     "CL_CF_about_complaints_and_reports": "Klager og rapporter",
     "CL_CF_about_complaints_and_reports_content": "Ring venligst til klage- og indberetningslinjen",
-    "CL_CF_about_call_immediately": "Ring med det samme"
+    "CL_CF_about_call_immediately": "Ring med det samme",
+    "CL_login_delete_content_msg": "<b>1. Der er ingen gyldige rettigheder eller aktiver på kontoen, eller hvis der er, giver du frivilligt afkald på dem;</b><br> \n Herunder, men ikke begrænset til, point, kuponer, fornyelsesforhold, VIP-rettigheder, enkeltpointkuponer, udvidet garanti på husholdningsapparater og andre rettigheder og kontoaktiver<br> \n <br> \n <b>2. Om der er udestående ordrer eller tjenester på kontoen</b><br> \n Herunder, men ikke begrænset til, produktordrer, pointindløsningsordrer, installations-/reparationsordrer osv.<br> \n <br> \n <b>3. Kontoen er i en sikker tilstand</b><br> \n Ingen følsomme handlinger såsom ændring af mobiltelefonnummer eller kontoadgangskode i de sidste 15 dage",
+    "CL_login_delete_content_title": "Før du begynder at annullere, bedes du bekræfte følgende:",
+    "CL_login_delete_content_msg_1": "Efter sletning af kontoen slettes alle oplysninger, der er knyttet til denne konto, og relaterede **rettigheder, virtuelle aktiver og ordrer** kan ikke gendannes eller hentes.<br><br>Samtidig kan du ikke bruge denne konto til at logge ind på andre Hisense-websteder og -klienter, herunder, men ikke begrænset til, Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant og Juhaxue App.",
+    "CL_CF_camera_permission_usage_instructions_title": "Instruktioner til brug af kameratilladelser",
+    "CL_CF_camera_permission_usage_instructions_content": "Den bruges til normal drift af funktioner relateret til at tage billeder og scanne QR-koder"
 }

@@ -8058,5 +8058,10 @@
     "CL_CF_about_ICP_code": "Numéro de dépôt ICP",
     "CL_CF_about_complaints_and_reports": "Plaintes et signalements",
     "CL_CF_about_complaints_and_reports_content": "Veuillez appeler la ligne d'assistance téléphonique pour les plaintes et les signalements.",
-    "CL_CF_about_call_immediately": "Appelez immédiatement"
+    "CL_CF_about_call_immediately": "Appelez immédiatement",
+    "CL_login_delete_content_msg": "1. Le compte ne contient aucun droit ni actif valide, ou \n le cas échéant, vous y renoncez volontairement ; \n Cela inclut \n sans s'y limiter, les points, les coupons, les renouvellements d'abonnement, les droits VIP, les coupons \n point unique, la garantie prolongée d'électroménager et autres droits et actifs du compte \n \n \n",
+    "CL_login_delete_content_title": "Avant de procéder à l'annulation, veuillez confirmer les points suivants :",
+    "CL_login_delete_content_msg_1": "Après la suppression de votre compte, toutes les informations qui y sont associées seront effacées, et les <b>droits, actifs virtuels et commandes associés</b> ne pourront être ni restaurés ni récupérés.<br><br>Parallèlement, vous ne pourrez plus utiliser ce compte pour vous connecter à d'autres sites web et applications Hisense, notamment le compte officiel Hisense Aijia, le mini-programme Hisense Aijia, Hisense TV, le mini-programme Hisense Official Mall, l'application Hisense Official Mall, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant et l'application Juhaxue.",
+    "CL_CF_camera_permission_usage_instructions_title": "Instructions d'utilisation de l'autorisation de prise de vue",
+    "CL_CF_camera_permission_usage_instructions_content": "Il est utilisé pour le fonctionnement normal des fonctions liées à la prise de photos et à la lecture des codes QR"
 }
