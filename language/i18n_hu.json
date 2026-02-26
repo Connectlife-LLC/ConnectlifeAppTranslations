@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "A lemondás megkezdése előtt kérjük, ellenőrizze a következőket:",
     "CL_login_delete_content_msg_1": "A fiók törlése után az ehhez a fiókhoz kapcsolódó összes információ törlődik, és a kapcsolódó <b>jogok, virtuális eszközök és megrendelések</b> nem állíthatók vissza és nem igényelhetők vissza.<br><br>Ugyanakkor nem fogsz tudni ezzel a fiókkal bejelentkezni más Hisense webhelyekre és kliensekbe, beleértve, de nem kizárólagosan a Hisense Aijia hivatalos fiókját, a Hisense Aijia Mini programot, a Hisense TV-t, a Hisense hivatalos bevásárlóközpont Mini programot, a Hisense hivatalos bevásárlóközpont alkalmazást, a Hisense hivatalos bevásárlóközpont számítógépet, a Hisense Points Paradise PC-t, a TV Micro Assistant és a Juhaxue alkalmazást.",
     "CL_CF_camera_permission_usage_instructions_title": "Kameraengedély használati utasításai",
-    "CL_CF_camera_permission_usage_instructions_content": "A fényképezéssel és QR-kódok beolvasásával kapcsolatos funkciók normál működéséhez használatos."
+    "CL_CF_camera_permission_usage_instructions_content": "A fényképezéssel és QR-kódok beolvasásával kapcsolatos funkciók normál működéséhez használatos.",
+    "CL_TS_switch_electricity_plan": "VÁLTÁS VILLAMOS TERMÉKCSOMAG",
+    "CL_TS_switch_electricity_tips": "Jelenleg van áramdíjad. Ha díjcsomagot váltasz, a jelenlegi adatok törlődnek. Biztosan váltasz?"
 }

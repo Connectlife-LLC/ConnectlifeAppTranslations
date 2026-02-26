@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "Før du begynder at annullere, bedes du bekræfte følgende:",
     "CL_login_delete_content_msg_1": "Efter sletning af kontoen slettes alle oplysninger, der er knyttet til denne konto, og relaterede **rettigheder, virtuelle aktiver og ordrer** kan ikke gendannes eller hentes.<br><br>Samtidig kan du ikke bruge denne konto til at logge ind på andre Hisense-websteder og -klienter, herunder, men ikke begrænset til, Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant og Juhaxue App.",
     "CL_CF_camera_permission_usage_instructions_title": "Instruktioner til brug af kameratilladelser",
-    "CL_CF_camera_permission_usage_instructions_content": "Den bruges til normal drift af funktioner relateret til at tage billeder og scanne QR-koder"
+    "CL_CF_camera_permission_usage_instructions_content": "Den bruges til normal drift af funktioner relateret til at tage billeder og scanne QR-koder",
+    "CL_TS_switch_electricity_plan": "SKIFT ELPLAN",
+    "CL_TS_switch_electricity_tips": "Du har i øjeblikket en elpris. Hvis du skifter prisplan, vil de aktuelle data blive slettet. Er du sikker på, at du vil skifte?"
 }

@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "Trước khi tiến hành hủy, vui lòng xác nhận những thông tin sau:",
     "CL_login_delete_content_msg_1": "Sau khi xóa tài khoản, tất cả thông tin liên quan đến tài khoản này sẽ bị xóa và các quyền, tài sản ảo và đơn đặt hàng liên quan không thể được khôi phục hoặc lấy lại.<br><br>Đồng thời, bạn sẽ không thể sử dụng tài khoản này để đăng nhập vào các trang web và ứng dụng khác của Hisense, bao gồm nhưng không giới hạn ở Tài khoản chính thức Hisense Aijia, Chương trình mini Hisense Aijia, TV Hisense, Chương trình mini Hisense Official Mall, Ứng dụng Hisense Official Mall, PC Hisense Official Mall, PC Hisense Points Paradise, TV Micro Assistant và Ứng dụng Juhaxue.",
     "CL_CF_camera_permission_usage_instructions_title": "Hướng dẫn sử dụng quyền truy cập camera",
-    "CL_CF_camera_permission_usage_instructions_content": "Nó được sử dụng cho hoạt động bình thường của các chức năng liên quan đến chụp ảnh và quét mã QR."
+    "CL_CF_camera_permission_usage_instructions_content": "Nó được sử dụng cho hoạt động bình thường của các chức năng liên quan đến chụp ảnh và quét mã QR.",
+    "CL_TS_switch_electricity_plan": "KẾ HOẠCH CHUYỂN ĐỔI ĐIỆN",
+    "CL_TS_switch_electricity_tips": "Hiện tại bạn đang sử dụng gói cước điện hiện tại. Nếu bạn chuyển đổi gói cước, dữ liệu hiện tại sẽ bị xóa. Bạn có chắc chắn muốn chuyển đổi không?"
 }

@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "Bevor Sie mit der Stornierung beginnen, bestätigen Sie bitte Folgendes:",
     "CL_login_delete_content_msg_1": "Nach der Kontolöschung werden alle mit diesem Konto verknüpften Informationen gelöscht, und zugehörige Rechte, virtuelle Güter und Bestellungen können nicht wiederhergestellt werden. Gleichzeitig können Sie sich mit diesem Konto nicht mehr bei anderen Hisense-Websites und -Clients anmelden, einschließlich, aber nicht beschränkt auf Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant und Juhaxue App.",
     "CL_CF_camera_permission_usage_instructions_title": "Anweisungen zur Kameraberechtigung",
-    "CL_CF_camera_permission_usage_instructions_content": "Es dient dem normalen Betrieb von Funktionen im Zusammenhang mit dem Fotografieren und dem Scannen von QR-Codes."
+    "CL_CF_camera_permission_usage_instructions_content": "Es dient dem normalen Betrieb von Funktionen im Zusammenhang mit dem Fotografieren und dem Scannen von QR-Codes.",
+    "CL_TS_switch_electricity_plan": "Stromumschaltplan",
+    "CL_TS_switch_electricity_tips": "Sie haben aktuell einen Stromtarif. Wenn Sie den Tarif wechseln, werden Ihre aktuellen Daten gelöscht. Sind Sie sicher, dass Sie wechseln möchten?"
 }

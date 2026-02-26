@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "Sebelum memulai proses pembatalan, mohon konfirmasikan hal berikut:",
     "CL_login_delete_content_msg_1": "Setelah penghapusan akun, semua informasi yang terkait dengan akun ini akan dihapus, dan hak, aset virtual, dan pesanan terkait tidak dapat dipulihkan atau diambil kembali.<br><br>Pada saat yang sama, Anda tidak akan dapat menggunakan akun ini untuk masuk ke situs web dan klien Hisense lainnya, termasuk namun tidak terbatas pada Akun Resmi Hisense Aijia, Program Mini Hisense Aijia, Hisense TV, Program Mini Mal Resmi Hisense, Aplikasi Mal Resmi Hisense, PC Mal Resmi Hisense, PC Hisense Points Paradise, Asisten Mikro TV, dan Aplikasi Juhaxue.",
     "CL_CF_camera_permission_usage_instructions_title": "Petunjuk Penggunaan Izin Kamera",
-    "CL_CF_camera_permission_usage_instructions_content": "Ini digunakan untuk pengoperasian normal fungsi-fungsi yang berkaitan dengan pengambilan foto dan pemindaian kode QR."
+    "CL_CF_camera_permission_usage_instructions_content": "Ini digunakan untuk pengoperasian normal fungsi-fungsi yang berkaitan dengan pengambilan foto dan pemindaian kode QR.",
+    "CL_TS_switch_electricity_plan": "RENCANA PENGALIHAN LISTRIK",
+    "CL_TS_switch_electricity_tips": "Saat ini Anda memiliki tarif listrik. Jika Anda mengganti paket tarif, kuota data Anda saat ini akan dihapus. Apakah Anda yakin ingin mengganti paket?"
 }

@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "Преди да започнете анулирането, моля, потвърдете следното:",
     "CL_login_delete_content_msg_1": "След изтриване на акаунта, цялата информация, свързана с този акаунт, ще бъде изтрита и свързаните с тях <b>права, виртуални активи и поръчки</b> не могат да бъдат възстановени или извлечени.<br><br>В същото време няма да можете да използвате този акаунт, за да влизате в други уебсайтове и клиенти на Hisense, включително, но не само, официалния акаунт на Hisense Aijia, мини програмата Hisense Aijia, Hisense TV, мини програмата Hisense Mall, приложението Hisense Official Mall, компютъра Hisense Official Mall, компютъра Hisense Points Paradise, TV Micro Assistant и приложението Juhaxue.",
     "CL_CF_camera_permission_usage_instructions_title": "Инструкции за използване на разрешения за камера",
-    "CL_CF_camera_permission_usage_instructions_content": "Използва се за нормалната работа на функции, свързани със снимане и сканиране на QR кодове."
+    "CL_CF_camera_permission_usage_instructions_content": "Използва се за нормалната работа на функции, свързани със снимане и сканиране на QR кодове.",
+    "CL_TS_switch_electricity_plan": "СМЯНА НА ПЛАН ЗА ЕЛЕКТРИЧЕСТВО",
+    "CL_TS_switch_electricity_tips": "В момента имате тарифа за електричество. Ако смените тарифния план, текущите данни ще бъдат изчистени. Наистина ли искате да превключите?"
 }

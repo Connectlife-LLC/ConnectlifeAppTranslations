@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "ก่อนเริ่มดำเนินการยกเลิก โปรดยืนยันข้อมูลต่อไปนี้:",
     "CL_login_delete_content_msg_1": "หลังจากลบบัญชีแล้ว ข้อมูลทั้งหมดที่เกี่ยวข้องกับบัญชีนี้จะถูกลบ และสิทธิ์ ทรัพย์สินเสมือน และคำสั่งซื้อที่เกี่ยวข้องจะไม่สามารถกู้คืนหรือเรียกคืนได้<br><br>ในขณะเดียวกัน คุณจะไม่สามารถใช้บัญชีนี้เพื่อเข้าสู่ระบบเว็บไซต์และแอปพลิเคชันอื่นๆ ของ Hisense ได้ รวมถึงแต่ไม่จำกัดเพียง บัญชีทางการ Hisense Aijia, โปรแกรม Hisense Aijia Mini, Hisense TV, โปรแกรม Hisense Official Mall Mini, แอป Hisense Official Mall, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant และแอป Juhaxue",
     "CL_CF_camera_permission_usage_instructions_title": "คำแนะนำการใช้งานการอนุญาตกล้อง",
-    "CL_CF_camera_permission_usage_instructions_content": "ใช้สำหรับการทำงานปกติของฟังก์ชันต่างๆ ที่เกี่ยวข้องกับการถ่ายภาพและการสแกนคิวอาร์โค้ด"
+    "CL_CF_camera_permission_usage_instructions_content": "ใช้สำหรับการทำงานปกติของฟังก์ชันต่างๆ ที่เกี่ยวข้องกับการถ่ายภาพและการสแกนคิวอาร์โค้ด",
+    "CL_TS_switch_electricity_plan": "แผนการเปลี่ยนระบบไฟฟ้า",
+    "CL_TS_switch_electricity_tips": "ขณะนี้คุณมีอัตราค่าไฟฟ้าอยู่แล้ว หากคุณเปลี่ยนแผนอัตราค่าไฟฟ้า ข้อมูลปัจจุบันจะถูกล้างออก คุณแน่ใจหรือไม่ว่าต้องการเปลี่ยนแผน?"
 }

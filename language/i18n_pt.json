@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "Antes de iniciar o cancelamento, confirme o seguinte:",
     "CL_login_delete_content_msg_1": "Após a exclusão da conta, todas as informações associadas a ela serão apagadas e os direitos, ativos virtuais e pedidos relacionados não poderão ser restaurados ou recuperados.<br><br>Ao mesmo tempo, você não poderá usar esta conta para acessar outros sites e clientes da Hisense, incluindo, entre outros, a Conta Oficial Hisense Aijia, o Mini Programa Hisense Aijia, a Hisense TV, o Mini Programa da Loja Oficial Hisense, o Aplicativo da Loja Oficial Hisense, o PC da Loja Oficial Hisense, o PC Hisense Points Paradise, o Micro Assistente de TV e o Aplicativo Juhaxue.",
     "CL_CF_camera_permission_usage_instructions_title": "Instruções de uso da permissão da câmera",
-    "CL_CF_camera_permission_usage_instructions_content": "É utilizado para o funcionamento normal das funções relacionadas à captura de fotos e à leitura de códigos QR."
+    "CL_CF_camera_permission_usage_instructions_content": "É utilizado para o funcionamento normal das funções relacionadas à captura de fotos e à leitura de códigos QR.",
+    "CL_TS_switch_electricity_plan": "PLANO DE ENERGIA ELÉTRICA SWITCH",
+    "CL_TS_switch_electricity_tips": "Você tem uma tarifa de energia elétrica atualmente. Se você alterar o plano tarifário, os dados atuais serão apagados. Tem certeza de que deseja alterar o plano?"
 }

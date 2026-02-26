@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "Prije početka otkazivanja, molimo vas da potvrdite sljedeće:",
     "CL_login_delete_content_msg_1": "Nakon brisanja računa, sve informacije povezane s ovim računom bit će izbrisane, a povezana **prava, virtualna imovina i narudžbe** ne mogu se vratiti ili dohvatiti.<br><br>Istodobno, nećete moći koristiti ovaj račun za prijavu na druge Hisense web stranice i klijente, uključujući, ali ne ograničavajući se na Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant i Juhaxue App.",
     "CL_CF_camera_permission_usage_instructions_title": "Upute za korištenje dopuštenja za kameru",
-    "CL_CF_camera_permission_usage_instructions_content": "Koristi se za normalan rad funkcija povezanih s fotografiranjem i skeniranjem QR kodova."
+    "CL_CF_camera_permission_usage_instructions_content": "Koristi se za normalan rad funkcija povezanih s fotografiranjem i skeniranjem QR kodova.",
+    "CL_TS_switch_electricity_plan": "PROMJENA PLANA ELEKTRIČNE ENERGIJE",
+    "CL_TS_switch_electricity_tips": "Trenutno imate tarifu električne energije. Ako promijenite tarifni plan, trenutni podaci će se izbrisati. Jeste li sigurni da želite promijeniti tarifu?"
 }

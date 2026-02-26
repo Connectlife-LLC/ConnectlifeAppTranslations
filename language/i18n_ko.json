@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "취소를 진행하기 전에 다음 사항을 확인해 주십시오.",
     "CL_login_delete_content_msg_1": "계정 삭제 후에는 해당 계정과 관련된 모든 정보가 삭제되며, 관련 <b>권리, 가상 자산 및 주문</b>은 복원하거나 검색할 수 없습니다.<br><br>또한, 해당 계정을 사용하여 Hisense Aijia 공식 계정, Hisense Aijia 미니 프로그램, Hisense TV, Hisense 공식 쇼핑몰 미니 프로그램, Hisense 공식 쇼핑몰 앱, Hisense 공식 쇼핑몰 PC, Hisense Points Paradise PC, TV 마이크로 어시스턴트, Juhaxue 앱 등 다른 Hisense 웹사이트 및 클라이언트에 로그인할 수 없습니다.",
     "CL_CF_camera_permission_usage_instructions_title": "카메라 권한 사용 안내",
-    "CL_CF_camera_permission_usage_instructions_content": "이는 사진 촬영 및 QR 코드 스캔과 관련된 기능의 정상적인 작동에 사용됩니다."
+    "CL_CF_camera_permission_usage_instructions_content": "이는 사진 촬영 및 QR 코드 스캔과 관련된 기능의 정상적인 작동에 사용됩니다.",
+    "CL_TS_switch_electricity_plan": "스위치 전기 계획",
+    "CL_TS_switch_electricity_tips": "현재 전기 요금제를 사용하고 계십니다. 요금제를 변경하시면 현재 데이터는 삭제됩니다. 정말로 변경하시겠습니까?"
 }
