@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "Before starting to cancel, please confirm the following:",
     "CL_login_delete_content_msg_1": "After account deletion, all information associated with this account will be deleted, and related <b>rights, virtual assets, and orders</b> cannot be restored or retrieved.<br><br>At the same time, you will not be able to use this account to log in to other Hisense websites and clients, including but not limited to Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant, and Juhaxue App.",
     "CL_CF_camera_permission_usage_instructions_title": "Camera Permission Usage Instructions",
-    "CL_CF_camera_permission_usage_instructions_content": "For the normal use of photo taking and QR code scanning functions."
+    "CL_CF_camera_permission_usage_instructions_content": "For the normal use of photo taking and QR code scanning functions.",
+    "CL_TS_switch_electricity_plan": "SWITCH ELECTRICITY PLAN",
+    "CL_TS_switch_electricity_tips": "You currently have a electricity rate. If you switch the rate plan, the current data will be cleared. Are you sure you want to switch?"
 }

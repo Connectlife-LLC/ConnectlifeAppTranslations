@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "Înainte de a începe anularea, vă rugăm să confirmați următoarele:",
     "CL_login_delete_content_msg_1": "După ștergerea contului, toate informațiile asociate cu acesta vor fi șterse, iar <b>drepturile, activele virtuale și comenzile</b> aferente nu pot fi restaurate sau recuperate.<br><br>În același timp, nu veți putea utiliza acest cont pentru a vă conecta la alte site-uri web și clienți Hisense, inclusiv, dar fără a se limita la, Contul Oficial Hisense Aijia, Programul Hisense Aijia Mini, Hisense TV, Programul Hisense Official Mall Mini, Aplicația Hisense Official Mall, PC-ul Hisense Official Mall, PC-ul Hisense Points Paradise, Asistentul TV Micro și Aplicația Juhaxue.",
     "CL_CF_camera_permission_usage_instructions_title": "Instrucțiuni de utilizare a permisiunii camerei",
-    "CL_CF_camera_permission_usage_instructions_content": "Este utilizat pentru funcționarea normală a funcțiilor legate de fotografiere și scanarea codurilor QR"
+    "CL_CF_camera_permission_usage_instructions_content": "Este utilizat pentru funcționarea normală a funcțiilor legate de fotografiere și scanarea codurilor QR",
+    "CL_TS_switch_electricity_plan": "SCHIMBARE PLAN DE ELECTRICITATE",
+    "CL_TS_switch_electricity_tips": "În prezent aveți un abonament la electricitate. Dacă schimbați planul tarifar, datele actuale vor fi șterse. Sigur doriți să schimbați?"
 }
