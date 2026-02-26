@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "Gebruiksaanwijzing voor cameratoestemming",
     "CL_CF_camera_permission_usage_instructions_content": "Het wordt gebruikt voor de normale werking van functies die te maken hebben met het maken van foto's en het scannen van QR-codes.",
     "CL_TS_switch_electricity_plan": "OVERSTAPPLAN VOOR ELEKTRICITEIT",
-    "CL_TS_switch_electricity_tips": "Je hebt momenteel een elektriciteitstarief. Als je overstapt naar een ander tariefplan, worden je huidige gegevens gewist. Weet je zeker dat je wilt overstappen?"
+    "CL_TS_switch_electricity_tips": "Je hebt momenteel een elektriciteitstarief. Als je overstapt naar een ander tariefplan, worden je huidige gegevens gewist. Weet je zeker dat je wilt overstappen?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Aankomstherinnering",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Laat een herinnering achter",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Je ontvangt een melding om de airconditioning aan te zetten wanneer je bijna thuis bent.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "U ontvangt een melding om de airconditioning uit te schakelen wanneer u van huis gaat."
 }

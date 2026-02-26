@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "Istruzioni per l'utilizzo dell'autorizzazione della fotocamera",
     "CL_CF_camera_permission_usage_instructions_content": "Viene utilizzato per il normale funzionamento delle funzioni relative allo scatto di foto e alla scansione di codici QR",
     "CL_TS_switch_electricity_plan": "CAMBIA PIANO ELETTRICO",
-    "CL_TS_switch_electricity_tips": "Attualmente hai una tariffa elettrica. Se cambi piano tariffario, i dati correnti verranno cancellati. Vuoi davvero cambiare?"
+    "CL_TS_switch_electricity_tips": "Attualmente hai una tariffa elettrica. Se cambi piano tariffario, i dati correnti verranno cancellati. Vuoi davvero cambiare?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Promemoria di arrivo",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Lascia un promemoria",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Ricevi una notifica per accendere il condizionatore quando ti avvicini a casa.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Ricevi una notifica per spegnere il condizionatore quando esci di casa."
 }

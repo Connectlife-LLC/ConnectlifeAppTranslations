@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "Instruktioner för användning av kamerabehörighet",
     "CL_CF_camera_permission_usage_instructions_content": "Den används för normal drift av funktioner relaterade till att ta foton och skanna QR-koder.",
     "CL_TS_switch_electricity_plan": "BYT ELPLAN",
-    "CL_TS_switch_electricity_tips": "Du har för närvarande ett eltaxa. Om du byter abonnemang kommer den aktuella informationen att raderas. Är du säker på att du vill byta?"
+    "CL_TS_switch_electricity_tips": "Du har för närvarande ett eltaxa. Om du byter abonnemang kommer den aktuella informationen att raderas. Är du säker på att du vill byta?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Ankomstpåminnelse",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Påminnelse om att lämna",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Få en avisering om att slå på luftkonditioneringen när du närmar dig hemmet.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Få en avisering om att stänga av luftkonditioneringen när du lämnar hemmet."
 }

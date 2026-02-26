@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "Navodila za uporabo dovoljenj za kamero",
     "CL_CF_camera_permission_usage_instructions_content": "Uporablja se za normalno delovanje funkcij, povezanih s fotografiranjem in skeniranjem QR kod.",
     "CL_TS_switch_electricity_plan": "ZAMENJAVA NAČRTA ELEKTRIČNE ENERGIJE",
-    "CL_TS_switch_electricity_tips": "Trenutno imate tarifo za elektriko. Če spremenite tarifni načrt, bodo trenutni podatki izbrisani. Ali ste prepričani, da želite preklopiti?"
+    "CL_TS_switch_electricity_tips": "Trenutno imate tarifo za elektriko. Če spremenite tarifni načrt, bodo trenutni podatki izbrisani. Ali ste prepričani, da želite preklopiti?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Opomnik za prihod",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Pusti opomnik",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Prejmite obvestilo, da vklopite klimatsko napravo, ko se približujete domu.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Prejmite obvestilo, da izklopite klimatsko napravo, ko zapuščate dom."
 }

@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "相機權限使用說明",
     "CL_CF_camera_permission_usage_instructions_content": "用於執行與拍照和掃描二維碼相關的正常功能。",
     "CL_TS_switch_electricity_plan": "切換電力計劃",
-    "CL_TS_switch_electricity_tips": "您目前使用的是固定電價方案。如果您變更電價方案，目前資料將會被清除。您確定要更改嗎？"
+    "CL_TS_switch_electricity_tips": "您目前使用的是固定電價方案。如果您變更電價方案，目前資料將會被清除。您確定要更改嗎？",
+    "CL_CF_GEO_enable_arriving_sf_notification": "到達提醒",
+    "CL_CF_GEO_enable_leaving_sf_notification": "离开提醒",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "當您快到家時，收到開啟空調的通知。",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "離開家時收到關閉空調的通知。"
 }
