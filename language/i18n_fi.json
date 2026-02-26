@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "Ennen peruutuksen aloittamista varmista seuraavat asiat:",
     "CL_login_delete_content_msg_1": "Tilin poistamisen jälkeen kaikki tähän tiliin liittyvät tiedot poistetaan, eikä siihen liittyviä oikeuksia, virtuaalisia varoja ja tilauksia</b> voida palauttaa tai noutaa.<br><br>Samaan aikaan et voi käyttää tätä tiliä kirjautumiseen muille Hisense-verkkosivustoille ja -asiakasohjelmiin, mukaan lukien, mutta ei rajoittuen, Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant ja Juhaxue App.",
     "CL_CF_camera_permission_usage_instructions_title": "Kameran käyttöluvan käyttöohjeet",
-    "CL_CF_camera_permission_usage_instructions_content": "Sitä käytetään valokuvien ottamiseen ja QR-koodien skannaamiseen liittyvien toimintojen normaaliin toimintaan."
+    "CL_CF_camera_permission_usage_instructions_content": "Sitä käytetään valokuvien ottamiseen ja QR-koodien skannaamiseen liittyvien toimintojen normaaliin toimintaan.",
+    "CL_TS_switch_electricity_plan": "VAIHDA SÄHKÖSUUNNITELMAA",
+    "CL_TS_switch_electricity_tips": "Sinulla on tällä hetkellä sähkön hinta. Jos vaihdat hinnoittelusuunnitelmaa, nykyiset tiedot tyhjennetään. Haluatko varmasti vaihtaa?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Saapumismuistutus",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Jätä muistutus",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Saat ilmoituksen ilmastoinnin käynnistämisestä, kun lähestyt kotia.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Saat ilmoituksen ilmastointilaitteen sammuttamisesta, kun poistut kotoa."
 }

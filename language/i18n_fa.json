@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "قبل از شروع لغو، لطفاً موارد زیر را تأیید کنید:",
     "CL_login_delete_content_msg_1": "پس از حذف حساب، تمام اطلاعات مرتبط با این حساب حذف خواهد شد و <b>حقوق، دارایی‌های مجازی و سفارشات</b> مرتبط قابل بازیابی یا بازیابی نیستند.<br><br>در عین حال، شما قادر نخواهید بود از این حساب برای ورود به سایر وب‌سایت‌ها و مشتریان Hisense، از جمله اما نه محدود به حساب رسمی Hisense Aijia، برنامه Hisense Aijia Mini، تلویزیون Hisense، برنامه Hisense Official Mall Mini، برنامه Hisense Official Mall، کامپیوتر Hisense Official Mall، کامپیوتر Hisense Points Paradise، دستیار تلویزیون Micro و برنامه Juhaxue استفاده کنید.",
     "CL_CF_camera_permission_usage_instructions_title": "دستورالعمل استفاده از مجوزهای دوربین",
-    "CL_CF_camera_permission_usage_instructions_content": "برای عملکرد عادی عملکردهای مربوط به گرفتن عکس و اسکن کدهای QR استفاده می‌شود."
+    "CL_CF_camera_permission_usage_instructions_content": "برای عملکرد عادی عملکردهای مربوط به گرفتن عکس و اسکن کدهای QR استفاده می‌شود.",
+    "CL_TS_switch_electricity_plan": "طرح برق سوئیچ",
+    "CL_TS_switch_electricity_tips": "شما در حال حاضر یک نرخ برق دارید. اگر طرح نرخ را تغییر دهید، اطلاعات فعلی پاک می‌شود. آیا مطمئن هستید که می‌خواهید تغییر دهید؟",
+    "CL_CF_GEO_enable_arriving_sf_notification": "یادآوری ورود",
+    "CL_CF_GEO_enable_leaving_sf_notification": "یادآوری مرخصی",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "وقتی به خانه نزدیک می‌شوید، اعلانی برای روشن کردن کولر گازی دریافت کنید.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "هنگام خروج از خانه، اعلانی برای خاموش کردن کولر گازی دریافت کنید."
 }

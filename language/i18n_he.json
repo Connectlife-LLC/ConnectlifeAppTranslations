@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "לפני תחילת הביטול, אנא אשרו את הדברים הבאים:",
     "CL_login_delete_content_msg_1": "לאחר מחיקת החשבון, כל המידע המשויך לחשבון זה יימחק, ולא ניתן יהיה לשחזר או לאחזר זכויות, נכסים וירטואליים והזמנות קשורות.<br><br>במקביל, לא תוכלו להשתמש בחשבון זה כדי להתחבר לאתרי אינטרנט ולקוחות אחרים של Hisense, כולל אך לא רק חשבון Hisense Aijia הרשמי, תוכנית Hisense Aijia Mini, טלוויזיית Hisense, תוכנית Hisense Official Mall Mini, אפליקציית Hisense Official Mall, מחשב Hisense Official Mall, מחשב Hisense Points Paradise, מסייע טלוויזיה מיקרו ואפליקציית Juhaxue.",
     "CL_CF_camera_permission_usage_instructions_title": "הוראות שימוש בהרשאת מצלמה",
-    "CL_CF_camera_permission_usage_instructions_content": "הוא משמש להפעלה רגילה של פונקציות הקשורות לצילום תמונות וסריקת קודי QR"
+    "CL_CF_camera_permission_usage_instructions_content": "הוא משמש להפעלה רגילה של פונקציות הקשורות לצילום תמונות וסריקת קודי QR",
+    "CL_TS_switch_electricity_plan": "החלפת תוכנית חשמל",
+    "CL_TS_switch_electricity_tips": "יש לך כעת תעריף חשמל. אם תחליף את תוכנית התעריפים, הנתונים הנוכחיים יימחקו. האם אתה בטוח שברצונך לעבור?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "תזכורת הגעה",
+    "CL_CF_GEO_enable_leaving_sf_notification": "תזכורת לעזיבה",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "קבלו התראה להפעלת המזגן כשאתם מתקרבים הביתה.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "קבלו התראה לכיבוי המזגן כשאתם יוצאים מהבית."
 }

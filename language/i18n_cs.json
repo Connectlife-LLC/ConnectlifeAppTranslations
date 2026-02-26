@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "Před zahájením rušení prosím potvrďte následující:",
     "CL_login_delete_content_msg_1": "Po smazání účtu budou smazány všechny informace spojené s tímto účtem a související **práva, virtuální aktiva a objednávky** nelze obnovit ani načíst.<br><br>Zároveň nebudete moci tento účet používat k přihlášení k jiným webům a klientům Hisense, včetně, ale nikoli výhradně, oficiálního účtu Hisense Aijia, programu Hisense Aijia Mini, Hisense TV, programu Hisense Official Mall Mini, aplikace Hisense Official Mall, počítače Hisense Official Mall, počítače Hisense Points Paradise, TV Micro Assistant a aplikace Juhaxue.",
     "CL_CF_camera_permission_usage_instructions_title": "Pokyny k použití oprávnění kamery",
-    "CL_CF_camera_permission_usage_instructions_content": "Používá se pro běžný provoz funkcí souvisejících s fotografováním a skenováním QR kódů."
+    "CL_CF_camera_permission_usage_instructions_content": "Používá se pro běžný provoz funkcí souvisejících s fotografováním a skenováním QR kódů.",
+    "CL_TS_switch_electricity_plan": "PŘEPNUTÍ ELEKTŘINOVÉHO PLÁNU",
+    "CL_TS_switch_electricity_tips": "Aktuálně máte nastavený tarif elektřiny. Pokud tarif změníte, aktuální data budou vymazána. Opravdu chcete přepnout?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Připomenutí příjezdu",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Zanechat připomenutí",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Dostávejte upozornění na zapnutí klimatizace, když se blížíte domů.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Dostávejte upozornění na vypnutí klimatizace, když odcházíte z domova."
 }

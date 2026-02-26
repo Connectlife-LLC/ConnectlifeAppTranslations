@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "قبل البدء في عملية الإلغاء، يرجى تأكيد ما يلي:",
     "CL_login_delete_content_msg_1": "بعد حذف الحساب، سيتم حذف جميع المعلومات المرتبطة به، ولن يكون من الممكن استعادة أو استرداد الحقوق والأصول الافتراضية والطلبات ذات الصلة. في الوقت نفسه، لن تتمكن من استخدام هذا الحساب لتسجيل الدخول إلى مواقع وتطبيقات Hisense الأخرى، بما في ذلك على سبيل المثال لا الحصر: حساب Hisense Aijia الرسمي، وبرنامج Hisense Aijia المصغر، وتلفزيون Hisense، وبرنامج Hisense Official Mall المصغر، وتطبيق Hisense Official Mall، وجهاز Hisense Official Mall للكمبيوتر، وجهاز Hisense Points Paradise للكمبيوتر، ومساعد التلفزيون المصغر، وتطبيق Juhaxue.",
     "CL_CF_camera_permission_usage_instructions_title": "تعليمات استخدام إذن استخدام الكاميرا",
-    "CL_CF_camera_permission_usage_instructions_content": "يُستخدم للتشغيل العادي للوظائف المتعلقة بالتقاط الصور ومسح رموز الاستجابة السريعة (QR codes)."
+    "CL_CF_camera_permission_usage_instructions_content": "يُستخدم للتشغيل العادي للوظائف المتعلقة بالتقاط الصور ومسح رموز الاستجابة السريعة (QR codes).",
+    "CL_TS_switch_electricity_plan": "خطة تحويل الكهرباء",
+    "CL_TS_switch_electricity_tips": "لديك حاليًا سعر محدد للكهرباء. إذا قمت بتغيير خطة السعر، فسيتم مسح البيانات الحالية. هل أنت متأكد من رغبتك في التغيير؟",
+    "CL_CF_GEO_enable_arriving_sf_notification": "تذكير بالوصول",
+    "CL_CF_GEO_enable_leaving_sf_notification": "تذكير بالمغادرة",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "ستتلقى إشعارًا لتشغيل مكيف الهواء عند اقترابك من المنزل.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "ستتلقى إشعارًا لإيقاف تشغيل مكيف الهواء عند مغادرتك المنزل."
 }

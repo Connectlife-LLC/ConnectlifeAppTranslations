@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "Пре него што почнете са отказивањем, молимо вас да потврдите следеће:",
     "CL_login_delete_content_msg_1": "Након брисања налога, све информације повезане са овим налогом биће избрисане, а повезана **права, виртуелна имовина и поруџбине** не могу се вратити или преузети.<br><br>Истовремено, нећете моћи да користите овај налог за пријављивање на друге Hisense веб странице и клијенте, укључујући, али не ограничавајући се на, Hisense Aijia Official Account, Hisense Aijia Mini Program, Hisense TV, Hisense Official Mall Mini Program, Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant и Juhaxue App.",
     "CL_CF_camera_permission_usage_instructions_title": "Упутства за коришћење дозвола за камеру",
-    "CL_CF_camera_permission_usage_instructions_content": "Користи се за нормалан рад функција везаних за фотографисање и скенирање QR кодова."
+    "CL_CF_camera_permission_usage_instructions_content": "Користи се за нормалан рад функција везаних за фотографисање и скенирање QR кодова.",
+    "CL_TS_switch_electricity_plan": "ПРОМЕНИТЕ ПЛАН ЕЛЕКТРИЧНЕ НАПАЈАЊА",
+    "CL_TS_switch_electricity_tips": "Тренутно имате тарифу за струју. Ако промените тарифни план, тренутни подаци ће бити обрисани. Да ли сте сигурни да желите да промените тарифу?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Подсетник за долазак",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Остави подсетник",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Добијте обавештење да укључите клима уређај када се приближавате кући.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Примајте обавештење да искључите клима уређај када излазите из куће."
 }

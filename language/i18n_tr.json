@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "İptal işlemine başlamadan önce lütfen aşağıdakileri onaylayın:",
     "CL_login_delete_content_msg_1": "Hesap silindikten sonra, bu hesapla ilişkili tüm bilgiler silinecek ve ilgili haklar, sanal varlıklar ve siparişler geri yüklenemez veya kurtarılamaz.<br><br>Aynı zamanda, Hisense Aijia Resmi Hesabı, Hisense Aijia Mini Programı, Hisense TV, Hisense Resmi Alışveriş Merkezi Mini Programı, Hisense Resmi Alışveriş Merkezi Uygulaması, Hisense Resmi Alışveriş Merkezi Bilgisayarı, Hisense Puan Cenneti Bilgisayarı, TV Mikro Asistanı ve Juhaxue Uygulaması dahil ancak bunlarla sınırlı olmamak üzere diğer Hisense web sitelerine ve istemcilerine bu hesabı kullanarak giriş yapamazsınız.",
     "CL_CF_camera_permission_usage_instructions_title": "Kamera İzin Kullanım Talimatları",
-    "CL_CF_camera_permission_usage_instructions_content": "Bu, fotoğraf çekme ve QR kod tarama ile ilgili işlevlerin normal çalışması için kullanılır."
+    "CL_CF_camera_permission_usage_instructions_content": "Bu, fotoğraf çekme ve QR kod tarama ile ilgili işlevlerin normal çalışması için kullanılır.",
+    "CL_TS_switch_electricity_plan": "ELEKTRİK PLANINI DEĞİŞTİRİN",
+    "CL_TS_switch_electricity_tips": "Şu anda geçerli bir elektrik tarifeniz var. Tarife planınızı değiştirirseniz, mevcut verileriniz silinecektir. Değiştirmek istediğinizden emin misiniz?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Varış Hatırlatıcısı",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Hatırlatıcı Bırak",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Eve yaklaştığınızda klimayı açmanız için bir bildirim alın.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Evden ayrılırken klimayı kapatmanız için bir bildirim alın."
 }

@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "キャンセルを開始する前に、以下を確認してください。",
     "CL_login_delete_content_msg_1": "アカウントを削除すると、このアカウントに関連付けられているすべての情報が削除され、関連する<b>権利、仮想資産、注文</b>を復元または取得することはできません。<br><br>同時に、このアカウントを使用して、Hisense Aijia 公式アカウント、Hisense Aijia ミニプログラム、Hisense TV、Hisense 公式モール ミニプログラム、Hisense 公式モール アプリ、Hisense 公式モール PC、Hisense Points Paradise PC、TV Micro Assistant、Juhaxue アプリなどを含む (ただしこれらに限定されない) 他の Hisense ウェブサイトやクライアントにログインできなくなります。",
     "CL_CF_camera_permission_usage_instructions_title": "カメラの許可使用手順",
-    "CL_CF_camera_permission_usage_instructions_content": "写真の撮影やQRコードのスキャンに関連する機能の通常の操作に使用されます。"
+    "CL_CF_camera_permission_usage_instructions_content": "写真の撮影やQRコードのスキャンに関連する機能の通常の操作に使用されます。",
+    "CL_TS_switch_electricity_plan": "電力プランの変更",
+    "CL_TS_switch_electricity_tips": "現在、電気料金プランをご利用いただいております。料金プランを変更すると、現在のデータが消去されます。変更してもよろしいですか？",
+    "CL_CF_GEO_enable_arriving_sf_notification": "到着リマインダー",
+    "CL_CF_GEO_enable_leaving_sf_notification": "休暇リマインダー",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "家に近づくとエアコンをオンにするように通知を受け取ります。",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "外出時にエアコンをオフにするよう通知を受け取ります。"
 }

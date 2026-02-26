@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "Voordat u begint met annuleren, vragen wij u het volgende te bevestigen:",
     "CL_login_delete_content_msg_1": "Na verwijdering van het account worden alle aan dit account gekoppelde gegevens verwijderd en kunnen de bijbehorende <b>rechten, virtuele activa en bestellingen</b> niet worden hersteld of teruggehaald.<br><br>U kunt dit account tevens niet meer gebruiken om in te loggen op andere Hisense-websites en -clients, waaronder maar niet beperkt tot het Hisense Aijia Official Account, het Hisense Aijia Mini Program, Hisense TV, het Hisense Official Mall Mini Program, de Hisense Official Mall App, Hisense Official Mall PC, Hisense Points Paradise PC, TV Micro Assistant en de Juhaxue App.",
     "CL_CF_camera_permission_usage_instructions_title": "Gebruiksaanwijzing voor cameratoestemming",
-    "CL_CF_camera_permission_usage_instructions_content": "Het wordt gebruikt voor de normale werking van functies die te maken hebben met het maken van foto's en het scannen van QR-codes."
+    "CL_CF_camera_permission_usage_instructions_content": "Het wordt gebruikt voor de normale werking van functies die te maken hebben met het maken van foto's en het scannen van QR-codes.",
+    "CL_TS_switch_electricity_plan": "OVERSTAPPLAN VOOR ELEKTRICITEIT",
+    "CL_TS_switch_electricity_tips": "Je hebt momenteel een elektriciteitstarief. Als je overstapt naar een ander tariefplan, worden je huidige gegevens gewist. Weet je zeker dat je wilt overstappen?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Aankomstherinnering",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Laat een herinnering achter",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Je ontvangt een melding om de airconditioning aan te zetten wanneer je bijna thuis bent.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "U ontvangt een melding om de airconditioning uit te schakelen wanneer u van huis gaat."
 }

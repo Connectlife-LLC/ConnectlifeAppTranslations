@@ -8063,5 +8063,11 @@
     "CL_login_delete_content_title": "Sebelum mula membatalkan, sila sahkan perkara berikut:",
     "CL_login_delete_content_msg_1": "Selepas pemadaman akaun, semua maklumat yang berkaitan dengan akaun ini akan dipadamkan, dan <b>hak, aset maya dan pesanan</b> yang berkaitan tidak boleh dipulihkan atau diambil semula.<br><br>Pada masa yang sama, anda tidak akan dapat menggunakan akaun ini untuk log masuk ke laman web dan pelanggan Hisense yang lain, termasuk tetapi tidak terhad kepada Akaun Rasmi Hisense Aijia, Program Mini Hisense Aijia, TV Hisense, Program Mini Pusat Beli-belah Rasmi Hisense, Aplikasi Pusat Beli-belah Rasmi Hisense, PC Pusat Beli-belah Rasmi Hisense, PC Hisense Points Paradise, Pembantu Mikro TV dan Aplikasi Juhaxue.",
     "CL_CF_camera_permission_usage_instructions_title": "Arahan Penggunaan Kebenaran Kamera",
-    "CL_CF_camera_permission_usage_instructions_content": "Ia digunakan untuk operasi biasa fungsi yang berkaitan dengan mengambil gambar dan mengimbas kod QR"
+    "CL_CF_camera_permission_usage_instructions_content": "Ia digunakan untuk operasi biasa fungsi yang berkaitan dengan mengambil gambar dan mengimbas kod QR",
+    "CL_TS_switch_electricity_plan": "PELAN TUKAR ELEKTRIK",
+    "CL_TS_switch_electricity_tips": "Anda kini mempunyai kadar elektrik. Jika anda menukar pelan kadar, data semasa akan dipadamkan. Adakah anda pasti mahu menukar?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Peringatan Ketibaan",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Peringatan Cuti",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Terima pemberitahuan untuk menghidupkan penghawa dingin apabila anda menghampiri rumah.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Terima pemberitahuan untuk mematikan penghawa dingin apabila anda keluar dari rumah."
 }
