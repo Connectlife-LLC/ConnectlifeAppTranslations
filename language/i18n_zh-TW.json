@@ -8063,5 +8063,7 @@
     "CL_login_delete_content_title": "取消訂單前，請確認以下事項：",
     "CL_login_delete_content_msg_1": "帳戶刪除後，與該帳戶相關的所有資訊將被刪除，相關的<b>權限、虛擬資產和訂單</b>將無法恢復或找回。 <br><br>同時，您將無法使用該帳號登入其他海信網站和客戶端，包括但不限於海信愛家官方帳號、海信愛家小程式、海信電視、海信官方商城小程式、海信官方商城App、海信官方商城PC",
     "CL_CF_camera_permission_usage_instructions_title": "相機權限使用說明",
-    "CL_CF_camera_permission_usage_instructions_content": "用於執行與拍照和掃描二維碼相關的正常功能。"
+    "CL_CF_camera_permission_usage_instructions_content": "用於執行與拍照和掃描二維碼相關的正常功能。",
+    "CL_TS_switch_electricity_plan": "切換電力計劃",
+    "CL_TS_switch_electricity_tips": "您目前使用的是固定電價方案。如果您變更電價方案，目前資料將會被清除。您確定要更改嗎？"
 }
