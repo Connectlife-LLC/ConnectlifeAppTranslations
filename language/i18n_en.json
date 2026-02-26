@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "Camera Permission Usage Instructions",
     "CL_CF_camera_permission_usage_instructions_content": "For the normal use of photo taking and QR code scanning functions.",
     "CL_TS_switch_electricity_plan": "SWITCH ELECTRICITY PLAN",
-    "CL_TS_switch_electricity_tips": "You currently have a electricity rate. If you switch the rate plan, the current data will be cleared. Are you sure you want to switch?"
+    "CL_TS_switch_electricity_tips": "You currently have a electricity rate. If you switch the rate plan, the current data will be cleared. Are you sure you want to switch?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Arrival Reminder",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Leave Reminder",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Receive a notification to turn on the air conditioner when you are approaching home.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Receive a notification to turn off the air conditioner when you are leaving home."
 }

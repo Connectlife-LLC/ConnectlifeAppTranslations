@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "הוראות שימוש בהרשאת מצלמה",
     "CL_CF_camera_permission_usage_instructions_content": "הוא משמש להפעלה רגילה של פונקציות הקשורות לצילום תמונות וסריקת קודי QR",
     "CL_TS_switch_electricity_plan": "החלפת תוכנית חשמל",
-    "CL_TS_switch_electricity_tips": "יש לך כעת תעריף חשמל. אם תחליף את תוכנית התעריפים, הנתונים הנוכחיים יימחקו. האם אתה בטוח שברצונך לעבור?"
+    "CL_TS_switch_electricity_tips": "יש לך כעת תעריף חשמל. אם תחליף את תוכנית התעריפים, הנתונים הנוכחיים יימחקו. האם אתה בטוח שברצונך לעבור?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "תזכורת הגעה",
+    "CL_CF_GEO_enable_leaving_sf_notification": "תזכורת לעזיבה",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "קבלו התראה להפעלת המזגן כשאתם מתקרבים הביתה.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "קבלו התראה לכיבוי המזגן כשאתם יוצאים מהבית."
 }

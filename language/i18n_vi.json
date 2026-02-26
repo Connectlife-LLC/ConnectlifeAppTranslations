@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "Hướng dẫn sử dụng quyền truy cập camera",
     "CL_CF_camera_permission_usage_instructions_content": "Nó được sử dụng cho hoạt động bình thường của các chức năng liên quan đến chụp ảnh và quét mã QR.",
     "CL_TS_switch_electricity_plan": "KẾ HOẠCH CHUYỂN ĐỔI ĐIỆN",
-    "CL_TS_switch_electricity_tips": "Hiện tại bạn đang sử dụng gói cước điện hiện tại. Nếu bạn chuyển đổi gói cước, dữ liệu hiện tại sẽ bị xóa. Bạn có chắc chắn muốn chuyển đổi không?"
+    "CL_TS_switch_electricity_tips": "Hiện tại bạn đang sử dụng gói cước điện hiện tại. Nếu bạn chuyển đổi gói cước, dữ liệu hiện tại sẽ bị xóa. Bạn có chắc chắn muốn chuyển đổi không?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Lời nhắc đến",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Nhắc nhở rời đi",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Nhận thông báo bật điều hòa khi bạn sắp về đến nhà.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Nhận thông báo tắt máy điều hòa khi bạn rời khỏi nhà."
 }

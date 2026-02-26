@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "कैमरा अनुमति उपयोग निर्देश",
     "CL_CF_camera_permission_usage_instructions_content": "इसका उपयोग फोटो खींचने और क्यूआर कोड स्कैन करने से संबंधित कार्यों के सामान्य संचालन के लिए किया जाता है।",
     "CL_TS_switch_electricity_plan": "बिजली योजना बदलें",
-    "CL_TS_switch_electricity_tips": "आपके पास वर्तमान में एक बिजली का बिल है। यदि आप बिल बदलते हैं, तो वर्तमान डेटा हटा दिया जाएगा। क्या आप वाकई बिल बदलना चाहते हैं?"
+    "CL_TS_switch_electricity_tips": "आपके पास वर्तमान में एक बिजली का बिल है। यदि आप बिल बदलते हैं, तो वर्तमान डेटा हटा दिया जाएगा। क्या आप वाकई बिल बदलना चाहते हैं?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "आगमन अनुस्मारक",
+    "CL_CF_GEO_enable_leaving_sf_notification": "रिमाइंडर छोड़ें",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "घर के पास पहुंचने पर एयर कंडीशनर चालू करने की सूचना प्राप्त करें।",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "घर से निकलते समय एयर कंडीशनर बंद करने की सूचना प्राप्त करें।"
 }

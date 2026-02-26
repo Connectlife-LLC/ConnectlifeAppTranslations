@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "Инструкции за използване на разрешения за камера",
     "CL_CF_camera_permission_usage_instructions_content": "Използва се за нормалната работа на функции, свързани със снимане и сканиране на QR кодове.",
     "CL_TS_switch_electricity_plan": "СМЯНА НА ПЛАН ЗА ЕЛЕКТРИЧЕСТВО",
-    "CL_TS_switch_electricity_tips": "В момента имате тарифа за електричество. Ако смените тарифния план, текущите данни ще бъдат изчистени. Наистина ли искате да превключите?"
+    "CL_TS_switch_electricity_tips": "В момента имате тарифа за електричество. Ако смените тарифния план, текущите данни ще бъдат изчистени. Наистина ли искате да превключите?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "Напомняне за пристигане",
+    "CL_CF_GEO_enable_leaving_sf_notification": "Напомняне за оставяне",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "Получавайте известие за включване на климатика, когато се приближавате към дома.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Получавайте известие за изключване на климатика, когато излизате от дома."
 }

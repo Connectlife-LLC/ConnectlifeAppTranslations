@@ -8065,5 +8065,9 @@
     "CL_CF_camera_permission_usage_instructions_title": "카메라 권한 사용 안내",
     "CL_CF_camera_permission_usage_instructions_content": "이는 사진 촬영 및 QR 코드 스캔과 관련된 기능의 정상적인 작동에 사용됩니다.",
     "CL_TS_switch_electricity_plan": "스위치 전기 계획",
-    "CL_TS_switch_electricity_tips": "현재 전기 요금제를 사용하고 계십니다. 요금제를 변경하시면 현재 데이터는 삭제됩니다. 정말로 변경하시겠습니까?"
+    "CL_TS_switch_electricity_tips": "현재 전기 요금제를 사용하고 계십니다. 요금제를 변경하시면 현재 데이터는 삭제됩니다. 정말로 변경하시겠습니까?",
+    "CL_CF_GEO_enable_arriving_sf_notification": "도착 알림",
+    "CL_CF_GEO_enable_leaving_sf_notification": "알림 남기기",
+    "CL_CF_GEO_enable_arriving_sf_notification_desp": "집에 가까워지면 에어컨을 켜라는 알림을 받으세요.",
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "집을 나설 때 에어컨을 끄라는 알림을 받으세요."
 }
