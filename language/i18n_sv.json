@@ -8069,5 +8069,7 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Ankomstpåminnelse",
     "CL_CF_GEO_enable_leaving_sf_notification": "Påminnelse om att lämna",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Få en avisering om att slå på luftkonditioneringen när du närmar dig hemmet.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Få en avisering om att stänga av luftkonditioneringen när du lämnar hemmet."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Få en avisering om att stänga av luftkonditioneringen när du lämnar hemmet.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Det gick inte att ställa in den här funktionen. Luftkonditioneringen uppfyller för närvarande inte körvillkoren. Försök att ställa in den senare."
 }

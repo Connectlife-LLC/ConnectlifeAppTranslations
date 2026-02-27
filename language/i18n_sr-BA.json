@@ -8069,5 +8069,7 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Подсетник за долазак",
     "CL_CF_GEO_enable_leaving_sf_notification": "Остави подсетник",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Добијте обавештење да укључите клима уређај када се приближавате кући.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Примајте обавештење да искључите клима уређај када излазите из куће."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Примајте обавештење да искључите клима уређај када излазите из куће.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Није могуће подесити ову функцију. Клима уређај тренутно не испуњава услове извршења. Молимо покушајте да га подесите касније."
 }
