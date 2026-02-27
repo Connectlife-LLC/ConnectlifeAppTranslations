@@ -8069,5 +8069,7 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Lời nhắc đến",
     "CL_CF_GEO_enable_leaving_sf_notification": "Nhắc nhở rời đi",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Nhận thông báo bật điều hòa khi bạn sắp về đến nhà.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Nhận thông báo tắt máy điều hòa khi bạn rời khỏi nhà."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Nhận thông báo tắt máy điều hòa khi bạn rời khỏi nhà.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Không thể thiết lập chức năng này. Máy điều hòa hiện không đáp ứng các điều kiện hoạt động. Vui lòng thử thiết lập lại sau."
 }
