@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Локалната мрежа не е овластена",
     "CL_CF_CS_local_network_usage_describe": "За брзо поврзување на уредите преку Wi-Fi и Bluetooth, дозволете му на ConnectLife пристап до локалната мрежа во поставките на вашиот телефон.",
     "CL_DV_WM_About_washing_time": "За времето за перење",
-    "CL_DV_WM_About_washing_time_desc": "Ова е проценето време. Вашиот циклус интелигентно ќе се прилагоди на оптоварувањето, па затоа вистинското времетраење може да варира."
+    "CL_DV_WM_About_washing_time_desc": "Ова е проценето време. Вашиот циклус интелигентно ќе се прилагоди на оптоварувањето, па затоа вистинското времетраење може да варира.",
+    "CL_CF_location_permission_usage_instructions_title": "Упатства за користење на дозволата за локација",
+    "CL_CF_location_permission_usage_instructions_content": "За нормална употреба на блиски Wi-Fi и паметни домашни уреди."
 }

@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Lokalt nettverk er ikke autorisert",
     "CL_CF_CS_local_network_usage_describe": "For å raskt koble til enheter via Wi-Fi og Bluetooth, må du gi ConnectLife tilgang til lokalt nettverk i telefoninnstillingene.",
     "CL_DV_WM_About_washing_time": "Om vasketid",
-    "CL_DV_WM_About_washing_time_desc": "Dette er en estimert tid. Syklusen din vil intelligent tilpasse seg tøymengden, så den faktiske varigheten kan variere."
+    "CL_DV_WM_About_washing_time_desc": "Dette er en estimert tid. Syklusen din vil intelligent tilpasse seg tøymengden, så den faktiske varigheten kan variere.",
+    "CL_CF_location_permission_usage_instructions_title": "Instruksjoner for bruk av stedstillatelse",
+    "CL_CF_location_permission_usage_instructions_content": "For normal bruk av Wi-Fi og smarthjem-enheter i nærheten."
 }

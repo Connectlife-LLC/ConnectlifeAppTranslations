@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Paikallisverkko ei ole valtuutettu",
     "CL_CF_CS_local_network_usage_describe": "Jotta voit yhdistää laitteita nopeasti Wi-Fin ja Bluetoothin kautta, anna ConnectLifen käyttää lähiverkkoa puhelimesi asetuksissa.",
     "CL_DV_WM_About_washing_time": "Tietoja pesuajasta",
-    "CL_DV_WM_About_washing_time_desc": "Tämä on arvio. Pesuohjelma mukautuu älykkäästi pyykkimäärään, joten todellinen kesto voi vaihdella."
+    "CL_DV_WM_About_washing_time_desc": "Tämä on arvio. Pesuohjelma mukautuu älykkäästi pyykkimäärään, joten todellinen kesto voi vaihdella.",
+    "CL_CF_location_permission_usage_instructions_title": "Sijaintiluvan käyttöohjeet",
+    "CL_CF_location_permission_usage_instructions_content": "Lähellä olevien Wi-Fi- ja älykotilaitteiden normaaliin käyttöön."
 }

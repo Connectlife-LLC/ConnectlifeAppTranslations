@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Rangkaian Tempatan tidak dibenarkan",
     "CL_CF_CS_local_network_usage_describe": "Untuk menyambungkan peranti dengan cepat melalui Wi-Fi dan Bluetooth, sila benarkan ConnectLife mengakses Rangkaian Tempatan dalam tetapan telefon anda.",
     "CL_DV_WM_About_washing_time": "Mengenai masa mencuci",
-    "CL_DV_WM_About_washing_time_desc": "Ini adalah anggaran masa. Kitaran anda akan menyesuaikan diri dengan beban secara bijak, jadi tempoh sebenar mungkin berbeza-beza."
+    "CL_DV_WM_About_washing_time_desc": "Ini adalah anggaran masa. Kitaran anda akan menyesuaikan diri dengan beban secara bijak, jadi tempoh sebenar mungkin berbeza-beza.",
+    "CL_CF_location_permission_usage_instructions_title": "Arahan Penggunaan Kebenaran Lokasi",
+    "CL_CF_location_permission_usage_instructions_content": "Untuk kegunaan biasa Wi-Fi berdekatan dan peranti rumah pintar."
 }

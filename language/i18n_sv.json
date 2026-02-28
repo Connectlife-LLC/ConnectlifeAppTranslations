@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Lokalt nätverk är inte auktoriserat",
     "CL_CF_CS_local_network_usage_describe": "För att snabbt kunna ansluta enheter via Wi-Fi och Bluetooth, vänligen ge ConnectLife åtkomst till det lokala nätverket i dina telefoninställningar.",
     "CL_DV_WM_About_washing_time": "Om tvättid",
-    "CL_DV_WM_About_washing_time_desc": "Detta är en uppskattad tid. Din cykel kommer intelligent att anpassa sig till tvättmängden, så den faktiska tiden kan variera."
+    "CL_DV_WM_About_washing_time_desc": "Detta är en uppskattad tid. Din cykel kommer intelligent att anpassa sig till tvättmängden, så den faktiska tiden kan variera.",
+    "CL_CF_location_permission_usage_instructions_title": "Instruktioner för användning av platsbehörighet",
+    "CL_CF_location_permission_usage_instructions_content": "För normal användning av Wi-Fi och smarta hemenheter i närheten."
 }

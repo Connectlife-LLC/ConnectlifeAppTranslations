@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Жергілікті желіге рұқсат етілмеген",
     "CL_CF_CS_local_network_usage_describe": "Құрылғыларды Wi-Fi және Bluetooh арқылы жылдам қосу үшін, телефон параметрлерінде ConnectLife қызметіне жергілікті желіге кіруге рұқсат беріңіз.",
     "CL_DV_WM_About_washing_time": "Жуу уақыты туралы",
-    "CL_DV_WM_About_washing_time_desc": "Бұл шамамен алынған уақыт. Цикліңіз жүктемеге ақылды түрде бейімделеді, сондықтан нақты ұзақтық өзгеруі мүмкін."
+    "CL_DV_WM_About_washing_time_desc": "Бұл шамамен алынған уақыт. Цикліңіз жүктемеге ақылды түрде бейімделеді, сондықтан нақты ұзақтық өзгеруі мүмкін.",
+    "CL_CF_location_permission_usage_instructions_title": "Орналасқан жеріне рұқсатты пайдалану нұсқаулары",
+    "CL_CF_location_permission_usage_instructions_content": "Жақын маңдағы Wi-Fi және ақылды үй құрылғыларын қалыпты пайдалану үшін."
 }

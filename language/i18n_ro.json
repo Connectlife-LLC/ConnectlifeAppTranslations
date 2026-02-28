@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Rețea locală neautorizată",
     "CL_CF_CS_local_network_usage_describe": "Pentru a conecta rapid dispozitivele prin Wi-Fi și Bluetooth, vă rugăm să permiteți ConnectLife să acceseze rețeaua locală în setările telefonului.",
     "CL_DV_WM_About_washing_time": "Despre timpul de spălare",
-    "CL_DV_WM_About_washing_time_desc": "Acesta este un timp estimat. Ciclul se va ajusta inteligent la încărcătură, așadar durata reală poate varia."
+    "CL_DV_WM_About_washing_time_desc": "Acesta este un timp estimat. Ciclul se va ajusta inteligent la încărcătură, așadar durata reală poate varia.",
+    "CL_CF_location_permission_usage_instructions_title": "Instrucțiuni de utilizare a permisiunii de locație",
+    "CL_CF_location_permission_usage_instructions_content": "Pentru utilizarea normală a dispozitivelor Wi-Fi și a dispozitivelor inteligente pentru casă din apropiere."
 }

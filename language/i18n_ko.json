@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "로컬 네트워크가 허용되지 않았습니다.",
     "CL_CF_CS_local_network_usage_describe": "Wi-Fi 및 Bluetooth를 통해 기기를 빠르게 연결하려면 휴대폰 설정에서 ConnectLife가 로컬 네트워크에 액세스할 수 있도록 허용해 주세요.",
     "CL_DV_WM_About_washing_time": "세탁 시간에 관하여",
-    "CL_DV_WM_About_washing_time_desc": "이는 예상 시간입니다. 세탁물은 세탁량에 따라 자동으로 세탁 시간이 조절되므로 실제 소요 시간은 달라질 수 있습니다."
+    "CL_DV_WM_About_washing_time_desc": "이는 예상 시간입니다. 세탁물은 세탁량에 따라 자동으로 세탁 시간이 조절되므로 실제 소요 시간은 달라질 수 있습니다.",
+    "CL_CF_location_permission_usage_instructions_title": "위치 권한 사용 지침",
+    "CL_CF_location_permission_usage_instructions_content": "주변 와이파이 및 스마트홈 기기의 일반적인 사용을 위한 것입니다."
 }

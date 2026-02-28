@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Red local no autorizada",
     "CL_CF_CS_local_network_usage_describe": "Para conectar dispositivos rápidamente a través de Wi-Fi y Bluetooh, permita que ConnectLife acceda a la red local en la configuración de su teléfono.",
     "CL_DV_WM_About_washing_time": "Sobre el tiempo de lavado",
-    "CL_DV_WM_About_washing_time_desc": "Este es un tiempo estimado. Su ciclo se ajustará automáticamente a la carga, por lo que la duración real puede variar."
+    "CL_DV_WM_About_washing_time_desc": "Este es un tiempo estimado. Su ciclo se ajustará automáticamente a la carga, por lo que la duración real puede variar.",
+    "CL_CF_location_permission_usage_instructions_title": "Instrucciones de uso del permiso de ubicación",
+    "CL_CF_location_permission_usage_instructions_content": "Para el uso normal de redes WiFi y dispositivos domésticos inteligentes cercanos."
 }

@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "ローカルネットワークは承認されていません",
     "CL_CF_CS_local_network_usage_describe": "Wi-Fi および Bluetooth を介してデバイスをすばやく接続するには、携帯電話の設定で ConnectLife がローカル ネットワークにアクセスすることを許可してください。",
     "CL_DV_WM_About_washing_time": "洗濯時間について",
-    "CL_DV_WM_About_washing_time_desc": "これは推定時間です。サイクルは負荷に応じて自動的に調整されるため、実際の所要時間は異なる場合があります。"
+    "CL_DV_WM_About_washing_time_desc": "これは推定時間です。サイクルは負荷に応じて自動的に調整されるため、実際の所要時間は異なる場合があります。",
+    "CL_CF_location_permission_usage_instructions_title": "位置情報の利用許可に関する手順",
+    "CL_CF_location_permission_usage_instructions_content": "近くの Wi-Fi およびスマートホーム デバイスを通常どおり使用します。"
 }

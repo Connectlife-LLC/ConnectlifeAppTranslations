@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "شبکه محلی مجاز نیست",
     "CL_CF_CS_local_network_usage_describe": "برای اتصال سریع دستگاه‌ها از طریق وای‌فای و بلوتوث، لطفاً در تنظیمات گوشی خود به ConnectLife اجازه دسترسی به شبکه محلی را بدهید.",
     "CL_DV_WM_About_washing_time": "درباره زمان شستشو",
-    "CL_DV_WM_About_washing_time_desc": "این یک زمان تخمینی است. چرخه شستشو شما به طور هوشمند با میزان لباس‌ها تنظیم می‌شود، بنابراین مدت زمان واقعی ممکن است متفاوت باشد."
+    "CL_DV_WM_About_washing_time_desc": "این یک زمان تخمینی است. چرخه شستشو شما به طور هوشمند با میزان لباس‌ها تنظیم می‌شود، بنابراین مدت زمان واقعی ممکن است متفاوت باشد.",
+    "CL_CF_location_permission_usage_instructions_title": "دستورالعمل استفاده از مجوز موقعیت مکانی",
+    "CL_CF_location_permission_usage_instructions_content": "برای استفاده عادی از دستگاه‌های Wi‑Fi و خانه هوشمند نزدیک."
 }

@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "本地網路未授權",
     "CL_CF_CS_local_network_usage_describe": "為了透過 Wi-Fi 和藍牙快速連接設備，請在手機設定中允許 ConnectLife 存取本地網路。",
     "CL_DV_WM_About_washing_time": "大約洗滌時間",
-    "CL_DV_WM_About_washing_time_desc": "這是預估時間。您的洗衣程序會根據負載智慧調整，因此實際時間可能會有所不同。"
+    "CL_DV_WM_About_washing_time_desc": "這是預估時間。您的洗衣程序會根據負載智慧調整，因此實際時間可能會有所不同。",
+    "CL_CF_location_permission_usage_instructions_title": "位置權限使用說明",
+    "CL_CF_location_permission_usage_instructions_content": "用於附近 Wi-Fi 和智慧家庭設備的正常使用。"
 }

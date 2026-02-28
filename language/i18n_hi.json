@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "स्थानीय नेटवर्क अधिकृत नहीं है",
     "CL_CF_CS_local_network_usage_describe": "वाई-फाई और ब्लूटूथ के माध्यम से उपकरणों को शीघ्रता से कनेक्ट करने के लिए, कृपया अपने फ़ोन की सेटिंग में ConnectLife को स्थानीय नेटवर्क तक पहुँचने की अनुमति दें।",
     "CL_DV_WM_About_washing_time": "धोने के समय के बारे में",
-    "CL_DV_WM_About_washing_time_desc": "यह अनुमानित समय है। आपका चक्र भार के अनुसार अपने आप समायोजित हो जाएगा, इसलिए वास्तविक समय अवधि भिन्न हो सकती है।"
+    "CL_DV_WM_About_washing_time_desc": "यह अनुमानित समय है। आपका चक्र भार के अनुसार अपने आप समायोजित हो जाएगा, इसलिए वास्तविक समय अवधि भिन्न हो सकती है।",
+    "CL_CF_location_permission_usage_instructions_title": "स्थान अनुमति उपयोग निर्देश",
+    "CL_CF_location_permission_usage_instructions_content": "आस-पास के वाई-फाई और स्मार्ट होम उपकरणों के सामान्य उपयोग के लिए।"
 }

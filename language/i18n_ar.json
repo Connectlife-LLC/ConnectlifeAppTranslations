@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "الشبكة المحلية غير مصرح بها",
     "CL_CF_CS_local_network_usage_describe": "لتوصيل الأجهزة بسرعة عبر شبكة Wi-Fi وBluetooth، يرجى السماح لـ ConnectLife بالوصول إلى الشبكة المحلية في إعدادات هاتفك.",
     "CL_DV_WM_About_washing_time": "وقت الغسيل",
-    "CL_DV_WM_About_washing_time_desc": "هذا وقت تقديري. ستتكيف دورة الغسيل تلقائيًا مع الحمل، لذا قد تختلف المدة الفعلية."
+    "CL_DV_WM_About_washing_time_desc": "هذا وقت تقديري. ستتكيف دورة الغسيل تلقائيًا مع الحمل، لذا قد تختلف المدة الفعلية.",
+    "CL_CF_location_permission_usage_instructions_title": "تعليمات استخدام إذن الموقع",
+    "CL_CF_location_permission_usage_instructions_content": "للاستخدام العادي لأجهزة الواي فاي القريبة وأجهزة المنزل الذكية."
 }
