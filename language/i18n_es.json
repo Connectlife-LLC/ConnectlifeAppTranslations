@@ -7470,7 +7470,7 @@
     "CL_login_protocol_content": "Para garantizar el uso normal de la función, lea y acepte los términos y condiciones. <b>Acuerdo de usuario</b> y <b>política de privacidad</b> primero.",
     "CL_login_protocol_title": "",
     "CL_CF_CS_washing_machine_003_p_3_251219": "",
-    "CL_DV_RF_Care_Reminder": "Cuidado y recordatorio",
+    "CL_DV_RF_Care_Reminder": "Recordatorio de cuidado",
     "CL_login_delete_protocol_content": "",
     "CL_DV_RF_weather_smart_control": "Control inteligente del clima",
     "CL_CF_FW_new_fw_available": "¡Nuevo firmware disponible!",
@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Recordatorio de llegada",
     "CL_CF_GEO_enable_leaving_sf_notification": "Dejar recordatorio",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Recibe una notificación para encender el aire acondicionado cuando te acerques a casa.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Recibe una notificación para apagar el aire acondicionado cuando salgas de casa."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Recibe una notificación para apagar el aire acondicionado cuando salgas de casa.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "No se puede configurar esta función. El aire acondicionado no cumple con las condiciones de ejecución. Intente configurarlo más tarde.",
+    "CL_CS_Local_Network_not_authorized": "Red local no autorizada",
+    "CL_CF_CS_local_network_usage_describe": "Para conectar dispositivos rápidamente a través de Wi-Fi y Bluetooh, permita que ConnectLife acceda a la red local en la configuración de su teléfono.",
+    "CL_DV_WM_About_washing_time": "Sobre el tiempo de lavado",
+    "CL_DV_WM_About_washing_time_desc": "Este es un tiempo estimado. Su ciclo se ajustará automáticamente a la carga, por lo que la duración real puede variar."
 }
