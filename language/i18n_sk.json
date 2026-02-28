@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Pripomienka príchodu",
     "CL_CF_GEO_enable_leaving_sf_notification": "Pripomenutie odchodu",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Dostávajte upozornenie na zapnutie klimatizácie, keď sa blížite domov.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Dostávajte upozornenie na vypnutie klimatizácie, keď odchádzate z domu."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Dostávajte upozornenie na vypnutie klimatizácie, keď odchádzate z domu.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Túto funkciu nie je možné nastaviť. Klimatizácia momentálne nespĺňa podmienky vykonania. Skúste ju nastaviť neskôr.",
+    "CL_CS_Local_Network_not_authorized": "Lokálna sieť nie je autorizovaná",
+    "CL_CF_CS_local_network_usage_describe": "Pre rýchle pripojenie zariadení cez Wi-Fi a Bluetooth povoľte v nastaveniach telefónu aplikácii ConnectLife prístup k lokálnej sieti.",
+    "CL_DV_WM_About_washing_time": "O čase prania",
+    "CL_DV_WM_About_washing_time_desc": "Toto je odhadovaný čas. Váš cyklus sa inteligentne prispôsobí náplni, takže skutočný čas sa môže líšiť."
 }

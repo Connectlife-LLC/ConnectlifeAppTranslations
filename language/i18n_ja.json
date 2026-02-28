@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "到着リマインダー",
     "CL_CF_GEO_enable_leaving_sf_notification": "休暇リマインダー",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "家に近づくとエアコンをオンにするように通知を受け取ります。",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "外出時にエアコンをオフにするよう通知を受け取ります。"
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "外出時にエアコンをオフにするよう通知を受け取ります。",
+    "CL_AC_ai_leave_home_air": "不在节电",
+    "CL_AC_leave_conditions_error_tips": "この機能を設定できません。現在、エアコンが実行条件を満たしていません。後ほど設定をお試しください。",
+    "CL_CS_Local_Network_not_authorized": "ローカルネットワークは承認されていません",
+    "CL_CF_CS_local_network_usage_describe": "Wi-Fi および Bluetooth を介してデバイスをすばやく接続するには、携帯電話の設定で ConnectLife がローカル ネットワークにアクセスすることを許可してください。",
+    "CL_DV_WM_About_washing_time": "洗濯時間について",
+    "CL_DV_WM_About_washing_time_desc": "これは推定時間です。サイクルは負荷に応じて自動的に調整されるため、実際の所要時間は異なる場合があります。"
 }

@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Напомняне за пристигане",
     "CL_CF_GEO_enable_leaving_sf_notification": "Напомняне за оставяне",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Получавайте известие за включване на климатика, когато се приближавате към дома.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Получавайте известие за изключване на климатика, когато излизате от дома."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Получавайте известие за изключване на климатика, когато излизате от дома.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Невъзможно е да се настрои тази функция. Климатикът в момента не отговаря на условията за изпълнение. Моля, опитайте да го настроите по-късно.",
+    "CL_CS_Local_Network_not_authorized": "Локалната мрежа не е оторизирана",
+    "CL_CF_CS_local_network_usage_describe": "За да свържете устройства бързо чрез Wi-Fi и Bluetooth, моля, разрешете на ConnectLife достъп до локалната мрежа в настройките на телефона си.",
+    "CL_DV_WM_About_washing_time": "Относно времето за пране",
+    "CL_DV_WM_About_washing_time_desc": "Това е приблизително време. Вашият цикъл ще се настрои интелигентно спрямо натоварването, така че действителната продължителност може да варира."
 }

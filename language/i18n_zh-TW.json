@@ -8065,9 +8065,15 @@
     "CL_CF_camera_permission_usage_instructions_title": "相機權限使用說明",
     "CL_CF_camera_permission_usage_instructions_content": "用於執行與拍照和掃描二維碼相關的正常功能。",
     "CL_TS_switch_electricity_plan": "切換電力計劃",
-    "CL_TS_switch_electricity_tips": "您目前使用的是固定電價方案。如果您變更電價方案，目前資料將會被清除。您確定要更改嗎？",
+    "CL_TS_switch_electricity_tips": "你現在已經有一個電費計畫方案。如果您變更電價方案，目前資料將會被清除。您確定要更改嗎？",
     "CL_CF_GEO_enable_arriving_sf_notification": "到達提醒",
     "CL_CF_GEO_enable_leaving_sf_notification": "离开提醒",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "當您快到家時，收到開啟空調的通知。",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "離開家時收到關閉空調的通知。"
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "離開家時收到關閉空調的通知。",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "無法設定此功能。空調目前不滿足執行條件。請稍後再試。",
+    "CL_CS_Local_Network_not_authorized": "本地網路未授權",
+    "CL_CF_CS_local_network_usage_describe": "為了透過 Wi-Fi 和藍牙快速連接設備，請在手機設定中允許 ConnectLife 存取本地網路。",
+    "CL_DV_WM_About_washing_time": "大約洗滌時間",
+    "CL_DV_WM_About_washing_time_desc": "這是預估時間。您的洗衣程序會根據負載智慧調整，因此實際時間可能會有所不同。"
 }
