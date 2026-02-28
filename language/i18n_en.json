@@ -6868,7 +6868,7 @@
     "CL_ENERGY_MD_ai_mode": "AI ECO mode",
     "CL_ENERGY_MD_self_consumption": "Self-Consumption",
     "CL_ENERGY_MD_time_of_use": "TOU (Time-of-use)",
-    "CL_ENERGY_MD_full_backup": "Full backup",
+    "CL_ENERGY_MD_full_backup": "Battery Priority",
     "CL_ENERGY_MD_backup_reserve": "Backup Reserve",
     "CL_ENERGY_MD_ai_mode_tips": "Automatically optimizes battery cycles based on electricity rates & weather to save you money.",
     "CL_ENERGY_MD_add_time_period": "Add Time Period",
@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Local Network not authorized",
     "CL_CF_CS_local_network_usage_describe": "In order to connect devices quickly through Wi-Fi and Bluetooh, please allow ConnectLife to access Local Network in your phone settings.",
     "CL_DV_WM_About_washing_time": "About washing time",
-    "CL_DV_WM_About_washing_time_desc": "This is an estimated time. Your cycle will intelligently adjust to the load, so the actual duration may vary."
+    "CL_DV_WM_About_washing_time_desc": "This is an estimated time. Your cycle will intelligently adjust to the load, so the actual duration may vary.",
+    "CL_CF_location_permission_usage_instructions_title": "Location Permission Usage Instructions",
+    "CL_CF_location_permission_usage_instructions_content": "For the normal use of nearby Wi‑Fi and smart home devices."
 }

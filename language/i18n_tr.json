@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Yerel ağ yetkilendirilmemiş.",
     "CL_CF_CS_local_network_usage_describe": "Cihazları Wi-Fi ve Bluetooth üzerinden hızlı bir şekilde bağlamak için lütfen telefonunuzun ayarlarından ConnectLife'ın Yerel Ağa erişmesine izin verin.",
     "CL_DV_WM_About_washing_time": "Yıkama zamanı hakkında",
-    "CL_DV_WM_About_washing_time_desc": "Bu tahmini bir süredir. Döngünüz yükü dikkate alarak akıllıca kendini ayarlayacaktır, bu nedenle gerçek süre değişebilir."
+    "CL_DV_WM_About_washing_time_desc": "Bu tahmini bir süredir. Döngünüz yükü dikkate alarak akıllıca kendini ayarlayacaktır, bu nedenle gerçek süre değişebilir.",
+    "CL_CF_location_permission_usage_instructions_title": "Konum İzni Kullanım Talimatları",
+    "CL_CF_location_permission_usage_instructions_content": "Yakındaki Wi-Fi ağlarının ve akıllı ev cihazlarının normal kullanımı için."
 }

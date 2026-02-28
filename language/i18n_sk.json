@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Lokálna sieť nie je autorizovaná",
     "CL_CF_CS_local_network_usage_describe": "Pre rýchle pripojenie zariadení cez Wi-Fi a Bluetooth povoľte v nastaveniach telefónu aplikácii ConnectLife prístup k lokálnej sieti.",
     "CL_DV_WM_About_washing_time": "O čase prania",
-    "CL_DV_WM_About_washing_time_desc": "Toto je odhadovaný čas. Váš cyklus sa inteligentne prispôsobí náplni, takže skutočný čas sa môže líšiť."
+    "CL_DV_WM_About_washing_time_desc": "Toto je odhadovaný čas. Váš cyklus sa inteligentne prispôsobí náplni, takže skutočný čas sa môže líšiť.",
+    "CL_CF_location_permission_usage_instructions_title": "Pokyny na používanie povolení na umiestnenie",
+    "CL_CF_location_permission_usage_instructions_content": "Na bežné používanie blízkych Wi-Fi sietí a inteligentných domácich zariadení."
 }

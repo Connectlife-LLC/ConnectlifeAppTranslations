@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Helyi hálózat nincs engedélyezve",
     "CL_CF_CS_local_network_usage_describe": "Az eszközök Wi-Fi-n és Bluetooth-on keresztüli gyors csatlakoztatásához engedélyezze a ConnectLife számára a helyi hálózat elérését a telefon beállításaiban.",
     "CL_DV_WM_About_washing_time": "A mosási időről",
-    "CL_DV_WM_About_washing_time_desc": "Ez egy becsült idő. A ciklus intelligensen alkalmazkodik a töltethez, így a tényleges időtartam eltérhet."
+    "CL_DV_WM_About_washing_time_desc": "Ez egy becsült idő. A ciklus intelligensen alkalmazkodik a töltethez, így a tényleges időtartam eltérhet.",
+    "CL_CF_location_permission_usage_instructions_title": "Helymeghatározási engedély használati utasításai",
+    "CL_CF_location_permission_usage_instructions_content": "A közeli Wi-Fi és okosotthoni eszközök normál használatához."
 }

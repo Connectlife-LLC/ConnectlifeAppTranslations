@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Jaringan lokal tidak diizinkan",
     "CL_CF_CS_local_network_usage_describe": "Agar perangkat dapat terhubung dengan cepat melalui Wi-Fi dan Bluetooth, harap izinkan ConnectLife untuk mengakses Jaringan Lokal di pengaturan ponsel Anda.",
     "CL_DV_WM_About_washing_time": "Tentang waktu mencuci",
-    "CL_DV_WM_About_washing_time_desc": "Ini adalah perkiraan waktu. Siklus Anda akan menyesuaikan diri secara cerdas dengan beban, sehingga durasi sebenarnya mungkin berbeda."
+    "CL_DV_WM_About_washing_time_desc": "Ini adalah perkiraan waktu. Siklus Anda akan menyesuaikan diri secara cerdas dengan beban, sehingga durasi sebenarnya mungkin berbeda.",
+    "CL_CF_location_permission_usage_instructions_title": "Petunjuk Penggunaan Izin Lokasi",
+    "CL_CF_location_permission_usage_instructions_content": "Untuk penggunaan normal Wi-Fi dan perangkat rumah pintar di sekitarnya."
 }

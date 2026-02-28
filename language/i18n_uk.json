@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Локальна мережа не авторизована",
     "CL_CF_CS_local_network_usage_describe": "Щоб швидко підключати пристрої через Wi-Fi та Bluetooth, дозвольте ConnectLife доступ до локальної мережі в налаштуваннях телефону.",
     "CL_DV_WM_About_washing_time": "Про час прання",
-    "CL_DV_WM_About_washing_time_desc": "Це приблизний час. Ваш цикл автоматично налаштується залежно від завантаження, тому фактична тривалість може відрізнятися."
+    "CL_DV_WM_About_washing_time_desc": "Це приблизний час. Ваш цикл автоматично налаштується залежно від завантаження, тому фактична тривалість може відрізнятися.",
+    "CL_CF_location_permission_usage_instructions_title": "Інструкції щодо використання дозволів на розташування",
+    "CL_CF_location_permission_usage_instructions_content": "Для звичайного використання Wi-Fi та пристроїв розумного дому поблизу."
 }

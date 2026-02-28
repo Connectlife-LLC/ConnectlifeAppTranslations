@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Локална мрежа није овлашћена",
     "CL_CF_CS_local_network_usage_describe": "Да бисте брзо повезали уређаје путем Wi-Fi-ја и Bluetooth-а, дозволите ConnectLife-у приступ локалној мрежи у подешавањима телефона.",
     "CL_DV_WM_About_washing_time": "О времену прања",
-    "CL_DV_WM_About_washing_time_desc": "Ово је процењено време. Ваш циклус ће се интелигентно прилагодити количини веша, тако да стварно трајање може да варира."
+    "CL_DV_WM_About_washing_time_desc": "Ово је процењено време. Ваш циклус ће се интелигентно прилагодити количини веша, тако да стварно трајање може да варира.",
+    "CL_CF_location_permission_usage_instructions_title": "Упутства за коришћење дозволе за локацију",
+    "CL_CF_location_permission_usage_instructions_content": "За нормално коришћење оближњих Wi-Fi и паметних кућних уређаја."
 }

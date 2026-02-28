@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Lokaal netwerk niet geautoriseerd",
     "CL_CF_CS_local_network_usage_describe": "Om apparaten snel via wifi en Bluetooth te verbinden, moet u ConnectLife toegang geven tot het lokale netwerk in de instellingen van uw telefoon.",
     "CL_DV_WM_About_washing_time": "Over wastijd",
-    "CL_DV_WM_About_washing_time_desc": "Dit is een geschatte tijd. Uw apparaat past zich intelligent aan de belasting aan, dus de werkelijke duur kan variëren."
+    "CL_DV_WM_About_washing_time_desc": "Dit is een geschatte tijd. Uw apparaat past zich intelligent aan de belasting aan, dus de werkelijke duur kan variëren.",
+    "CL_CF_location_permission_usage_instructions_title": "Gebruiksaanwijzing voor locatietoegang",
+    "CL_CF_location_permission_usage_instructions_content": "Voor normaal gebruik van wifi in de buurt en slimme apparaten voor thuis."
 }

@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Rede local não autorizada",
     "CL_CF_CS_local_network_usage_describe": "Para conectar dispositivos rapidamente via Wi-Fi e Bluetooth, permita que o ConnectLife acesse a rede local nas configurações do seu telefone.",
     "CL_DV_WM_About_washing_time": "Sobre a hora de lavar",
-    "CL_DV_WM_About_washing_time_desc": "Este é um tempo estimado. Seu ciclo se ajustará automaticamente à carga, portanto, a duração real pode variar."
+    "CL_DV_WM_About_washing_time_desc": "Este é um tempo estimado. Seu ciclo se ajustará automaticamente à carga, portanto, a duração real pode variar.",
+    "CL_CF_location_permission_usage_instructions_title": "Instruções de uso da permissão de localização",
+    "CL_CF_location_permission_usage_instructions_content": "Para o uso normal de Wi-Fi próximo e dispositivos domésticos inteligentes."
 }

@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Réseau local non autorisé",
     "CL_CF_CS_local_network_usage_describe": "Pour connecter rapidement vos appareils via Wi-Fi et Bluetooth, veuillez autoriser ConnectLife à accéder au réseau local dans les paramètres de votre téléphone.",
     "CL_DV_WM_About_washing_time": "À propos du temps de lavage",
-    "CL_DV_WM_About_washing_time_desc": "Il s'agit d'une durée estimée. Votre vélo s'adaptera automatiquement à l'effort, la durée réelle peut donc varier."
+    "CL_DV_WM_About_washing_time_desc": "Il s'agit d'une durée estimée. Votre vélo s'adaptera automatiquement à l'effort, la durée réelle peut donc varier.",
+    "CL_CF_location_permission_usage_instructions_title": "Instructions d'utilisation de l'autorisation de localisation",
+    "CL_CF_location_permission_usage_instructions_content": "Pour une utilisation normale du Wi-Fi et des appareils domotiques à proximité."
 }

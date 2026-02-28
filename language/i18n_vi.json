@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Mạng cục bộ không được phép",
     "CL_CF_CS_local_network_usage_describe": "Để kết nối thiết bị nhanh chóng qua Wi-Fi và Bluetooth, vui lòng cho phép ConnectLife truy cập Mạng cục bộ trong cài đặt điện thoại của bạn.",
     "CL_DV_WM_About_washing_time": "Khoảng thời gian giặt giũ",
-    "CL_DV_WM_About_washing_time_desc": "Đây là thời gian ước tính. Chu trình giặt sẽ tự động điều chỉnh theo tải trọng, vì vậy thời gian thực tế có thể thay đổi."
+    "CL_DV_WM_About_washing_time_desc": "Đây là thời gian ước tính. Chu trình giặt sẽ tự động điều chỉnh theo tải trọng, vì vậy thời gian thực tế có thể thay đổi.",
+    "CL_CF_location_permission_usage_instructions_title": "Hướng dẫn sử dụng quyền truy cập vị trí",
+    "CL_CF_location_permission_usage_instructions_content": "Dành cho việc sử dụng thông thường các thiết bị Wi-Fi và nhà thông minh trong khu vực."
 }

@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "רשת מקומית לא מורשית",
     "CL_CF_CS_local_network_usage_describe": "כדי לחבר מכשירים במהירות דרך Wi-Fi ו-Bluetooth, אנא אפשר ל-ConnectLife גישה לרשת המקומית בהגדרות הטלפון שלך.",
     "CL_DV_WM_About_washing_time": "לגבי זמן הכביסה",
-    "CL_DV_WM_About_washing_time_desc": "זהו זמן משוער. מחזור הכביסה שלך יתאים את עצמו לעומס הכביסה באופן חכם, כך שמשך הזמן בפועל עשוי להשתנות."
+    "CL_DV_WM_About_washing_time_desc": "זהו זמן משוער. מחזור הכביסה שלך יתאים את עצמו לעומס הכביסה באופן חכם, כך שמשך הזמן בפועל עשוי להשתנות.",
+    "CL_CF_location_permission_usage_instructions_title": "הוראות שימוש בהרשאת מיקום",
+    "CL_CF_location_permission_usage_instructions_content": "לשימוש רגיל ב-Wi-Fi ובמכשירי בית חכם בקרבת מקום."
 }

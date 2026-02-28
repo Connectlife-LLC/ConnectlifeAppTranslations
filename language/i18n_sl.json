@@ -8075,5 +8075,7 @@
     "CL_CS_Local_Network_not_authorized": "Lokalno omrežje ni pooblaščeno",
     "CL_CF_CS_local_network_usage_describe": "Za hitro povezavo naprav prek omrežja Wi-Fi in Bluetooth v nastavitvah telefona dovolite aplikaciji ConnectLife dostop do lokalnega omrežja.",
     "CL_DV_WM_About_washing_time": "O času pranja",
-    "CL_DV_WM_About_washing_time_desc": "To je ocenjeni čas. Vaš cikel se bo inteligentno prilagodil obremenitvi, zato se lahko dejansko trajanje razlikuje."
+    "CL_DV_WM_About_washing_time_desc": "To je ocenjeni čas. Vaš cikel se bo inteligentno prilagodil obremenitvi, zato se lahko dejansko trajanje razlikuje.",
+    "CL_CF_location_permission_usage_instructions_title": "Navodila za uporabo dovoljenj za lokacijo",
+    "CL_CF_location_permission_usage_instructions_content": "Za običajno uporabo bližnjih omrežij Wi-Fi in pametnih domačih naprav."
 }
