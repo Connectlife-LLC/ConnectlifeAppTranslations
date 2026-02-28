@@ -7470,7 +7470,7 @@
     "CL_login_protocol_content": "لضمان الاستخدام السليم لهذه الخاصية، يرجى قراءة الشروط والأحكام والموافقة عليها. <b>اتفاقية المستخدم</b> و <b>سياسة الخصوصية</b> أولاً.",
     "CL_login_protocol_title": "",
     "CL_CF_CS_washing_machine_003_p_3_251219": "",
-    "CL_DV_RF_Care_Reminder": "الرعاية والتذكير",
+    "CL_DV_RF_Care_Reminder": "تذكير بالرعاية",
     "CL_login_delete_protocol_content": "",
     "CL_DV_RF_weather_smart_control": "التحكم الذكي في الطقس",
     "CL_CF_FW_new_fw_available": "البرامج الثابتة الجديدة متاحة!",
@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "تذكير بالوصول",
     "CL_CF_GEO_enable_leaving_sf_notification": "تذكير بالمغادرة",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "ستتلقى إشعارًا لتشغيل مكيف الهواء عند اقترابك من المنزل.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "ستتلقى إشعارًا لإيقاف تشغيل مكيف الهواء عند مغادرتك المنزل."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "ستتلقى إشعارًا لإيقاف تشغيل مكيف الهواء عند مغادرتك المنزل.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "تعذر ضبط هذه الوظيفة. لا يستوفي مكيف الهواء حاليًا شروط التشغيل. يرجى محاولة ضبطها لاحقًا.",
+    "CL_CS_Local_Network_not_authorized": "الشبكة المحلية غير مصرح بها",
+    "CL_CF_CS_local_network_usage_describe": "لتوصيل الأجهزة بسرعة عبر شبكة Wi-Fi وBluetooth، يرجى السماح لـ ConnectLife بالوصول إلى الشبكة المحلية في إعدادات هاتفك.",
+    "CL_DV_WM_About_washing_time": "وقت الغسيل",
+    "CL_DV_WM_About_washing_time_desc": "هذا وقت تقديري. ستتكيف دورة الغسيل تلقائيًا مع الحمل، لذا قد تختلف المدة الفعلية."
 }

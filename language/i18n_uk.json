@@ -7470,7 +7470,7 @@
     "CL_login_protocol_content": "Щоб забезпечити нормальне використання функції, будь ласка, прочитайте та погодьтеся з <b>Угода користувача</b> і <b>Політика конфіденційності</b> перший.",
     "CL_login_protocol_title": "",
     "CL_CF_CS_washing_machine_003_p_3_251219": "",
-    "CL_DV_RF_Care_Reminder": "Турбота та нагадування",
+    "CL_DV_RF_Care_Reminder": "Нагадування про догляд",
     "CL_login_delete_protocol_content": "",
     "CL_DV_RF_weather_smart_control": "Розумне керування погодою",
     "CL_CF_FW_new_fw_available": "Доступна нова мікропрограма!",
@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Нагадування про прибуття",
     "CL_CF_GEO_enable_leaving_sf_notification": "Залишити нагадування",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Отримуйте сповіщення про необхідність увімкнути кондиціонер, коли ви наближаєтеся додому.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Отримуйте сповіщення про необхідність вимкнути кондиціонер, коли виходите з дому."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Отримуйте сповіщення про необхідність вимкнути кондиціонер, коли виходите з дому.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Не вдається налаштувати цю функцію. Кондиціонер наразі не відповідає умовам виконання. Будь ласка, спробуйте налаштувати його пізніше.",
+    "CL_CS_Local_Network_not_authorized": "Локальна мережа не авторизована",
+    "CL_CF_CS_local_network_usage_describe": "Щоб швидко підключати пристрої через Wi-Fi та Bluetooth, дозвольте ConnectLife доступ до локальної мережі в налаштуваннях телефону.",
+    "CL_DV_WM_About_washing_time": "Про час прання",
+    "CL_DV_WM_About_washing_time_desc": "Це приблизний час. Ваш цикл автоматично налаштується залежно від завантаження, тому фактична тривалість може відрізнятися."
 }

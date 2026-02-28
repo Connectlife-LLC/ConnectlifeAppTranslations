@@ -7470,7 +7470,7 @@
     "CL_login_protocol_content": "Toiminnon normaalin käytön varmistamiseksi lue ja hyväksy käyttöehdot. <b>Käyttäjäsopimus</b> ja <b>Tietosuojakäytäntö</b> ensimmäinen.",
     "CL_login_protocol_title": "",
     "CL_CF_CS_washing_machine_003_p_3_251219": "",
-    "CL_DV_RF_Care_Reminder": "Huolenpito ja muistutus",
+    "CL_DV_RF_Care_Reminder": "Hoitomuistutus",
     "CL_login_delete_protocol_content": "",
     "CL_DV_RF_weather_smart_control": "Sään älykäs ohjaus",
     "CL_CF_FW_new_fw_available": "Uusi laiteohjelmisto saatavilla!",
@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Saapumismuistutus",
     "CL_CF_GEO_enable_leaving_sf_notification": "Jätä muistutus",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Saat ilmoituksen ilmastoinnin käynnistämisestä, kun lähestyt kotia.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Saat ilmoituksen ilmastointilaitteen sammuttamisesta, kun poistut kotoa."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Saat ilmoituksen ilmastointilaitteen sammuttamisesta, kun poistut kotoa.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Tätä toimintoa ei voida asettaa. Ilmastointilaite ei tällä hetkellä täytä suoritusehtoja. Yritä asettaa se myöhemmin.",
+    "CL_CS_Local_Network_not_authorized": "Paikallisverkko ei ole valtuutettu",
+    "CL_CF_CS_local_network_usage_describe": "Jotta voit yhdistää laitteita nopeasti Wi-Fin ja Bluetoothin kautta, anna ConnectLifen käyttää lähiverkkoa puhelimesi asetuksissa.",
+    "CL_DV_WM_About_washing_time": "Tietoja pesuajasta",
+    "CL_DV_WM_About_washing_time_desc": "Tämä on arvio. Pesuohjelma mukautuu älykkäästi pyykkimäärään, joten todellinen kesto voi vaihdella."
 }

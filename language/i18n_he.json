@@ -7470,7 +7470,7 @@
     "CL_login_protocol_content": "כדי להבטיח שימוש תקין בפונקציה, אנא קראו והסכימו לתנאים <b>הסכם משתמש</b> ו <b>מדיניות פרטיות</b> רֵאשִׁית.",
     "CL_login_protocol_title": "",
     "CL_CF_CS_washing_machine_003_p_3_251219": "",
-    "CL_DV_RF_Care_Reminder": "טיפול ותזכורת",
+    "CL_DV_RF_Care_Reminder": "תזכורת טיפול",
     "CL_login_delete_protocol_content": "",
     "CL_DV_RF_weather_smart_control": "בקרת מזג אוויר חכמה",
     "CL_CF_FW_new_fw_available": "קושחה חדשה זמינה!",
@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "תזכורת הגעה",
     "CL_CF_GEO_enable_leaving_sf_notification": "תזכורת לעזיבה",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "קבלו התראה להפעלת המזגן כשאתם מתקרבים הביתה.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "קבלו התראה לכיבוי המזגן כשאתם יוצאים מהבית."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "קבלו התראה לכיבוי המזגן כשאתם יוצאים מהבית.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "לא ניתן להגדיר פונקציה זו. המזגן אינו עומד כעת בתנאי הביצוע. אנא נסה להגדיר אותה מאוחר יותר.",
+    "CL_CS_Local_Network_not_authorized": "רשת מקומית לא מורשית",
+    "CL_CF_CS_local_network_usage_describe": "כדי לחבר מכשירים במהירות דרך Wi-Fi ו-Bluetooth, אנא אפשר ל-ConnectLife גישה לרשת המקומית בהגדרות הטלפון שלך.",
+    "CL_DV_WM_About_washing_time": "לגבי זמן הכביסה",
+    "CL_DV_WM_About_washing_time_desc": "זהו זמן משוער. מחזור הכביסה שלך יתאים את עצמו לעומס הכביסה באופן חכם, כך שמשך הזמן בפועל עשוי להשתנות."
 }

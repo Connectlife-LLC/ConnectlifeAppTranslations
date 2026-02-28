@@ -7470,7 +7470,7 @@
     "CL_login_protocol_content": "A funkció normál használatának biztosítása érdekében kérjük, olvassa el és fogadja el a <b>Felhasználói szerződés</b> és <b>Adatvédelmi irányelvek</b> első.",
     "CL_login_protocol_title": "",
     "CL_CF_CS_washing_machine_003_p_3_251219": "",
-    "CL_DV_RF_Care_Reminder": "Gondoskodás és emlékeztető",
+    "CL_DV_RF_Care_Reminder": "Gondoskodási emlékeztető",
     "CL_login_delete_protocol_content": "",
     "CL_DV_RF_weather_smart_control": "Időjárás-okos vezérlés",
     "CL_CF_FW_new_fw_available": "Új firmware elérhető!",
@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Érkezési emlékeztető",
     "CL_CF_GEO_enable_leaving_sf_notification": "Emlékeztető hagyása",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Értesítést kaphat a légkondicionáló bekapcsolásáról, amikor hazaér.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Értesítést kaphat a légkondicionáló kikapcsolásáról, amikor elhagyja otthonát."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Értesítést kaphat a légkondicionáló kikapcsolásáról, amikor elhagyja otthonát.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Nem sikerült beállítani ezt a funkciót. A légkondicionáló jelenleg nem felel meg a végrehajtási feltételeknek. Próbálja meg később beállítani.",
+    "CL_CS_Local_Network_not_authorized": "Helyi hálózat nincs engedélyezve",
+    "CL_CF_CS_local_network_usage_describe": "Az eszközök Wi-Fi-n és Bluetooth-on keresztüli gyors csatlakoztatásához engedélyezze a ConnectLife számára a helyi hálózat elérését a telefon beállításaiban.",
+    "CL_DV_WM_About_washing_time": "A mosási időről",
+    "CL_DV_WM_About_washing_time_desc": "Ez egy becsült idő. A ciklus intelligensen alkalmazkodik a töltethez, így a tényleges időtartam eltérhet."
 }

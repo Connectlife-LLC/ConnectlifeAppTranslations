@@ -7470,7 +7470,7 @@
     "CL_login_protocol_content": "Để đảm bảo chức năng hoạt động bình thường, vui lòng đọc và đồng ý với các điều khoản sau: <b>Thỏa thuận người dùng</b> Và <b>Chính sách bảo mật</b> Đầu tiên.",
     "CL_login_protocol_title": "",
     "CL_CF_CS_washing_machine_003_p_3_251219": "",
-    "CL_DV_RF_Care_Reminder": "Sự quan tâm và nhắc nhở",
+    "CL_DV_RF_Care_Reminder": "Lời nhắc nhở chăm sóc",
     "CL_login_delete_protocol_content": "",
     "CL_DV_RF_weather_smart_control": "Điều khiển thông minh theo thời tiết",
     "CL_CF_FW_new_fw_available": "Đã có phần mềm mới!",
@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Lời nhắc đến",
     "CL_CF_GEO_enable_leaving_sf_notification": "Nhắc nhở rời đi",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Nhận thông báo bật điều hòa khi bạn sắp về đến nhà.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Nhận thông báo tắt máy điều hòa khi bạn rời khỏi nhà."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Nhận thông báo tắt máy điều hòa khi bạn rời khỏi nhà.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Không thể thiết lập chức năng này. Máy điều hòa hiện không đáp ứng các điều kiện hoạt động. Vui lòng thử thiết lập lại sau.",
+    "CL_CS_Local_Network_not_authorized": "Mạng cục bộ không được phép",
+    "CL_CF_CS_local_network_usage_describe": "Để kết nối thiết bị nhanh chóng qua Wi-Fi và Bluetooth, vui lòng cho phép ConnectLife truy cập Mạng cục bộ trong cài đặt điện thoại của bạn.",
+    "CL_DV_WM_About_washing_time": "Khoảng thời gian giặt giũ",
+    "CL_DV_WM_About_washing_time_desc": "Đây là thời gian ước tính. Chu trình giặt sẽ tự động điều chỉnh theo tải trọng, vì vậy thời gian thực tế có thể thay đổi."
 }

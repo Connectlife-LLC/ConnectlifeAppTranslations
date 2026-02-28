@@ -7470,7 +7470,7 @@
     "CL_login_protocol_content": "For at sikre normal brug af funktionen bedes du læse og acceptere <b>Brugeraftale</b> og <b>Privatlivspolitik</b> først.",
     "CL_login_protocol_title": "",
     "CL_CF_CS_washing_machine_003_p_3_251219": "",
-    "CL_DV_RF_Care_Reminder": "Omsorg og påmindelse",
+    "CL_DV_RF_Care_Reminder": "Plejepåmindelse",
     "CL_login_delete_protocol_content": "",
     "CL_DV_RF_weather_smart_control": "Smart Vejrkontrol",
     "CL_CF_FW_new_fw_available": "Ny firmware tilgængelig!",
@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Ankomstpåmindelse",
     "CL_CF_GEO_enable_leaving_sf_notification": "Påmindelse om afgang",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Modtag en notifikation om at tænde klimaanlægget, når du nærmer dig dit hjem.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Modtag en notifikation om at slukke for klimaanlægget, når du forlader hjemmet."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Modtag en notifikation om at slukke for klimaanlægget, når du forlader hjemmet.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Denne funktion kan ikke indstilles. Klimaanlægget opfylder i øjeblikket ikke udførelsesbetingelserne. Prøv at indstille den senere.",
+    "CL_CS_Local_Network_not_authorized": "Lokalt netværk er ikke godkendt",
+    "CL_CF_CS_local_network_usage_describe": "For hurtigt at kunne forbinde enheder via Wi-Fi og Bluetooth, skal du give ConnectLife adgang til det lokale netværk i dine telefonindstillinger.",
+    "CL_DV_WM_About_washing_time": "Om vasketid",
+    "CL_DV_WM_About_washing_time_desc": "Dette er en estimeret tid. Dit program vil intelligent tilpasse sig tøjmængden, så den faktiske varighed kan variere."
 }
