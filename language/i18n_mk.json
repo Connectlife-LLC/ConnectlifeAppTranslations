@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Потсетник за пристигнување",
     "CL_CF_GEO_enable_leaving_sf_notification": "Потсетник за напуштање",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Добијте известување за вклучување на клима уредот кога се приближувате кон дома.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Добијте известување за исклучување на клима уредот кога излегувате од дома."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Добијте известување за исклучување на клима уредот кога излегувате од дома.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Не може да се постави оваа функција. Клима уредот моментално не ги исполнува условите за извршување. Обидете се да го поставите подоцна.",
+    "CL_CS_Local_Network_not_authorized": "Локалната мрежа не е овластена",
+    "CL_CF_CS_local_network_usage_describe": "За брзо поврзување на уредите преку Wi-Fi и Bluetooth, дозволете му на ConnectLife пристап до локалната мрежа во поставките на вашиот телефон.",
+    "CL_DV_WM_About_washing_time": "За времето за перење",
+    "CL_DV_WM_About_washing_time_desc": "Ова е проценето време. Вашиот циклус интелигентно ќе се прилагоди на оптоварувањето, па затоа вистинското времетраење може да варира."
 }

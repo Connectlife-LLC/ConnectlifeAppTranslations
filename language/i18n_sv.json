@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "Ankomstpåminnelse",
     "CL_CF_GEO_enable_leaving_sf_notification": "Påminnelse om att lämna",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "Få en avisering om att slå på luftkonditioneringen när du närmar dig hemmet.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Få en avisering om att stänga av luftkonditioneringen när du lämnar hemmet."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "Få en avisering om att stänga av luftkonditioneringen när du lämnar hemmet.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "Det gick inte att ställa in den här funktionen. Luftkonditioneringen uppfyller för närvarande inte körvillkoren. Försök att ställa in den senare.",
+    "CL_CS_Local_Network_not_authorized": "Lokalt nätverk är inte auktoriserat",
+    "CL_CF_CS_local_network_usage_describe": "För att snabbt kunna ansluta enheter via Wi-Fi och Bluetooth, vänligen ge ConnectLife åtkomst till det lokala nätverket i dina telefoninställningar.",
+    "CL_DV_WM_About_washing_time": "Om tvättid",
+    "CL_DV_WM_About_washing_time_desc": "Detta är en uppskattad tid. Din cykel kommer intelligent att anpassa sig till tvättmängden, så den faktiska tiden kan variera."
 }

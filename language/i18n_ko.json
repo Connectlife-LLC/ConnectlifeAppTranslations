@@ -8069,5 +8069,11 @@
     "CL_CF_GEO_enable_arriving_sf_notification": "도착 알림",
     "CL_CF_GEO_enable_leaving_sf_notification": "알림 남기기",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "집에 가까워지면 에어컨을 켜라는 알림을 받으세요.",
-    "CL_CF_GEO_enable_leaving_sf_notification_desp": "집을 나설 때 에어컨을 끄라는 알림을 받으세요."
+    "CL_CF_GEO_enable_leaving_sf_notification_desp": "집을 나설 때 에어컨을 끄라는 알림을 받으세요.",
+    "CL_AC_ai_leave_home_air": "AI Leave Home",
+    "CL_AC_leave_conditions_error_tips": "이 기능을 설정할 수 없습니다. 현재 에어컨이 실행 조건을 충족하지 않습니다. 나중에 다시 시도해 주세요.",
+    "CL_CS_Local_Network_not_authorized": "로컬 네트워크가 허용되지 않았습니다.",
+    "CL_CF_CS_local_network_usage_describe": "Wi-Fi 및 Bluetooth를 통해 기기를 빠르게 연결하려면 휴대폰 설정에서 ConnectLife가 로컬 네트워크에 액세스할 수 있도록 허용해 주세요.",
+    "CL_DV_WM_About_washing_time": "세탁 시간에 관하여",
+    "CL_DV_WM_About_washing_time_desc": "이는 예상 시간입니다. 세탁물은 세탁량에 따라 자동으로 세탁 시간이 조절되므로 실제 소요 시간은 달라질 수 있습니다."
 }
