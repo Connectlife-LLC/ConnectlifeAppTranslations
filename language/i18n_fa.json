@@ -8133,5 +8133,7 @@
     "CL_DISH_DESIGNER_enter_step": "شرح مرحله را وارد کنید.",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "یک دستور غذا باید حداقل شامل یک ماده اولیه و یک مرحله باشد. آخرین مورد را نمی‌توان حذف کرد.",
     "CL_CF_AS_your_device_offline1": "دستگاه شما آفلاین است",
-    "CL_CF_AS_run_normal_condition2": "دستگاه شما در شرایط عادی کار می کند."
+    "CL_CF_AS_run_normal_condition2": "دستگاه شما در شرایط عادی کار می کند.",
+    "CL_DV_RF_device_statistic": "آمار دستگاه",
+    "CL_DISH_DESIGNER_oven_offline": "به وای‌فای متصل نیست"
 }
