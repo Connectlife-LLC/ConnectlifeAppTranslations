@@ -8133,5 +8133,6 @@
     "CL_DISH_DESIGNER_enter_step": "Introduzca una descripción del paso.",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "Una receta debe contener al menos un ingrediente y un paso. El último elemento no se puede eliminar.",
     "CL_CF_AS_your_device_offline1": "Su dispositivo está fuera de línea",
-    "CL_CF_AS_run_normal_condition2": "Su dispositivo funciona en condiciones normales."
+    "CL_CF_AS_run_normal_condition2": "Su dispositivo funciona en condiciones normales.",
+    "CL_DV_RF_device_statistic": "Estadísticas del dispositivo"
 }

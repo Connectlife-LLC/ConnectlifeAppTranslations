@@ -8133,5 +8133,6 @@
     "CL_DISH_DESIGNER_enter_step": "Vnesite opis koraka.",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "Recept mora vsebovati vsaj eno sestavino in en korak. Zadnjega elementa ni mogoče odstraniti.",
     "CL_CF_AS_your_device_offline1": "Vaša naprava je brez povezave",
-    "CL_CF_AS_run_normal_condition2": "Vaša naprava deluje v normalnem stanju."
+    "CL_CF_AS_run_normal_condition2": "Vaša naprava deluje v normalnem stanju.",
+    "CL_DV_RF_device_statistic": "Statistika naprave"
 }

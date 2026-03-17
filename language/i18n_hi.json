@@ -8133,5 +8133,6 @@
     "CL_DISH_DESIGNER_enter_step": "चरण का विवरण दर्ज करें।",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "किसी भी रेसिपी में कम से कम एक सामग्री और एक चरण होना अनिवार्य है। अंतिम चरण को हटाया नहीं जा सकता।",
     "CL_CF_AS_your_device_offline1": "आपका डिवाइस ऑफ़लाइन है",
-    "CL_CF_AS_run_normal_condition2": "आपका डिवाइस सामान्य स्थिति में चलता है."
+    "CL_CF_AS_run_normal_condition2": "आपका डिवाइस सामान्य स्थिति में चलता है.",
+    "CL_DV_RF_device_statistic": "उपकरण सांख्यिकी"
 }

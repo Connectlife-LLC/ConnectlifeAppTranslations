@@ -8133,5 +8133,6 @@
     "CL_DISH_DESIGNER_enter_step": "Geben Sie eine Schrittbeschreibung ein.",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "Ein Rezept muss mindestens eine Zutat und einen Zubereitungsschritt enthalten. Der letzte Schritt darf nicht weggelassen werden.",
     "CL_CF_AS_your_device_offline1": "Ihr Gerät ist offline",
-    "CL_CF_AS_run_normal_condition2": "Ihr Gerät läuft im Normalzustand."
+    "CL_CF_AS_run_normal_condition2": "Ihr Gerät läuft im Normalzustand.",
+    "CL_DV_RF_device_statistic": "Gerätestatistik"
 }

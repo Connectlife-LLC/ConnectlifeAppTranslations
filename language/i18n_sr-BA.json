@@ -8133,5 +8133,6 @@
     "CL_DISH_DESIGNER_enter_step": "Унесите опис корака.",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "Рецепт мора да садржи барем један састојак и један корак. Последња ставка се не може уклонити.",
     "CL_CF_AS_your_device_offline1": "Ваш уређај је офлајн.",
-    "CL_CF_AS_run_normal_condition2": "Ваши уређаји раде у нормалном стању."
+    "CL_CF_AS_run_normal_condition2": "Ваши уређаји раде у нормалном стању.",
+    "CL_DV_RF_device_statistic": "Статистика уређаја"
 }

@@ -8133,5 +8133,6 @@
     "CL_DISH_DESIGNER_enter_step": "Masukkan penerangan langkah.",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "Resipi mesti mengandungi sekurang-kurangnya satu bahan dan satu langkah. Item terakhir tidak boleh dialih keluar.",
     "CL_CF_AS_your_device_offline1": "Peranti anda di luar talian",
-    "CL_CF_AS_run_normal_condition2": "Peranti anda berjalan dalam keadaan normal."
+    "CL_CF_AS_run_normal_condition2": "Peranti anda berjalan dalam keadaan normal.",
+    "CL_DV_RF_device_statistic": "Statistik Peranti"
 }

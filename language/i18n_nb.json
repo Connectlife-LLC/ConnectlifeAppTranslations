@@ -8133,5 +8133,6 @@
     "CL_DISH_DESIGNER_enter_step": "Skriv inn en trinnbeskrivelse.",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "En oppskrift må inneholde minst én ingrediens og ett trinn. Det siste elementet kan ikke fjernes.",
     "CL_CF_AS_your_device_offline1": "Enheten din er frakoblet",
-    "CL_CF_AS_run_normal_condition2": "Enheten din kjører i normal tilstand."
+    "CL_CF_AS_run_normal_condition2": "Enheten din kjører i normal tilstand.",
+    "CL_DV_RF_device_statistic": "Enhetsstatistikk"
 }
