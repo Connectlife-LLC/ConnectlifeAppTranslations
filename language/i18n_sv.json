@@ -8133,5 +8133,6 @@
     "CL_DISH_DESIGNER_enter_step": "Ange en stegbeskrivning.",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "Ett recept måste innehålla minst en ingrediens och ett steg. Den sista ingrediensen kan inte tas bort.",
     "CL_CF_AS_your_device_offline1": "Din enhet är offline",
-    "CL_CF_AS_run_normal_condition2": "Din enhet fungerar i normalt skick."
+    "CL_CF_AS_run_normal_condition2": "Din enhet fungerar i normalt skick.",
+    "CL_DV_RF_device_statistic": "Enhetsstatistik"
 }
