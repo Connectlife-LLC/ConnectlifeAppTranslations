@@ -8133,5 +8133,7 @@
     "CL_DISH_DESIGNER_enter_step": "请输入步骤描述。",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "食谱必须至少包含一种食材和一个步骤。最后一个步骤不能省略。",
     "CL_CF_AS_your_device_offline1": "您的设备处于离线状态",
-    "CL_CF_AS_run_normal_condition2": "您的设备运行正常。"
+    "CL_CF_AS_run_normal_condition2": "您的设备运行正常。",
+    "CL_DV_RF_device_statistic": "设备统计",
+    "CL_DISH_DESIGNER_oven_offline": "未连接到 Wi-Fi"
 }

@@ -8133,5 +8133,7 @@
     "CL_DISH_DESIGNER_enter_step": "Masukkan deskripsi langkah.",
     "CL_DISH_DESIGNER_keep_least_one_item_des1": "Resep harus mengandung setidaknya satu bahan dan satu langkah. Bahan terakhir tidak boleh dihilangkan.",
     "CL_CF_AS_your_device_offline1": "Perangkat Anda sedang offline",
-    "CL_CF_AS_run_normal_condition2": "Perangkat Anda berjalan dalam kondisi normal."
+    "CL_CF_AS_run_normal_condition2": "Perangkat Anda berjalan dalam kondisi normal.",
+    "CL_DV_RF_device_statistic": "Statistik Perangkat",
+    "CL_DISH_DESIGNER_oven_offline": "Tidak terhubung ke Wi-Fi"
 }
