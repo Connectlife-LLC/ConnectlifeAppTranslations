@@ -8135,5 +8135,6 @@
     "CL_CF_AS_your_device_offline1": "Ваше устройство находится в автономном режиме",
     "CL_CF_AS_run_normal_condition2": "Ваше устройство работает в нормальном состоянии.",
     "CL_DV_RF_device_statistic": "Статистика устройства",
-    "CL_DISH_DESIGNER_oven_offline": "Не подключено к Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Не подключено к Wi-Fi",
+    "CL_DV_RF_slide_tips": "Проведите пальцем влево, чтобы удалить или отредактировать."
 }

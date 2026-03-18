@@ -8135,5 +8135,6 @@
     "CL_CF_AS_your_device_offline1": "Your device is offline.",
     "CL_CF_AS_run_normal_condition2": "Your devices run in normal condition.",
     "CL_DV_RF_device_statistic": "Device Statistic",
-    "CL_DISH_DESIGNER_oven_offline": "Not connected to Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Not connected to Wi-Fi",
+    "CL_DV_RF_slide_tips": "Slide to the left to delete or edit"
 }
