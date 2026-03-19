@@ -8135,5 +8135,8 @@
     "CL_CF_AS_your_device_offline1": "המכשיר שלך במצב לא מקוון",
     "CL_CF_AS_run_normal_condition2": "המכשיר שלך פועל במצב רגיל.",
     "CL_DV_RF_device_statistic": "סטטיסטיקת המכשיר",
-    "CL_DISH_DESIGNER_oven_offline": "לא מחובר ל-Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "לא מחובר ל-Wi-Fi",
+    "CL_DV_RF_slide_tips": "החלק שמאלה כדי למחוק או לערוך",
+    "CL_CF_SD_to_start_desc_new": "כדי להתחיל להשתמש בפונקציה, עליך להגדיר תעריפי שיא/שפל בהגדרות.",
+    "name_duplicated": "השם משוכפל, אנא שנה את שמו."
 }
