@@ -8135,5 +8135,11 @@
     "CL_CF_AS_your_device_offline1": "Peranti anda di luar talian",
     "CL_CF_AS_run_normal_condition2": "Peranti anda berjalan dalam keadaan normal.",
     "CL_DV_RF_device_statistic": "Statistik Peranti",
-    "CL_DISH_DESIGNER_oven_offline": "Tidak disambungkan ke Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Tidak disambungkan ke Wi-Fi",
+    "CL_DV_RF_slide_tips": "Luncur ke kiri untuk memadam atau mengedit",
+    "CL_CF_SD_to_start_desc_new": "Untuk mula menggunakan fungsi ini, anda perlu menetapkan kadar Puncak/Luar puncak dalam tetapan.",
+    "name_duplicated": "nama telah digandakan, sila namakannya semula.",
+    "app_pairing_prefix": "Sebelum menggunakan fungsi ini, sila pastikan peti sejuk ini telah diikat pada telefon anda. Jika tidak, semak kaedah Ikat ke Telefon.",
+    "app_pairing_tip": "Kaedah: Tetapan → ##, kemudian ikuti langkah-langkahnya.",
+    "app_pairing": "Gandingan aplikasi"
 }

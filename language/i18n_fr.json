@@ -8135,5 +8135,11 @@
     "CL_CF_AS_your_device_offline1": "Votre appareil est hors ligne",
     "CL_CF_AS_run_normal_condition2": "Votre appareil fonctionne dans des conditions normales.",
     "CL_DV_RF_device_statistic": "Statistiques de l'appareil",
-    "CL_DISH_DESIGNER_oven_offline": "Non connecté au Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Non connecté au Wi-Fi",
+    "CL_DV_RF_slide_tips": "Faites glisser vers la gauche pour supprimer ou modifier",
+    "CL_CF_SD_to_start_desc_new": "Pour commencer à utiliser cette fonction, vous devez définir les tarifs heures pleines/heures creuses dans les paramètres.",
+    "name_duplicated": "Ce nom est un doublon, veuillez le renommer.",
+    "app_pairing_prefix": "Avant d'utiliser cette fonction, veuillez vérifier que ce réfrigérateur est bien connecté à votre téléphone. Si ce n'est pas le cas, consultez la procédure de connexion.",
+    "app_pairing_tip": "Méthode : Paramètres → ##, puis suivez les étapes.",
+    "app_pairing": "Appariement d'applications"
 }

@@ -8135,5 +8135,11 @@
     "CL_CF_AS_your_device_offline1": "Uw apparaat is offline",
     "CL_CF_AS_run_normal_condition2": "Uw apparaat functioneert normaal.",
     "CL_DV_RF_device_statistic": "Apparaatstatistieken",
-    "CL_DISH_DESIGNER_oven_offline": "Geen verbinding met wifi"
+    "CL_DISH_DESIGNER_oven_offline": "Geen verbinding met wifi",
+    "CL_DV_RF_slide_tips": "Schuif naar links om te verwijderen of te bewerken",
+    "CL_CF_SD_to_start_desc_new": "Om de functie te kunnen gebruiken, moet u de piek-/dalurentarieven in de instellingen instellen.",
+    "name_duplicated": "De naam is dubbel, wilt u deze wijzigen?",
+    "app_pairing_prefix": "Voordat u deze functie gebruikt, moet u ervoor zorgen dat deze koelkast is gekoppeld aan uw telefoon. Zo niet, raadpleeg dan de instructies voor het koppelen aan uw telefoon.",
+    "app_pairing_tip": "Methode: Ga naar Instellingen → ## en volg daarna de stappen.",
+    "app_pairing": "App-koppeling"
 }
