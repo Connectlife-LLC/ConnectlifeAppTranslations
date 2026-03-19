@@ -8135,5 +8135,7 @@
     "CL_CF_AS_your_device_offline1": "Vaše zařízení je offline",
     "CL_CF_AS_run_normal_condition2": "Vaše zařízení běží v normálním stavu.",
     "CL_DV_RF_device_statistic": "Statistiky zařízení",
-    "CL_DISH_DESIGNER_oven_offline": "Není připojen k Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Není připojen k Wi-Fi",
+    "CL_DV_RF_slide_tips": "Přejetím doleva smažete nebo upravíte",
+    "CL_CF_SD_to_start_desc_new": "Abyste mohli funkci začít používat, je třeba v nastavení nastavit sazby ve špičce/mimo špičku."
 }

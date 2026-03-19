@@ -8135,5 +8135,7 @@
     "CL_CF_AS_your_device_offline1": "您的設備處於離線狀態",
     "CL_CF_AS_run_normal_condition2": "您的設備運作正常。",
     "CL_DV_RF_device_statistic": "設備統計",
-    "CL_DISH_DESIGNER_oven_offline": "未連線至 Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "未連線至 Wi-Fi",
+    "CL_DV_RF_slide_tips": "向左滑動即可刪除或編輯",
+    "CL_CF_SD_to_start_desc_new": "要開始使用此功能，您需要在設定中設定高峰/非尖峰時段費率。"
 }
