@@ -8135,5 +8135,7 @@
     "CL_CF_AS_your_device_offline1": "Dispozitivul dvs. este offline",
     "CL_CF_AS_run_normal_condition2": "Aparatul dumneavoastră funcționează în stare normală.",
     "CL_DV_RF_device_statistic": "Statistică dispozitiv",
-    "CL_DISH_DESIGNER_oven_offline": "Nu este conectat la Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Nu este conectat la Wi-Fi",
+    "CL_DV_RF_slide_tips": "Glisați spre stânga pentru a șterge sau edita",
+    "CL_CF_SD_to_start_desc_new": "Pentru a începe să utilizați funcția, trebuie să setați tarifele pentru orele de vârf/în afara orelor de vârf în setări."
 }

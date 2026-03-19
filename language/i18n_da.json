@@ -8135,5 +8135,7 @@
     "CL_CF_AS_your_device_offline1": "Din enhed er offline",
     "CL_CF_AS_run_normal_condition2": "Din enhed kører i normal tilstand.",
     "CL_DV_RF_device_statistic": "Enhedsstatistik",
-    "CL_DISH_DESIGNER_oven_offline": "Ikke forbundet til Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Ikke forbundet til Wi-Fi",
+    "CL_DV_RF_slide_tips": "Stryg til venstre for at slette eller redigere",
+    "CL_CF_SD_to_start_desc_new": "For at begynde at bruge funktionen skal du indstille spidsbelastnings-/lavbelastningstakster i indstillingerne."
 }

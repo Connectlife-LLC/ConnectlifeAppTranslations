@@ -8135,5 +8135,7 @@
     "CL_CF_AS_your_device_offline1": "Vaš uređaj je izvan mreže",
     "CL_CF_AS_run_normal_condition2": "Vaš uređaj radi u normalnom stanju.",
     "CL_DV_RF_device_statistic": "Statistika uređaja",
-    "CL_DISH_DESIGNER_oven_offline": "Nije povezano s Wi-Fi mrežom"
+    "CL_DISH_DESIGNER_oven_offline": "Nije povezano s Wi-Fi mrežom",
+    "CL_DV_RF_slide_tips": "Pomaknite se ulijevo za brisanje ili uređivanje",
+    "CL_CF_SD_to_start_desc_new": "Za početak korištenja funkcije potrebno je postaviti vršne/izvanvršne cijene u postavkama."
 }

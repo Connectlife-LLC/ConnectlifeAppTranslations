@@ -8135,5 +8135,7 @@
     "CL_CF_AS_your_device_offline1": "Eszköze offline állapotban van",
     "CL_CF_AS_run_normal_condition2": "A készülék normál állapotban működik.",
     "CL_DV_RF_device_statistic": "Eszközstatisztika",
-    "CL_DISH_DESIGNER_oven_offline": "Nincs Wi-Fi-kapcsolat"
+    "CL_DISH_DESIGNER_oven_offline": "Nincs Wi-Fi-kapcsolat",
+    "CL_DV_RF_slide_tips": "Csúsztasd balra a törléshez vagy szerkesztéshez",
+    "CL_CF_SD_to_start_desc_new": "A funkció használatának megkezdéséhez be kell állítania a csúcsidőszaki/csúcsidőszakon kívüli díjakat a beállításokban."
 }
