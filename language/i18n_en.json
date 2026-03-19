@@ -8135,5 +8135,11 @@
     "CL_CF_AS_your_device_offline1": "Your device is offline.",
     "CL_CF_AS_run_normal_condition2": "Your devices run in normal condition.",
     "CL_DV_RF_device_statistic": "Device Statistic",
-    "CL_DISH_DESIGNER_oven_offline": "Not connected to Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Not connected to Wi-Fi",
+    "CL_DV_RF_slide_tips": "Slide to the left to delete or edit",
+    "CL_CF_SD_to_start_desc_new": "To start using the function you need to set Peak/Off-peak rates in the settings.",
+    "name_duplicated": "name is duplicated, please rename it.",
+    "app_pairing_prefix": "Before using this function, please make sure that this refrigerator has bound to your phone. If not, check the method of Bind to Phone.",
+    "app_pairing_tip": "Method: Settings → ##, then follow the steps.",
+    "app_pairing": "App pairing"
 }

@@ -8135,5 +8135,11 @@
     "CL_CF_AS_your_device_offline1": "Din enhet är offline",
     "CL_CF_AS_run_normal_condition2": "Din enhet fungerar i normalt skick.",
     "CL_DV_RF_device_statistic": "Enhetsstatistik",
-    "CL_DISH_DESIGNER_oven_offline": "Inte ansluten till Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Inte ansluten till Wi-Fi",
+    "CL_DV_RF_slide_tips": "Dra åt vänster för att radera eller redigera",
+    "CL_CF_SD_to_start_desc_new": "För att börja använda funktionen måste du ställa in topp-/lågtrafiktaxor i inställningarna.",
+    "name_duplicated": "Namnet är duplicerat, vänligen byt namn på det.",
+    "app_pairing_prefix": "Innan du använder den här funktionen, se till att kylskåpet har anslutits till din telefon. Om inte, kontrollera metoden för att ansluta till telefon.",
+    "app_pairing_tip": "Metod: Inställningar → ##, följ sedan stegen.",
+    "app_pairing": "Appparkoppling"
 }

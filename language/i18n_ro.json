@@ -8135,5 +8135,11 @@
     "CL_CF_AS_your_device_offline1": "Dispozitivul dvs. este offline",
     "CL_CF_AS_run_normal_condition2": "Aparatul dumneavoastră funcționează în stare normală.",
     "CL_DV_RF_device_statistic": "Statistică dispozitiv",
-    "CL_DISH_DESIGNER_oven_offline": "Nu este conectat la Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Nu este conectat la Wi-Fi",
+    "CL_DV_RF_slide_tips": "Glisați spre stânga pentru a șterge sau edita",
+    "CL_CF_SD_to_start_desc_new": "Pentru a începe să utilizați funcția, trebuie să setați tarifele pentru orele de vârf/în afara orelor de vârf în setări.",
+    "name_duplicated": "Numele este duplicat, vă rugăm să îl redenumiți.",
+    "app_pairing_prefix": "Înainte de a utiliza această funcție, vă rugăm să vă asigurați că acest frigider este conectat la telefonul dvs. Dacă nu este conectat, verificați metoda de conectare la telefon.",
+    "app_pairing_tip": "Metodă: Setări → ##, apoi urmați pașii.",
+    "app_pairing": "Împerecherea aplicațiilor"
 }

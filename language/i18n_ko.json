@@ -8135,5 +8135,11 @@
     "CL_CF_AS_your_device_offline1": "귀하의 기기는 오프라인 상태입니다.",
     "CL_CF_AS_run_normal_condition2": "귀하의 기기는 정상적인 상태에서 작동합니다.",
     "CL_DV_RF_device_statistic": "기기 통계",
-    "CL_DISH_DESIGNER_oven_offline": "와이파이에 연결되어 있지 않습니다."
+    "CL_DISH_DESIGNER_oven_offline": "와이파이에 연결되어 있지 않습니다.",
+    "CL_DV_RF_slide_tips": "왼쪽으로 밀어서 삭제하거나 편집하세요.",
+    "CL_CF_SD_to_start_desc_new": "해당 기능을 사용하려면 설정에서 피크/비피크 요금을 설정해야 합니다.",
+    "name_duplicated": "이름이 중복되었습니다. 이름을 변경해 주세요.",
+    "app_pairing_prefix": "이 기능을 사용하기 전에 냉장고가 휴대폰에 연결되어 있는지 확인하십시오. 연결되어 있지 않다면 휴대폰 연결 방법을 확인하십시오.",
+    "app_pairing_tip": "방법: 설정 → ##을 클릭한 후 단계를 따르세요.",
+    "app_pairing": "앱 페어링"
 }
