@@ -8135,5 +8135,8 @@
     "CL_CF_AS_your_device_offline1": "جهازك غير متصل بالإنترنت",
     "CL_CF_AS_run_normal_condition2": "جهازك يعمل بحالة طبيعية.",
     "CL_DV_RF_device_statistic": "إحصائيات الجهاز",
-    "CL_DISH_DESIGNER_oven_offline": "غير متصل بشبكة Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "غير متصل بشبكة Wi-Fi",
+    "CL_DV_RF_slide_tips": "اسحب لليسار للحذف أو التعديل",
+    "CL_CF_SD_to_start_desc_new": "لبدء استخدام هذه الخاصية، عليك ضبط أسعار الذروة/خارج الذروة في الإعدادات.",
+    "name_duplicated": "الاسم مكرر، يرجى إعادة تسميته."
 }
