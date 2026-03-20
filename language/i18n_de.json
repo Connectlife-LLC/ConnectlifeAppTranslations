@@ -8135,5 +8135,8 @@
     "CL_CF_AS_your_device_offline1": "Ihr Gerät ist offline",
     "CL_CF_AS_run_normal_condition2": "Ihr Gerät läuft im Normalzustand.",
     "CL_DV_RF_device_statistic": "Gerätestatistik",
-    "CL_DISH_DESIGNER_oven_offline": "Nicht mit WLAN verbunden"
+    "CL_DISH_DESIGNER_oven_offline": "Nicht mit WLAN verbunden",
+    "CL_DV_RF_slide_tips": "Zum Löschen oder Bearbeiten nach links wischen.",
+    "CL_CF_SD_to_start_desc_new": "Um die Funktion nutzen zu können, müssen Sie in den Einstellungen die Tarife für Spitzen- und Nebenzeiten festlegen.",
+    "name_duplicated": "Der Name ist bereits vorhanden, bitte benennen Sie ihn um."
 }

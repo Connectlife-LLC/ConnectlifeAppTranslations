@@ -8135,5 +8135,8 @@
     "CL_CF_AS_your_device_offline1": "Thiết bị của bạn đang ngoại tuyến",
     "CL_CF_AS_run_normal_condition2": "Thiết bị của bạn hoạt động bình thường.",
     "CL_DV_RF_device_statistic": "Thống kê thiết bị",
-    "CL_DISH_DESIGNER_oven_offline": "Không kết nối với Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Không kết nối với Wi-Fi",
+    "CL_DV_RF_slide_tips": "Vuốt sang trái để xóa hoặc chỉnh sửa",
+    "CL_CF_SD_to_start_desc_new": "Để bắt đầu sử dụng chức năng này, bạn cần thiết lập mức giá giờ cao điểm/giờ thấp điểm trong phần cài đặt.",
+    "name_duplicated": "Tên bị trùng lặp, vui lòng đổi tên."
 }

@@ -4383,7 +4383,7 @@
     "CL_DV_RF_ai_energy_saving_desc": "Optimaliseer de bedrijfsstatus van de koelkast om energiebesparende effecten te bereiken. AI Energy Saving kan het energieverbruik van de koelkast besparen, maar het zal ook de koelsnelheid verminderen.",
     "CL_DV_RF_self_adaption_desc": "De temperatuur in de koelkast wordt automatisch aangepast op basis van uw gebruiksgewoonten, waardoor de temperatuur stabieler is en het conserveringseffect beter is.",
     "CL_DV_RF_hi_nano_desc": "Hiermee kunt u de ionensterilisatie- en geurverwijderingsfunctie van uw koelkast in- en uitschakelen.",
-    "CL_CF_CM_Paired_users": "gepaarde gebruikers",
+    "CL_CF_CM_Paired_users": "Aantal gekoppelde gebruikers",
     "CL_CF_CS_atw_cs_2": "Druk op de Menu-knop om de menulijst te openen.",
     "CL_CF_CS_atw_cs_3": "Selecteer WIFI, druk dan op de middelste knop om de WIFI-configuratie te starten. Het WLAN-symbool begint nu te knipperen.",
     "CL_CF_CM_sun_rain_atw_name": "ATW Hi-Hybrid",
@@ -8135,5 +8135,8 @@
     "CL_CF_AS_your_device_offline1": "Uw apparaat is offline",
     "CL_CF_AS_run_normal_condition2": "Uw apparaat functioneert normaal.",
     "CL_DV_RF_device_statistic": "Apparaatstatistieken",
-    "CL_DISH_DESIGNER_oven_offline": "Geen verbinding met wifi"
+    "CL_DISH_DESIGNER_oven_offline": "Geen verbinding met wifi",
+    "CL_DV_RF_slide_tips": "Schuif naar links om te verwijderen of te bewerken",
+    "CL_CF_SD_to_start_desc_new": "Om de functie te kunnen gebruiken, moet u de piek-/dalurentarieven in de instellingen instellen.",
+    "name_duplicated": "De naam is dubbel, wilt u deze wijzigen?"
 }
