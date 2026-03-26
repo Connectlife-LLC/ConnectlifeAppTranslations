@@ -8135,5 +8135,12 @@
     "CL_CF_AS_your_device_offline1": "Il tuo dispositivo è offline",
     "CL_CF_AS_run_normal_condition2": "Il dispositivo funziona in condizioni normali.",
     "CL_DV_RF_device_statistic": "Statistiche del dispositivo",
-    "CL_DISH_DESIGNER_oven_offline": "Non connesso al Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Non connesso al Wi-Fi",
+    "CL_DV_RF_slide_tips": "Scorri verso sinistra per eliminare o modificare",
+    "CL_CF_SD_to_start_desc_new": "Per iniziare a utilizzare la funzione, è necessario impostare le tariffe di punta/fuori punta nelle impostazioni.",
+    "name_duplicated": "Il nome è duplicato, si prega di rinominarlo.",
+    "CL_SMART_KITCHEN_guidance_best_results": "Consigli per ottenere i migliori risultati",
+    "CL_DV_WM_additional_program_title": "Programmi aggiuntivi disponibili sulla tua lavatrice",
+    "CL_DV_WM_additional_program_desc": "Collegando la lavatrice all'app, hai sbloccato una serie di nuovi programmi. Puoi modificare l'elenco dei programmi in Gestione programmi.",
+    "CL_DV_EY_backup_reserve": "riserva di riserva"
 }

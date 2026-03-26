@@ -8135,5 +8135,12 @@
     "CL_CF_AS_your_device_offline1": "Vaša naprava je brez povezave",
     "CL_CF_AS_run_normal_condition2": "Vaša naprava deluje v normalnem stanju.",
     "CL_DV_RF_device_statistic": "Statistika naprave",
-    "CL_DISH_DESIGNER_oven_offline": "Ni povezan z omrežjem Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Ni povezan z omrežjem Wi-Fi",
+    "CL_DV_RF_slide_tips": "Povlecite v levo za brisanje ali urejanje",
+    "CL_CF_SD_to_start_desc_new": "Za začetek uporabe funkcije morate v nastavitvah nastaviti tarife za največjo/izven konic.",
+    "name_duplicated": "Ime je podvojeno, prosim, preimenujte ga.",
+    "CL_SMART_KITCHEN_guidance_best_results": "Navodila za najboljše rezultate",
+    "CL_DV_WM_additional_program_title": "Dodatni programi, ki so na voljo na vašem pralnem stroju",
+    "CL_DV_WM_additional_program_desc": "S povezavo pralnega stroja z aplikacijo ste odklenili zbirko novih programov. Seznam programov lahko uredite v Upravljanju programov.",
+    "CL_DV_EY_backup_reserve": "Rezervna rezerva"
 }

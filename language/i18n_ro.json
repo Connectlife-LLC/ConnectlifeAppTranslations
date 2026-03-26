@@ -8135,5 +8135,12 @@
     "CL_CF_AS_your_device_offline1": "Dispozitivul dvs. este offline",
     "CL_CF_AS_run_normal_condition2": "Aparatul dumneavoastră funcționează în stare normală.",
     "CL_DV_RF_device_statistic": "Statistică dispozitiv",
-    "CL_DISH_DESIGNER_oven_offline": "Nu este conectat la Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Nu este conectat la Wi-Fi",
+    "CL_DV_RF_slide_tips": "Glisați spre stânga pentru a șterge sau edita",
+    "CL_CF_SD_to_start_desc_new": "Pentru a începe să utilizați funcția, trebuie să setați tarifele pentru orele de vârf/în afara orelor de vârf în setări.",
+    "name_duplicated": "Numele este duplicat, vă rugăm să îl redenumiți.",
+    "CL_SMART_KITCHEN_guidance_best_results": "Îndrumări pentru cele mai bune rezultate",
+    "CL_DV_WM_additional_program_title": "Programe suplimentare disponibile pe mașina dvs. de spălat",
+    "CL_DV_WM_additional_program_desc": "Prin conectarea mașinii de spălat la aplicație, ați deblocat o colecție de programe noi. Puteți edita lista de programe în Gestionare programe.",
+    "CL_DV_EY_backup_reserve": "Rezervă de rezervă"
 }

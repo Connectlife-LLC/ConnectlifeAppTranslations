@@ -8135,5 +8135,12 @@
     "CL_CF_AS_your_device_offline1": "您的设备处于离线状态",
     "CL_CF_AS_run_normal_condition2": "您的设备运行正常。",
     "CL_DV_RF_device_statistic": "设备统计",
-    "CL_DISH_DESIGNER_oven_offline": "未连接到 Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "未连接到 Wi-Fi",
+    "CL_DV_RF_slide_tips": "向左滑动即可删除或编辑",
+    "CL_CF_SD_to_start_desc_new": "要开始使用此功能，您需要在设置中设置高峰/非高峰时段费率。",
+    "name_duplicated": "名称重复，请重命名。",
+    "CL_SMART_KITCHEN_guidance_best_results": "获得最佳结果的指导",
+    "CL_DV_WM_additional_program_title": "洗衣机上还有其他程序可供选择",
+    "CL_DV_WM_additional_program_desc": "将洗衣机连接到应用程序后，您即可解锁一系列全新程序。您可以在“程序管理”中编辑程序列表。",
+    "CL_DV_EY_backup_reserve": "备用储备"
 }

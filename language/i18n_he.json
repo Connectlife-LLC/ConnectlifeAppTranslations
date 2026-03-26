@@ -8135,5 +8135,12 @@
     "CL_CF_AS_your_device_offline1": "המכשיר שלך במצב לא מקוון",
     "CL_CF_AS_run_normal_condition2": "המכשיר שלך פועל במצב רגיל.",
     "CL_DV_RF_device_statistic": "סטטיסטיקת המכשיר",
-    "CL_DISH_DESIGNER_oven_offline": "לא מחובר ל-Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "לא מחובר ל-Wi-Fi",
+    "CL_DV_RF_slide_tips": "החלק שמאלה כדי למחוק או לערוך",
+    "CL_CF_SD_to_start_desc_new": "כדי להתחיל להשתמש בפונקציה, עליך להגדיר תעריפי שיא/שפל בהגדרות.",
+    "name_duplicated": "השם משוכפל, אנא שנה את שמו.",
+    "CL_SMART_KITCHEN_guidance_best_results": "הדרכה לתוצאות הטובות ביותר",
+    "CL_DV_WM_additional_program_title": "תוכניות נוספות הזמינות במכונת הכביסה שלך",
+    "CL_DV_WM_additional_program_desc": "על ידי חיבור מכונת הכביסה לאפליקציה, פתחתם אוסף של תוכניות חדשות. תוכלו לערוך את רשימת התוכניות בניהול התוכניות.",
+    "CL_DV_EY_backup_reserve": "עתודת גיבוי"
 }

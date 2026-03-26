@@ -8135,5 +8135,12 @@
     "CL_CF_AS_your_device_offline1": "دستگاه شما آفلاین است",
     "CL_CF_AS_run_normal_condition2": "دستگاه شما در شرایط عادی کار می کند.",
     "CL_DV_RF_device_statistic": "آمار دستگاه",
-    "CL_DISH_DESIGNER_oven_offline": "به وای‌فای متصل نیست"
+    "CL_DISH_DESIGNER_oven_offline": "به وای‌فای متصل نیست",
+    "CL_DV_RF_slide_tips": "برای حذف یا ویرایش، به سمت چپ بکشید",
+    "CL_CF_SD_to_start_desc_new": "برای شروع استفاده از این عملکرد، باید نرخ‌های اوج/غیر اوج را در تنظیمات تنظیم کنید.",
+    "name_duplicated": "نام تکراری است، لطفا تغییر نام دهید.",
+    "CL_SMART_KITCHEN_guidance_best_results": "راهنمایی برای بهترین نتیجه",
+    "CL_DV_WM_additional_program_title": "برنامه‌های اضافی موجود در ماشین لباسشویی شما",
+    "CL_DV_WM_additional_program_desc": "با اتصال ماشین لباسشویی خود به برنامه، مجموعه‌ای از برنامه‌های جدید را باز کرده‌اید. می‌توانید لیست برنامه‌ها را در مدیریت برنامه ویرایش کنید.",
+    "CL_DV_EY_backup_reserve": "ذخیره پشتیبان"
 }
