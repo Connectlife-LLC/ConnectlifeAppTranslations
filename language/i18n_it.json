@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Programmi aggiuntivi disponibili sulla tua lavatrice",
     "CL_DV_WM_additional_program_desc": "Collegando la lavatrice all'app, hai sbloccato una serie di nuovi programmi. Puoi modificare l'elenco dei programmi in Gestione programmi.",
     "CL_DV_EY_backup_reserve": "riserva di riserva",
-    "CL_program_card_failed_load": "Ops, la scheda del programma non è stata caricata correttamente. Riprova più tardi."
+    "CL_program_card_failed_load": "Ops, la scheda del programma non è stata caricata correttamente. Riprova più tardi.",
+    "yesterday": "Ieri"
 }

@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Yderligere programmer tilgængelige på din vaskemaskine",
     "CL_DV_WM_additional_program_desc": "Ved at forbinde din vaskemaskine til appen har du låst op for en samling af nye programmer. Du kan redigere programlisten i Programstyring.",
     "CL_DV_EY_backup_reserve": "Backupreserve",
-    "CL_program_card_failed_load": "Ups, programkortet kunne ikke indlæses. Prøv igen senere."
+    "CL_program_card_failed_load": "Ups, programkortet kunne ikke indlæses. Prøv igen senere.",
+    "yesterday": "I går"
 }

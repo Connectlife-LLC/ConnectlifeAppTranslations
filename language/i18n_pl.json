@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Dodatkowe programy dostępne w Twojej pralce",
     "CL_DV_WM_additional_program_desc": "Łącząc pralkę z aplikacją, odblokowałeś kolekcję nowych programów. Listę programów możesz edytować w Zarządzaniu programami.",
     "CL_DV_EY_backup_reserve": "Rezerwa zapasowa",
-    "CL_program_card_failed_load": "Ups, karta programu nie załadowała się. Spróbuj ponownie później."
+    "CL_program_card_failed_load": "Ups, karta programu nie załadowała się. Spróbuj ponownie później.",
+    "yesterday": "Wczoraj"
 }

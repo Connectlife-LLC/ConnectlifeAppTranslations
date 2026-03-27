@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Programas adicionales disponibles en su lavadora.",
     "CL_DV_WM_additional_program_desc": "Al conectar tu lavadora a la aplicación, desbloqueas una colección de nuevos programas. Puedes editar la lista de programas en Gestión de programas.",
     "CL_DV_EY_backup_reserve": "Reserva de respaldo",
-    "CL_program_card_failed_load": "¡Ups! No se pudo cargar la tarjeta del programa. Inténtalo de nuevo más tarde."
+    "CL_program_card_failed_load": "¡Ups! No se pudo cargar la tarjeta del programa. Inténtalo de nuevo más tarde.",
+    "yesterday": "Ayer"
 }

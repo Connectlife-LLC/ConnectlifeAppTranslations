@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "További programok elérhetők a mosógépén",
     "CL_DV_WM_additional_program_desc": "A mosógép alkalmazáshoz való csatlakoztatásával új programok gyűjteményét oldotta fel. A programok listáját a Programkezelésben szerkesztheti.",
     "CL_DV_EY_backup_reserve": "Tartalék tartalék",
-    "CL_program_card_failed_load": "Hoppá, a programkártya betöltése sikertelen. Próbáld újra később."
+    "CL_program_card_failed_load": "Hoppá, a programkártya betöltése sikertelen. Próbáld újra később.",
+    "yesterday": "Tegnap"
 }

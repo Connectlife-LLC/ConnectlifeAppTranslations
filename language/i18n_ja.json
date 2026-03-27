@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "洗濯機で利用できる追加プログラム",
     "CL_DV_WM_additional_program_desc": "洗濯機をアプリに接続することで、新しいプログラムが多数利用可能になります。プログラム一覧は「プログラム管理」で編集できます。",
     "CL_DV_EY_backup_reserve": "予備品",
-    "CL_program_card_failed_load": "申し訳ありませんが、プログラムカードの読み込みに失敗しました。しばらくしてからもう一度お試しください。"
+    "CL_program_card_failed_load": "申し訳ありませんが、プログラムカードの読み込みに失敗しました。しばらくしてからもう一度お試しください。",
+    "yesterday": "昨日"
 }

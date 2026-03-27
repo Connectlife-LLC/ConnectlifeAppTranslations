@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Další programy dostupné pro vaši pračku",
     "CL_DV_WM_additional_program_desc": "Propojením pračky s aplikací jste odemkli kolekci nových programů. Seznam programů můžete upravovat ve Správě programů.",
     "CL_DV_EY_backup_reserve": "Záložní rezerva",
-    "CL_program_card_failed_load": "Jejda, karta programu se nepodařilo načíst. Zkuste to prosím znovu později."
+    "CL_program_card_failed_load": "Jejda, karta programu se nepodařilo načíst. Zkuste to prosím znovu později.",
+    "yesterday": "Včera"
 }

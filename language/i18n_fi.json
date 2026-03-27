@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Pesukoneessasi saatavilla olevat lisäohjelmat",
     "CL_DV_WM_additional_program_desc": "Yhdistämällä pesukoneesi sovellukseen olet avannut kokoelman uusia ohjelmia. Voit muokata ohjelmaluetteloa ohjelmien hallinnassa.",
     "CL_DV_EY_backup_reserve": "Varavaraus",
-    "CL_program_card_failed_load": "Hupsista, ohjelmakortin lataus epäonnistui. Yritä myöhemmin uudelleen."
+    "CL_program_card_failed_load": "Hupsista, ohjelmakortin lataus epäonnistui. Yritä myöhemmin uudelleen.",
+    "yesterday": "Eilen"
 }

@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Programas adicionais disponíveis na sua máquina de lavar roupa.",
     "CL_DV_WM_additional_program_desc": "Ao conectar sua máquina de lavar ao aplicativo, você desbloqueia uma série de novos programas. Você pode editar a lista de programas em Gerenciamento de Programas.",
     "CL_DV_EY_backup_reserve": "Reserva de segurança",
-    "CL_program_card_failed_load": "Ops, o cartão de programação não carregou. Tente novamente mais tarde."
+    "CL_program_card_failed_load": "Ops, o cartão de programação não carregou. Tente novamente mais tarde.",
+    "yesterday": "Ontem"
 }

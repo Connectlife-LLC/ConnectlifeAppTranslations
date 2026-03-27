@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Doplnkové programy dostupné pre vašu práčku",
     "CL_DV_WM_additional_program_desc": "Pripojením práčky k aplikácii ste odomkli kolekciu nových programov. Zoznam programov môžete upraviť v Správe programov.",
     "CL_DV_EY_backup_reserve": "Záložná rezerva",
-    "CL_program_card_failed_load": "Ups, karta programu sa nepodarilo načítať. Skúste to znova neskôr."
+    "CL_program_card_failed_load": "Ups, karta programu sa nepodarilo načítať. Skúste to znova neskôr.",
+    "yesterday": "Včera"
 }

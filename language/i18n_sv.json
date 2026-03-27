@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Ytterligare program tillgängliga på din tvättmaskin",
     "CL_DV_WM_additional_program_desc": "Genom att ansluta din tvättmaskin till appen har du låst upp en samling nya program. Du kan redigera programlistan i Programhantering.",
     "CL_DV_EY_backup_reserve": "Reservreserv",
-    "CL_program_card_failed_load": "Oj, programkortet kunde inte laddas. Försök igen senare."
+    "CL_program_card_failed_load": "Oj, programkortet kunde inte laddas. Försök igen senare.",
+    "yesterday": "I går"
 }

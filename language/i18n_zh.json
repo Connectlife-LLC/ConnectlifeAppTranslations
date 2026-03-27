@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "洗衣机上还有其他程序可供选择",
     "CL_DV_WM_additional_program_desc": "将洗衣机连接到应用程序后，您即可解锁一系列全新程序。您可以在“程序管理”中编辑程序列表。",
     "CL_DV_EY_backup_reserve": "备用储备",
-    "CL_program_card_failed_load": "糟糕，程序卡加载失败。请稍后再试。"
+    "CL_program_card_failed_load": "糟糕，程序卡加载失败。请稍后再试。",
+    "yesterday": "昨天"
 }

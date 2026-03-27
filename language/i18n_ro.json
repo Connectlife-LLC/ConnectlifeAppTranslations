@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Programe suplimentare disponibile pe mașina dvs. de spălat",
     "CL_DV_WM_additional_program_desc": "Prin conectarea mașinii de spălat la aplicație, ați deblocat o colecție de programe noi. Puteți edita lista de programe în Gestionare programe.",
     "CL_DV_EY_backup_reserve": "Rezervă de rezervă",
-    "CL_program_card_failed_load": "Oops, cardul de program nu s-a putut încărca. Vă rugăm să încercați din nou mai târziu."
+    "CL_program_card_failed_load": "Oops, cardul de program nu s-a putut încărca. Vă rugăm să încercați din nou mai târziu.",
+    "yesterday": "Ieri"
 }

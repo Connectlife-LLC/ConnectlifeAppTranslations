@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Program tambahan tersedia pada mesin basuh anda",
     "CL_DV_WM_additional_program_desc": "Dengan menyambungkan mesin basuh anda ke aplikasi, anda telah membuka kunci koleksi program baharu. Anda boleh mengedit senarai program dalam Pengurusan Program.",
     "CL_DV_EY_backup_reserve": "Rizab sandaran",
-    "CL_program_card_failed_load": "Alamak, kad program gagal dimuatkan. Sila cuba lagi nanti."
+    "CL_program_card_failed_load": "Alamak, kad program gagal dimuatkan. Sila cuba lagi nanti.",
+    "yesterday": "Semalam"
 }

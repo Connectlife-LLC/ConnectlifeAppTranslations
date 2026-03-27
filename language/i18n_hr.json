@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Dodatni programi dostupni na vašoj perilici rublja",
     "CL_DV_WM_additional_program_desc": "Povezivanjem perilice rublja s aplikacijom otključali ste kolekciju novih programa. Popis programa možete urediti u Upravljanju programima.",
     "CL_DV_EY_backup_reserve": "Rezervna rezerva",
-    "CL_program_card_failed_load": "Ups, učitavanje kartice programa nije uspjelo. Pokušajte ponovno kasnije."
+    "CL_program_card_failed_load": "Ups, učitavanje kartice programa nije uspjelo. Pokušajte ponovno kasnije.",
+    "yesterday": "Jučer"
 }

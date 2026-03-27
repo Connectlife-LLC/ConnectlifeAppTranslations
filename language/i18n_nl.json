@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Extra programma's beschikbaar op uw wasmachine",
     "CL_DV_WM_additional_program_desc": "Door je wasmachine met de app te verbinden, heb je toegang gekregen tot een reeks nieuwe programma's. Je kunt de lijst met programma's bewerken in Programmabeheer.",
     "CL_DV_EY_backup_reserve": "Reserve reserve",
-    "CL_program_card_failed_load": "Oeps, de programmakaart kon niet worden geladen. Probeer het later opnieuw."
+    "CL_program_card_failed_load": "Oeps, de programmakaart kon niet worden geladen. Probeer het later opnieuw.",
+    "yesterday": "Gisteren"
 }

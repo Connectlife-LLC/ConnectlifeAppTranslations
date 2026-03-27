@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Programmes supplémentaires disponibles sur votre machine à laver",
     "CL_DV_WM_additional_program_desc": "En connectant votre lave-linge à l'application, vous avez débloqué de nouveaux programmes. Vous pouvez modifier la liste des programmes dans la Gestion des programmes.",
     "CL_DV_EY_backup_reserve": "réserve de secours",
-    "CL_program_card_failed_load": "Oups, la carte de programme n'a pas pu être chargée. Veuillez réessayer plus tard."
+    "CL_program_card_failed_load": "Oups, la carte de programme n'a pas pu être chargée. Veuillez réessayer plus tard.",
+    "yesterday": "Hier"
 }

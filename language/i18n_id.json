@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Program tambahan tersedia di mesin cuci Anda.",
     "CL_DV_WM_additional_program_desc": "Dengan menghubungkan mesin cuci Anda ke aplikasi, Anda telah membuka akses ke berbagai program baru. Anda dapat mengedit daftar program di Manajemen Program.",
     "CL_DV_EY_backup_reserve": "Cadangan",
-    "CL_program_card_failed_load": "Ups, kartu program gagal dimuat. Silakan coba lagi nanti."
+    "CL_program_card_failed_load": "Ups, kartu program gagal dimuat. Silakan coba lagi nanti.",
+    "yesterday": "Kemarin"
 }

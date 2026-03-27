@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Additional programs available on your washing machine",
     "CL_DV_WM_additional_program_desc": "By connecting your washing machine to the app, you have unlocked a collection of new programs. You can edit the list of programs in Program Management.",
     "CL_DV_EY_backup_reserve": "Backup reserve",
-    "CL_program_card_failed_load": "Oops, the program card failed to load. Please try again later."
+    "CL_program_card_failed_load": "Oops, the program card failed to load. Please try again later.",
+    "yesterday": "Yesterday"
 }

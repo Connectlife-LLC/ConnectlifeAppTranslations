@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Zusätzliche Programme für Ihre Waschmaschine",
     "CL_DV_WM_additional_program_desc": "Durch die Verbindung Ihrer Waschmaschine mit der App haben Sie Zugriff auf eine Reihe neuer Programme. Die Programmliste können Sie in der Programmverwaltung bearbeiten.",
     "CL_DV_EY_backup_reserve": "Backup-Reserve",
-    "CL_program_card_failed_load": "Hoppla, die Programmkarte konnte nicht geladen werden. Bitte versuchen Sie es später erneut."
+    "CL_program_card_failed_load": "Hoppla, die Programmkarte konnte nicht geladen werden. Bitte versuchen Sie es später erneut.",
+    "yesterday": "Gestern"
 }

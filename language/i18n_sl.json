@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Dodatni programi, ki so na voljo na vašem pralnem stroju",
     "CL_DV_WM_additional_program_desc": "S povezavo pralnega stroja z aplikacijo ste odklenili zbirko novih programov. Seznam programov lahko uredite v Upravljanju programov.",
     "CL_DV_EY_backup_reserve": "Rezervna rezerva",
-    "CL_program_card_failed_load": "Ups, nalaganje kartice programa ni uspelo. Poskusite znova pozneje."
+    "CL_program_card_failed_load": "Ups, nalaganje kartice programa ni uspelo. Poskusite znova pozneje.",
+    "yesterday": "Včeraj"
 }

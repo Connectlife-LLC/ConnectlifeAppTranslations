@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Các chương trình bổ sung có sẵn trên máy giặt của bạn",
     "CL_DV_WM_additional_program_desc": "Bằng cách kết nối máy giặt với ứng dụng, bạn đã mở khóa được một bộ sưu tập các chương trình mới. Bạn có thể chỉnh sửa danh sách chương trình trong mục Quản lý chương trình.",
     "CL_DV_EY_backup_reserve": "Dự trữ dự phòng",
-    "CL_program_card_failed_load": "Rất tiếc, thẻ chương trình không tải được. Vui lòng thử lại sau."
+    "CL_program_card_failed_load": "Rất tiếc, thẻ chương trình không tải được. Vui lòng thử lại sau.",
+    "yesterday": "Hôm qua"
 }

@@ -8143,5 +8143,6 @@
     "CL_DV_WM_additional_program_title": "Çamaşır makinenizde bulunan ek programlar",
     "CL_DV_WM_additional_program_desc": "Çamaşır makinenizi uygulamaya bağlayarak yeni programların kilidini açtınız. Program Yönetimi bölümünden program listesini düzenleyebilirsiniz.",
     "CL_DV_EY_backup_reserve": "Yedek rezerv",
-    "CL_program_card_failed_load": "Üzgünüz, program kartı yüklenemedi. Lütfen daha sonra tekrar deneyin."
+    "CL_program_card_failed_load": "Üzgünüz, program kartı yüklenemedi. Lütfen daha sonra tekrar deneyin.",
+    "yesterday": "Dün"
 }
