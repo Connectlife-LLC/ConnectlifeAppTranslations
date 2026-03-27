@@ -8135,5 +8135,13 @@
     "CL_CF_AS_your_device_offline1": "您的設備處於離線狀態",
     "CL_CF_AS_run_normal_condition2": "您的設備運作正常。",
     "CL_DV_RF_device_statistic": "設備統計",
-    "CL_DISH_DESIGNER_oven_offline": "未連線至 Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "未連線至 Wi-Fi",
+    "CL_DV_RF_slide_tips": "向左滑動即可刪除或編輯",
+    "CL_CF_SD_to_start_desc_new": "要開始使用此功能，您需要在設定中設定高峰/非尖峰時段費率。",
+    "name_duplicated": "名稱重複，請重新命名。",
+    "CL_SMART_KITCHEN_guidance_best_results": "獲得最佳結果的指導",
+    "CL_DV_WM_additional_program_title": "您的洗衣機還有其他程序可供選擇",
+    "CL_DV_WM_additional_program_desc": "將洗衣機連接到應用程式後，您即可解鎖一系列全新程式。您可以在「程式管理」中編輯程式清單。",
+    "CL_DV_EY_backup_reserve": "備用儲備",
+    "CL_program_card_failed_load": "糟糕，程式卡載入失敗。請稍後再試。"
 }

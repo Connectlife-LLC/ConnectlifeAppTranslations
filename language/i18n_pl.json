@@ -8135,5 +8135,13 @@
     "CL_CF_AS_your_device_offline1": "Twoje urządzenie jest offline",
     "CL_CF_AS_run_normal_condition2": "Twoje urządzenie działa normalnie.",
     "CL_DV_RF_device_statistic": "Statystyka urządzenia",
-    "CL_DISH_DESIGNER_oven_offline": "Nie połączono z Wi-Fi"
+    "CL_DISH_DESIGNER_oven_offline": "Nie połączono z Wi-Fi",
+    "CL_DV_RF_slide_tips": "Przesuń w lewo, aby usunąć lub edytować",
+    "CL_CF_SD_to_start_desc_new": "Aby zacząć korzystać z tej funkcji należy w ustawieniach ustawić stawki szczytowe/poza szczytem.",
+    "name_duplicated": "Nazwa jest powtarzająca się, proszę ją zmienić.",
+    "CL_SMART_KITCHEN_guidance_best_results": "Wskazówki dla osiągnięcia najlepszych rezultatów",
+    "CL_DV_WM_additional_program_title": "Dodatkowe programy dostępne w Twojej pralce",
+    "CL_DV_WM_additional_program_desc": "Łącząc pralkę z aplikacją, odblokowałeś kolekcję nowych programów. Listę programów możesz edytować w Zarządzaniu programami.",
+    "CL_DV_EY_backup_reserve": "Rezerwa zapasowa",
+    "CL_program_card_failed_load": "Ups, karta programu nie załadowała się. Spróbuj ponownie później."
 }
