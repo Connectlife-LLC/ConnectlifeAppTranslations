@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "Danas ispuštena energija",
     "CL_AC_auto_defrost_content_n": "Automatsko odmrzavanje i čišćenje u tijeku, procjenjuje se da će biti dovršeno za 90 minuta.",
     "CL_CF_CS_wm_g800_cs_step_1": "Postavite uređaj u normalne radne uvjete. \n Dodirnite ikonu izbornika i pomaknite se pomoću gumba za odabir do \"Postavke\".",
-    "CL_CF_CS_wm_g800_cs_step_2": "U postavkama odaberite \"Wi-Fi postavke\". \n Prijeđite na \"Postavljanje veze\" i potvrdite. Mreža uređaja sada je otvorena za povezivanje 5 minuta. \n Kliknite DALJE za nastavak.",
+    "CL_CF_CS_wm_g800_cs_step_2": "U postavkama odaberite \"Wi-Fi postavke\". \n Prijeđite na \"Postavljanje veze\" i potvrdite. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "Dodirnite i držite ikonu + 6 sekundi dok se ne pojavi PAr. \n Uređaj je sada spreman za uparivanje 3 minute. \n Kliknite DALJE za nastavak.",
     "CL_AI_AGENT_dish_designer_create_recipes": "Pomoću Dish Designera možete kreirati vlastite recepte. Jednostavno dodajte što želite kuhati ili sastojke koje imate i on će za vas kreirati opcije recepata.",
     "create now": "Izradi sada",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "Dodatni programi dostupni na vašoj perilici rublja",
     "CL_DV_WM_additional_program_desc": "Povezivanjem perilice rublja s aplikacijom otključali ste kolekciju novih programa. Popis programa možete urediti u Upravljanju programima.",
     "CL_DV_EY_backup_reserve": "Rezervna rezerva",
-    "CL_program_card_failed_load": "Ups, učitavanje kartice programa nije uspjelo. Pokušajte ponovno kasnije."
+    "CL_program_card_failed_load": "Ups, učitavanje kartice programa nije uspjelo. Pokušajte ponovno kasnije.",
+    "yesterday": "Jučer",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "Nijedan sastojak nije isključen",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "Nisu odabrane prehrambene preferencije"
 }

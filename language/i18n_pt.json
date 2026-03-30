@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "Energia descarregada hoje",
     "CL_AC_auto_defrost_content_n": "O processo automático de descongelamento e limpeza está em andamento e deverá ser concluído em 90 minutos.",
     "CL_CF_CS_wm_g800_cs_step_1": "\n o dispositivo para as condições normais de funcionamento. Toque no ícone de menu e role com o botão seletor até \"Configurações\".",
-    "CL_CF_CS_wm_g800_cs_step_2": "Nas configurações, selecione “Configurações de Wi-Fi”. \n para “Configuração de conexão” e confirme. A rede do dispositivo estará aberta para conexão por 5 minutos. Clique em \n para continuar.",
+    "CL_CF_CS_wm_g800_cs_step_2": "Nas configurações \n escolha “Configurações de Wi-Fi”. Vá para “Configuração de conexão” e confirme. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "Toque e mantenha pressionado o ícone + por 6 segundos até que \n apareça. O dispositivo está pronto para emparelhamento por 3 minutos. Clique em \n para continuar.",
     "CL_AI_AGENT_dish_designer_create_recipes": "Você pode usar o Designer de Pratos para criar suas próprias receitas. Basta adicionar o que você gostaria de cozinhar ou os ingredientes que você tem, e ele criará opções de receitas para você.",
     "create now": "Criar agora",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "Programas adicionais disponíveis na sua máquina de lavar roupa.",
     "CL_DV_WM_additional_program_desc": "Ao conectar sua máquina de lavar ao aplicativo, você desbloqueia uma série de novos programas. Você pode editar a lista de programas em Gerenciamento de Programas.",
     "CL_DV_EY_backup_reserve": "Reserva de segurança",
-    "CL_program_card_failed_load": "Ops, o cartão de programação não carregou. Tente novamente mais tarde."
+    "CL_program_card_failed_load": "Ops, o cartão de programação não carregou. Tente novamente mais tarde.",
+    "yesterday": "Ontem",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "Nenhum ingrediente excluído",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "Nenhuma preferência alimentar selecionada."
 }

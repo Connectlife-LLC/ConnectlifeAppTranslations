@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "Today discharged energy",
     "CL_AC_auto_defrost_content_n": "Automatic defrosting and cleaning in progress, estimated to complete in 90 minutes.",
     "CL_CF_CS_wm_g800_cs_step_1": "Set the device to normal operating conditions.\nTap the menu icon and scroll with selector knob to the “Settings”.",
-    "CL_CF_CS_wm_g800_cs_step_2": "In the settings choose “Wi-Fi Settings”.\nMove to “Connection setup” and confirm. \u2028The device network is now open for connection for 5 minutes. \nClick NEXT to continue.",
+    "CL_CF_CS_wm_g800_cs_step_2": "In the settings choose “Wi-Fi Settings”.\nMove to “Connection setup” and confirm. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "Tap and hold the + icon for 6 seconds until PAr appears.\nThe device is now ready for pairing for 3 minutes.\nClick NEXT to continue.",
     "CL_AI_AGENT_dish_designer_create_recipes": "You can use Dish Designer to create your own recipes. Simply add what you’d like to cook or the ingredients you have, and it will create recipes options for you.",
     "create now": "Create now",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "Additional programs available on your washing machine",
     "CL_DV_WM_additional_program_desc": "By connecting your washing machine to the app, you have unlocked a collection of new programs. You can edit the list of programs in Program Management.",
     "CL_DV_EY_backup_reserve": "Backup reserve",
-    "CL_program_card_failed_load": "Oops, the program card failed to load. Please try again later."
+    "CL_program_card_failed_load": "Oops, the program card failed to load. Please try again later.",
+    "yesterday": "Yesterday",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "No ingredients excluded",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "No dietary preferences selected"
 }

@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "Ma lemerült energia",
     "CL_AC_auto_defrost_content_n": "Automatikus leolvasztás és tisztítás folyamatban, várhatóan 90 perc múlva befejeződik.",
     "CL_CF_CS_wm_g800_cs_step_1": "Állítsa a készüléket normál üzemi körülmények közé. \n Koppintson a menü ikonra, és a választógombbal görgessen a „Beállítások” menüponthoz.",
-    "CL_CF_CS_wm_g800_cs_step_2": "A beállításokban válassza a „Wi-Fi beállítások” lehetőséget. \n Lépjen a „Kapcsolat beállítása” menüpontra, és erősítse meg. Az eszköz hálózata most 5 percig nyitva áll a csatlakozáshoz. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
+    "CL_CF_CS_wm_g800_cs_step_2": "A beállításokban válaszd a „Wi-Fi beállítások” lehetőséget. \n Lépj a „Kapcsolat beállítása” menüpontra, és erősítsd meg. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "Koppintson és tartsa lenyomva a + ikont 6 másodpercig, amíg meg nem jelenik a PAr felirat. \n Az eszköz most 3 percig párosítható. \n Kattintson a KÖVETKEZŐ gombra a folytatáshoz.",
     "CL_AI_AGENT_dish_designer_create_recipes": "A Dish Designer segítségével saját recepteket hozhatsz létre. Egyszerűen add hozzá, amit el szeretnél főzni, vagy a meglévő hozzávalókat, és az alkalmazás receptopciókat készít számodra.",
     "create now": "Létrehozás most",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "További programok elérhetők a mosógépén",
     "CL_DV_WM_additional_program_desc": "A mosógép alkalmazáshoz való csatlakoztatásával új programok gyűjteményét oldotta fel. A programok listáját a Programkezelésben szerkesztheti.",
     "CL_DV_EY_backup_reserve": "Tartalék tartalék",
-    "CL_program_card_failed_load": "Hoppá, a programkártya betöltése sikertelen. Próbáld újra később."
+    "CL_program_card_failed_load": "Hoppá, a programkártya betöltése sikertelen. Próbáld újra később.",
+    "yesterday": "Tegnap",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "Nincsenek kizárt összetevők",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "Nincsenek kiválasztva étkezési preferenciák"
 }

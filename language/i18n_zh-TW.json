@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "今天釋放的能量",
     "CL_AC_auto_defrost_content_n": "自動除霜和清潔正在進行中，預計90分鐘內完成。",
     "CL_CF_CS_wm_g800_cs_step_1": "將設備設定為正常運作狀態。 __ \n點選選單圖標，然後使用選擇旋鈕捲動至「設定」。",
-    "CL_CF_CS_wm_g800_cs_step_2": "在設定中選擇“Wi-Fi 設定”。 __ \n移至「連接設定」並確認。設備網路現已開放連接，有效期限為 5 分鐘。 L__NEWLINE__ 點選「 \n 」繼續。",
+    "CL_CF_CS_wm_g800_cs_step_2": "在設定中選擇“Wi-Fi 設定”。 __ \n移至「連接設定」並確認。 ",
     "CL_CF_CS_wm_g400_600_p_step_2": "按住“+”圖示 6 秒鐘，直到出現\n PAR”。設備現在已準備好進行配對，等待 3 分鐘。點選\n下一步”繼續。",
     "CL_AI_AGENT_dish_designer_create_recipes": "您可以使用「食譜設計器」建立自己的食譜。只需添加您想烹飪的菜餚或您擁有的食材，它就會為您產生食譜選項。",
     "create now": "立即創建",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "您的洗衣機還有其他程序可供選擇",
     "CL_DV_WM_additional_program_desc": "將洗衣機連接到應用程式後，您即可解鎖一系列全新程式。您可以在「程式管理」中編輯程式清單。",
     "CL_DV_EY_backup_reserve": "備用儲備",
-    "CL_program_card_failed_load": "糟糕，程式卡載入失敗。請稍後再試。"
+    "CL_program_card_failed_load": "糟糕，程式卡載入失敗。請稍後再試。",
+    "yesterday": "昨天",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "不排除任何成分",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "未選擇任何飲食偏好"
 }

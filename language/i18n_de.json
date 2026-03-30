@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "Heute wurde Energie freigesetzt",
     "CL_AC_auto_defrost_content_n": "Automatischer Abtau- und Reinigungsvorgang läuft, voraussichtliche Dauer: 90 Minuten.",
     "CL_CF_CS_wm_g800_cs_step_1": "Stellen Sie das Gerät auf normale Betriebsbedingungen ein. Tippen \n auf das Menüsymbol und scrollen Sie mit dem Drehknopf zu „Einstellungen“.",
-    "CL_CF_CS_wm_g800_cs_step_2": "Wählen Sie in den Einstellungen „WLAN-Einstellungen“. Gehen \n zu „Verbindungseinrichtung“ und bestätigen Sie. Das Gerätenetzwerk ist nun für 5 Minuten zur Verbindung bereit. Klicken Sie auf \n, um fortzufahren.",
+    "CL_CF_CS_wm_g800_cs_step_2": "Wählen Sie in den Einstellungen „WLAN-Einstellungen“. \n Sie zu „Verbindungseinrichtung“ und bestätigen Sie. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "Halten Sie das Plus-Symbol 6 Sekunden lang gedrückt, bis \n Par“ angezeigt wird. Das Gerät ist nun 3 Minuten lang bereit zum Koppeln. Klicken Sie auf \n, um fortzufahren.",
     "CL_AI_AGENT_dish_designer_create_recipes": "Mit dem Dish Designer können Sie Ihre eigenen Rezepte erstellen. Geben Sie einfach ein, was Sie kochen möchten oder welche Zutaten Sie haben, und er erstellt Ihnen Rezeptvorschläge.",
     "create now": "Jetzt erstellen",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "Zusätzliche Programme für Ihre Waschmaschine",
     "CL_DV_WM_additional_program_desc": "Durch die Verbindung Ihrer Waschmaschine mit der App haben Sie Zugriff auf eine Reihe neuer Programme. Die Programmliste können Sie in der Programmverwaltung bearbeiten.",
     "CL_DV_EY_backup_reserve": "Backup-Reserve",
-    "CL_program_card_failed_load": "Hoppla, die Programmkarte konnte nicht geladen werden. Bitte versuchen Sie es später erneut."
+    "CL_program_card_failed_load": "Hoppla, die Programmkarte konnte nicht geladen werden. Bitte versuchen Sie es später erneut.",
+    "yesterday": "Gestern",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "Keine Zutaten ausgeschlossen",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "Keine Ernährungspräferenzen ausgewählt"
 }

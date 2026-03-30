@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "今日放电量",
     "CL_AC_auto_defrost_content_n": "自动除霜和清洁正在进行中，预计90分钟内完成。",
     "CL_CF_CS_wm_g800_cs_step_1": "将设备设置为正常运行状态。__ \n点击菜单图标，然后使用选择旋钮滚动到“设置”。",
-    "CL_CF_CS_wm_g800_cs_step_2": "在设置中选择“Wi-Fi 设置”。__ \n移动到“连接设置”并确认。设备网络现已开放连接，有效期为 5 分钟。L__NEWLINE__ 点击“ \n ”继续。",
+    "CL_CF_CS_wm_g800_cs_step_2": "在设置中选择“Wi-Fi 设置”。__ \n移动到“连接设置”并确认。 ",
     "CL_CF_CS_wm_g400_600_p_step_2": "按住“+”图标 6 秒钟，直到出现\n PAR”。设备现在已准备好进行配对，等待 3 分钟。点击\n下一步”继续。",
     "CL_AI_AGENT_dish_designer_create_recipes": "您可以使用“菜谱设计器”创建自己的菜谱。只需添加您想烹饪的菜肴或您拥有的食材，它就会为您生成菜谱选项。",
     "create now": "立即创建",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "洗衣机上还有其他程序可供选择",
     "CL_DV_WM_additional_program_desc": "将洗衣机连接到应用程序后，您即可解锁一系列全新程序。您可以在“程序管理”中编辑程序列表。",
     "CL_DV_EY_backup_reserve": "备用储备",
-    "CL_program_card_failed_load": "糟糕，程序卡加载失败。请稍后再试。"
+    "CL_program_card_failed_load": "糟糕，程序卡加载失败。请稍后再试。",
+    "yesterday": "昨天",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "不排除任何成分",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "未选择任何饮食偏好"
 }
