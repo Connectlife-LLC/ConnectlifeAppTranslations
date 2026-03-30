@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "오늘 방전된 에너지",
     "CL_AC_auto_defrost_content_n": "자동 제상 및 세척이 진행 중이며, 약 90분 후에 완료될 것으로 예상됩니다.",
     "CL_CF_CS_wm_g800_cs_step_1": "기기를 정상 작동 조건으로 설정합니다. \n 메뉴 아이콘을 탭하고 선택기 손잡이를 사용하여 \"설정\"으로 스크롤합니다.",
-    "CL_CF_CS_wm_g800_cs_step_2": "설정에서 \"Wi-Fi 설정\"을 선택하세요. \n \"연결 설정\"으로 이동하여 확인하세요. 이제 기기 네트워크가 5분 동안 연결될 수 있습니다. \n 계속하려면 \"다음\"을 클릭하세요.",
+    "CL_CF_CS_wm_g800_cs_step_2": "설정에서 \"Wi-Fi 설정\"을 선택하세요. \"연결 설정\"으로 이동하여 확인 \n. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "+ 아이콘을 6초간 탭하여 PAr이 나타날 때까지 기다리세요. \n 이제 기기를 3분간 페어링할 준비가 되었습니다. \n 계속하려면 다음을 클릭하세요.",
     "CL_AI_AGENT_dish_designer_create_recipes": "Dish Designer를 사용하면 나만의 레시피를 만들 수 있습니다. 요리하고 싶은 재료나 가지고 있는 재료를 입력하기만 하면 다양한 레시피 옵션이 자동으로 생성됩니다.",
     "create now": "지금 만들기",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "세탁기에서 사용 가능한 추가 프로그램",
     "CL_DV_WM_additional_program_desc": "세탁기를 앱에 연결하면 다양한 새 프로그램들을 이용할 수 있습니다. 프로그램 목록은 프로그램 관리에서 편집할 수 있습니다.",
     "CL_DV_EY_backup_reserve": "백업 예비",
-    "CL_program_card_failed_load": "죄송합니다. 프로그램 카드를 불러오는 데 실패했습니다. 나중에 다시 시도해 주세요."
+    "CL_program_card_failed_load": "죄송합니다. 프로그램 카드를 불러오는 데 실패했습니다. 나중에 다시 시도해 주세요.",
+    "yesterday": "어제",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "어떤 재료도 제외되지 않습니다.",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "식단 관련 선호 사항을 선택하지 않았습니다."
 }

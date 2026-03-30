@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "Vandaag ontladen energie",
     "CL_AC_auto_defrost_content_n": "Automatisch ontdooien en reinigen is bezig. Verwachte voltooiingsdatum 90 minuten.",
     "CL_CF_CS_wm_g800_cs_step_1": "Stel het apparaat in op normale bedrijfsomstandigheden. \n Tik op het menupictogram en scrol met de keuzeknop naar 'Instellingen'.",
-    "CL_CF_CS_wm_g800_cs_step_2": "Kies in de instellingen 'Wi-Fi-instellingen'. \n Ga naar 'Verbindingsinstellingen' en bevestig. Het netwerk van het apparaat is nu 5 minuten open voor verbinding. \n Klik op VOLGENDE om door te gaan.",
+    "CL_CF_CS_wm_g800_cs_step_2": "Ga in de instellingen naar 'Wi-Fi-instellingen'. Ga \n naar 'Verbindingsinstellingen' en bevestig. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "Houd het + pictogram 6 seconden ingedrukt totdat PAr verschijnt. \n Het apparaat is nu 3 minuten lang klaar om te koppelen. \n Klik op VOLGENDE om door te gaan.",
     "CL_AI_AGENT_dish_designer_create_recipes": "Met Dish Designer kun je je eigen recepten maken. Voeg simpelweg toe wat je wilt koken of welke ingrediënten je hebt, en de app maakt receptopties voor je aan.",
     "create now": "Nu aanmaken",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "Extra programma's beschikbaar op uw wasmachine",
     "CL_DV_WM_additional_program_desc": "Door je wasmachine met de app te verbinden, heb je toegang gekregen tot een reeks nieuwe programma's. Je kunt de lijst met programma's bewerken in Programmabeheer.",
     "CL_DV_EY_backup_reserve": "Reserve reserve",
-    "CL_program_card_failed_load": "Oeps, de programmakaart kon niet worden geladen. Probeer het later opnieuw."
+    "CL_program_card_failed_load": "Oeps, de programmakaart kon niet worden geladen. Probeer het later opnieuw.",
+    "yesterday": "Gisteren",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "Geen ingrediënten uitgesloten",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "Geen dieetvoorkeuren geselecteerd"
 }

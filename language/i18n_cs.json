@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "Dnes vybitá energie",
     "CL_AC_auto_defrost_content_n": "Probíhá automatické odmrazování a čištění, odhadované dokončení za 90 minut.",
     "CL_CF_CS_wm_g800_cs_step_1": "Nastavte zařízení do normálního provozního stavu. \n Klepněte na ikonu nabídky a pomocí voliče přejděte na „Nastavení“.",
-    "CL_CF_CS_wm_g800_cs_step_2": "V nastavení vyberte „Nastavení Wi-Fi“. \n Přejděte na „Nastavení připojení“ a potvrďte. Síť zařízení je nyní otevřená pro připojení po dobu 5 minut. \n Klikněte na DALŠÍ pro pokračování.",
+    "CL_CF_CS_wm_g800_cs_step_2": "V nastavení vyberte „Nastavení Wi-Fi“. \n Přejděte na „Nastavení připojení“ a potvrďte. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "Klepněte a podržte ikonu + po dobu 6 sekund, dokud se nezobrazí PAr. \n Zařízení je nyní připraveno k párování po dobu 3 minut. \n Klikněte na DALŠÍ pro pokračování.",
     "CL_AI_AGENT_dish_designer_create_recipes": "Pomocí nástroje Dish Designer si můžete vytvořit vlastní recepty. Jednoduše přidejte, co chcete vařit, nebo ingredience, které máte, a program vám vytvoří možnosti receptů.",
     "create now": "Vytvořit nyní",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "Další programy dostupné pro vaši pračku",
     "CL_DV_WM_additional_program_desc": "Propojením pračky s aplikací jste odemkli kolekci nových programů. Seznam programů můžete upravovat ve Správě programů.",
     "CL_DV_EY_backup_reserve": "Záložní rezerva",
-    "CL_program_card_failed_load": "Jejda, karta programu se nepodařilo načíst. Zkuste to prosím znovu později."
+    "CL_program_card_failed_load": "Jejda, karta programu se nepodařilo načíst. Zkuste to prosím znovu později.",
+    "yesterday": "Včera",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "Žádné vyloučené ingredience",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "Žádné dietní preference nebyly vybrány"
 }

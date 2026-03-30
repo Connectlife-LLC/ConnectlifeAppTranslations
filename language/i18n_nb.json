@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "I dag utladet energi",
     "CL_AC_auto_defrost_content_n": "Automatisk avriming og rengjøring pågår, beregnet å være fullført på 90 minutter.",
     "CL_CF_CS_wm_g800_cs_step_1": "Sett enheten til normale driftsforhold. \n Trykk på menyikonet og bla med valgknappen til «Innstillinger».",
-    "CL_CF_CS_wm_g800_cs_step_2": "I innstillingene velger du «Wi-Fi-innstillinger». \n Gå til «Tilkoblingsoppsett» og bekreft. Enhetens nettverk er nå åpent for tilkobling i 5 minutter. \n Klikk på NESTE for å fortsette.",
+    "CL_CF_CS_wm_g800_cs_step_2": "I innstillingene velger du «Wi-Fi-innstillinger». \n Gå til «Tilkoblingsoppsett» og bekreft. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "Trykk og hold inne +-ikonet i 6 sekunder til PAr vises. \n Enheten er nå klar for paring i 3 minutter. \n Klikk på NESTE for å fortsette.",
     "CL_AI_AGENT_dish_designer_create_recipes": "Du kan bruke Dish Designer til å lage dine egne oppskrifter. Bare legg til det du ønsker å lage mat eller ingrediensene du har, så lager den oppskriftsalternativer for deg.",
     "create now": "Opprett nå",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "Flere programmer tilgjengelig på vaskemaskinen din",
     "CL_DV_WM_additional_program_desc": "Ved å koble vaskemaskinen til appen har du låst opp en samling nye programmer. Du kan redigere programlisten i Programadministrasjon.",
     "CL_DV_EY_backup_reserve": "Backup-reserve",
-    "CL_program_card_failed_load": "Ups, programkortet kunne ikke lastes inn. Prøv igjen senere."
+    "CL_program_card_failed_load": "Ups, programkortet kunne ikke lastes inn. Prøv igjen senere.",
+    "yesterday": "I går",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "Ingen ingredienser utelukket",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "Ingen kostholdspreferanser valgt"
 }

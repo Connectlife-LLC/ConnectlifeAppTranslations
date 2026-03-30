@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "今日放電されたエネルギー",
     "CL_AC_auto_defrost_content_n": "自動霜取りと洗浄が進行中です。90 分以内に完了すると予想されます。",
     "CL_CF_CS_wm_g800_cs_step_1": "デバイスを通常の動作状態に設定します。__ \nメニュー アイコンをタップし、セレクター ノブで「設定」までスクロールします。",
-    "CL_CF_CS_wm_g800_cs_step_2": "設定で「Wi-Fi設定」を選択してください。__ \n 「接続設定」に移動して確定します。デバイスのネットワークは5分間接続可能になります。L__NEWLINE__ \n次へ」をクリックして続行してください。",
+    "CL_CF_CS_wm_g800_cs_step_2": "設定で「Wi-Fi設定」を選択します。__ \n 「接続設定」に移動して確認します。 ",
     "CL_CF_CS_wm_g400_600_p_step_2": "PAr が表示されるまで、+ アイコンを 6 秒間タップして押し続けます。__ \nデバイスは 3 分間ペアリングできる状態になりました。__ \n [次へ] をクリックして続行します。",
     "CL_AI_AGENT_dish_designer_create_recipes": "Dish Designerを使えば、自分だけのオリジナルレシピを作成できます。作りたい料理やお手持ちの食材を入力するだけで、レシピの選択肢が自動的に作成されます。",
     "create now": "今すぐ作成",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "洗濯機で利用できる追加プログラム",
     "CL_DV_WM_additional_program_desc": "洗濯機をアプリに接続することで、新しいプログラムが多数利用可能になります。プログラム一覧は「プログラム管理」で編集できます。",
     "CL_DV_EY_backup_reserve": "予備品",
-    "CL_program_card_failed_load": "申し訳ありませんが、プログラムカードの読み込みに失敗しました。しばらくしてからもう一度お試しください。"
+    "CL_program_card_failed_load": "申し訳ありませんが、プログラムカードの読み込みに失敗しました。しばらくしてからもう一度お試しください。",
+    "yesterday": "昨日",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "除外される成分はありません",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "食事に関する好みは選択されていません"
 }

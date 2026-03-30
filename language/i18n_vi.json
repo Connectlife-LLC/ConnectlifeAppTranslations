@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "Hôm nay xả năng lượng",
     "CL_AC_auto_defrost_content_n": "Đang tiến hành rã đông và vệ sinh tự động, dự kiến hoàn tất trong 90 phút.",
     "CL_CF_CS_wm_g800_cs_step_1": "Đặt thiết bị ở điều kiện hoạt động bình thường. \n Nhấn vào biểu tượng menu và cuộn bằng núm chọn đến “Cài đặt”.",
-    "CL_CF_CS_wm_g800_cs_step_2": "Trong phần cài đặt, chọn \"Cài đặt Wi-Fi\". \n Di chuyển đến \"Thiết lập kết nối\" và xác nhận. Mạng của thiết bị hiện đã mở để kết nối trong 5 phút. \n Nhấp vào TIẾP THEO để tiếp tục.",
+    "CL_CF_CS_wm_g800_cs_step_2": "Trong phần cài đặt, chọn “Cài đặt Wi-Fi”. \n Chuyển đến “Thiết lập kết nối” và xác nhận. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "Chạm và giữ biểu tượng + trong 6 giây cho đến khi PAr xuất hiện. \n Thiết bị hiện đã sẵn sàng để ghép nối trong 3 phút. \n Nhấp vào TIẾP THEO để tiếp tục.",
     "CL_AI_AGENT_dish_designer_create_recipes": "Bạn có thể sử dụng Dish Designer để tạo công thức nấu ăn của riêng mình. Chỉ cần thêm món bạn muốn nấu hoặc nguyên liệu bạn có, công cụ sẽ tự động tạo ra các tùy chọn công thức.",
     "create now": "Tạo ngay",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "Các chương trình bổ sung có sẵn trên máy giặt của bạn",
     "CL_DV_WM_additional_program_desc": "Bằng cách kết nối máy giặt với ứng dụng, bạn đã mở khóa được một bộ sưu tập các chương trình mới. Bạn có thể chỉnh sửa danh sách chương trình trong mục Quản lý chương trình.",
     "CL_DV_EY_backup_reserve": "Dự trữ dự phòng",
-    "CL_program_card_failed_load": "Rất tiếc, thẻ chương trình không tải được. Vui lòng thử lại sau."
+    "CL_program_card_failed_load": "Rất tiếc, thẻ chương trình không tải được. Vui lòng thử lại sau.",
+    "yesterday": "Hôm qua",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "Không loại bỏ bất kỳ thành phần nào.",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "Không có tùy chọn ăn kiêng nào được chọn"
 }

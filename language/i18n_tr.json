@@ -7082,7 +7082,7 @@
     "CL_DV_EY_today_discharged": "Bugün deşarj edilen enerji",
     "CL_AC_auto_defrost_content_n": "Otomatik çözme ve temizleme işlemi devam ediyor, 90 dakikada tamamlanması tahmin ediliyor.",
     "CL_CF_CS_wm_g800_cs_step_1": "Cihazı normal çalışma koşullarına ayarlayın. \n Menü simgesine dokunun ve seçim düğmesini kullanarak “Ayarlar”a gidin.",
-    "CL_CF_CS_wm_g800_cs_step_2": "Ayarlarda \"Wi-Fi Ayarları\"nı seçin. \n \"Bağlantı kurulumu\"na gidin ve onaylayın. Cihaz ağı artık 5 dakika boyunca bağlantıya açık. \n Devam etmek için İLERİ'ye tıklayın.",
+    "CL_CF_CS_wm_g800_cs_step_2": "Ayarlar bölümünde “Wi-Fi Ayarları”nı seçin. “Bağlantı kurulumu”na \n ve onaylayın. ",
     "CL_CF_CS_wm_g400_600_p_step_2": "PAr görünene kadar + simgesine 6 saniye basılı tutun. \n Cihaz artık 3 dakika boyunca eşleştirmeye hazır. \n Devam etmek için İLERİ'ye tıklayın.",
     "CL_AI_AGENT_dish_designer_create_recipes": "Kendi tariflerinizi oluşturmak için Dish Designer'ı kullanabilirsiniz. Pişirmek istediklerinizi veya elinizdeki malzemeleri eklemeniz yeterli; sizin için tarif seçenekleri oluşturulacaktır.",
     "create now": "Şimdi oluştur",
@@ -8143,5 +8143,8 @@
     "CL_DV_WM_additional_program_title": "Çamaşır makinenizde bulunan ek programlar",
     "CL_DV_WM_additional_program_desc": "Çamaşır makinenizi uygulamaya bağlayarak yeni programların kilidini açtınız. Program Yönetimi bölümünden program listesini düzenleyebilirsiniz.",
     "CL_DV_EY_backup_reserve": "Yedek rezerv",
-    "CL_program_card_failed_load": "Üzgünüz, program kartı yüklenemedi. Lütfen daha sonra tekrar deneyin."
+    "CL_program_card_failed_load": "Üzgünüz, program kartı yüklenemedi. Lütfen daha sonra tekrar deneyin.",
+    "yesterday": "Dün",
+    "CL_DISH_DESIGNER_no_ingredients_excluded": "Hiçbir içerik maddesi hariç tutulmamıştır.",
+    "CL_DISH_DESIGNER_no_dietary_preferences": "Beslenme tercihi seçilmedi."
 }
