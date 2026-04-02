@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "清潔工作已完成",
     "CL_DV_OV_program_finished": "節目結束",
     "CL_DV_OV_cleaning_finished_desc": "清潔程序已完成。\n請手動完成烤箱清潔。",
-    "CL_DV_OV_program_has_finished": "節目已結束。"
+    "CL_DV_OV_program_has_finished": "節目已結束。",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "非常適合音樂愛好者，但會縮短電池續航時間。",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "非常適合辦公室使用，電池續航力更長。",
+    "CL_VC_SOUND_EFFECT_MUSIC": "音樂",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "它能清楚地還原音樂的細微之處，層次分明，是各種高品質音樂的理想之選。",
+    "CL_VC_SOUND_EFFECT_MOVIE": "電影",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "音效強勁且身臨其境，非常適合觀看電影和玩遊戲。",
+    "CL_VC_SOUND_EFFECT_NEWS": "新聞",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "增強語音清晰度並降低背景噪音，使其成為聆聽教育內容的理想選擇。",
+    "CL_VC_SOUND_EFFECT_ELDER": "長老",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "專為老年人設計的高頻補償功能，幫助他們聽得更清楚。"
 }

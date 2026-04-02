@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "تمیز کردن تمام شد",
     "CL_DV_OV_program_finished": "برنامه تمام شد",
     "CL_DV_OV_cleaning_finished_desc": "برنامه تمیز کردن تمام شده است. \n تمیز کردن دستی فر را تمام کنید.",
-    "CL_DV_OV_program_has_finished": "برنامه تمام شد."
+    "CL_DV_OV_program_has_finished": "برنامه تمام شد.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "ایده‌آل برای علاقه‌مندان به موسیقی، اما این کار باعث کاهش عمر باتری می‌شود.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "ایده‌آل برای استفاده در دفتر، با عمر باتری طولانی‌تر.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "موسیقی",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "جزئیات ظریف‌تر موسیقی را با لایه‌های واضح بازیابی می‌کند و آن را برای انواع موسیقی با کیفیت بالا ایده‌آل می‌سازد.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "فیلم",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "صدای قدرتمند و فراگیر، آن را برای تماشای فیلم و بازی ایده‌آل می‌کند.",
+    "CL_VC_SOUND_EFFECT_NEWS": "اخبار",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "وضوح گفتار را افزایش داده و نویز پس‌زمینه را کاهش می‌دهد، که آن را برای گوش دادن به محتوای آموزشی ایده‌آل می‌کند.",
+    "CL_VC_SOUND_EFFECT_ELDER": "پیر",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "جبران فرکانس بالا که برای افراد مسن مناسب است و به آنها کمک می‌کند تا واضح‌تر بشنوند."
 }

@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Rengjøring ferdig",
     "CL_DV_OV_program_finished": "Programmet er ferdig",
     "CL_DV_OV_cleaning_finished_desc": "Rengjøringsprogrammet er fullført. \n Fullfør rengjøringen av ovnen manuelt.",
-    "CL_DV_OV_program_has_finished": "Programmet er ferdig."
+    "CL_DV_OV_program_has_finished": "Programmet er ferdig.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Ideelt for musikkentusiaster, men dette vil redusere batterilevetiden.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Ideell for kontorbruk, med lengre batterilevetid.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Musikk",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Gjenoppretter de finere detaljene i musikken med klare lag, noe som gjør den ideell for alle typer musikk av høy kvalitet.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Film",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Lyden er kraftig og oppslukende, noe som gjør den ideell for å se på film og spille spill.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Nyheter",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Forbedrer taleklarheten og reduserer bakgrunnsstøy, noe som gjør den ideell for lytting til pedagogisk innhold.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Eldre",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Høyfrekvenskompensasjon skreddersydd for eldre voksne, og hjelper dem å høre tydeligere."
 }

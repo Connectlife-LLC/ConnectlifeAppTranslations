@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Pulizia terminata",
     "CL_DV_OV_program_finished": "Programma terminato",
     "CL_DV_OV_cleaning_finished_desc": "Il programma di pulizia è terminato. \n Completare la pulizia del forno manualmente.",
-    "CL_DV_OV_program_has_finished": "Il programma è terminato."
+    "CL_DV_OV_program_has_finished": "Il programma è terminato.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Ideale per gli appassionati di musica, ma ciò ridurrà la durata della batteria.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Ideale per l'uso in ufficio, con una maggiore durata della batteria.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Musica",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Ripristina i dettagli più fini della musica con strati nitidi, risultando ideale per tutti i tipi di musica di alta qualità.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Cinema",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Il suono è potente e coinvolgente, il che lo rende ideale per guardare film e giocare.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Notizie",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Migliora la chiarezza del parlato e riduce il rumore di fondo, risultando ideale per l'ascolto di contenuti didattici.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Anziano",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Compensazione delle alte frequenze studiata appositamente per gli anziani, per aiutarli a sentire più chiaramente."
 }

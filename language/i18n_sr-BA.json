@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Чишћење завршено",
     "CL_DV_OV_program_finished": "Програм завршен",
     "CL_DV_OV_cleaning_finished_desc": "Програм чишћења је завршен. \n Завршите чишћење рерне ручно.",
-    "CL_DV_OV_program_has_finished": "Програм је завршен."
+    "CL_DV_OV_program_has_finished": "Програм је завршен.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Идеално за љубитеље музике, али ће ово скратити трајање батерије.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Идеалан за канцеларијску употребу, са дужим трајањем батерије.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Музика",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Враћа финије детаље музике са јасним слојевима, што га чини идеалним за све врсте висококвалитетне музике.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Филм",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Звук је снажан и импресиван, што га чини идеалним за гледање филмова и играње игара.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Вести",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Побољшава јасноћу говора и смањује позадинску буку, што га чини идеалним за слушање образовног садржаја.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Старији",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Компензација високих фреквенција прилагођена старијим особама, помажући им да јасније чују."
 }

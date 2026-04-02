@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Takarítás befejezve",
     "CL_DV_OV_program_finished": "A program befejeződött",
     "CL_DV_OV_cleaning_finished_desc": "A tisztítóprogram befejeződött. \n Fejezze be a sütő kézi tisztítását.",
-    "CL_DV_OV_program_has_finished": "A program véget ért."
+    "CL_DV_OV_program_has_finished": "A program véget ért.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Zenerajongóknak ideális, de ez csökkenti az akkumulátor élettartamát.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Ideális irodai használatra, hosszabb akkumulátor-üzemidővel.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Zene",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Tiszta rétegekkel állítja vissza a zene finomabb részleteit, így ideális mindenféle kiváló minőségű zenéhez.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Film",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "A hangzás erőteljes és magával ragadó, így ideális filmnézéshez és játékhoz.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Hírek",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Javítja a beszédtisztaságot és csökkenti a háttérzajt, így ideális oktatási tartalmak hallgatásához.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Idősebb",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Idősebb felnőttek számára testreszabott nagyfrekvenciás kompenzáció, amely segít nekik tisztább hallásban."
 }

@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "清掃完了",
     "CL_DV_OV_program_finished": "プログラムが終了しました",
     "CL_DV_OV_cleaning_finished_desc": "クリーニングプログラムが終了しました。 \nオーブンを手動でクリーニングしてください。",
-    "CL_DV_OV_program_has_finished": "プログラムは終了しました。"
+    "CL_DV_OV_program_has_finished": "プログラムは終了しました。",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "音楽愛好家には理想的だが、バッテリー寿命は短くなる。",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "オフィスでの使用に最適で、バッテリー寿命も長い。",
+    "CL_VC_SOUND_EFFECT_MUSIC": "音楽",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "クリアなレイヤーで音楽の繊細なディテールを復元するため、あらゆる種類の高音質音楽に最適です。",
+    "CL_VC_SOUND_EFFECT_MOVIE": "映画",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "迫力のある臨場感あふれるサウンドは、映画鑑賞やゲームプレイに最適です。",
+    "CL_VC_SOUND_EFFECT_NEWS": "ニュース",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "音声の明瞭度を高め、周囲の雑音を低減するため、教育コンテンツの視聴に最適です。",
+    "CL_VC_SOUND_EFFECT_ELDER": "年配者",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "高齢者向けに調整された高周波補正機能により、よりクリアな聴こえを実現します。"
 }

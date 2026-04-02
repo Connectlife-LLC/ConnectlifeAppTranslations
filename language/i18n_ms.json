@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Pembersihan selesai",
     "CL_DV_OV_program_finished": "Program selesai",
     "CL_DV_OV_cleaning_finished_desc": "Program pembersihan telah selesai. \n Selesaikan pembersihan ketuhar secara manual.",
-    "CL_DV_OV_program_has_finished": "Program telah selesai."
+    "CL_DV_OV_program_has_finished": "Program telah selesai.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Sesuai untuk peminat muzik, tetapi ini akan mengurangkan hayat bateri.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Sesuai untuk kegunaan pejabat, dengan jangka hayat bateri yang lebih lama.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Muzik",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Mengembalikan perincian muzik yang lebih halus dengan lapisan yang jelas, menjadikannya sesuai untuk semua jenis muzik berkualiti tinggi.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Filem",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Bunyinya yang kuat dan mengasyikkan, menjadikannya sesuai untuk menonton filem dan bermain permainan.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Berita",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Meningkatkan kejelasan pertuturan dan mengurangkan hingar latar belakang, menjadikannya sesuai untuk mendengar kandungan pendidikan.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Orang tua",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Pampasan frekuensi tinggi yang disesuaikan untuk warga emas, membantu mereka mendengar dengan lebih jelas."
 }

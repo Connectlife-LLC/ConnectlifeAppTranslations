@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Siivous valmis",
     "CL_DV_OV_program_finished": "Ohjelma päättynyt",
     "CL_DV_OV_cleaning_finished_desc": "Puhdistusohjelma on päättynyt. \n Viimeistele uunin puhdistus manuaalisesti.",
-    "CL_DV_OV_program_has_finished": "Ohjelma on päättynyt."
+    "CL_DV_OV_program_has_finished": "Ohjelma on päättynyt.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Ihanteellinen musiikin ystäville, mutta tämä lyhentää akun käyttöikää.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Ihanteellinen toimistokäyttöön, pidempi akunkesto.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Musiikki",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Palauttaa musiikin hienoimmatkin yksityiskohdat selkeillä kerroksilla, mikä tekee siitä ihanteellisen kaikenlaiselle korkealaatuiselle musiikille.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Elokuva",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Ääni on voimakas ja mukaansatempaava, joten se sopii erinomaisesti elokuvien katseluun ja pelaamiseen.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Uutiset",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Parantaa puheen selkeyttä ja vähentää taustamelua, joten se sopii erinomaisesti opetusmateriaalin kuunteluun.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Vanhin",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Ikääntyneille aikuisille räätälöity korkeataajuuksien kompensointi, joka auttaa heitä kuulemaan selkeämmin."
 }

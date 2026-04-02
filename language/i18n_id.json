@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Pembersihan selesai",
     "CL_DV_OV_program_finished": "Program selesai",
     "CL_DV_OV_cleaning_finished_desc": "Program pembersihan telah selesai. \n Selesaikan pembersihan oven secara manual.",
-    "CL_DV_OV_program_has_finished": "Program telah selesai."
+    "CL_DV_OV_program_has_finished": "Program telah selesai.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Ideal untuk penggemar musik, tetapi ini akan mengurangi daya tahan baterai.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Ideal untuk penggunaan di kantor, dengan daya tahan baterai yang lebih lama.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Musik",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Mengembalikan detail-detail halus musik dengan lapisan yang jernih, menjadikannya ideal untuk semua jenis musik berkualitas tinggi.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Film",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Suaranya kuat dan imersif, sehingga ideal untuk menonton film dan bermain game.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Berita",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Meningkatkan kejelasan suara dan mengurangi kebisingan latar belakang, sehingga ideal untuk mendengarkan konten pendidikan.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Lebih tua",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Kompensasi frekuensi tinggi yang dirancang khusus untuk lansia, membantu mereka mendengar lebih jelas."
 }

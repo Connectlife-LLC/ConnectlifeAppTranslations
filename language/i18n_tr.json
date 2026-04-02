@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Temizlik tamamlandı",
     "CL_DV_OV_program_finished": "Program sona erdi.",
     "CL_DV_OV_cleaning_finished_desc": "Temizleme programı tamamlandı. Fırını \n olarak temizlemeyi bitirin.",
-    "CL_DV_OV_program_has_finished": "Program sona erdi."
+    "CL_DV_OV_program_has_finished": "Program sona erdi.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Müzikseverler için ideal, ancak bu pil ömrünü kısaltacaktır.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Daha uzun pil ömrüyle ofis kullanımı için idealdir.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Müzik",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Müziğin ince detaylarını net katmanlarla geri kazandırarak her türlü yüksek kaliteli müzik için ideal hale getirir.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Film",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Ses kalitesi güçlü ve etkileyici, bu da onu film izlemek ve oyun oynamak için ideal kılıyor.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Haberler",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Konuşma netliğini artırır ve arka plan gürültüsünü azaltır, bu da onu eğitim içeriklerini dinlemek için ideal hale getirir.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Yaşlı",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Yaşlı yetişkinler için özel olarak tasarlanmış yüksek frekans telafisi, daha net duymalarına yardımcı olur."
 }

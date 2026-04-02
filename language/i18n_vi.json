@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Việc dọn dẹp đã hoàn tất.",
     "CL_DV_OV_program_finished": "Chương trình đã kết thúc",
     "CL_DV_OV_cleaning_finished_desc": "Chương trình làm sạch đã hoàn tất. \n Hoàn tất việc làm sạch lò nướng bằng tay.",
-    "CL_DV_OV_program_has_finished": "Chương trình đã kết thúc."
+    "CL_DV_OV_program_has_finished": "Chương trình đã kết thúc.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Sản phẩm lý tưởng cho những người yêu âm nhạc, nhưng sẽ làm giảm thời lượng pin.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Lý tưởng để sử dụng trong văn phòng, với thời lượng pin dài hơn.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Âm nhạc",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Khôi phục những chi tiết tinh tế nhất của âm nhạc với các lớp âm thanh rõ ràng, lý tưởng cho mọi thể loại nhạc chất lượng cao.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Phim",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Âm thanh mạnh mẽ và sống động, lý tưởng cho việc xem phim và chơi game.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Tin tức",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Tăng cường độ rõ ràng của giọng nói và giảm tiếng ồn xung quanh, lý tưởng cho việc nghe các nội dung giáo dục.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Trưởng lão",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Công nghệ bù tần số cao được thiết kế riêng cho người lớn tuổi, giúp họ nghe rõ hơn."
 }

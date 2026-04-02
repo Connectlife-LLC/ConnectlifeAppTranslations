@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Curățenie finalizată",
     "CL_DV_OV_program_finished": "Program finalizat",
     "CL_DV_OV_cleaning_finished_desc": "Programul de curățare s-a terminat. \n Terminați curățarea manuală a cuptorului.",
-    "CL_DV_OV_program_has_finished": "Programul s-a terminat."
+    "CL_DV_OV_program_has_finished": "Programul s-a terminat.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Ideal pentru pasionații de muzică, dar acest lucru va reduce durata de viață a bateriei.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Ideal pentru uz la birou, cu o durată mai lungă de viață a bateriei.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Muzică",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Restaurează detaliile mai fine ale muzicii cu straturi clare, fiind ideal pentru toate tipurile de muzică de înaltă calitate.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Filme",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Sunetul este puternic și captivant, fiind ideal pentru vizionarea de filme și jocuri.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Știri",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Îmbunătățește claritatea vorbirii și reduce zgomotul de fundal, fiind ideal pentru ascultarea de conținut educațional.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Bătrân",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Compensare de înaltă frecvență adaptată pentru adulții în vârstă, ajutându-i să audă mai clar."
 }

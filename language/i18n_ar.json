@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "تم الانتهاء من التنظيف",
     "CL_DV_OV_program_finished": "تم الانتهاء من البرنامج",
     "CL_DV_OV_cleaning_finished_desc": "انتهى برنامج التنظيف. \n أكمل تنظيف الفرن يدويًا.",
-    "CL_DV_OV_program_has_finished": "انتهى البرنامج."
+    "CL_DV_OV_program_has_finished": "انتهى البرنامج.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "مثالي لعشاق الموسيقى، لكن هذا سيقلل من عمر البطارية.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "مثالي للاستخدام المكتبي، مع عمر بطارية أطول.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "موسيقى",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "يعيد هذا البرنامج التفاصيل الدقيقة للموسيقى بطبقات واضحة، مما يجعله مثالياً لجميع أنواع الموسيقى عالية الجودة.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "فيلم",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "الصوت قوي وغامر، مما يجعله مثالياً لمشاهدة الأفلام ولعب الألعاب.",
+    "CL_VC_SOUND_EFFECT_NEWS": "أخبار",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "يعزز وضوح الكلام ويقلل من الضوضاء المحيطة، مما يجعله مثالياً للاستماع إلى المحتوى التعليمي.",
+    "CL_VC_SOUND_EFFECT_ELDER": "الاكبر",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "تعويض الترددات العالية المصمم خصيصًا لكبار السن، مما يساعدهم على السمع بشكل أوضح."
 }

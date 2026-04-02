@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Schoonmaak voltooid",
     "CL_DV_OV_program_finished": "Programma afgerond",
     "CL_DV_OV_cleaning_finished_desc": "Het reinigingsprogramma is voltooid. \n Maak de ovenreiniging handmatig af.",
-    "CL_DV_OV_program_has_finished": "Het programma is afgelopen."
+    "CL_DV_OV_program_has_finished": "Het programma is afgelopen.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Ideaal voor muziekliefhebbers, maar dit verkort wel de batterijduur.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Ideaal voor kantoorgebruik, met een langere batterijduur.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Muziek",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Het herstelt de fijnere details van de muziek met heldere lagen, waardoor het ideaal is voor alle soorten muziek van hoge kwaliteit.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Film",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Het geluid is krachtig en meeslepend, waardoor het ideaal is voor het kijken van films en het spelen van games.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Nieuws",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Verbetert de spraakverstaanbaarheid en vermindert achtergrondgeluid, waardoor het ideaal is voor het luisteren naar educatieve content.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Ouderling",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Hoogfrequente compensatie, speciaal ontwikkeld voor ouderen, waardoor ze beter kunnen horen."
 }

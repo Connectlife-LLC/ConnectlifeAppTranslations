@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Čištění dokončeno",
     "CL_DV_OV_program_finished": "Program dokončen",
     "CL_DV_OV_cleaning_finished_desc": "Čisticí program je dokončen. \n Dokončete čištění trouby ručně.",
-    "CL_DV_OV_program_has_finished": "Program skončil."
+    "CL_DV_OV_program_has_finished": "Program skončil.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Ideální pro hudební nadšence, ale zkrátí se tím výdrž baterie.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Ideální pro kancelářské použití, s delší výdrží baterie.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Hudba",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Obnovuje jemnější detaily hudby s čistými vrstvami, takže je ideální pro všechny druhy vysoce kvalitní hudby.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Film",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Zvuk je silný a pohlcující, takže je ideální pro sledování filmů a hraní her.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Zprávy",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Zvyšuje srozumitelnost řeči a snižuje hluk na pozadí, takže je ideální pro poslech vzdělávacího obsahu.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Starší",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Vysokofrekvenční kompenzace přizpůsobená starším dospělým, která jim pomáhá slyšet jasněji."
 }

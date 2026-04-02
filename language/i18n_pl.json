@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "Sprzątanie zakończone",
     "CL_DV_OV_program_finished": "Program zakończony",
     "CL_DV_OV_cleaning_finished_desc": "Program czyszczenia został zakończony. \n Zakończ czyszczenie piekarnika ręcznie.",
-    "CL_DV_OV_program_has_finished": "Program został zakończony."
+    "CL_DV_OV_program_has_finished": "Program został zakończony.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "Idealne dla entuzjastów muzyki, ale skraca czas pracy baterii.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "Idealny do zastosowań biurowych, z dłuższą żywotnością baterii.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "Muzyka",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "Przywraca drobniejsze szczegóły muzyki dzięki wyraźnym warstwom, dzięki czemu idealnie nadaje się do wszelkiego rodzaju muzyki wysokiej jakości.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "Film",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "Dźwięk jest mocny i wciągający, dzięki czemu idealnie nadaje się do oglądania filmów i grania w gry.",
+    "CL_VC_SOUND_EFFECT_NEWS": "Wiadomości",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "Poprawia czytelność mowy i redukuje szumy tła, dzięki czemu doskonale nadaje się do słuchania treści edukacyjnych.",
+    "CL_VC_SOUND_EFFECT_ELDER": "Starszy",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "Kompensacja wysokich częstotliwości dostosowana do potrzeb osób starszych, pomagająca im słyszeć wyraźniej."
 }

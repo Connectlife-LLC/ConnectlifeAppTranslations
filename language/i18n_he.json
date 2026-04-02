@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "הניקוי הסתיים",
     "CL_DV_OV_program_finished": "התוכנית הסתיימה",
     "CL_DV_OV_cleaning_finished_desc": "תוכנית הניקוי הסתיימה. \n סיים את ניקוי התנור באופן ידני.",
-    "CL_DV_OV_program_has_finished": "התוכנית הסתיימה."
+    "CL_DV_OV_program_has_finished": "התוכנית הסתיימה.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "אידיאלי לחובבי מוזיקה, אך זה יקצר את חיי הסוללה.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "אידיאלי לשימוש משרדי, עם חיי סוללה ארוכים יותר.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "מוּסִיקָה",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "משחזר את הפרטים העדינים של המוזיקה עם שכבות שקופות, מה שהופך אותו לאידיאלי עבור כל סוגי המוזיקה באיכות גבוהה.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "סרט",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "הסאונד עוצמתי וסוחף, מה שהופך אותו לאידיאלי לצפייה בסרטים ומשחקים.",
+    "CL_VC_SOUND_EFFECT_NEWS": "חדשות",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "משפר את בהירות הדיבור ומפחית רעשי רקע, מה שהופך אותו לאידיאלי להאזנה לתוכן חינוכי.",
+    "CL_VC_SOUND_EFFECT_ELDER": "זָקֵן",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "פיצוי בתדרים גבוהים המותאם למבוגרים, ועוזר להם לשמוע בצורה ברורה יותר."
 }

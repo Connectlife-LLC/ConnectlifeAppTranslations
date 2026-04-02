@@ -8317,5 +8317,15 @@
     "CL_DV_OV_cleaning_finished": "청소 완료",
     "CL_DV_OV_program_finished": "프로그램 종료됨",
     "CL_DV_OV_cleaning_finished_desc": "청소 프로그램이 완료되었습니다. 오븐을 \n 으로 청소하세요.",
-    "CL_DV_OV_program_has_finished": "프로그램이 종료되었습니다."
+    "CL_DV_OV_program_has_finished": "프로그램이 종료되었습니다.",
+    "CL_VC_BATTERY_MODE_HIFI_DESC": "음악 애호가에게는 이상적이지만, 이로 인해 배터리 수명이 단축될 수 있습니다.",
+    "CL_VC_BATTERY_MODE_ENDURANCE_DESC": "사무실 사용에 적합하며 배터리 수명이 깁니다.",
+    "CL_VC_SOUND_EFFECT_MUSIC": "음악",
+    "CL_VC_SOUND_EFFECT_MUSIC_DESC": "음악의 미세한 디테일까지 선명한 레이어로 복원하여 모든 종류의 고품질 음악에 이상적입니다.",
+    "CL_VC_SOUND_EFFECT_MOVIE": "영화",
+    "CL_VC_SOUND_EFFECT_MOVIE_DESC": "강력하고 몰입감 넘치는 사운드 덕분에 영화 감상과 게임 플레이에 이상적입니다.",
+    "CL_VC_SOUND_EFFECT_NEWS": "뉴스",
+    "CL_VC_SOUND_EFFECT_NEWS_DESC": "음성 명료도를 높이고 배경 소음을 줄여 교육 콘텐츠 청취에 이상적입니다.",
+    "CL_VC_SOUND_EFFECT_ELDER": "장로",
+    "CL_VC_SOUND_EFFECT_ELDER_DESC": "노인분들의 청력을 향상시키기 위해 고주파수 보정 기능을 맞춤 설정했습니다."
 }
