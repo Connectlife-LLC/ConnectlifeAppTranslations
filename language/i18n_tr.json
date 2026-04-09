@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Öğeler",
     "CL_CM_CK_shop_instacart": "Instacart ile alışveriş yapın",
     "CL_DISH_DESIGNER_send_oven_tips": "Fırınınıza ön ısıtma ayarları gönderildi. Hazır olduğunuzda fırını çalıştırabilirsiniz.",
-    "hood_in_hob": "Ocakta kaput"
+    "hood_in_hob": "Ocakta kaput",
+    "CL_CM_SK_instacart_transferring": "Sizi Instacart deneyimine yönlendiriyoruz.",
+    "CL_CM_SK_instacart_your_cart": "Ürünlerinizi seçmek, teslimatı ayarlamak ve sepetinizin ödemesini yapmak için Instacart'a devam edin.",
+    "CL_CM_SK_powered_by": "Tarafından desteklenmektedir",
+    "CL_DEMO_not_available_message": "Demo modunda kullanılamaz.",
+    "CL_CF_consent_title": "Onay",
+    "CL_CF_rg_consent_title": "<b>Gizlilik Politikası</b>'nı ve <b>Onay</b>'ı okudum ve kabul ediyorum.",
+    "CL_VRF_warning_title": "Arıza Uyarısı",
+    "CL_VRF_warning_code_title": "Ekipman arıza kodu:",
+    "CL_VRF_super_high": "Süper yüksek",
+    "CL_VRF_super_low": "Süper düşük",
+    "CL_VRF_breeze": "Esinti",
+    "CL_VRF_filter_operation": "Normal çalışma",
+    "CL_VRF_filter_need": "Klima filtresi tıkanmışsa veya kullanım ömrünü tamamlamışsa, filtre gerektiği gibi temizlenmeli veya değiştirilmelidir."
 }

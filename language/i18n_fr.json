@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Articles",
     "CL_CM_CK_shop_instacart": "Faites vos courses avec Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Les paramètres de préchauffage sont envoyés à votre four. Vous pouvez démarrer le four lorsque vous serez prêt.",
-    "hood_in_hob": "Hotte dans la plaque de cuisson"
+    "hood_in_hob": "Hotte dans la plaque de cuisson",
+    "CL_CM_SK_instacart_transferring": "Nous allons vous rediriger vers l'expérience Instacart.",
+    "CL_CM_SK_instacart_your_cart": "Rendez-vous sur Instacart pour choisir vos produits, organiser la livraison et payer votre panier.",
+    "CL_CM_SK_powered_by": "Alimenté par",
+    "CL_DEMO_not_available_message": "Non disponible en mode démo",
+    "CL_CF_consent_title": "Consentement",
+    "CL_CF_rg_consent_title": "J'ai lu et j'accepte la <b>Politique de confidentialité</b> et le <b>Consentement</b>.",
+    "CL_VRF_warning_title": "Avertissement de défaillance",
+    "CL_VRF_warning_code_title": "Code de défaillance de l'équipement :",
+    "CL_VRF_super_high": "Très haut",
+    "CL_VRF_super_low": "Très bas",
+    "CL_VRF_breeze": "Brise",
+    "CL_VRF_filter_operation": "Fonctionnement normal",
+    "CL_VRF_filter_need": "Si le filtre du climatiseur est obstrué ou a atteint sa fin de vie, il doit être nettoyé ou remplacé selon les besoins."
 }

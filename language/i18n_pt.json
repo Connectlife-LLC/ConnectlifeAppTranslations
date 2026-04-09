@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Unid",
     "CL_CM_CK_shop_instacart": "Compre com o Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "As configurações de pré-aquecimento foram enviadas para o seu forno. Pode ligar o forno quando estiver pronto.",
-    "hood_in_hob": "Placa com Exaustor integrado"
+    "hood_in_hob": "Placa com Exaustor integrado",
+    "CL_CM_SK_instacart_transferring": "Você está sendo redirecionado para a experiência Instacart.",
+    "CL_CM_SK_instacart_your_cart": "Acesse o Instacart para escolher seus produtos, agendar a entrega e pagar pelo seu carrinho.",
+    "CL_CM_SK_powered_by": "Distribuído por",
+    "CL_DEMO_not_available_message": "Não disponível no modo Demo",
+    "CL_CF_consent_title": "Consentimento",
+    "CL_CF_rg_consent_title": "Li e concordo com a <b>Política de Privacidade</b> e o <b>Termo de Consentimento</b>.",
+    "CL_VRF_warning_title": "Aviso de falha",
+    "CL_VRF_warning_code_title": "Código de falha do equipamento:",
+    "CL_VRF_super_high": "Super alto",
+    "CL_VRF_super_low": "Super baixo",
+    "CL_VRF_breeze": "Brisa",
+    "CL_VRF_filter_operation": "Operação normal",
+    "CL_VRF_filter_need": "Se o filtro do ar condicionado estiver entupido ou tiver chegado ao fim de sua vida útil, ele deve ser limpo ou substituído conforme necessário."
 }

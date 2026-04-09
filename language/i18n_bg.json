@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Елементи",
     "CL_CM_CK_shop_instacart": "Пазарувайте с Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Настройките за предварително загряване са изпратени към вашата фурна. Можете да я включите, когато сте готови.",
-    "hood_in_hob": "Абсорбатор в котлона"
+    "hood_in_hob": "Абсорбатор в котлона",
+    "CL_CM_SK_instacart_transferring": "Прехвърляме ви към Instacart интерфейса",
+    "CL_CM_SK_instacart_your_cart": "Продължете към Instacart, за да изберете продуктите си, да уговорите доставка и да платите за количката си.",
+    "CL_CM_SK_powered_by": "Задвижвано от",
+    "CL_DEMO_not_available_message": "Не е налично в демо режим",
+    "CL_CF_consent_title": "Съгласие",
+    "CL_CF_rg_consent_title": "Прочетох и съм съгласен с <b>Политиката за поверителност</b> и <b>Съгласието</b>",
+    "CL_VRF_warning_title": "Предупреждение за повреда",
+    "CL_VRF_warning_code_title": "Код за повреда на оборудването:",
+    "CL_VRF_super_high": "Супер високо",
+    "CL_VRF_super_low": "Супер ниско",
+    "CL_VRF_breeze": "Бриз",
+    "CL_VRF_filter_operation": "Нормална работа",
+    "CL_VRF_filter_need": "Ако филтърът на климатика е запушен или е достигнал срока си на годност, филтърът трябва да се почисти или смени, ако е необходимо."
 }

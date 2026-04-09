@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Artikel",
     "CL_CM_CK_shop_instacart": "Mit Instacart einkaufen",
     "CL_DISH_DESIGNER_send_oven_tips": "Die Vorheizeinstellungen wurden an Ihren Backofen gesendet. Sie können den Backofen starten, sobald Sie bereit sind.",
-    "hood_in_hob": "Dunstabzugshaube im Kochfeld"
+    "hood_in_hob": "Dunstabzugshaube im Kochfeld",
+    "CL_CM_SK_instacart_transferring": "Wir leiten Sie zur Instacart-Benutzeroberfläche weiter.",
+    "CL_CM_SK_instacart_your_cart": "Gehen Sie zu Instacart, um Ihre Produkte auszuwählen, die Lieferung zu veranlassen und Ihren Warenkorb zu bezahlen.",
+    "CL_CM_SK_powered_by": "Angetrieben von",
+    "CL_DEMO_not_available_message": "Im Demo-Modus nicht verfügbar",
+    "CL_CF_consent_title": "Zustimmung",
+    "CL_CF_rg_consent_title": "Ich habe die <b>Datenschutzrichtlinie</b> und die <b>Einwilligungserklärung</b> gelesen und stimme ihnen zu.",
+    "CL_VRF_warning_title": "Fehlermeldung",
+    "CL_VRF_warning_code_title": "Geräteausfallcode:",
+    "CL_VRF_super_high": "Super hoch",
+    "CL_VRF_super_low": "Super niedrig",
+    "CL_VRF_breeze": "Brise",
+    "CL_VRF_filter_operation": "Normalbetrieb",
+    "CL_VRF_filter_need": "Ist der Filter der Klimaanlage verstopft oder hat er seine Lebensdauer erreicht, muss der Filter gegebenenfalls gereinigt oder ausgetauscht werden."
 }

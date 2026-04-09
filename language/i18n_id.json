@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Barang-barang",
     "CL_CM_CK_shop_instacart": "Berbelanja dengan Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Pengaturan pemanasan awal telah dikirim ke oven Anda. Anda dapat menyalakan oven saat Anda siap.",
-    "hood_in_hob": "Hood di Hob"
+    "hood_in_hob": "Hood di Hob",
+    "CL_CM_SK_instacart_transferring": "Kami akan mengalihkan Anda ke pengalaman Instacart.",
+    "CL_CM_SK_instacart_your_cart": "Lanjutkan ke Instacart untuk memilih produk Anda, mengatur pengiriman, dan membayar pesanan Anda.",
+    "CL_CM_SK_powered_by": "Didukung oleh",
+    "CL_DEMO_not_available_message": "Tidak tersedia dalam mode Demo",
+    "CL_CF_consent_title": "Izin",
+    "CL_CF_rg_consent_title": "Saya telah membaca dan menyetujui <b>Kebijakan Privasi</b> dan <b>Persetujuan</b>.",
+    "CL_VRF_warning_title": "Peringatan Kegagalan",
+    "CL_VRF_warning_code_title": "Kode kegagalan peralatan:",
+    "CL_VRF_super_high": "Sangat tinggi",
+    "CL_VRF_super_low": "Sangat rendah",
+    "CL_VRF_breeze": "Angin semilir",
+    "CL_VRF_filter_operation": "Operasi normal",
+    "CL_VRF_filter_need": "Jika filter AC tersumbat atau sudah habis masa pakainya, filter tersebut harus dibersihkan atau diganti sesuai kebutuhan."
 }

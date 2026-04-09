@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "اقلام",
     "CL_CM_CK_shop_instacart": "خرید با اینستاکارت",
     "CL_DISH_DESIGNER_send_oven_tips": "تنظیمات پیش‌گرمایش به فر شما ارسال می‌شود. می‌توانید وقتی آماده شدید، فر را روشن کنید.",
-    "hood_in_hob": "هود روی اجاق گاز"
+    "hood_in_hob": "هود روی اجاق گاز",
+    "CL_CM_SK_instacart_transferring": "ما شما را به تجربه Instacart منتقل می‌کنیم",
+    "CL_CM_SK_instacart_your_cart": "برای انتخاب محصولات، هماهنگی ارسال و پرداخت هزینه سبد خرید، به Instacart مراجعه کنید.",
+    "CL_CM_SK_powered_by": "طراحی شده توسط",
+    "CL_DEMO_not_available_message": "در حالت نمایشی موجود نیست",
+    "CL_CF_consent_title": "رضایت",
+    "CL_CF_rg_consent_title": "من <b>سیاست حفظ حریم خصوصی</b> و <b>رضایت</b> را خوانده‌ام و با آنها موافقم.",
+    "CL_VRF_warning_title": "هشدار خرابی",
+    "CL_VRF_warning_code_title": "کد خطای دستگاه:",
+    "CL_VRF_super_high": "فوق العاده بالا",
+    "CL_VRF_super_low": "فوق العاده کم",
+    "CL_VRF_breeze": "نسیم",
+    "CL_VRF_filter_operation": "عملیات عادی",
+    "CL_VRF_filter_need": "اگر فیلتر کولر گازی مسدود شده یا عمر آن تمام شده است، فیلتر باید تمیز یا در صورت نیاز تعویض شود."
 }

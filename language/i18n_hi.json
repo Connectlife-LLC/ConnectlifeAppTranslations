@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "सामान",
     "CL_CM_CK_shop_instacart": "इंस्टाकार्ट से खरीदारी करें",
     "CL_DISH_DESIGNER_send_oven_tips": "आपके ओवन को प्रीहीट करने की सेटिंग भेज दी गई है। जब आप तैयार हों, तब ओवन चालू कर सकते हैं।",
-    "hood_in_hob": "चूल्हे में हुड"
+    "hood_in_hob": "चूल्हे में हुड",
+    "CL_CM_SK_instacart_transferring": "हम आपको इंस्टाकार्ट अनुभव पर स्थानांतरित कर रहे हैं",
+    "CL_CM_SK_instacart_your_cart": "अपने पसंदीदा उत्पाद चुनने, डिलीवरी की व्यवस्था करने और अपने ऑर्डर का भुगतान करने के लिए इंस्टाकार्ट पर जाएं।",
+    "CL_CM_SK_powered_by": "द्वारा संचालित",
+    "CL_DEMO_not_available_message": "डेमो मोड में उपलब्ध नहीं है",
+    "CL_CF_consent_title": "सहमति",
+    "CL_CF_rg_consent_title": "मैंने <b>गोपनीयता नीति</b> और <b>सहमति</b> पढ़ ली है और मैं सहमत हूँ",
+    "CL_VRF_warning_title": "विफलता चेतावनी",
+    "CL_VRF_warning_code_title": "उपकरण विफलता कोड:",
+    "CL_VRF_super_high": "बहुत ऊँचा",
+    "CL_VRF_super_low": "बेहद कम",
+    "CL_VRF_breeze": "हवा",
+    "CL_VRF_filter_operation": "सामान्य संचालन",
+    "CL_VRF_filter_need": "यदि एयर कंडीशनर का फिल्टर जाम हो गया है या उसकी कार्यक्षमता समाप्त हो गई है, तो आवश्यकतानुसार फिल्टर को साफ या बदला जाना चाहिए।"
 }

@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "商品",
     "CL_CM_CK_shop_instacart": "Instacartで買い物をする",
     "CL_DISH_DESIGNER_send_oven_tips": "予熱設定がオーブンに送信されました。準備ができたらオーブンを起動してください。",
-    "hood_in_hob": "コンロのフード"
+    "hood_in_hob": "コンロのフード",
+    "CL_CM_SK_instacart_transferring": "Instacartの体験画面へ移動します",
+    "CL_CM_SK_instacart_your_cart": "Instacartに進み、商品を選び、配送を手配し、カートの支払いを行ってください。",
+    "CL_CM_SK_powered_by": "搭載",
+    "CL_DEMO_not_available_message": "デモモードでは利用できません",
+    "CL_CF_consent_title": "同意",
+    "CL_CF_rg_consent_title": "私は<b>プライバシーポリシー</b>と<b>同意</b>を読み、同意します。",
+    "CL_VRF_warning_title": "故障警告",
+    "CL_VRF_warning_code_title": "機器故障コード:",
+    "CL_VRF_super_high": "超高",
+    "CL_VRF_super_low": "超低価格",
+    "CL_VRF_breeze": "風",
+    "CL_VRF_filter_operation": "通常動作",
+    "CL_VRF_filter_need": "エアコンのフィルターが詰まっている場合、または寿命を迎えている場合は、必要に応じてフィルターを清掃または交換する必要があります。"
 }

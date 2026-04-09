@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "פריטים",
     "CL_CM_CK_shop_instacart": "קניות עם אינסטקארט",
     "CL_DISH_DESIGNER_send_oven_tips": "הגדרות חימום מראש נשלחו לתנור שלך. תוכל להפעיל את התנור כשתהיה מוכן.",
-    "hood_in_hob": "קולט אדים בכיריים"
+    "hood_in_hob": "קולט אדים בכיריים",
+    "CL_CM_SK_instacart_transferring": "אנחנו מעבירים אותך לחוויית אינסטקארט",
+    "CL_CM_SK_instacart_your_cart": "המשיכו לאינסטקארט כדי לבחור את המוצרים שלכם, לתאם משלוח ולשלם עבור העגלה.",
+    "CL_CM_SK_powered_by": "מופעל על ידי",
+    "CL_DEMO_not_available_message": "לא זמין במצב הדגמה",
+    "CL_CF_consent_title": "הַסכָּמָה",
+    "CL_CF_rg_consent_title": "קראתי ואני מסכים/ה ל<b>מדיניות הפרטיות</b> ול<b>ההסכמה</b>",
+    "CL_VRF_warning_title": "אזהרת כשל",
+    "CL_VRF_warning_code_title": "קוד תקלה בציוד:",
+    "CL_VRF_super_high": "סופר גבוה",
+    "CL_VRF_super_low": "סופר נמוך",
+    "CL_VRF_breeze": "רוּחַ",
+    "CL_VRF_filter_operation": "פעולה רגילה",
+    "CL_VRF_filter_need": "אם פילטר המזגן סתום או הגיע לתוחלת החיים שלו, יש לנקות או להחליף את הפילטר לפי הצורך."
 }

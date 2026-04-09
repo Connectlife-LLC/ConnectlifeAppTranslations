@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Stavke",
     "CL_CM_CK_shop_instacart": "Kupujte putem InstaCarta",
     "CL_DISH_DESIGNER_send_oven_tips": "Postavke predgrijavanja poslane su u vašu pećnicu. Pećnicu možete uključiti kada budete spremni.",
-    "hood_in_hob": "Napa u ploči za kuhanje"
+    "hood_in_hob": "Napa u ploči za kuhanje",
+    "CL_CM_SK_instacart_transferring": "Prebacujemo vas na Instacart iskustvo",
+    "CL_CM_SK_instacart_your_cart": "Nastavite na Instacartu kako biste odabrali svoje proizvode, dogovorili dostavu i platili košaricu.",
+    "CL_CM_SK_powered_by": "Pokreće",
+    "CL_DEMO_not_available_message": "Nije dostupno u demo načinu rada",
+    "CL_CF_consent_title": "Pristanak",
+    "CL_CF_rg_consent_title": "Pročitao/la sam i slažem se s <b>Pravilima o privatnosti</b> i <b>Suglasnošću</b>",
+    "CL_VRF_warning_title": "Upozorenje o kvaru",
+    "CL_VRF_warning_code_title": "Kod kvara opreme:",
+    "CL_VRF_super_high": "Super visoko",
+    "CL_VRF_super_low": "Super nisko",
+    "CL_VRF_breeze": "Povjetarac",
+    "CL_VRF_filter_operation": "Normalan rad",
+    "CL_VRF_filter_need": "Ako je filter klima uređaja začepljen ili je dostigao svoj vijek trajanja, filter se mora očistiti ili zamijeniti po potrebi."
 }

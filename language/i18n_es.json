@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Elementos",
     "CL_CM_CK_shop_instacart": "Compra con Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Se han enviado los ajustes de precalentamiento a tu horno. Puedes encenderlo cuando estés listo.",
-    "hood_in_hob": "Campana extractora en la placa de cocina"
+    "hood_in_hob": "Campana extractora en la placa de cocina",
+    "CL_CM_SK_instacart_transferring": "Te estamos transfiriendo a la experiencia de Instacart.",
+    "CL_CM_SK_instacart_your_cart": "Continúa en Instacart para elegir tus productos, programar la entrega y pagar tu compra.",
+    "CL_CM_SK_powered_by": "Desarrollado por",
+    "CL_DEMO_not_available_message": "No disponible en modo de demostración.",
+    "CL_CF_consent_title": "Consentir",
+    "CL_CF_rg_consent_title": "He leído y acepto la <b>Política de privacidad</b> y el <b>Consentimiento</b>.",
+    "CL_VRF_warning_title": "Advertencia de fallo",
+    "CL_VRF_warning_code_title": "Código de fallo del equipo:",
+    "CL_VRF_super_high": "Súper alto",
+    "CL_VRF_super_low": "Súper bajo",
+    "CL_VRF_breeze": "Brisa",
+    "CL_VRF_filter_operation": "Funcionamiento normal",
+    "CL_VRF_filter_need": "Si el filtro del aire acondicionado está obstruido o ha llegado al final de su vida útil, debe limpiarse o sustituirse según sea necesario."
 }

@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Varer",
     "CL_CM_CK_shop_instacart": "Shop med Instagram",
     "CL_DISH_DESIGNER_send_oven_tips": "Forvarmningsindstillinger sendt til din ovn. Du kan starte ovnen, når du er klar.",
-    "hood_in_hob": "Emhætte i kogeplade"
+    "hood_in_hob": "Emhætte i kogeplade",
+    "CL_CM_SK_instacart_transferring": "Vi overfører dig til Instacart-oplevelsen",
+    "CL_CM_SK_instacart_your_cart": "Fortsæt til Instacart for at vælge dine produkter, arrangere levering og betale for din indkøbskurv.",
+    "CL_CM_SK_powered_by": "Drevet af",
+    "CL_DEMO_not_available_message": "Ikke tilgængelig i demotilstand",
+    "CL_CF_consent_title": "Samtykke",
+    "CL_CF_rg_consent_title": "Jeg har læst og accepterer <b>Privatlivspolitikken</b> og <b>Samtykke</b>",
+    "CL_VRF_warning_title": "Fejladvarsel",
+    "CL_VRF_warning_code_title": "Udstyrsfejlkode:",
+    "CL_VRF_super_high": "Super høj",
+    "CL_VRF_super_low": "Super lav",
+    "CL_VRF_breeze": "Brise",
+    "CL_VRF_filter_operation": "Normal drift",
+    "CL_VRF_filter_need": "Hvis klimaanlæggets filter er tilstoppet eller har nået sin levetid, skal filteret rengøres eller udskiftes efter behov."
 }

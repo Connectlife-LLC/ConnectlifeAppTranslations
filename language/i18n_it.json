@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Elementi",
     "CL_CM_CK_shop_instacart": "Fai la spesa con Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Le impostazioni di preriscaldamento sono state inviate al forno. Puoi avviare il forno quando sei pronto.",
-    "hood_in_hob": "Cappa nel piano cottura"
+    "hood_in_hob": "Cappa nel piano cottura",
+    "CL_CM_SK_instacart_transferring": "Ti stiamo trasferendo all'esperienza Instacart",
+    "CL_CM_SK_instacart_your_cart": "Continua su Instacart per scegliere i tuoi prodotti, organizzare la consegna e pagare il tuo carrello.",
+    "CL_CM_SK_powered_by": "Offerto da",
+    "CL_DEMO_not_available_message": "Non disponibile in modalità demo",
+    "CL_CF_consent_title": "Consenso",
+    "CL_CF_rg_consent_title": "Ho letto e accetto la <b>Informativa sulla Privacy</b> e il <b>Consenso</b>.",
+    "CL_VRF_warning_title": "Avviso di guasto",
+    "CL_VRF_warning_code_title": "Codice di errore dell'apparecchiatura:",
+    "CL_VRF_super_high": "Altissimo",
+    "CL_VRF_super_low": "bassissimo",
+    "CL_VRF_breeze": "Brezza",
+    "CL_VRF_filter_operation": "Funzionamento normale",
+    "CL_VRF_filter_need": "Se il filtro del condizionatore è intasato o ha raggiunto la fine del suo ciclo di vita, è necessario pulirlo o sostituirlo a seconda delle necessità."
 }

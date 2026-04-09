@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "품목",
     "CL_CM_CK_shop_instacart": "Instacart에서 쇼핑하세요",
     "CL_DISH_DESIGNER_send_oven_tips": "오븐 예열 설정이 전송되었습니다. 준비가 되면 오븐을 작동시키세요.",
-    "hood_in_hob": "후드 인 홉"
+    "hood_in_hob": "후드 인 홉",
+    "CL_CM_SK_instacart_transferring": "Instacart 이용 페이지로 이동합니다.",
+    "CL_CM_SK_instacart_your_cart": "Instacart에서 원하는 제품을 선택하고, 배송을 설정하고, 결제를 완료하세요.",
+    "CL_CM_SK_powered_by": "Powered By",
+    "CL_DEMO_not_available_message": "데모 모드에서는 사용할 수 없습니다.",
+    "CL_CF_consent_title": "동의",
+    "CL_CF_rg_consent_title": "본인은 <b>개인정보 보호정책</b> 및 <b>동의서</b>를 읽고 동의합니다.",
+    "CL_VRF_warning_title": "오류 경고",
+    "CL_VRF_warning_code_title": "장비 고장 코드:",
+    "CL_VRF_super_high": "초고",
+    "CL_VRF_super_low": "초저가",
+    "CL_VRF_breeze": "미풍",
+    "CL_VRF_filter_operation": "정상 작동",
+    "CL_VRF_filter_need": "에어컨 필터가 막혔거나 수명이 다한 경우, 필요에 따라 필터를 청소하거나 교체해야 합니다."
 }

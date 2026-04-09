@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Items",
     "CL_CM_CK_shop_instacart": "Shop with instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Preheat settings sent to your oven. You can start the oven when you’re ready.",
-    "hood_in_hob": "Hood in Hob"
+    "hood_in_hob": "Hood in Hob",
+    "CL_CM_SK_instacart_transferring": "We are transferring you to the Instacart experience",
+    "CL_CM_SK_instacart_your_cart": "Continue to Instacart to choose your products, arrange delivery and pay for your cart.",
+    "CL_CM_SK_powered_by": "Powered By",
+    "CL_DEMO_not_available_message": "Not available in Demo mode",
+    "CL_CF_consent_title": "Consent",
+    "CL_CF_rg_consent_title": "I have read and agree to the <b>Privacy Policy</b> and <b>Consent</b>",
+    "CL_VRF_warning_title": "Failure Warning",
+    "CL_VRF_warning_code_title": "Equipment failure code:",
+    "CL_VRF_super_high": "Super high",
+    "CL_VRF_super_low": "Super low",
+    "CL_VRF_breeze": "Breeze",
+    "CL_VRF_filter_operation": "Normal operation",
+    "CL_VRF_filter_need": "If the air conditioner filter is clogged or has reached its life, the filter must be cleaned or replaced as needed."
 }

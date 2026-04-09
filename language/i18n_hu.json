@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Tételek",
     "CL_CM_CK_shop_instacart": "Vásárolj az InstaCart-tal",
     "CL_DISH_DESIGNER_send_oven_tips": "Az előmelegítési beállítások elküldve a sütőnek. Beindíthatja a sütőt, amikor készen áll.",
-    "hood_in_hob": "Főzőlapban lévő páraelszívó"
+    "hood_in_hob": "Főzőlapban lévő páraelszívó",
+    "CL_CM_SK_instacart_transferring": "Átirányítunk az Instacart felületre.",
+    "CL_CM_SK_instacart_your_cart": "Folytassa az Instacart oldalát a termékek kiválasztásához, a szállítás megszervezéséhez és a kosár árának kifizetéséhez.",
+    "CL_CM_SK_powered_by": "Powered By",
+    "CL_DEMO_not_available_message": "Demó módban nem érhető el",
+    "CL_CF_consent_title": "Hozzájárul",
+    "CL_CF_rg_consent_title": "Elolvastam és elfogadom az <b>Adatvédelmi irányelveket</b> és a <b>Hozzájárulást</b>",
+    "CL_VRF_warning_title": "Hiba figyelmeztetés",
+    "CL_VRF_warning_code_title": "Berendezés meghibásodási kódja:",
+    "CL_VRF_super_high": "Szuper magas",
+    "CL_VRF_super_low": "Szuper alacsony",
+    "CL_VRF_breeze": "Szellő",
+    "CL_VRF_filter_operation": "Normál működés",
+    "CL_VRF_filter_need": "Ha a klímaberendezés szűrője eltömődött vagy elérte az élettartama végét, a szűrőt szükség szerint meg kell tisztítani vagy ki kell cserélni."
 }

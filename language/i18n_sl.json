@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Predmeti",
     "CL_CM_CK_shop_instacart": "Nakupujte z InstaCartom",
     "CL_DISH_DESIGNER_send_oven_tips": "Nastavitve predgrevanja so bile poslane v vašo pečico. Pečico lahko vklopite, ko boste pripravljeni.",
-    "hood_in_hob": "Napa v kuhalni plošči"
+    "hood_in_hob": "Napa v kuhalni plošči",
+    "CL_CM_SK_instacart_transferring": "Preusmerjamo vas v izkušnjo Instacarta",
+    "CL_CM_SK_instacart_your_cart": "Nadaljujte v Instacartu, da izberete izdelke, uredite dostavo in plačate košarico.",
+    "CL_CM_SK_powered_by": "Poganja",
+    "CL_DEMO_not_available_message": "Ni na voljo v predstavitvenem načinu",
+    "CL_CF_consent_title": "Soglasje",
+    "CL_CF_rg_consent_title": "Prebral/a sem in se strinjam s <b>Pravilnikom o zasebnosti</b> in <b>Soglasjem</b>",
+    "CL_VRF_warning_title": "Opozorilo o napaki",
+    "CL_VRF_warning_code_title": "Koda okvare opreme:",
+    "CL_VRF_super_high": "Zelo visoko",
+    "CL_VRF_super_low": "Zelo nizko",
+    "CL_VRF_breeze": "Vetrič",
+    "CL_VRF_filter_operation": "Normalno delovanje",
+    "CL_VRF_filter_need": "Če je filter klimatske naprave zamašen ali je dosegel svojo življenjsko dobo, ga je treba po potrebi očistiti ali zamenjati."
 }

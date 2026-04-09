@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "รายการ",
     "CL_CM_CK_shop_instacart": "ซื้อสินค้ากับ Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "ระบบได้ส่งการตั้งค่าการอุ่นเตาอบไปแล้ว คุณสามารถเริ่มใช้งานเตาอบได้เมื่อพร้อม",
-    "hood_in_hob": "ฮูดในเตา"
+    "hood_in_hob": "ฮูดในเตา",
+    "CL_CM_SK_instacart_transferring": "เรากำลังนำคุณเข้าสู่ประสบการณ์การใช้งาน Instacart",
+    "CL_CM_SK_instacart_your_cart": "ดำเนินการต่อที่ Instacart เพื่อเลือกสินค้า จัดการการจัดส่ง และชำระเงินสำหรับสินค้าในตะกร้าของคุณ",
+    "CL_CM_SK_powered_by": "ขับเคลื่อนโดย",
+    "CL_DEMO_not_available_message": "ไม่สามารถใช้งานได้ในโหมดสาธิต",
+    "CL_CF_consent_title": "ยินยอม",
+    "CL_CF_rg_consent_title": "ฉันได้อ่านและยอมรับ<b>นโยบายความเป็นส่วนตัว</b>และ<b>การยินยอม</b>แล้ว",
+    "CL_VRF_warning_title": "คำเตือนความล้มเหลว",
+    "CL_VRF_warning_code_title": "รหัสความผิดพลาดของอุปกรณ์:",
+    "CL_VRF_super_high": "สูงมาก",
+    "CL_VRF_super_low": "ราคาถูกมาก",
+    "CL_VRF_breeze": "ลม",
+    "CL_VRF_filter_operation": "การทำงานปกติ",
+    "CL_VRF_filter_need": "หากแผ่นกรองอากาศของเครื่องปรับอากาศอุดตันหรือหมดอายุการใช้งานแล้ว จะต้องทำความสะอาดหรือเปลี่ยนแผ่นกรองตามความจำเป็น"
 }

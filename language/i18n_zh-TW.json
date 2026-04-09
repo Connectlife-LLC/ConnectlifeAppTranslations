@@ -8188,7 +8188,7 @@
     "CL_VC_SETTING_VOLUME_ADAPTIVE_DESC": "依環境噪音水平自動調整音量",
     "CL_VC_FIND_DESC_NEAR_RING": "如果耳機就在附近，你可以透過撥打電話找到它們。",
     "CL_VC_FIND_DESC_RING_NOTICE": "鈴聲很大；如果正在配戴耳機，鈴聲可能會引起不適。",
-    "CL_VC_FIND_LEFT": "剩餘",
+    "CL_VC_FIND_LEFT": "左侧",
     "CL_VC_FIND_RIGHT": "右侧",
     "CL_VC_FIND_PLAYING_TIP": "鈴聲播放",
     "CL_VC_FIND_CLICK_TO_PLAY": "點選播放鈴聲",
@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "專案",
     "CL_CM_CK_shop_instacart": "使用Instacart購物",
     "CL_DISH_DESIGNER_send_oven_tips": "烤箱預熱設定已發送至您的烤箱。準備好後即可啟動烤箱。",
-    "hood_in_hob": "爐灶上的油煙機"
+    "hood_in_hob": "爐灶上的油煙機",
+    "CL_CM_SK_instacart_transferring": "我們將帶您進入 Instacart 體驗。",
+    "CL_CM_SK_instacart_your_cart": "繼續前往 Instacart 選擇商品、安排送貨並支付購物車中的商品。",
+    "CL_CM_SK_powered_by": "供電",
+    "CL_DEMO_not_available_message": "演示模式下不可用",
+    "CL_CF_consent_title": "同意",
+    "CL_CF_rg_consent_title": "我已閱讀並同意<b>《隱私權政策》</b>和<b>《同意書》</b>。",
+    "CL_VRF_warning_title": "故障警告",
+    "CL_VRF_warning_code_title": "設備故障碼：",
+    "CL_VRF_super_high": "超高",
+    "CL_VRF_super_low": "超低",
+    "CL_VRF_breeze": "微風",
+    "CL_VRF_filter_operation": "正常運作",
+    "CL_VRF_filter_need": "如果空調濾網堵塞或已達到使用壽命，則必須根據需要清洗或更換濾網。"
 }

@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Mặt hàng",
     "CL_CM_CK_shop_instacart": "Mua sắm với Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Các cài đặt làm nóng trước đã được gửi đến lò nướng của bạn. Bạn có thể khởi động lò nướng khi đã sẵn sàng.",
-    "hood_in_hob": "Máy hút mùi trong bếp"
+    "hood_in_hob": "Máy hút mùi trong bếp",
+    "CL_CM_SK_instacart_transferring": "Chúng tôi đang chuyển bạn đến trải nghiệm Instacart.",
+    "CL_CM_SK_instacart_your_cart": "Tiếp tục truy cập Instacart để chọn sản phẩm, sắp xếp giao hàng và thanh toán cho giỏ hàng của bạn.",
+    "CL_CM_SK_powered_by": "Được cung cấp bởi",
+    "CL_DEMO_not_available_message": "Không khả dụng ở chế độ Demo",
+    "CL_CF_consent_title": "Bằng lòng",
+    "CL_CF_rg_consent_title": "Tôi đã đọc và đồng ý với <b>Chính sách bảo mật</b> và <b>Thỏa thuận</b>.",
+    "CL_VRF_warning_title": "Cảnh báo lỗi",
+    "CL_VRF_warning_code_title": "Mã lỗi thiết bị:",
+    "CL_VRF_super_high": "Siêu cao",
+    "CL_VRF_super_low": "Cực thấp",
+    "CL_VRF_breeze": "Gió nhẹ",
+    "CL_VRF_filter_operation": "Hoạt động bình thường",
+    "CL_VRF_filter_need": "Nếu bộ lọc của máy điều hòa bị tắc nghẽn hoặc đã hết tuổi thọ, cần phải vệ sinh hoặc thay thế bộ lọc khi cần thiết."
 }

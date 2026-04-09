@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Kohteet",
     "CL_CM_CK_shop_instacart": "Osta Instacartin kautta",
     "CL_DISH_DESIGNER_send_oven_tips": "Esilämmitysasetukset lähetetty uuniisi. Voit käynnistää uunin, kun olet valmis.",
-    "hood_in_hob": "Liesituuletin liesitasolla"
+    "hood_in_hob": "Liesituuletin liesitasolla",
+    "CL_CM_SK_instacart_transferring": "Siirrämme sinut Instacart-kokemukseen",
+    "CL_CM_SK_instacart_your_cart": "Jatka Instacartiin valitaksesi tuotteesi, sopiaksesi toimituksesta ja maksaaksesi ostoskorisi.",
+    "CL_CM_SK_powered_by": "Powered By",
+    "CL_DEMO_not_available_message": "Ei käytettävissä demotilassa",
+    "CL_CF_consent_title": "Suostumus",
+    "CL_CF_rg_consent_title": "Olen lukenut ja hyväksyn <b>Tietosuojakäytännön</b> ja <b>Suostumuksen</b>",
+    "CL_VRF_warning_title": "Vikavaroitus",
+    "CL_VRF_warning_code_title": "Laitteen vikakoodi:",
+    "CL_VRF_super_high": "Erittäin korkea",
+    "CL_VRF_super_low": "Erittäin matala",
+    "CL_VRF_breeze": "Tuuli",
+    "CL_VRF_filter_operation": "Normaali toiminta",
+    "CL_VRF_filter_need": "Jos ilmastointilaitteen suodatin on tukossa tai sen käyttöikä on päättynyt, suodatin on puhdistettava tai vaihdettava tarpeen mukaan."
 }

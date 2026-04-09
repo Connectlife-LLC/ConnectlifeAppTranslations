@@ -8338,5 +8338,18 @@
     "CL_CM_SM_items": "Artikelen",
     "CL_CM_CK_shop_instacart": "Bestel via Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "De voorverwarmingsinstellingen zijn naar uw oven verzonden. U kunt de oven inschakelen wanneer u er klaar voor bent.",
-    "hood_in_hob": "Afzuigkap in kookplaat"
+    "hood_in_hob": "Afzuigkap in kookplaat",
+    "CL_CM_SK_instacart_transferring": "We verbinden u door naar de Instacart-ervaring.",
+    "CL_CM_SK_instacart_your_cart": "Ga verder naar Instacart om je producten te kiezen, de levering te regelen en je bestelling af te rekenen.",
+    "CL_CM_SK_powered_by": "Mogelijk gemaakt door",
+    "CL_DEMO_not_available_message": "Niet beschikbaar in de demomodus.",
+    "CL_CF_consent_title": "Toestemming",
+    "CL_CF_rg_consent_title": "Ik heb het <b>Privacybeleid</b> en de <b>Toestemming</b> gelezen en ga hiermee akkoord.",
+    "CL_VRF_warning_title": "Storingswaarschuwing",
+    "CL_VRF_warning_code_title": "Storingscode van de apparatuur:",
+    "CL_VRF_super_high": "Super hoog",
+    "CL_VRF_super_low": "Super laag",
+    "CL_VRF_breeze": "Bries",
+    "CL_VRF_filter_operation": "Normale werking",
+    "CL_VRF_filter_need": "Als het filter van de airconditioner verstopt is of aan het einde van zijn levensduur is, moet het filter indien nodig worden schoongemaakt of vervangen."
 }
