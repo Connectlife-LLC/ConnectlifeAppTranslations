@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "Elementer",
     "CL_CM_CK_shop_instacart": "Handle med Instagram",
     "CL_DISH_DESIGNER_send_oven_tips": "Forvarmingsinnstillinger sendt til ovnen din. Du kan starte ovnen når du er klar.",
-    "hood_in_hob": "Hette i kokeplaten"
+    "hood_in_hob": "Hette i kokeplaten",
+    "CL_CM_SK_instacart_transferring": "Vi overfører deg til Instacart-opplevelsen",
+    "CL_CM_SK_instacart_your_cart": "Fortsett til Instacart for å velge produkter, avtale levering og betale for handlekurven.",
+    "CL_CM_SK_powered_by": "Drevet av",
+    "CL_DEMO_not_available_message": "Ikke tilgjengelig i demomodus"
 }

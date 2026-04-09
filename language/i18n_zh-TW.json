@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "專案",
     "CL_CM_CK_shop_instacart": "使用Instacart購物",
     "CL_DISH_DESIGNER_send_oven_tips": "烤箱預熱設定已發送至您的烤箱。準備好後即可啟動烤箱。",
-    "hood_in_hob": "爐灶上的油煙機"
+    "hood_in_hob": "爐灶上的油煙機",
+    "CL_CM_SK_instacart_transferring": "我們將帶您進入 Instacart 體驗。",
+    "CL_CM_SK_instacart_your_cart": "繼續前往 Instacart 選擇商品、安排送貨並支付購物車中的商品。",
+    "CL_CM_SK_powered_by": "供電",
+    "CL_DEMO_not_available_message": "演示模式下不可用"
 }

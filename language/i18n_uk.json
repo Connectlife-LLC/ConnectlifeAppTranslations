@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "Елементи",
     "CL_CM_CK_shop_instacart": "Робіть покупки з Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Налаштування попереднього розігріву надіслано до вашої духовки. Ви можете запустити духовку, коли будете готові.",
-    "hood_in_hob": "Витяжка у варильній поверхні"
+    "hood_in_hob": "Витяжка у варильній поверхні",
+    "CL_CM_SK_instacart_transferring": "Ми перенаправляємо вас до інтерфейсу Instacart",
+    "CL_CM_SK_instacart_your_cart": "Перейдіть до Instacart, щоб вибрати товари, оформити доставку та оплатити кошик.",
+    "CL_CM_SK_powered_by": "Працює на",
+    "CL_DEMO_not_available_message": "Недоступно в демо-режимі"
 }

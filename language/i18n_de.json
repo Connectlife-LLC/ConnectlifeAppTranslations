@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "Artikel",
     "CL_CM_CK_shop_instacart": "Mit Instacart einkaufen",
     "CL_DISH_DESIGNER_send_oven_tips": "Die Vorheizeinstellungen wurden an Ihren Backofen gesendet. Sie können den Backofen starten, sobald Sie bereit sind.",
-    "hood_in_hob": "Dunstabzugshaube im Kochfeld"
+    "hood_in_hob": "Dunstabzugshaube im Kochfeld",
+    "CL_CM_SK_instacart_transferring": "Wir leiten Sie zur Instacart-Benutzeroberfläche weiter.",
+    "CL_CM_SK_instacart_your_cart": "Gehen Sie zu Instacart, um Ihre Produkte auszuwählen, die Lieferung zu veranlassen und Ihren Warenkorb zu bezahlen.",
+    "CL_CM_SK_powered_by": "Angetrieben von",
+    "CL_DEMO_not_available_message": "Im Demo-Modus nicht verfügbar"
 }

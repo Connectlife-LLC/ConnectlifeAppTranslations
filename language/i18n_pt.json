@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "Unid",
     "CL_CM_CK_shop_instacart": "Compre com o Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "As configurações de pré-aquecimento foram enviadas para o seu forno. Pode ligar o forno quando estiver pronto.",
-    "hood_in_hob": "Placa com Exaustor integrado"
+    "hood_in_hob": "Placa com Exaustor integrado",
+    "CL_CM_SK_instacart_transferring": "Você está sendo redirecionado para a experiência Instacart.",
+    "CL_CM_SK_instacart_your_cart": "Acesse o Instacart para escolher seus produtos, agendar a entrega e pagar pelo seu carrinho.",
+    "CL_CM_SK_powered_by": "Distribuído por",
+    "CL_DEMO_not_available_message": "Não disponível no modo Demo"
 }

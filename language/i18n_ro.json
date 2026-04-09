@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "Articole",
     "CL_CM_CK_shop_instacart": "Cumpără cu instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Setările de preîncălzire au fost trimise către cuptorul dvs. Puteți porni cuptorul când sunteți gata.",
-    "hood_in_hob": "Hotă în plită"
+    "hood_in_hob": "Hotă în plită",
+    "CL_CM_SK_instacart_transferring": "Te transferăm în experiența Instacart",
+    "CL_CM_SK_instacart_your_cart": "Continuă pe Instacart pentru a alege produsele, a aranja livrarea și a plăti coșul.",
+    "CL_CM_SK_powered_by": "Cu sprijinul",
+    "CL_DEMO_not_available_message": "Nu este disponibil în modul Demo"
 }

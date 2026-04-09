@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "أغراض",
     "CL_CM_CK_shop_instacart": "تسوق مع إنستاكارت",
     "CL_DISH_DESIGNER_send_oven_tips": "تم إرسال إعدادات التسخين المسبق إلى فرنك. يمكنك تشغيل الفرن عندما تكون جاهزًا.",
-    "hood_in_hob": "غطاء الموقد"
+    "hood_in_hob": "غطاء الموقد",
+    "CL_CM_SK_instacart_transferring": "نقوم بتحويلك إلى تجربة Instacart",
+    "CL_CM_SK_instacart_your_cart": "انتقل إلى تطبيق Instacart لاختيار منتجاتك، وترتيب التوصيل، ودفع ثمن سلة التسوق الخاصة بك.",
+    "CL_CM_SK_powered_by": "مدعوم بواسطة",
+    "CL_DEMO_not_available_message": "غير متوفر في وضع العرض التجريبي"
 }

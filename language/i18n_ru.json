@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "Предметы",
     "CL_CM_CK_shop_instacart": "Делайте покупки с Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Настройки предварительного нагрева передаются в вашу духовку. Вы можете включить духовку, когда будете готовы.",
-    "hood_in_hob": "Вытяжка в варочной панели"
+    "hood_in_hob": "Вытяжка в варочной панели",
+    "CL_CM_SK_instacart_transferring": "Мы переводим вас в интерфейс Instacart.",
+    "CL_CM_SK_instacart_your_cart": "Продолжите просмотр Instacart, чтобы выбрать товары, оформить доставку и оплатить заказ.",
+    "CL_CM_SK_powered_by": "Питаться от",
+    "CL_DEMO_not_available_message": "Недоступно в демонстрационном режиме"
 }

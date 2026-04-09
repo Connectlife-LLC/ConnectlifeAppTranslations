@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "รายการ",
     "CL_CM_CK_shop_instacart": "ซื้อสินค้ากับ Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "ระบบได้ส่งการตั้งค่าการอุ่นเตาอบไปแล้ว คุณสามารถเริ่มใช้งานเตาอบได้เมื่อพร้อม",
-    "hood_in_hob": "ฮูดในเตา"
+    "hood_in_hob": "ฮูดในเตา",
+    "CL_CM_SK_instacart_transferring": "เรากำลังนำคุณเข้าสู่ประสบการณ์การใช้งาน Instacart",
+    "CL_CM_SK_instacart_your_cart": "ดำเนินการต่อที่ Instacart เพื่อเลือกสินค้า จัดการการจัดส่ง และชำระเงินสำหรับสินค้าในตะกร้าของคุณ",
+    "CL_CM_SK_powered_by": "ขับเคลื่อนโดย",
+    "CL_DEMO_not_available_message": "ไม่สามารถใช้งานได้ในโหมดสาธิต"
 }

@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "품목",
     "CL_CM_CK_shop_instacart": "Instacart에서 쇼핑하세요",
     "CL_DISH_DESIGNER_send_oven_tips": "오븐 예열 설정이 전송되었습니다. 준비가 되면 오븐을 작동시키세요.",
-    "hood_in_hob": "후드 인 홉"
+    "hood_in_hob": "후드 인 홉",
+    "CL_CM_SK_instacart_transferring": "Instacart 이용 페이지로 이동합니다.",
+    "CL_CM_SK_instacart_your_cart": "Instacart에서 원하는 제품을 선택하고, 배송을 설정하고, 결제를 완료하세요.",
+    "CL_CM_SK_powered_by": "Powered By",
+    "CL_DEMO_not_available_message": "데모 모드에서는 사용할 수 없습니다."
 }

@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "Елементи",
     "CL_CM_CK_shop_instacart": "Пазарувайте с Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Настройките за предварително загряване са изпратени към вашата фурна. Можете да я включите, когато сте готови.",
-    "hood_in_hob": "Абсорбатор в котлона"
+    "hood_in_hob": "Абсорбатор в котлона",
+    "CL_CM_SK_instacart_transferring": "Прехвърляме ви към Instacart интерфейса",
+    "CL_CM_SK_instacart_your_cart": "Продължете към Instacart, за да изберете продуктите си, да уговорите доставка и да платите за количката си.",
+    "CL_CM_SK_powered_by": "Задвижвано от",
+    "CL_DEMO_not_available_message": "Не е налично в демо режим"
 }

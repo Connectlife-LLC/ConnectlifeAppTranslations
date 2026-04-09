@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "Rzeczy",
     "CL_CM_CK_shop_instacart": "Kupuj z Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Ustawienia nagrzewania zostały wysłane do Twojego piekarnika. Możesz uruchomić piekarnik, gdy będziesz gotowy.",
-    "hood_in_hob": "Okap w płycie grzewczej"
+    "hood_in_hob": "Okap w płycie grzewczej",
+    "CL_CM_SK_instacart_transferring": "Przenosimy Cię do środowiska Instacart",
+    "CL_CM_SK_instacart_your_cart": "Przejdź do Instacart, aby wybrać produkty, zamówić dostawę i zapłacić za swój koszyk.",
+    "CL_CM_SK_powered_by": "Zasilane przez",
+    "CL_DEMO_not_available_message": "Niedostępne w trybie demonstracyjnym"
 }

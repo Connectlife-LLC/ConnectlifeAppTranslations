@@ -8338,5 +8338,9 @@
     "CL_CM_SM_items": "Föremål",
     "CL_CM_CK_shop_instacart": "Handla med Instagram",
     "CL_DISH_DESIGNER_send_oven_tips": "Förvärmningsinställningarna skickas till din ugn. Du kan starta ugnen när du är redo.",
-    "hood_in_hob": "Köksfläkt i spishäll"
+    "hood_in_hob": "Köksfläkt i spishäll",
+    "CL_CM_SK_instacart_transferring": "Vi överför dig till Instacart-upplevelsen",
+    "CL_CM_SK_instacart_your_cart": "Fortsätt till Instacart för att välja dina produkter, ordna leverans och betala för din varukorg.",
+    "CL_CM_SK_powered_by": "Drivs av",
+    "CL_DEMO_not_available_message": "Inte tillgängligt i demoläge"
 }
