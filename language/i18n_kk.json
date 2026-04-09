@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "Заттар",
     "CL_CM_CK_shop_instacart": "Instacart арқылы сауда жасаңыз",
     "CL_DISH_DESIGNER_send_oven_tips": "Алдын ала қыздыру параметрлері пешіңізге жіберіледі. Дайын болған кезде пешті іске қосуға болады.",
-    "hood_in_hob": "Плитадағы сорғыш"
+    "hood_in_hob": "Плитадағы сорғыш",
+    "CL_CM_SK_instacart_transferring": "Біз сізді Instacart тәжірибесіне ауыстырып жатырмыз",
+    "CL_CM_SK_instacart_your_cart": "Өнімдеріңізді таңдау, жеткізуді ұйымдастыру және себетке ақы төлеу үшін Instacart қызметіне өтіңіз.",
+    "CL_CM_SK_powered_by": "Көмегімен"
 }

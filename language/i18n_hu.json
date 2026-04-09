@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "Tételek",
     "CL_CM_CK_shop_instacart": "Vásárolj az InstaCart-tal",
     "CL_DISH_DESIGNER_send_oven_tips": "Az előmelegítési beállítások elküldve a sütőnek. Beindíthatja a sütőt, amikor készen áll.",
-    "hood_in_hob": "Főzőlapban lévő páraelszívó"
+    "hood_in_hob": "Főzőlapban lévő páraelszívó",
+    "CL_CM_SK_instacart_transferring": "Átirányítunk az Instacart felületre.",
+    "CL_CM_SK_instacart_your_cart": "Folytassa az Instacart oldalát a termékek kiválasztásához, a szállítás megszervezéséhez és a kosár árának kifizetéséhez.",
+    "CL_CM_SK_powered_by": "Powered By"
 }

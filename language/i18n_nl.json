@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "Artikelen",
     "CL_CM_CK_shop_instacart": "Bestel via Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "De voorverwarmingsinstellingen zijn naar uw oven verzonden. U kunt de oven inschakelen wanneer u er klaar voor bent.",
-    "hood_in_hob": "Afzuigkap in kookplaat"
+    "hood_in_hob": "Afzuigkap in kookplaat",
+    "CL_CM_SK_instacart_transferring": "We verbinden u door naar de Instacart-ervaring.",
+    "CL_CM_SK_instacart_your_cart": "Ga verder naar Instacart om je producten te kiezen, de levering te regelen en je bestelling af te rekenen.",
+    "CL_CM_SK_powered_by": "Mogelijk gemaakt door"
 }

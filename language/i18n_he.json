@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "פריטים",
     "CL_CM_CK_shop_instacart": "קניות עם אינסטקארט",
     "CL_DISH_DESIGNER_send_oven_tips": "הגדרות חימום מראש נשלחו לתנור שלך. תוכל להפעיל את התנור כשתהיה מוכן.",
-    "hood_in_hob": "קולט אדים בכיריים"
+    "hood_in_hob": "קולט אדים בכיריים",
+    "CL_CM_SK_instacart_transferring": "אנחנו מעבירים אותך לחוויית אינסטקארט",
+    "CL_CM_SK_instacart_your_cart": "המשיכו לאינסטקארט כדי לבחור את המוצרים שלכם, לתאם משלוח ולשלם עבור העגלה.",
+    "CL_CM_SK_powered_by": "מופעל על ידי"
 }

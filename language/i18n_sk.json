@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "Položky",
     "CL_CM_CK_shop_instacart": "Nakupujte s Instacartom",
     "CL_DISH_DESIGNER_send_oven_tips": "Nastavenia predhrievania boli odoslané do vašej rúry. Rúru môžete spustiť, keď budete pripravení.",
-    "hood_in_hob": "Digestor vo varnej doske"
+    "hood_in_hob": "Digestor vo varnej doske",
+    "CL_CM_SK_instacart_transferring": "Presmerujeme vás do Instacartu",
+    "CL_CM_SK_instacart_your_cart": "Pokračujte do Instacartu, kde si môžete vybrať produkty, dohodnúť doručenie a zaplatiť za košík.",
+    "CL_CM_SK_powered_by": "Poháňané systémom"
 }

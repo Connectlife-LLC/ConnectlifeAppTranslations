@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "Barangan",
     "CL_CM_CK_shop_instacart": "Beli-belah dengan instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Tetapan prapanaskan telah dihantar ke ketuhar anda. Anda boleh menghidupkan ketuhar apabila anda sudah bersedia.",
-    "hood_in_hob": "Hud di Hob"
+    "hood_in_hob": "Hud di Hob",
+    "CL_CM_SK_instacart_transferring": "Kami sedang memindahkan anda ke pengalaman Instacart",
+    "CL_CM_SK_instacart_your_cart": "Teruskan ke Instacart untuk memilih produk anda, mengatur penghantaran dan membayar troli anda.",
+    "CL_CM_SK_powered_by": "Dikuasakan Oleh"
 }

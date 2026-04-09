@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "Elementos",
     "CL_CM_CK_shop_instacart": "Compra con Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Se han enviado los ajustes de precalentamiento a tu horno. Puedes encenderlo cuando estés listo.",
-    "hood_in_hob": "Campana extractora en la placa de cocina"
+    "hood_in_hob": "Campana extractora en la placa de cocina",
+    "CL_CM_SK_instacart_transferring": "Te estamos transfiriendo a la experiencia de Instacart.",
+    "CL_CM_SK_instacart_your_cart": "Continúa en Instacart para elegir tus productos, programar la entrega y pagar tu compra.",
+    "CL_CM_SK_powered_by": "Desarrollado por"
 }

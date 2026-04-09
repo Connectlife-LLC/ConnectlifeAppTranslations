@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "项目",
     "CL_CM_CK_shop_instacart": "使用Instacart购物",
     "CL_DISH_DESIGNER_send_oven_tips": "烤箱预热设置已发送至您的烤箱。准备就绪后即可启动烤箱。",
-    "hood_in_hob": "炉灶上的油烟机"
+    "hood_in_hob": "炉灶上的油烟机",
+    "CL_CM_SK_instacart_transferring": "我们将带您进入 Instacart 体验。",
+    "CL_CM_SK_instacart_your_cart": "继续前往 Instacart 选择商品、安排送货并支付购物车中的商品。",
+    "CL_CM_SK_powered_by": "供电"
 }

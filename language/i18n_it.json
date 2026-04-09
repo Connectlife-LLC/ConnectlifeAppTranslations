@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "Elementi",
     "CL_CM_CK_shop_instacart": "Fai la spesa con Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Le impostazioni di preriscaldamento sono state inviate al forno. Puoi avviare il forno quando sei pronto.",
-    "hood_in_hob": "Cappa nel piano cottura"
+    "hood_in_hob": "Cappa nel piano cottura",
+    "CL_CM_SK_instacart_transferring": "Ti stiamo trasferendo all'esperienza Instacart",
+    "CL_CM_SK_instacart_your_cart": "Continua su Instacart per scegliere i tuoi prodotti, organizzare la consegna e pagare il tuo carrello.",
+    "CL_CM_SK_powered_by": "Offerto da"
 }

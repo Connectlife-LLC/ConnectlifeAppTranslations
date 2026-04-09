@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "商品",
     "CL_CM_CK_shop_instacart": "Instacartで買い物をする",
     "CL_DISH_DESIGNER_send_oven_tips": "予熱設定がオーブンに送信されました。準備ができたらオーブンを起動してください。",
-    "hood_in_hob": "コンロのフード"
+    "hood_in_hob": "コンロのフード",
+    "CL_CM_SK_instacart_transferring": "Instacartの体験画面へ移動します",
+    "CL_CM_SK_instacart_your_cart": "Instacartに進み、商品を選び、配送を手配し、カートの支払いを行ってください。",
+    "CL_CM_SK_powered_by": "搭載"
 }

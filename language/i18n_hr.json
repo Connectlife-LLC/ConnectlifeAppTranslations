@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "Stavke",
     "CL_CM_CK_shop_instacart": "Kupujte putem InstaCarta",
     "CL_DISH_DESIGNER_send_oven_tips": "Postavke predgrijavanja poslane su u vašu pećnicu. Pećnicu možete uključiti kada budete spremni.",
-    "hood_in_hob": "Napa u ploči za kuhanje"
+    "hood_in_hob": "Napa u ploči za kuhanje",
+    "CL_CM_SK_instacart_transferring": "Prebacujemo vas na Instacart iskustvo",
+    "CL_CM_SK_instacart_your_cart": "Nastavite na Instacartu kako biste odabrali svoje proizvode, dogovorili dostavu i platili košaricu.",
+    "CL_CM_SK_powered_by": "Pokreće"
 }

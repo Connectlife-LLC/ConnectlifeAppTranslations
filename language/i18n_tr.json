@@ -8338,5 +8338,8 @@
     "CL_CM_SM_items": "Öğeler",
     "CL_CM_CK_shop_instacart": "Instacart ile alışveriş yapın",
     "CL_DISH_DESIGNER_send_oven_tips": "Fırınınıza ön ısıtma ayarları gönderildi. Hazır olduğunuzda fırını çalıştırabilirsiniz.",
-    "hood_in_hob": "Ocakta kaput"
+    "hood_in_hob": "Ocakta kaput",
+    "CL_CM_SK_instacart_transferring": "Sizi Instacart deneyimine yönlendiriyoruz.",
+    "CL_CM_SK_instacart_your_cart": "Ürünlerinizi seçmek, teslimatı ayarlamak ve sepetinizin ödemesini yapmak için Instacart'a devam edin.",
+    "CL_CM_SK_powered_by": "Tarafından desteklenmektedir"
 }
