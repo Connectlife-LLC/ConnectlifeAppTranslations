@@ -8358,5 +8358,7 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Jangan keluar dari halaman saat ini dan biarkan aplikasi tetap berjalan di latar depan;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Jangan lepaskan earphone;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Selama pembaruan, earphone tidak dapat digunakan untuk sementara waktu.",
-    "CL_VC_PAIR_GUIDE_DESC": "Masukkan earbud ke dalam wadah pengisian daya, buka penutupnya, dan tekan lama tombol di bagian bawah selama lebih dari 3 detik hingga lampu indikator berkedip. Earbud sekarang berada dalam mode pemasangan."
+    "CL_VC_PAIR_GUIDE_DESC": "Masukkan earbud ke dalam wadah pengisian daya, buka penutupnya, dan tekan lama tombol di bagian bawah selama lebih dari 3 detik hingga lampu indikator berkedip. Earbud sekarang berada dalam mode pemasangan.",
+    "CL_CF_energy_replace_warning": "## saat ini berada dalam mode Penjadwal Cerdas. Apakah Anda ingin mematikannya dan beralih ke mode AI Eco?",
+    "CL_vrf_p_7": "Posisi 7"
 }

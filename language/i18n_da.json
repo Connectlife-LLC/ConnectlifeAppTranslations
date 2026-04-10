@@ -8358,5 +8358,7 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Forlad ikke den aktuelle side, og lad appen køre i forgrunden;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Afbryd ikke forbindelsen til øretelefonerne;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Under opdateringen kan høretelefonerne midlertidigt ikke bruges.",
-    "CL_VC_PAIR_GUIDE_DESC": "Placer ørepropperne i opladningsetuiet, åbn låget, og hold knappen i bunden nede i mere end 3 sekunder, indtil indikatorlampen blinker. Ørepropperne er nu i parringstilstand."
+    "CL_VC_PAIR_GUIDE_DESC": "Placer ørepropperne i opladningsetuiet, åbn låget, og hold knappen i bunden nede i mere end 3 sekunder, indtil indikatorlampen blinker. Ørepropperne er nu i parringstilstand.",
+    "CL_CF_energy_replace_warning": "## er i øjeblikket i Smart Scheduler-tilstand. Vil du slå den fra og skifte til AI Eco-tilstand i stedet?",
+    "CL_vrf_p_7": "Position 7"
 }

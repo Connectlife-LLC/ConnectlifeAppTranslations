@@ -8358,5 +8358,7 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① 不要退出目前頁面，保持應用程式在前台運行；",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② 請勿斷開耳機連接；",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ 更新期間，耳機暫時無法使用。",
-    "CL_VC_PAIR_GUIDE_DESC": "將耳機放入充電盒，打開盒蓋，長按底部按鈕 3 秒以上，直到指示燈閃爍。耳機現在處於配對模式。"
+    "CL_VC_PAIR_GUIDE_DESC": "將耳機放入充電盒，打開盒蓋，長按底部按鈕 3 秒以上，直到指示燈閃爍。耳機現在處於配對模式。",
+    "CL_CF_energy_replace_warning": "## 目前處於智慧調度模式。您是否想將其關閉並切換到 AI 節能模式？",
+    "CL_vrf_p_7": "位置 7"
 }

@@ -8358,5 +8358,7 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Stäng inte den aktuella sidan och låt appen köras i förgrunden;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Koppla inte bort hörlurarna;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Under uppdateringen kan hörlurarna tillfälligt inte användas.",
-    "CL_VC_PAIR_GUIDE_DESC": "Placera öronsnäckorna i laddningsfodralet, öppna locket och håll knappen på undersidan intryckt i mer än 3 sekunder tills indikatorlampan blinkar. Öronsnäckorna är nu i parkopplingsläge."
+    "CL_VC_PAIR_GUIDE_DESC": "Placera öronsnäckorna i laddningsfodralet, öppna locket och håll knappen på undersidan intryckt i mer än 3 sekunder tills indikatorlampan blinkar. Öronsnäckorna är nu i parkopplingsläge.",
+    "CL_CF_energy_replace_warning": "## är för närvarande i Smart Scheduler-läge. Vill du stänga av det och växla till AI Eco-läge istället?",
+    "CL_vrf_p_7": "Position 7"
 }

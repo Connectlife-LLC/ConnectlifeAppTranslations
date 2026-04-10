@@ -8358,5 +8358,7 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Nu ieșiți din pagina curentă și mențineți aplicația rulând în prim-plan;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Nu deconectați căștile;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ În timpul actualizării, căștile nu pot fi utilizate temporar.",
-    "CL_VC_PAIR_GUIDE_DESC": "Așezați căștile în carcasa de încărcare, deschideți capacul și apăsați lung butonul de pe partea inferioară timp de mai mult de 3 secunde, până când indicatorul luminos clipește. Căștile sunt acum în modul de asociere."
+    "CL_VC_PAIR_GUIDE_DESC": "Așezați căștile în carcasa de încărcare, deschideți capacul și apăsați lung butonul de pe partea inferioară timp de mai mult de 3 secunde, până când indicatorul luminos clipește. Căștile sunt acum în modul de asociere.",
+    "CL_CF_energy_replace_warning": "## este în prezent în modul Programator inteligent. Doriți să îl dezactivați și să comutați la modul AI Eco?",
+    "CL_vrf_p_7": "Poziția 7"
 }

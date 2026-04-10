@@ -8358,5 +8358,7 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Non uscire dalla pagina corrente e mantieni l'app in esecuzione in primo piano;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Non scollegare gli auricolari;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Durante l'aggiornamento, gli auricolari non possono essere utilizzati temporaneamente.",
-    "CL_VC_PAIR_GUIDE_DESC": "Inserisci gli auricolari nella custodia di ricarica, apri il coperchio e tieni premuto il pulsante sul fondo per più di 3 secondi finché la spia luminosa non lampeggia. Gli auricolari sono ora in modalità di abbinamento."
+    "CL_VC_PAIR_GUIDE_DESC": "Inserisci gli auricolari nella custodia di ricarica, apri il coperchio e tieni premuto il pulsante sul fondo per più di 3 secondi finché la spia luminosa non lampeggia. Gli auricolari sono ora in modalità di abbinamento.",
+    "CL_CF_energy_replace_warning": "## è attualmente in modalità Smart Scheduler. Desideri disattivarla e passare alla modalità AI Eco?",
+    "CL_vrf_p_7": "Posizione 7"
 }
