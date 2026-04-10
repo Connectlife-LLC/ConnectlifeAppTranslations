@@ -8358,5 +8358,6 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Verlassen Sie nicht die aktuelle Seite und lassen Sie die App im Vordergrund laufen;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Die Verbindung zu den Ohrhörern nicht trennen;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Während des Updates können die Kopfhörer vorübergehend nicht verwendet werden.",
-    "CL_VC_PAIR_GUIDE_DESC": "Legen Sie die Ohrhörer in das Ladecase, öffnen Sie den Deckel und halten Sie die Taste an der Unterseite länger als 3 Sekunden gedrückt, bis die Kontrollleuchte blinkt. Die Ohrhörer befinden sich nun im Kopplungsmodus."
+    "CL_VC_PAIR_GUIDE_DESC": "Legen Sie die Ohrhörer in das Ladecase, öffnen Sie den Deckel und halten Sie die Taste an der Unterseite länger als 3 Sekunden gedrückt, bis die Kontrollleuchte blinkt. Die Ohrhörer befinden sich nun im Kopplungsmodus.",
+    "CL_CF_energy_replace_warning": "## befindet sich derzeit im Smart Scheduler-Modus. Möchten Sie diesen deaktivieren und stattdessen in den AI Eco-Modus wechseln?"
 }

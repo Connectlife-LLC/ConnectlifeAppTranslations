@@ -8358,5 +8358,6 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Verlaat de huidige pagina niet en laat de app op de voorgrond actief;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Niet loskoppelen van de oortjes;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Tijdens de update kunnen de oortjes tijdelijk niet worden gebruikt.",
-    "CL_VC_PAIR_GUIDE_DESC": "Plaats de oordopjes in de oplaadcase, open het deksel en houd de knop aan de onderkant langer dan 3 seconden ingedrukt totdat het indicatielampje knippert. De oordopjes bevinden zich nu in de koppelingsmodus."
+    "CL_VC_PAIR_GUIDE_DESC": "Plaats de oordopjes in de oplaadcase, open het deksel en houd de knop aan de onderkant langer dan 3 seconden ingedrukt totdat het indicatielampje knippert. De oordopjes bevinden zich nu in de koppelingsmodus.",
+    "CL_CF_energy_replace_warning": "## bevindt zich momenteel in de Smart Scheduler-modus. Wilt u deze uitschakelen en in plaats daarvan overschakelen naar de AI Eco-modus?"
 }

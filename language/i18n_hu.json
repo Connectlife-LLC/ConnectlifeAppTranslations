@@ -8358,5 +8358,6 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Ne lépjen ki az aktuális oldalról, és ne hagyja az alkalmazást az előtérben futni;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Ne húzza ki a fülhallgatóból;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ A frissítés során a fülhallgatók átmenetileg nem használhatók.",
-    "CL_VC_PAIR_GUIDE_DESC": "Helyezze a fülhallgatókat a töltőtokba, nyissa ki a fedelet, és tartsa lenyomva az alján található gombot legalább 3 másodpercig, amíg a jelzőfény villogni nem kezd. A fülhallgatók most párosítási módban vannak."
+    "CL_VC_PAIR_GUIDE_DESC": "Helyezze a fülhallgatókat a töltőtokba, nyissa ki a fedelet, és tartsa lenyomva az alján található gombot legalább 3 másodpercig, amíg a jelzőfény villogni nem kezd. A fülhallgatók most párosítási módban vannak.",
+    "CL_CF_energy_replace_warning": "A ## jelenleg Intelligens ütemező módban van. Szeretnéd kikapcsolni, és inkább AI Eco módba váltani?"
 }

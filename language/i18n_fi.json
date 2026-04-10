@@ -8358,5 +8358,6 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Älä poistu nykyiseltä sivulta ja pidä sovellusta käynnissä etualalla;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Älä irrota kuulokkeista;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Kuulokkeita ei voi käyttää tilapäisesti päivityksen aikana.",
-    "CL_VC_PAIR_GUIDE_DESC": "Aseta nappikuulokkeet latauskoteloon, avaa kansi ja paina pohjassa olevaa painiketta yli 3 sekunnin ajan, kunnes merkkivalo vilkkuu. Nappikuulokkeet ovat nyt pariliitostilassa."
+    "CL_VC_PAIR_GUIDE_DESC": "Aseta nappikuulokkeet latauskoteloon, avaa kansi ja paina pohjassa olevaa painiketta yli 3 sekunnin ajan, kunnes merkkivalo vilkkuu. Nappikuulokkeet ovat nyt pariliitostilassa.",
+    "CL_CF_energy_replace_warning": "## on tällä hetkellä Älykäs ajoitus -tilassa. Haluatko poistaa sen käytöstä ja vaihtaa sen sijaan tekoälyn eko-tilaan?"
 }

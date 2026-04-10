@@ -8358,5 +8358,6 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Geçerli sayfadan çıkmayın ve uygulamayı ön planda çalışır durumda tutun;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Kulaklıklardan bağlantıyı kesmeyin;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Güncelleme sırasında kulaklıklar geçici olarak kullanılamayacaktır.",
-    "CL_VC_PAIR_GUIDE_DESC": "Kulaklıkları şarj kutusuna yerleştirin, kapağı açın ve gösterge ışığı yanıp sönene kadar alttaki düğmeye 3 saniyeden fazla basılı tutun. Kulaklıklar artık eşleştirme modundadır."
+    "CL_VC_PAIR_GUIDE_DESC": "Kulaklıkları şarj kutusuna yerleştirin, kapağı açın ve gösterge ışığı yanıp sönene kadar alttaki düğmeye 3 saniyeden fazla basılı tutun. Kulaklıklar artık eşleştirme modundadır.",
+    "CL_CF_energy_replace_warning": "Şu anda Akıllı Zamanlayıcı modunda. Bunu kapatıp Yapay Zeka Eko moduna geçmek ister misiniz?"
 }

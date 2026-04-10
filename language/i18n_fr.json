@@ -8358,5 +8358,6 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Ne quittez pas la page actuelle et laissez l'application s'exécuter au premier plan ;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Ne débranchez pas les écouteurs ;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Pendant la mise à jour, les écouteurs ne peuvent pas être utilisés temporairement.",
-    "CL_VC_PAIR_GUIDE_DESC": "Placez les écouteurs dans l'étui de chargement, ouvrez le couvercle et appuyez longuement sur le bouton situé en bas pendant plus de 3 secondes jusqu'à ce que le voyant clignote. Les écouteurs sont maintenant en mode appairage."
+    "CL_VC_PAIR_GUIDE_DESC": "Placez les écouteurs dans l'étui de chargement, ouvrez le couvercle et appuyez longuement sur le bouton situé en bas pendant plus de 3 secondes jusqu'à ce que le voyant clignote. Les écouteurs sont maintenant en mode appairage.",
+    "CL_CF_energy_replace_warning": "## est actuellement en mode Planificateur intelligent. Souhaitez-vous le désactiver et passer en mode Éco IA ?"
 }

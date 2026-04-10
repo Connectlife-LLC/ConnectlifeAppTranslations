@@ -8358,5 +8358,6 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① No salga de la página actual y mantenga la aplicación ejecutándose en primer plano;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② No desconecte los auriculares;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Durante la actualización, los auriculares no se podrán utilizar temporalmente.",
-    "CL_VC_PAIR_GUIDE_DESC": "Coloca los auriculares en el estuche de carga, abre la tapa y mantén pulsado el botón inferior durante más de 3 segundos hasta que el indicador luminoso parpadee. Los auriculares ya están en modo de emparejamiento."
+    "CL_VC_PAIR_GUIDE_DESC": "Coloca los auriculares en el estuche de carga, abre la tapa y mantén pulsado el botón inferior durante más de 3 segundos hasta que el indicador luminoso parpadee. Los auriculares ya están en modo de emparejamiento.",
+    "CL_CF_energy_replace_warning": "## se encuentra actualmente en modo Programador inteligente. ¿Desea desactivarlo y cambiar al modo Eco con IA?"
 }

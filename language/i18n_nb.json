@@ -8358,5 +8358,6 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Ikke lukk gjeldende side og la appen kjøre i forgrunnen;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Ikke koble fra øretelefonene;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Under oppdateringen kan ikke øretelefonene brukes midlertidig.",
-    "CL_VC_PAIR_GUIDE_DESC": "Plasser øreproppene i ladeetuiet, åpne lokket og trykk lenge på knappen nederst i mer enn 3 sekunder til indikatorlampen blinker. Øreproppene er nå i paringsmodus."
+    "CL_VC_PAIR_GUIDE_DESC": "Plasser øreproppene i ladeetuiet, åpne lokket og trykk lenge på knappen nederst i mer enn 3 sekunder til indikatorlampen blinker. Øreproppene er nå i paringsmodus.",
+    "CL_CF_energy_replace_warning": "## er for øyeblikket i Smart Scheduler-modus. Vil du slå den av og bytte til AI Eco-modus i stedet?"
 }

@@ -8358,5 +8358,6 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Neopúšťajte aktuálnu stránku a ponechajte aplikáciu spustenú v popredí;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Neodpájajte od slúchadiel;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Počas aktualizácie nie je možné slúchadlá dočasne používať.",
-    "CL_VC_PAIR_GUIDE_DESC": "Vložte slúchadlá do nabíjacieho puzdra, otvorte veko a dlho stlačte tlačidlo na spodnej strane dlhšie ako 3 sekundy, kým kontrolka nezačne blikať. Slúchadlá sú teraz v režime párovania."
+    "CL_VC_PAIR_GUIDE_DESC": "Vložte slúchadlá do nabíjacieho puzdra, otvorte veko a dlho stlačte tlačidlo na spodnej strane dlhšie ako 3 sekundy, kým kontrolka nezačne blikať. Slúchadlá sú teraz v režime párovania.",
+    "CL_CF_energy_replace_warning": "## je momentálne v režime Inteligentný plánovač. Chcete ho vypnúť a prepnúť do režimu AI Eco?"
 }
