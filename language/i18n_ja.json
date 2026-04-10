@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① 現在のページを閉じずに、アプリをフォアグラウンドで実行し続ける。",
     "CL_VC_OTA_NOTICE_UPDATING_2": "②イヤホンを外さないでください。",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ アップデート中は、イヤホンは一時的に使用できません。",
-    "CL_VC_PAIR_GUIDE_DESC": "イヤホンを充電ケースに入れ、蓋を開け、底面のボタンをインジケーターランプが点滅するまで3秒以上長押ししてください。これでイヤホンはペアリングモードになります。"
+    "CL_VC_PAIR_GUIDE_DESC": "イヤホンを充電ケースに入れ、蓋を開け、底面のボタンをインジケーターランプが点滅するまで3秒以上長押ししてください。これでイヤホンはペアリングモードになります。",
+    "CL_CF_energy_replace_warning": "現在、## はスマートスケジューラーモードになっています。このモードをオフにして、代わりにAIエコモードに切り替えますか？",
+    "CL_vrf_p_7": "7位",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "ミュージックモード",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "ポップミュージックのリスニングバランスを最適化し、究極のリスニング体験を実現します。",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "ムービーモード",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "臨場感あふれるパワフルなステレオサウンドで、迫力満点の視聴体験とゲーム体験を実現します。",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "ニュースモード",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "背景雑音を低減しながら音声を強調するため、教育コンテンツの視聴に最適です。",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "高齢者モード",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "高齢者の聴力低下に対する高周波補正により、より明瞭な聴覚を実現します。"
 }

@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Jangan keluar dari halaman saat ini dan biarkan aplikasi tetap berjalan di latar depan;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Jangan lepaskan earphone;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Selama pembaruan, earphone tidak dapat digunakan untuk sementara waktu.",
-    "CL_VC_PAIR_GUIDE_DESC": "Masukkan earbud ke dalam wadah pengisian daya, buka penutupnya, dan tekan lama tombol di bagian bawah selama lebih dari 3 detik hingga lampu indikator berkedip. Earbud sekarang berada dalam mode pemasangan."
+    "CL_VC_PAIR_GUIDE_DESC": "Masukkan earbud ke dalam wadah pengisian daya, buka penutupnya, dan tekan lama tombol di bagian bawah selama lebih dari 3 detik hingga lampu indikator berkedip. Earbud sekarang berada dalam mode pemasangan.",
+    "CL_CF_energy_replace_warning": "## saat ini berada dalam mode Penjadwal Cerdas. Apakah Anda ingin mematikannya dan beralih ke mode AI Eco?",
+    "CL_vrf_p_7": "Posisi 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Mode Musik",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Dioptimalkan untuk keseimbangan mendengarkan musik pop, pengalaman mendengarkan terbaik.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Mode Film",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Suara stereo yang imersif dan bertenaga untuk pengalaman menonton dan bermain game yang intens.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Mode Berita",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Meningkatkan kualitas vokal sekaligus mengurangi gangguan kebisingan latar belakang, ideal untuk mendengarkan konten edukatif.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Mode Lansia",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Kompensasi frekuensi tinggi untuk pendengaran lansia, membantu mereka mendengar lebih jelas."
 }

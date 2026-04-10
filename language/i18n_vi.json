@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Không thoát khỏi trang hiện tại và giữ cho ứng dụng chạy ở chế độ nền trước;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Không được tháo tai nghe ra;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Trong quá trình cập nhật, tai nghe tạm thời không thể sử dụng được.",
-    "CL_VC_PAIR_GUIDE_DESC": "Đặt tai nghe vào hộp sạc, mở nắp và nhấn giữ nút ở phía dưới trong hơn 3 giây cho đến khi đèn báo nhấp nháy. Tai nghe hiện đang ở chế độ ghép nối."
+    "CL_VC_PAIR_GUIDE_DESC": "Đặt tai nghe vào hộp sạc, mở nắp và nhấn giữ nút ở phía dưới trong hơn 3 giây cho đến khi đèn báo nhấp nháy. Tai nghe hiện đang ở chế độ ghép nối.",
+    "CL_CF_energy_replace_warning": "## hiện đang ở chế độ Lập lịch thông minh. Bạn có muốn tắt chế độ này và chuyển sang chế độ AI Eco không?",
+    "CL_vrf_p_7": "Vị trí 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Chế độ âm nhạc",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Tối ưu hóa cho sự cân bằng âm thanh khi nghe nhạc pop, mang đến trải nghiệm nghe nhạc tuyệt vời nhất.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Chế độ xem phim",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Âm thanh nổi mạnh mẽ, sống động mang đến trải nghiệm xem phim và chơi game tuyệt vời.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Chế độ Tin tức",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Tăng cường chất lượng giọng nói đồng thời giảm thiểu nhiễu âm nền, lý tưởng để nghe các nội dung giáo dục.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Chế độ người cao tuổi",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Công nghệ bù trừ tần số cao giúp cải thiện thính lực cho người cao tuổi, giúp họ nghe rõ hơn."
 }

@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Ne zatvarajte trenutnu stranicu i ostavite aplikaciju da radi u prvom planu;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Ne odspajajte slušalice;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Tijekom ažuriranja, slušalice se privremeno ne mogu koristiti.",
-    "CL_VC_PAIR_GUIDE_DESC": "Stavite slušalice u kutijicu za punjenje, otvorite poklopac i dugo pritisnite gumb na dnu dulje od 3 sekunde dok indikatorska lampica ne zatreperi. Slušalice su sada u načinu uparivanja."
+    "CL_VC_PAIR_GUIDE_DESC": "Stavite slušalice u kutijicu za punjenje, otvorite poklopac i dugo pritisnite gumb na dnu dulje od 3 sekunde dok indikatorska lampica ne zatreperi. Slušalice su sada u načinu uparivanja.",
+    "CL_CF_energy_replace_warning": "## je trenutno u načinu rada Pametni planer. Želite li ga isključiti i umjesto toga prebaciti na AI Eco način rada?",
+    "CL_vrf_p_7": "Pozicija 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Glazbeni način rada",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimizirano za ravnotežu slušanja pop glazbe, vrhunsko iskustvo slušanja.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Filmski način rada",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Imerzivni, snažan stereo zvuk za intenzivno iskustvo gledanja i igranja.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Način vijesti",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Poboljšajte vokale uz smanjenje smetnji u pozadinskoj buki, idealno za slušanje edukativnog sadržaja.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Način rada za starije osobe",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Visokofrekventna kompenzacija za sluh starijih osoba, pomažući im da jasnije čuju."
 }

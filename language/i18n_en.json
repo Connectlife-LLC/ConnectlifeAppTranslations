@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Do not exit the current page and keep the App running in the foreground;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Do not disconnect from the earphones;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ During the update, the earphones cannot be used temporarily.",
-    "CL_VC_PAIR_GUIDE_DESC": "Place the earbuds in the charging case, open the lid, and long-press the button on the bottom for more than 3 seconds until the indicator light flashes. The earbuds are now in pairing mode."
+    "CL_VC_PAIR_GUIDE_DESC": "Place the earbuds in the charging case, open the lid, and long-press the button on the bottom for more than 3 seconds until the indicator light flashes. The earbuds are now in pairing mode.",
+    "CL_CF_energy_replace_warning": "## is currently in Smart Scheduler mode. Would you like to turn it off and switch to AI Eco mode instead?",
+    "CL_vrf_p_7": "Position 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Music Mode",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimized for pop music listening balance, ultimate listening experience.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Movie Mode",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Immersive, powerful stereo sound for an intense viewing and gaming experience.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "News Mode",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Enhance vocals while reducing background noise interference, ideal for listening to educational content.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Elderly Mode",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "High-frequency compensation for seniors' hearing, helping them hear more clearly."
 }

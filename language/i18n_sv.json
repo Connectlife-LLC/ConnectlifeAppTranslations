@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Stäng inte den aktuella sidan och låt appen köras i förgrunden;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Koppla inte bort hörlurarna;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Under uppdateringen kan hörlurarna tillfälligt inte användas.",
-    "CL_VC_PAIR_GUIDE_DESC": "Placera öronsnäckorna i laddningsfodralet, öppna locket och håll knappen på undersidan intryckt i mer än 3 sekunder tills indikatorlampan blinkar. Öronsnäckorna är nu i parkopplingsläge."
+    "CL_VC_PAIR_GUIDE_DESC": "Placera öronsnäckorna i laddningsfodralet, öppna locket och håll knappen på undersidan intryckt i mer än 3 sekunder tills indikatorlampan blinkar. Öronsnäckorna är nu i parkopplingsläge.",
+    "CL_CF_energy_replace_warning": "## är för närvarande i Smart Scheduler-läge. Vill du stänga av det och växla till AI Eco-läge istället?",
+    "CL_vrf_p_7": "Position 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Musikläge",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimerad för balanserad popmusiklyssning, den ultimata lyssningsupplevelsen.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Filmläge",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Omslutande, kraftfullt stereoljud för en intensiv tittar- och spelupplevelse.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Nyhetsläge",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Förbättra sången samtidigt som du minskar bakgrundsbrus, perfekt för att lyssna på utbildningsinnehåll.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Äldreläge",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Högfrekvent kompensation för äldres hörsel, vilket hjälper dem att höra tydligare."
 }

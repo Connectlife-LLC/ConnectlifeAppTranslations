@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Non uscire dalla pagina corrente e mantieni l'app in esecuzione in primo piano;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Non scollegare gli auricolari;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Durante l'aggiornamento, gli auricolari non possono essere utilizzati temporaneamente.",
-    "CL_VC_PAIR_GUIDE_DESC": "Inserisci gli auricolari nella custodia di ricarica, apri il coperchio e tieni premuto il pulsante sul fondo per più di 3 secondi finché la spia luminosa non lampeggia. Gli auricolari sono ora in modalità di abbinamento."
+    "CL_VC_PAIR_GUIDE_DESC": "Inserisci gli auricolari nella custodia di ricarica, apri il coperchio e tieni premuto il pulsante sul fondo per più di 3 secondi finché la spia luminosa non lampeggia. Gli auricolari sono ora in modalità di abbinamento.",
+    "CL_CF_energy_replace_warning": "## è attualmente in modalità Smart Scheduler. Desideri disattivarla e passare alla modalità AI Eco?",
+    "CL_vrf_p_7": "Posizione 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Modalità Musica",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Ottimizzato per un equilibrio perfetto nell'ascolto della musica pop, per un'esperienza d'ascolto eccezionale.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Modalità film",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Un suono stereo potente e coinvolgente per un'esperienza di visione e di gioco intensa.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Modalità Notizie",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Migliora la qualità delle voci riducendo al contempo i rumori di fondo, ideale per l'ascolto di contenuti didattici.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Moda anziana",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Compensazione delle alte frequenze per l'udito degli anziani, che li aiuta a sentire più chiaramente."
 }

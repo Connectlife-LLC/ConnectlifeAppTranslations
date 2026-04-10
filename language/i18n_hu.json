@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Ne lépjen ki az aktuális oldalról, és ne hagyja az alkalmazást az előtérben futni;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Ne húzza ki a fülhallgatóból;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ A frissítés során a fülhallgatók átmenetileg nem használhatók.",
-    "CL_VC_PAIR_GUIDE_DESC": "Helyezze a fülhallgatókat a töltőtokba, nyissa ki a fedelet, és tartsa lenyomva az alján található gombot legalább 3 másodpercig, amíg a jelzőfény villogni nem kezd. A fülhallgatók most párosítási módban vannak."
+    "CL_VC_PAIR_GUIDE_DESC": "Helyezze a fülhallgatókat a töltőtokba, nyissa ki a fedelet, és tartsa lenyomva az alján található gombot legalább 3 másodpercig, amíg a jelzőfény villogni nem kezd. A fülhallgatók most párosítási módban vannak.",
+    "CL_CF_energy_replace_warning": "A ## jelenleg Intelligens ütemező módban van. Szeretnéd kikapcsolni, és inkább AI Eco módba váltani?",
+    "CL_vrf_p_7": "7. pozíció",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Zenei mód",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Popzenei hallgatáshoz optimalizálva, kiegyensúlyozottan, a tökéletes zenei élményért.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Film mód",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Magával ragadó, erőteljes sztereó hangzás az intenzív vizuális és játékélményért.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Hírek mód",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Kiemeli az énekhangot, miközben csökkenti a háttérzaj interferenciáját, ideális oktatási tartalmak hallgatásához.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Idősebb korúak mód",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Nagyfrekvenciás kompenzáció az idősek hallásához, amely segít nekik tisztábban hallani."
 }

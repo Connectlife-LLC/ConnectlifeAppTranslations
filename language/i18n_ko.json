@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① 현재 페이지를 종료하지 말고 앱을 포그라운드에서 계속 실행하세요.",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② 이어폰을 분리하지 마십시오.",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ 업데이트 중에는 이어폰을 일시적으로 사용할 수 없습니다.",
-    "CL_VC_PAIR_GUIDE_DESC": "이어버드를 충전 케이스에 넣고 뚜껑을 연 다음, 아래쪽 버튼을 3초 이상 길게 누르면 표시등이 깜빡입니다. 이제 이어버드가 페어링 모드에 진입했습니다."
+    "CL_VC_PAIR_GUIDE_DESC": "이어버드를 충전 케이스에 넣고 뚜껑을 연 다음, 아래쪽 버튼을 3초 이상 길게 누르면 표시등이 깜빡입니다. 이제 이어버드가 페어링 모드에 진입했습니다.",
+    "CL_CF_energy_replace_warning": "##는 현재 스마트 스케줄러 모드로 작동 중입니다. 스마트 스케줄러를 끄고 AI 에코 모드로 전환하시겠습니까?",
+    "CL_vrf_p_7": "7번 위치",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "음악 모드",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "팝 음악 감상에 최적화된 균형감과 최고의 청취 경험을 제공합니다.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "영화 모드",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "몰입감 넘치는 강력한 스테레오 사운드로 몰입도 높은 시청 및 게임 경험을 제공합니다.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "뉴스 모드",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "배경 소음 간섭을 줄이면서 음성을 향상시켜 교육 콘텐츠 청취에 이상적입니다.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "노인 모드",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "노인분들의 청력을 위한 고주파수 보정 기능으로, 더욱 명확하게 들을 수 있도록 도와줍니다."
 }

@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Neopouštějte aktuální stránku a nechte aplikaci běžet v popředí;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Neodpojujte od sluchátek;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Během aktualizace nelze sluchátka dočasně používat.",
-    "CL_VC_PAIR_GUIDE_DESC": "Vložte sluchátka do nabíjecího pouzdra, otevřete víko a dlouze stiskněte tlačítko na spodní straně po dobu delší než 3 sekundy, dokud kontrolka nezačne blikat. Sluchátka jsou nyní v režimu párování."
+    "CL_VC_PAIR_GUIDE_DESC": "Vložte sluchátka do nabíjecího pouzdra, otevřete víko a dlouze stiskněte tlačítko na spodní straně po dobu delší než 3 sekundy, dokud kontrolka nezačne blikat. Sluchátka jsou nyní v režimu párování.",
+    "CL_CF_energy_replace_warning": "## je momentálně v režimu Inteligentní plánovač. Chcete jej vypnout a přepnout do režimu AI Eco?",
+    "CL_vrf_p_7": "Pozice 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Hudební režim",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimalizováno pro vyvážený poslech populární hudby, dokonalý poslechový zážitek.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Režim videa",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Pohlcující a výkonný stereo zvuk pro intenzivní zážitek ze sledování i hraní her.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Režim zpráv",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Zvýrazněte vokály a zároveň snižte rušení v pozadí, ideální pro poslech vzdělávacího obsahu.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Režim pro seniory",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Vysokofrekvenční kompenzace pro sluch seniorů, která jim pomáhá slyšet jasněji."
 }

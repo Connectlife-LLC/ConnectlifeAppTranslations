@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Verlaat de huidige pagina niet en laat de app op de voorgrond actief;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Niet loskoppelen van de oortjes;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Tijdens de update kunnen de oortjes tijdelijk niet worden gebruikt.",
-    "CL_VC_PAIR_GUIDE_DESC": "Plaats de oordopjes in de oplaadcase, open het deksel en houd de knop aan de onderkant langer dan 3 seconden ingedrukt totdat het indicatielampje knippert. De oordopjes bevinden zich nu in de koppelingsmodus."
+    "CL_VC_PAIR_GUIDE_DESC": "Plaats de oordopjes in de oplaadcase, open het deksel en houd de knop aan de onderkant langer dan 3 seconden ingedrukt totdat het indicatielampje knippert. De oordopjes bevinden zich nu in de koppelingsmodus.",
+    "CL_CF_energy_replace_warning": "## bevindt zich momenteel in de Smart Scheduler-modus. Wilt u deze uitschakelen en in plaats daarvan overschakelen naar de AI Eco-modus?",
+    "CL_vrf_p_7": "Positie 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Muziekmodus",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Geoptimaliseerd voor een optimale balans bij het luisteren naar popmuziek, voor de ultieme luisterervaring.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Filmmodus",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Meeslepende, krachtige stereogeluidservaring voor een intense kijk- en gamebeleving.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Nieuwsmodus",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Verbeter de stemweergave en verminder de storende achtergrondgeluiden, ideaal voor het luisteren naar educatieve content.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Ouderenmodus",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Hoogfrequente compensatie voor het gehoor van senioren, waardoor ze duidelijker kunnen horen."
 }

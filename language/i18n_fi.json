@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Älä poistu nykyiseltä sivulta ja pidä sovellusta käynnissä etualalla;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Älä irrota kuulokkeista;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Kuulokkeita ei voi käyttää tilapäisesti päivityksen aikana.",
-    "CL_VC_PAIR_GUIDE_DESC": "Aseta nappikuulokkeet latauskoteloon, avaa kansi ja paina pohjassa olevaa painiketta yli 3 sekunnin ajan, kunnes merkkivalo vilkkuu. Nappikuulokkeet ovat nyt pariliitostilassa."
+    "CL_VC_PAIR_GUIDE_DESC": "Aseta nappikuulokkeet latauskoteloon, avaa kansi ja paina pohjassa olevaa painiketta yli 3 sekunnin ajan, kunnes merkkivalo vilkkuu. Nappikuulokkeet ovat nyt pariliitostilassa.",
+    "CL_CF_energy_replace_warning": "## on tällä hetkellä Älykäs ajoitus -tilassa. Haluatko poistaa sen käytöstä ja vaihtaa sen sijaan tekoälyn eko-tilaan?",
+    "CL_vrf_p_7": "Sijainti 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Musiikkitila",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimoitu popmusiikin kuuntelutasapainoon ja äärimmäiseen kuuntelukokemukseen.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Elokuvatila",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Mukaansatempaava, tehokas stereoääni intensiiviseen katselu- ja pelikokemukseen.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Uutistila",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Paranna laulua ja vähennä samalla taustamelua, ihanteellinen opetussisällön kuunteluun.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Iäkkäiden tila",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Korkeataajuuksien kompensointi ikääntyneiden kuulolle, auttaen heitä kuulemaan selkeämmin."
 }

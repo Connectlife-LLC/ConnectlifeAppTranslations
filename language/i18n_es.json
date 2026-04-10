@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① No salga de la página actual y mantenga la aplicación ejecutándose en primer plano;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② No desconecte los auriculares;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Durante la actualización, los auriculares no se podrán utilizar temporalmente.",
-    "CL_VC_PAIR_GUIDE_DESC": "Coloca los auriculares en el estuche de carga, abre la tapa y mantén pulsado el botón inferior durante más de 3 segundos hasta que el indicador luminoso parpadee. Los auriculares ya están en modo de emparejamiento."
+    "CL_VC_PAIR_GUIDE_DESC": "Coloca los auriculares en el estuche de carga, abre la tapa y mantén pulsado el botón inferior durante más de 3 segundos hasta que el indicador luminoso parpadee. Los auriculares ya están en modo de emparejamiento.",
+    "CL_CF_energy_replace_warning": "## se encuentra actualmente en modo Programador inteligente. ¿Desea desactivarlo y cambiar al modo Eco con IA?",
+    "CL_vrf_p_7": "Posición 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Modo Música",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimizado para un equilibrio perfecto al escuchar música pop, la mejor experiencia auditiva.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Modo película",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Sonido estéreo potente e inmersivo para una experiencia intensa tanto visual como de juego.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Modo Noticias",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Mejora la claridad de las voces a la vez que reduce la interferencia del ruido de fondo, ideal para escuchar contenido educativo.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Modo para personas mayores",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Compensación de alta frecuencia para la audición de las personas mayores, que les ayuda a oír con mayor claridad."
 }

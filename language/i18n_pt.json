@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Não saia da página atual e mantenha o aplicativo em execução em primeiro plano;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Não desconecte os fones de ouvido;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Durante a atualização, os fones de ouvido ficarão temporariamente indisponíveis.",
-    "CL_VC_PAIR_GUIDE_DESC": "Coloque os fones de ouvido no estojo de carregamento, abra a tampa e pressione e segure o botão na parte inferior por mais de 3 segundos até que a luz indicadora pisque. Os fones de ouvido agora estão no modo de emparelhamento."
+    "CL_VC_PAIR_GUIDE_DESC": "Coloque os fones de ouvido no estojo de carregamento, abra a tampa e pressione e segure o botão na parte inferior por mais de 3 segundos até que a luz indicadora pisque. Os fones de ouvido agora estão no modo de emparelhamento.",
+    "CL_CF_energy_replace_warning": "## está atualmente no modo Agendador Inteligente. Deseja desativá-lo e alternar para o modo AI Eco?",
+    "CL_vrf_p_7": "Posição 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Modo Música",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Otimizado para o equilíbrio perfeito na audição de música pop, proporcionando a melhor experiência auditiva.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Modo Filme",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Som estéreo imersivo e potente para uma experiência intensa de visualização e jogos.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Modo Notícias",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Melhora a qualidade da voz e reduz a interferência de ruídos de fundo, ideal para ouvir conteúdo educativo.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Modo Idoso",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Compensação de alta frequência para a audição de idosos, ajudando-os a ouvir com mais clareza."
 }

@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Forlad ikke den aktuelle side, og lad appen køre i forgrunden;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Afbryd ikke forbindelsen til øretelefonerne;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Under opdateringen kan høretelefonerne midlertidigt ikke bruges.",
-    "CL_VC_PAIR_GUIDE_DESC": "Placer ørepropperne i opladningsetuiet, åbn låget, og hold knappen i bunden nede i mere end 3 sekunder, indtil indikatorlampen blinker. Ørepropperne er nu i parringstilstand."
+    "CL_VC_PAIR_GUIDE_DESC": "Placer ørepropperne i opladningsetuiet, åbn låget, og hold knappen i bunden nede i mere end 3 sekunder, indtil indikatorlampen blinker. Ørepropperne er nu i parringstilstand.",
+    "CL_CF_energy_replace_warning": "## er i øjeblikket i Smart Scheduler-tilstand. Vil du slå den fra og skifte til AI Eco-tilstand i stedet?",
+    "CL_vrf_p_7": "Position 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Musiktilstand",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimeret til balanceret popmusiklytning, den ultimative lytteoplevelse.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Filmtilstand",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Medrivende, kraftfuld stereolyd til en intens seer- og spiloplevelse.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Nyhedstilstand",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Forbedr vokalen, samtidig med at du reducerer baggrundsstøj, ideel til at lytte til uddannelsesmæssigt indhold.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Ældretilstand",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Højfrekvent kompensation for ældres hørelse, hvilket hjælper dem med at høre tydeligere."
 }

@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Geçerli sayfadan çıkmayın ve uygulamayı ön planda çalışır durumda tutun;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Kulaklıklardan bağlantıyı kesmeyin;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Güncelleme sırasında kulaklıklar geçici olarak kullanılamayacaktır.",
-    "CL_VC_PAIR_GUIDE_DESC": "Kulaklıkları şarj kutusuna yerleştirin, kapağı açın ve gösterge ışığı yanıp sönene kadar alttaki düğmeye 3 saniyeden fazla basılı tutun. Kulaklıklar artık eşleştirme modundadır."
+    "CL_VC_PAIR_GUIDE_DESC": "Kulaklıkları şarj kutusuna yerleştirin, kapağı açın ve gösterge ışığı yanıp sönene kadar alttaki düğmeye 3 saniyeden fazla basılı tutun. Kulaklıklar artık eşleştirme modundadır.",
+    "CL_CF_energy_replace_warning": "Şu anda Akıllı Zamanlayıcı modunda. Bunu kapatıp Yapay Zeka Eko moduna geçmek ister misiniz?",
+    "CL_vrf_p_7": "Pozisyon 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Müzik Modu",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Pop müzik dinleme dengesi için optimize edilmiştir, en üst düzey dinleme deneyimi.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Film Modu",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Sürükleyici, güçlü stereo ses ile yoğun bir izleme ve oyun deneyimi.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Haber Modu",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Ses kalitesini artırırken arka plan gürültüsünü azaltır; özellikle eğitim içeriklerini dinlemek için idealdir.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Yaşlı Modu",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Yaşlıların işitme duyusunu iyileştirmeye yardımcı olan yüksek frekans telafi sistemi."
 }

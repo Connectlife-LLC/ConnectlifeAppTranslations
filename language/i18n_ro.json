@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Nu ieșiți din pagina curentă și mențineți aplicația rulând în prim-plan;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Nu deconectați căștile;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ În timpul actualizării, căștile nu pot fi utilizate temporar.",
-    "CL_VC_PAIR_GUIDE_DESC": "Așezați căștile în carcasa de încărcare, deschideți capacul și apăsați lung butonul de pe partea inferioară timp de mai mult de 3 secunde, până când indicatorul luminos clipește. Căștile sunt acum în modul de asociere."
+    "CL_VC_PAIR_GUIDE_DESC": "Așezați căștile în carcasa de încărcare, deschideți capacul și apăsați lung butonul de pe partea inferioară timp de mai mult de 3 secunde, până când indicatorul luminos clipește. Căștile sunt acum în modul de asociere.",
+    "CL_CF_energy_replace_warning": "## este în prezent în modul Programator inteligent. Doriți să îl dezactivați și să comutați la modul AI Eco?",
+    "CL_vrf_p_7": "Poziția 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Mod muzică",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimizat pentru echilibrul ascultării muzicii pop, o experiență de ascultare supremă.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Mod film",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Sunet stereo puternic și captivant pentru o experiență intensă de vizionare și joc.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Mod Știri",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Îmbunătățește vocile și reduce interferențele zgomotului de fundal, ideal pentru ascultarea de conținut educațional.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Modul pentru vârstnici",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Compensare de înaltă frecvență pentru auzul seniorilor, ajutându-i să audă mai clar."
 }

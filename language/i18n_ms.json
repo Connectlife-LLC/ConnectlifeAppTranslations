@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Jangan keluar dari halaman semasa dan biarkan Aplikasi berjalan di latar depan;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Jangan putuskan sambungan daripada fon telinga;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Semasa kemas kini, fon telinga tidak boleh digunakan buat sementara waktu.",
-    "CL_VC_PAIR_GUIDE_DESC": "Letakkan fon telinga di dalam bekas pengecas, buka penutupnya dan tekan lama butang di bahagian bawah selama lebih daripada 3 saat sehingga lampu penunjuk berkelip. Fon telinga kini berada dalam mod berpasangan."
+    "CL_VC_PAIR_GUIDE_DESC": "Letakkan fon telinga di dalam bekas pengecas, buka penutupnya dan tekan lama butang di bahagian bawah selama lebih daripada 3 saat sehingga lampu penunjuk berkelip. Fon telinga kini berada dalam mod berpasangan.",
+    "CL_CF_energy_replace_warning": "## kini berada dalam mod Penjadual Pintar. Adakah anda ingin mematikannya dan bertukar kepada mod AI Eco?",
+    "CL_vrf_p_7": "Kedudukan 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Mod Muzik",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Dioptimumkan untuk keseimbangan mendengar muzik pop, pengalaman mendengar terbaik.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Mod Filem",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Bunyi stereo yang mengasyikkan dan berkuasa untuk pengalaman tontonan dan permainan yang mendalam.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Mod Berita",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Tingkatkan vokal sambil mengurangkan gangguan hingar latar belakang, sesuai untuk mendengar kandungan pendidikan.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Mod Warga Emas",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Pampasan frekuensi tinggi untuk pendengaran warga emas, membantu mereka mendengar dengan lebih jelas."
 }

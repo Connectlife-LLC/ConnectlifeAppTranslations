@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Ikke lukk gjeldende side og la appen kjøre i forgrunnen;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Ikke koble fra øretelefonene;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Under oppdateringen kan ikke øretelefonene brukes midlertidig.",
-    "CL_VC_PAIR_GUIDE_DESC": "Plasser øreproppene i ladeetuiet, åpne lokket og trykk lenge på knappen nederst i mer enn 3 sekunder til indikatorlampen blinker. Øreproppene er nå i paringsmodus."
+    "CL_VC_PAIR_GUIDE_DESC": "Plasser øreproppene i ladeetuiet, åpne lokket og trykk lenge på knappen nederst i mer enn 3 sekunder til indikatorlampen blinker. Øreproppene er nå i paringsmodus.",
+    "CL_CF_energy_replace_warning": "## er for øyeblikket i Smart Scheduler-modus. Vil du slå den av og bytte til AI Eco-modus i stedet?",
+    "CL_vrf_p_7": "Posisjon 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Musikkmodus",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimalisert for balansert popmusikklytting, den ultimate lytteopplevelsen.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Filmmodus",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Omsluttende, kraftig stereolyd for en intens seer- og spillopplevelse.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Nyhetsmodus",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Forbedre vokalen samtidig som du reduserer bakgrunnsstøy, ideelt for å lytte til pedagogisk innhold.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Eldremodus",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Høyfrekvent kompensasjon for eldres hørsel, noe som hjelper dem å høre tydeligere."
 }

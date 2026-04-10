@@ -8358,5 +8358,15 @@
     "CL_VC_OTA_NOTICE_UPDATING_1": "① Ne quittez pas la page actuelle et laissez l'application s'exécuter au premier plan ;",
     "CL_VC_OTA_NOTICE_UPDATING_2": "② Ne débranchez pas les écouteurs ;",
     "CL_VC_OTA_NOTICE_UPDATING_3": "③ Pendant la mise à jour, les écouteurs ne peuvent pas être utilisés temporairement.",
-    "CL_VC_PAIR_GUIDE_DESC": "Placez les écouteurs dans l'étui de chargement, ouvrez le couvercle et appuyez longuement sur le bouton situé en bas pendant plus de 3 secondes jusqu'à ce que le voyant clignote. Les écouteurs sont maintenant en mode appairage."
+    "CL_VC_PAIR_GUIDE_DESC": "Placez les écouteurs dans l'étui de chargement, ouvrez le couvercle et appuyez longuement sur le bouton situé en bas pendant plus de 3 secondes jusqu'à ce que le voyant clignote. Les écouteurs sont maintenant en mode appairage.",
+    "CL_CF_energy_replace_warning": "## est actuellement en mode Planificateur intelligent. Souhaitez-vous le désactiver et passer en mode Éco IA ?",
+    "CL_vrf_p_7": "Position 7",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_TITLE": "Mode musique",
+    "CL_VC_SOUND_EFFECT_MUSIC_CARD_DESC": "Optimisé pour un équilibre d'écoute optimal de la musique pop, pour une expérience d'écoute ultime.",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_TITLE": "Mode film",
+    "CL_VC_SOUND_EFFECT_MOVIE_CARD_DESC": "Un son stéréo immersif et puissant pour une expérience visuelle et de jeu intense.",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_TITLE": "Mode Actualités",
+    "CL_VC_SOUND_EFFECT_NEWS_CARD_DESC": "Améliore la clarté des voix tout en réduisant les bruits de fond, idéal pour l'écoute de contenus éducatifs.",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Mode senior",
+    "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Compensation des hautes fréquences pour l'audition des personnes âgées, les aidant à entendre plus clairement."
 }
