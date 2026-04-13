@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "老年模式",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "高频补偿技术可改善老年人的听力，帮助他们听得更清楚。",
     "CL_CF_energy_this_week_saved": "本周节省",
-    "CL_CF_energy_this_year_saved": "今年节省了"
+    "CL_CF_energy_this_year_saved": "今年节省了",
+    "CL_SMART_ENERGY_solar_optimiser": "太阳能优化器",
+    "CL_SMART_ENERGY_always_eco": "始终环保",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "利用额外的太阳能",
+    "CL_SMART_ENERGY_runs_eco_mode": "运行时采用节能模式。",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "在非高峰时段运行，采用节能模式。",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "达到能耗目标后，以节能模式运行。",
+    "CL_SMART_ENERGY_set_to_temp": "设定为100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "延迟启动以降低电价"
 }

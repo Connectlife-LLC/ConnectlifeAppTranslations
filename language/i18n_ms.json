@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Mod Warga Emas",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Pampasan frekuensi tinggi untuk pendengaran warga emas, membantu mereka mendengar dengan lebih jelas.",
     "CL_CF_energy_this_week_saved": "Minggu ini disimpan",
-    "CL_CF_energy_this_year_saved": "Tahun ini dijimatkan"
+    "CL_CF_energy_this_year_saved": "Tahun ini dijimatkan",
+    "CL_SMART_ENERGY_solar_optimiser": "Pengoptimum Suria",
+    "CL_SMART_ENERGY_always_eco": "Sentiasa Eko",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Menggunakan tenaga suria tambahan",
+    "CL_SMART_ENERGY_runs_eco_mode": "Berjalan dalam mod Eko semasa beroperasi.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Berjalan dalam mod Eko apabila beroperasi semasa waktu luar puncak",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Berjalan dalam mod Eko apabila ia mencapai sasaran tenaga.",
+    "CL_SMART_ENERGY_set_to_temp": "Tetapkan kepada 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Kelewatan permulaan untuk harga elektrik yang lebih rendah"
 }

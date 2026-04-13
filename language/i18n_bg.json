@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Режим за възрастни хора",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Високочестотна компенсация за слуха на възрастните хора, помагаща им да чуват по-ясно.",
     "CL_CF_energy_this_week_saved": "Тази седмица спасена",
-    "CL_CF_energy_this_year_saved": "Тази година спести"
+    "CL_CF_energy_this_year_saved": "Тази година спести",
+    "CL_SMART_ENERGY_solar_optimiser": "Слънчев оптимизатор",
+    "CL_SMART_ENERGY_always_eco": "Винаги еко",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Използване на допълнителна слънчева енергия",
+    "CL_SMART_ENERGY_runs_eco_mode": "Работи в еко режим по време на работа.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Работи в еко режим, когато работи извън пиковите часове",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Работи в еко режим, когато достигне енергийната си цел.",
+    "CL_SMART_ENERGY_set_to_temp": "Зададено на 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Отложен старт за по-ниска цена на тока"
 }

@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Yaşlı Modu",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Yaşlıların işitme duyusunu iyileştirmeye yardımcı olan yüksek frekans telafi sistemi.",
     "CL_CF_energy_this_week_saved": "Bu hafta tasarruf edildi",
-    "CL_CF_energy_this_year_saved": "Bu yıl tasarruf sağlandı"
+    "CL_CF_energy_this_year_saved": "Bu yıl tasarruf sağlandı",
+    "CL_SMART_ENERGY_solar_optimiser": "Güneş Enerjisi Optimize Edici",
+    "CL_SMART_ENERGY_always_eco": "Her zaman çevre dostu",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Ek güneş enerjisi kullanımı",
+    "CL_SMART_ENERGY_runs_eco_mode": "Çalışırken Eko modda çalışır.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Yoğun olmayan saatlerde çalışırken Eko modda çalışır.",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Enerji hedefine ulaşıldığında Eko modda çalışır.",
+    "CL_SMART_ENERGY_set_to_temp": "100ºC'ye ayarlandı",
+    "CL_SMART_ENERGY_delay_start_lower": "Daha düşük elektrik fiyatı için başlatmayı erteleme"
 }
