@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "노인 모드",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "노인분들의 청력을 위한 고주파수 보정 기능으로, 더욱 명확하게 들을 수 있도록 도와줍니다.",
     "CL_CF_energy_this_week_saved": "이번 주에 저장됨",
-    "CL_CF_energy_this_year_saved": "올해 저축했습니다"
+    "CL_CF_energy_this_year_saved": "올해 저축했습니다",
+    "CL_SMART_ENERGY_solar_optimiser": "태양광 최적화 장치",
+    "CL_SMART_ENERGY_always_eco": "항상 친환경적입니다",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "잉여 태양 에너지를 활용하기",
+    "CL_SMART_ENERGY_runs_eco_mode": "작동 시 에코 모드로 작동합니다.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "이용객이 적은 시간대에는 에코 모드로 작동합니다.",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "에너지 목표치에 도달하면 에코 모드로 작동합니다.",
+    "CL_SMART_ENERGY_set_to_temp": "100ºC로 설정하세요",
+    "CL_SMART_ENERGY_delay_start_lower": "전기 요금을 낮추기 위해 시작 시간을 늦추세요"
 }

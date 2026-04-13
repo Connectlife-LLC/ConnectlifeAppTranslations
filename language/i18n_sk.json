@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Režim pre seniorov",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Vysokofrekvenčná kompenzácia pre sluch seniorov, ktorá im pomáha počuť jasnejšie.",
     "CL_CF_energy_this_week_saved": "Tento týždeň ušetrené",
-    "CL_CF_energy_this_year_saved": "Tento rok ušetril"
+    "CL_CF_energy_this_year_saved": "Tento rok ušetril",
+    "CL_SMART_ENERGY_solar_optimiser": "Solárny optimalizátor",
+    "CL_SMART_ENERGY_always_eco": "Vždy ekologické",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Využitie dodatočnej slnečnej energie",
+    "CL_SMART_ENERGY_runs_eco_mode": "Počas prevádzky beží v režime Eco.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Beží v režime Eco aj mimo špičky",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Po dosiahnutí energetickej cieľovej hodnoty beží v režime Eco.",
+    "CL_SMART_ENERGY_set_to_temp": "Nastavte na 100 °C",
+    "CL_SMART_ENERGY_delay_start_lower": "Odložený štart pre nižšiu cenu elektriny"
 }

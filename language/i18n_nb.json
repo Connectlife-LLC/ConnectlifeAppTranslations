@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Eldremodus",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Høyfrekvent kompensasjon for eldres hørsel, noe som hjelper dem å høre tydeligere.",
     "CL_CF_energy_this_week_saved": "Denne uken lagret",
-    "CL_CF_energy_this_year_saved": "Dette året reddet"
+    "CL_CF_energy_this_year_saved": "Dette året reddet",
+    "CL_SMART_ENERGY_solar_optimiser": "Soloptimaliserer",
+    "CL_SMART_ENERGY_always_eco": "Alltid øko",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Bruk av ekstra solenergi",
+    "CL_SMART_ENERGY_runs_eco_mode": "Kjører i Eco-modus under drift.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Kjører i økomodus når den er i drift utenom rushtiden",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Kjører i økomodus når den når energimålet.",
+    "CL_SMART_ENERGY_set_to_temp": "Sett til 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Forsinket start for lavere strømpris"
 }

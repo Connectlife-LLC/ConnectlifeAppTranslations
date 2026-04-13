@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "מצב קשישים",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "פיצוי בתדר גבוה לשמיעתם של קשישים, ועוזר להם לשמוע בצורה ברורה יותר.",
     "CL_CF_energy_this_week_saved": "השבוע הזה נשמר",
-    "CL_CF_energy_this_year_saved": "השנה הזו ניצלה"
+    "CL_CF_energy_this_year_saved": "השנה הזו ניצלה",
+    "CL_SMART_ENERGY_solar_optimiser": "אופטימיזציה סולארית",
+    "CL_SMART_ENERGY_always_eco": "תמיד אקו",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "שימוש באנרגיה סולארית נוספת",
+    "CL_SMART_ENERGY_runs_eco_mode": "פועל במצב אקו בעת ההפעלה.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "פועל במצב אקו בעת פעולה בשעות שפל",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "פועל במצב אקו כאשר הוא מגיע ליעד האנרגיה.",
+    "CL_SMART_ENERGY_set_to_temp": "כוון ל-100 מעלות צלזיוס",
+    "CL_SMART_ENERGY_delay_start_lower": "התחלה מושהית להורדת מחיר החשמל"
 }

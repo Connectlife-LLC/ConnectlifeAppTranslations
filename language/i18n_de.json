@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Seniorenmodus",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Hochfrequenzkompensation für das Hörvermögen älterer Menschen, die ihnen hilft, klarer zu hören.",
     "CL_CF_energy_this_week_saved": "Diese Woche gerettet",
-    "CL_CF_energy_this_year_saved": "Dieses Jahr gerettet"
+    "CL_CF_energy_this_year_saved": "Dieses Jahr gerettet",
+    "CL_SMART_ENERGY_solar_optimiser": "Solaroptimierer",
+    "CL_SMART_ENERGY_always_eco": "Always Eco",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Nutzung zusätzlicher Solarenergie",
+    "CL_SMART_ENERGY_runs_eco_mode": "Läuft im Betrieb im Eco-Modus.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Läuft im Eco-Modus, wenn es außerhalb der Spitzenzeiten betrieben wird.",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Schaltet in den Eco-Modus, sobald der Energiebedarf gedeckt ist.",
+    "CL_SMART_ENERGY_set_to_temp": "Auf 100ºC einstellen",
+    "CL_SMART_ENERGY_delay_start_lower": "Späterer Start für niedrigeren Strompreis"
 }

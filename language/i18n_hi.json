@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "बुजुर्ग मोड",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "बुजुर्गों की सुनने की क्षमता के लिए उच्च आवृत्ति क्षतिपूर्ति, जिससे उन्हें अधिक स्पष्ट रूप से सुनने में मदद मिलती है।",
     "CL_CF_energy_this_week_saved": "इस सप्ताह बचा लिया गया",
-    "CL_CF_energy_this_year_saved": "इस साल बचा लिया"
+    "CL_CF_energy_this_year_saved": "इस साल बचा लिया",
+    "CL_SMART_ENERGY_solar_optimiser": "सोलर ऑप्टिमाइज़र",
+    "CL_SMART_ENERGY_always_eco": "ऑलवेज इको",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "अतिरिक्त सौर ऊर्जा का उपयोग करना",
+    "CL_SMART_ENERGY_runs_eco_mode": "संचालन के दौरान यह इको मोड में चलता है।",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "व्यस्त समय के अलावा अन्य समय में संचालन के दौरान यह इको मोड में चलता है।",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "ऊर्जा लक्ष्य तक पहुंचने पर यह इको मोड में चलता है।",
+    "CL_SMART_ENERGY_set_to_temp": "तापमान 100ºC पर सेट करें",
+    "CL_SMART_ENERGY_delay_start_lower": "बिजली की कम कीमत के लिए शुरुआत में देरी करें"
 }

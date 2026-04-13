@@ -8370,5 +8370,13 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "高齢者モード",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "高齢者の聴力低下に対する高周波補正により、より明瞭な聴覚を実現します。",
     "CL_CF_energy_this_week_saved": "今週は節約できました",
-    "CL_CF_energy_this_year_saved": "今年は節約できた"
+    "CL_CF_energy_this_year_saved": "今年は節約できた",
+    "CL_SMART_ENERGY_solar_optimiser": "ソーラーオプティマイザー",
+    "CL_SMART_ENERGY_always_eco": "常にエコ",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "余剰の太陽エネルギーを利用する",
+    "CL_SMART_ENERGY_runs_eco_mode": "動作時はエコモードで稼働します。",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "オフピーク時間帯の運転時はエコモードで動作します",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "エネルギー目標値に達すると、エコモードで動作します。",
+    "CL_SMART_ENERGY_set_to_temp": "100℃に設定",
+    "CL_SMART_ENERGY_delay_start_lower": "電気料金が安くなるまで始業時間を遅らせる"
 }
