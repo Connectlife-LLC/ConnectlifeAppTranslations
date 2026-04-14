@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Chế độ người cao tuổi",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Công nghệ bù trừ tần số cao giúp cải thiện thính lực cho người cao tuổi, giúp họ nghe rõ hơn.",
     "CL_CF_energy_this_week_saved": "Tuần này đã được tiết kiệm",
-    "CL_CF_energy_this_year_saved": "Năm nay đã được tiết kiệm"
+    "CL_CF_energy_this_year_saved": "Năm nay đã được tiết kiệm",
+    "CL_SMART_ENERGY_solar_optimiser": "Bộ tối ưu hóa năng lượng mặt trời",
+    "CL_SMART_ENERGY_always_eco": "Luôn thân thiện với môi trường",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Sử dụng năng lượng mặt trời dư thừa",
+    "CL_SMART_ENERGY_runs_eco_mode": "Hoạt động ở chế độ tiết kiệm năng lượng (Eco mode).",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Hoạt động ở chế độ tiết kiệm năng lượng (Eco mode) khi vận hành ngoài giờ cao điểm.",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Máy sẽ hoạt động ở chế độ tiết kiệm năng lượng khi đạt mức năng lượng mục tiêu.",
+    "CL_SMART_ENERGY_set_to_temp": "Đặt ở nhiệt độ 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Trì hoãn khởi động để tiết kiệm điện.",
+    "CL_CF_CS_scan_qr_code": "Quét mã QR",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Vui lòng quét mã QR hiển thị trên màn hình thiết bị."
 }

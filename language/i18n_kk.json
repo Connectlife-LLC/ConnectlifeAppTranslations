@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Егде жастағыларға арналған режим",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Егде жастағы адамдардың есту қабілетін жоғары жиілікті компенсациялау, олардың анық естуіне көмектеседі.",
     "CL_CF_energy_this_week_saved": "Осы апта сақталды",
-    "CL_CF_energy_this_year_saved": "Биыл үнемделді"
+    "CL_CF_energy_this_year_saved": "Биыл үнемделді",
+    "CL_SMART_ENERGY_solar_optimiser": "Күн оңтайландырғышы",
+    "CL_SMART_ENERGY_always_eco": "Әрқашан экологиялық",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Қосымша күн энергиясын пайдалану",
+    "CL_SMART_ENERGY_runs_eco_mode": "Жұмыс істеп тұрған кезде Eco режимінде жұмыс істейді.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Шыңнан тыс уақытта жұмыс істеген кезде Эко режимінде жұмыс істейді",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Энергия мақсатына жеткенде Эко режимінде жұмыс істейді.",
+    "CL_SMART_ENERGY_set_to_temp": "100ºC-қа қойыңыз",
+    "CL_SMART_ENERGY_delay_start_lower": "Электр қуатының бағасын төмендету үшін кешіктіріп іске қосу",
+    "CL_CF_CS_scan_qr_code": "QR кодын сканерлеу",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Құрылғы экранында көрсетілген QR кодын сканерлеңіз."
 }

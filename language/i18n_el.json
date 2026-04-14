@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Λειτουργία Ηλικιωμένων",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Αντιστάθμιση υψηλών συχνοτήτων για την ακοή των ηλικιωμένων, βοηθώντας τους να ακούν πιο καθαρά.",
     "CL_CF_energy_this_week_saved": "Αυτή την εβδομάδα αποθηκεύτηκε",
-    "CL_CF_energy_this_year_saved": "Φέτος σώθηκε"
+    "CL_CF_energy_this_year_saved": "Φέτος σώθηκε",
+    "CL_SMART_ENERGY_solar_optimiser": "Βελτιστοποιητής ηλιακής ενέργειας",
+    "CL_SMART_ENERGY_always_eco": "Πάντα Οικολογικό",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Χρήση επιπλέον ηλιακής ενέργειας",
+    "CL_SMART_ENERGY_runs_eco_mode": "Λειτουργεί σε λειτουργία Eco κατά τη λειτουργία.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Λειτουργεί σε λειτουργία Eco όταν λειτουργεί εκτός ωρών αιχμής",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Λειτουργεί σε λειτουργία Eco όταν φτάσει στον ενεργειακό στόχο.",
+    "CL_SMART_ENERGY_set_to_temp": "Ρυθμίστε στους 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Καθυστέρηση έναρξης για χαμηλότερη τιμή ηλεκτρικής ενέργειας",
+    "CL_CF_CS_scan_qr_code": "Σάρωση κωδικού QR",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Σαρώστε τον κωδικό QR που εμφανίζεται στην οθόνη της συσκευής."
 }

@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "โหมดผู้สูงอายุ",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "การชดเชยความถี่สูงเพื่อการได้ยินที่ดีขึ้นในผู้สูงอายุ ช่วยให้พวกเขาได้ยินชัดเจนยิ่งขึ้น",
     "CL_CF_energy_this_week_saved": "สัปดาห์นี้บันทึกไว้แล้ว",
-    "CL_CF_energy_this_year_saved": "ปีนี้ประหยัดได้"
+    "CL_CF_energy_this_year_saved": "ปีนี้ประหยัดได้",
+    "CL_SMART_ENERGY_solar_optimiser": "เครื่องเพิ่มประสิทธิภาพพลังงานแสงอาทิตย์",
+    "CL_SMART_ENERGY_always_eco": "เป็นมิตรกับสิ่งแวดล้อมเสมอ",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "การใช้พลังงานแสงอาทิตย์ส่วนเกิน",
+    "CL_SMART_ENERGY_runs_eco_mode": "ทำงานในโหมดประหยัดพลังงาน (Eco mode) ขณะใช้งาน",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "ทำงานในโหมดประหยัดพลังงานเมื่อใช้งานในช่วงเวลาที่ไม่ใช่ช่วงเวลาที่มีการใช้งานสูงสุด",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "ทำงานในโหมดประหยัดพลังงานเมื่อถึงระดับพลังงานเป้าหมาย",
+    "CL_SMART_ENERGY_set_to_temp": "ตั้งค่าเป็น 100 องศาเซลเซียส",
+    "CL_SMART_ENERGY_delay_start_lower": "เลื่อนเวลาเริ่มเดินเครื่องเพื่อประหยัดค่าไฟฟ้า",
+    "CL_CF_CS_scan_qr_code": "สแกนคิวอาร์โค้ด",
+    "CL_CF_CS_scan_screen_pair_code_tip": "โปรดสแกนคิวอาร์โค้ดที่แสดงบนหน้าจออุปกรณ์ของคุณ"
 }

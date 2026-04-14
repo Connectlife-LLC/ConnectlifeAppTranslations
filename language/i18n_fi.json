@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Iäkkäiden tila",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Korkeataajuuksien kompensointi ikääntyneiden kuulolle, auttaen heitä kuulemaan selkeämmin.",
     "CL_CF_energy_this_week_saved": "Tämä viikko tallennettu",
-    "CL_CF_energy_this_year_saved": "Tänä vuonna pelastettu"
+    "CL_CF_energy_this_year_saved": "Tänä vuonna pelastettu",
+    "CL_SMART_ENERGY_solar_optimiser": "Aurinkoenergian optimoija",
+    "CL_SMART_ENERGY_always_eco": "Aina ekologinen",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Ylimääräisen aurinkoenergian käyttö",
+    "CL_SMART_ENERGY_runs_eco_mode": "Toimii Eco-tilassa käytön aikana.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Toimii Eco-tilassa ruuhka-aikojen ulkopuolella",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Toimii Eco-tilassa, kun se saavuttaa energiatavoitteensa.",
+    "CL_SMART_ENERGY_set_to_temp": "Aseta 100 ºC:een",
+    "CL_SMART_ENERGY_delay_start_lower": "Viivästetty käynnistys alhaisemman sähkön hinnan saavuttamiseksi",
+    "CL_CF_CS_scan_qr_code": "Skannaa QR-koodi",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Skannaa laitteen näytöllä näkyvä QR-koodi."
 }

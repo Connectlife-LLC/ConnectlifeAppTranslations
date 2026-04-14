@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "حالت سالمندان",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "جبران فرکانس بالا برای شنوایی سالمندان، به آنها کمک می‌کند تا واضح‌تر بشنوند.",
     "CL_CF_energy_this_week_saved": "این هفته ذخیره شد",
-    "CL_CF_energy_this_year_saved": "امسال ذخیره شد"
+    "CL_CF_energy_this_year_saved": "امسال ذخیره شد",
+    "CL_SMART_ENERGY_solar_optimiser": "بهینه‌ساز انرژی خورشیدی",
+    "CL_SMART_ENERGY_always_eco": "همیشه سازگار با محیط زیست",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "استفاده از انرژی خورشیدی اضافی",
+    "CL_SMART_ENERGY_runs_eco_mode": "هنگام کار در حالت اقتصادی (Eco) کار می‌کند.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "هنگام کار در ساعات غیر اوج مصرف، در حالت Eco کار می‌کند",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "وقتی به هدف انرژی خود برسد، در حالت اقتصادی (Eco) کار می‌کند.",
+    "CL_SMART_ENERGY_set_to_temp": "روی ۱۰۰ درجه سانتیگراد تنظیم کنید",
+    "CL_SMART_ENERGY_delay_start_lower": "شروع با تأخیر برای کاهش قیمت برق",
+    "CL_CF_CS_scan_qr_code": "اسکن کد QR",
+    "CL_CF_CS_scan_screen_pair_code_tip": "لطفا کد QR نمایش داده شده روی صفحه دستگاه را اسکن کنید."
 }

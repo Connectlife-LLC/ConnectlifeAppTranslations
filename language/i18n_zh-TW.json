@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "老年模式",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "高頻補償技術可改善老年人的聽力，幫助他們聽得更清楚。",
     "CL_CF_energy_this_week_saved": "本週節省",
-    "CL_CF_energy_this_year_saved": "今年節省了"
+    "CL_CF_energy_this_year_saved": "今年節省了",
+    "CL_SMART_ENERGY_solar_optimiser": "太陽能優化器",
+    "CL_SMART_ENERGY_always_eco": "始終環保",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "利用額外的太陽能",
+    "CL_SMART_ENERGY_runs_eco_mode": "運轉時採用節能模式。",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "在非尖峰時段運行，採用節能模式。",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "達到能耗目標後，以節能模式運作。",
+    "CL_SMART_ENERGY_set_to_temp": "設定為100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "延遲啟動以降低電價",
+    "CL_CF_CS_scan_qr_code": "掃描二維碼",
+    "CL_CF_CS_scan_screen_pair_code_tip": "請掃描設備螢幕上顯示的二維碼。"
 }

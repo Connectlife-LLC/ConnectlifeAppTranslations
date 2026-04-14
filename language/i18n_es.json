@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Modo para personas mayores",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Compensación de alta frecuencia para la audición de las personas mayores, que les ayuda a oír con mayor claridad.",
     "CL_CF_energy_this_week_saved": "Esta semana ahorré",
-    "CL_CF_energy_this_year_saved": "Este año ahorró"
+    "CL_CF_energy_this_year_saved": "Este año ahorró",
+    "CL_SMART_ENERGY_solar_optimiser": "Optimizador solar",
+    "CL_SMART_ENERGY_always_eco": "Siempre Eco",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Utilizando energía solar adicional",
+    "CL_SMART_ENERGY_runs_eco_mode": "Funciona en modo Eco durante su funcionamiento.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Funciona en modo Eco cuando opera durante las horas de menor demanda.",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Funciona en modo Eco cuando alcanza el objetivo de energía.",
+    "CL_SMART_ENERGY_set_to_temp": "Ajustar a 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Retrasar el inicio para obtener un precio de electricidad más bajo.",
+    "CL_CF_CS_scan_qr_code": "Escanee el código QR.",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Escanee el código QR que aparece en la pantalla del dispositivo."
 }

@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Modul pentru vârstnici",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Compensare de înaltă frecvență pentru auzul seniorilor, ajutându-i să audă mai clar.",
     "CL_CF_energy_this_week_saved": "Salvat săptămâna aceasta",
-    "CL_CF_energy_this_year_saved": "Anul acesta a fost salvat"
+    "CL_CF_energy_this_year_saved": "Anul acesta a fost salvat",
+    "CL_SMART_ENERGY_solar_optimiser": "Optimizator solar",
+    "CL_SMART_ENERGY_always_eco": "Întotdeauna Eco",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Utilizarea energiei solare suplimentare",
+    "CL_SMART_ENERGY_runs_eco_mode": "Funcționează în modul Eco în timpul funcționării.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Funcționează în modul Eco atunci când funcționează în afara orelor de vârf",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Funcționează în modul Eco când atinge obiectivul energetic.",
+    "CL_SMART_ENERGY_set_to_temp": "Setați la 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Pornire întârziată pentru un preț mai mic al energiei electrice",
+    "CL_CF_CS_scan_qr_code": "Scanați codul QR",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Vă rugăm să scanați codul QR afișat pe ecranul dispozitivului."
 }

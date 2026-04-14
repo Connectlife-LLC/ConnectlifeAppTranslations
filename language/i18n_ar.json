@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "وضع كبار السن",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "تعويض الترددات العالية لتحسين سمع كبار السن، مما يساعدهم على السمع بشكل أوضح.",
     "CL_CF_energy_this_week_saved": "هذا الأسبوع تم توفيره",
-    "CL_CF_energy_this_year_saved": "هذا العام تم توفيره"
+    "CL_CF_energy_this_year_saved": "هذا العام تم توفيره",
+    "CL_SMART_ENERGY_solar_optimiser": "مُحسِّن الطاقة الشمسية",
+    "CL_SMART_ENERGY_always_eco": "أولويز إيكو",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "استخدام الطاقة الشمسية الإضافية",
+    "CL_SMART_ENERGY_runs_eco_mode": "يعمل في وضع توفير الطاقة أثناء التشغيل.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "يعمل في وضع توفير الطاقة عند التشغيل خلال ساعات خارج أوقات الذروة",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "يعمل في وضع توفير الطاقة عندما يصل إلى مستوى الطاقة المستهدف.",
+    "CL_SMART_ENERGY_set_to_temp": "اضبط على 100 درجة مئوية",
+    "CL_SMART_ENERGY_delay_start_lower": "تأخير بدء التشغيل لخفض سعر الكهرباء",
+    "CL_CF_CS_scan_qr_code": "امسح رمز الاستجابة السريعة",
+    "CL_CF_CS_scan_screen_pair_code_tip": "يرجى مسح رمز الاستجابة السريعة (QR code) المعروض على شاشة الجهاز."
 }

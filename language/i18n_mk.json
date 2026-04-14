@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Режим за постари лица",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Компензација на високи фреквенции за слухот на постарите лица, помагајќи им да слушаат појасно.",
     "CL_CF_energy_this_week_saved": "Оваа недела зачувано",
-    "CL_CF_energy_this_year_saved": "Оваа година зачувано"
+    "CL_CF_energy_this_year_saved": "Оваа година зачувано",
+    "CL_SMART_ENERGY_solar_optimiser": "Соларен оптимизатор",
+    "CL_SMART_ENERGY_always_eco": "Секогаш еко",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Користење на дополнителна сончева енергија",
+    "CL_SMART_ENERGY_runs_eco_mode": "Работи во еко режим кога е во функција.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Работи во еко режим кога работи вон шпиц часови",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Работи во еко режим кога ќе ја достигне целната енергетска вредност.",
+    "CL_SMART_ENERGY_set_to_temp": "Поставено на 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Одложен почеток за пониска цена на електрична енергија",
+    "CL_CF_CS_scan_qr_code": "Скенирај QR код",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Скенирајте го QR-кодот прикажан на екранот на уредот."
 }

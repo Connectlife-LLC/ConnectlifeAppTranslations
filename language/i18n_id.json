@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Mode Lansia",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Kompensasi frekuensi tinggi untuk pendengaran lansia, membantu mereka mendengar lebih jelas.",
     "CL_CF_energy_this_week_saved": "Minggu ini terselamatkan",
-    "CL_CF_energy_this_year_saved": "Tahun ini menyelamatkan"
+    "CL_CF_energy_this_year_saved": "Tahun ini menyelamatkan",
+    "CL_SMART_ENERGY_solar_optimiser": "Pengoptimal Tenaga Surya",
+    "CL_SMART_ENERGY_always_eco": "Selalu Ramah Lingkungan",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Menggunakan energi surya tambahan",
+    "CL_SMART_ENERGY_runs_eco_mode": "Beroperasi dalam mode Eco.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Beroperasi dalam mode Eco saat digunakan di luar jam sibuk.",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Beroperasi dalam mode Eco saat mencapai target energi.",
+    "CL_SMART_ENERGY_set_to_temp": "Atur suhu ke 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Penundaan mulai beroperasi untuk harga listrik yang lebih rendah",
+    "CL_CF_CS_scan_qr_code": "Pindai Kode QR",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Silakan pindai kode QR yang ditampilkan di layar perangkat."
 }

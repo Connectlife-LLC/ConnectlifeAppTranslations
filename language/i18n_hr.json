@@ -8370,5 +8370,15 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Način rada za starije osobe",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Visokofrekventna kompenzacija za sluh starijih osoba, pomažući im da jasnije čuju.",
     "CL_CF_energy_this_week_saved": "Ovaj tjedan spašen",
-    "CL_CF_energy_this_year_saved": "Ove godine spašeno"
+    "CL_CF_energy_this_year_saved": "Ove godine spašeno",
+    "CL_SMART_ENERGY_solar_optimiser": "Solarni optimizator",
+    "CL_SMART_ENERGY_always_eco": "Uvijek eko",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Korištenje dodatne solarne energije",
+    "CL_SMART_ENERGY_runs_eco_mode": "Radi u Eco načinu rada tijekom rada.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Radi u Eco načinu rada kada radi izvan vršnih sati",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Radi u Eco načinu rada kada dostigne energetski cilj.",
+    "CL_SMART_ENERGY_set_to_temp": "Postavljeno na 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Odgođeni start za nižu cijenu struje",
+    "CL_CF_CS_scan_qr_code": "Skeniraj QR kod",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Molimo skenirajte QR kod prikazan na zaslonu uređaja."
 }
