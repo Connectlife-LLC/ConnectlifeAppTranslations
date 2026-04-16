@@ -8370,5 +8370,19 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Режим за старије особе",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Високофреквентна компензација слуха старијих особа, помажући им да јасније чују.",
     "CL_CF_energy_this_week_saved": "Ове недеље сачувано",
-    "CL_CF_energy_this_year_saved": "Ове године уштеђено"
+    "CL_CF_energy_this_year_saved": "Ове године уштеђено",
+    "CL_SMART_ENERGY_solar_optimiser": "Соларни оптимизатор",
+    "CL_SMART_ENERGY_always_eco": "Увек еко",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Коришћење додатне соларне енергије",
+    "CL_SMART_ENERGY_runs_eco_mode": "Ради у еко режиму током рада.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Ради у еко режиму када ради ван шпица",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Ради у еко режиму када достигне циљну вредност енергије.",
+    "CL_SMART_ENERGY_set_to_temp": "Подесите на 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Одложени старт за нижу цену струје",
+    "CL_CF_CS_scan_qr_code": "Скенирајте QR код",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Молимо вас да скенирате QR код приказан на екрану уређаја.",
+    "CLH5_WINE_setting_lock_after_content": "Подесите колико минута без акције, након „Временског ограничења“, ће екран витрине прећи у стање приправности.",
+    "CLH5_WINE_setting_lock_after": "ЗАКЉУЧАЈ ПОСЛЕ",
+    "CL_CF_energy_solar_optimizer_desc2": "У потпуности искоришћавајући вишак соларне енергије.",
+    "CL_CF_energy_smart_scheduler_desc2": "Оптимизујте распоред уређаја на основу динамичке тарифе."
 }

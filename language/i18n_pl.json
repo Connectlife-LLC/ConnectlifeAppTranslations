@@ -8370,5 +8370,19 @@
     "CL_VC_SOUND_EFFECT_ELDER_CARD_TITLE": "Tryb dla osób starszych",
     "CL_VC_SOUND_EFFECT_ELDER_CARD_DESC": "Kompensacja wysokich częstotliwości dla słuchu seniorów, dzięki której mogą słyszeć wyraźniej.",
     "CL_CF_energy_this_week_saved": "Ten tydzień uratowany",
-    "CL_CF_energy_this_year_saved": "Ten rok uratowany"
+    "CL_CF_energy_this_year_saved": "Ten rok uratowany",
+    "CL_SMART_ENERGY_solar_optimiser": "Optymalizator słoneczny",
+    "CL_SMART_ENERGY_always_eco": "Zawsze eko",
+    "CL_SMART_ENERGY_using_extra_solar_energy": "Wykorzystanie dodatkowej energii słonecznej",
+    "CL_SMART_ENERGY_runs_eco_mode": "Podczas pracy działa w trybie Eco.",
+    "CL_SMART_ENERGY_runs_eco_mode_off": "Działa w trybie Eco podczas pracy poza godzinami szczytu",
+    "CL_SMART_ENERGY_runs_eco_mode_target": "Działa w trybie Eco po osiągnięciu celu energetycznego.",
+    "CL_SMART_ENERGY_set_to_temp": "Ustaw na 100ºC",
+    "CL_SMART_ENERGY_delay_start_lower": "Opóźniony start w celu obniżenia ceny prądu",
+    "CL_CF_CS_scan_qr_code": "Zeskanuj kod QR",
+    "CL_CF_CS_scan_screen_pair_code_tip": "Zeskanuj kod QR wyświetlony na ekranie urządzenia.",
+    "CLH5_WINE_setting_lock_after_content": "Ustaw, po ilu minutach braku działania po upływie limitu czasu wyświetlacz szafki przejdzie w tryb gotowości.",
+    "CLH5_WINE_setting_lock_after": "ZABLOKUJ PO",
+    "CL_CF_energy_solar_optimizer_desc2": "Pełne wykorzystanie nadmiaru energii słonecznej.",
+    "CL_CF_energy_smart_scheduler_desc2": "Zoptymalizuj harmonogram urządzeń w oparciu o taryfę dynamiczną."
 }
