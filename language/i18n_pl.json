@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Tak trzymaj! Robisz postępy w kierunku samowystarczalności.",
     "CL_DV_EY_trees": "drzewa",
     "CL_CF_CM_himit_II": "AC komercyjny II",
-    "CL_CF_CM_himit": "Klimatyzacja komercyjna"
+    "CL_CF_CM_himit": "Klimatyzacja komercyjna",
+    "CL_DV_EY_production_tips": "Autokonsumpcja: ilość energii słonecznej zużywanej przez obciążenie lub ładowanej do akumulatora\nDostarczona do sieci: Ilość energii dostarczonej do sieci",
+    "CL_DV_EY_consumption_tips": "Samowystarczalność: ilość energii słonecznej pobieranej z paneli słonecznych i magazynowanej w akumulatorze\nZ sieci: Ilość energii z sieci"
 }

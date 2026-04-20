@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Kar tako naprej! Napreduješ k samozadostnosti.",
     "CL_DV_EY_trees": "drevesa",
     "CL_CF_CM_himit_II": "Komercialni klimatski sistem II",
-    "CL_CF_CM_himit": "Komercialni klimatski sistemi"
+    "CL_CF_CM_himit": "Komercialni klimatski sistemi",
+    "CL_DV_EY_production_tips": "Lastna poraba: Količina sončne energije, ki jo porabi obremenitev ali se napolni v baterijo\nDovedeno v omrežje: Količina energije, dovedene v omrežje",
+    "CL_DV_EY_consumption_tips": "Samozadostnost: Količina sončne energije, porabljene iz sončne energije in shranjene v bateriji\nIz omrežja: Količina energije iz omrežja"
 }

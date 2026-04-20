@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Cứ tiếp tục như vậy nhé! Bạn đang tiến bộ rất nhiều trên con đường tự lập.",
     "CL_DV_EY_trees": "cây cối",
     "CL_CF_CM_himit_II": "AC thương mại II",
-    "CL_CF_CM_himit": "Máy điều hòa thương mại"
+    "CL_CF_CM_himit": "Máy điều hòa thương mại",
+    "CL_DV_EY_production_tips": "Tự tiêu thụ: Lượng năng lượng mặt trời được tải tiêu thụ hoặc được sạc vào pin.\nCung cấp vào lưới điện: Lượng năng lượng được cung cấp vào lưới điện.",
+    "CL_DV_EY_consumption_tips": "Khả năng tự cung tự cấp: Lượng năng lượng mặt trời được tiêu thụ từ năng lượng mặt trời và được lưu trữ trong pin.\nTừ lưới điện: Lượng năng lượng lấy từ lưới điện."
 }

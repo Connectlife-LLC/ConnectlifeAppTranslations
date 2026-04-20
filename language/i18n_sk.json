@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Len tak ďalej! Robíš pokroky smerom k sebestačnosti.",
     "CL_DV_EY_trees": "stromy",
     "CL_CF_CM_himit_II": "Komerčná klimatizácia II",
-    "CL_CF_CM_himit": "Komerčná klimatizácia"
+    "CL_CF_CM_himit": "Komerčná klimatizácia",
+    "CL_DV_EY_production_tips": "Vlastná spotreba: Množstvo solárnej energie spotrebovanej záťažou alebo nabitej do batérie\nDodávané do siete: Množstvo energie dodávanej do siete",
+    "CL_DV_EY_consumption_tips": "Sebestačnosť: Množstvo solárnej energie spotrebovanej zo solárnej energie a uloženej v batérii\nZ rozvodnej siete: Množstvo energie zo rozvodnej siete"
 }

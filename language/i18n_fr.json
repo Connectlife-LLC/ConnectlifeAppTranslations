@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Continuez comme ça ! Vous progressez vers l'autonomie.",
     "CL_DV_EY_trees": "arbres",
     "CL_CF_CM_himit_II": "AC II commercial",
-    "CL_CF_CM_himit": "Climatisation commerciale"
+    "CL_CF_CM_himit": "Climatisation commerciale",
+    "CL_DV_EY_production_tips": "Autoconsommation : quantité d'énergie solaire consommée par la charge ou chargée dans la batterie\nÉnergie injectée dans le réseau : quantité d'énergie injectée dans le réseau",
+    "CL_DV_EY_consumption_tips": "Autonomie énergétique : quantité d'énergie solaire consommée et stockée dans la batterie\nÉnergie provenant du réseau : Quantité d'énergie provenant du réseau"
 }

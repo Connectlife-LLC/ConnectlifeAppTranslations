@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Devam edin! Kendi kendine yeterliliğe doğru ilerleme kaydediyorsunuz.",
     "CL_DV_EY_trees": "ağaçlar",
     "CL_CF_CM_himit_II": "Ticari Klima II",
-    "CL_CF_CM_himit": "Ticari Klima"
+    "CL_CF_CM_himit": "Ticari Klima",
+    "CL_DV_EY_production_tips": "Öz tüketim: Yük tarafından tüketilen veya bataryaya şarj edilen güneş enerjisi miktarı.\nŞebekeye verilen: Şebekeye verilen enerji miktarı",
+    "CL_DV_EY_consumption_tips": "Kendi kendine yeterlilik: Güneşten tüketilen ve bataryada depolanan güneş enerjisi miktarı.\nŞebekeden alınan enerji miktarı: Şebekeden alınan enerji miktarı"
 }

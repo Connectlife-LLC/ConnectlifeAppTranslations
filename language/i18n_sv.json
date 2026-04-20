@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Fortsätt så! Du gör framsteg mot självförsörjning.",
     "CL_DV_EY_trees": "träd",
     "CL_CF_CM_himit_II": "Kommersiell AC II",
-    "CL_CF_CM_himit": "Kommersiell AC"
+    "CL_CF_CM_himit": "Kommersiell AC",
+    "CL_DV_EY_production_tips": "Egenförbrukning: Mängd solenergi som förbrukas av lasten eller laddas till batteriet\nMatad till nätet: Mängd energi som matas till nätet",
+    "CL_DV_EY_consumption_tips": "Självförsörjning: Mängd solenergi som förbrukas från solenergi och lagras i batteriet\nFrån nätet: Mängd energi från nätet"
 }

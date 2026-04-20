@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Samo tako nastavi! Napreduješ prema samostalnosti.",
     "CL_DV_EY_trees": "drveće",
     "CL_CF_CM_himit_II": "Komercijalni klima uređaj II",
-    "CL_CF_CM_himit": "Komercijalni klima uređaj"
+    "CL_CF_CM_himit": "Komercijalni klima uređaj",
+    "CL_DV_EY_production_tips": "Vlastita potrošnja: Količina solarne energije koju troši opterećenje ili puni baterija\nU mrežu: Količina energije unesene u mrežu",
+    "CL_DV_EY_consumption_tips": "Samodostatnost: Količina solarne energije potrošene iz solarne energije i pohranjene u bateriji\nIz mreže: Količina energije iz mreže"
 }
