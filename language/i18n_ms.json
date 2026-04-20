@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Tukar Nama",
     "CL_VC_NAME_LIMIT_HINT": "Terhad kepada 2-24 huruf/nombor",
     "CL_VC_NAME_LIMIT_ERROR": "Terhad kepada 2-24 huruf/nombor; aksara khas tidak disokong",
-    "CL_VC_BT_CONNECT_GUIDE": "Sila sambungkan ke \"Vidda HiClip\" dalam \"Tetapan Telefon - Bluetooth\"",
     "CL_VC_PHONE_EAR_CONNECTING": "Telefon dan fon kepala sedang disambungkan, sila dekatkan fon kepala dengan telefon",
     "CL_VC_TRY_RECONNECT": "Sila cuba sambungkan semula",
     "CL_VC_RECONNECT": "Sambung semula",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "AC Komersial II",
     "CL_CF_CM_himit": "AC Komersial",
     "CL_DV_EY_production_tips": "Penggunaan sendiri: Jumlah tenaga suria yang digunakan oleh beban atau dicas ke bateri\nDisampaikan ke grid: Jumlah tenaga yang disalurkan ke grid",
-    "CL_DV_EY_consumption_tips": "Sara Diri: Jumlah tenaga suria yang digunakan daripada solar dan disimpan dalam bateri\nDari grid: Jumlah tenaga dari grid"
+    "CL_DV_EY_consumption_tips": "Sara Diri: Jumlah tenaga suria yang digunakan daripada solar dan disimpan dalam bateri\nDari grid: Jumlah tenaga dari grid",
+    "CL_VC_BT_CONNECT_GUIDE": "Sila sambungkan ke \"Hisense HiClip\" dalam \"Tetapan Telefon - Bluetooth\"",
+    "CL_DV_EY_offline": "Luar talian",
+    "CL_DV_EY_running": "Berlari",
+    "CL_DV_EY_normal": "Biasa",
+    "CL_DV_EY_alarm": "Penggera",
+    "CL_DV_EY_sleep": "Tidur"
 }

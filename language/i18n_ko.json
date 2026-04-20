@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "이름 변경",
     "CL_VC_NAME_LIMIT_HINT": "2~24자/숫자로 제한됩니다.",
     "CL_VC_NAME_LIMIT_ERROR": "2~24자(문자/숫자)로 제한되며, 특수 문자는 지원되지 않습니다.",
-    "CL_VC_BT_CONNECT_GUIDE": "휴대폰 설정 > 블루투스에서 \"Vidda HiClip\"에 연결해 주세요.",
     "CL_VC_PHONE_EAR_CONNECTING": "휴대전화와 이어폰이 연결 중입니다. 이어폰을 휴대전화 가까이 가져가 주세요.",
     "CL_VC_TRY_RECONNECT": "다시 연결해 보세요.",
     "CL_VC_RECONNECT": "다시 연결",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "상업용 AC II",
     "CL_CF_CM_himit": "상업용 에어컨",
     "CL_DV_EY_production_tips": "자가 소비량: 부하가 소비하거나 배터리에 충전되는 태양 에너지의 양\n계통 연계 공급량: 계통으로 공급되는 에너지량",
-    "CL_DV_EY_consumption_tips": "자급률: 태양열로부터 소비하고 배터리에 저장하는 태양 에너지의 양\n전력망으로부터: 전력망으로부터 공급받는 에너지량"
+    "CL_DV_EY_consumption_tips": "자급률: 태양열로부터 소비하고 배터리에 저장하는 태양 에너지의 양\n전력망으로부터: 전력망으로부터 공급받는 에너지량",
+    "CL_VC_BT_CONNECT_GUIDE": "휴대폰 설정 > 블루투스에서 \"Hisense HiClip\"에 연결해 주세요.",
+    "CL_DV_EY_offline": "오프라인",
+    "CL_DV_EY_running": "달리기",
+    "CL_DV_EY_normal": "정상",
+    "CL_DV_EY_alarm": "경보",
+    "CL_DV_EY_sleep": "수면 모드"
 }

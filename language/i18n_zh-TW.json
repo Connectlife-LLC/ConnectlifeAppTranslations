@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "更改名稱",
     "CL_VC_NAME_LIMIT_HINT": "限2-24個字母/數字",
     "CL_VC_NAME_LIMIT_ERROR": "限2-24個字母/數字；不支援特殊字元。",
-    "CL_VC_BT_CONNECT_GUIDE": "請在「手機設定 - 藍牙」中連接到「Vidda HiClip」。",
     "CL_VC_PHONE_EAR_CONNECTING": "手機和耳機正在連接，請將耳機靠近手機。",
     "CL_VC_TRY_RECONNECT": "請嘗試重新連線。",
     "CL_VC_RECONNECT": "重新連接",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "商用空調 II",
     "CL_CF_CM_himit": "商用空調",
     "CL_DV_EY_production_tips": "自用量：負載消耗的太陽能或充電至電池的太陽能。\n併入電網：輸送到電網的能量。",
-    "CL_DV_EY_consumption_tips": "自給自足：從太陽能電池消耗的太陽能量以及儲存在電池中的太陽能量\n來自電網：來自電網的能量"
+    "CL_DV_EY_consumption_tips": "自給自足：從太陽能電池消耗的太陽能量以及儲存在電池中的太陽能量\n來自電網：來自電網的能量",
+    "CL_VC_BT_CONNECT_GUIDE": "請在「手機設定 - 藍牙」中連接「Hisense HiClip」。",
+    "CL_DV_EY_offline": "離線",
+    "CL_DV_EY_running": "運作",
+    "CL_DV_EY_normal": "日常洗程",
+    "CL_DV_EY_alarm": "高振動",
+    "CL_DV_EY_sleep": "睡眠"
 }

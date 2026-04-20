@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Ubah Nama",
     "CL_VC_NAME_LIMIT_HINT": "Terbatas pada 2-24 huruf/angka",
     "CL_VC_NAME_LIMIT_ERROR": "Terbatas pada 2-24 huruf/angka; karakter khusus tidak didukung.",
-    "CL_VC_BT_CONNECT_GUIDE": "Silakan hubungkan ke \"Vidda HiClip\" di \"Pengaturan Ponsel - Bluetooth\"",
     "CL_VC_PHONE_EAR_CONNECTING": "Ponsel dan headphone sedang terhubung, harap dekatkan headphone ke ponsel.",
     "CL_VC_TRY_RECONNECT": "Silakan coba sambungkan kembali",
     "CL_VC_RECONNECT": "Terhubung kembali",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "AC Komersial II",
     "CL_CF_CM_himit": "AC Komersial",
     "CL_DV_EY_production_tips": "Konsumsi sendiri: Jumlah energi surya yang dikonsumsi oleh beban atau diisi ke baterai.\nDisalurkan ke jaringan listrik: Jumlah energi yang disalurkan ke jaringan listrik.",
-    "CL_DV_EY_consumption_tips": "Swasembada: Jumlah energi surya yang dikonsumsi dari panel surya dan disimpan dalam baterai.\nDari jaringan listrik: Jumlah energi dari jaringan listrik"
+    "CL_DV_EY_consumption_tips": "Swasembada: Jumlah energi surya yang dikonsumsi dari panel surya dan disimpan dalam baterai.\nDari jaringan listrik: Jumlah energi dari jaringan listrik",
+    "CL_VC_BT_CONNECT_GUIDE": "Silakan hubungkan ke \"Hisense HiClip\" di \"Pengaturan Ponsel - Bluetooth\"",
+    "CL_DV_EY_offline": "Offline",
+    "CL_DV_EY_running": "Berlari",
+    "CL_DV_EY_normal": "Normal",
+    "CL_DV_EY_alarm": "Alarm",
+    "CL_DV_EY_sleep": "Tidur"
 }

@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "İsim Değiştir",
     "CL_VC_NAME_LIMIT_HINT": "2-24 harf/rakam ile sınırlıdır.",
     "CL_VC_NAME_LIMIT_ERROR": "2-24 harf/rakamla sınırlıdır; özel karakterler desteklenmez.",
-    "CL_VC_BT_CONNECT_GUIDE": "Lütfen \"Telefon Ayarları - Bluetooth\" bölümünden \"Vidda HiClip\" cihazına bağlanın.",
     "CL_VC_PHONE_EAR_CONNECTING": "Telefon ve kulaklıklar birbirine bağlanıyor, lütfen kulaklıkları telefona yaklaştırın.",
     "CL_VC_TRY_RECONNECT": "Lütfen yeniden bağlanmayı deneyin.",
     "CL_VC_RECONNECT": "Yeniden bağlan",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "Ticari Klima II",
     "CL_CF_CM_himit": "Ticari Klima",
     "CL_DV_EY_production_tips": "Öz tüketim: Yük tarafından tüketilen veya bataryaya şarj edilen güneş enerjisi miktarı.\nŞebekeye verilen: Şebekeye verilen enerji miktarı",
-    "CL_DV_EY_consumption_tips": "Kendi kendine yeterlilik: Güneşten tüketilen ve bataryada depolanan güneş enerjisi miktarı.\nŞebekeden alınan enerji miktarı: Şebekeden alınan enerji miktarı"
+    "CL_DV_EY_consumption_tips": "Kendi kendine yeterlilik: Güneşten tüketilen ve bataryada depolanan güneş enerjisi miktarı.\nŞebekeden alınan enerji miktarı: Şebekeden alınan enerji miktarı",
+    "CL_VC_BT_CONNECT_GUIDE": "Lütfen \"Telefon Ayarları - Bluetooth\" bölümünden \"Hisense HiClip\" cihazına bağlanın.",
+    "CL_DV_EY_offline": "Çevrimdışı",
+    "CL_DV_EY_running": "Koşma",
+    "CL_DV_EY_normal": "Normal",
+    "CL_DV_EY_alarm": "Alarm",
+    "CL_DV_EY_sleep": "Uyku"
 }

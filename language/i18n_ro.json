@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Schimbare nume",
     "CL_VC_NAME_LIMIT_HINT": "Limitat la 2-24 litere/cifre",
     "CL_VC_NAME_LIMIT_ERROR": "Limitat la 2-24 litere/cifre; caracterele speciale nu sunt acceptate",
-    "CL_VC_BT_CONNECT_GUIDE": "Vă rugăm să conectați „Vidda HiClip” din „Setări telefon - Bluetooth”",
     "CL_VC_PHONE_EAR_CONNECTING": "Telefonul și căștile se conectează, vă rugăm să aduceți căștile aproape de telefon.",
     "CL_VC_TRY_RECONNECT": "Vă rugăm să încercați să vă reconectați.",
     "CL_VC_RECONNECT": "Reconectați-vă",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "AC comercial II",
     "CL_CF_CM_himit": "Aer condiționat comercial",
     "CL_DV_EY_production_tips": "Autoconsum: Cantitatea de energie solară consumată de sarcină sau încărcată în baterie\nAlimentată în rețea: Cantitatea de energie alimentată în rețea",
-    "CL_DV_EY_consumption_tips": "Autosuficiență: Cantitatea de energie solară consumată din panouri solare și stocată în baterie\nDin rețea: Cantitatea de energie din rețea"
+    "CL_DV_EY_consumption_tips": "Autosuficiență: Cantitatea de energie solară consumată din panouri solare și stocată în baterie\nDin rețea: Cantitatea de energie din rețea",
+    "CL_VC_BT_CONNECT_GUIDE": "Vă rugăm să vă conectați la „Hisense HiClip” din „Setări telefon - Bluetooth”",
+    "CL_DV_EY_offline": "Offline",
+    "CL_DV_EY_running": "Funcţionare",
+    "CL_DV_EY_normal": "Normal",
+    "CL_DV_EY_alarm": "Alarma",
+    "CL_DV_EY_sleep": "Repaus"
 }

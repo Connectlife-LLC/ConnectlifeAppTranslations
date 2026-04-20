@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Cambia nome",
     "CL_VC_NAME_LIMIT_HINT": "Limitato a 2-24 lettere/numeri",
     "CL_VC_NAME_LIMIT_ERROR": "Limitato a 2-24 lettere/numeri; caratteri speciali non supportati.",
-    "CL_VC_BT_CONNECT_GUIDE": "Si prega di collegare \"Vidda HiClip\" in \"Impostazioni telefono - Bluetooth\".",
     "CL_VC_PHONE_EAR_CONNECTING": "Il telefono e le cuffie si stanno connettendo, avvicina le cuffie al telefono.",
     "CL_VC_TRY_RECONNECT": "Prova a riconnetterti.",
     "CL_VC_RECONNECT": "Ricollega",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "AC commerciale II",
     "CL_CF_CM_himit": "Condizionatori d'aria commerciali",
     "CL_DV_EY_production_tips": "Autoconsumo: quantità di energia solare consumata dal carico o caricata nella batteria\nEnergia immessa nella rete: quantità di energia immessa nella rete",
-    "CL_DV_EY_consumption_tips": "Autosufficienza: Quantità di energia solare consumata dal solare e immagazzinata nella batteria\nDalla rete: quantità di energia proveniente dalla rete"
+    "CL_DV_EY_consumption_tips": "Autosufficienza: Quantità di energia solare consumata dal solare e immagazzinata nella batteria\nDalla rete: quantità di energia proveniente dalla rete",
+    "CL_VC_BT_CONNECT_GUIDE": "Si prega di collegare \"Hisense HiClip\" in \"Impostazioni telefono - Bluetooth\".",
+    "CL_DV_EY_offline": "Fuori linea",
+    "CL_DV_EY_running": "Corsa",
+    "CL_DV_EY_normal": "Normale",
+    "CL_DV_EY_alarm": "Allarme",
+    "CL_DV_EY_sleep": "Riposo"
 }

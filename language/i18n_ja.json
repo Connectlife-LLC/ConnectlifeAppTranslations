@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "名前を変更する",
     "CL_VC_NAME_LIMIT_HINT": "文字または数字は2～24文字までです。",
     "CL_VC_NAME_LIMIT_ERROR": "使用できる文字/数字は2～24文字まで。特殊文字はサポートされていません。",
-    "CL_VC_BT_CONNECT_GUIDE": "「スマートフォンの設定」→「Bluetooth」で「Vidda HiClip」に接続してください。",
     "CL_VC_PHONE_EAR_CONNECTING": "電話とヘッドホンが接続中です。ヘッドホンを電話に近づけてください。",
     "CL_VC_TRY_RECONNECT": "再接続を試してください",
     "CL_VC_RECONNECT": "再接続",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "業務用エアコンII",
     "CL_CF_CM_himit": "業務用エアコン",
     "CL_DV_EY_production_tips": "自家消費：負荷によって消費される、またはバッテリーに充電される太陽エネルギーの量\n送電網への供給量：送電網に供給されるエネルギー量",
-    "CL_DV_EY_consumption_tips": "自給率：太陽光発電で消費され、バッテリーに蓄えられた太陽エネルギーの量\nグリッドから：グリッドからのエネルギー量"
+    "CL_DV_EY_consumption_tips": "自給率：太陽光発電で消費され、バッテリーに蓄えられた太陽エネルギーの量\nグリッドから：グリッドからのエネルギー量",
+    "CL_VC_BT_CONNECT_GUIDE": "「スマートフォンの設定」→「Bluetooth」で「Hisense HiClip」に接続してください。",
+    "CL_DV_EY_offline": "オフライン",
+    "CL_DV_EY_running": "ランニング",
+    "CL_DV_EY_normal": "ノーマル",
+    "CL_DV_EY_alarm": "警報",
+    "CL_DV_EY_sleep": "おやすみモード"
 }

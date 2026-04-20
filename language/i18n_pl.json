@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Zmień nazwę",
     "CL_VC_NAME_LIMIT_HINT": "Ograniczone do 2-24 liter/cyfr",
     "CL_VC_NAME_LIMIT_ERROR": "Ograniczenie do 2–24 liter/cyfr; znaki specjalne nie są obsługiwane",
-    "CL_VC_BT_CONNECT_GUIDE": "Proszę połączyć się z aplikacją „Vidda HiClip” w „Ustawieniach telefonu – Bluetooth”",
     "CL_VC_PHONE_EAR_CONNECTING": "Telefon i słuchawki łączą się, proszę zbliżyć słuchawki do telefonu",
     "CL_VC_TRY_RECONNECT": "Proszę spróbować połączyć się ponownie",
     "CL_VC_RECONNECT": "Na nowo połączyć",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "AC komercyjny II",
     "CL_CF_CM_himit": "Klimatyzacja komercyjna",
     "CL_DV_EY_production_tips": "Autokonsumpcja: ilość energii słonecznej zużywanej przez obciążenie lub ładowanej do akumulatora\nDostarczona do sieci: Ilość energii dostarczonej do sieci",
-    "CL_DV_EY_consumption_tips": "Samowystarczalność: ilość energii słonecznej pobieranej z paneli słonecznych i magazynowanej w akumulatorze\nZ sieci: Ilość energii z sieci"
+    "CL_DV_EY_consumption_tips": "Samowystarczalność: ilość energii słonecznej pobieranej z paneli słonecznych i magazynowanej w akumulatorze\nZ sieci: Ilość energii z sieci",
+    "CL_VC_BT_CONNECT_GUIDE": "Proszę połączyć się z urządzeniem „Hisense HiClip” w „Ustawieniach telefonu – Bluetooth”",
+    "CL_DV_EY_offline": "Niedostępny",
+    "CL_DV_EY_running": "Działanie",
+    "CL_DV_EY_normal": "Normalna",
+    "CL_DV_EY_alarm": "Alarm",
+    "CL_DV_EY_sleep": "Uśpienie"
 }

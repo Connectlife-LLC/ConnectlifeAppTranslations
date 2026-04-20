@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Naam wijzigen",
     "CL_VC_NAME_LIMIT_HINT": "Beperkt tot 2-24 letters/cijfers",
     "CL_VC_NAME_LIMIT_ERROR": "Beperkt tot 2-24 letters/cijfers; speciale tekens worden niet ondersteund.",
-    "CL_VC_BT_CONNECT_GUIDE": "Maak verbinding met \"Vidda HiClip\" via \"Telefooninstellingen - Bluetooth\".",
     "CL_VC_PHONE_EAR_CONNECTING": "De telefoon en de hoofdtelefoon maken verbinding. Houd de hoofdtelefoon dicht bij de telefoon.",
     "CL_VC_TRY_RECONNECT": "Probeer opnieuw verbinding te maken.",
     "CL_VC_RECONNECT": "Opnieuw verbinding maken",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "Commerciële AC II",
     "CL_CF_CM_himit": "Commerciële airconditioning",
     "CL_DV_EY_production_tips": "Eigen verbruik: De hoeveelheid zonne-energie die door de belasting wordt verbruikt of in de batterij wordt opgeslagen.\nTeruggeleverd aan het net: de hoeveelheid energie die aan het net wordt teruggeleverd.",
-    "CL_DV_EY_consumption_tips": "Zelfvoorziening: De hoeveelheid zonne-energie die wordt verbruikt en in de batterij wordt opgeslagen.\nVan het net: Hoeveelheid energie afkomstig van het net"
+    "CL_DV_EY_consumption_tips": "Zelfvoorziening: De hoeveelheid zonne-energie die wordt verbruikt en in de batterij wordt opgeslagen.\nVan het net: Hoeveelheid energie afkomstig van het net",
+    "CL_VC_BT_CONNECT_GUIDE": "Maak verbinding met \"Hisense HiClip\" via \"Telefooninstellingen - Bluetooth\".",
+    "CL_DV_EY_offline": "Offline",
+    "CL_DV_EY_running": "Rennen",
+    "CL_DV_EY_normal": "Normaal",
+    "CL_DV_EY_alarm": "Alarm",
+    "CL_DV_EY_sleep": "Slaap"
 }

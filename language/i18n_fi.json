@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Muuta nimeä",
     "CL_VC_NAME_LIMIT_HINT": "Rajoitettu 2–24 kirjaimeen/numeroon",
     "CL_VC_NAME_LIMIT_ERROR": "Rajoitettu 2–24 kirjaimeen/numeroon; erikoismerkkejä ei tueta",
-    "CL_VC_BT_CONNECT_GUIDE": "Yhdistä \"Vidda HiClip\" -laitteeseen kohdassa \"Puhelimen asetukset - Bluetooth\".",
     "CL_VC_PHONE_EAR_CONNECTING": "Puhelin ja kuulokkeet muodostavat yhteyden, tuo kuulokkeet lähelle puhelinta.",
     "CL_VC_TRY_RECONNECT": "Yritä muodostaa yhteys uudelleen",
     "CL_VC_RECONNECT": "Yhdistä uudelleen",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "Kaupallinen ilmastointi II",
     "CL_CF_CM_himit": "Kaupallinen ilmastointi",
     "CL_DV_EY_production_tips": "Omakulutus: Kuorman kuluttaman tai akkuun ladatun aurinkoenergian määrä\nVerkkoon syötetty energia: Verkkoon syötetyn energian määrä",
-    "CL_DV_EY_consumption_tips": "Omavaraisuus: Aurinkoenergian kuluttama ja akkuun varastoitu määrä\nVerkosta: Verkosta saatavan energian määrä"
+    "CL_DV_EY_consumption_tips": "Omavaraisuus: Aurinkoenergian kuluttama ja akkuun varastoitu määrä\nVerkosta: Verkosta saatavan energian määrä",
+    "CL_VC_BT_CONNECT_GUIDE": "Yhdistä \"Hisense HiClip\" -laitteeseen kohdassa \"Puhelimen asetukset - Bluetooth\".",
+    "CL_DV_EY_offline": "Offline-tilassa",
+    "CL_DV_EY_running": "Juoksu",
+    "CL_DV_EY_normal": "Normaali",
+    "CL_DV_EY_alarm": "Hälytys",
+    "CL_DV_EY_sleep": "Uni"
 }

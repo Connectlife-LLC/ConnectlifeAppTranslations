@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Skift navn",
     "CL_VC_NAME_LIMIT_HINT": "Begrænset til 2-24 bogstaver/tal",
     "CL_VC_NAME_LIMIT_ERROR": "Begrænset til 2-24 bogstaver/tal; specialtegn understøttes ikke",
-    "CL_VC_BT_CONNECT_GUIDE": "Opret forbindelse til \"Vidda HiClip\" i \"Telefonindstillinger - Bluetooth\"",
     "CL_VC_PHONE_EAR_CONNECTING": "Telefonen og hovedtelefonerne opretter forbindelse. Hold hovedtelefonerne tæt på telefonen.",
     "CL_VC_TRY_RECONNECT": "Prøv venligst at genoprette forbindelsen",
     "CL_VC_RECONNECT": "Genopret forbindelse",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "Kommerciel aircondition II",
     "CL_CF_CM_himit": "Kommerciel aircondition",
     "CL_DV_EY_production_tips": "Selvforbrug: Mængden af ​​solenergi, der forbruges af belastningen eller oplades til batteriet\nLeveret til nettet: Mængde energi leveret til nettet",
-    "CL_DV_EY_consumption_tips": "Selvforsyning: Mængden af ​​solenergi, der forbruges fra solenergi og lagres i batteriet.\nFra elnettet: Mængde energi fra elnettet"
+    "CL_DV_EY_consumption_tips": "Selvforsyning: Mængden af ​​solenergi, der forbruges fra solenergi og lagres i batteriet.\nFra elnettet: Mængde energi fra elnettet",
+    "CL_VC_BT_CONNECT_GUIDE": "Opret forbindelse til \"Hisense HiClip\" i \"Telefonindstillinger - Bluetooth\"",
+    "CL_DV_EY_offline": "Offline",
+    "CL_DV_EY_running": "Løb",
+    "CL_DV_EY_normal": "Normal",
+    "CL_DV_EY_alarm": "Alarm",
+    "CL_DV_EY_sleep": "Nat"
 }

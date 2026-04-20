@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Promjena imena",
     "CL_VC_NAME_LIMIT_HINT": "Ograničeno na 2-24 slova/brojeva",
     "CL_VC_NAME_LIMIT_ERROR": "Ograničeno na 2-24 slova/brojeva; posebni znakovi nisu podržani",
-    "CL_VC_BT_CONNECT_GUIDE": "Molimo vas da se povežete s \"Vidda HiClip\" u \"Postavke telefona - Bluetooth\"",
     "CL_VC_PHONE_EAR_CONNECTING": "Telefon i slušalice se povezuju, približite slušalice telefonu",
     "CL_VC_TRY_RECONNECT": "Pokušajte ponovno povezati",
     "CL_VC_RECONNECT": "Ponovno se poveži",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "Komercijalni klima uređaj II",
     "CL_CF_CM_himit": "Komercijalni klima uređaj",
     "CL_DV_EY_production_tips": "Vlastita potrošnja: Količina solarne energije koju troši opterećenje ili puni baterija\nU mrežu: Količina energije unesene u mrežu",
-    "CL_DV_EY_consumption_tips": "Samodostatnost: Količina solarne energije potrošene iz solarne energije i pohranjene u bateriji\nIz mreže: Količina energije iz mreže"
+    "CL_DV_EY_consumption_tips": "Samodostatnost: Količina solarne energije potrošene iz solarne energije i pohranjene u bateriji\nIz mreže: Količina energije iz mreže",
+    "CL_VC_BT_CONNECT_GUIDE": "Molimo vas da se povežete s \"Hisense HiClip\" u \"Postavke telefona - Bluetooth\"",
+    "CL_DV_EY_offline": "Izvan mreže",
+    "CL_DV_EY_running": "Trčanje",
+    "CL_DV_EY_normal": "Normalno",
+    "CL_DV_EY_alarm": "Alarm",
+    "CL_DV_EY_sleep": "Spavanje"
 }

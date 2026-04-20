@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Změnit jméno",
     "CL_VC_NAME_LIMIT_HINT": "Omezeno na 2–24 písmen/číslic",
     "CL_VC_NAME_LIMIT_ERROR": "Omezeno na 2–24 písmen/číslic; speciální znaky nejsou podporovány",
-    "CL_VC_BT_CONNECT_GUIDE": "Připojte se k aplikaci „Vidda HiClip“ v části „Nastavení telefonu – Bluetooth“.",
     "CL_VC_PHONE_EAR_CONNECTING": "Telefon a sluchátka se připojují, přibližte si prosím sluchátka k telefonu.",
     "CL_VC_TRY_RECONNECT": "Zkuste se prosím znovu připojit",
     "CL_VC_RECONNECT": "Znovu se připojte",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "Komerční klimatizace II",
     "CL_CF_CM_himit": "Komerční klimatizace",
     "CL_DV_EY_production_tips": "Vlastní spotřeba: Množství solární energie spotřebované zátěží nebo nabité do baterie\nDodávka do sítě: Množství energie dodávané do sítě",
-    "CL_DV_EY_consumption_tips": "Soběstačnost: Množství solární energie spotřebované ze solárních panelů a uložené v baterii\nZe sítě: Množství energie ze sítě"
+    "CL_DV_EY_consumption_tips": "Soběstačnost: Množství solární energie spotřebované ze solárních panelů a uložené v baterii\nZe sítě: Množství energie ze sítě",
+    "CL_VC_BT_CONNECT_GUIDE": "Připojte se k zařízení „Hisense HiClip“ v části „Nastavení telefonu – Bluetooth“.",
+    "CL_DV_EY_offline": "Offline",
+    "CL_DV_EY_running": "Běh",
+    "CL_DV_EY_normal": "Normální",
+    "CL_DV_EY_alarm": "Poplach",
+    "CL_DV_EY_sleep": "Spánek"
 }

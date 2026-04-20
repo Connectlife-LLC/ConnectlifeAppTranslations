@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Név módosítása",
     "CL_VC_NAME_LIMIT_HINT": "2-24 betűre/számra korlátozva",
     "CL_VC_NAME_LIMIT_ERROR": "2-24 betűre/számra korlátozva; a speciális karakterek nem támogatottak",
-    "CL_VC_BT_CONNECT_GUIDE": "Kérjük, csatlakozzon a \"Vidda HiClip\"-hez a \"Telefonbeállítások - Bluetooth\" menüpontban.",
     "CL_VC_PHONE_EAR_CONNECTING": "A telefon és a fejhallgató csatlakozik, kérjük, helyezze a fejhallgatót a telefon közelébe.",
     "CL_VC_TRY_RECONNECT": "Kérjük, próbáljon meg újracsatlakozni",
     "CL_VC_RECONNECT": "Újracsatlakozás",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "Kereskedelmi klíma II",
     "CL_CF_CM_himit": "Kereskedelmi klímaberendezés",
     "CL_DV_EY_production_tips": "Önfogyasztás: A terhelés által fogyasztott vagy az akkumulátorra töltött napenergia mennyisége\nHálózatra betáplált energia: A hálózatra betáplált energia mennyisége",
-    "CL_DV_EY_consumption_tips": "Önellátás: A napelemekből felhasznált és az akkumulátorban tárolt napenergia mennyisége\nHálózatról: A hálózatból származó energia mennyisége"
+    "CL_DV_EY_consumption_tips": "Önellátás: A napelemekből felhasznált és az akkumulátorban tárolt napenergia mennyisége\nHálózatról: A hálózatból származó energia mennyisége",
+    "CL_VC_BT_CONNECT_GUIDE": "Kérjük, csatlakoztassa a „Hisense HiClip”-et a „Telefonbeállítások - Bluetooth” menüpontban.",
+    "CL_DV_EY_offline": "Offline",
+    "CL_DV_EY_running": "Futás",
+    "CL_DV_EY_normal": "Normál",
+    "CL_DV_EY_alarm": "Riasztás",
+    "CL_DV_EY_sleep": "Alvás"
 }

@@ -8199,7 +8199,6 @@
     "CL_VC_ADD_DEVICE_EDIT_NAME_TITLE": "Đổi tên",
     "CL_VC_NAME_LIMIT_HINT": "Giới hạn từ 2 đến 24 chữ cái/số.",
     "CL_VC_NAME_LIMIT_ERROR": "Giới hạn từ 2 đến 24 chữ cái/số; không hỗ trợ ký tự đặc biệt.",
-    "CL_VC_BT_CONNECT_GUIDE": "Vui lòng kết nối với \"Vidda HiClip\" trong \"Cài đặt điện thoại - Bluetooth\".",
     "CL_VC_PHONE_EAR_CONNECTING": "Điện thoại và tai nghe đang kết nối, vui lòng đưa tai nghe lại gần điện thoại.",
     "CL_VC_TRY_RECONNECT": "Vui lòng thử kết nối lại.",
     "CL_VC_RECONNECT": "Kết nối lại",
@@ -8390,5 +8389,11 @@
     "CL_CF_CM_himit_II": "AC thương mại II",
     "CL_CF_CM_himit": "Máy điều hòa thương mại",
     "CL_DV_EY_production_tips": "Tự tiêu thụ: Lượng năng lượng mặt trời được tải tiêu thụ hoặc được sạc vào pin.\nCung cấp vào lưới điện: Lượng năng lượng được cung cấp vào lưới điện.",
-    "CL_DV_EY_consumption_tips": "Khả năng tự cung tự cấp: Lượng năng lượng mặt trời được tiêu thụ từ năng lượng mặt trời và được lưu trữ trong pin.\nTừ lưới điện: Lượng năng lượng lấy từ lưới điện."
+    "CL_DV_EY_consumption_tips": "Khả năng tự cung tự cấp: Lượng năng lượng mặt trời được tiêu thụ từ năng lượng mặt trời và được lưu trữ trong pin.\nTừ lưới điện: Lượng năng lượng lấy từ lưới điện.",
+    "CL_VC_BT_CONNECT_GUIDE": "Vui lòng kết nối với \"Hisense HiClip\" trong \"Cài đặt điện thoại - Bluetooth\".",
+    "CL_DV_EY_offline": "Ngoại tuyến",
+    "CL_DV_EY_running": "Đang chạy",
+    "CL_DV_EY_normal": "Bình thường",
+    "CL_DV_EY_alarm": "Báo động",
+    "CL_DV_EY_sleep": "Ngủ"
 }
