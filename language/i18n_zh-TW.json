@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "繼續努力！你正在朝著自給自足的方向邁進。",
     "CL_DV_EY_trees": "樹木",
     "CL_CF_CM_himit_II": "商用空調 II",
-    "CL_CF_CM_himit": "商用空調"
+    "CL_CF_CM_himit": "商用空調",
+    "CL_DV_EY_production_tips": "自用量：負載消耗的太陽能或充電至電池的太陽能。\n併入電網：輸送到電網的能量。",
+    "CL_DV_EY_consumption_tips": "自給自足：從太陽能電池消耗的太陽能量以及儲存在電池中的太陽能量\n來自電網：來自電網的能量"
 }

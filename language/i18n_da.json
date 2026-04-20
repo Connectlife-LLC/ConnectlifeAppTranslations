@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Fortsæt sådan! Du gør fremskridt mod selvforsyning.",
     "CL_DV_EY_trees": "træer",
     "CL_CF_CM_himit_II": "Kommerciel aircondition II",
-    "CL_CF_CM_himit": "Kommerciel aircondition"
+    "CL_CF_CM_himit": "Kommerciel aircondition",
+    "CL_DV_EY_production_tips": "Selvforbrug: Mængden af ​​solenergi, der forbruges af belastningen eller oplades til batteriet\nLeveret til nettet: Mængde energi leveret til nettet",
+    "CL_DV_EY_consumption_tips": "Selvforsyning: Mængden af ​​solenergi, der forbruges fra solenergi og lagres i batteriet.\nFra elnettet: Mængde energi fra elnettet"
 }

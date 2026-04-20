@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Keep it up! You're making progress towards self-sufficiency.",
     "CL_DV_EY_trees": "trees",
     "CL_CF_CM_himit_II": "Commercial AC II",
-    "CL_CF_CM_himit": "Commercial AC"
+    "CL_CF_CM_himit": "Commercial AC",
+    "CL_DV_EY_production_tips": "Self-consumption:Amount of solar energy consumed by load or charged to battery\nFed to grid:Amount of energy fed to the grid",
+    "CL_DV_EY_consumption_tips": "Self-sufficiency:Amount of solar energy consumed from solar and stored in the battery\nFrom grid:Amount of energy from the grid"
 }

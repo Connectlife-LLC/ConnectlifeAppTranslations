@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "继续努力！你正在朝着自给自足的方向迈进。",
     "CL_DV_EY_trees": "树木",
     "CL_CF_CM_himit_II": "商用空调 II",
-    "CL_CF_CM_himit": "商用空调"
+    "CL_CF_CM_himit": "商用空调",
+    "CL_DV_EY_production_tips": "自用量：负载消耗的太阳能量或充电至电池的太阳能量。\n并入电网：输送到电网的能量。",
+    "CL_DV_EY_consumption_tips": "自给自足：从太阳能电池消耗的太阳能量以及储存在电池中的太阳能量\n来自电网：来自电网的能量"
 }

@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "계속 힘내세요! 자립을 향해 나아가고 있네요.",
     "CL_DV_EY_trees": "나무",
     "CL_CF_CM_himit_II": "상업용 AC II",
-    "CL_CF_CM_himit": "상업용 에어컨"
+    "CL_CF_CM_himit": "상업용 에어컨",
+    "CL_DV_EY_production_tips": "자가 소비량: 부하가 소비하거나 배터리에 충전되는 태양 에너지의 양\n계통 연계 공급량: 계통으로 공급되는 에너지량",
+    "CL_DV_EY_consumption_tips": "자급률: 태양열로부터 소비하고 배터리에 저장하는 태양 에너지의 양\n전력망으로부터: 전력망으로부터 공급받는 에너지량"
 }

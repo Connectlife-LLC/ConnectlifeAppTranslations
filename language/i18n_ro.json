@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Continuă tot așa! Faci progrese către autosuficiență.",
     "CL_DV_EY_trees": "copaci",
     "CL_CF_CM_himit_II": "AC comercial II",
-    "CL_CF_CM_himit": "Aer condiționat comercial"
+    "CL_CF_CM_himit": "Aer condiționat comercial",
+    "CL_DV_EY_production_tips": "Autoconsum: Cantitatea de energie solară consumată de sarcină sau încărcată în baterie\nAlimentată în rețea: Cantitatea de energie alimentată în rețea",
+    "CL_DV_EY_consumption_tips": "Autosuficiență: Cantitatea de energie solară consumată din panouri solare și stocată în baterie\nDin rețea: Cantitatea de energie din rețea"
 }

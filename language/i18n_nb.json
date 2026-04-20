@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Stå på! Du gjør fremskritt mot selvhjulpenhet.",
     "CL_DV_EY_trees": "trær",
     "CL_CF_CM_himit_II": "Kommersiell klimaanlegg II",
-    "CL_CF_CM_himit": "Kommersiell klimaanlegg"
+    "CL_CF_CM_himit": "Kommersiell klimaanlegg",
+    "CL_DV_EY_production_tips": "Selvforbruk: Mengde solenergi forbrukt av last eller ladet til batteri\nMatet til strømnettet: Mengde energi som mates til strømnettet",
+    "CL_DV_EY_consumption_tips": "Selvforsyning: Mengden solenergi som forbrukes fra solenergi og lagres i batteriet\nFra strømnettet: Mengde energi fra strømnettet"
 }

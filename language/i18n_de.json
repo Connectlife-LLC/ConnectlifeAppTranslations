@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "Weiter so! Du machst Fortschritte in Richtung Selbstständigkeit.",
     "CL_DV_EY_trees": "Bäume",
     "CL_CF_CM_himit_II": "Gewerbliche Klimaanlage II",
-    "CL_CF_CM_himit": "Gewerbliche Klimaanlagen"
+    "CL_CF_CM_himit": "Gewerbliche Klimaanlagen",
+    "CL_DV_EY_production_tips": "Eigenverbrauch: Menge an Solarenergie, die von den Verbrauchern verbraucht oder in die Batterie geladen wird.\nIns Netz eingespeist: Energiemenge, die ins Netz eingespeist wird",
+    "CL_DV_EY_consumption_tips": "Selbstversorgungsgrad: Menge der aus Solarenergie gewonnenen und in der Batterie gespeicherten Solarenergie\nAus dem Netz: Energiemenge aus dem Netz"
 }

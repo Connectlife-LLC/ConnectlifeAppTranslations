@@ -8388,5 +8388,7 @@
     "CL_CF_energy_keep_up": "¡Sigue así! Estás progresando hacia la autosuficiencia.",
     "CL_DV_EY_trees": "árboles",
     "CL_CF_CM_himit_II": "Aire acondicionado comercial II",
-    "CL_CF_CM_himit": "Aire acondicionado comercial"
+    "CL_CF_CM_himit": "Aire acondicionado comercial",
+    "CL_DV_EY_production_tips": "Autoconsumo: Cantidad de energía solar consumida por la carga o cargada a la batería.\nSuministrada a la red: Cantidad de energía suministrada a la red eléctrica.",
+    "CL_DV_EY_consumption_tips": "Autosuficiencia: Cantidad de energía solar consumida de fuentes solares y almacenada en la batería.\nDe la red: Cantidad de energía proveniente de la red"
 }
