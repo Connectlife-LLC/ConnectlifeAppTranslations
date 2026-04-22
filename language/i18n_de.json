@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "TARIFZONE",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Tippen Sie auf „Gerät koppeln“. Falls keine WLAN-Verbindung besteht, führen Sie bitte zuerst einen **** durch.",
     "CL_CF_CM_add_demo_device": "Demogerät hinzufügen",
-    "CL_CF_CS_can_not_find_device_label": "Ich kann das Geräteetikett nicht finden."
+    "CL_CF_CS_can_not_find_device_label": "Ich kann das Geräteetikett nicht finden.",
+    "hisrf_dura_fresh_guide": "Dura Fresh Guide"
 }

@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "TOLDZONE",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Tryk på \"Par enhed\". Hvis WiFi-systemet ikke er tilsluttet, skal du først lave et ****.",
     "CL_CF_CM_add_demo_device": "Tilføj demoenhed",
-    "CL_CF_CS_can_not_find_device_label": "Jeg kan ikke finde enhedens etiket"
+    "CL_CF_CS_can_not_find_device_label": "Jeg kan ikke finde enhedens etiket",
+    "hisrf_dura_fresh_guide": "Dura Fresh-guide"
 }

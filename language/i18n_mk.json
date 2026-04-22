@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "ТАРИФНА ЗОНА",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Допрете на „Спари уред“. Ако WiFi системот не е поврзан, прво направете ****.",
     "CL_CF_CM_add_demo_device": "Додај демо уред",
-    "CL_CF_CS_can_not_find_device_label": "Не можам да ја најдам етикетата на уредот"
+    "CL_CF_CS_can_not_find_device_label": "Не можам да ја најдам етикетата на уредот",
+    "hisrf_dura_fresh_guide": "Водич за Dura Fresh"
 }

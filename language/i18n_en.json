@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "TARIFF ZONE",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Tap on “Pair device”. If WiFi system is not connected, then first do a ****.",
     "CL_CF_CM_add_demo_device": "Add Demo Device",
-    "CL_CF_CS_can_not_find_device_label": "I can’t find the device label"
+    "CL_CF_CS_can_not_find_device_label": "I can’t find the device label",
+    "hisrf_dura_fresh_guide": "Dura Fresh Guide"
 }

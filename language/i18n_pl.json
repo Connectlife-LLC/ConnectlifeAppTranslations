@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "STREFA TARYFOWA",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Kliknij „Sparuj urządzenie”. Jeśli sieć Wi-Fi nie jest połączona, najpierw wykonaj ****.",
     "CL_CF_CM_add_demo_device": "Dodaj urządzenie demonstracyjne",
-    "CL_CF_CS_can_not_find_device_label": "Nie mogę znaleźć etykiety urządzenia"
+    "CL_CF_CS_can_not_find_device_label": "Nie mogę znaleźć etykiety urządzenia",
+    "hisrf_dura_fresh_guide": "Przewodnik po Dura Fresh"
 }

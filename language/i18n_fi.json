@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "TURIFFIVYÖHYKE",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Napauta ”Yhdistä laite”. Jos WiFi-järjestelmää ei ole yhdistetty, tee ensin ****.",
     "CL_CF_CM_add_demo_device": "Lisää demolaite",
-    "CL_CF_CS_can_not_find_device_label": "En löydä laitteen etikettiä"
+    "CL_CF_CS_can_not_find_device_label": "En löydä laitteen etikettiä",
+    "hisrf_dura_fresh_guide": "Dura Fresh -opas"
 }

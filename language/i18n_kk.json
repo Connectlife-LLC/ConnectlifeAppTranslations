@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "ТАРИФ АЙМАҒЫ",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "«Құрылғыны жұптау» түймесін түртіңіз. Егер WiFi жүйесі қосылмаған болса, алдымен **** түймесін басыңыз.",
     "CL_CF_CM_add_demo_device": "Демо құрылғысын қосу",
-    "CL_CF_CS_can_not_find_device_label": "Құрылғы белгісін таба алмаймын"
+    "CL_CF_CS_can_not_find_device_label": "Құрылғы белгісін таба алмаймын",
+    "hisrf_dura_fresh_guide": "Dura Fresh нұсқаулығы"
 }

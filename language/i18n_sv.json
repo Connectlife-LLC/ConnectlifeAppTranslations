@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "TARIFFZON",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Tryck på ”Para enhet”. Om WiFi-systemet inte är anslutet, gör först ett ****.",
     "CL_CF_CM_add_demo_device": "Lägg till demoenhet",
-    "CL_CF_CS_can_not_find_device_label": "Jag kan inte hitta enhetens etikett"
+    "CL_CF_CS_can_not_find_device_label": "Jag kan inte hitta enhetens etikett",
+    "hisrf_dura_fresh_guide": "Dura Fresh-guide"
 }

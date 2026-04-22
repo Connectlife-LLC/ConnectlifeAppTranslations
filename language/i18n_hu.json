@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "TARIFF ZÓNA",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Koppintson a „Eszköz párosítása” lehetőségre. Ha a WiFi rendszer nincs csatlakoztatva, akkor először írjon egy ****-t.",
     "CL_CF_CM_add_demo_device": "Demóeszköz hozzáadása",
-    "CL_CF_CS_can_not_find_device_label": "Nem találom az eszköz címkéjét"
+    "CL_CF_CS_can_not_find_device_label": "Nem találom az eszköz címkéjét",
+    "hisrf_dura_fresh_guide": "Dura Fresh útmutató"
 }

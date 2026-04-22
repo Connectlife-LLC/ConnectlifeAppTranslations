@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "TARIEFZONE",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Tik op \"Apparaat koppelen\". Als het wifi-systeem niet is verbonden, doe dan eerst het volgende: ****.",
     "CL_CF_CM_add_demo_device": "Demo-apparaat toevoegen",
-    "CL_CF_CS_can_not_find_device_label": "Ik kan het label van het apparaat niet vinden."
+    "CL_CF_CS_can_not_find_device_label": "Ik kan het label van het apparaat niet vinden.",
+    "hisrf_dura_fresh_guide": "Dura Fresh Gids"
 }

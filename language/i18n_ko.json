@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "관세 구역",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "\"기기 페어링\"을 탭하세요. Wi-Fi 시스템에 연결되어 있지 않으면 먼저 ****를 수행하세요.",
     "CL_CF_CM_add_demo_device": "데모 장치 추가",
-    "CL_CF_CS_can_not_find_device_label": "기기 라벨을 찾을 수 없습니다"
+    "CL_CF_CS_can_not_find_device_label": "기기 라벨을 찾을 수 없습니다",
+    "hisrf_dura_fresh_guide": "듀라 프레시 가이드"
 }

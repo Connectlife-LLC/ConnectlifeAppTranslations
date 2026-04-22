@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "ТАРИФНА ЗОНА",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Додирните „Упари уређај“. Ако WiFi систем није повезан, прво урадите ****.",
     "CL_CF_CM_add_demo_device": "Додај демо уређај",
-    "CL_CF_CS_can_not_find_device_label": "Не могу да пронађем ознаку уређаја"
+    "CL_CF_CS_can_not_find_device_label": "Не могу да пронађем ознаку уређаја",
+    "hisrf_dura_fresh_guide": "Водич за Дура Фреш"
 }

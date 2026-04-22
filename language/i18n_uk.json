@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "ТАРИФНА ЗОНА",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Натисніть «Підключити пристрій». Якщо система Wi-Fi не підключена, спочатку виконайте ****.",
     "CL_CF_CM_add_demo_device": "Додати демонстраційний пристрій",
-    "CL_CF_CS_can_not_find_device_label": "Я не можу знайти етикетку пристрою"
+    "CL_CF_CS_can_not_find_device_label": "Я не можу знайти етикетку пристрою",
+    "hisrf_dura_fresh_guide": "Посібник з Dura Fresh"
 }

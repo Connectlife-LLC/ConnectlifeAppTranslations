@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "ТАРИФНА ЗОНА",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Докоснете „Сдвояване на устройство“. Ако WiFi системата не е свързана, първо направете ****.",
     "CL_CF_CM_add_demo_device": "Добавяне на демо устройство",
-    "CL_CF_CS_can_not_find_device_label": "Не мога да намеря етикета на устройството"
+    "CL_CF_CS_can_not_find_device_label": "Не мога да намеря етикета на устройството",
+    "hisrf_dura_fresh_guide": "Ръководство за Dura Fresh"
 }

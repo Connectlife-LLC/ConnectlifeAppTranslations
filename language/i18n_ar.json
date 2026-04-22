@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "منطقة التعريفة الجمركية",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "انقر على \"إقران الجهاز\". إذا لم يكن نظام الواي فاي متصلاً، فقم أولاً بتنفيذ ****.",
     "CL_CF_CM_add_demo_device": "إضافة جهاز تجريبي",
-    "CL_CF_CS_can_not_find_device_label": "لا أستطيع العثور على ملصق الجهاز"
+    "CL_CF_CS_can_not_find_device_label": "لا أستطيع العثور على ملصق الجهاز",
+    "hisrf_dura_fresh_guide": "دليل دورا فريش"
 }

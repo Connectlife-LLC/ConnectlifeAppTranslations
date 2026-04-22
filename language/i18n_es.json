@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "ZONA ARANCELARIA",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Pulsa en “Emparejar dispositivo”. Si el sistema WiFi no está conectado, primero haz ****.",
     "CL_CF_CM_add_demo_device": "Agregar dispositivo de demostración",
-    "CL_CF_CS_can_not_find_device_label": "No encuentro la etiqueta del dispositivo."
+    "CL_CF_CS_can_not_find_device_label": "No encuentro la etiqueta del dispositivo.",
+    "hisrf_dura_fresh_guide": "Guía Dura Fresh"
 }

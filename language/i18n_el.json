@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "ΔΑΣΜΟΛΟΓΙΚΗ ΖΩΝΗ",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Πατήστε στο «Σύζευξη συσκευής». Εάν το σύστημα WiFi δεν είναι συνδεδεμένο, τότε κάντε πρώτα ένα ****.",
     "CL_CF_CM_add_demo_device": "Προσθήκη συσκευής επίδειξης",
-    "CL_CF_CS_can_not_find_device_label": "Δεν μπορώ να βρω την ετικέτα της συσκευής"
+    "CL_CF_CS_can_not_find_device_label": "Δεν μπορώ να βρω την ετικέτα της συσκευής",
+    "hisrf_dura_fresh_guide": "Οδηγός Dura Fresh"
 }

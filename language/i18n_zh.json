@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "关税区",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "点击“配对设备”。如果WiFi系统未连接，请先执行****操作。",
     "CL_CF_CM_add_demo_device": "添加演示设备",
-    "CL_CF_CS_can_not_find_device_label": "我找不到设备标签"
+    "CL_CF_CS_can_not_find_device_label": "我找不到设备标签",
+    "hisrf_dura_fresh_guide": "Dura Fresh 指南"
 }

@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "関税地域",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "「デバイスをペアリング」をタップします。WiFiシステムが接続されていない場合は、まず****を実行してください。",
     "CL_CF_CM_add_demo_device": "デモデバイスを追加する",
-    "CL_CF_CS_can_not_find_device_label": "デバイスのラベルが見つかりません"
+    "CL_CF_CS_can_not_find_device_label": "デバイスのラベルが見つかりません",
+    "hisrf_dura_fresh_guide": "デュラフレッシュガイド"
 }

@@ -5614,7 +5614,7 @@
     "CL_light": "Svetloba",
     "CL_light_content": "Luč na napi lahko vklopite ali izklopite.",
     "CL_DV_CM_energy_consumption_disclaimer": "Statistika porabe je ocena in jo je treba uporabljati le kot referenco. Podatki o porabi se spremljajo le, ko je naprava povezana z omrežjem.",
-    "CL_DV_TD_dry_target": "Suha tarča",
+    "CL_DV_TD_dry_target": "Suhost perila",
     "CL_DV_LC_selec_door_lock_to_link": "Izberite ključavnico vrat za povezavo",
     "CL_DV_LC_ota_content": "Odpravite znane težave",
     "CL_CF_AU_dw_cycle_started": "Cikel se je začel",
@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "TARIFARNA OBMOČJA",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Dotaknite se možnosti »Seznani napravo«. Če sistem Wi-Fi ni povezan, najprej naredite ****.",
     "CL_CF_CM_add_demo_device": "Dodaj predstavitveno napravo",
-    "CL_CF_CS_can_not_find_device_label": "Ne najdem oznake naprave"
+    "CL_CF_CS_can_not_find_device_label": "Ne najdem oznake naprave",
+    "hisrf_dura_fresh_guide": "Vodnik za Dura Fresh"
 }

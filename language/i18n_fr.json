@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "ZONE TARIFAIRE",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Appuyez sur « Associer l’appareil ». Si le système Wi-Fi n’est pas connecté, effectuez d’abord une ****.",
     "CL_CF_CM_add_demo_device": "Ajouter un appareil de démonstration",
-    "CL_CF_CS_can_not_find_device_label": "Je ne trouve pas l'étiquette de l'appareil"
+    "CL_CF_CS_can_not_find_device_label": "Je ne trouve pas l'étiquette de l'appareil",
+    "hisrf_dura_fresh_guide": "Dura Fresh Guide"
 }

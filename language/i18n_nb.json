@@ -8419,5 +8419,6 @@
     "CL_TS_tariff_zone": "TOLLSONE",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Trykk på «Koble til enhet». Hvis WiFi-systemet ikke er tilkoblet, må du først gjøre et ****.",
     "CL_CF_CM_add_demo_device": "Legg til demoenhet",
-    "CL_CF_CS_can_not_find_device_label": "Jeg finner ikke enhetsetiketten"
+    "CL_CF_CS_can_not_find_device_label": "Jeg finner ikke enhetsetiketten",
+    "hisrf_dura_fresh_guide": "Dura Fresh-guide"
 }
