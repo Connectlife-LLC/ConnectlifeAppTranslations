@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Nykyinen versio:",
     "CL_VC_OTA_LATEST_VERSION": "Uusin versio:",
     "CL_VC_NAME_LIMIT_ERROR": "Raja 2–20 merkkiä.",
-    "CL_VC_NAME_LIMIT_HINT": "Raja 2–20 merkkiä."
+    "CL_VC_NAME_LIMIT_HINT": "Raja 2–20 merkkiä.",
+    "CL_CF_pp_about_tips": "Henkilötietojen käsittelykäytäntö internetissä",
+    "CL_CF_consent_about_tips": "Suostumus henkilötietojen käsittelyyn",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Ota järjestelmän sijainti käyttöön kytkimellä etsiäksesi Bluetooth-laitteita."
 }

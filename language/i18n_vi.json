@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Phiên bản hiện tại:",
     "CL_VC_OTA_LATEST_VERSION": "Phiên bản mới nhất:",
     "CL_VC_NAME_LIMIT_ERROR": "Giới hạn 2-20 ký tự.",
-    "CL_VC_NAME_LIMIT_HINT": "Giới hạn 2-20 ký tự."
+    "CL_VC_NAME_LIMIT_HINT": "Giới hạn 2-20 ký tự.",
+    "CL_CF_pp_about_tips": "Chính sách xử lý dữ liệu cá nhân trên Internet",
+    "CL_CF_consent_about_tips": "Sự đồng ý cho phép xử lý dữ liệu cá nhân",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Vui lòng bật công tắc định vị hệ thống để tìm kiếm các thiết bị Bluetooth."
 }

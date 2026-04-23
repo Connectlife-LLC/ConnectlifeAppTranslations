@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versi semasa:",
     "CL_VC_OTA_LATEST_VERSION": "Versi terkini:",
     "CL_VC_NAME_LIMIT_ERROR": "Hadkan 2-20 aksara.",
-    "CL_VC_NAME_LIMIT_HINT": "Hadkan 2-20 aksara."
+    "CL_VC_NAME_LIMIT_HINT": "Hadkan 2-20 aksara.",
+    "CL_CF_pp_about_tips": "Dasar Pemprosesan Data Peribadi di Internet",
+    "CL_CF_consent_about_tips": "Persetujuan untuk Pemprosesan Data Peribadi",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Sila hidupkan suis lokasi sistem untuk mencari peralatan Bluetooth."
 }

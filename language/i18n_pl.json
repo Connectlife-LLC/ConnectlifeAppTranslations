@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Wersja bieżąca:",
     "CL_VC_OTA_LATEST_VERSION": "Najnowsza wersja:",
     "CL_VC_NAME_LIMIT_ERROR": "Limit 2–20 znaków.",
-    "CL_VC_NAME_LIMIT_HINT": "Limit 2–20 znaków."
+    "CL_VC_NAME_LIMIT_HINT": "Limit 2–20 znaków.",
+    "CL_CF_pp_about_tips": "Polityka przetwarzania danych osobowych w Internecie",
+    "CL_CF_consent_about_tips": "Zgoda na przetwarzanie danych osobowych",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Aby wyszukać urządzenia Bluetooth, włącz przełącznik lokalizacji systemu."
 }

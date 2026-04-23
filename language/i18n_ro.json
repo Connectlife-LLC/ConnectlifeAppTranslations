@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versiunea curentă:",
     "CL_VC_OTA_LATEST_VERSION": "Ultima versiune:",
     "CL_VC_NAME_LIMIT_ERROR": "Limită 2-20 de caractere.",
-    "CL_VC_NAME_LIMIT_HINT": "Limită 2-20 de caractere."
+    "CL_VC_NAME_LIMIT_HINT": "Limită 2-20 de caractere.",
+    "CL_CF_pp_about_tips": "Politica de prelucrare a datelor cu caracter personal pe internet",
+    "CL_CF_consent_about_tips": "Consimțământ pentru prelucrarea datelor cu caracter personal",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Vă rugăm să activați comutatorul de locație a sistemului pentru a căuta dispozitive Bluetooth."
 }
