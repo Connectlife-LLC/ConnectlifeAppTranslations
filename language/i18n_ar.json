@@ -8426,5 +8426,7 @@
     "CL_VC_OTA_CURRENT_VERSION": "النسخة الحالية:",
     "CL_VC_OTA_LATEST_VERSION": "أحدث إصدار:",
     "CL_VC_NAME_LIMIT_ERROR": "الحد الأقصى للحرف: من 2 إلى 20 حرفًا.",
-    "CL_VC_NAME_LIMIT_HINT": "الحد الأقصى للحرف: من 2 إلى 20 حرفًا."
+    "CL_VC_NAME_LIMIT_HINT": "الحد الأقصى للحرف: من 2 إلى 20 حرفًا.",
+    "CL_CF_pp_about_tips": "سياسة معالجة البيانات الشخصية على الإنترنت",
+    "CL_CF_consent_about_tips": "الموافقة على معالجة البيانات الشخصية"
 }

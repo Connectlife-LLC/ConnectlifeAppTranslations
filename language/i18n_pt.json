@@ -8426,5 +8426,7 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versão atual:",
     "CL_VC_OTA_LATEST_VERSION": "Última versão:",
     "CL_VC_NAME_LIMIT_ERROR": "Limite de 2 a 20 caracteres.",
-    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 a 20 caracteres."
+    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 a 20 caracteres.",
+    "CL_CF_pp_about_tips": "Política de Tratamento de Dados Pessoais na Internet",
+    "CL_CF_consent_about_tips": "Consentimento para o Processamento de Dados Pessoais"
 }

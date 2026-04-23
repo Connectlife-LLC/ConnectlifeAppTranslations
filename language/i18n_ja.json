@@ -8426,5 +8426,7 @@
     "CL_VC_OTA_CURRENT_VERSION": "現在のバージョン:",
     "CL_VC_OTA_LATEST_VERSION": "最新バージョン：",
     "CL_VC_NAME_LIMIT_ERROR": "文字数は2～20文字までです。",
-    "CL_VC_NAME_LIMIT_HINT": "文字数は2～20文字までです。"
+    "CL_VC_NAME_LIMIT_HINT": "文字数は2～20文字までです。",
+    "CL_CF_pp_about_tips": "インターネットにおける個人データ処理ポリシー",
+    "CL_CF_consent_about_tips": "個人データの処理に関する同意"
 }

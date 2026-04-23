@@ -8426,5 +8426,7 @@
     "CL_VC_OTA_CURRENT_VERSION": "Aktuálna verzia:",
     "CL_VC_OTA_LATEST_VERSION": "Najnovšia verzia:",
     "CL_VC_NAME_LIMIT_ERROR": "Limit 2 – 20 znakov.",
-    "CL_VC_NAME_LIMIT_HINT": "Limit 2 – 20 znakov."
+    "CL_VC_NAME_LIMIT_HINT": "Limit 2 – 20 znakov.",
+    "CL_CF_pp_about_tips": "Zásady spracovania osobných údajov na internete",
+    "CL_CF_consent_about_tips": "Súhlas so spracovaním osobných údajov"
 }

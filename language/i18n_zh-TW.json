@@ -8426,5 +8426,7 @@
     "CL_VC_OTA_CURRENT_VERSION": "目前版本：",
     "CL_VC_OTA_LATEST_VERSION": "最新版本：",
     "CL_VC_NAME_LIMIT_ERROR": "字數限制為 2-20 個字元。",
-    "CL_VC_NAME_LIMIT_HINT": "字數限制為2-20個字元。"
+    "CL_VC_NAME_LIMIT_HINT": "字數限制為2-20個字元。",
+    "CL_CF_pp_about_tips": "網路個人資料處理政策",
+    "CL_CF_consent_about_tips": "同意處理個人數據"
 }

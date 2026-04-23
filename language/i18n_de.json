@@ -8426,5 +8426,7 @@
     "CL_VC_OTA_CURRENT_VERSION": "Aktuelle Version:",
     "CL_VC_OTA_LATEST_VERSION": "Neueste Version:",
     "CL_VC_NAME_LIMIT_ERROR": "Beschränken Sie die Länge auf 2-20 Zeichen.",
-    "CL_VC_NAME_LIMIT_HINT": "Beschränken Sie die Länge auf 2-20 Zeichen."
+    "CL_VC_NAME_LIMIT_HINT": "Beschränken Sie die Länge auf 2-20 Zeichen.",
+    "CL_CF_pp_about_tips": "Richtlinie zur Verarbeitung personenbezogener Daten im Internet",
+    "CL_CF_consent_about_tips": "Einwilligung zur Verarbeitung personenbezogener Daten"
 }

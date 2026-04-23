@@ -8426,5 +8426,7 @@
     "CL_VC_OTA_CURRENT_VERSION": "نسخه فعلی:",
     "CL_VC_OTA_LATEST_VERSION": "آخرین نسخه:",
     "CL_VC_NAME_LIMIT_ERROR": "محدود به ۲ تا ۲۰ کاراکتر.",
-    "CL_VC_NAME_LIMIT_HINT": "محدود به ۲ تا ۲۰ کاراکتر."
+    "CL_VC_NAME_LIMIT_HINT": "محدود به ۲ تا ۲۰ کاراکتر.",
+    "CL_CF_pp_about_tips": "سیاست پردازش داده‌های شخصی در اینترنت",
+    "CL_CF_consent_about_tips": "رضایت به پردازش داده‌های شخصی"
 }

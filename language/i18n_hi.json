@@ -8426,5 +8426,7 @@
     "CL_VC_OTA_CURRENT_VERSION": "वर्तमान संस्करण:",
     "CL_VC_OTA_LATEST_VERSION": "नवीनतम संस्करण:",
     "CL_VC_NAME_LIMIT_ERROR": "2-20 अक्षरों की सीमा।",
-    "CL_VC_NAME_LIMIT_HINT": "2-20 अक्षरों की सीमा।"
+    "CL_VC_NAME_LIMIT_HINT": "2-20 अक्षरों की सीमा।",
+    "CL_CF_pp_about_tips": "इंटरनेट पर व्यक्तिगत डेटा प्रसंस्करण नीति",
+    "CL_CF_consent_about_tips": "व्यक्तिगत डेटा के प्रसंस्करण के लिए सहमति"
 }
