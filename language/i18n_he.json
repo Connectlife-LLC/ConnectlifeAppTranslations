@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "גרסה נוכחית:",
     "CL_VC_OTA_LATEST_VERSION": "גרסה אחרונה:",
     "CL_VC_NAME_LIMIT_ERROR": "הגבלה של 2-20 תווים.",
-    "CL_VC_NAME_LIMIT_HINT": "הגבלה של 2-20 תווים."
+    "CL_VC_NAME_LIMIT_HINT": "הגבלה של 2-20 תווים.",
+    "CL_CF_pp_about_tips": "מדיניות עיבוד נתונים אישיים באינטרנט",
+    "CL_CF_consent_about_tips": "הסכמה לעיבוד נתונים אישיים",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "אנא הפעל את מתג מיקום המערכת כדי לחפש מכשירי Bluetooth."
 }

@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versi saat ini:",
     "CL_VC_OTA_LATEST_VERSION": "Versi terbaru:",
     "CL_VC_NAME_LIMIT_ERROR": "Batasan 2-20 karakter.",
-    "CL_VC_NAME_LIMIT_HINT": "Batasan 2-20 karakter."
+    "CL_VC_NAME_LIMIT_HINT": "Batasan 2-20 karakter.",
+    "CL_CF_pp_about_tips": "Kebijakan Pemrosesan Data Pribadi di Internet",
+    "CL_CF_consent_about_tips": "Persetujuan untuk Pemrosesan Data Pribadi",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Silakan aktifkan sakelar lokasi sistem untuk mencari perangkat Bluetooth."
 }

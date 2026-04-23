@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Тековна верзија:",
     "CL_VC_OTA_LATEST_VERSION": "Најнова верзија:",
     "CL_VC_NAME_LIMIT_ERROR": "Ограничување од 2-20 знаци.",
-    "CL_VC_NAME_LIMIT_HINT": "Ограничување од 2-20 знаци."
+    "CL_VC_NAME_LIMIT_HINT": "Ограничување од 2-20 знаци.",
+    "CL_CF_pp_about_tips": "Политика за обработка на лични податоци на интернет",
+    "CL_CF_consent_about_tips": "Согласност за обработка на лични податоци",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Вклучете го прекинувачот за локација на системот за да пребарувате Bluetooth уреди."
 }

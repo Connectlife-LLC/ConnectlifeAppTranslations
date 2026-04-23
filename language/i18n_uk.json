@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Поточна версія:",
     "CL_VC_OTA_LATEST_VERSION": "Найновіша версія:",
     "CL_VC_NAME_LIMIT_ERROR": "Обмеження 2-20 символів.",
-    "CL_VC_NAME_LIMIT_HINT": "Обмеження 2-20 символів."
+    "CL_VC_NAME_LIMIT_HINT": "Обмеження 2-20 символів.",
+    "CL_CF_pp_about_tips": "Політика обробки персональних даних в Інтернеті",
+    "CL_CF_consent_about_tips": "Згода на обробку персональних даних",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Будь ласка, увімкніть перемикач визначення місцезнаходження системи, щоб шукати пристрої Bluetooth."
 }

@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "현재 버전:",
     "CL_VC_OTA_LATEST_VERSION": "최신 버전:",
     "CL_VC_NAME_LIMIT_ERROR": "글자 수 제한은 2~20자입니다.",
-    "CL_VC_NAME_LIMIT_HINT": "글자 수 제한은 2~20자입니다."
+    "CL_VC_NAME_LIMIT_HINT": "글자 수 제한은 2~20자입니다.",
+    "CL_CF_pp_about_tips": "인터넷 개인정보 처리 방침",
+    "CL_CF_consent_about_tips": "개인정보 처리 동의",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "블루투스 기기를 검색하려면 시스템 위치 검색 스위치를 켜주세요."
 }

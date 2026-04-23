@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Version actuelle:",
     "CL_VC_OTA_LATEST_VERSION": "Dernière version :",
     "CL_VC_NAME_LIMIT_ERROR": "Limite de 2 à 20 caractères.",
-    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 à 20 caractères."
+    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 à 20 caractères.",
+    "CL_CF_pp_about_tips": "Politique de traitement des données personnelles sur Internet",
+    "CL_CF_consent_about_tips": "Consentement au traitement des données personnelles",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Veuillez activer le commutateur de localisation du système pour rechercher les appareils Bluetooth."
 }

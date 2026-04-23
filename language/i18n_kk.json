@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Ағымдағы нұсқасы:",
     "CL_VC_OTA_LATEST_VERSION": "Соңғы нұсқасы:",
     "CL_VC_NAME_LIMIT_ERROR": "2-20 таңбамен шектеліңіз.",
-    "CL_VC_NAME_LIMIT_HINT": "2-20 таңбамен шектеліңіз."
+    "CL_VC_NAME_LIMIT_HINT": "2-20 таңбамен шектеліңіз.",
+    "CL_CF_pp_about_tips": "Интернеттегі жеке деректерді өңдеу саясаты",
+    "CL_CF_consent_about_tips": "Жеке деректерді өңдеуге келісім",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Bluetooth құрылғыларын іздеу үшін жүйенің орналасқан жерін анықтау қосқышын қосыңыз."
 }

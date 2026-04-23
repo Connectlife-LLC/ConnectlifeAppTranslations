@@ -8426,5 +8426,8 @@
     "CL_VC_OTA_CURRENT_VERSION": "Huidige versie:",
     "CL_VC_OTA_LATEST_VERSION": "Laatste versie:",
     "CL_VC_NAME_LIMIT_ERROR": "Maximaal 2-20 tekens.",
-    "CL_VC_NAME_LIMIT_HINT": "Maximaal 2-20 tekens."
+    "CL_VC_NAME_LIMIT_HINT": "Maximaal 2-20 tekens.",
+    "CL_CF_pp_about_tips": "Beleid inzake de verwerking van persoonsgegevens op internet",
+    "CL_CF_consent_about_tips": "Toestemming voor de verwerking van persoonsgegevens",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Schakel de systeemlocatieschakelaar in om naar Bluetooth-apparaten te zoeken."
 }
