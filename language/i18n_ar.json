@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "التحكم بالإيماءات",
     "CL_VC_FUNC_ENDURANCE_MODE": "وضع البطارية",
     "CL_VC_FUNC_MORE_SETTING": "المزيد من الإعدادات",
-    "CL_VC_FUNC_FIND_HEADSET": "ابحث عن سماعات الرأس",
     "CL_VC_FUNC_OTA_UPDATE": "تحديث البرامج الثابتة",
     "CL_VC_FUNC_ABOUT_DEVICE": "حول الجهاز",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "انقر مرتين",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "النسخة الحالية:",
     "CL_VC_OTA_LATEST_VERSION": "أحدث إصدار:",
     "CL_VC_NAME_LIMIT_ERROR": "الحد الأقصى للحرف: من 2 إلى 20 حرفًا.",
-    "CL_VC_NAME_LIMIT_HINT": "الحد الأقصى للحرف: من 2 إلى 20 حرفًا."
+    "CL_VC_NAME_LIMIT_HINT": "الحد الأقصى للحرف: من 2 إلى 20 حرفًا.",
+    "CL_CF_pp_about_tips": "سياسة معالجة البيانات الشخصية على الإنترنت",
+    "CL_CF_consent_about_tips": "الموافقة على معالجة البيانات الشخصية",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "يرجى تشغيل مفتاح موقع النظام للبحث عن أجهزة البلوتوث.",
+    "CL_VC_FUNC_FIND_HEADSET": "ابحث عن سماعة الأذن"
 }

@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Управление жестами",
     "CL_VC_FUNC_ENDURANCE_MODE": "Режим работы от батареи",
     "CL_VC_FUNC_MORE_SETTING": "Дополнительные настройки",
-    "CL_VC_FUNC_FIND_HEADSET": "Найдите наушники",
     "CL_VC_FUNC_OTA_UPDATE": "Обновление прошивки",
     "CL_VC_FUNC_ABOUT_DEVICE": "О устройстве",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Нажмите дважды",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Текущая версия:",
     "CL_VC_OTA_LATEST_VERSION": "Последняя версия:",
     "CL_VC_NAME_LIMIT_ERROR": "Ограничение: от 2 до 20 символов.",
-    "CL_VC_NAME_LIMIT_HINT": "Ограничение: от 2 до 20 символов."
+    "CL_VC_NAME_LIMIT_HINT": "Ограничение: от 2 до 20 символов.",
+    "CL_CF_pp_about_tips": "Политика обработки персональных данных в интернете",
+    "CL_CF_consent_about_tips": "Согласие на обработку персональных данных",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Включите переключатель определения местоположения системы, чтобы выполнить поиск устройств с поддержкой Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Найдите наушник"
 }

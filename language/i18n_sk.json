@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Ovládanie gestami",
     "CL_VC_FUNC_ENDURANCE_MODE": "Režim batérie",
     "CL_VC_FUNC_MORE_SETTING": "Ďalšie nastavenia",
-    "CL_VC_FUNC_FIND_HEADSET": "Nájdite slúchadlá",
     "CL_VC_FUNC_OTA_UPDATE": "Aktualizácia firmvéru",
     "CL_VC_FUNC_ABOUT_DEVICE": "O zariadení",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Dvakrát klepnite",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Aktuálna verzia:",
     "CL_VC_OTA_LATEST_VERSION": "Najnovšia verzia:",
     "CL_VC_NAME_LIMIT_ERROR": "Limit 2 – 20 znakov.",
-    "CL_VC_NAME_LIMIT_HINT": "Limit 2 – 20 znakov."
+    "CL_VC_NAME_LIMIT_HINT": "Limit 2 – 20 znakov.",
+    "CL_CF_pp_about_tips": "Zásady spracovania osobných údajov na internete",
+    "CL_CF_consent_about_tips": "Súhlas so spracovaním osobných údajov",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Ak chcete vyhľadať zariadenia Bluetooth, zapnite prepínač umiestnenia systému.",
+    "CL_VC_FUNC_FIND_HEADSET": "Nájdite slúchadlo"
 }

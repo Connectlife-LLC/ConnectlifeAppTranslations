@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Bevægelseskontrol",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batteritilstand",
     "CL_VC_FUNC_MORE_SETTING": "Flere indstillinger",
-    "CL_VC_FUNC_FIND_HEADSET": "Find hovedtelefonerne",
     "CL_VC_FUNC_OTA_UPDATE": "Firmwareopdatering",
     "CL_VC_FUNC_ABOUT_DEVICE": "Om enheden",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tryk to gange",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Nuværende version:",
     "CL_VC_OTA_LATEST_VERSION": "Seneste version:",
     "CL_VC_NAME_LIMIT_ERROR": "Begrænsning på 2-20 tegn.",
-    "CL_VC_NAME_LIMIT_HINT": "Begrænsning på 2-20 tegn."
+    "CL_VC_NAME_LIMIT_HINT": "Begrænsning på 2-20 tegn.",
+    "CL_CF_pp_about_tips": "Politik for behandling af personoplysninger på internettet",
+    "CL_CF_consent_about_tips": "Samtykke til behandling af personoplysninger",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Slå systemplaceringsknappen til for at søge efter Bluetooth-apparater.",
+    "CL_VC_FUNC_FIND_HEADSET": "Find høretelefonerne"
 }

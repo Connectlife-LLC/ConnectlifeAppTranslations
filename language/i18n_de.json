@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Gestensteuerung",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batteriemodus",
     "CL_VC_FUNC_MORE_SETTING": "Weitere Einstellungen",
-    "CL_VC_FUNC_FIND_HEADSET": "Finde die Kopfhörer",
     "CL_VC_FUNC_OTA_UPDATE": "Firmware-Update",
     "CL_VC_FUNC_ABOUT_DEVICE": "Über das Gerät",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Zweimal tippen",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Aktuelle Version:",
     "CL_VC_OTA_LATEST_VERSION": "Neueste Version:",
     "CL_VC_NAME_LIMIT_ERROR": "Beschränken Sie die Länge auf 2-20 Zeichen.",
-    "CL_VC_NAME_LIMIT_HINT": "Beschränken Sie die Länge auf 2-20 Zeichen."
+    "CL_VC_NAME_LIMIT_HINT": "Beschränken Sie die Länge auf 2-20 Zeichen.",
+    "CL_CF_pp_about_tips": "Richtlinie zur Verarbeitung personenbezogener Daten im Internet",
+    "CL_CF_consent_about_tips": "Einwilligung zur Verarbeitung personenbezogener Daten",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Bitte schalten Sie den Systemstandortschalter ein, um nach Bluetooth-Geräten zu suchen.",
+    "CL_VC_FUNC_FIND_HEADSET": "Finde den Kopfhörer"
 }

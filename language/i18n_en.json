@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Gesture Control",
     "CL_VC_FUNC_ENDURANCE_MODE": "Battery Mode",
     "CL_VC_FUNC_MORE_SETTING": "More Settings",
-    "CL_VC_FUNC_FIND_HEADSET": "Find the HiClip",
     "CL_VC_FUNC_OTA_UPDATE": "Firmware Update",
     "CL_VC_FUNC_ABOUT_DEVICE": "About Device",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tap twice",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Current version:",
     "CL_VC_OTA_LATEST_VERSION": "Latest version:",
     "CL_VC_NAME_LIMIT_ERROR": "Limit 2-20 characters.",
-    "CL_VC_NAME_LIMIT_HINT": "Limit 2-20 characters."
+    "CL_VC_NAME_LIMIT_HINT": "Limit 2-20 characters.",
+    "CL_CF_pp_about_tips": "Personal Data Processing Policy on the Internet",
+    "CL_CF_consent_about_tips": "Consent to the Processing of Personal Data",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Please turn on the system location switch to search for Bluetooth appliances.",
+    "CL_VC_FUNC_FIND_HEADSET": "Find the earphone"
 }

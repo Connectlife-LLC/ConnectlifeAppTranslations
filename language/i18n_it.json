@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Controllo gestuale",
     "CL_VC_FUNC_ENDURANCE_MODE": "Modalità batteria",
     "CL_VC_FUNC_MORE_SETTING": "Altre impostazioni",
-    "CL_VC_FUNC_FIND_HEADSET": "Trova le cuffie",
     "CL_VC_FUNC_OTA_UPDATE": "Aggiornamento del firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "Informazioni sul dispositivo",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tocca due volte",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versione corrente:",
     "CL_VC_OTA_LATEST_VERSION": "Versione più recente:",
     "CL_VC_NAME_LIMIT_ERROR": "Limite di 2-20 caratteri.",
-    "CL_VC_NAME_LIMIT_HINT": "Limite di 2-20 caratteri."
+    "CL_VC_NAME_LIMIT_HINT": "Limite di 2-20 caratteri.",
+    "CL_CF_pp_about_tips": "Informativa sul trattamento dei dati personali su Internet",
+    "CL_CF_consent_about_tips": "Consenso al trattamento dei dati personali",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Attiva l'interruttore di localizzazione del sistema per cercare i dispositivi Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Trova l'auricolare"
 }

@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "ジェスチャーコントロール",
     "CL_VC_FUNC_ENDURANCE_MODE": "バッテリーモード",
     "CL_VC_FUNC_MORE_SETTING": "その他の設定",
-    "CL_VC_FUNC_FIND_HEADSET": "ヘッドホンを探す",
     "CL_VC_FUNC_OTA_UPDATE": "ファームウェアアップデート",
     "CL_VC_FUNC_ABOUT_DEVICE": "デバイスについて",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "2回タップ",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "現在のバージョン:",
     "CL_VC_OTA_LATEST_VERSION": "最新バージョン：",
     "CL_VC_NAME_LIMIT_ERROR": "文字数は2～20文字までです。",
-    "CL_VC_NAME_LIMIT_HINT": "文字数は2～20文字までです。"
+    "CL_VC_NAME_LIMIT_HINT": "文字数は2～20文字までです。",
+    "CL_CF_pp_about_tips": "インターネットにおける個人データ処理ポリシー",
+    "CL_CF_consent_about_tips": "個人データの処理に関する同意",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Bluetooth機器を検索するには、システム位置情報スイッチをオンにしてください。",
+    "CL_VC_FUNC_FIND_HEADSET": "イヤホンを探す"
 }

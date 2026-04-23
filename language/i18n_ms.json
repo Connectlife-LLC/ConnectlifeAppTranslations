@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Kawalan Gerak Isyarat",
     "CL_VC_FUNC_ENDURANCE_MODE": "Mod Bateri",
     "CL_VC_FUNC_MORE_SETTING": "Lebih Banyak Tetapan",
-    "CL_VC_FUNC_FIND_HEADSET": "Cari fon kepala",
     "CL_VC_FUNC_OTA_UPDATE": "Kemas Kini Perisian Tegar",
     "CL_VC_FUNC_ABOUT_DEVICE": "Perihal Peranti",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Ketik dua kali",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versi semasa:",
     "CL_VC_OTA_LATEST_VERSION": "Versi terkini:",
     "CL_VC_NAME_LIMIT_ERROR": "Hadkan 2-20 aksara.",
-    "CL_VC_NAME_LIMIT_HINT": "Hadkan 2-20 aksara."
+    "CL_VC_NAME_LIMIT_HINT": "Hadkan 2-20 aksara.",
+    "CL_CF_pp_about_tips": "Dasar Pemprosesan Data Peribadi di Internet",
+    "CL_CF_consent_about_tips": "Persetujuan untuk Pemprosesan Data Peribadi",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Sila hidupkan suis lokasi sistem untuk mencari peralatan Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Cari fon telinga"
 }

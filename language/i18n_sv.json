@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Gestkontroll",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batteriläge",
     "CL_VC_FUNC_MORE_SETTING": "Fler inställningar",
-    "CL_VC_FUNC_FIND_HEADSET": "Hitta hörlurarna",
     "CL_VC_FUNC_OTA_UPDATE": "Uppdatering av firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "Om enheten",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tryck två gånger",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Aktuell version:",
     "CL_VC_OTA_LATEST_VERSION": "Senaste versionen:",
     "CL_VC_NAME_LIMIT_ERROR": "Begränsa 2–20 tecken.",
-    "CL_VC_NAME_LIMIT_HINT": "Begränsa 2–20 tecken."
+    "CL_VC_NAME_LIMIT_HINT": "Begränsa 2–20 tecken.",
+    "CL_CF_pp_about_tips": "Policy för personuppgiftsbehandling på internet",
+    "CL_CF_consent_about_tips": "Samtycke till behandling av personuppgifter",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Slå på systemplatsknappen för att söka efter Bluetooth-enheter.",
+    "CL_VC_FUNC_FIND_HEADSET": "Hitta hörlurarna"
 }

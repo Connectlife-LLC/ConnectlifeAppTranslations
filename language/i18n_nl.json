@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Gebarenbediening",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batterijmodus",
     "CL_VC_FUNC_MORE_SETTING": "Meer instellingen",
-    "CL_VC_FUNC_FIND_HEADSET": "Zoek de koptelefoon",
     "CL_VC_FUNC_OTA_UPDATE": "Firmware-update",
     "CL_VC_FUNC_ABOUT_DEVICE": "Over het apparaat",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tik twee keer",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Huidige versie:",
     "CL_VC_OTA_LATEST_VERSION": "Laatste versie:",
     "CL_VC_NAME_LIMIT_ERROR": "Maximaal 2-20 tekens.",
-    "CL_VC_NAME_LIMIT_HINT": "Maximaal 2-20 tekens."
+    "CL_VC_NAME_LIMIT_HINT": "Maximaal 2-20 tekens.",
+    "CL_CF_pp_about_tips": "Beleid inzake de verwerking van persoonsgegevens op internet",
+    "CL_CF_consent_about_tips": "Toestemming voor de verwerking van persoonsgegevens",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Schakel de systeemlocatieschakelaar in om naar Bluetooth-apparaten te zoeken.",
+    "CL_VC_FUNC_FIND_HEADSET": "Zoek de oortelefoon"
 }

@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Hareket Kontrolü",
     "CL_VC_FUNC_ENDURANCE_MODE": "Pil Modu",
     "CL_VC_FUNC_MORE_SETTING": "Daha Fazla Ayar",
-    "CL_VC_FUNC_FIND_HEADSET": "Kulaklıkları bulun.",
     "CL_VC_FUNC_OTA_UPDATE": "Ürün Yazılımı Güncellemesi",
     "CL_VC_FUNC_ABOUT_DEVICE": "Cihaz Hakkında",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "İki kez dokunun",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Güncel sürüm:",
     "CL_VC_OTA_LATEST_VERSION": "En son sürüm:",
     "CL_VC_NAME_LIMIT_ERROR": "2-20 karakterle sınırlayın.",
-    "CL_VC_NAME_LIMIT_HINT": "2-20 karakterle sınırlayın."
+    "CL_VC_NAME_LIMIT_HINT": "2-20 karakterle sınırlayın.",
+    "CL_CF_pp_about_tips": "İnternet Üzerinde Kişisel Veri İşleme Politikası",
+    "CL_CF_consent_about_tips": "Kişisel Verilerin İşlenmesine İlişkin Onay",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Lütfen Bluetooth cihazlarını aramak için sistem konum anahtarını açın.",
+    "CL_VC_FUNC_FIND_HEADSET": "Kulaklığı bulun"
 }

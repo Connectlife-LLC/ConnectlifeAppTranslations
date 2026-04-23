@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "การควบคุมด้วยท่าทาง",
     "CL_VC_FUNC_ENDURANCE_MODE": "โหมดแบตเตอรี่",
     "CL_VC_FUNC_MORE_SETTING": "การตั้งค่าเพิ่มเติม",
-    "CL_VC_FUNC_FIND_HEADSET": "หาหูฟังให้เจอ",
     "CL_VC_FUNC_OTA_UPDATE": "การอัปเดตเฟิร์มแวร์",
     "CL_VC_FUNC_ABOUT_DEVICE": "เกี่ยวกับอุปกรณ์",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "แตะสองครั้ง",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "เวอร์ชันปัจจุบัน:",
     "CL_VC_OTA_LATEST_VERSION": "เวอร์ชันล่าสุด:",
     "CL_VC_NAME_LIMIT_ERROR": "จำกัดจำนวนตัวอักษร 2-20 ตัว",
-    "CL_VC_NAME_LIMIT_HINT": "จำกัดจำนวนตัวอักษร 2-20 ตัว"
+    "CL_VC_NAME_LIMIT_HINT": "จำกัดจำนวนตัวอักษร 2-20 ตัว",
+    "CL_CF_pp_about_tips": "นโยบายการประมวลผลข้อมูลส่วนบุคคลบนอินเทอร์เน็ต",
+    "CL_CF_consent_about_tips": "ความยินยอมในการประมวลผลข้อมูลส่วนบุคคล",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "โปรดเปิดสวิตช์ระบุตำแหน่งระบบเพื่อค้นหาอุปกรณ์บลูทูธ",
+    "CL_VC_FUNC_FIND_HEADSET": "หาหูฟัง"
 }

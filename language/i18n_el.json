@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Έλεγχος χειρονομιών",
     "CL_VC_FUNC_ENDURANCE_MODE": "Λειτουργία μπαταρίας",
     "CL_VC_FUNC_MORE_SETTING": "Περισσότερες ρυθμίσεις",
-    "CL_VC_FUNC_FIND_HEADSET": "Βρείτε τα ακουστικά",
     "CL_VC_FUNC_OTA_UPDATE": "Ενημέρωση υλικολογισμικού",
     "CL_VC_FUNC_ABOUT_DEVICE": "Σχετικά με τη συσκευή",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Πατήστε δύο φορές",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Τρέχουσα έκδοση:",
     "CL_VC_OTA_LATEST_VERSION": "Τελευταία έκδοση:",
     "CL_VC_NAME_LIMIT_ERROR": "Όριο 2-20 χαρακτήρες.",
-    "CL_VC_NAME_LIMIT_HINT": "Όριο 2-20 χαρακτήρες."
+    "CL_VC_NAME_LIMIT_HINT": "Όριο 2-20 χαρακτήρες.",
+    "CL_CF_pp_about_tips": "Πολιτική Επεξεργασίας Προσωπικών Δεδομένων στο Διαδίκτυο",
+    "CL_CF_consent_about_tips": "Συγκατάθεση για την Επεξεργασία Προσωπικών Δεδομένων",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Ενεργοποιήστε τον διακόπτη τοποθεσίας συστήματος για να αναζητήσετε συσκευές Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Βρείτε το ακουστικό"
 }

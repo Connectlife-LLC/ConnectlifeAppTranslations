@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Điều khiển bằng cử chỉ",
     "CL_VC_FUNC_ENDURANCE_MODE": "Chế độ pin",
     "CL_VC_FUNC_MORE_SETTING": "Thêm cài đặt",
-    "CL_VC_FUNC_FIND_HEADSET": "Tìm tai nghe",
     "CL_VC_FUNC_OTA_UPDATE": "Cập nhật phần mềm",
     "CL_VC_FUNC_ABOUT_DEVICE": "Giới thiệu về thiết bị",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Chạm hai lần",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Phiên bản hiện tại:",
     "CL_VC_OTA_LATEST_VERSION": "Phiên bản mới nhất:",
     "CL_VC_NAME_LIMIT_ERROR": "Giới hạn 2-20 ký tự.",
-    "CL_VC_NAME_LIMIT_HINT": "Giới hạn 2-20 ký tự."
+    "CL_VC_NAME_LIMIT_HINT": "Giới hạn 2-20 ký tự.",
+    "CL_CF_pp_about_tips": "Chính sách xử lý dữ liệu cá nhân trên Internet",
+    "CL_CF_consent_about_tips": "Sự đồng ý cho phép xử lý dữ liệu cá nhân",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Vui lòng bật công tắc định vị hệ thống để tìm kiếm các thiết bị Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Tìm tai nghe"
 }

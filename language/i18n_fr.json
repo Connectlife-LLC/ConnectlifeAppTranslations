@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Contrôle gestuel",
     "CL_VC_FUNC_ENDURANCE_MODE": "Mode batterie",
     "CL_VC_FUNC_MORE_SETTING": "Plus de paramètres",
-    "CL_VC_FUNC_FIND_HEADSET": "Trouvez les écouteurs",
     "CL_VC_FUNC_OTA_UPDATE": "Mise à jour du firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "À propos de l'appareil",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Appuyez deux fois",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Version actuelle:",
     "CL_VC_OTA_LATEST_VERSION": "Dernière version :",
     "CL_VC_NAME_LIMIT_ERROR": "Limite de 2 à 20 caractères.",
-    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 à 20 caractères."
+    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 à 20 caractères.",
+    "CL_CF_pp_about_tips": "Politique de traitement des données personnelles sur Internet",
+    "CL_CF_consent_about_tips": "Consentement au traitement des données personnelles",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Veuillez activer le commutateur de localisation du système pour rechercher les appareils Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Trouvez l'écouteur"
 }

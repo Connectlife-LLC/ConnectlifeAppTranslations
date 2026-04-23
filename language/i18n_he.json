@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "בקרת מחוות",
     "CL_VC_FUNC_ENDURANCE_MODE": "מצב סוללה",
     "CL_VC_FUNC_MORE_SETTING": "הגדרות נוספות",
-    "CL_VC_FUNC_FIND_HEADSET": "למצוא את האוזניות",
     "CL_VC_FUNC_OTA_UPDATE": "עדכון קושחה",
     "CL_VC_FUNC_ABOUT_DEVICE": "אודות המכשיר",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "הקש פעמיים",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "גרסה נוכחית:",
     "CL_VC_OTA_LATEST_VERSION": "גרסה אחרונה:",
     "CL_VC_NAME_LIMIT_ERROR": "הגבלה של 2-20 תווים.",
-    "CL_VC_NAME_LIMIT_HINT": "הגבלה של 2-20 תווים."
+    "CL_VC_NAME_LIMIT_HINT": "הגבלה של 2-20 תווים.",
+    "CL_CF_pp_about_tips": "מדיניות עיבוד נתונים אישיים באינטרנט",
+    "CL_CF_consent_about_tips": "הסכמה לעיבוד נתונים אישיים",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "אנא הפעל את מתג מיקום המערכת כדי לחפש מכשירי Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "מצא את האוזניות"
 }

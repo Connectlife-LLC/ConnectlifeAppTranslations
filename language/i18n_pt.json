@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Controle por gestos",
     "CL_VC_FUNC_ENDURANCE_MODE": "Modo de bateria",
     "CL_VC_FUNC_MORE_SETTING": "Mais configurações",
-    "CL_VC_FUNC_FIND_HEADSET": "Encontre os fones de ouvido",
     "CL_VC_FUNC_OTA_UPDATE": "Atualização de firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "Sobre o dispositivo",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Toque duas vezes",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versão atual:",
     "CL_VC_OTA_LATEST_VERSION": "Última versão:",
     "CL_VC_NAME_LIMIT_ERROR": "Limite de 2 a 20 caracteres.",
-    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 a 20 caracteres."
+    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 a 20 caracteres.",
+    "CL_CF_pp_about_tips": "Política de Tratamento de Dados Pessoais na Internet",
+    "CL_CF_consent_about_tips": "Consentimento para o Processamento de Dados Pessoais",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Por favor, ative a opção de localização do sistema para procurar dispositivos Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Encontre o fone de ouvido"
 }

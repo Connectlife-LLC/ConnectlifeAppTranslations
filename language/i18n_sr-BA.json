@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Контрола гестовима",
     "CL_VC_FUNC_ENDURANCE_MODE": "Режим батерије",
     "CL_VC_FUNC_MORE_SETTING": "Више подешавања",
-    "CL_VC_FUNC_FIND_HEADSET": "Пронађите слушалице",
     "CL_VC_FUNC_OTA_UPDATE": "Ажурирање фирмвера",
     "CL_VC_FUNC_ABOUT_DEVICE": "О уређају",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Додирните два пута",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Тренутна верзија:",
     "CL_VC_OTA_LATEST_VERSION": "Најновија верзија:",
     "CL_VC_NAME_LIMIT_ERROR": "Ограничење 2-20 знакова.",
-    "CL_VC_NAME_LIMIT_HINT": "Ограничење 2-20 знакова."
+    "CL_VC_NAME_LIMIT_HINT": "Ограничење 2-20 знакова.",
+    "CL_CF_pp_about_tips": "Политика обраде личних података на интернету",
+    "CL_CF_consent_about_tips": "Сагласност за обраду личних података",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Укључите прекидач за локацију система да бисте претражили Bluetooth уређаје.",
+    "CL_VC_FUNC_FIND_HEADSET": "Пронађите слушалицу"
 }

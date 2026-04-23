@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "手势控制",
     "CL_VC_FUNC_ENDURANCE_MODE": "电池模式",
     "CL_VC_FUNC_MORE_SETTING": "更多设置",
-    "CL_VC_FUNC_FIND_HEADSET": "找到耳机",
     "CL_VC_FUNC_OTA_UPDATE": "固件更新",
     "CL_VC_FUNC_ABOUT_DEVICE": "关于设备",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "双击",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "当前版本：",
     "CL_VC_OTA_LATEST_VERSION": "最新版本：",
     "CL_VC_NAME_LIMIT_ERROR": "字数限制为 2-20 个字符。",
-    "CL_VC_NAME_LIMIT_HINT": "字数限制为 2-20 个字符。"
+    "CL_VC_NAME_LIMIT_HINT": "字数限制为 2-20 个字符。",
+    "CL_CF_pp_about_tips": "互联网个人数据处理政策",
+    "CL_CF_consent_about_tips": "同意处理个人数据",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "请打开系统定位开关以搜索蓝牙设备。",
+    "CL_VC_FUNC_FIND_HEADSET": "查找耳机"
 }

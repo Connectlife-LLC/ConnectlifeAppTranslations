@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Controlul gesturilor",
     "CL_VC_FUNC_ENDURANCE_MODE": "Mod baterie",
     "CL_VC_FUNC_MORE_SETTING": "Mai multe setări",
-    "CL_VC_FUNC_FIND_HEADSET": "Găsește căștile",
     "CL_VC_FUNC_OTA_UPDATE": "Actualizare firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "Despre dispozitiv",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Atingeți de două ori",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versiunea curentă:",
     "CL_VC_OTA_LATEST_VERSION": "Ultima versiune:",
     "CL_VC_NAME_LIMIT_ERROR": "Limită 2-20 de caractere.",
-    "CL_VC_NAME_LIMIT_HINT": "Limită 2-20 de caractere."
+    "CL_VC_NAME_LIMIT_HINT": "Limită 2-20 de caractere.",
+    "CL_CF_pp_about_tips": "Politica de prelucrare a datelor cu caracter personal pe internet",
+    "CL_CF_consent_about_tips": "Consimțământ pentru prelucrarea datelor cu caracter personal",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Vă rugăm să activați comutatorul de locație a sistemului pentru a căuta dispozitive Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Găsește căștile"
 }

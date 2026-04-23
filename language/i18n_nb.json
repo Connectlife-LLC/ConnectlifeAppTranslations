@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Bevegelseskontroll",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batterimodus",
     "CL_VC_FUNC_MORE_SETTING": "Flere innstillinger",
-    "CL_VC_FUNC_FIND_HEADSET": "Finn hodetelefonene",
     "CL_VC_FUNC_OTA_UPDATE": "Fastvareoppdatering",
     "CL_VC_FUNC_ABOUT_DEVICE": "Om enheten",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Trykk to ganger",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Gjeldende versjon:",
     "CL_VC_OTA_LATEST_VERSION": "Siste versjon:",
     "CL_VC_NAME_LIMIT_ERROR": "Begrenset til 2–20 tegn.",
-    "CL_VC_NAME_LIMIT_HINT": "Begrenset til 2–20 tegn."
+    "CL_VC_NAME_LIMIT_HINT": "Begrenset til 2–20 tegn.",
+    "CL_CF_pp_about_tips": "Retningslinjer for behandling av personopplysninger på internett",
+    "CL_CF_consent_about_tips": "Samtykke til behandling av personopplysninger",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Slå på systemplasseringsbryteren for å søke etter Bluetooth-apparater.",
+    "CL_VC_FUNC_FIND_HEADSET": "Finn øretelefonen"
 }

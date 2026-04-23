@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "کنترل حرکتی",
     "CL_VC_FUNC_ENDURANCE_MODE": "حالت باتری",
     "CL_VC_FUNC_MORE_SETTING": "تنظیمات بیشتر",
-    "CL_VC_FUNC_FIND_HEADSET": "هدفون را پیدا کنید",
     "CL_VC_FUNC_OTA_UPDATE": "به‌روزرسانی میان‌افزار",
     "CL_VC_FUNC_ABOUT_DEVICE": "درباره دستگاه",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "دو بار ضربه بزنید",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "نسخه فعلی:",
     "CL_VC_OTA_LATEST_VERSION": "آخرین نسخه:",
     "CL_VC_NAME_LIMIT_ERROR": "محدود به ۲ تا ۲۰ کاراکتر.",
-    "CL_VC_NAME_LIMIT_HINT": "محدود به ۲ تا ۲۰ کاراکتر."
+    "CL_VC_NAME_LIMIT_HINT": "محدود به ۲ تا ۲۰ کاراکتر.",
+    "CL_CF_pp_about_tips": "سیاست پردازش داده‌های شخصی در اینترنت",
+    "CL_CF_consent_about_tips": "رضایت به پردازش داده‌های شخصی",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "لطفاً برای جستجوی دستگاه‌های بلوتوث، کلید مکان‌یابی سیستم را روشن کنید.",
+    "CL_VC_FUNC_FIND_HEADSET": "هدفون را پیدا کنید"
 }

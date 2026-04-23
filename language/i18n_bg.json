@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Управление с жестове",
     "CL_VC_FUNC_ENDURANCE_MODE": "Режим на батерията",
     "CL_VC_FUNC_MORE_SETTING": "Още настройки",
-    "CL_VC_FUNC_FIND_HEADSET": "Намерете слушалките",
     "CL_VC_FUNC_OTA_UPDATE": "Актуализация на фърмуера",
     "CL_VC_FUNC_ABOUT_DEVICE": "Относно устройството",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Докоснете два пъти",
@@ -8426,5 +8425,9 @@
     "CL_VC_OTA_CURRENT_VERSION": "Текуща версия:",
     "CL_VC_OTA_LATEST_VERSION": "Последна версия:",
     "CL_VC_NAME_LIMIT_ERROR": "Ограничение от 2 до 20 знака.",
-    "CL_VC_NAME_LIMIT_HINT": "Ограничение от 2 до 20 знака."
+    "CL_VC_NAME_LIMIT_HINT": "Ограничение от 2 до 20 знака.",
+    "CL_CF_pp_about_tips": "Политика за обработка на лични данни в интернет",
+    "CL_CF_consent_about_tips": "Съгласие за обработка на лични данни",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Моля, включете превключвателя за системно местоположение, за да търсите Bluetooth устройства.",
+    "CL_VC_FUNC_FIND_HEADSET": "Намерете слушалката"
 }
