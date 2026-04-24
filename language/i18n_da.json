@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Bevægelseskontrol",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batteritilstand",
     "CL_VC_FUNC_MORE_SETTING": "Flere indstillinger",
-    "CL_VC_FUNC_FIND_HEADSET": "Find hovedtelefonerne",
     "CL_VC_FUNC_OTA_UPDATE": "Firmwareopdatering",
     "CL_VC_FUNC_ABOUT_DEVICE": "Om enheden",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tryk to gange",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Nuværende version:",
     "CL_VC_OTA_LATEST_VERSION": "Seneste version:",
     "CL_VC_NAME_LIMIT_ERROR": "Begrænsning på 2-20 tegn.",
-    "CL_VC_NAME_LIMIT_HINT": "Begrænsning på 2-20 tegn."
+    "CL_VC_NAME_LIMIT_HINT": "Begrænsning på 2-20 tegn.",
+    "CL_CF_pp_about_tips": "Politik for behandling af personoplysninger på internettet",
+    "CL_CF_consent_about_tips": "Samtykke til behandling af personoplysninger",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Slå systemplaceringsknappen til for at søge efter Bluetooth-apparater.",
+    "CL_VC_FUNC_FIND_HEADSET": "Find høretelefonerne",
+    "CL_CF_energy_energy_target_not_set": "Energimål ikke fastsat",
+    "CL_CF_energy_set_energy_target_tip": "For at aktivere denne funktion skal du indstille dit energimål.",
+    "CL_ENERGY_MD_go_set": "Gå til indstilling af energimål",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Sørg for, at din enhed er slukket.\nHvis Wi-Fi-symbolet allerede lyser, skal du springe dette trin over og gå til trin 2.\nHvis Wi-Fi-symbolet ikke lyser, skal du trykke på Wi-Fi-tasten for at aktivere Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Tryk og hold Wi-Fi-tasten nede i 3 sekunder, indtil Wi-Fi og tallet 1 begynder at blinke. Enhedens netværk er nu åbent for forbindelse i 5 minutter. \n Klik på NÆSTE for at fortsætte.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Sørg for, at din enhed er slukket.\nHvis Wi-Fi-symbolet allerede lyser, skal du springe dette trin over og gå til trin 2.\nHvis Wi-Fi-symbolet ikke lyser, skal du trykke på Wi-Fi-tasten for at aktivere Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Tryk og hold Wi-Fi-tasten nede i 6 sekunder, indtil Wi-Fi og tallet 2 begynder at blinke. Enheden er nu klar til parring i 3 minutter.\nKlik på NÆSTE for at fortsætte."
 }

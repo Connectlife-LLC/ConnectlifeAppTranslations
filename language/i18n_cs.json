@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Ovládání gesty",
     "CL_VC_FUNC_ENDURANCE_MODE": "Režim baterie",
     "CL_VC_FUNC_MORE_SETTING": "Další nastavení",
-    "CL_VC_FUNC_FIND_HEADSET": "Najděte si sluchátka",
     "CL_VC_FUNC_OTA_UPDATE": "Aktualizace firmwaru",
     "CL_VC_FUNC_ABOUT_DEVICE": "O zařízení",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Dvakrát klepněte",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Aktuální verze:",
     "CL_VC_OTA_LATEST_VERSION": "Nejnovější verze:",
     "CL_VC_NAME_LIMIT_ERROR": "Limit 2–20 znaků.",
-    "CL_VC_NAME_LIMIT_HINT": "Limit 2–20 znaků."
+    "CL_VC_NAME_LIMIT_HINT": "Limit 2–20 znaků.",
+    "CL_CF_pp_about_tips": "Zásady zpracování osobních údajů na internetu",
+    "CL_CF_consent_about_tips": "Souhlas se zpracováním osobních údajů",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Pro vyhledání zařízení Bluetooth zapněte přepínač polohy systému.",
+    "CL_VC_FUNC_FIND_HEADSET": "Najděte sluchátko",
+    "CL_CF_energy_energy_target_not_set": "Energetický cíl nebyl stanoven",
+    "CL_CF_energy_set_energy_target_tip": "Chcete-li tuto funkci aktivovat, musíte si nastavit cílovou hodnotu energie.",
+    "CL_ENERGY_MD_go_set": "Přejít k nastavení energetického cíle",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Ujistěte se, že je vaše zařízení vypnuté.\nPokud symbol Wi-Fi již svítí, tento krok přeskočte a přejděte ke kroku 2.\nPokud symbol Wi-Fi nesvítí, klepnutím na tlačítko Wi-Fi povolte Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Klepněte a podržte tlačítko Wi-Fi po dobu 3 sekund, dokud nezačne blikat Wi-Fi a číslo 1. Síť zařízení je nyní otevřená pro připojení po dobu 5 minut. \n Klikněte na DALŠÍ pro pokračování.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Ujistěte se, že je vaše zařízení vypnuté.\nPokud symbol Wi-Fi již svítí, tento krok přeskočte a přejděte ke kroku 2.\nPokud symbol Wi-Fi nesvítí, klepnutím na tlačítko Wi-Fi povolte Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Klepněte a podržte tlačítko Wi-Fi po dobu 6 sekund, dokud nezačne blikat Wi-Fi a číslo 2. Zařízení je nyní připraveno k párování po dobu 3 minut.\nKlikněte na DALŠÍ pro pokračování."
 }

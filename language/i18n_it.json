@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Controllo gestuale",
     "CL_VC_FUNC_ENDURANCE_MODE": "Modalità batteria",
     "CL_VC_FUNC_MORE_SETTING": "Altre impostazioni",
-    "CL_VC_FUNC_FIND_HEADSET": "Trova le cuffie",
     "CL_VC_FUNC_OTA_UPDATE": "Aggiornamento del firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "Informazioni sul dispositivo",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tocca due volte",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versione corrente:",
     "CL_VC_OTA_LATEST_VERSION": "Versione più recente:",
     "CL_VC_NAME_LIMIT_ERROR": "Limite di 2-20 caratteri.",
-    "CL_VC_NAME_LIMIT_HINT": "Limite di 2-20 caratteri."
+    "CL_VC_NAME_LIMIT_HINT": "Limite di 2-20 caratteri.",
+    "CL_CF_pp_about_tips": "Informativa sul trattamento dei dati personali su Internet",
+    "CL_CF_consent_about_tips": "Consenso al trattamento dei dati personali",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Attiva l'interruttore di localizzazione del sistema per cercare i dispositivi Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Trova l'auricolare",
+    "CL_CF_energy_energy_target_not_set": "Obiettivo energetico non impostato",
+    "CL_CF_energy_set_energy_target_tip": "Per abilitare questa funzione, è necessario impostare il proprio obiettivo energetico.",
+    "CL_ENERGY_MD_go_set": "Vai a Imposta obiettivo energetico",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Assicurati che il dispositivo sia spento.\nSe l'icona del Wi-Fi è già accesa, salta questo passaggio e passa al passaggio 2.\nSe l'icona del Wi-Fi non è illuminata, tocca il tasto Wi-Fi per attivare il Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Tieni premuto il tasto Wi-Fi per 3 secondi finché il Wi-Fi e il numero 1 non iniziano a lampeggiare. La rete del dispositivo è ora aperta e disponibile per la connessione per 5 minuti. \n Fai clic su AVANTI per continuare.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Assicurati che il dispositivo sia spento.\nSe l'icona del Wi-Fi è già accesa, salta questo passaggio e passa al passaggio 2.\nSe l'icona del Wi-Fi non è illuminata, tocca il tasto Wi-Fi per attivare il Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Tieni premuto il tasto Wi-Fi per 6 secondi finché il Wi-Fi e il numero 2 non iniziano a lampeggiare. Il dispositivo è ora pronto per l'accoppiamento per 3 minuti.\nFai clic su AVANTI per continuare."
 }

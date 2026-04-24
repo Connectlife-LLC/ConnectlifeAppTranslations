@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "手勢控制",
     "CL_VC_FUNC_ENDURANCE_MODE": "電池模式",
     "CL_VC_FUNC_MORE_SETTING": "更多設定",
-    "CL_VC_FUNC_FIND_HEADSET": "找到耳機",
     "CL_VC_FUNC_OTA_UPDATE": "韌體更新",
     "CL_VC_FUNC_ABOUT_DEVICE": "關於設備",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "兩擊",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "目前版本：",
     "CL_VC_OTA_LATEST_VERSION": "最新版本：",
     "CL_VC_NAME_LIMIT_ERROR": "字數限制為 2-20 個字元。",
-    "CL_VC_NAME_LIMIT_HINT": "字數限制為2-20個字元。"
+    "CL_VC_NAME_LIMIT_HINT": "字數限制為2-20個字元。",
+    "CL_CF_pp_about_tips": "網路個人資料處理政策",
+    "CL_CF_consent_about_tips": "同意處理個人數據",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "請開啟系統定位開關以搜尋藍牙設備。",
+    "CL_VC_FUNC_FIND_HEADSET": "找到耳機",
+    "CL_CF_energy_energy_target_not_set": "能源目標未設定",
+    "CL_CF_energy_set_energy_target_tip": "若要啟用此功能，您需要設定能源目標。",
+    "CL_ENERGY_MD_go_set": "前往設定能量目標",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "請確保您的設備已關機。\n如果 Wi-Fi 符號已亮起，請跳過此步驟並前往步驟 2。\n如果 Wi-Fi 符號未亮起，請點選 Wi-Fi 鍵啟用 Wi-Fi。",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "按住 Wi-Fi 鍵 3 秒鐘，直到 Wi-Fi 指示燈和數字 1 開始閃爍。設備網路現已開放連接，有效期限為 5 分鐘。 \n點選“下一步”繼續。",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "請確保您的設備已關機。\n如果 Wi-Fi 符號已亮起，請跳過此步驟並前往步驟 2。\n如果 Wi-Fi 圖示未亮起，請點選 Wi-Fi 鍵啟用 Wi-Fi。",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "按住 Wi-Fi 鍵 6 秒鐘，直到 Wi-Fi 指示燈和數字 2 開始閃爍。設備現在已準備好進行配對，等待 3 分鐘。\n點選“下一步”繼續。"
 }

@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Điều khiển bằng cử chỉ",
     "CL_VC_FUNC_ENDURANCE_MODE": "Chế độ pin",
     "CL_VC_FUNC_MORE_SETTING": "Thêm cài đặt",
-    "CL_VC_FUNC_FIND_HEADSET": "Tìm tai nghe",
     "CL_VC_FUNC_OTA_UPDATE": "Cập nhật phần mềm",
     "CL_VC_FUNC_ABOUT_DEVICE": "Giới thiệu về thiết bị",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Chạm hai lần",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Phiên bản hiện tại:",
     "CL_VC_OTA_LATEST_VERSION": "Phiên bản mới nhất:",
     "CL_VC_NAME_LIMIT_ERROR": "Giới hạn 2-20 ký tự.",
-    "CL_VC_NAME_LIMIT_HINT": "Giới hạn 2-20 ký tự."
+    "CL_VC_NAME_LIMIT_HINT": "Giới hạn 2-20 ký tự.",
+    "CL_CF_pp_about_tips": "Chính sách xử lý dữ liệu cá nhân trên Internet",
+    "CL_CF_consent_about_tips": "Sự đồng ý cho phép xử lý dữ liệu cá nhân",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Vui lòng bật công tắc định vị hệ thống để tìm kiếm các thiết bị Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Tìm tai nghe",
+    "CL_CF_energy_energy_target_not_set": "Mục tiêu năng lượng chưa được thiết lập",
+    "CL_CF_energy_set_energy_target_tip": "Để kích hoạt tính năng này, bạn cần thiết lập Mục tiêu Năng lượng của mình.",
+    "CL_ENERGY_MD_go_set": "Vào phần thiết lập mục tiêu năng lượng",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Hãy đảm bảo thiết bị của bạn đã được tắt.\nNếu biểu tượng Wi-Fi đã sáng, hãy bỏ qua bước này và chuyển sang Bước 2.\nNếu biểu tượng Wi-Fi không sáng, hãy nhấn vào biểu tượng Wi-Fi để bật Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Nhấn giữ phím Wi-Fi trong 3 giây cho đến khi biểu tượng Wi-Fi và số 1 bắt đầu nhấp nháy. Mạng của thiết bị hiện đã được mở để kết nối trong 5 phút. \n Nhấn TIẾP THEO để tiếp tục.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Hãy đảm bảo thiết bị của bạn đã được tắt.\nNếu biểu tượng Wi-Fi đã sáng, hãy bỏ qua bước này và chuyển sang Bước 2.\nNếu biểu tượng Wi-Fi không sáng, hãy nhấn vào biểu tượng Wi-Fi để bật Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Nhấn và giữ phím Wi-Fi trong 6 giây cho đến khi biểu tượng Wi-Fi và số 2 bắt đầu nhấp nháy. Thiết bị hiện đã sẵn sàng để ghép nối trong 3 phút.\nNhấn TIẾP THEO để tiếp tục."
 }

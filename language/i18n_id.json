@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Kontrol Gerakan",
     "CL_VC_FUNC_ENDURANCE_MODE": "Mode Baterai",
     "CL_VC_FUNC_MORE_SETTING": "Pengaturan Lainnya",
-    "CL_VC_FUNC_FIND_HEADSET": "Cari headphone-nya",
     "CL_VC_FUNC_OTA_UPDATE": "Pembaruan Firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "Tentang Perangkat",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Ketuk dua kali",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versi saat ini:",
     "CL_VC_OTA_LATEST_VERSION": "Versi terbaru:",
     "CL_VC_NAME_LIMIT_ERROR": "Batasan 2-20 karakter.",
-    "CL_VC_NAME_LIMIT_HINT": "Batasan 2-20 karakter."
+    "CL_VC_NAME_LIMIT_HINT": "Batasan 2-20 karakter.",
+    "CL_CF_pp_about_tips": "Kebijakan Pemrosesan Data Pribadi di Internet",
+    "CL_CF_consent_about_tips": "Persetujuan untuk Pemrosesan Data Pribadi",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Silakan aktifkan sakelar lokasi sistem untuk mencari perangkat Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Cari earphonenya",
+    "CL_CF_energy_energy_target_not_set": "Target energi belum ditetapkan.",
+    "CL_CF_energy_set_energy_target_tip": "Untuk mengaktifkan fitur ini, Anda perlu mengatur Target Energi Anda.",
+    "CL_ENERGY_MD_go_set": "Buka pengaturan Target Energi",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Pastikan perangkat Anda dimatikan.\nJika simbol Wi-Fi sudah menyala, lewati langkah ini dan langsung ke Langkah 2.\nJika simbol Wi-Fi tidak menyala, ketuk tombol Wi-Fi untuk mengaktifkan Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Tekan dan tahan tombol Wi-Fi selama 3 detik hingga logo Wi-Fi dan angka 1 mulai berkedip. Jaringan perangkat sekarang terbuka untuk koneksi selama 5 menit. \n Klik BERIKUTNYA untuk melanjutkan.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Pastikan perangkat Anda dimatikan.\nJika simbol Wi-Fi sudah menyala, lewati langkah ini dan langsung ke Langkah 2.\nJika simbol Wi-Fi tidak menyala, ketuk tombol Wi-Fi untuk mengaktifkan Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Tekan dan tahan tombol Wi-Fi selama 6 detik hingga logo Wi-Fi dan angka 2 mulai berkedip. Perangkat kini siap untuk dipasangkan selama 3 menit.\nKlik BERIKUTNYA untuk melanjutkan."
 }

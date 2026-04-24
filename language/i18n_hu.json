@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Gesztusvezérlés",
     "CL_VC_FUNC_ENDURANCE_MODE": "Akkumulátor üzemmód",
     "CL_VC_FUNC_MORE_SETTING": "További beállítások",
-    "CL_VC_FUNC_FIND_HEADSET": "Keresd meg a fejhallgatót",
     "CL_VC_FUNC_OTA_UPDATE": "Firmware frissítés",
     "CL_VC_FUNC_ABOUT_DEVICE": "Az eszközről",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Koppintson kétszer",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Jelenlegi verzió:",
     "CL_VC_OTA_LATEST_VERSION": "Legújabb verzió:",
     "CL_VC_NAME_LIMIT_ERROR": "Maximum 2-20 karakter.",
-    "CL_VC_NAME_LIMIT_HINT": "Maximum 2-20 karakter."
+    "CL_VC_NAME_LIMIT_HINT": "Maximum 2-20 karakter.",
+    "CL_CF_pp_about_tips": "Személyes adatok internetes feldolgozási szabályzata",
+    "CL_CF_consent_about_tips": "Hozzájárulás a személyes adatok feldolgozásához",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Kapcsolja be a rendszer helymeghatározó kapcsolóját a Bluetooth-eszközök kereséséhez.",
+    "CL_VC_FUNC_FIND_HEADSET": "Keresd meg a fülhallgatót",
+    "CL_CF_energy_energy_target_not_set": "Energiacél nincs beállítva",
+    "CL_CF_energy_set_energy_target_tip": "A funkció engedélyezéséhez be kell állítania az Energiacélját.",
+    "CL_ENERGY_MD_go_set": "Ugrás az Energiacél beállításához",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Győződjön meg róla, hogy a készülék ki van kapcsolva.\nHa a Wi-Fi szimbólum már világít, hagyja ki ezt a lépést, és folytassa a 2. lépéssel.\nHa a Wi-Fi szimbólum nem világít, koppintson a Wi-Fi gombra a Wi-Fi engedélyezéséhez.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Érintse meg és tartsa lenyomva a Wi-Fi gombot 3 másodpercig, amíg a Wi-Fi és az 1-es szám villogni nem kezd. Az eszköz hálózata most 5 percig csatlakozhat. \n A folytatáshoz kattintson a KÖVETKEZŐ gombra.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Győződjön meg róla, hogy a készülék ki van kapcsolva.\nHa a Wi-Fi szimbólum már világít, hagyja ki ezt a lépést, és folytassa a 2. lépéssel.\nHa a Wi-Fi szimbólum nem világít, koppintson a Wi-Fi gombra a Wi-Fi engedélyezéséhez.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Érintse meg és tartsa lenyomva a Wi-Fi gombot 6 másodpercig, amíg a Wi-Fi és a 2-es szám villogni nem kezd. Az eszköz most 3 percig párosítható.\nA folytatáshoz kattintson a KÖVETKEZŐ gombra."
 }

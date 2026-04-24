@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Gestensteuerung",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batteriemodus",
     "CL_VC_FUNC_MORE_SETTING": "Weitere Einstellungen",
-    "CL_VC_FUNC_FIND_HEADSET": "Finde die Kopfhörer",
     "CL_VC_FUNC_OTA_UPDATE": "Firmware-Update",
     "CL_VC_FUNC_ABOUT_DEVICE": "Über das Gerät",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Zweimal tippen",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Aktuelle Version:",
     "CL_VC_OTA_LATEST_VERSION": "Neueste Version:",
     "CL_VC_NAME_LIMIT_ERROR": "Beschränken Sie die Länge auf 2-20 Zeichen.",
-    "CL_VC_NAME_LIMIT_HINT": "Beschränken Sie die Länge auf 2-20 Zeichen."
+    "CL_VC_NAME_LIMIT_HINT": "Beschränken Sie die Länge auf 2-20 Zeichen.",
+    "CL_CF_pp_about_tips": "Richtlinie zur Verarbeitung personenbezogener Daten im Internet",
+    "CL_CF_consent_about_tips": "Einwilligung zur Verarbeitung personenbezogener Daten",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Bitte schalten Sie den Systemstandortschalter ein, um nach Bluetooth-Geräten zu suchen.",
+    "CL_VC_FUNC_FIND_HEADSET": "Finde den Kopfhörer",
+    "CL_CF_energy_energy_target_not_set": "Energieziel nicht festgelegt",
+    "CL_CF_energy_set_energy_target_tip": "Um diese Funktion zu aktivieren, müssen Sie Ihr Energieziel festlegen.",
+    "CL_ENERGY_MD_go_set": "Gehen Sie zu „Energieziel festlegen“.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Vergewissern Sie sich, dass Ihr Gerät ausgeschaltet ist.\nLeuchtet das Wi-Fi-Symbol bereits, überspringen Sie diesen Schritt und fahren Sie mit Schritt 2 fort.\nLeuchtet das Wi-Fi-Symbol nicht, tippen Sie auf die Wi-Fi-Taste, um Wi-Fi zu aktivieren.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Halten Sie die WLAN-Taste 3 Sekunden lang gedrückt, bis die WLAN-Anzeige und die Zahl 1 blinken. Das Gerät ist nun für 5 Minuten netzwerkbereit. \n Klicken Sie auf WEITER, um fortzufahren.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Vergewissern Sie sich, dass Ihr Gerät ausgeschaltet ist.\nLeuchtet das Wi-Fi-Symbol bereits, überspringen Sie diesen Schritt und fahren Sie mit Schritt 2 fort.\nLeuchtet das Wi-Fi-Symbol nicht, tippen Sie auf die Wi-Fi-Taste, um Wi-Fi zu aktivieren.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Halten Sie die WLAN-Taste 6 Sekunden lang gedrückt, bis die WLAN-Anzeige und die Zahl 2 blinken. Das Gerät ist nun 3 Minuten lang bereit zum Koppeln.\nKlicken Sie auf WEITER, um fortzufahren."
 }

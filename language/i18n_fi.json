@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Eleohjaus",
     "CL_VC_FUNC_ENDURANCE_MODE": "Akkutila",
     "CL_VC_FUNC_MORE_SETTING": "Lisää asetuksia",
-    "CL_VC_FUNC_FIND_HEADSET": "Etsi kuulokkeet",
     "CL_VC_FUNC_OTA_UPDATE": "Laiteohjelmistopäivitys",
     "CL_VC_FUNC_ABOUT_DEVICE": "Tietoja laitteesta",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Napauta kahdesti",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Nykyinen versio:",
     "CL_VC_OTA_LATEST_VERSION": "Uusin versio:",
     "CL_VC_NAME_LIMIT_ERROR": "Raja 2–20 merkkiä.",
-    "CL_VC_NAME_LIMIT_HINT": "Raja 2–20 merkkiä."
+    "CL_VC_NAME_LIMIT_HINT": "Raja 2–20 merkkiä.",
+    "CL_CF_pp_about_tips": "Henkilötietojen käsittelykäytäntö internetissä",
+    "CL_CF_consent_about_tips": "Suostumus henkilötietojen käsittelyyn",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Ota järjestelmän sijainti käyttöön kytkimellä etsiäksesi Bluetooth-laitteita.",
+    "CL_VC_FUNC_FIND_HEADSET": "Etsi kuulokkeet",
+    "CL_CF_energy_energy_target_not_set": "Energiatavoitetta ei ole asetettu",
+    "CL_CF_energy_set_energy_target_tip": "Jotta voit ottaa tämän ominaisuuden käyttöön, sinun on asetettava energiatavoitteesi.",
+    "CL_ENERGY_MD_go_set": "Siirry energiatavoitteen asettamiseen",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Varmista, että laitteesi on sammutettu.\nJos Wi-Fi-symboli palaa jo, ohita tämä vaihe ja siirry vaiheeseen 2.\nJos Wi-Fi-symboli ei pala, ota Wi-Fi käyttöön napauttamalla Wi-Fi-näppäintä.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Napauta ja pidä Wi-Fi-näppäintä painettuna 3 sekunnin ajan, kunnes Wi-Fi ja numero 1 alkavat vilkkua. Laitteen verkko on nyt avoinna yhteydelle 5 minuutiksi. \n Jatka napsauttamalla SEURAAVA.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Varmista, että laitteesi on sammutettu.\nJos Wi-Fi-symboli palaa jo, ohita tämä vaihe ja siirry vaiheeseen 2.\nJos Wi-Fi-symboli ei pala, ota Wi-Fi käyttöön napauttamalla Wi-Fi-näppäintä.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Napauta Wi-Fi-näppäintä ja pidä sitä painettuna 6 sekuntia, kunnes Wi-Fi ja numero 2 alkavat vilkkua. Laite on nyt valmis pariliitokseen 3 minuutin ajan.\nJatka napsauttamalla SEURAAVA."
 }

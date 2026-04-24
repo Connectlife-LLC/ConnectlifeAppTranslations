@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Gestkontroll",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batteriläge",
     "CL_VC_FUNC_MORE_SETTING": "Fler inställningar",
-    "CL_VC_FUNC_FIND_HEADSET": "Hitta hörlurarna",
     "CL_VC_FUNC_OTA_UPDATE": "Uppdatering av firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "Om enheten",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tryck två gånger",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Aktuell version:",
     "CL_VC_OTA_LATEST_VERSION": "Senaste versionen:",
     "CL_VC_NAME_LIMIT_ERROR": "Begränsa 2–20 tecken.",
-    "CL_VC_NAME_LIMIT_HINT": "Begränsa 2–20 tecken."
+    "CL_VC_NAME_LIMIT_HINT": "Begränsa 2–20 tecken.",
+    "CL_CF_pp_about_tips": "Policy för personuppgiftsbehandling på internet",
+    "CL_CF_consent_about_tips": "Samtycke till behandling av personuppgifter",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Slå på systemplatsknappen för att söka efter Bluetooth-enheter.",
+    "CL_VC_FUNC_FIND_HEADSET": "Hitta hörlurarna",
+    "CL_CF_energy_energy_target_not_set": "Energimål inte satt",
+    "CL_CF_energy_set_energy_target_tip": "För att aktivera den här funktionen måste du ställa in ditt energimål.",
+    "CL_ENERGY_MD_go_set": "Gå till ställa in energimål",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Se till att din enhet är avstängd.\nOm Wi-Fi-symbolen redan lyser, hoppa över det här steget och gå till steg 2.\nOm Wi-Fi-symbolen inte lyser, tryck på Wi-Fi-knappen för att aktivera Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Håll Wi-Fi-knappen intryckt i 3 sekunder tills Wi-Fi och siffran 1 börjar blinka. Enhetens nätverk är nu öppet för anslutning i 5 minuter. \n Klicka på NÄSTA för att fortsätta.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Se till att din enhet är avstängd.\nOm Wi-Fi-symbolen redan lyser, hoppa över det här steget och gå till steg 2.\nOm Wi-Fi-symbolen inte lyser, tryck på Wi-Fi-knappen för att aktivera Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Håll Wi-Fi-knappen intryckt i 6 sekunder tills Wi-Fi och siffran 2 börjar blinka. Enheten är nu redo för parkoppling i 3 minuter.\nKlicka på NÄSTA för att fortsätta."
 }

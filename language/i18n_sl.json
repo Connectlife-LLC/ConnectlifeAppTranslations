@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Upravljanje z gestami",
     "CL_VC_FUNC_ENDURANCE_MODE": "Način baterije",
     "CL_VC_FUNC_MORE_SETTING": "Več nastavitev",
-    "CL_VC_FUNC_FIND_HEADSET": "Poiščite slušalke",
     "CL_VC_FUNC_OTA_UPDATE": "Posodobitev vdelane programske opreme",
     "CL_VC_FUNC_ABOUT_DEVICE": "O napravi",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Dvakrat tapnite",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Trenutna različica:",
     "CL_VC_OTA_LATEST_VERSION": "Najnovejša različica:",
     "CL_VC_NAME_LIMIT_ERROR": "Omejitev 2–20 znakov.",
-    "CL_VC_NAME_LIMIT_HINT": "Omejitev 2–20 znakov."
+    "CL_VC_NAME_LIMIT_HINT": "Omejitev 2–20 znakov.",
+    "CL_CF_pp_about_tips": "Politika obdelave osebnih podatkov na internetu",
+    "CL_CF_consent_about_tips": "Soglasje za obdelavo osebnih podatkov",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Za iskanje naprav Bluetooth vklopite stikalo za lokacijo sistema.",
+    "CL_VC_FUNC_FIND_HEADSET": "Poiščite slušalko",
+    "CL_CF_energy_energy_target_not_set": "Energetski cilj ni določen",
+    "CL_CF_energy_set_energy_target_tip": "Če želite omogočiti to funkcijo, morate nastaviti svoj energijski cilj.",
+    "CL_ENERGY_MD_go_set": "Pojdi na nastavitev energijskega cilja",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Prepričajte se, da je vaša naprava izklopljena. \n Če simbol Wi-Fi že sveti, preskočite ta korak in nadaljujte z 2. korakom. \n Če simbol Wi-Fi ne sveti, tapnite tipko Wi-Fi, da omogočite Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Dotaknite se tipke Wi-Fi in jo držite 3 sekunde, dokler ne začneta utripati Wi-Fi in številka 1. Omrežje naprave je zdaj odprto za povezavo 5 minut. \n Za nadaljevanje kliknite NAPREJ.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Prepričajte se, da je vaša naprava izklopljena. \n Če simbol Wi-Fi že sveti, preskočite ta korak in nadaljujte z 2. korakom. \n Če simbol Wi-Fi ne sveti, tapnite tipko Wi-Fi, da omogočite Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Dotaknite se tipke Wi-Fi in jo držite 6 sekund, dokler ne začneta utripati Wi-Fi in številka 2. Naprava je zdaj pripravljena za seznanjanje 3 minute. \n Za nadaljevanje kliknite NAPREJ."
 }

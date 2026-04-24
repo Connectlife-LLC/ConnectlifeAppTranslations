@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Upravljanje gestama",
     "CL_VC_FUNC_ENDURANCE_MODE": "Način rada baterije",
     "CL_VC_FUNC_MORE_SETTING": "Više postavki",
-    "CL_VC_FUNC_FIND_HEADSET": "Pronađite slušalice",
     "CL_VC_FUNC_OTA_UPDATE": "Ažuriranje firmvera",
     "CL_VC_FUNC_ABOUT_DEVICE": "O uređaju",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Dodirnite dvaput",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Trenutna verzija:",
     "CL_VC_OTA_LATEST_VERSION": "Najnovija verzija:",
     "CL_VC_NAME_LIMIT_ERROR": "Ograničenje 2-20 znakova.",
-    "CL_VC_NAME_LIMIT_HINT": "Ograničenje 2-20 znakova."
+    "CL_VC_NAME_LIMIT_HINT": "Ograničenje 2-20 znakova.",
+    "CL_CF_pp_about_tips": "Politika obrade osobnih podataka na internetu",
+    "CL_CF_consent_about_tips": "Privola za obradu osobnih podataka",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Uključite prekidač za lokaciju sustava kako biste pretražili Bluetooth uređaje.",
+    "CL_VC_FUNC_FIND_HEADSET": "Pronađite slušalicu",
+    "CL_CF_energy_energy_target_not_set": "Energetski cilj nije postavljen",
+    "CL_CF_energy_set_energy_target_tip": "Da biste omogućili ovu značajku, morate postaviti svoj energetski cilj.",
+    "CL_ENERGY_MD_go_set": "Idi na postavljanje energetskog cilja",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Provjerite je li vaš uređaj isključen.\nAko simbol Wi-Fi već svijetli, preskočite ovaj korak i prijeđite na 2. korak.\nAko simbol Wi-Fi mreže ne svijetli, dodirnite tipku Wi-Fi da biste omogućili Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Dodirnite i držite tipku Wi-Fi 3 sekunde dok Wi-Fi i broj 1 ne počnu treptati. Mreža uređaja sada je otvorena za povezivanje 5 minuta. \n Kliknite DALJE za nastavak.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Provjerite je li vaš uređaj isključen.\nAko simbol Wi-Fi već svijetli, preskočite ovaj korak i prijeđite na 2. korak.\nAko simbol Wi-Fi mreže ne svijetli, dodirnite tipku Wi-Fi da biste omogućili Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Dodirnite i držite tipku Wi-Fi 6 sekundi dok Wi-Fi i broj 2 ne počnu treptati. Uređaj je sada spreman za uparivanje 3 minute.\nKliknite DALJE za nastavak."
 }
