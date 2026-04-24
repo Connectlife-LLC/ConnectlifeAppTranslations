@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Gesture Control",
     "CL_VC_FUNC_ENDURANCE_MODE": "Battery Mode",
     "CL_VC_FUNC_MORE_SETTING": "More Settings",
-    "CL_VC_FUNC_FIND_HEADSET": "Find the HiClip",
     "CL_VC_FUNC_OTA_UPDATE": "Firmware Update",
     "CL_VC_FUNC_ABOUT_DEVICE": "About Device",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tap twice",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Current version:",
     "CL_VC_OTA_LATEST_VERSION": "Latest version:",
     "CL_VC_NAME_LIMIT_ERROR": "Limit 2-20 characters.",
-    "CL_VC_NAME_LIMIT_HINT": "Limit 2-20 characters."
+    "CL_VC_NAME_LIMIT_HINT": "Limit 2-20 characters.",
+    "CL_CF_pp_about_tips": "Personal Data Processing Policy on the Internet",
+    "CL_CF_consent_about_tips": "Consent to the Processing of Personal Data",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Please turn on the system location switch to search for Bluetooth appliances.",
+    "CL_VC_FUNC_FIND_HEADSET": "Find the earphone",
+    "CL_CF_energy_energy_target_not_set": "Energy Target not set",
+    "CL_CF_energy_set_energy_target_tip": "To enable this feature, you need to set your Energy Target.​​",
+    "CL_ENERGY_MD_go_set": "Go to set Energy Target",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Make sure your device is turned off.\nIf the Wi-Fi symbol is already lit, skip this step and go to Step 2.\nIf the Wi-Fi symbol is not lit up, tap the Wi-Fi key to enable the Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Tap and hold the Wi-Fi key for 3 seconds until the Wi-Fi and number 1 start to blink.\u2028The device network is now open for connection for 5 minutes. \nClick NEXT to continue.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Make sure your device is turned off.\nIf the Wi-Fi symbol is already lit, skip this step and go to Step 2.\nIf the Wi-Fi symbol is not lit up, tap the Wi-Fi key to enable the Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Tap and hold the Wi-Fi key for 6 seconds until the Wi-Fi and number 2 start to blink.\u2028The device is now ready for pairing for 3 minutes.\nClick NEXT to continue."
 }

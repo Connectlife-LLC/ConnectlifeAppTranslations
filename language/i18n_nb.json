@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Bevegelseskontroll",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batterimodus",
     "CL_VC_FUNC_MORE_SETTING": "Flere innstillinger",
-    "CL_VC_FUNC_FIND_HEADSET": "Finn hodetelefonene",
     "CL_VC_FUNC_OTA_UPDATE": "Fastvareoppdatering",
     "CL_VC_FUNC_ABOUT_DEVICE": "Om enheten",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Trykk to ganger",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Gjeldende versjon:",
     "CL_VC_OTA_LATEST_VERSION": "Siste versjon:",
     "CL_VC_NAME_LIMIT_ERROR": "Begrenset til 2–20 tegn.",
-    "CL_VC_NAME_LIMIT_HINT": "Begrenset til 2–20 tegn."
+    "CL_VC_NAME_LIMIT_HINT": "Begrenset til 2–20 tegn.",
+    "CL_CF_pp_about_tips": "Retningslinjer for behandling av personopplysninger på internett",
+    "CL_CF_consent_about_tips": "Samtykke til behandling av personopplysninger",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Slå på systemplasseringsbryteren for å søke etter Bluetooth-apparater.",
+    "CL_VC_FUNC_FIND_HEADSET": "Finn øretelefonen",
+    "CL_CF_energy_energy_target_not_set": "Energimål ikke satt",
+    "CL_CF_energy_set_energy_target_tip": "For å aktivere denne funksjonen må du angi energimålet ditt.",
+    "CL_ENERGY_MD_go_set": "Gå til angi energimål",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Sørg for at enheten din er slått av.\nHvis Wi-Fi-symbolet allerede lyser, hopper du over dette trinnet og går til trinn 2.\nHvis Wi-Fi-symbolet ikke lyser, trykk på Wi-Fi-tasten for å aktivere Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Trykk og hold inne Wi-Fi-tasten i 3 sekunder til Wi-Fi og tallet 1 begynner å blinke. Enhetens nettverk er nå åpent for tilkobling i 5 minutter. \n Klikk på NESTE for å fortsette.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Sørg for at enheten din er slått av.\nHvis Wi-Fi-symbolet allerede lyser, hopper du over dette trinnet og går til trinn 2.\nHvis Wi-Fi-symbolet ikke lyser, trykk på Wi-Fi-tasten for å aktivere Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Trykk og hold inne Wi-Fi-tasten i 6 sekunder til Wi-Fi og tallet 2 begynner å blinke. Enheten er nå klar for paring i 3 minutter.\nKlikk på NESTE for å fortsette."
 }

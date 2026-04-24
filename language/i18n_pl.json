@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Sterowanie gestami",
     "CL_VC_FUNC_ENDURANCE_MODE": "Tryb bateryjny",
     "CL_VC_FUNC_MORE_SETTING": "Więcej ustawień",
-    "CL_VC_FUNC_FIND_HEADSET": "Znajdź słuchawki",
     "CL_VC_FUNC_OTA_UPDATE": "Aktualizacja oprogramowania sprzętowego",
     "CL_VC_FUNC_ABOUT_DEVICE": "O urządzeniu",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Stuknij dwa razy",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Wersja bieżąca:",
     "CL_VC_OTA_LATEST_VERSION": "Najnowsza wersja:",
     "CL_VC_NAME_LIMIT_ERROR": "Limit 2–20 znaków.",
-    "CL_VC_NAME_LIMIT_HINT": "Limit 2–20 znaków."
+    "CL_VC_NAME_LIMIT_HINT": "Limit 2–20 znaków.",
+    "CL_CF_pp_about_tips": "Polityka przetwarzania danych osobowych w Internecie",
+    "CL_CF_consent_about_tips": "Zgoda na przetwarzanie danych osobowych",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Aby wyszukać urządzenia Bluetooth, włącz przełącznik lokalizacji systemu.",
+    "CL_VC_FUNC_FIND_HEADSET": "Znajdź słuchawkę",
+    "CL_CF_energy_energy_target_not_set": "Cel energetyczny nie został ustalony",
+    "CL_CF_energy_set_energy_target_tip": "Aby włączyć tę funkcję, musisz ustawić swój Cel Energetyczny.​​",
+    "CL_ENERGY_MD_go_set": "Przejdź do ustawienia celu energetycznego",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Upewnij się, że urządzenie jest wyłączone.\nJeśli symbol Wi-Fi już się świeci, pomiń ten krok i przejdź do kroku 2.\nJeśli symbol Wi-Fi się nie świeci, naciśnij przycisk Wi-Fi, aby włączyć Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Naciśnij i przytrzymaj przycisk Wi-Fi przez 3 sekundy, aż ikona Wi-Fi i cyfra 1 zaczną migać. Sieć urządzenia będzie teraz otwarta i gotowa do połączenia przez 5 minut. \n Kliknij DALEJ, aby kontynuować.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Upewnij się, że urządzenie jest wyłączone.\nJeśli symbol Wi-Fi już się świeci, pomiń ten krok i przejdź do kroku 2.\nJeśli symbol Wi-Fi się nie świeci, naciśnij przycisk Wi-Fi, aby włączyć Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Naciśnij i przytrzymaj przycisk Wi-Fi przez 6 sekund, aż ikona Wi-Fi i cyfra 2 zaczną migać. Urządzenie będzie gotowe do sparowania przez 3 minuty.\nKliknij DALEJ, aby kontynuować."
 }

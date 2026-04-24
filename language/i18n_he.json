@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "בקרת מחוות",
     "CL_VC_FUNC_ENDURANCE_MODE": "מצב סוללה",
     "CL_VC_FUNC_MORE_SETTING": "הגדרות נוספות",
-    "CL_VC_FUNC_FIND_HEADSET": "למצוא את האוזניות",
     "CL_VC_FUNC_OTA_UPDATE": "עדכון קושחה",
     "CL_VC_FUNC_ABOUT_DEVICE": "אודות המכשיר",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "הקש פעמיים",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "גרסה נוכחית:",
     "CL_VC_OTA_LATEST_VERSION": "גרסה אחרונה:",
     "CL_VC_NAME_LIMIT_ERROR": "הגבלה של 2-20 תווים.",
-    "CL_VC_NAME_LIMIT_HINT": "הגבלה של 2-20 תווים."
+    "CL_VC_NAME_LIMIT_HINT": "הגבלה של 2-20 תווים.",
+    "CL_CF_pp_about_tips": "מדיניות עיבוד נתונים אישיים באינטרנט",
+    "CL_CF_consent_about_tips": "הסכמה לעיבוד נתונים אישיים",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "אנא הפעל את מתג מיקום המערכת כדי לחפש מכשירי Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "מצא את האוזניות",
+    "CL_CF_energy_energy_target_not_set": "יעד אנרגיה לא נקבע",
+    "CL_CF_energy_set_energy_target_tip": "כדי להפעיל תכונה זו, עליך להגדיר את יעד האנרגיה שלך.",
+    "CL_ENERGY_MD_go_set": "עבור אל הגדרת יעד אנרגיה",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "ודא שהמכשיר שלך כבוי.\nאם סמל ה-Wi-Fi כבר דולק, דלג על שלב זה ועבור לשלב 2.\nאם סמל ה-Wi-Fi אינו דולק, הקש על מקש ה-Wi-Fi כדי להפעיל את ה-Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "הקש והחזק את מקש ה-Wi-Fi למשך 3 שניות עד ש-Wi-Fi והספרה 1 יתחילו להבהב. רשת המכשיר פתוחה כעת לחיבור למשך 5 דקות. \n לחץ על הבא כדי להמשיך.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "ודא שהמכשיר שלך כבוי.\nאם סמל ה-Wi-Fi כבר דולק, דלג על שלב זה ועבור לשלב 2.\nאם סמל ה-Wi-Fi אינו דולק, הקש על מקש ה-Wi-Fi כדי להפעיל את ה-Wi-Fi.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "הקש והחזק את מקש ה-Wi-Fi למשך 6 שניות עד ש-Wi-Fi והספרה 2 יתחילו להבהב. המכשיר מוכן כעת לצימוד למשך 3 דקות.\nלחץ על הבא כדי להמשיך."
 }

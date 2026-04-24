@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Controlul gesturilor",
     "CL_VC_FUNC_ENDURANCE_MODE": "Mod baterie",
     "CL_VC_FUNC_MORE_SETTING": "Mai multe setări",
-    "CL_VC_FUNC_FIND_HEADSET": "Găsește căștile",
     "CL_VC_FUNC_OTA_UPDATE": "Actualizare firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "Despre dispozitiv",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Atingeți de două ori",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versiunea curentă:",
     "CL_VC_OTA_LATEST_VERSION": "Ultima versiune:",
     "CL_VC_NAME_LIMIT_ERROR": "Limită 2-20 de caractere.",
-    "CL_VC_NAME_LIMIT_HINT": "Limită 2-20 de caractere."
+    "CL_VC_NAME_LIMIT_HINT": "Limită 2-20 de caractere.",
+    "CL_CF_pp_about_tips": "Politica de prelucrare a datelor cu caracter personal pe internet",
+    "CL_CF_consent_about_tips": "Consimțământ pentru prelucrarea datelor cu caracter personal",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Vă rugăm să activați comutatorul de locație a sistemului pentru a căuta dispozitive Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Găsește căștile",
+    "CL_CF_energy_energy_target_not_set": "Ținta energetică nu a fost stabilită",
+    "CL_CF_energy_set_energy_target_tip": "Pentru a activa această funcție, trebuie să setați Ținta energetică.",
+    "CL_ENERGY_MD_go_set": "Accesați setarea Țintei Energetice",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Asigurați-vă că dispozitivul este oprit.\nDacă simbolul Wi-Fi este deja aprins, săriți peste acest pas și treceți la Pasul 2.\nDacă simbolul Wi-Fi nu este aprins, atingeți tasta Wi-Fi pentru a activa Wi-Fi-ul.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Atingeți și mențineți apăsată tasta Wi-Fi timp de 3 secunde, până când Wi-Fi și numărul 1 încep să clipească. Rețeaua dispozitivului este acum deschisă pentru conectare timp de 5 minute. \n Faceți clic pe ÎNAINTE pentru a continua.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Asigurați-vă că dispozitivul este oprit.\nDacă simbolul Wi-Fi este deja aprins, săriți peste acest pas și treceți la Pasul 2.\nDacă simbolul Wi-Fi nu este aprins, atingeți tasta Wi-Fi pentru a activa Wi-Fi-ul.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Atingeți și mențineți apăsată tasta Wi-Fi timp de 6 secunde, până când Wi-Fi și numărul 2 încep să clipească. Dispozitivul este acum pregătit pentru asociere timp de 3 minute.\nFaceți clic pe ÎNAINTE pentru a continua."
 }

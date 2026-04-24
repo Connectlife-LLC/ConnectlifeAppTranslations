@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Gebarenbediening",
     "CL_VC_FUNC_ENDURANCE_MODE": "Batterijmodus",
     "CL_VC_FUNC_MORE_SETTING": "Meer instellingen",
-    "CL_VC_FUNC_FIND_HEADSET": "Zoek de koptelefoon",
     "CL_VC_FUNC_OTA_UPDATE": "Firmware-update",
     "CL_VC_FUNC_ABOUT_DEVICE": "Over het apparaat",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Tik twee keer",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Huidige versie:",
     "CL_VC_OTA_LATEST_VERSION": "Laatste versie:",
     "CL_VC_NAME_LIMIT_ERROR": "Maximaal 2-20 tekens.",
-    "CL_VC_NAME_LIMIT_HINT": "Maximaal 2-20 tekens."
+    "CL_VC_NAME_LIMIT_HINT": "Maximaal 2-20 tekens.",
+    "CL_CF_pp_about_tips": "Beleid inzake de verwerking van persoonsgegevens op internet",
+    "CL_CF_consent_about_tips": "Toestemming voor de verwerking van persoonsgegevens",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Schakel de systeemlocatieschakelaar in om naar Bluetooth-apparaten te zoeken.",
+    "CL_VC_FUNC_FIND_HEADSET": "Zoek de oortelefoon",
+    "CL_CF_energy_energy_target_not_set": "Energiedoelstelling niet vastgesteld",
+    "CL_CF_energy_set_energy_target_tip": "Om deze functie in te schakelen, moet u uw energiedoel instellen.",
+    "CL_ENERGY_MD_go_set": "Ga naar 'Energiedoel instellen'.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Zorg ervoor dat uw apparaat is uitgeschakeld.\nAls het wifi-symbool al brandt, sla deze stap dan over en ga naar stap 2.\nAls het wifi-symbool niet oplicht, tik dan op de wifi-toets om wifi in te schakelen.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Houd de wifi-knop 3 seconden ingedrukt totdat het wifi-symbool en het cijfer 1 beginnen te knipperen. Het apparaatnetwerk is nu 5 minuten lang open voor verbinding. \n Klik op VOLGENDE om verder te gaan.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Zorg ervoor dat uw apparaat is uitgeschakeld.\nAls het wifi-symbool al brandt, sla deze stap dan over en ga naar stap 2.\nAls het wifi-symbool niet oplicht, tik dan op de wifi-toets om wifi in te schakelen.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Tik en houd de Wi-Fi-knop 6 seconden ingedrukt totdat de Wi-Fi-indicator en het cijfer 2 beginnen te knipperen. Het apparaat is nu 3 minuten klaar om te koppelen.\nKlik op VOLGENDE om verder te gaan."
 }

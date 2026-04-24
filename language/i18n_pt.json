@@ -8156,7 +8156,6 @@
     "CL_VC_FUNC_GESTURE_OP": "Controle por gestos",
     "CL_VC_FUNC_ENDURANCE_MODE": "Modo de bateria",
     "CL_VC_FUNC_MORE_SETTING": "Mais configurações",
-    "CL_VC_FUNC_FIND_HEADSET": "Encontre os fones de ouvido",
     "CL_VC_FUNC_OTA_UPDATE": "Atualização de firmware",
     "CL_VC_FUNC_ABOUT_DEVICE": "Sobre o dispositivo",
     "CL_VC_GESTURE_TAB_DOUBLE_TAP": "Toque duas vezes",
@@ -8426,5 +8425,16 @@
     "CL_VC_OTA_CURRENT_VERSION": "Versão atual:",
     "CL_VC_OTA_LATEST_VERSION": "Última versão:",
     "CL_VC_NAME_LIMIT_ERROR": "Limite de 2 a 20 caracteres.",
-    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 a 20 caracteres."
+    "CL_VC_NAME_LIMIT_HINT": "Limite de 2 a 20 caracteres.",
+    "CL_CF_pp_about_tips": "Política de Tratamento de Dados Pessoais na Internet",
+    "CL_CF_consent_about_tips": "Consentimento para o Processamento de Dados Pessoais",
+    "CL_VC_SYSTEM_LOCATION_SWITCH": "Por favor, ative a opção de localização do sistema para procurar dispositivos Bluetooth.",
+    "CL_VC_FUNC_FIND_HEADSET": "Encontre o fone de ouvido",
+    "CL_CF_energy_energy_target_not_set": "Meta de energia não definida",
+    "CL_CF_energy_set_energy_target_tip": "Para ativar esse recurso, você precisa definir sua Meta de Energia.",
+    "CL_ENERGY_MD_go_set": "Vá para Definir Meta de Energia",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_1": "Certifique-se de que seu dispositivo esteja desligado.\nSe o símbolo do Wi-Fi já estiver aceso, ignore esta etapa e vá para a Etapa 2.\nSe o símbolo do Wi-Fi não estiver aceso, toque na tecla Wi-Fi para ativar a conexão.",
+    "CL_CF_CS_hood_hi6_button_ui_cs_step_2": "Toque e mantenha pressionada a tecla Wi-Fi por 3 segundos até que o ícone do Wi-Fi e o número 1 comecem a piscar. A rede do dispositivo estará agora disponível para conexão por 5 minutos. \n Clique em AVANÇAR para continuar.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_1": "Certifique-se de que seu dispositivo esteja desligado.\nSe o símbolo do Wi-Fi já estiver aceso, ignore esta etapa e vá para a Etapa 2.\nSe o símbolo do Wi-Fi não estiver aceso, toque na tecla Wi-Fi para ativar a conexão.",
+    "CL_CF_CS_hood_hi6_button_ui_p_step_2": "Toque e mantenha pressionada a tecla Wi-Fi por 6 segundos até que o ícone do Wi-Fi e o número 2 comecem a piscar. O dispositivo estará pronto para emparelhamento por 3 minutos.\nClique em AVANÇAR para continuar."
 }
