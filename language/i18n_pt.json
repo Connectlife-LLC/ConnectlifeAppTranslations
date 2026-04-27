@@ -8402,7 +8402,7 @@
     "CL_CF_CS_can_not_find_device_label": "Não consigo encontrar a etiqueta do dispositivo.",
     "hisrf_dura_fresh_guide": "Guia Dura Fresh",
     "CL_DV_EY_learn_about_logic": "SOBRE NOSSA LÓGICA",
-    "CL_DV_EY_learn_about_logic_desc_header": "",
+    "CL_DV_EY_learn_about_logic_desc_header": "Para ajudar você a economizar na conta de luz, o ConnectLife ajustará automaticamente os dispositivos inteligentes compatíveis em sua casa com base nos preços da eletricidade em tempo real divulgados pela rede (que são categorizados em períodos de pico, fora de pico e preço negativo), mediante sua autorização.",
     "CL_DV_EY_learn_about_logic_desc_item_high": "Durante períodos de preços elevados: os dispositivos alternarão automaticamente para os modos de economia de energia ou de espera para reduzir o consumo de energia.",
     "CL_DV_EY_learn_about_logic_desc_item_low": "Durante períodos de preços baixos ou negativos: os dispositivos aumentarão automaticamente sua produção para armazenar energia térmica de forma eficiente.",
     "CL_DV_EY_learn_about_logic_desc_footer": "Todas as alterações são temporárias e retornarão automaticamente às suas configurações originais após o término do período. Você também pode alterá-las manualmente a qualquer momento.",

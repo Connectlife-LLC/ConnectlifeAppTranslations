@@ -8402,7 +8402,7 @@
     "CL_CF_CS_can_not_find_device_label": "I can’t find the device label",
     "hisrf_dura_fresh_guide": "Dura Fresh Guide",
     "CL_DV_EY_learn_about_logic": "ABOUT OUR LOGIC",
-    "CL_DV_EY_learn_about_logic_desc_header": "",
+    "CL_DV_EY_learn_about_logic_desc_header": "To help you save on electricity costs, ConnectLife will automatically adjust compatible smart devices in your home based on real-time electricity prices released by the grid (which are categorized into peak, off-peak, and negative price periods), with your authorisation.",
     "CL_DV_EY_learn_about_logic_desc_item_high": "During high-price periods: Devices will automatically switch to energy-saving or standby modes to reduce their power consumption.",
     "CL_DV_EY_learn_about_logic_desc_item_low": "During low/negative-price periods: Devices will automatically increase their output to efficiently store thermal energy.",
     "CL_DV_EY_learn_about_logic_desc_footer": "All adjustments are temporary and will automatically revert to your original settings once the period ends. You can also manually override them at any time.",

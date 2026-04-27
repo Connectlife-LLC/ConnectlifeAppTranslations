@@ -8402,7 +8402,7 @@
     "CL_CF_CS_can_not_find_device_label": "Ne najdem oznake naprave",
     "hisrf_dura_fresh_guide": "Vodnik za Dura Fresh",
     "CL_DV_EY_learn_about_logic": "O NAŠI LOGIKI",
-    "CL_DV_EY_learn_about_logic_desc_header": "",
+    "CL_DV_EY_learn_about_logic_desc_header": "Da bi vam pomagal prihraniti pri stroških elektrike, bo ConnectLife z vašim dovoljenjem samodejno prilagodil združljive pametne naprave v vašem domu na podlagi cen električne energije v realnem času, ki jih objavlja omrežje (te so razvrščene v obdobja z največjo, manjšo in negativno ceno).",
     "CL_DV_EY_learn_about_logic_desc_item_high": "V obdobjih visokih cen: Naprave bodo samodejno preklopile v način varčevanja z energijo ali stanje pripravljenosti, da zmanjšajo porabo energije.",
     "CL_DV_EY_learn_about_logic_desc_item_low": "V obdobjih nizkih/negativnih cen: Naprave bodo samodejno povečale svojo proizvodnjo, da bodo učinkovito shranjevale toplotno energijo.",
     "CL_DV_EY_learn_about_logic_desc_footer": "Vse prilagoditve so začasne in se bodo po koncu obdobja samodejno vrnile na prvotne nastavitve. Kadar koli jih lahko tudi ročno spremenite.",
