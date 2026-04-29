@@ -7428,8 +7428,8 @@
     "CL_HO_DS_004_content": "",
     "CL_HO_DS_001_title": "",
     "CL_HO_DS_001_content": "",
-    "CL_HO_DS_003_title": "",
-    "CL_HO_DS_003_content": "",
+    "CL_HO_DS_003_title": "Povezano iskustvo za cijelu obitelj",
+    "CL_HO_DS_003_content": "1\nConnectLife je posebno dizajniran za upravljanje kućanskim uređajima kao što su kuhinjski uređaji, perilice rublja, sušilice rublja, vinske vitrina i drugo. Platforma se povezuje sa širokim rasponom povezanih uređaja koji vam omogućuju praćenje i upravljanje kućanstvom s bilo kojeg mjesta pomoću pametnog telefona.\n2\nAli ConnectLife je više od pukog upravitelja uređaja; stvara zajedničko iskustvo za cijelu obitelj. Suradnjom i zajedničkim korištenjem platforme, svi mogu upravljati domom, ostati informirani i održavati stvari u glatkom tijeku. Posebno je koristan za zaposlene obitelji ili one koji brinu o starijim rođacima ili djeci.\n1\n1\n2\nJedna od najznačajnijih prednosti ConnectLifea je njegovo korisničko sučelje. Uz jednostavne upute, svatko u obitelji može ga koristiti, bez obzira na svoje tehničke sposobnosti. Štoviše, platformu možete prilagoditi specifičnim potrebama svoje obitelji, dodajući ili uklanjajući uređaje po potrebi.\n2\nZaključno, ConnectLife je platforma za pametni život koja obiteljima pruža jedinstven način da ostanu povezane i upravljaju svojim domovima. Povezivanjem kućnih uređaja s ConnectLifeom možete osigurati da sve funkcionira besprijekorno, čak i kada niste tu. Zato počnite koristiti aplikaciju ConnectLife već danas i otkrijte prednosti povezanog kućanstva.\n1\n\n\n",
     "how_use_content": "",
     "CL_DV_OV_24_hour_clock": "24-satni format",
     "CL_unlogin_card_tips": "",
@@ -8459,6 +8459,5 @@
     "CL_ENERGY_pack_number": "Broj pakiranja",
     "CL_ENERGY_Rated_capacity": "Nazivni kapacitet",
     "CLH5_WCC_setting_available_dura": "DOSTUPNO TRAJANJE",
-    "CLH5_WCC_setting_reminder_time": "VRIJEME PODSJETNIKA",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Pećnica je već u upotrebi"
+    "CLH5_WCC_setting_reminder_time": "VRIJEME PODSJETNIKA"
 }
