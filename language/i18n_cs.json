@@ -8460,5 +8460,17 @@
     "CL_ENERGY_Rated_capacity": "Jmenovitá kapacita",
     "CLH5_WCC_setting_available_dura": "DOSTUPNÁ DOBA TRVÁNÍ",
     "CLH5_WCC_setting_reminder_time": "ČAS PŘIPOMÍNKY",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Trouba je již v provozu"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Pokud dveře chladničky (pouze pro chladicí, mrazicí a výrobník ledu) zůstanou 24 hodin po sobě neotevřené, obdržíte připomenutí, které vám pomůže sledovat stav vaší rodiny.",
+    "CL_DV_RF_home_come_remind_desc2": "Pokud se dveře chladničky (pouze pro chladicí, mrazicí a výrobník ledu) otevřou v nastaveném časovém intervalu, dostanete připomenutí, že se někdo z rodiny vrátí domů.",
+    "CL_DV_ENERGY_connected_stick": "PŘIPOJENÁ PÁČKA",
+    "CL_DV_EY_wifi_signal_warning": "Síla signálu WiFi zařízení je nižší než 80 %, proto jej nelze upgradovat.",
+    "CL_ENERGY_MD_self_consumption_sub": "Okamžité využití solární energie generované na místě, minimalizující závislost na rozvodné síti.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Time-of-Use) mění spotřebu elektřiny podle denní doby a vy si definujete stav baterie pro různá období.",
+    "CL_ENERGY_MD_full_backup_sub": "Režim, ve kterém se baterie vybije před použitím energie ze sítě, čímž se maximalizuje využití uložené energie.",
+    "CL_CF_energy_timer_warning": "Zařízení ## má aktuálně spuštěný plánovač, což může ovlivnit integraci @@. V případě potřeby upravte nastavení na stránce plánovače zařízení.",
+    "CL_CF_energy_holiday_mode_warning": "Zařízení ## aktuálně používá režim dovolené a integrace @@ nefunguje. Režim se projeví po vypnutí režimu dovolené nebo po skončení období dovolené.",
+    "CL_CF_energy_automation_warning": "Zařízení ## aktuálně běží automatická rutina, která může ovlivnit integraci @@. V případě potřeby upravte nastavení na stránce automatizace zařízení.",
+    "CL_CF_energy_sterilization_warning": "Zařízení ## aktuálně běží ve sterilizačním režimu a @@ nefunguje. Toto se projeví po vypnutí sterilizačního režimu.",
+    "CL_CM_CK_redirect_notice": "OZNÁMENÍ O PŘESMĚROVÁNÍ",
+    "CL_CM_CK_instacart_agree_content": "Pro pokračování budete přesměrováni do aplikace Instacart. ConnectLife nesdílí vaše osobní údaje se společností Instacart. Na platformě Instacart platí podmínky a zásady ochrany osobních údajů."
 }

@@ -8367,7 +8367,7 @@
     "CL_DV_EY_consumption_tips": "自給自足：從太陽能電池消耗的太陽能量以及儲存在電池中的太陽能量\n來自電網：來自電網的能量",
     "CL_DV_EY_offline": "離線",
     "CL_DV_EY_running": "運作",
-    "CL_DV_EY_normal": "日常洗程",
+    "CL_DV_EY_normal": "正常",
     "CL_DV_EY_alarm": "高振動",
     "CL_DV_EY_sleep": "睡眠",
     "CL_VC_SETTING_VOLUME_ADAPTIVE_DESC": "依環境噪音水平自動調整音量。",
@@ -8460,5 +8460,17 @@
     "CL_ENERGY_Rated_capacity": "額定容量",
     "CLH5_WCC_setting_available_dura": "可用時長",
     "CLH5_WCC_setting_reminder_time": "提醒時間",
-    "CL_DISH_DESIGNER_oven_already_in_use": "烤箱正在使用中"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "如果冰箱門（僅限冷藏室、冷凍室和製冰室）連續 24 小時未打開，您將收到提醒，以幫助您監控家人的健康狀況。",
+    "CL_DV_RF_home_come_remind_desc2": "如果在預設的時間內打開冰箱門（僅限冰箱、冷凍室和製冰室），您將收到提醒，以便在家庭成員回家時通知您。",
+    "CL_DV_ENERGY_connected_stick": "連接棒",
+    "CL_DV_EY_wifi_signal_warning": "該設備的WiFi訊號強度低於80%，因此無法升級。",
+    "CL_ENERGY_MD_self_consumption_sub": "立即利用現場產生的太陽能，最大限度地減少對電網的依賴。",
+    "CL_ENERGY_MD_time_of_use_sub": "分時電價 (TOU) 會根據一天中的時間改變用電量，您可以定義不同時段的電池狀態。",
+    "CL_ENERGY_MD_full_backup_sub": "在這種模式下，電池會在使用電網電力之前先放電，從而最大限度地利用儲存的能量。",
+    "CL_CF_energy_timer_warning": "該設備目前正在運行調度程序，這可能會影響@@的整合。如有必要，請在裝置的排程器頁面上調整設定。",
+    "CL_CF_energy_holiday_mode_warning": "該設備目前處於假日模式，因此與 @@ 的整合功能無法正常運作。假日模式關閉或假日結束後，整合功能將恢復正常。",
+    "CL_CF_energy_automation_warning": "該設備目前正在運行自動例程，這可能會影響與 @@ 的整合。如有必要，請在裝置的自動化頁面上調整設定。",
+    "CL_CF_energy_sterilization_warning": "該設備目前處於消毒模式，@@功能無法正常運作。待消毒模式關閉後，功能才會生效。",
+    "CL_CM_CK_redirect_notice": "重定向通知",
+    "CL_CM_CK_instacart_agree_content": "您將被重新導向至 Instacart 應用程式繼續操作。 ConnectLife 不會與 Instacart 分享您的個人資訊。 Instacart 的條款和隱私權政策將適用於其平台。"
 }

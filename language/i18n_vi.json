@@ -8460,5 +8460,17 @@
     "CL_ENERGY_Rated_capacity": "Công suất định mức",
     "CLH5_WCC_setting_available_dura": "THỜI GIAN CÓ SẴN",
     "CLH5_WCC_setting_reminder_time": "THỜI GIAN NHẮC NHỞ",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Lò nướng đang được sử dụng"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Bạn sẽ nhận được lời nhắc nhở giúp bạn theo dõi sức khỏe gia đình nếu cửa tủ lạnh (chỉ áp dụng cho ngăn mát, ngăn đông và ngăn làm đá) không được mở trong 24 giờ liên tục.",
+    "CL_DV_RF_home_come_remind_desc2": "Bạn sẽ nhận được lời nhắc thông báo khi một thành viên trong gia đình trở về nhà, nếu cửa tủ lạnh (chỉ áp dụng cho ngăn mát, ngăn đông và ngăn làm đá) được mở trong một khoảng thời gian đã được thiết lập trước.",
+    "CL_DV_ENERGY_connected_stick": "QUE KẾT NỐI",
+    "CL_DV_EY_wifi_signal_warning": "Cường độ tín hiệu WiFi của thiết bị dưới 80%, do đó không thể nâng cấp.",
+    "CL_ENERGY_MD_self_consumption_sub": "Sử dụng ngay lập tức năng lượng mặt trời được tạo ra tại chỗ, giảm thiểu sự phụ thuộc vào lưới điện.",
+    "CL_ENERGY_MD_time_of_use_sub": "Biểu giá theo thời gian sử dụng (TOU) điều chỉnh mức tiêu thụ điện dựa trên thời gian trong ngày, và bạn có thể thiết lập trạng thái pin cho các khoảng thời gian khác nhau.",
+    "CL_ENERGY_MD_full_backup_sub": "Chế độ này cho phép pin xả hết điện trước khi sử dụng điện lưới, tối đa hóa việc sử dụng năng lượng dự trữ.",
+    "CL_CF_energy_timer_warning": "Thiết bị ## hiện đang chạy một trình lập lịch, điều này có thể ảnh hưởng đến quá trình tích hợp @@. Nếu cần, vui lòng điều chỉnh cài đặt trên trang lập lịch của thiết bị.",
+    "CL_CF_energy_holiday_mode_warning": "Thiết bị ## hiện đang ở chế độ nghỉ lễ và tính năng tích hợp @@ không hoạt động. Tính năng này sẽ có hiệu lực khi chế độ nghỉ lễ được tắt hoặc khi kỳ nghỉ lễ kết thúc.",
+    "CL_CF_energy_automation_warning": "Thiết bị ## hiện đang chạy một quy trình tự động, điều này có thể ảnh hưởng đến quá trình tích hợp @@. Nếu cần, vui lòng điều chỉnh cài đặt trên trang tự động hóa của thiết bị.",
+    "CL_CF_energy_sterilization_warning": "Thiết bị ## hiện đang hoạt động ở chế độ khử trùng, và @@ không hoạt động. Chức năng này sẽ có hiệu lực sau khi chế độ khử trùng được tắt.",
+    "CL_CM_CK_redirect_notice": "THÔNG BÁO CHUYỂN HƯỚNG",
+    "CL_CM_CK_instacart_agree_content": "Bạn sẽ được chuyển hướng đến ứng dụng Instacart để tiếp tục. ConnectLife không chia sẻ thông tin cá nhân của bạn với Instacart. Điều khoản và chính sách bảo mật của Instacart sẽ được áp dụng trên nền tảng của họ."
 }

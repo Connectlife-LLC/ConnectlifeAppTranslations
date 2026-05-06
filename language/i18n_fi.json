@@ -8460,5 +8460,17 @@
     "CL_ENERGY_Rated_capacity": "Nimelliskapasiteetti",
     "CLH5_WCC_setting_available_dura": "KÄYTETTÄVISSÄ OLEVA KESTO",
     "CLH5_WCC_setting_reminder_time": "MUISTUTUSAIKA",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Uuni on jo käytössä"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Saat muistutuksen, jonka avulla voit seurata perheesi hyvinvointia, jos jääkaapin ovea (vain jääkaappi-, pakastin- ja jääpalakoneosastot) ei avata 24 peräkkäiseen tuntiin.",
+    "CL_DV_RF_home_come_remind_desc2": "Saat muistutuksen, joka ilmoittaa sinulle perheenjäsenen paluusta kotiin, jos jääkaapin ovi (vain jääkaappi-, pakastin- ja jääpalakoneosastot) avataan ennalta asetetun ajan sisällä.",
+    "CL_DV_ENERGY_connected_stick": "YHDISTETTY TAKKU",
+    "CL_DV_EY_wifi_signal_warning": "Laitteen WiFi-signaalin voimakkuus on alle 80 %, joten sitä ei voida päivittää.",
+    "CL_ENERGY_MD_self_consumption_sub": "Paikan päällä tuotetun aurinkoenergian välitön käyttö minimoi sähköverkkoriippuvuuden.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (käyttöaika) vaihtelee sähkönkulutusta kellonajan mukaan, ja voit määrittää akun tilan eri ajanjaksoille.",
+    "CL_ENERGY_MD_full_backup_sub": "Tila, jossa akku purkautuu ennen verkkovirran käyttöä, mikä maksimoi varastoidun energian käytön.",
+    "CL_CF_energy_timer_warning": "Laitteella ## on tällä hetkellä käynnissä oleva ajastin, mikä voi vaikuttaa @@-integraatioon. Säädä tarvittaessa asetuksia laitteen ajastussivulla.",
+    "CL_CF_energy_holiday_mode_warning": "Laite ## on tällä hetkellä lomatilassa, eikä @@-integraatio toimi. Tämä tulee voimaan, kun lomatila kytketään pois päältä tai lomajakso päättyy.",
+    "CL_CF_energy_automation_warning": "Laitteessa ## on tällä hetkellä käynnissä automaattinen rutiini, joka voi vaikuttaa @@-integraatioon. Säädä tarvittaessa asetuksia laitteen automaatiosivulla.",
+    "CL_CF_energy_sterilization_warning": "## laite toimii tällä hetkellä sterilointitilassa, eikä @@ toimi. Tämä tulee voimaan, kun sterilointitila on kytketty pois päältä.",
+    "CL_CM_CK_redirect_notice": "UUDELLEENOHJAUSILMOITUS",
+    "CL_CM_CK_instacart_agree_content": "Sinut ohjataan Instacartin sovellukseen jatkamaan. ConnectLife ei jaa henkilötietojasi Instacartin kanssa. Instacartin käyttöehdot ja tietosuojakäytäntö ovat voimassa heidän alustallaan."
 }

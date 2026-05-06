@@ -8460,5 +8460,17 @@
     "CL_ENERGY_Rated_capacity": "Capacitate nominală",
     "CLH5_WCC_setting_available_dura": "DURATA DISPONIBILĂ",
     "CLH5_WCC_setting_reminder_time": "TIMP DE MEMORATIE",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Cuptorul este deja în uz"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Veți primi o reamintire care vă va ajuta să monitorizați bunăstarea familiei dumneavoastră dacă ușa frigiderului (doar pentru compartimentele frigiderului, congelatorului și aparatului de gheață) rămâne nedeschisă timp de 24 de ore consecutive.",
+    "CL_DV_RF_home_come_remind_desc2": "Veți primi o notificare prin care vi se va notifica când un membru al familiei se întoarce acasă, dacă ușa frigiderului (doar pentru compartimentele frigiderului, congelatorului și aparatului de gheață) este deschisă într-un interval de timp prestabilit.",
+    "CL_DV_ENERGY_connected_stick": "STICK CONECTAT",
+    "CL_DV_EY_wifi_signal_warning": "Intensitatea semnalului WiFi al dispozitivului este sub 80%, prin urmare nu poate fi actualizat.",
+    "CL_ENERGY_MD_self_consumption_sub": "Utilizarea imediată a energiei solare generate la fața locului, reducând la minimum dependența de rețea.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Time-of-Use - Timpul de utilizare) variază consumul de energie electrică în funcție de ora din zi, iar dumneavoastră definiți și setați starea bateriei pentru diferite perioade.",
+    "CL_ENERGY_MD_full_backup_sub": "Un mod în care bateria se descarcă înainte de a utiliza energia de la rețea, maximizând utilizarea energiei stocate.",
+    "CL_CF_energy_timer_warning": "Dispozitivul ## are în prezent un programator care rulează, ceea ce poate afecta integrarea @@. Dacă este necesar, vă rugăm să ajustați setările de pe pagina programatorului dispozitivului.",
+    "CL_CF_energy_holiday_mode_warning": "Dispozitivul ## rulează în prezent modul vacanță, iar integrarea @@ nu funcționează. Aceasta va intra în vigoare la dezactivarea modului vacanță sau la sfârșitul perioadei de vacanță.",
+    "CL_CF_energy_automation_warning": "Dispozitivul ## rulează în prezent o rutină automată, care poate afecta integrarea @@. Dacă este necesar, vă rugăm să ajustați setările de pe pagina de automatizare a dispozitivului.",
+    "CL_CF_energy_sterilization_warning": "Dispozitivul ## funcționează în prezent în modul de sterilizare, iar @@ nu funcționează. Aceasta va intra în vigoare după dezactivarea modului de sterilizare.",
+    "CL_CM_CK_redirect_notice": "NOTIFICARE DE REDIRECȚIONARE",
+    "CL_CM_CK_instacart_agree_content": "Vei fi redirecționat către aplicația Instacart pentru a continua. ConnectLife nu partajează informațiile tale personale cu Instacart. Termenii și politica de confidențialitate Instacart se vor aplica pe platforma lor."
 }

@@ -8460,5 +8460,17 @@
     "CL_ENERGY_Rated_capacity": "Pojemność znamionowa",
     "CLH5_WCC_setting_available_dura": "DOSTĘPNY CZAS TRWANIA",
     "CLH5_WCC_setting_reminder_time": "CZAS PRZYPOMNIENIA",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Piekarnik już w użyciu"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Otrzymasz przypomnienie, które pomoże Ci monitorować samopoczucie Twojej rodziny, jeśli drzwi lodówki (dotyczy to tylko komory lodówki, zamrażarki i kostkarki do lodu) pozostaną nieotwarte przez 24 kolejne godziny.",
+    "CL_DV_RF_home_come_remind_desc2": "Otrzymasz przypomnienie o powrocie członka rodziny do domu, jeśli drzwi lodówki (dotyczy to tylko komory lodówki, zamrażarki i kostkarki do lodu) zostaną otwarte w ustalonym czasie.",
+    "CL_DV_ENERGY_connected_stick": "PODŁĄCZONY DRĄŻEK",
+    "CL_DV_EY_wifi_signal_warning": "Siła sygnału WiFi urządzenia jest niższa niż 80%, dlatego nie można go uaktualnić.",
+    "CL_ENERGY_MD_self_consumption_sub": "Natychmiastowe wykorzystanie wytwarzanej na miejscu energii słonecznej, minimalizujące zależność od sieci energetycznej.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Time-of-Use) różnicuje zużycie energii elektrycznej zależnie od pory dnia i definiuje stan baterii w różnych okresach.",
+    "CL_ENERGY_MD_full_backup_sub": "Tryb, w którym akumulator rozładowuje się przed skorzystaniem z energii sieciowej, maksymalizując wykorzystanie zmagazynowanej energii.",
+    "CL_CF_energy_timer_warning": "Urządzenie ## ma obecnie uruchomiony harmonogram, co może mieć wpływ na integrację @@. W razie potrzeby dostosuj ustawienia na stronie harmonogramu urządzenia.",
+    "CL_CF_energy_holiday_mode_warning": "Urządzenie ## jest obecnie w trybie wakacyjnym, a integracja @@ nie działa. Zmiana zostanie wprowadzona po wyłączeniu trybu wakacyjnego lub zakończeniu okresu wakacyjnego.",
+    "CL_CF_energy_automation_warning": "Urządzenie ## ma obecnie uruchomioną procedurę automatyczną, która może mieć wpływ na integrację @@. W razie potrzeby zmień ustawienia na stronie automatyzacji urządzenia.",
+    "CL_CF_energy_sterilization_warning": "Urządzenie ## działa obecnie w trybie sterylizacji, a @@ nie działa. Zmiana zostanie wprowadzona po wyłączeniu trybu sterylizacji.",
+    "CL_CM_CK_redirect_notice": "ZAWIADOMIENIE O PRZEKIEROWANIU",
+    "CL_CM_CK_instacart_agree_content": "Aby kontynuować, zostaniesz przekierowany do aplikacji Instacart. ConnectLife nie udostępnia Twoich danych osobowych Instacart. Na platformie Instacart obowiązują warunki i polityka prywatności."
 }

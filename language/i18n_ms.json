@@ -8460,5 +8460,17 @@
     "CL_ENERGY_Rated_capacity": "Kapasiti dinilai",
     "CLH5_WCC_setting_available_dura": "TEMPOH YANG TERSEDIA",
     "CLH5_WCC_setting_reminder_time": "MASA PERINGATAN",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Ketuhar sudah digunakan"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Anda akan menerima peringatan untuk membantu anda memantau kesejahteraan keluarga anda jika pintu peti sejuk (hanya untuk peti sejuk, peti sejuk beku dan petak pembuat ais) tidak dibuka selama 24 jam berturut-turut.",
+    "CL_DV_RF_home_come_remind_desc2": "Anda akan menerima peringatan untuk memberitahu anda apabila ahli keluarga pulang ke rumah, jika pintu peti sejuk (hanya untuk peti sejuk, peti sejuk beku dan petak pembuat ais) dibuka dalam tempoh masa yang telah ditetapkan.",
+    "CL_DV_ENERGY_connected_stick": "STIK BERSAMBUNG",
+    "CL_DV_EY_wifi_signal_warning": "Kekuatan isyarat WiFi peranti berada di bawah 80%, oleh itu ia tidak boleh dinaik taraf.",
+    "CL_ENERGY_MD_self_consumption_sub": "Penggunaan tenaga suria yang dijana serta-merta di tapak, meminimumkan kebergantungan grid.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Masa Penggunaan) mengubah penggunaan elektrik berdasarkan waktu dalam sehari, dan anda menentukan status bateri untuk tempoh yang berbeza.",
+    "CL_ENERGY_MD_full_backup_sub": "Mod di mana bateri dinyahcas sebelum menggunakan kuasa grid, memaksimumkan penggunaan tenaga tersimpan.",
+    "CL_CF_energy_timer_warning": "Peranti ## kini mempunyai penjadual yang sedang berjalan, yang mungkin menjejaskan integrasi @@. Jika perlu, sila laraskan tetapan pada halaman penjadual peranti.",
+    "CL_CF_energy_holiday_mode_warning": "Peranti ## sedang menjalankan mod cuti dan integrasi @@ tidak berfungsi. Ia akan berkuat kuasa apabila mod cuti dimatikan atau tempoh cuti tamat.",
+    "CL_CF_energy_automation_warning": "Peranti ## kini menjalankan rutin automatik, yang mungkin menjejaskan integrasi @@. Jika perlu, sila laraskan tetapan pada halaman automasi peranti.",
+    "CL_CF_energy_sterilization_warning": "Peranti ## sedang berjalan dalam mod pensterilan dan @@ tidak berfungsi. Ia akan berkuat kuasa selepas mod pensterilan dimatikan.",
+    "CL_CM_CK_redirect_notice": "NOTIS PENGALIHAN ARAH",
+    "CL_CM_CK_instacart_agree_content": "Anda akan dialihkan ke aplikasi Instacart untuk meneruskan. ConnectLife tidak berkongsi maklumat peribadi anda dengan Instacart. Terma dan dasar privasi Instacart akan terpakai pada platform mereka."
 }

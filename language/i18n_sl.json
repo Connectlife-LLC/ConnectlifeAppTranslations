@@ -8460,5 +8460,17 @@
     "CL_ENERGY_Rated_capacity": "Nazivna zmogljivost",
     "CLH5_WCC_setting_available_dura": "RAZPOLOŽLJIVO TRAJANJE",
     "CLH5_WCC_setting_reminder_time": "ČAS OPOMNIKA",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Pečica je že v uporabi"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Če vrata hladilnika (samo za hladilnik, zamrzovalnik in ledomat) ostanejo 24 ur zapored zaprta, boste prejeli opomnik, ki vam bo pomagal spremljati dobro počutje vaše družine.",
+    "CL_DV_RF_home_come_remind_desc2": "Če so vrata hladilnika (samo za hladilnik, zamrzovalnik in ledomat) odprta v nastavljenem časovnem obdobju, boste prejeli opomnik, ki vas bo obvestil, ko se družinski član vrne domov.",
+    "CL_DV_ENERGY_connected_stick": "POVEZANO PALČKO",
+    "CL_DV_EY_wifi_signal_warning": "Moč signala WiFi naprave je pod 80 %, zato je ni mogoče nadgraditi.",
+    "CL_ENERGY_MD_self_consumption_sub": "Takojšnja uporaba sončne energije, proizvedene na kraju samem, kar zmanjšuje odvisnost od omrežja.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (čas uporabe) spreminja porabo električne energije glede na čas dneva, vi pa določite stanje baterije za različna obdobja.",
+    "CL_ENERGY_MD_full_backup_sub": "Način, v katerem se baterija izprazni pred uporabo omrežne energije, s čimer se maksimizira izkoriščanje shranjene energije.",
+    "CL_CF_energy_timer_warning": "Naprava ## trenutno izvaja razporejevalnik, kar lahko vpliva na integracijo @@. Po potrebi prilagodite nastavitve na strani razporejevalnika naprave.",
+    "CL_CF_energy_holiday_mode_warning": "Naprava ## trenutno deluje v načinu počitnic in integracija @@ ne deluje. Učinek se bo začel, ko bo način počitnic izklopljen ali ko se bo obdobje počitnic končalo.",
+    "CL_CF_energy_automation_warning": "Naprava ## trenutno izvaja samodejno rutino, ki lahko vpliva na integracijo @@. Po potrebi prilagodite nastavitve na strani za avtomatizacijo naprave.",
+    "CL_CF_energy_sterilization_warning": "Naprava ## trenutno deluje v načinu sterilizacije in @@ ne deluje. Učinek se bo začel po izklopu načina sterilizacije.",
+    "CL_CM_CK_redirect_notice": "OBVESTILO O PREUSMERITVI",
+    "CL_CM_CK_instacart_agree_content": "Za nadaljevanje boste preusmerjeni v aplikacijo Instacart. ConnectLife ne deli vaših osebnih podatkov z Instacartom. Na njihovi platformi veljajo pogoji in politika zasebnosti Instacarta."
 }

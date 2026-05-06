@@ -8460,5 +8460,17 @@
     "CL_ENERGY_Rated_capacity": "Nennkapazität",
     "CLH5_WCC_setting_available_dura": "VERFÜGBARE DAUER",
     "CLH5_WCC_setting_reminder_time": "ERINNERUNGSZEIT",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Der Ofen ist bereits in Gebrauch."
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Sie erhalten eine Erinnerung, die Ihnen hilft, das Wohlbefinden Ihrer Familie im Auge zu behalten, wenn die Kühlschranktür (nur für Kühl-, Gefrier- und Eiswürfelbereiterfach) 24 Stunden lang ununterbrochen nicht geöffnet bleibt.",
+    "CL_DV_RF_home_come_remind_desc2": "Sie erhalten eine Erinnerung, die Sie benachrichtigt, wenn ein Familienmitglied nach Hause zurückkehrt, falls die Kühlschranktür (nur für Kühl-, Gefrier- und Eiswürfelbereiterfach) innerhalb eines voreingestellten Zeitraums geöffnet wird.",
+    "CL_DV_ENERGY_connected_stick": "VERBUNDENER STICK",
+    "CL_DV_EY_wifi_signal_warning": "Die WLAN-Signalstärke des Geräts liegt unter 80 %, daher kann es nicht aufgerüstet werden.",
+    "CL_ENERGY_MD_self_consumption_sub": "Die unmittelbare Nutzung der vor Ort erzeugten Solarenergie minimiert die Abhängigkeit vom Stromnetz.",
+    "CL_ENERGY_MD_time_of_use_sub": "Bei TOU (Time-of-Use) variiert der Stromverbrauch je nach Tageszeit, und Sie können den Batteriestatus für verschiedene Zeiträume festlegen.",
+    "CL_ENERGY_MD_full_backup_sub": "Ein Modus, bei dem sich die Batterie entlädt, bevor Netzstrom genutzt wird, wodurch die Nutzung der gespeicherten Energie maximiert wird.",
+    "CL_CF_energy_timer_warning": "Das Gerät ## verfügt aktuell über einen laufenden Scheduler, was die @@-Integration beeinträchtigen kann. Passen Sie gegebenenfalls die Einstellungen auf der Scheduler-Seite des Geräts an.",
+    "CL_CF_energy_holiday_mode_warning": "Das Gerät ## befindet sich aktuell im Urlaubsmodus, und die @@-Integration funktioniert nicht. Die Änderungen werden erst wirksam, wenn der Urlaubsmodus deaktiviert wird oder der Urlaubszeitraum endet.",
+    "CL_CF_energy_automation_warning": "Das Gerät ## führt derzeit eine automatische Routine aus, die die @@-Integration beeinträchtigen kann. Passen Sie gegebenenfalls die Einstellungen auf der Automatisierungsseite des Geräts an.",
+    "CL_CF_energy_sterilization_warning": "Das Gerät ## befindet sich derzeit im Sterilisationsmodus, und @@ funktioniert nicht. Die Änderung wird erst nach Deaktivierung des Sterilisationsmodus wirksam.",
+    "CL_CM_CK_redirect_notice": "UMLEITUNG DER BENACHRICHTIGUNG",
+    "CL_CM_CK_instacart_agree_content": "Sie werden zur Instacart-App weitergeleitet, um fortzufahren. ConnectLife gibt Ihre persönlichen Daten nicht an Instacart weiter. Für die Nutzung der Instacart-Plattform gelten deren Nutzungsbedingungen und Datenschutzrichtlinien."
 }
