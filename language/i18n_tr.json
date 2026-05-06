@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Nominal kapasite",
     "CLH5_WCC_setting_available_dura": "MEVCUT SÜRE",
     "CLH5_WCC_setting_reminder_time": "HATIRLATMA ZAMANI",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Fırın zaten kullanımda."
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Buzdolabı kapağı (sadece buzdolabı, dondurucu ve buz yapma makinesi bölmeleri için geçerli) 24 saat boyunca açık kalmazsa, ailenizin sağlığını takip etmenize yardımcı olacak bir hatırlatma alacaksınız.",
+    "CL_DV_RF_home_come_remind_desc2": "Buzdolabı kapağı (sadece buzdolabı, dondurucu ve buz yapıcı bölmeleri için geçerli) önceden belirlenmiş bir zaman dilimi içinde açılırsa, bir aile üyesinin eve döndüğünü size bildirmek için bir hatırlatma alacaksınız.",
+    "CL_DV_ENERGY_connected_stick": "BAĞLANTILI ÇUBUK",
+    "CL_DV_EY_wifi_signal_warning": "Cihazın WiFi sinyal gücü %80'in altında olduğundan yükseltme yapılamaz.",
+    "CL_ENERGY_MD_self_consumption_sub": "Yerinde üretilen güneş enerjisinin anında kullanılması, şebekeye bağımlılığı en aza indirir.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Kullanım Zamanına Göre Fiyatlandırma), günün saatine bağlı olarak elektrik tüketimini değiştirir ve farklı dönemler için pil durumunu ayarlamanıza olanak tanır.",
+    "CL_ENERGY_MD_full_backup_sub": "Pil tamamen boşaldıktan sonra şebeke elektriği kullanılarak depolanan enerjinin en verimli şekilde kullanıldığı bir mod.",
+    "CL_CF_energy_timer_warning": "Şu anda cihazda çalışan bir zamanlayıcı bulunmaktadır ve bu durum @@ entegrasyonunu etkileyebilir. Gerekirse, lütfen cihazın zamanlayıcı sayfasındaki ayarları düzenleyin.",
+    "CL_CF_energy_holiday_mode_warning": "## numaralı cihaz şu anda tatil modunda çalışıyor ve @@ entegrasyonu işlev görmüyor. Tatil modu kapatıldığında veya tatil dönemi sona erdiğinde durum düzelecektir.",
+    "CL_CF_energy_automation_warning": "Şu anda cihazda otomatik bir rutin çalışıyor ve bu durum @@ entegrasyonunu etkileyebilir. Gerekirse, lütfen cihazın otomasyon sayfasındaki ayarları düzenleyin.",
+    "CL_CF_energy_sterilization_warning": "## cihazı şu anda sterilizasyon modunda çalışıyor ve @@ çalışmıyor. Sterilizasyon modu kapatıldıktan sonra düzelecektir.",
+    "CL_CM_CK_redirect_notice": "YÖNLENDİRME BİLDİRİMİ",
+    "CL_CM_CK_instacart_agree_content": "Devam etmek için Instacart uygulamasına yönlendirileceksiniz. ConnectLife, kişisel bilgilerinizi Instacart ile paylaşmaz. Instacart platformunda Instacart'ın şartları ve gizlilik politikası geçerli olacaktır.",
+    "CL_CS_CF_Voice_manual": "Sesli kılavuz"
 }

@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Nominell kapacitet",
     "CLH5_WCC_setting_available_dura": "TILLGÄNGLIG VARAKTIGHET",
     "CLH5_WCC_setting_reminder_time": "PÅMINNELSETID",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Ugnen används redan"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Du får en påminnelse som hjälper dig att övervaka din familjs välbefinnande om kylskåpsdörren (endast för kyl-, frys- och ismaskinsfacken) förblir oöppnad i 24 timmar i följd.",
+    "CL_DV_RF_home_come_remind_desc2": "Du får en påminnelse som meddelar dig när en familjemedlem kommer hem, om kylskåpsdörren (endast för kyl-, frys- och ismaskinsfacken) öppnas inom en förinställd tidsperiod.",
+    "CL_DV_ENERGY_connected_stick": "ANSLUTNAD STICK",
+    "CL_DV_EY_wifi_signal_warning": "Enhetens WiFi-signalstyrka är under 80 % och kan därför inte uppgraderas.",
+    "CL_ENERGY_MD_self_consumption_sub": "Omedelbar användning av solenergi som genereras på plats, vilket minimerar nätberoendet.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Time-of-Use) varierar elförbrukningen baserat på tid på dygnet, och du ställ in batteristatusen för olika perioder.",
+    "CL_ENERGY_MD_full_backup_sub": "Ett läge där batteriet urladdas innan det använder elnätet, vilket maximerar utnyttjandet av lagrad energi.",
+    "CL_CF_energy_timer_warning": "Enheten ## har för närvarande en aktiv schemaläggare, vilket kan påverka @@-integrationen. Justera inställningarna på enhetens schemaläggarsida om det behövs.",
+    "CL_CF_energy_holiday_mode_warning": "Enheten ## körs för närvarande i semesterläge, och @@-integrationen fungerar inte. Den träder i kraft när semesterläget stängs av eller semesterperioden slutar.",
+    "CL_CF_energy_automation_warning": "Enheten ## kör för närvarande en automatisk rutin, vilket kan påverka @@-integrationen. Justera inställningarna på enhetens automatiseringssida om det behövs.",
+    "CL_CF_energy_sterilization_warning": "Apparaten ## körs för närvarande i steriliseringsläge, och @@ fungerar inte. Den träder i kraft efter att steriliseringsläget stängts av.",
+    "CL_CM_CK_redirect_notice": "OMDIREKTERA MEDDELANDE",
+    "CL_CM_CK_instacart_agree_content": "Du kommer att omdirigeras till Instacarts app för att fortsätta. ConnectLife delar inte dina personuppgifter med Instacart. Instacarts villkor och integritetspolicy gäller på deras plattform.",
+    "CL_CS_CF_Voice_manual": "Röstmanual"
 }

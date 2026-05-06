@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Capacidad nominal",
     "CLH5_WCC_setting_available_dura": "DURACIÓN DISPONIBLE",
     "CLH5_WCC_setting_reminder_time": "HORA DE RECORDATORIO",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Horno ya en uso"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Recibirás un recordatorio para ayudarte a controlar el bienestar de tu familia si la puerta del refrigerador (solo para los compartimentos del refrigerador, el congelador y la máquina de hielo) permanece cerrada durante 24 horas consecutivas.",
+    "CL_DV_RF_home_come_remind_desc2": "Recibirás un recordatorio para que te avise cuando un miembro de la familia regrese a casa, si la puerta del refrigerador (solo para los compartimentos del refrigerador, el congelador y la máquina de hielo) se abre dentro de un período de tiempo preestablecido.",
+    "CL_DV_ENERGY_connected_stick": "PALO CONECTADO",
+    "CL_DV_EY_wifi_signal_warning": "La intensidad de la señal WiFi del dispositivo es inferior al 80%, por lo que no se puede actualizar.",
+    "CL_ENERGY_MD_self_consumption_sub": "El uso inmediato de la energía solar generada in situ minimiza la dependencia de la red eléctrica.",
+    "CL_ENERGY_MD_time_of_use_sub": "La tarifa por tiempo de uso (TOU, por sus siglas en inglés) varía el consumo de electricidad según la hora del día, y usted define y configura el estado de la batería para diferentes períodos.",
+    "CL_ENERGY_MD_full_backup_sub": "Un modo en el que la batería se descarga antes de utilizar la energía de la red eléctrica, maximizando así el aprovechamiento de la energía almacenada.",
+    "CL_CF_energy_timer_warning": "El dispositivo ## tiene un programador en ejecución, lo que podría afectar la integración de @@. Si es necesario, ajuste la configuración en la página del programador del dispositivo.",
+    "CL_CF_energy_holiday_mode_warning": "El dispositivo ## está actualmente en modo vacaciones y la integración con @@ no funciona. Los cambios se producirán cuando se desactive el modo vacaciones o finalice el período vacacional.",
+    "CL_CF_energy_automation_warning": "El dispositivo ## tiene una rutina automática en ejecución, lo que podría afectar la integración de @@. Si es necesario, ajuste la configuración en la página de automatización del dispositivo.",
+    "CL_CF_energy_sterilization_warning": "El dispositivo ## está funcionando actualmente en modo de esterilización y @@ no funciona. El problema se solucionará una vez que se desactive el modo de esterilización.",
+    "CL_CM_CK_redirect_notice": "AVISO DE REDIRECCIÓN",
+    "CL_CM_CK_instacart_agree_content": "Serás redirigido a la aplicación de Instacart para continuar. ConnectLife no comparte tu información personal con Instacart. Los términos y la política de privacidad de Instacart se aplicarán en su plataforma.",
+    "CL_CS_CF_Voice_manual": "Manual de voz"
 }

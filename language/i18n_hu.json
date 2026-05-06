@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Névleges kapacitás",
     "CLH5_WCC_setting_available_dura": "ELÉRHETŐ IDŐTARTAM",
     "CLH5_WCC_setting_reminder_time": "EMLÉKEZTETŐ IDŐ",
-    "CL_DISH_DESIGNER_oven_already_in_use": "A sütő már használatban van"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Emlékeztetőt kap, amely segít nyomon követni családja jólétét, ha a hűtőszekrény ajtaja (csak a hűtőszekrény, a fagyasztó és a jégkészítő rekesz esetében) 24 egymást követő órán keresztül nyitva marad.",
+    "CL_DV_RF_home_come_remind_desc2": "Emlékeztetőt kapsz, amely értesíti, amikor egy családtagod hazaér, ha a hűtőszekrény ajtaját (csak a hűtőszekrény, a fagyasztó és a jégkészítő rekesz esetében) egy előre beállított időn belül kinyitják.",
+    "CL_DV_ENERGY_connected_stick": "CSATLAKOZÓ PÁLCA",
+    "CL_DV_EY_wifi_signal_warning": "Az eszköz WiFi jelerőssége 80% alatt van, ezért nem frissíthető.",
+    "CL_ENERGY_MD_self_consumption_sub": "A helyszínen termelt napenergia azonnali felhasználása, minimalizálva a hálózati függőséget.",
+    "CL_ENERGY_MD_time_of_use_sub": "A TOU (időtartam) a napszaktól függően változtatja az áramfogyasztást, és Ön határozza meg az akkumulátor állapotát a különböző időszakokhoz.",
+    "CL_ENERGY_MD_full_backup_sub": "Olyan mód, amelyben az akkumulátor a hálózati áram használata előtt lemerül, maximalizálva a tárolt energia kihasználását.",
+    "CL_CF_energy_timer_warning": "A ## eszközön jelenleg futó ütemező van, ami befolyásolhatja a @@ integrációt. Szükség esetén módosítsa a beállításokat az eszköz ütemező oldalán.",
+    "CL_CF_energy_holiday_mode_warning": "A ## eszköz jelenleg szabadság üzemmódban van, és a @@ integráció nem működik. Ez akkor lép életbe, amikor a szabadság üzemmód kikapcsol, vagy a szabadságidőszak véget ér.",
+    "CL_CF_energy_automation_warning": "A ## eszközön jelenleg egy automatikus rutin fut, ami befolyásolhatja a @@ integrációt. Szükség esetén módosítsa a beállításokat az eszköz automatizálási oldalán.",
+    "CL_CF_energy_sterilization_warning": "A ## eszköz jelenleg sterilizálási módban fut, és a @@ nem működik. A sterilizálási mód kikapcsolása után lép életbe.",
+    "CL_CM_CK_redirect_notice": "ÁTIRÁNYÍTÁSI ÉRTESÍTÉS",
+    "CL_CM_CK_instacart_agree_content": "A folytatáshoz átirányítunk az Instacart alkalmazásába. A ConnectLife nem osztja meg a személyes adataidat az Instacarttal. Az Instacart feltételei és adatvédelmi irányelvei érvényesek a platformjukon.",
+    "CL_CS_CF_Voice_manual": "Hangutasítások"
 }
