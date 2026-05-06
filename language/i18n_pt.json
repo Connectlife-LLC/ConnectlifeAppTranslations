@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Capacidade nominal",
     "CLH5_WCC_setting_available_dura": "DURAÇÃO DISPONÍVEL",
     "CLH5_WCC_setting_reminder_time": "HORA DO LEMBRETE",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Forno já em uso"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Você receberá um lembrete para ajudar a monitorar o bem-estar da sua família se a porta do refrigerador (apenas para os compartimentos de geladeira, freezer e máquina de gelo) permanecer fechada por 24 horas consecutivas.",
+    "CL_DV_RF_home_come_remind_desc2": "Você receberá um lembrete para notificá-lo quando um membro da família retornar para casa, caso a porta da geladeira (somente para os compartimentos de geladeira, freezer e máquina de gelo) seja aberta dentro de um período de tempo predefinido.",
+    "CL_DV_ENERGY_connected_stick": "BASTÃO CONECTADO",
+    "CL_DV_EY_wifi_signal_warning": "A intensidade do sinal Wi-Fi do dispositivo é inferior a 80%, portanto, não é possível atualizá-lo.",
+    "CL_ENERGY_MD_self_consumption_sub": "Utilização imediata da energia solar gerada no local, minimizando a dependência da rede elétrica.",
+    "CL_ENERGY_MD_time_of_use_sub": "A tarifa horária (TOU, Time-of-Use) varia o consumo de eletricidade com base na hora do dia, e você define o status da bateria para diferentes períodos.",
+    "CL_ENERGY_MD_full_backup_sub": "Um modo em que a bateria descarrega antes de utilizar a energia da rede elétrica, maximizando a utilização da energia armazenada.",
+    "CL_CF_energy_timer_warning": "O dispositivo ## possui atualmente um agendador em execução, o que pode afetar a integração @@. Se necessário, ajuste as configurações na página do agendador do dispositivo.",
+    "CL_CF_energy_holiday_mode_warning": "O dispositivo ## está atualmente em modo férias e a integração @@ não está funcionando. Isso entrará em vigor quando o modo férias for desativado ou o período de férias terminar.",
+    "CL_CF_energy_automation_warning": "O dispositivo ## possui uma rotina automática em execução, o que pode afetar a integração @@. Se necessário, ajuste as configurações na página de automação do dispositivo.",
+    "CL_CF_energy_sterilization_warning": "O dispositivo ## está atualmente em modo de esterilização e @@ não está funcionando. Isso entrará em vigor após o modo de esterilização ser desativado.",
+    "CL_CM_CK_redirect_notice": "AVISO DE REDIRECIONAMENTO",
+    "CL_CM_CK_instacart_agree_content": "Você será redirecionado para o aplicativo da Instacart para continuar. A ConnectLife não compartilha suas informações pessoais com a Instacart. Os termos e a política de privacidade da Instacart serão aplicados em sua plataforma.",
+    "CL_CS_CF_Voice_manual": "Manual de voz"
 }

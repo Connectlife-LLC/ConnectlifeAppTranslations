@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Capacité nominale",
     "CLH5_WCC_setting_available_dura": "DURÉE DE DISPONIBILITÉ",
     "CLH5_WCC_setting_reminder_time": "HEURE DE RAPPEL",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Four déjà utilisé"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Vous recevrez un rappel pour vous aider à veiller au bien-être de votre famille si la porte du réfrigérateur (uniquement pour les compartiments réfrigérateur, congélateur et machine à glaçons) reste fermée pendant 24 heures consécutives.",
+    "CL_DV_RF_home_come_remind_desc2": "Vous recevrez un rappel vous informant du retour d'un membre de votre famille à la maison, si la porte du réfrigérateur (uniquement pour les compartiments réfrigérateur, congélateur et machine à glaçons) est ouverte dans un délai prédéfini.",
+    "CL_DV_ENERGY_connected_stick": "BÂTON CONNECTÉ",
+    "CL_DV_EY_wifi_signal_warning": "La puissance du signal WiFi de l'appareil est inférieure à 80 %, il ne peut donc pas être mis à jour.",
+    "CL_ENERGY_MD_self_consumption_sub": "L'utilisation immédiate de l'énergie solaire produite sur site, minimisant ainsi la dépendance au réseau.",
+    "CL_ENERGY_MD_time_of_use_sub": "Le système TOU (Time-of-Use) fait varier la consommation d'électricité en fonction de l'heure de la journée, et vous définissez l'état de la batterie pour différentes périodes.",
+    "CL_ENERGY_MD_full_backup_sub": "Un mode dans lequel la batterie se décharge avant d'utiliser l'énergie du réseau, maximisant ainsi l'utilisation de l'énergie stockée.",
+    "CL_CF_energy_timer_warning": "L'appareil ## exécute actuellement un planificateur, ce qui peut affecter l'intégration de @@. Si nécessaire, veuillez modifier les paramètres sur la page du planificateur de l'appareil.",
+    "CL_CF_energy_holiday_mode_warning": "L'appareil ## est actuellement en mode vacances et l'intégration @@ est indisponible. Elle sera effective à la désactivation du mode vacances ou à la fin des vacances.",
+    "CL_CF_energy_automation_warning": "L'appareil ## exécute actuellement une routine automatique, ce qui peut affecter l'intégration @@. Si nécessaire, veuillez modifier les paramètres sur la page d'automatisation de l'appareil.",
+    "CL_CF_energy_sterilization_warning": "L'appareil ## est actuellement en mode stérilisation et @@ ne fonctionne pas. Il sera fonctionnel une fois le mode stérilisation désactivé.",
+    "CL_CM_CK_redirect_notice": "AVIS DE REDIRECTION",
+    "CL_CM_CK_instacart_agree_content": "Vous serez redirigé vers l'application Instacart pour continuer. ConnectLife ne partage pas vos informations personnelles avec Instacart. Les conditions d'utilisation et la politique de confidentialité d'Instacart s'appliquent sur leur plateforme.",
+    "CL_CS_CF_Voice_manual": "Manuel vocal"
 }

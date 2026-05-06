@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Nominell kapasitet",
     "CLH5_WCC_setting_available_dura": "TILGJENGELIG VARIGHET",
     "CLH5_WCC_setting_reminder_time": "PÅMINNELSESTID",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Ovnen er allerede i bruk"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Du vil motta en påminnelse som hjelper deg med å overvåke familiens velvære hvis kjøleskapsdøren (kun for kjøleskapet, fryseren og ismaskinen) forblir uåpnet i 24 timer sammenhengende.",
+    "CL_DV_RF_home_come_remind_desc2": "Du vil motta en påminnelse om å varsle deg når et familiemedlem kommer hjem, hvis kjøleskapsdøren (kun for kjøleskapet, fryseren og ismaskinen) åpnes innen en forhåndsinnstilt tidsperiode.",
+    "CL_DV_ENERGY_connected_stick": "TILKOBLET PINNE",
+    "CL_DV_EY_wifi_signal_warning": "Enhetens WiFi-signalstyrke er under 80 %, derfor kan den ikke oppgraderes.",
+    "CL_ENERGY_MD_self_consumption_sub": "Umiddelbar bruk av solenergi generert på stedet, noe som minimerer avhengigheten av strømnettet.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (brukstid) varierer strømforbruket basert på tidspunktet på døgnet, og du definerer batteristatusen for ulike perioder.",
+    "CL_ENERGY_MD_full_backup_sub": "En modus der batteriet utlades før det bruker strøm fra nettet, noe som maksimerer utnyttelsen av lagret energi.",
+    "CL_CF_energy_timer_warning": "Enheten ## har for øyeblikket en kjørende planlegger, noe som kan påvirke @@-integrasjonen. Juster innstillingene på enhetens planleggerside om nødvendig.",
+    "CL_CF_energy_holiday_mode_warning": "##-enheten kjører for øyeblikket feriemodus, og @@-integrasjonen fungerer ikke. Den trer i kraft når feriemodus slås av eller ferieperioden avsluttes.",
+    "CL_CF_energy_automation_warning": "Enheten ## kjører for øyeblikket en automatisk rutine, noe som kan påvirke @@-integrasjonen. Juster innstillingene på enhetens automatiseringsside om nødvendig.",
+    "CL_CF_energy_sterilization_warning": "Apparatet ## kjører for øyeblikket i steriliseringsmodus, og @@ fungerer ikke. Dette vil tre i kraft etter at steriliseringsmodus er slått av.",
+    "CL_CM_CK_redirect_notice": "VIDEREKORDERVARSEL",
+    "CL_CM_CK_instacart_agree_content": "Du blir omdirigert til Instacarts app for å fortsette. ConnectLife deler ikke din personlige informasjon med Instacart. Instacarts vilkår og personvernregler gjelder på plattformen deres.",
+    "CL_CS_CF_Voice_manual": "Stemmemanual"
 }

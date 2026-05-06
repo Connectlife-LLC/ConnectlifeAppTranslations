@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "정격 용량",
     "CLH5_WCC_setting_available_dura": "이용 가능 기간",
     "CLH5_WCC_setting_reminder_time": "알림 시간",
-    "CL_DISH_DESIGNER_oven_already_in_use": "오븐은 이미 사용 중입니다."
+    "CL_DV_RF_reminder_to_leave_home_desc2": "냉장고 문(냉장실, 냉동실, 제빙실에만 해당)이 24시간 동안 열려 있지 않으면 가족의 안전을 확인하는 데 도움이 되는 알림을 받게 됩니다.",
+    "CL_DV_RF_home_come_remind_desc2": "냉장고, 냉동실, 제빙기 칸의 문이 설정된 시간 내에 열리면 가족 구성원이 집에 돌아왔을 때 알림을 받게 됩니다.",
+    "CL_DV_ENERGY_connected_stick": "연결된 막대",
+    "CL_DV_EY_wifi_signal_warning": "기기의 와이파이 신호 강도가 80% 미만이므로 업그레이드할 수 없습니다.",
+    "CL_ENERGY_MD_self_consumption_sub": "현장에서 생산된 태양 에너지를 즉시 사용하여 전력망 의존도를 최소화합니다.",
+    "CL_ENERGY_MD_time_of_use_sub": "시간대별 요금제(TOU)는 시간대에 따라 전력 사용량을 다르게 적용하며, 사용자는 시간대별 배터리 상태를 설정할 수 있습니다.",
+    "CL_ENERGY_MD_full_backup_sub": "배터리가 전력망을 사용하기 전에 방전되어 저장된 에너지를 최대한 활용하는 모드입니다.",
+    "CL_CF_energy_timer_warning": "## 장치에는 현재 스케줄러가 실행 중이며, 이로 인해 @@ 통합에 영향을 줄 수 있습니다. 필요한 경우 장치의 스케줄러 페이지에서 설정을 조정하십시오.",
+    "CL_CF_energy_holiday_mode_warning": "## 기기는 현재 휴가 모드로 실행 중이므로 @@ 연동 기능이 작동하지 않습니다. 휴가 모드가 해제되거나 휴가 기간이 종료되면 연동 기능이 적용됩니다.",
+    "CL_CF_energy_automation_warning": "## 기기에서 현재 자동 루틴이 실행 중이며, 이로 인해 @@ 연동에 영향을 줄 수 있습니다. 필요한 경우 기기의 자동화 페이지에서 설정을 조정하십시오.",
+    "CL_CF_energy_sterilization_warning": "## 기기는 현재 살균 모드로 작동 중이며, @@ 기능은 작동하지 않습니다. 살균 모드가 해제된 후에 작동합니다.",
+    "CL_CM_CK_redirect_notice": "리디렉션 알림",
+    "CL_CM_CK_instacart_agree_content": "계속 진행하시려면 Instacart 앱으로 이동됩니다. ConnectLife는 귀하의 개인 정보를 Instacart와 공유하지 않습니다. Instacart 플랫폼에서는 Instacart의 이용 약관 및 개인정보 보호정책이 적용됩니다.",
+    "CL_CS_CF_Voice_manual": "음성 수동"
 }

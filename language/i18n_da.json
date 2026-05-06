@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Nominel kapacitet",
     "CLH5_WCC_setting_available_dura": "TILGÆNGELIG VARIGHED",
     "CLH5_WCC_setting_reminder_time": "PÅMINDELSESTID",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Ovnen er allerede i brug"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Du vil modtage en påmindelse, der kan hjælpe dig med at overvåge din families velbefindende, hvis køleskabsdøren (kun for køleskabet, fryseren og ismaskinen) forbliver uåbnet i 24 timer i træk.",
+    "CL_DV_RF_home_come_remind_desc2": "Du modtager en påmindelse om at give dig besked, når et familiemedlem vender hjem, hvis køleskabsdøren (kun for køleskabet, fryseren og ismaskinen) åbnes inden for et forudindstillet tidsrum.",
+    "CL_DV_ENERGY_connected_stick": "FORBUNDET STIK",
+    "CL_DV_EY_wifi_signal_warning": "Enhedens WiFi-signalstyrke er under 80%, derfor kan den ikke opgraderes.",
+    "CL_ENERGY_MD_self_consumption_sub": "Øjeblikkelig udnyttelse af solenergi genereret på stedet, hvilket minimerer afhængigheden af ​​​​elnettet.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Time-of-Use) varierer strømforbruget baseret på tidspunktet på dagen, og du definerer batteristatus for forskellige perioder.",
+    "CL_ENERGY_MD_full_backup_sub": "En tilstand, hvor batteriet aflades, før det bruger strøm fra nettet, hvilket maksimerer udnyttelsen af ​​lagret energi.",
+    "CL_CF_energy_timer_warning": "Enheden ## har i øjeblikket en kørende planlægningsfunktion, hvilket kan påvirke @@-integrationen. Juster om nødvendigt indstillingerne på enhedens planlægningsside.",
+    "CL_CF_energy_holiday_mode_warning": "Enheden ## kører i øjeblikket i ferietilstand, og @@-integrationen fungerer ikke. Den træder i kraft, når ferietilstanden deaktiveres, eller ferieperioden slutter.",
+    "CL_CF_energy_automation_warning": "Enheden ## kører i øjeblikket en automatisk rutine, hvilket kan påvirke @@-integrationen. Juster indstillingerne på enhedens automatiseringsside om nødvendigt.",
+    "CL_CF_energy_sterilization_warning": "Apparatet ## kører i øjeblikket i steriliseringstilstand, og @@ fungerer ikke. Det træder i kraft, når steriliseringstilstanden er slået fra.",
+    "CL_CM_CK_redirect_notice": "OMDIREKTERINGSMEDDELELSE",
+    "CL_CM_CK_instacart_agree_content": "Du vil blive omdirigeret til Instacarts app for at fortsætte. ConnectLife deler ikke dine personlige oplysninger med Instacart. Instacarts vilkår og privatlivspolitik gælder på deres platform.",
+    "CL_CS_CF_Voice_manual": "Stemmemanual"
 }

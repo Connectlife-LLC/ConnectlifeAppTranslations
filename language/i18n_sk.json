@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Menovitá kapacita",
     "CLH5_WCC_setting_available_dura": "DOSTUPNÉ TRVANIE",
     "CLH5_WCC_setting_reminder_time": "ČAS PRIPOMENUTIA",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Rúra sa už používa"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Ak dvere chladničky (iba pre chladničku, mrazničku a výrobník ľadu) zostanú 24 hodín po sebe neotvorené, dostanete pripomienku, ktorá vám pomôže sledovať stav vašej rodiny.",
+    "CL_DV_RF_home_come_remind_desc2": "Ak sa dvere chladničky (iba pre chladničku, mrazničku a výrobník ľadu) otvoria v rámci nastaveného časového obdobia, dostanete pripomienku, ktorá vás upozorní, keď sa člen rodiny vráti domov.",
+    "CL_DV_ENERGY_connected_stick": "PRIPOJENÁ PÁČKA",
+    "CL_DV_EY_wifi_signal_warning": "Sila signálu WiFi zariadenia je nižšia ako 80 %, preto ho nie je možné aktualizovať.",
+    "CL_ENERGY_MD_self_consumption_sub": "Okamžité využitie solárnej energie generovanej na mieste, minimalizujúce závislosť od siete.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (čas používania) mení spotrebu elektriny podľa dennej doby a vy definujete stav batérie v rôznych obdobiach.",
+    "CL_ENERGY_MD_full_backup_sub": "Režim, v ktorom sa batéria vybije pred použitím energie zo siete, čím sa maximalizuje využitie uloženej energie.",
+    "CL_CF_energy_timer_warning": "Zariadenie ## má momentálne spustený plánovač, čo môže ovplyvniť integráciu @@. V prípade potreby upravte nastavenia na stránke plánovača zariadenia.",
+    "CL_CF_energy_holiday_mode_warning": "Zariadenie ## momentálne beží v režime dovolenky a integrácia @@ nefunguje. Režim sa aktivuje po vypnutí režimu dovolenky alebo po skončení obdobia dovolenky.",
+    "CL_CF_energy_automation_warning": "Zariadenie ## má momentálne spustenú automatickú rutinu, ktorá môže ovplyvniť integráciu @@. V prípade potreby upravte nastavenia na stránke automatizácie zariadenia.",
+    "CL_CF_energy_sterilization_warning": "Zariadenie ## momentálne beží v sterilizačnom režime a @@ nefunguje. Toto nastavenie sa prejaví po vypnutí sterilizačného režimu.",
+    "CL_CM_CK_redirect_notice": "OZNÁMENIE O PRESMEROVANÍ",
+    "CL_CM_CK_instacart_agree_content": "Pre pokračovanie budete presmerovaní do aplikácie Instacart. ConnectLife nezdieľa vaše osobné údaje so spoločnosťou Instacart. Na ich platforme platia zmluvné podmienky a zásady ochrany osobných údajov spoločnosti Instacart.",
+    "CL_CS_CF_Voice_manual": "Hlasový manuál"
 }

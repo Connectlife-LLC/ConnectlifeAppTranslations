@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Nominaal vermogen",
     "CLH5_WCC_setting_available_dura": "BESCHIKBARE DUUR",
     "CLH5_WCC_setting_reminder_time": "HERINNERING TIJD",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Oven is al in gebruik"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "U ontvangt een herinnering om u te helpen het welzijn van uw gezin in de gaten te houden als de koelkastdeur (alleen voor het koel-, vries- en ijsblokjesvak) 24 uur achter elkaar gesloten blijft.",
+    "CL_DV_RF_home_come_remind_desc2": "U ontvangt een herinnering wanneer een familielid thuiskomt, indien de koelkastdeur (alleen voor het koel-, vries- en ijsblokjescompartiment) binnen een vooraf ingestelde tijdsperiode wordt geopend.",
+    "CL_DV_ENERGY_connected_stick": "VERBONDEN STOK",
+    "CL_DV_EY_wifi_signal_warning": "De wifi-signaalsterkte van het apparaat is lager dan 80%, waardoor een upgrade niet mogelijk is.",
+    "CL_ENERGY_MD_self_consumption_sub": "Het direct benutten van ter plaatse opgewekte zonne-energie, waardoor de afhankelijkheid van het elektriciteitsnet wordt geminimaliseerd.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Time-of-Use) varieert het elektriciteitsverbruik op basis van het tijdstip van de dag, en u kunt de batterijstatus voor verschillende perioden instellen.",
+    "CL_ENERGY_MD_full_backup_sub": "Een modus waarbij de batterij ontlaadt voordat er netstroom wordt gebruikt, waardoor de opgeslagen energie maximaal wordt benut.",
+    "CL_CF_energy_timer_warning": "Het apparaat ## heeft momenteel een actieve planner, wat de integratie met @@ kan beïnvloeden. Pas indien nodig de instellingen aan op de plannerpagina van het apparaat.",
+    "CL_CF_energy_holiday_mode_warning": "Het apparaat ## bevindt zich momenteel in de vakantiemodus en de integratie met @@ werkt niet. Deze wordt van kracht zodra de vakantiemodus wordt uitgeschakeld of de vakantieperiode is afgelopen.",
+    "CL_CF_energy_automation_warning": "Het apparaat ## heeft momenteel een automatische routine actief, wat de integratie met @@ kan beïnvloeden. Pas indien nodig de instellingen aan op de automatiseringspagina van het apparaat.",
+    "CL_CF_energy_sterilization_warning": "Het ## apparaat draait momenteel in sterilisatiemodus en @@ werkt niet. Het wordt van kracht nadat de sterilisatiemodus is uitgeschakeld.",
+    "CL_CM_CK_redirect_notice": "DOORVERWIJDERINGSBERICHT",
+    "CL_CM_CK_instacart_agree_content": "Je wordt doorgestuurd naar de Instacart-app om verder te gaan. ConnectLife deelt je persoonlijke gegevens niet met Instacart. De algemene voorwaarden en het privacybeleid van Instacart zijn van toepassing op hun platform.",
+    "CL_CS_CF_Voice_manual": "Spraakhandleiding"
 }

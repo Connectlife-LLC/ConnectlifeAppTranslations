@@ -8313,7 +8313,7 @@
     "CL_DV_EY_master": "Master",
     "CL_DV_EY_slave": "Slave",
     "CL_CM_SM_items": "Items",
-    "CL_CM_CK_shop_instacart": "Shop with instacart",
+    "CL_CM_CK_shop_instacart": "Shop on Instacart",
     "CL_DISH_DESIGNER_send_oven_tips": "Preheat settings sent to your oven. You can start the oven when you’re ready.",
     "hood_in_hob": "Hood in Hob",
     "CL_CM_SK_instacart_transferring": "We are transferring you to the Instacart experience",
@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Rated capacity",
     "CLH5_WCC_setting_available_dura": "AVAILABLE DURATION",
     "CLH5_WCC_setting_reminder_time": "REMINDER TIME",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Oven already in use"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "You will receive a reminder to help you monitor your family's well-being if the refrigerator door (only for the fridge, freezer, and ice maker compartments) remains unopened for 24 consecutive hours.",
+    "CL_DV_RF_home_come_remind_desc2": "You will receive a reminder to notify you when a family member returns home, if the refrigerator door (only for the fridge, freezer, and ice maker compartments) is opened within a preset time period.",
+    "CL_DV_ENERGY_connected_stick": "CONNECTED STICK",
+    "CL_DV_EY_wifi_signal_warning": "The device's WiFi signal strength is below 80%, therefore it cannot be upgraded.",
+    "CL_ENERGY_MD_self_consumption_sub": "The immediate use of solar energy generated on-site, minimizing grid dependence.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Time-of-Use) varies electricity usage based on the time of day, and you define set the battery status of different period.",
+    "CL_ENERGY_MD_full_backup_sub": "A mode where the battery discharges before using grid power, maximizing stored energy utilization.",
+    "CL_CF_energy_timer_warning": "The ## device currently has a running scheduler, which may affect @@ integration. If necessary, please adjust the settings on the device's scheduler page.",
+    "CL_CF_energy_holiday_mode_warning": "The ## device is currently running holiday mode, and @@ integration is not working. It will take effect when holiday mode is turned off or the holiday period ends.",
+    "CL_CF_energy_automation_warning": "The ## device currently has an auto routine running, which may affect @@ integration. If necessary, please adjust the settings on the device's automation page.",
+    "CL_CF_energy_sterilization_warning": "The ## device is currently running in sterilization mode, and @@ is not working. It will take effect after sterilization mode is turned off.",
+    "CL_CM_CK_redirect_notice": "REDIRECT NOTICE",
+    "CL_CM_CK_instacart_agree_content": "You will be redirected to Instacart's app to continue. ConnectLife does not share your personal information with Instacart. Instacart's terms and privacy policy will apply on their platform.",
+    "CL_CS_CF_Voice_manual": "Voice manual"
 }

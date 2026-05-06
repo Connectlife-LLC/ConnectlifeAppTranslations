@@ -8460,5 +8460,18 @@
     "CL_ENERGY_Rated_capacity": "Kapasitas terukur",
     "CLH5_WCC_setting_available_dura": "DURASI YANG TERSEDIA",
     "CLH5_WCC_setting_reminder_time": "WAKTU PENGINGAT",
-    "CL_DISH_DESIGNER_oven_already_in_use": "Oven sudah digunakan"
+    "CL_DV_RF_reminder_to_leave_home_desc2": "Anda akan menerima pengingat untuk membantu Anda memantau kesehatan keluarga Anda jika pintu kulkas (hanya untuk kompartemen kulkas, freezer, dan pembuat es) tetap tidak dibuka selama 24 jam berturut-turut.",
+    "CL_DV_RF_home_come_remind_desc2": "Anda akan menerima pengingat untuk memberi tahu Anda ketika anggota keluarga pulang, jika pintu kulkas (hanya untuk kompartemen kulkas, freezer, dan pembuat es) dibuka dalam jangka waktu yang telah ditentukan.",
+    "CL_DV_ENERGY_connected_stick": "Tongkat Terhubung",
+    "CL_DV_EY_wifi_signal_warning": "Kekuatan sinyal WiFi perangkat berada di bawah 80%, oleh karena itu perangkat tidak dapat diupgrade.",
+    "CL_ENERGY_MD_self_consumption_sub": "Penggunaan langsung energi surya yang dihasilkan di lokasi, meminimalkan ketergantungan pada jaringan listrik.",
+    "CL_ENERGY_MD_time_of_use_sub": "TOU (Time-of-Use) mengatur penggunaan listrik berdasarkan waktu dalam sehari, dan Anda dapat menentukan status baterai untuk periode yang berbeda.",
+    "CL_ENERGY_MD_full_backup_sub": "Suatu mode di mana baterai melepaskan dayanya sebelum menggunakan listrik dari jaringan, sehingga memaksimalkan pemanfaatan energi yang tersimpan.",
+    "CL_CF_energy_timer_warning": "Perangkat ## saat ini memiliki penjadwal yang sedang berjalan, yang mungkin memengaruhi integrasi @@. Jika perlu, harap sesuaikan pengaturan pada halaman penjadwal perangkat.",
+    "CL_CF_energy_holiday_mode_warning": "Perangkat ## saat ini sedang menjalankan mode liburan, dan integrasi @@ tidak berfungsi. Integrasi akan berlaku ketika mode liburan dimatikan atau periode liburan berakhir.",
+    "CL_CF_energy_automation_warning": "Perangkat ## saat ini memiliki rutinitas otomatis yang berjalan, yang mungkin memengaruhi integrasi @@. Jika perlu, harap sesuaikan pengaturan pada halaman otomatisasi perangkat.",
+    "CL_CF_energy_sterilization_warning": "Perangkat ## saat ini sedang berjalan dalam mode sterilisasi, dan @@ tidak berfungsi. Fungsinya akan berlaku setelah mode sterilisasi dimatikan.",
+    "CL_CM_CK_redirect_notice": "PEMBERITAHUAN PENGALIHAN",
+    "CL_CM_CK_instacart_agree_content": "Anda akan dialihkan ke aplikasi Instacart untuk melanjutkan. ConnectLife tidak membagikan informasi pribadi Anda dengan Instacart. Syarat dan kebijakan privasi Instacart akan berlaku di platform mereka.",
+    "CL_CS_CF_Voice_manual": "Manual suara"
 }
