@@ -8473,5 +8473,8 @@
     "CL_CF_energy_sterilization_warning": "Naprava ## trenutno deluje v načinu sterilizacije in @@ ne deluje. Učinek se bo začel po izklopu načina sterilizacije.",
     "CL_CM_CK_redirect_notice": "OBVESTILO O PREUSMERITVI",
     "CL_CM_CK_instacart_agree_content": "Za nadaljevanje boste preusmerjeni v aplikacijo Instacart. ConnectLife ne deli vaših osebnih podatkov z Instacartom. Na njihovi platformi veljajo pogoji in politika zasebnosti Instacarta.",
-    "CL_CS_CF_Voice_manual": "Glasovni priročnik"
+    "CL_CS_CF_Voice_manual": "Glasovni priročnik",
+    "CL_TS_threshold_auto_desc": "Samodejno segmentirajte glede na podatke o ceni električne energije, ki jih nastavite.",
+    "CL_TS_threshold_segments_three_desc": "Cene električne energije bodo razdeljene na negativne, nizke in visoke.",
+    "CL_TS_threshold_segments_four_desc": "Cene električne energije bodo razdeljene na negativne, nizke, srednje in visoke."
 }
