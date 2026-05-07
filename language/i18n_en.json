@@ -8473,5 +8473,8 @@
     "CL_CF_energy_sterilization_warning": "The ## device is currently running in sterilization mode, and @@ is not working. It will take effect after sterilization mode is turned off.",
     "CL_CM_CK_redirect_notice": "REDIRECT NOTICE",
     "CL_CM_CK_instacart_agree_content": "You will be redirected to Instacart's app to continue. ConnectLife does not share your personal information with Instacart. Instacart's terms and privacy policy will apply on their platform.",
-    "CL_CS_CF_Voice_manual": "Voice manual"
+    "CL_CS_CF_Voice_manual": "Voice manual",
+    "CL_TS_threshold_auto_desc": "Automatically segment based on the electricity price data you set.",
+    "CL_TS_threshold_segments_three_desc": "Electricity prices will be divided into negative, low, and high.",
+    "CL_TS_threshold_segments_four_desc": "Electricity prices will be divided into negative, low, medium , and high."
 }
