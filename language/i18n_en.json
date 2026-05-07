@@ -8317,7 +8317,7 @@
     "CL_DISH_DESIGNER_send_oven_tips": "Preheat settings sent to your oven. You can start the oven when you’re ready.",
     "hood_in_hob": "Hood in Hob",
     "CL_CM_SK_instacart_transferring": "We are transferring you to the Instacart experience",
-    "CL_CM_SK_instacart_your_cart": "Continue to Instacart to choose your products, arrange delivery and pay for your cart.",
+    "CL_CM_SK_instacart_your_cart": "You'll be able to browse products, schedule delivery, and complete your purchase on Instacart.",
     "CL_CM_SK_powered_by": "Powered By",
     "CL_DEMO_not_available_message": "Not available in Demo mode",
     "CL_CF_consent_title": "Consent",
@@ -8473,5 +8473,9 @@
     "CL_CF_energy_sterilization_warning": "The ## device is currently running in sterilization mode, and @@ is not working. It will take effect after sterilization mode is turned off.",
     "CL_CM_CK_redirect_notice": "REDIRECT NOTICE",
     "CL_CM_CK_instacart_agree_content": "You will be redirected to Instacart's app to continue. ConnectLife does not share your personal information with Instacart. Instacart's terms and privacy policy will apply on their platform.",
-    "CL_CS_CF_Voice_manual": "Voice manual"
+    "CL_CS_CF_Voice_manual": "Voice manual",
+    "CL_TS_threshold_auto_desc": "Automatically segment based on the electricity price data you set.",
+    "CL_TS_threshold_segments_three_desc": "Electricity prices will be divided into negative, low, and high.",
+    "CL_TS_threshold_segments_four_desc": "Electricity prices will be divided into negative, low, medium , and high.",
+    "CL_DV_ENERGY_connected_inverter": "CONNECTED INVERTER"
 }
