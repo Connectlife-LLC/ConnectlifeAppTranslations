@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "설정한 전기 요금 데이터를 기반으로 자동으로 세그먼트를 나눕니다.",
     "CL_TS_threshold_segments_three_desc": "전기 요금은 마이너스, 저가, 고가로 구분됩니다.",
     "CL_TS_threshold_segments_four_desc": "전기 요금은 마이너스, 저가, 중가, 고가로 구분됩니다.",
-    "CL_DV_ENERGY_connected_inverter": "연결형 인버터"
+    "CL_DV_ENERGY_connected_inverter": "연결형 인버터",
+    "CL_DV_WM_dirtiness_low": "저속",
+    "CL_DV_WM_dirtiness_medium": "중간",
+    "CL_DV_WM_dirtiness_high": "고속",
+    "CL_DV_EY_basic_info": "기본 정보"
 }

@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "Automatski segmentirajte na temelju podataka o cijeni električne energije koje postavite.",
     "CL_TS_threshold_segments_three_desc": "Cijene električne energije bit će podijeljene na negativne, niske i visoke.",
     "CL_TS_threshold_segments_four_desc": "Cijene električne energije bit će podijeljene na negativne, niske, srednje i visoke.",
-    "CL_DV_ENERGY_connected_inverter": "PRIKLJUČENI INVERTER"
+    "CL_DV_ENERGY_connected_inverter": "PRIKLJUČENI INVERTER",
+    "CL_DV_WM_dirtiness_low": "Niska brzina",
+    "CL_DV_WM_dirtiness_medium": "Srednji",
+    "CL_DV_WM_dirtiness_high": "Visoka brzina",
+    "CL_DV_EY_basic_info": "OSNOVNE INFORMACIJE"
 }
