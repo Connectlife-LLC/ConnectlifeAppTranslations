@@ -8477,5 +8477,10 @@
     "CL_TS_threshold_auto_desc": "Αυτόματη τμηματοποίηση με βάση τα δεδομένα τιμής ηλεκτρικής ενέργειας που ορίζετε.",
     "CL_TS_threshold_segments_three_desc": "Οι τιμές ηλεκτρικής ενέργειας θα χωρίζονται σε αρνητικές, χαμηλές και υψηλές.",
     "CL_TS_threshold_segments_four_desc": "Οι τιμές της ηλεκτρικής ενέργειας θα χωρίζονται σε αρνητικές, χαμηλές, μεσαίες και υψηλές.",
-    "CL_DV_ENERGY_connected_inverter": "ΣΥΝΔΕΔΕΜΕΝΟΣ ΜΕΤΑΤΡΟΠΕΑΣ"
+    "CL_DV_ENERGY_connected_inverter": "ΣΥΝΔΕΔΕΜΕΝΟΣ ΜΕΤΑΤΡΟΠΕΑΣ",
+    "CL_DV_WM_dirtiness_low": "Χαμηλός",
+    "CL_DV_WM_dirtiness_medium": "Μεσαίο",
+    "CL_DV_WM_dirtiness_high": "Υψηλός",
+    "CL_DV_EY_basic_info": "ΒΑΣΙΚΕΣ ΠΛΗΡΟΦΟΡΙΕΣ",
+    "CL_DV_RF_durafresh_toast_content": "Η θερμοκρασία του θαλάμου DuraFresh ρυθμίστηκε με επιτυχία στο ##"
 }
