@@ -8477,5 +8477,10 @@
     "CL_TS_threshold_auto_desc": "Segmenta automáticamente en función de los datos de precios de electricidad que hayas configurado.",
     "CL_TS_threshold_segments_three_desc": "Los precios de la electricidad se dividirán en negativos, bajos y altos.",
     "CL_TS_threshold_segments_four_desc": "Los precios de la electricidad se dividirán en negativos, bajos, medios y altos.",
-    "CL_DV_ENERGY_connected_inverter": "INVERSOR CONECTADO"
+    "CL_DV_ENERGY_connected_inverter": "INVERSOR CONECTADO",
+    "CL_DV_WM_dirtiness_low": "Bajo",
+    "CL_DV_WM_dirtiness_medium": "Mediana",
+    "CL_DV_WM_dirtiness_high": "Alto",
+    "CL_DV_EY_basic_info": "INFORMACIÓN BÁSICA",
+    "CL_DV_RF_durafresh_toast_content": "La temperatura del compartimento DuraFresh se ha configurado correctamente a ##"
 }
