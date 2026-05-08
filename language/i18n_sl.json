@@ -8477,5 +8477,10 @@
     "CL_TS_threshold_auto_desc": "Samodejno segmentirajte glede na podatke o ceni električne energije, ki jih nastavite.",
     "CL_TS_threshold_segments_three_desc": "Cene električne energije bodo razdeljene na negativne, nizke in visoke.",
     "CL_TS_threshold_segments_four_desc": "Cene električne energije bodo razdeljene na negativne, nizke, srednje in visoke.",
-    "CL_DV_ENERGY_connected_inverter": "PRIKLJUČEN INVERTER"
+    "CL_DV_ENERGY_connected_inverter": "PRIKLJUČEN INVERTER",
+    "CL_DV_WM_dirtiness_low": "Nizko",
+    "CL_DV_WM_dirtiness_medium": "Srednje",
+    "CL_DV_WM_dirtiness_high": "Veliko",
+    "CL_DV_EY_basic_info": "OSNOVNE INFORMACIJE",
+    "CL_DV_RF_durafresh_toast_content": "Temperatura predala DuraFresh je bila uspešno nastavljena na ##"
 }

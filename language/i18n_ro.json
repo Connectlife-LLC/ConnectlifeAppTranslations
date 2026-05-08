@@ -8477,5 +8477,10 @@
     "CL_TS_threshold_auto_desc": "Segmentează automat pe baza datelor despre prețul energiei electrice pe care le setezi.",
     "CL_TS_threshold_segments_three_desc": "Prețurile la electricitate vor fi împărțite în negative, mici și mari.",
     "CL_TS_threshold_segments_four_desc": "Prețurile la energie electrică vor fi împărțite în negative, mici, medii și mari.",
-    "CL_DV_ENERGY_connected_inverter": "INVERTOR CONECTAT"
+    "CL_DV_ENERGY_connected_inverter": "INVERTOR CONECTAT",
+    "CL_DV_WM_dirtiness_low": "Lent",
+    "CL_DV_WM_dirtiness_medium": "Mediu",
+    "CL_DV_WM_dirtiness_high": "Înalt",
+    "CL_DV_EY_basic_info": "INFORMAȚII DE BAZĂ",
+    "CL_DV_RF_durafresh_toast_content": "Temperatura compartimentului DuraFresh a fost setată cu succes la ##"
 }

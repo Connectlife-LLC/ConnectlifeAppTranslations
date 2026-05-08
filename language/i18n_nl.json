@@ -8477,5 +8477,10 @@
     "CL_TS_threshold_auto_desc": "Automatisch segmenteren op basis van de door u ingestelde elektriciteitsprijsgegevens.",
     "CL_TS_threshold_segments_three_desc": "De elektriciteitsprijzen worden onderverdeeld in negatief, laag en hoog.",
     "CL_TS_threshold_segments_four_desc": "De elektriciteitsprijzen worden onderverdeeld in negatief, laag, gemiddeld en hoog.",
-    "CL_DV_ENERGY_connected_inverter": "AANGESLOTEN OMvormer"
+    "CL_DV_ENERGY_connected_inverter": "AANGESLOTEN OMvormer",
+    "CL_DV_WM_dirtiness_low": "Laag",
+    "CL_DV_WM_dirtiness_medium": "Medium",
+    "CL_DV_WM_dirtiness_high": "Hoog",
+    "CL_DV_EY_basic_info": "BASISINFORMATIE",
+    "CL_DV_RF_durafresh_toast_content": "De temperatuur van het DuraFresh-compartiment is succesvol ingesteld op ##."
 }
