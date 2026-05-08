@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "Automatycznie segmentuj na podstawie ustawionych danych o cenach energii elektrycznej.",
     "CL_TS_threshold_segments_three_desc": "Ceny energii elektrycznej będą podzielone na ujemne, niskie i wysokie.",
     "CL_TS_threshold_segments_four_desc": "Ceny energii elektrycznej będą podzielone na ujemne, niskie, średnie i wysokie.",
-    "CL_DV_ENERGY_connected_inverter": "PODŁĄCZONY FALOWNIK"
+    "CL_DV_ENERGY_connected_inverter": "PODŁĄCZONY FALOWNIK",
+    "CL_DV_WM_dirtiness_low": "Niskie",
+    "CL_DV_WM_dirtiness_medium": "Średni",
+    "CL_DV_WM_dirtiness_high": "Wysokie",
+    "CL_DV_EY_basic_info": "PODSTAWOWE INFORMACJE"
 }

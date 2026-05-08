@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "Segmentera automatiskt baserat på den elprisdata du anger.",
     "CL_TS_threshold_segments_three_desc": "Elpriserna kommer att delas in i negativa, låga och höga.",
     "CL_TS_threshold_segments_four_desc": "Elpriserna kommer att delas in i negativa, låga, medelhöga och höga.",
-    "CL_DV_ENERGY_connected_inverter": "ANSLUTEN VÄXELRIKTARE"
+    "CL_DV_ENERGY_connected_inverter": "ANSLUTEN VÄXELRIKTARE",
+    "CL_DV_WM_dirtiness_low": "Låg",
+    "CL_DV_WM_dirtiness_medium": "Medium",
+    "CL_DV_WM_dirtiness_high": "Hög",
+    "CL_DV_EY_basic_info": "GRUNDLÄGGANDE INFORMATION"
 }

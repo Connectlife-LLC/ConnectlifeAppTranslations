@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "Segmentation automatique basée sur les données de prix de l'électricité que vous avez définies.",
     "CL_TS_threshold_segments_three_desc": "Les prix de l'électricité seront classés en négatifs, bas et élevés.",
     "CL_TS_threshold_segments_four_desc": "Les prix de l'électricité seront classés en quatre catégories : négatifs, bas, moyens et élevés.",
-    "CL_DV_ENERGY_connected_inverter": "ONDULEUR CONNECTÉ"
+    "CL_DV_ENERGY_connected_inverter": "ONDULEUR CONNECTÉ",
+    "CL_DV_WM_dirtiness_low": "Débutant",
+    "CL_DV_WM_dirtiness_medium": "Moyen",
+    "CL_DV_WM_dirtiness_high": "Élevé",
+    "CL_DV_EY_basic_info": "INFORMATIONS DE BASE"
 }

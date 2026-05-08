@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "แบ่งกลุ่มโดยอัตโนมัติตามข้อมูลราคาค่าไฟฟ้าที่คุณตั้งค่าไว้",
     "CL_TS_threshold_segments_three_desc": "ราคาค่าไฟฟ้าจะแบ่งออกเป็นติดลบ ต่ำ และสูง",
     "CL_TS_threshold_segments_four_desc": "ราคาค่าไฟฟ้าจะถูกแบ่งออกเป็นติดลบ ต่ำ ปานกลาง และสูง",
-    "CL_DV_ENERGY_connected_inverter": "อินเวอร์เตอร์ที่เชื่อมต่อ"
+    "CL_DV_ENERGY_connected_inverter": "อินเวอร์เตอร์ที่เชื่อมต่อ",
+    "CL_DV_WM_dirtiness_low": "ความเร็วต่ำ",
+    "CL_DV_WM_dirtiness_medium": "ปานกลาง",
+    "CL_DV_WM_dirtiness_high": "ความเร็วสูง",
+    "CL_DV_EY_basic_info": "ข้อมูลพื้นฐาน"
 }

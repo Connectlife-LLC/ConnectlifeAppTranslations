@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "Segmenter automatisk baseret på de elprisdata, du angiver.",
     "CL_TS_threshold_segments_three_desc": "Elpriserne vil blive opdelt i negative, lave og høje.",
     "CL_TS_threshold_segments_four_desc": "Elpriserne vil blive opdelt i negative, lave, mellem og høje.",
-    "CL_DV_ENERGY_connected_inverter": "TILSLUTTENDE INVERTER"
+    "CL_DV_ENERGY_connected_inverter": "TILSLUTTENDE INVERTER",
+    "CL_DV_WM_dirtiness_low": "Lav",
+    "CL_DV_WM_dirtiness_medium": "Medium",
+    "CL_DV_WM_dirtiness_high": "Høj",
+    "CL_DV_EY_basic_info": "GRUNDLÆGGENDE INFORMATION"
 }

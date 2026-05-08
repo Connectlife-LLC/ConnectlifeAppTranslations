@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "根據您設定的電價資料自動進行細分。",
     "CL_TS_threshold_segments_three_desc": "電價將分為負價、低價和高價。",
     "CL_TS_threshold_segments_four_desc": "電價將分為負價、低價、中價和高價。",
-    "CL_DV_ENERGY_connected_inverter": "已連接的逆變器"
+    "CL_DV_ENERGY_connected_inverter": "已連接的逆變器",
+    "CL_DV_WM_dirtiness_low": "輕度",
+    "CL_DV_WM_dirtiness_medium": "普通",
+    "CL_DV_WM_dirtiness_high": "重度",
+    "CL_DV_EY_basic_info": "基本訊息"
 }

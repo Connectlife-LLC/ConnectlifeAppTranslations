@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "Segmenkan secara automatik berdasarkan data harga elektrik yang anda tetapkan.",
     "CL_TS_threshold_segments_three_desc": "Harga elektrik akan dibahagikan kepada negatif, rendah dan tinggi.",
     "CL_TS_threshold_segments_four_desc": "Harga elektrik akan dibahagikan kepada negatif, rendah, sederhana dan tinggi.",
-    "CL_DV_ENERGY_connected_inverter": "INVERTER BERSAMBUNG"
+    "CL_DV_ENERGY_connected_inverter": "INVERTER BERSAMBUNG",
+    "CL_DV_WM_dirtiness_low": "Rendah",
+    "CL_DV_WM_dirtiness_medium": "Sederhana",
+    "CL_DV_WM_dirtiness_high": "Tinggi",
+    "CL_DV_EY_basic_info": "MAKLUMAT ASAS"
 }

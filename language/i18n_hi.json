@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "आपके द्वारा निर्धारित बिजली मूल्य डेटा के आधार पर स्वचालित रूप से सेगमेंटेशन करें।",
     "CL_TS_threshold_segments_three_desc": "बिजली की कीमतों को नकारात्मक, कम और अधिक में विभाजित किया जाएगा।",
     "CL_TS_threshold_segments_four_desc": "बिजली की कीमतों को नकारात्मक, निम्न, मध्यम और उच्च श्रेणियों में विभाजित किया जाएगा।",
-    "CL_DV_ENERGY_connected_inverter": "कनेक्टेड इन्वर्टर"
+    "CL_DV_ENERGY_connected_inverter": "कनेक्टेड इन्वर्टर",
+    "CL_DV_WM_dirtiness_low": "निम्न गति",
+    "CL_DV_WM_dirtiness_medium": "मध्यम",
+    "CL_DV_WM_dirtiness_high": "उच्च गति",
+    "CL_DV_EY_basic_info": "बुनियादी जानकारी"
 }

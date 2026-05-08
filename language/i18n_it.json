@@ -8477,5 +8477,9 @@
     "CL_TS_threshold_auto_desc": "Segmentazione automatica in base ai dati sui prezzi dell'energia elettrica impostati.",
     "CL_TS_threshold_segments_three_desc": "I prezzi dell'elettricità saranno suddivisi in negativi, bassi e alti.",
     "CL_TS_threshold_segments_four_desc": "I prezzi dell'elettricità saranno suddivisi in negativi, bassi, medi e alti.",
-    "CL_DV_ENERGY_connected_inverter": "INVERTER COLLEGATO"
+    "CL_DV_ENERGY_connected_inverter": "INVERTER COLLEGATO",
+    "CL_DV_WM_dirtiness_low": "Basso",
+    "CL_DV_WM_dirtiness_medium": "Medio",
+    "CL_DV_WM_dirtiness_high": "Alto",
+    "CL_DV_EY_basic_info": "INFORMAZIONI DI BASE"
 }
