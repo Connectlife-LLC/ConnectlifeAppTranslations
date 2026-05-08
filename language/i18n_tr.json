@@ -8477,5 +8477,10 @@
     "CL_TS_threshold_auto_desc": "Belirlediğiniz elektrik fiyatı verilerine göre otomatik olarak segmentasyon yapın.",
     "CL_TS_threshold_segments_three_desc": "Elektrik fiyatları negatif, düşük ve yüksek olmak üzere üç kategoriye ayrılacaktır.",
     "CL_TS_threshold_segments_four_desc": "Elektrik fiyatları negatif, düşük, orta ve yüksek olmak üzere dört kategoriye ayrılacaktır.",
-    "CL_DV_ENERGY_connected_inverter": "BAĞLI İNVERTER"
+    "CL_DV_ENERGY_connected_inverter": "BAĞLI İNVERTER",
+    "CL_DV_WM_dirtiness_low": "Düşük",
+    "CL_DV_WM_dirtiness_medium": "Orta",
+    "CL_DV_WM_dirtiness_high": "Yüksek",
+    "CL_DV_EY_basic_info": "TEMEL BİLGİLER",
+    "CL_DV_RF_durafresh_toast_content": "DuraFresh bölmesinin sıcaklığı başarıyla ## olarak ayarlandı."
 }
