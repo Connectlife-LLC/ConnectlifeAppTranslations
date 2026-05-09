@@ -8477,5 +8477,14 @@
     "CL_TS_threshold_auto_desc": "Automatische Segmentierung basierend auf den von Ihnen festgelegten Strompreisdaten.",
     "CL_TS_threshold_segments_three_desc": "Die Strompreise werden in negative, niedrige und hohe Preise unterteilt.",
     "CL_TS_threshold_segments_four_desc": "Die Strompreise werden in negativ, niedrig, mittel und hoch unterteilt.",
-    "CL_DV_ENERGY_connected_inverter": "ANGESCHLOSSENER WECHSELRICHTER"
+    "CL_DV_ENERGY_connected_inverter": "ANGESCHLOSSENER WECHSELRICHTER",
+    "CL_DV_WM_dirtiness_low": "Niedrig",
+    "CL_DV_WM_dirtiness_medium": "Mittel",
+    "CL_DV_WM_dirtiness_high": "Hoch",
+    "CL_DV_EY_basic_info": "GRUNDINFORMATIONEN",
+    "CL_DV_RF_durafresh_toast_content": "Die Temperatur des DuraFresh-Fachs wurde erfolgreich auf ## eingestellt.",
+    "CL_DV_TV_no_device_was_found": "Es wurde kein Gerät gefunden",
+    "CL_DV_TV_follow_step_c_tv": "Folgen Sie diesen Schritten, um eine Verbindung zu Ihrem Fernseher herzustellen. ",
+    "CL_CM_accessories_spare_parts": "Zubehör und Ersatzteile",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "Möchten Sie die Verbindung zum Fernseher trennen?"
 }

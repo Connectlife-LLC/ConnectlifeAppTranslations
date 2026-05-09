@@ -8477,5 +8477,14 @@
     "CL_TS_threshold_auto_desc": "Автоматски сегментирајте врз основа на податоците за цената на електричната енергија што ќе ги поставите.",
     "CL_TS_threshold_segments_three_desc": "Цените на електричната енергија ќе бидат поделени на негативни, ниски и високи.",
     "CL_TS_threshold_segments_four_desc": "Цените на електричната енергија ќе бидат поделени на негативни, ниски, средни и високи.",
-    "CL_DV_ENERGY_connected_inverter": "ПОВРЗАН ИНВЕРТЕР"
+    "CL_DV_ENERGY_connected_inverter": "ПОВРЗАН ИНВЕРТЕР",
+    "CL_DV_WM_dirtiness_low": "Ниска",
+    "CL_DV_WM_dirtiness_medium": "Средно",
+    "CL_DV_WM_dirtiness_high": "Висока",
+    "CL_DV_EY_basic_info": "ОСНОВНИ ИНФОРМАЦИИ",
+    "CL_DV_RF_durafresh_toast_content": "Температурата на преградата DuraFresh е успешно поставена на ##",
+    "CL_DV_TV_no_device_was_found": "Не е пронајден уред",
+    "CL_DV_TV_follow_step_c_tv": "Следете ги овие чекори за да се поврзете со вашиот телевизор. ",
+    "CL_CM_accessories_spare_parts": "Додатоци и резервни делови",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "Дали сакате да го распарите телевизорот?"
 }

@@ -8477,5 +8477,14 @@
     "CL_TS_threshold_auto_desc": "Segmentation automatique basée sur les données de prix de l'électricité que vous avez définies.",
     "CL_TS_threshold_segments_three_desc": "Les prix de l'électricité seront classés en négatifs, bas et élevés.",
     "CL_TS_threshold_segments_four_desc": "Les prix de l'électricité seront classés en quatre catégories : négatifs, bas, moyens et élevés.",
-    "CL_DV_ENERGY_connected_inverter": "ONDULEUR CONNECTÉ"
+    "CL_DV_ENERGY_connected_inverter": "ONDULEUR CONNECTÉ",
+    "CL_DV_WM_dirtiness_low": "Débutant",
+    "CL_DV_WM_dirtiness_medium": "Moyen",
+    "CL_DV_WM_dirtiness_high": "Élevé",
+    "CL_DV_EY_basic_info": "INFORMATIONS DE BASE",
+    "CL_DV_RF_durafresh_toast_content": "Température du compartiment DuraFresh réglée avec succès sur ##",
+    "CL_DV_TV_no_device_was_found": "Aucun appareil n'a été trouvé.",
+    "CL_DV_TV_follow_step_c_tv": "Suivez ces étapes pour vous connecter à votre téléviseur. ",
+    "CL_CM_accessories_spare_parts": "Accessoires et pièces détachées",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "Voulez-vous déconnecter le téléviseur ?"
 }

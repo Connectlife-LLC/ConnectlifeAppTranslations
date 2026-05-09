@@ -8477,5 +8477,14 @@
     "CL_TS_threshold_auto_desc": "Автоматическая сегментация на основе заданных вами данных о ценах на электроэнергию.",
     "CL_TS_threshold_segments_three_desc": "Цены на электроэнергию будут разделены на отрицательные, низкие и высокие.",
     "CL_TS_threshold_segments_four_desc": "Цены на электроэнергию будут разделены на отрицательные, низкие, средние и высокие.",
-    "CL_DV_ENERGY_connected_inverter": "ПОДКЛЮЧЕННЫЙ ИНВЕРТОР"
+    "CL_DV_ENERGY_connected_inverter": "ПОДКЛЮЧЕННЫЙ ИНВЕРТОР",
+    "CL_DV_WM_dirtiness_low": "Низкий",
+    "CL_DV_WM_dirtiness_medium": "Средний",
+    "CL_DV_WM_dirtiness_high": "Высокий",
+    "CL_DV_EY_basic_info": "ОСНОВНАЯ ИНФОРМАЦИЯ",
+    "CL_DV_RF_durafresh_toast_content": "Температура отсека DuraFresh успешно установлена ​​на ##",
+    "CL_DV_TV_no_device_was_found": "Устройство не обнаружено",
+    "CL_DV_TV_follow_step_c_tv": "Выполните следующие шаги, чтобы подключиться к телевизору. ",
+    "CL_CM_accessories_spare_parts": "Аксессуары и запасные части",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "Вы хотите отменить сопряжение телевизора?"
 }

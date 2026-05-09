@@ -8477,5 +8477,14 @@
     "CL_TS_threshold_auto_desc": "Automaticky segmentovať na základe údajov o cene elektriny, ktoré zadáte.",
     "CL_TS_threshold_segments_three_desc": "Ceny elektriny budú rozdelené na záporné, nízke a vysoké.",
     "CL_TS_threshold_segments_four_desc": "Ceny elektriny budú rozdelené na záporné, nízke, stredné a vysoké.",
-    "CL_DV_ENERGY_connected_inverter": "PRIPOJENÝ INVERTOR"
+    "CL_DV_ENERGY_connected_inverter": "PRIPOJENÝ INVERTOR",
+    "CL_DV_WM_dirtiness_low": "nízka",
+    "CL_DV_WM_dirtiness_medium": "Stredná",
+    "CL_DV_WM_dirtiness_high": "vysoká",
+    "CL_DV_EY_basic_info": "ZÁKLADNÉ INFORMÁCIE",
+    "CL_DV_RF_durafresh_toast_content": "Teplota priehradky DuraFresh bola úspešne nastavená na ##",
+    "CL_DV_TV_no_device_was_found": "Nebolo nájdené žiadne zariadenie",
+    "CL_DV_TV_follow_step_c_tv": "Pre pripojenie k televízoru postupujte podľa týchto krokov. ",
+    "CL_CM_accessories_spare_parts": "Príslušenstvo a náhradné diely",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "Chcete zrušiť párovanie televízora?"
 }

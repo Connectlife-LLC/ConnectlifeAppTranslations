@@ -8477,5 +8477,14 @@
     "CL_TS_threshold_auto_desc": "แบ่งกลุ่มโดยอัตโนมัติตามข้อมูลราคาค่าไฟฟ้าที่คุณตั้งค่าไว้",
     "CL_TS_threshold_segments_three_desc": "ราคาค่าไฟฟ้าจะแบ่งออกเป็นติดลบ ต่ำ และสูง",
     "CL_TS_threshold_segments_four_desc": "ราคาค่าไฟฟ้าจะถูกแบ่งออกเป็นติดลบ ต่ำ ปานกลาง และสูง",
-    "CL_DV_ENERGY_connected_inverter": "อินเวอร์เตอร์ที่เชื่อมต่อ"
+    "CL_DV_ENERGY_connected_inverter": "อินเวอร์เตอร์ที่เชื่อมต่อ",
+    "CL_DV_WM_dirtiness_low": "ความเร็วต่ำ",
+    "CL_DV_WM_dirtiness_medium": "ปานกลาง",
+    "CL_DV_WM_dirtiness_high": "ความเร็วสูง",
+    "CL_DV_EY_basic_info": "ข้อมูลพื้นฐาน",
+    "CL_DV_RF_durafresh_toast_content": "ตั้งอุณหภูมิของช่อง DuraFresh สำเร็จแล้วที่ ##",
+    "CL_DV_TV_no_device_was_found": "ไม่พบอุปกรณ์",
+    "CL_DV_TV_follow_step_c_tv": "ทำตามขั้นตอนเหล่านี้เพื่อเชื่อมต่อกับทีวีของคุณ ",
+    "CL_CM_accessories_spare_parts": "อุปกรณ์เสริมและอะไหล่",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "คุณต้องการยกเลิกการจับคู่ทีวีหรือไม่?"
 }

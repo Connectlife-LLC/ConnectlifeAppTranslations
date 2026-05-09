@@ -8477,5 +8477,14 @@
     "CL_TS_threshold_auto_desc": "Segmenter automatisk baseret på de elprisdata, du angiver.",
     "CL_TS_threshold_segments_three_desc": "Elpriserne vil blive opdelt i negative, lave og høje.",
     "CL_TS_threshold_segments_four_desc": "Elpriserne vil blive opdelt i negative, lave, mellem og høje.",
-    "CL_DV_ENERGY_connected_inverter": "TILSLUTTENDE INVERTER"
+    "CL_DV_ENERGY_connected_inverter": "TILSLUTTENDE INVERTER",
+    "CL_DV_WM_dirtiness_low": "Lav",
+    "CL_DV_WM_dirtiness_medium": "Medium",
+    "CL_DV_WM_dirtiness_high": "Høj",
+    "CL_DV_EY_basic_info": "GRUNDLÆGGENDE INFORMATION",
+    "CL_DV_RF_durafresh_toast_content": "Temperaturen i DuraFresh-skuffen er korrekt indstillet til ##",
+    "CL_DV_TV_no_device_was_found": "Ingen enhed fundet",
+    "CL_DV_TV_follow_step_c_tv": "Følg disse trin for at oprette forbindelse til dit tv. ",
+    "CL_CM_accessories_spare_parts": "Tilbehør og reservedele",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "Vil du ophæve parringen med tv'et?"
 }

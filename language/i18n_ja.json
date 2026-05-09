@@ -8477,5 +8477,14 @@
     "CL_TS_threshold_auto_desc": "設定した電気料金データに基づいて、自動的にセグメント分けを行います。",
     "CL_TS_threshold_segments_three_desc": "電気料金は、マイナス、低価格、高価格の3段階に分けられます。",
     "CL_TS_threshold_segments_four_desc": "電気料金は、マイナス、低、中、高の4段階に分けられます。",
-    "CL_DV_ENERGY_connected_inverter": "接続済みインバーター"
+    "CL_DV_ENERGY_connected_inverter": "接続済みインバーター",
+    "CL_DV_WM_dirtiness_low": "低",
+    "CL_DV_WM_dirtiness_medium": "中くらい",
+    "CL_DV_WM_dirtiness_high": "強",
+    "CL_DV_EY_basic_info": "基本情報",
+    "CL_DV_RF_durafresh_toast_content": "DuraFreshコンパートメントの温度が正常に##に設定されました",
+    "CL_DV_TV_no_device_was_found": "デバイスが見つかりませんでした",
+    "CL_DV_TV_follow_step_c_tv": "テレビとの接続方法は以下のとおりです。 ",
+    "CL_CM_accessories_spare_parts": "アクセサリーとスペアパーツ",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "テレビのペアリングを解除しますか？"
 }
