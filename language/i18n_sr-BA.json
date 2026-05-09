@@ -8477,5 +8477,18 @@
     "CL_TS_threshold_auto_desc": "Аутоматски сегментирајте на основу података о цени електричне енергије које сте подесили.",
     "CL_TS_threshold_segments_three_desc": "Цене електричне енергије биће подељене на негативне, ниске и високе.",
     "CL_TS_threshold_segments_four_desc": "Цене електричне енергије биће подељене на негативне, ниске, средње и високе.",
-    "CL_DV_ENERGY_connected_inverter": "ПОВЕЗАНИ ИНВЕРТОР"
+    "CL_DV_ENERGY_connected_inverter": "ПОВЕЗАНИ ИНВЕРТОР",
+    "CL_DV_WM_dirtiness_low": "Niska brzina",
+    "CL_DV_WM_dirtiness_medium": "Средње",
+    "CL_DV_WM_dirtiness_high": "Visoka brzina",
+    "CL_DV_EY_basic_info": "ОСНОВНЕ ИНФОРМАЦИЈЕ",
+    "CL_DV_RF_durafresh_toast_content": "Температура одељка DuraFresh је успешно подешена на ##",
+    "CL_DV_TV_no_device_was_found": "Није пронађен ниједан уређај",
+    "CL_DV_TV_follow_step_c_tv": "Пратите ове кораке да бисте се повезали са телевизором. ",
+    "CL_CM_accessories_spare_parts": "Додатна опрема и резервни делови",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "Да ли желите да распарите телевизор?",
+    "atos_iphone_not_support_title": "ПОЧЕТНО ПОСТАВЉАЊЕ НИЈЕ ДОСТУПНО НА iPhone-у",
+    "atos_iphone_not_support_desc1": "Због ажурираних системских захтева за iOS, овај уређај тренутно не може бити повезан са мрежом помоћу iPhone-а.",
+    "atos_iphone_not_support_desc2": "Молимо вас да завршите почетно подешавање помоћу Андроид телефона или таблета. Када се уређај повеже, можете нормално користити iOS апликацију за праћење и контролу.",
+    "atos_iphone_not_support_desc3": "Ако вам је потребна помоћ, обратите се локалној служби за подршку или отворите захтев за сервис у апликацији."
 }

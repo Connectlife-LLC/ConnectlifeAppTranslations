@@ -8477,5 +8477,18 @@
     "CL_TS_threshold_auto_desc": "설정한 전기 요금 데이터를 기반으로 자동으로 세그먼트를 나눕니다.",
     "CL_TS_threshold_segments_three_desc": "전기 요금은 마이너스, 저가, 고가로 구분됩니다.",
     "CL_TS_threshold_segments_four_desc": "전기 요금은 마이너스, 저가, 중가, 고가로 구분됩니다.",
-    "CL_DV_ENERGY_connected_inverter": "연결형 인버터"
+    "CL_DV_ENERGY_connected_inverter": "연결형 인버터",
+    "CL_DV_WM_dirtiness_low": "저속",
+    "CL_DV_WM_dirtiness_medium": "중간",
+    "CL_DV_WM_dirtiness_high": "고속",
+    "CL_DV_EY_basic_info": "기본 정보",
+    "CL_DV_RF_durafresh_toast_content": "DuraFresh 칸의 온도가 ##으로 성공적으로 설정되었습니다.",
+    "CL_DV_TV_no_device_was_found": "기기를 찾을 수 없습니다.",
+    "CL_DV_TV_follow_step_c_tv": "다음 단계를 따라 TV에 연결하세요. ",
+    "CL_CM_accessories_spare_parts": "액세서리 및 예비 부품",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "TV 연결을 해제하시겠습니까?",
+    "atos_iphone_not_support_title": "아이폰에서는 초기 설정이 불가능합니다.",
+    "atos_iphone_not_support_desc1": "iOS 시스템 요구사항이 업데이트됨에 따라 현재 이 기기는 아이폰을 사용하여 네트워크에 연결할 수 없습니다.",
+    "atos_iphone_not_support_desc2": "안드로이드 스마트폰 또는 태블릿을 사용하여 초기 설정을 완료해 주세요. 기기가 연결되면 iOS 앱을 사용하여 평소처럼 모니터링 및 제어할 수 있습니다.",
+    "atos_iphone_not_support_desc3": "도움이 필요하시면 지역 서비스 지원팀에 문의하거나 앱에서 서비스 티켓을 제출하세요."
 }

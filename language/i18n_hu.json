@@ -8477,5 +8477,18 @@
     "CL_TS_threshold_auto_desc": "Automatikus szegmentálás a beállított áramár-adatok alapján.",
     "CL_TS_threshold_segments_three_desc": "Az áramárakat negatív, alacsony és magas kategóriákra osztják.",
     "CL_TS_threshold_segments_four_desc": "Az áramárakat negatív, alacsony, közepes és magas kategóriákba sorolják.",
-    "CL_DV_ENERGY_connected_inverter": "CSATLAKOZTATÓ INVERTER"
+    "CL_DV_ENERGY_connected_inverter": "CSATLAKOZTATÓ INVERTER",
+    "CL_DV_WM_dirtiness_low": "Alacsony",
+    "CL_DV_WM_dirtiness_medium": "Közepes",
+    "CL_DV_WM_dirtiness_high": "Magas",
+    "CL_DV_EY_basic_info": "ALAPINFORMÁCIÓK",
+    "CL_DV_RF_durafresh_toast_content": "A DuraFresh rekesz hőmérséklete sikeresen ## értékre állítva",
+    "CL_DV_TV_no_device_was_found": "Nem található eszköz",
+    "CL_DV_TV_follow_step_c_tv": "Kövesse az alábbi lépéseket a TV-hez való csatlakozáshoz. ",
+    "CL_CM_accessories_spare_parts": "Tartozékok és alkatrészek",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "Szeretnéd leválasztani a TV-t?",
+    "atos_iphone_not_support_title": "A KEZDETI BEÁLLÍTÁS NEM ELÉRHETŐ IPHONE-ON",
+    "atos_iphone_not_support_desc1": "A frissített iOS rendszerkövetelmények miatt ez a készülék jelenleg nem csatlakoztatható a hálózathoz iPhone-nal.",
+    "atos_iphone_not_support_desc2": "Kérjük, végezze el a kezdeti beállítást Android telefonnal vagy táblagéppel. Miután a készülék csatlakoztatva van, az iOS alkalmazást a szokásos módon használhatja a megfigyeléshez és a vezérléshez.",
+    "atos_iphone_not_support_desc3": "Ha segítségre van szüksége, vegye fel a kapcsolatot a helyi ügyfélszolgálattal, vagy nyisson egy szervizjegyet az alkalmazásban."
 }

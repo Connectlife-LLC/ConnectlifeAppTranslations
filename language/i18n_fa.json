@@ -8477,5 +8477,18 @@
     "CL_TS_threshold_auto_desc": "به طور خودکار بر اساس داده‌های قیمت برق که تنظیم می‌کنید، بخش‌بندی انجام دهید.",
     "CL_TS_threshold_segments_three_desc": "قیمت برق به سه دسته منفی، پایین و بالا تقسیم خواهد شد.",
     "CL_TS_threshold_segments_four_desc": "قیمت برق به منفی، پایین، متوسط ​​و بالا تقسیم خواهد شد.",
-    "CL_DV_ENERGY_connected_inverter": "اینورتر متصل"
+    "CL_DV_ENERGY_connected_inverter": "اینورتر متصل",
+    "CL_DV_WM_dirtiness_low": "کم",
+    "CL_DV_WM_dirtiness_medium": "متوسط",
+    "CL_DV_WM_dirtiness_high": "زیاد",
+    "CL_DV_EY_basic_info": "اطلاعات پایه",
+    "CL_DV_RF_durafresh_toast_content": "دمای محفظه DuraFresh با موفقیت روی ## تنظیم شد.",
+    "CL_DV_TV_no_device_was_found": "هیچ دستگاهی پیدا نشد",
+    "CL_DV_TV_follow_step_c_tv": "برای اتصال به تلویزیون خود، این مراحل را دنبال کنید. ",
+    "CL_CM_accessories_spare_parts": "لوازم جانبی و قطعات یدکی",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "آیا می‌خواهید اتصال تلویزیون را قطع کنید؟",
+    "atos_iphone_not_support_title": "تنظیمات اولیه در آیفون در دسترس نیست",
+    "atos_iphone_not_support_desc1": "به دلیل به‌روزرسانی الزامات سیستم عامل iOS، این دستگاه در حال حاضر نمی‌تواند با استفاده از آیفون به شبکه متصل شود.",
+    "atos_iphone_not_support_desc2": "لطفاً تنظیمات اولیه را با استفاده از تلفن یا تبلت اندرویدی انجام دهید. پس از اتصال دستگاه، می‌توانید از برنامه iOS به طور معمول برای نظارت و کنترل استفاده کنید.",
+    "atos_iphone_not_support_desc3": "اگر به کمک نیاز دارید، با پشتیبانی خدمات محلی خود تماس بگیرید یا در برنامه یک درخواست خدمات باز کنید."
 }

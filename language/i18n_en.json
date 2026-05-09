@@ -8477,5 +8477,18 @@
     "CL_TS_threshold_auto_desc": "Automatically segment based on the electricity price data you set.",
     "CL_TS_threshold_segments_three_desc": "Electricity prices will be divided into negative, low, and high.",
     "CL_TS_threshold_segments_four_desc": "Electricity prices will be divided into negative, low, medium , and high.",
-    "CL_DV_ENERGY_connected_inverter": "CONNECTED INVERTER"
+    "CL_DV_ENERGY_connected_inverter": "CONNECTED INVERTER",
+    "CL_DV_WM_dirtiness_low": "Low",
+    "CL_DV_WM_dirtiness_medium": "Medium",
+    "CL_DV_WM_dirtiness_high": "High",
+    "CL_DV_EY_basic_info": "BASIC INFO",
+    "CL_DV_RF_durafresh_toast_content": "Temperature of the DuraFresh compartment successfully set to ##",
+    "CL_DV_TV_no_device_was_found": "No Device was found",
+    "CL_DV_TV_follow_step_c_tv": "Follow these steps to connect with your TV. ",
+    "CL_CM_accessories_spare_parts": "Accessories and Spare parts",
+    "CL_DV_TV_do_you_want_to_unpair_tv": "Do you want to unpair TV？",
+    "atos_iphone_not_support_title": "INITIAL SETUP IS NOT AVAILABLE ON iPHONE",
+    "atos_iphone_not_support_desc1": "Due to updated iOS system requirements, this appliance cannot currently be connected to the network using an iPhone.",
+    "atos_iphone_not_support_desc2": "Please complete the initial setup using an Android phone or tablet. Once the appliance is connected, you can use the iOS app normally for monitoring and control.",
+    "atos_iphone_not_support_desc3": "If you need help, contact your local service support or open a service ticket in the app."
 }
