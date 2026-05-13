@@ -8498,5 +8498,6 @@
     "CL_DV_TV_pls_confirm_on_tv": "Vänligen bekräfta på din TV.",
     "CL_DV_EY_total": "Total",
     "CL_DV_EY_production": "Produktion",
-    "pind_level": "Huvnivå"
+    "pind_level": "Huvnivå",
+    "CL_TA_MA_tariff_set_new_title": "Tryck för att välja en enskild timme. Tryck, håll och dra för att välja flera timmar samtidigt."
 }

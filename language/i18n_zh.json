@@ -8498,5 +8498,6 @@
     "CL_DV_TV_pls_confirm_on_tv": "请在电视上确认。",
     "CL_DV_EY_total": "生命期",
     "CL_DV_EY_production": "发电量",
-    "pind_level": "引擎盖层"
+    "pind_level": "引擎盖层",
+    "CL_TA_MA_tariff_set_new_title": "点击选择单个小时。按住并滑动可一次选择多个小时。"
 }

@@ -8498,5 +8498,6 @@
     "CL_DV_TV_pls_confirm_on_tv": "テレビ画面でご確認ください。",
     "CL_DV_EY_total": "合計",
     "CL_DV_EY_production": "製造",
-    "pind_level": "フードレベル"
+    "pind_level": "フードレベル",
+    "CL_TA_MA_tariff_set_new_title": "タップして1時間を選択します。長押ししてスライドすると、複数の時間を一度に選択できます。"
 }

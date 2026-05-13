@@ -8498,5 +8498,6 @@
     "CL_DV_TV_pls_confirm_on_tv": "Bekræft venligst på dit tv.",
     "CL_DV_EY_total": "Total",
     "CL_DV_EY_production": "Produktion",
-    "pind_level": "Hætteniveau"
+    "pind_level": "Hætteniveau",
+    "CL_TA_MA_tariff_set_new_title": "Tryk for at vælge en enkelt time. Tryk, hold nede og skub for at vælge flere timer på én gang."
 }

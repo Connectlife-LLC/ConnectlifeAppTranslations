@@ -8498,5 +8498,6 @@
     "CL_DV_TV_pls_confirm_on_tv": "Lütfen televizyonunuzda onaylayın.",
     "CL_DV_EY_total": "Toplam",
     "CL_DV_EY_production": "Üretme",
-    "pind_level": "Kaput Seviyesi"
+    "pind_level": "Kaput Seviyesi",
+    "CL_TA_MA_tariff_set_new_title": "Tek bir saat seçmek için dokunun. Birden fazla saat seçmek için basılı tutun ve kaydırın."
 }
