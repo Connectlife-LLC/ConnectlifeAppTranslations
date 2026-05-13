@@ -8497,5 +8497,6 @@
     "CL_AI_agent_greeting": "こんにちは！私はあなたのAIアシスタントです。お手伝いしたり、ご案内したり、物事を分かりやすくするためにここにいます。何を知りたいですか？",
     "CL_DV_TV_pls_confirm_on_tv": "テレビ画面でご確認ください。",
     "CL_DV_EY_total": "合計",
-    "CL_DV_EY_production": "製造"
+    "CL_DV_EY_production": "製造",
+    "pind_level": "フードレベル"
 }

@@ -8497,5 +8497,6 @@
     "CL_AI_agent_greeting": "你好！我是你的AI助手。我来帮助你、指导你，并简化事情。你想了解什么？",
     "CL_DV_TV_pls_confirm_on_tv": "请在电视上确认。",
     "CL_DV_EY_total": "生命期",
-    "CL_DV_EY_production": "发电量"
+    "CL_DV_EY_production": "发电量",
+    "pind_level": "引擎盖层"
 }

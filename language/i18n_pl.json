@@ -8497,5 +8497,6 @@
     "CL_AI_agent_greeting": "Cześć! Jestem Twoim asystentem AI. Jestem tu, aby pomagać, prowadzić i upraszczać sprawy. Co chciałbyś wiedzieć?",
     "CL_DV_TV_pls_confirm_on_tv": "Proszę potwierdzić na telewizorze.",
     "CL_DV_EY_total": "Całkowity",
-    "CL_DV_EY_production": "Produkcja"
+    "CL_DV_EY_production": "Produkcja",
+    "pind_level": "Poziom okapu"
 }

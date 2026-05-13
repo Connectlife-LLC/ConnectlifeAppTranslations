@@ -8497,5 +8497,6 @@
     "CL_AI_agent_greeting": "Hei! Jeg er din AI-assistent. Jeg er her for å hjelpe, veilede og forenkle ting. Hva vil du vite?",
     "CL_DV_TV_pls_confirm_on_tv": "Vennligst bekreft på TV-en din.",
     "CL_DV_EY_total": "Total",
-    "CL_DV_EY_production": "Produksjon"
+    "CL_DV_EY_production": "Produksjon",
+    "pind_level": "Pansernivå"
 }

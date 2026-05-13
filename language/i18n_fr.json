@@ -8497,5 +8497,6 @@
     "CL_AI_agent_greeting": "Salut ! Je suis votre assistant IA. Je suis là pour vous aider, vous guider et simplifier les choses. Que souhaitez-vous savoir ?",
     "CL_DV_TV_pls_confirm_on_tv": "Veuillez confirmer sur votre téléviseur.",
     "CL_DV_EY_total": "Total",
-    "CL_DV_EY_production": "Production"
+    "CL_DV_EY_production": "Production",
+    "pind_level": "Niveau du capot"
 }
