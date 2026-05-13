@@ -8497,5 +8497,6 @@
     "CL_AI_agent_greeting": "Merhaba! Ben yapay zekâ asistanınızım. Size yardımcı olmak, yol göstermek ve işleri kolaylaştırmak için buradayım. Ne öğrenmek istersiniz?",
     "CL_DV_TV_pls_confirm_on_tv": "Lütfen televizyonunuzda onaylayın.",
     "CL_DV_EY_total": "Toplam",
-    "CL_DV_EY_production": "Üretme"
+    "CL_DV_EY_production": "Üretme",
+    "pind_level": "Kaput Seviyesi"
 }

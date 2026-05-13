@@ -8497,5 +8497,6 @@
     "CL_AI_agent_greeting": "Hei! Olen tekoälyavustajasi. Olen täällä auttaakseni, opastaakseni ja yksinkertaistaakseni asioita. Mitä haluaisit tietää?",
     "CL_DV_TV_pls_confirm_on_tv": "Vahvista televisiostasi.",
     "CL_DV_EY_total": "Koko",
-    "CL_DV_EY_production": "Valmistus"
+    "CL_DV_EY_production": "Valmistus",
+    "pind_level": "Liesituuletin taso"
 }

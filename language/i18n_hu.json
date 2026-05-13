@@ -8497,5 +8497,6 @@
     "CL_AI_agent_greeting": "Szia! Én vagyok az AI asszisztensed. Azért vagyok itt, hogy segítsek, irányítsak és egyszerűsítsem a dolgokat. Mit szeretnél tudni?",
     "CL_DV_TV_pls_confirm_on_tv": "Kérjük, erősítse meg a tévéjén.",
     "CL_DV_EY_total": "Teljes",
-    "CL_DV_EY_production": "Működés"
+    "CL_DV_EY_production": "Működés",
+    "pind_level": "Motorháztető szint"
 }
