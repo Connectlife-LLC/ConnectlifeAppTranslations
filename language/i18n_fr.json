@@ -8501,5 +8501,9 @@
     "pind_level": "Niveau du capot",
     "CL_TA_MA_tariff_set_new_title": "Touchez pour sélectionner une heure. Appuyez, maintenez et faites glisser pour sélectionner plusieurs heures à la fois.",
     "CL_TS_purchase_price": "prix d'achat",
-    "CL_TS_feed_in_price": "Prix ​​de rachat"
+    "CL_TS_feed_in_price": "Prix ​​de rachat",
+    "CL_DV_RF_pl_exit_cool_first": "Veuillez d'abord quitter le mode Super Cool.",
+    "CL_DV_RF_pl_exit_frozen_first": "Veuillez d'abord quitter le mode de gel rapide.",
+    "CL_DV_RF_pl_exit_holiday_first": "Veuillez d'abord quitter le mode vacances.",
+    "CL_DV_RF_pl_exit_party_first": "Veuillez d'abord quitter le mode Party"
 }

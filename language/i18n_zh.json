@@ -7843,7 +7843,7 @@
     "CL_DV_OV_timelapse_complete": "烘焙完成！延时视频正在生成中。视频生成后，您将收到通知，即可观看和保存。",
     "CL_unknown_phone": "未知手机",
     "CL_phone_verify_button": "通过短信验证身份",
-    "CL_DV_RF_temp_exit_cool": "手动调节温度，退出极速冷藏功能",
+    "CL_DV_RF_temp_exit_cool": "手动调节温度，退出急速冷藏功能",
     "CLDV_RF_temp_exit_eco": "手动调节温度，退出节能模式",
     "CL_DV_RF_temp_exit_holiday": "手动调节温度，退出假日模式",
     "CL_DV_RF_temp_exit_party": "手动调节温度，退出派对模式",
@@ -8501,5 +8501,9 @@
     "pind_level": "引擎盖层",
     "CL_TA_MA_tariff_set_new_title": "点击选择单个小时。按住并滑动可一次选择多个小时。",
     "CL_TS_purchase_price": "购电电价",
-    "CL_TS_feed_in_price": "上网电价"
+    "CL_TS_feed_in_price": "上网电价",
+    "CL_DV_RF_pl_exit_cool_first": "请先退出急速冷藏",
+    "CL_DV_RF_pl_exit_frozen_first": "请先退出快速冷冻",
+    "CL_DV_RF_pl_exit_holiday_first": "请先退出假日模式",
+    "CL_DV_RF_pl_exit_party_first": "请先退出派对模式"
 }

@@ -8501,5 +8501,9 @@
     "pind_level": "Poziom okapu",
     "CL_TA_MA_tariff_set_new_title": "Dotknij, aby wybrać pojedynczą godzinę. Naciśnij, przytrzymaj i przesuń, aby wybrać wiele godzin jednocześnie.",
     "CL_TS_purchase_price": "Cena zakupu",
-    "CL_TS_feed_in_price": "Cena gwarantowana"
+    "CL_TS_feed_in_price": "Cena gwarantowana",
+    "CL_DV_RF_pl_exit_cool_first": "Najpierw wyjdź z trybu Super Cool.",
+    "CL_DV_RF_pl_exit_frozen_first": "Najpierw wyjdź z trybu szybkiego zamrażania.",
+    "CL_DV_RF_pl_exit_holiday_first": "Najpierw wyjdź z trybu wakacyjnego.",
+    "CL_DV_RF_pl_exit_party_first": "Najpierw wyjdź z trybu imprezy"
 }

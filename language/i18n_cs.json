@@ -8501,5 +8501,9 @@
     "pind_level": "Úroveň kapuce",
     "CL_TA_MA_tariff_set_new_title": "Klepnutím vyberte jednu hodinu. Stisknutím, podržením a posunutím vyberte více hodin najednou.",
     "CL_TS_purchase_price": "Kupní cena",
-    "CL_TS_feed_in_price": "Výkupní cena"
+    "CL_TS_feed_in_price": "Výkupní cena",
+    "CL_DV_RF_pl_exit_cool_first": "Nejprve prosím ukončete režim Super Cool (super chlazení).",
+    "CL_DV_RF_pl_exit_frozen_first": "Nejprve prosím ukončete režim rychlého zmrazení.",
+    "CL_DV_RF_pl_exit_holiday_first": "Nejprve prosím ukončete režim Dovolená.",
+    "CL_DV_RF_pl_exit_party_first": "Nejprve prosím ukončete režim Párty"
 }
