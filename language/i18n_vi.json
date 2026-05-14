@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "Vui lòng xác nhận trên TV của bạn.",
     "CL_DV_EY_total": "Tổng cộng",
     "CL_DV_EY_production": "Sản xuất",
-    "pind_level": "Mức độ mũ trùm đầu"
+    "pind_level": "Mức độ mũ trùm đầu",
+    "CL_TA_MA_tariff_set_new_title": "Chạm để chọn một giờ. Nhấn giữ và vuốt để chọn nhiều giờ cùng lúc.",
+    "CL_TS_purchase_price": "Giá mua",
+    "CL_TS_feed_in_price": "Giá điện đầu vào"
 }

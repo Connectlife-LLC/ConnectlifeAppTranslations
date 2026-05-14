@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "Vă rugăm să confirmați pe televizor.",
     "CL_DV_EY_total": "Total",
     "CL_DV_EY_production": "Producție",
-    "pind_level": "Nivelul hotei"
+    "pind_level": "Nivelul hotei",
+    "CL_TA_MA_tariff_set_new_title": "Atingeți pentru a selecta o singură oră. Apăsați, țineți apăsat și glisați pentru a selecta mai multe ore simultan.",
+    "CL_TS_purchase_price": "Preț de achiziție",
+    "CL_TS_feed_in_price": "Preț de alimentare"
 }

@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "Bitte überprüfen Sie dies auf Ihrem Fernsehgerät.",
     "CL_DV_EY_total": "Gesamt",
     "CL_DV_EY_production": "Produktion",
-    "pind_level": "Motorhaubenebene"
+    "pind_level": "Motorhaubenebene",
+    "CL_TA_MA_tariff_set_new_title": "Tippen Sie, um eine einzelne Stunde auszuwählen. Halten Sie gedrückt und wischen Sie, um mehrere Stunden gleichzeitig auszuwählen.",
+    "CL_TS_purchase_price": "Kaufpreis",
+    "CL_TS_feed_in_price": "Einspeisepreis"
 }

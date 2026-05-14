@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "Controleer dit alstublieft op uw tv.",
     "CL_DV_EY_total": "Totaal",
     "CL_DV_EY_production": "Operationeel",
-    "pind_level": "Kapniveau"
+    "pind_level": "Kapniveau",
+    "CL_TA_MA_tariff_set_new_title": "Tik om één uur te selecteren. Houd ingedrukt en schuif om meerdere uren tegelijk te selecteren.",
+    "CL_TS_purchase_price": "Aankoopprijs",
+    "CL_TS_feed_in_price": "Terugleveringsprijs"
 }

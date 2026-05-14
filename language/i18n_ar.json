@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "يرجى التأكيد على شاشة التلفزيون.",
     "CL_DV_EY_total": "المجموع",
     "CL_DV_EY_production": "إنتاج",
-    "pind_level": "مستوى غطاء المحرك"
+    "pind_level": "مستوى غطاء المحرك",
+    "CL_TA_MA_tariff_set_new_title": "انقر لتحديد ساعة واحدة. اضغط مع الاستمرار واسحب لتحديد عدة ساعات في وقت واحد.",
+    "CL_TS_purchase_price": "سعر الشراء",
+    "CL_TS_feed_in_price": "سعر التغذية"
 }

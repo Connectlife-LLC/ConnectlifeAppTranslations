@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "Veuillez confirmer sur votre téléviseur.",
     "CL_DV_EY_total": "Total",
     "CL_DV_EY_production": "Production",
-    "pind_level": "Niveau du capot"
+    "pind_level": "Niveau du capot",
+    "CL_TA_MA_tariff_set_new_title": "Touchez pour sélectionner une heure. Appuyez, maintenez et faites glisser pour sélectionner plusieurs heures à la fois.",
+    "CL_TS_purchase_price": "prix d'achat",
+    "CL_TS_feed_in_price": "Prix ​​de rachat"
 }

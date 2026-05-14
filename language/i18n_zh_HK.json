@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "請在電視上確認。",
     "CL_DV_EY_total": "生命期",
     "CL_DV_EY_production": "發電量",
-    "pind_level": "引擎蓋層"
+    "pind_level": "引擎蓋層",
+    "CL_TA_MA_tariff_set_new_title": "點選選擇單一小時。按住並滑動可一次選擇多小時。",
+    "CL_TS_purchase_price": "購買價格",
+    "CL_TS_feed_in_price": "上網電價"
 }
