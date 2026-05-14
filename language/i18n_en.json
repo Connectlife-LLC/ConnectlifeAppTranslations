@@ -8367,7 +8367,7 @@
     "CL_DV_EY_consumption_tips": "Self-sufficiency:Amount of solar energy consumed from solar, including surplus solar energy stored in battery\nFrom grid:Amount of energy from the grid",
     "CL_DV_EY_offline": "Offline",
     "CL_DV_EY_running": "Running",
-    "CL_DV_EY_normal": "Normal",
+    "CL_DV_EY_normal": "Running",
     "CL_DV_EY_alarm": "Alarm",
     "CL_DV_EY_sleep": "Sleep",
     "CL_VC_SETTING_VOLUME_ADAPTIVE_DESC": "Automatically adjusts volume based on ambient noise levels.",
@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "Please confirm on your TV.",
     "CL_DV_EY_total": "Total",
     "CL_DV_EY_production": "Production",
-    "pind_level": "Hood Level"
+    "pind_level": "Hood Level",
+    "CL_TA_MA_tariff_set_new_title": "Tap to select a single hour. Press, hold, and slide to select multiple hours at once.",
+    "CL_TS_purchase_price": "Purchase price",
+    "CL_TS_feed_in_price": "Feed-in price"
 }

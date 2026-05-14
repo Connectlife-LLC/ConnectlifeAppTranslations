@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "Prosimo, potrdite na televizorju.",
     "CL_DV_EY_total": "Skupno",
     "CL_DV_EY_production": "Proizvodnja",
-    "pind_level": "Raven nape"
+    "pind_level": "Raven nape",
+    "CL_TA_MA_tariff_set_new_title": "Dotaknite se, da izberete eno uro. Pritisnite, pridržite in podrsajte, da izberete več ur hkrati.",
+    "CL_TS_purchase_price": "Nakupna cena",
+    "CL_TS_feed_in_price": "Cena odkupne tarife"
 }

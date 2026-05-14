@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "אנא אשר זאת בטלוויזיה שלך.",
     "CL_DV_EY_total": "סַך הַכֹּל",
     "CL_DV_EY_production": "הפקה",
-    "pind_level": "רמת מכסה המנוע"
+    "pind_level": "רמת מכסה המנוע",
+    "CL_TA_MA_tariff_set_new_title": "הקש כדי לבחור שעה בודדת. לחץ, החזק והחלק כדי לבחור מספר שעות בו זמנית.",
+    "CL_TS_purchase_price": "מחיר הרכישה",
+    "CL_TS_feed_in_price": "מחיר הזנה"
 }

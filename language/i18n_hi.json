@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "कृपया अपने टीवी पर इसकी पुष्टि करें।",
     "CL_DV_EY_total": "कुल",
     "CL_DV_EY_production": "उत्पादन",
-    "pind_level": "हुड स्तर"
+    "pind_level": "हुड स्तर",
+    "CL_TA_MA_tariff_set_new_title": "एक घंटा चुनने के लिए टैप करें। एक साथ कई घंटे चुनने के लिए दबाकर रखें और स्लाइड करें।",
+    "CL_TS_purchase_price": "खरीद मूल्य",
+    "CL_TS_feed_in_price": "चारा-इन कीमत"
 }

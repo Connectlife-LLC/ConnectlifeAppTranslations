@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "TV에서 확인해 주세요.",
     "CL_DV_EY_total": "총",
     "CL_DV_EY_production": "생산",
-    "pind_level": "후드 레벨"
+    "pind_level": "후드 레벨",
+    "CL_TA_MA_tariff_set_new_title": "한 시간을 선택하려면 탭하세요. 여러 시간을 한 번에 선택하려면 길게 누른 후 밀어주세요.",
+    "CL_TS_purchase_price": "구매 가격",
+    "CL_TS_feed_in_price": "발전차액"
 }

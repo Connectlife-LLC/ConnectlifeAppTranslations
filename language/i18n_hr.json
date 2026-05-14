@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "Molimo potvrdite na svom televizoru.",
     "CL_DV_EY_total": "Ukupan",
     "CL_DV_EY_production": "Proizvodnja",
-    "pind_level": "Razina kapuljače"
+    "pind_level": "Razina kapuljače",
+    "CL_TA_MA_tariff_set_new_title": "Dodirnite za odabir jednog sata. Pritisnite, držite i povucite prstom za odabir više sati odjednom.",
+    "CL_TS_purchase_price": "Kupovna cijena",
+    "CL_TS_feed_in_price": "Otkupna cijena"
 }

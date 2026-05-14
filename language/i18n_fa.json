@@ -8498,5 +8498,8 @@
     "CL_DV_TV_pls_confirm_on_tv": "لطفا در تلویزیون خود تایید کنید.",
     "CL_DV_EY_total": "مجموع",
     "CL_DV_EY_production": "تولید",
-    "pind_level": "سطح هود"
+    "pind_level": "سطح هود",
+    "CL_TA_MA_tariff_set_new_title": "برای انتخاب یک ساعت، ضربه بزنید. برای انتخاب همزمان چندین ساعت، فشار دهید، نگه دارید و بکشید.",
+    "CL_TS_purchase_price": "قیمت خرید",
+    "CL_TS_feed_in_price": "قیمت خوراک"
 }
