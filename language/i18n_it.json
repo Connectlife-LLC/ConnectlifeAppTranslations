@@ -8501,5 +8501,9 @@
     "pind_level": "Livello della cappa",
     "CL_TA_MA_tariff_set_new_title": "Tocca per selezionare una singola ora. Tieni premuto e scorri per selezionare più ore contemporaneamente.",
     "CL_TS_purchase_price": "Prezzo di acquisto",
-    "CL_TS_feed_in_price": "Prezzo di alimentazione"
+    "CL_TS_feed_in_price": "Prezzo di alimentazione",
+    "CL_DV_RF_pl_exit_cool_first": "Per prima cosa, esci dalla modalità Super Cool.",
+    "CL_DV_RF_pl_exit_frozen_first": "Per prima cosa, esci dalla modalità di congelamento rapido.",
+    "CL_DV_RF_pl_exit_holiday_first": "Si prega di uscire prima dalla modalità Vacanza.",
+    "CL_DV_RF_pl_exit_party_first": "Per prima cosa, esci dalla modalità Party."
 }

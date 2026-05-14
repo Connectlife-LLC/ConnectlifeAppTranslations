@@ -8501,5 +8501,9 @@
     "pind_level": "Tahap Hud",
     "CL_TA_MA_tariff_set_new_title": "Ketik untuk memilih satu jam. Tekan, tahan dan luncurkan untuk memilih berbilang jam sekaligus.",
     "CL_TS_purchase_price": "Harga belian",
-    "CL_TS_feed_in_price": "Harga suapan masuk"
+    "CL_TS_feed_in_price": "Harga suapan masuk",
+    "CL_DV_RF_pl_exit_cool_first": "Sila keluar dari mod Super Cool terlebih dahulu.",
+    "CL_DV_RF_pl_exit_frozen_first": "Sila keluar dari mod Beku Pantas terlebih dahulu.",
+    "CL_DV_RF_pl_exit_holiday_first": "Sila keluar dari mod Cuti dahulu.",
+    "CL_DV_RF_pl_exit_party_first": "Sila keluar dari mod Parti terlebih dahulu"
 }

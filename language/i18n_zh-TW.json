@@ -8501,5 +8501,9 @@
     "pind_level": "引擎蓋層",
     "CL_TA_MA_tariff_set_new_title": "點選選擇單一小時。按住並滑動可一次選擇多小時。",
     "CL_TS_purchase_price": "購買價格",
-    "CL_TS_feed_in_price": "上網電價"
+    "CL_TS_feed_in_price": "上網電價",
+    "CL_DV_RF_pl_exit_cool_first": "請先退出超酷模式。",
+    "CL_DV_RF_pl_exit_frozen_first": "請先退出快速凍結模式。",
+    "CL_DV_RF_pl_exit_holiday_first": "請先退出假日模式。",
+    "CL_DV_RF_pl_exit_party_first": "請先退出派對模式。"
 }
