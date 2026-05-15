@@ -8501,5 +8501,16 @@
     "pind_level": "引擎蓋層",
     "CL_TA_MA_tariff_set_new_title": "點選選擇單一小時。按住並滑動可一次選擇多小時。",
     "CL_TS_purchase_price": "購買價格",
-    "CL_TS_feed_in_price": "上網電價"
+    "CL_TS_feed_in_price": "上網電價",
+    "CL_DV_RF_pl_exit_cool_first": "請先退出超酷模式。",
+    "CL_DV_RF_pl_exit_frozen_first": "請先退出快速凍結模式。",
+    "CL_DV_RF_pl_exit_holiday_first": "請先退出假日模式。",
+    "CL_DV_RF_pl_exit_party_first": "請先退出派對模式。",
+    "CL_DV_OV_baking_settings": "烘焙設定",
+    "CL_CF_FM_no_matching_region": "沒有匹配區域",
+    "CL_DV_OV_default_duration": "預設持續時間",
+    "CL_DV_OV_very_soft": "非常柔軟",
+    "CL_DV_OV_very_hard": "非常難",
+    "CL_DV_OV_celsius": "攝氏度",
+    "CL_DV_OV_fahrenheit": "華氏度"
 }

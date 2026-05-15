@@ -8501,5 +8501,16 @@
     "pind_level": "Ниво на хаубата",
     "CL_TA_MA_tariff_set_new_title": "Допрете за да изберете еден час. Притиснете, задржете и лизгајте за да изберете повеќе часови одеднаш.",
     "CL_TS_purchase_price": "Куповна цена",
-    "CL_TS_feed_in_price": "Цена за повластена цена"
+    "CL_TS_feed_in_price": "Цена за повластена цена",
+    "CL_DV_RF_pl_exit_cool_first": "Прво излезете од режимот „Супер Ладење“.",
+    "CL_DV_RF_pl_exit_frozen_first": "Прво излезете од режимот на брзо замрзнување.",
+    "CL_DV_RF_pl_exit_holiday_first": "Прво излезете од режимот „Празник“.",
+    "CL_DV_RF_pl_exit_party_first": "Прво излезете од режимот на забава.",
+    "CL_DV_OV_baking_settings": "Поставки за печење",
+    "CL_CF_FM_no_matching_region": "Нема регион што се совпаѓа",
+    "CL_DV_OV_default_duration": "Стандардно времетраење",
+    "CL_DV_OV_very_soft": "Многу меко",
+    "CL_DV_OV_very_hard": "Многу тешко",
+    "CL_DV_OV_celsius": "Целзиус",
+    "CL_DV_OV_fahrenheit": "Фаренхајт"
 }

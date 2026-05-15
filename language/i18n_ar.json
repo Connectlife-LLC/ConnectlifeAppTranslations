@@ -8501,5 +8501,16 @@
     "pind_level": "مستوى غطاء المحرك",
     "CL_TA_MA_tariff_set_new_title": "انقر لتحديد ساعة واحدة. اضغط مع الاستمرار واسحب لتحديد عدة ساعات في وقت واحد.",
     "CL_TS_purchase_price": "سعر الشراء",
-    "CL_TS_feed_in_price": "سعر التغذية"
+    "CL_TS_feed_in_price": "سعر التغذية",
+    "CL_DV_RF_pl_exit_cool_first": "يرجى الخروج من وضع Super Cool أولاً.",
+    "CL_DV_RF_pl_exit_frozen_first": "يرجى الخروج من وضع التجميد السريع أولاً.",
+    "CL_DV_RF_pl_exit_holiday_first": "يرجى الخروج من وضع العطلة أولاً.",
+    "CL_DV_RF_pl_exit_party_first": "يرجى الخروج من وضع الحفلة أولاً",
+    "CL_DV_OV_baking_settings": "إعدادات الخبز",
+    "CL_CF_FM_no_matching_region": "لا توجد منطقة مطابقة",
+    "CL_DV_OV_default_duration": "المدة الافتراضية",
+    "CL_DV_OV_very_soft": "ناعم جداً",
+    "CL_DV_OV_very_hard": "صعب جداً",
+    "CL_DV_OV_celsius": "درجة مئوية",
+    "CL_DV_OV_fahrenheit": "فهرنهايت"
 }

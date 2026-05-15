@@ -8501,5 +8501,16 @@
     "pind_level": "Motorháztető szint",
     "CL_TA_MA_tariff_set_new_title": "Koppintson egyetlen óra kiválasztásához. Nyomja meg, tartsa lenyomva, és csúsztassa el az ujját több óra egyidejű kiválasztásához.",
     "CL_TS_purchase_price": "Vételár",
-    "CL_TS_feed_in_price": "Betáplálási ár"
+    "CL_TS_feed_in_price": "Betáplálási ár",
+    "CL_DV_RF_pl_exit_cool_first": "Először lépjen ki a Szuperhűtés módból.",
+    "CL_DV_RF_pl_exit_frozen_first": "Először lépjen ki a Gyorsfagyasztás módból.",
+    "CL_DV_RF_pl_exit_holiday_first": "Először lépjen ki a Szabadság módból.",
+    "CL_DV_RF_pl_exit_party_first": "Először lépj ki a Buli módból",
+    "CL_DV_OV_baking_settings": "Sütési beállítások",
+    "CL_CF_FM_no_matching_region": "Nincs egyező régió",
+    "CL_DV_OV_default_duration": "Alapértelmezett időtartam",
+    "CL_DV_OV_very_soft": "Nagyon puha",
+    "CL_DV_OV_very_hard": "Nagyon nehéz",
+    "CL_DV_OV_celsius": "Celsius",
+    "CL_DV_OV_fahrenheit": "Fahrenheit"
 }

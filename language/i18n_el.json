@@ -8501,5 +8501,16 @@
     "pind_level": "Επίπεδο κουκούλας",
     "CL_TA_MA_tariff_set_new_title": "Πατήστε για να επιλέξετε μία μόνο ώρα. Πατήστε παρατεταμένα και σύρετε για να επιλέξετε πολλές ώρες ταυτόχρονα.",
     "CL_TS_purchase_price": "Τιμή αγοράς",
-    "CL_TS_feed_in_price": "Τιμή τροφοδοσίας"
+    "CL_TS_feed_in_price": "Τιμή τροφοδοσίας",
+    "CL_DV_RF_pl_exit_cool_first": "Παρακαλώ βγείτε πρώτα από τη λειτουργία Super Cool.",
+    "CL_DV_RF_pl_exit_frozen_first": "Παρακαλώ εξέλθετε πρώτα από τη λειτουργία Ταχείας Κατάψυξης.",
+    "CL_DV_RF_pl_exit_holiday_first": "Παρακαλώ βγείτε πρώτα από τη λειτουργία διακοπών.",
+    "CL_DV_RF_pl_exit_party_first": "Παρακαλώ τερματίστε πρώτα τη λειτουργία πάρτι.",
+    "CL_DV_OV_baking_settings": "Ρυθμίσεις ψησίματος",
+    "CL_CF_FM_no_matching_region": "Δεν υπάρχει αντίστοιχη περιοχή",
+    "CL_DV_OV_default_duration": "Προεπιλεγμένη διάρκεια",
+    "CL_DV_OV_very_soft": "Πολύ μαλακό",
+    "CL_DV_OV_very_hard": "Πολύ δύσκολο",
+    "CL_DV_OV_celsius": "Κελσίου",
+    "CL_DV_OV_fahrenheit": "θερμόμετρο Φαρενάιτ"
 }

@@ -8501,5 +8501,16 @@
     "pind_level": "हुड स्तर",
     "CL_TA_MA_tariff_set_new_title": "एक घंटा चुनने के लिए टैप करें। एक साथ कई घंटे चुनने के लिए दबाकर रखें और स्लाइड करें।",
     "CL_TS_purchase_price": "खरीद मूल्य",
-    "CL_TS_feed_in_price": "चारा-इन कीमत"
+    "CL_TS_feed_in_price": "चारा-इन कीमत",
+    "CL_DV_RF_pl_exit_cool_first": "कृपया पहले सुपर कूल मोड से बाहर निकलें।",
+    "CL_DV_RF_pl_exit_frozen_first": "कृपया पहले फास्ट फ्रीज़ मोड से बाहर निकलें।",
+    "CL_DV_RF_pl_exit_holiday_first": "कृपया पहले हॉलिडे मोड से बाहर निकलें।",
+    "CL_DV_RF_pl_exit_party_first": "कृपया पहले पार्टी मोड से बाहर निकलें।",
+    "CL_DV_OV_baking_settings": "बेकिंग सेटिंग्स",
+    "CL_CF_FM_no_matching_region": "कोई मेल खाने वाला क्षेत्र नहीं मिला",
+    "CL_DV_OV_default_duration": "डिफ़ॉल्ट अवधि",
+    "CL_DV_OV_very_soft": "बेहद नरम",
+    "CL_DV_OV_very_hard": "बहुत कठिन",
+    "CL_DV_OV_celsius": "सेल्सीयस",
+    "CL_DV_OV_fahrenheit": "फ़ारेनहाइट"
 }

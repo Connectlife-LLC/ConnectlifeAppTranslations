@@ -8501,5 +8501,16 @@
     "pind_level": "후드 레벨",
     "CL_TA_MA_tariff_set_new_title": "한 시간을 선택하려면 탭하세요. 여러 시간을 한 번에 선택하려면 길게 누른 후 밀어주세요.",
     "CL_TS_purchase_price": "구매 가격",
-    "CL_TS_feed_in_price": "발전차액"
+    "CL_TS_feed_in_price": "발전차액",
+    "CL_DV_RF_pl_exit_cool_first": "먼저 슈퍼 쿨 모드를 종료해 주세요.",
+    "CL_DV_RF_pl_exit_frozen_first": "먼저 급속 냉동 모드를 종료해 주세요.",
+    "CL_DV_RF_pl_exit_holiday_first": "먼저 휴가 모드를 종료해 주세요.",
+    "CL_DV_RF_pl_exit_party_first": "먼저 파티 모드를 종료해 주세요.",
+    "CL_DV_OV_baking_settings": "베이킹 설정",
+    "CL_CF_FM_no_matching_region": "일치하는 지역이 없습니다",
+    "CL_DV_OV_default_duration": "기본 기간",
+    "CL_DV_OV_very_soft": "매우 부드러움",
+    "CL_DV_OV_very_hard": "매우 어려움",
+    "CL_DV_OV_celsius": "섭씨",
+    "CL_DV_OV_fahrenheit": "화씨"
 }

@@ -8501,5 +8501,16 @@
     "pind_level": "Kapniveau",
     "CL_TA_MA_tariff_set_new_title": "Tik om één uur te selecteren. Houd ingedrukt en schuif om meerdere uren tegelijk te selecteren.",
     "CL_TS_purchase_price": "Aankoopprijs",
-    "CL_TS_feed_in_price": "Terugleveringsprijs"
+    "CL_TS_feed_in_price": "Terugleveringsprijs",
+    "CL_DV_RF_pl_exit_cool_first": "Verlaat eerst de Super Cool-modus.",
+    "CL_DV_RF_pl_exit_frozen_first": "Verlaat eerst de Fast Freeze-modus.",
+    "CL_DV_RF_pl_exit_holiday_first": "Verlaat eerst de vakantiemodus.",
+    "CL_DV_RF_pl_exit_party_first": "Verlaat eerst de feestmodus.",
+    "CL_DV_OV_baking_settings": "Bakinstellingen",
+    "CL_CF_FM_no_matching_region": "Geen overeenkomende regio gevonden",
+    "CL_DV_OV_default_duration": "Standaardduur",
+    "CL_DV_OV_very_soft": "Heel zacht",
+    "CL_DV_OV_very_hard": "Heel moeilijk",
+    "CL_DV_OV_celsius": "Celsius",
+    "CL_DV_OV_fahrenheit": "Fahrenheit"
 }

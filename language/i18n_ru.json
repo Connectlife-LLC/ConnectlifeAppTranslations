@@ -8501,5 +8501,16 @@
     "pind_level": "Уровень капота",
     "CL_TA_MA_tariff_set_new_title": "Нажмите, чтобы выбрать один час. Нажмите, удерживайте и проведите пальцем, чтобы выбрать несколько часов одновременно.",
     "CL_TS_purchase_price": "Цена покупки",
-    "CL_TS_feed_in_price": "Цена на сырье"
+    "CL_TS_feed_in_price": "Цена на сырье",
+    "CL_DV_RF_pl_exit_cool_first": "Пожалуйста, сначала выйдите из режима Super Cool.",
+    "CL_DV_RF_pl_exit_frozen_first": "Пожалуйста, сначала выйдите из режима быстрой заморозки.",
+    "CL_DV_RF_pl_exit_holiday_first": "Пожалуйста, сначала выйдите из режима отпуска.",
+    "CL_DV_RF_pl_exit_party_first": "Пожалуйста, сначала выйдите из режима вечеринки.",
+    "CL_DV_OV_baking_settings": "Настройки приготовления",
+    "CL_CF_FM_no_matching_region": "Нет подходящего региона",
+    "CL_DV_OV_default_duration": "Продолжительность по умолчанию",
+    "CL_DV_OV_very_soft": "Очень мягкий",
+    "CL_DV_OV_very_hard": "Очень сложно",
+    "CL_DV_OV_celsius": "по Цельсию",
+    "CL_DV_OV_fahrenheit": "по Фаренгейту"
 }

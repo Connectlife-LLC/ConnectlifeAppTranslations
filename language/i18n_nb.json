@@ -8501,5 +8501,16 @@
     "pind_level": "Pansernivå",
     "CL_TA_MA_tariff_set_new_title": "Trykk for å velge én time. Trykk, hold og skyv for å velge flere timer samtidig.",
     "CL_TS_purchase_price": "Kjøpesum",
-    "CL_TS_feed_in_price": "Innmatingspris"
+    "CL_TS_feed_in_price": "Innmatingspris",
+    "CL_DV_RF_pl_exit_cool_first": "Vennligst avslutt superkjølmodus først.",
+    "CL_DV_RF_pl_exit_frozen_first": "Vennligst gå ut av hurtigfrysemodus først.",
+    "CL_DV_RF_pl_exit_holiday_first": "Vennligst avslutt feriemodus først.",
+    "CL_DV_RF_pl_exit_party_first": "Vennligst avslutt festmodus først",
+    "CL_DV_OV_baking_settings": "Bakeinnstillinger",
+    "CL_CF_FM_no_matching_region": "Ingen samsvarende region",
+    "CL_DV_OV_default_duration": "Standardvarighet",
+    "CL_DV_OV_very_soft": "Veldig myk",
+    "CL_DV_OV_very_hard": "Veldig vanskelig",
+    "CL_DV_OV_celsius": "Celsius",
+    "CL_DV_OV_fahrenheit": "Fahrenheit"
 }
