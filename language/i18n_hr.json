@@ -8501,5 +8501,19 @@
     "pind_level": "Razina kapuljače",
     "CL_TA_MA_tariff_set_new_title": "Dodirnite za odabir jednog sata. Pritisnite, držite i povucite prstom za odabir više sati odjednom.",
     "CL_TS_purchase_price": "Kupovna cijena",
-    "CL_TS_feed_in_price": "Otkupna cijena"
+    "CL_TS_feed_in_price": "Otkupna cijena",
+    "CL_DV_RF_pl_exit_cool_first": "Prvo izađite iz načina rada Super Cool.",
+    "CL_DV_RF_pl_exit_frozen_first": "Prvo izađite iz načina brzog zamrzavanja.",
+    "CL_DV_RF_pl_exit_holiday_first": "Prvo izađite iz načina rada za praznike.",
+    "CL_DV_RF_pl_exit_party_first": "Prvo izađite iz načina rada za zabavu",
+    "CL_DV_OV_baking_settings": "Postavke pečenja",
+    "CL_CF_FM_no_matching_region": "Nema odgovarajuće regije",
+    "CL_DV_OV_default_duration": "Zadano trajanje",
+    "CL_DV_OV_very_soft": "Vrlo mekano",
+    "CL_DV_OV_very_hard": "Vrlo teško",
+    "CL_DV_OV_celsius": "Celzijus",
+    "CL_DV_OV_fahrenheit": "Fahrenheit",
+    "CL_DV_OV_hide_additional_programs": "Sakrij dodatne programe",
+    "CL_CF_CS_portable_ac_select_panel": "Ima li vaša ploča znak ispod?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Slijedite ove korake za povezivanje uređaja na Wi-Fi. Preporučujemo da onemogućite mrežne podatke na svom pametnom telefonu."
 }

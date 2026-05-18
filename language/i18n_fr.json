@@ -8501,5 +8501,19 @@
     "pind_level": "Niveau du capot",
     "CL_TA_MA_tariff_set_new_title": "Touchez pour sélectionner une heure. Appuyez, maintenez et faites glisser pour sélectionner plusieurs heures à la fois.",
     "CL_TS_purchase_price": "prix d'achat",
-    "CL_TS_feed_in_price": "Prix ​​de rachat"
+    "CL_TS_feed_in_price": "Prix ​​de rachat",
+    "CL_DV_RF_pl_exit_cool_first": "Veuillez d'abord quitter le mode Super Cool.",
+    "CL_DV_RF_pl_exit_frozen_first": "Veuillez d'abord quitter le mode de gel rapide.",
+    "CL_DV_RF_pl_exit_holiday_first": "Veuillez d'abord quitter le mode vacances.",
+    "CL_DV_RF_pl_exit_party_first": "Veuillez d'abord quitter le mode Party",
+    "CL_DV_OV_baking_settings": "Paramètres de cuisson",
+    "CL_CF_FM_no_matching_region": "Aucune région correspondante",
+    "CL_DV_OV_default_duration": "Durée par défaut",
+    "CL_DV_OV_very_soft": "Très doux",
+    "CL_DV_OV_very_hard": "Très difficile",
+    "CL_DV_OV_celsius": "Celsius",
+    "CL_DV_OV_fahrenheit": "Fahrenheit",
+    "CL_DV_OV_hide_additional_programs": "Masquer les programmes supplémentaires",
+    "CL_CF_CS_portable_ac_select_panel": "Votre panneau comporte-t-il le symbole ci-dessous ?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Suivez ces étapes pour connecter l'appareil au Wi-Fi. Nous vous recommandons de désactiver les données réseau sur votre smartphone."
 }
