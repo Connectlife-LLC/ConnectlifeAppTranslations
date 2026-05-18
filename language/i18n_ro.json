@@ -8501,5 +8501,19 @@
     "pind_level": "Nivelul hotei",
     "CL_TA_MA_tariff_set_new_title": "Atingeți pentru a selecta o singură oră. Apăsați, țineți apăsat și glisați pentru a selecta mai multe ore simultan.",
     "CL_TS_purchase_price": "Preț de achiziție",
-    "CL_TS_feed_in_price": "Preț de alimentare"
+    "CL_TS_feed_in_price": "Preț de alimentare",
+    "CL_DV_RF_pl_exit_cool_first": "Vă rugăm să ieșiți mai întâi din modul Super Cool.",
+    "CL_DV_RF_pl_exit_frozen_first": "Vă rugăm să ieșiți mai întâi din modul Congelare rapidă.",
+    "CL_DV_RF_pl_exit_holiday_first": "Vă rugăm să ieșiți mai întâi din modul Vacanță.",
+    "CL_DV_RF_pl_exit_party_first": "Te rugăm să ieși mai întâi din modul Petrecere",
+    "CL_DV_OV_baking_settings": "Setări de coacere",
+    "CL_CF_FM_no_matching_region": "Nicio regiune potrivită",
+    "CL_DV_OV_default_duration": "Durată implicită",
+    "CL_DV_OV_very_soft": "Foarte moale",
+    "CL_DV_OV_very_hard": "Foarte greu",
+    "CL_DV_OV_celsius": "Celsius",
+    "CL_DV_OV_fahrenheit": "Fahrenheit",
+    "CL_DV_OV_hide_additional_programs": "Ascundeți programe suplimentare",
+    "CL_CF_CS_portable_ac_select_panel": "Panoul dumneavoastră are semnul de mai jos?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Urmați acești pași pentru a conecta dispozitivul la Wi-Fi. Vă recomandăm să dezactivați datele de rețea de pe smartphone-ul dvs."
 }
