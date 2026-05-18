@@ -8501,5 +8501,22 @@
     "pind_level": "سطح هود",
     "CL_TA_MA_tariff_set_new_title": "برای انتخاب یک ساعت، ضربه بزنید. برای انتخاب همزمان چندین ساعت، فشار دهید، نگه دارید و بکشید.",
     "CL_TS_purchase_price": "قیمت خرید",
-    "CL_TS_feed_in_price": "قیمت خوراک"
+    "CL_TS_feed_in_price": "قیمت خوراک",
+    "CL_DV_RF_pl_exit_cool_first": "لطفاً ابتدا از حالت فوق‌العاده سرد (Super Cool) خارج شوید.",
+    "CL_DV_RF_pl_exit_frozen_first": "لطفاً ابتدا از حالت انجماد سریع خارج شوید.",
+    "CL_DV_RF_pl_exit_holiday_first": "لطفاً ابتدا از حالت تعطیلات خارج شوید.",
+    "CL_DV_RF_pl_exit_party_first": "لطفاً ابتدا از حالت مهمانی خارج شوید",
+    "CL_DV_OV_baking_settings": "تنظیمات پخت",
+    "CL_CF_FM_no_matching_region": "هیچ منطقه منطبقی وجود ندارد",
+    "CL_DV_OV_default_duration": "مدت زمان پیش‌فرض",
+    "CL_DV_OV_very_soft": "خیلی نرم",
+    "CL_DV_OV_very_hard": "خیلی سخت",
+    "CL_DV_OV_celsius": "سانتیگراد",
+    "CL_DV_OV_fahrenheit": "فارنهایت",
+    "CL_DV_OV_hide_additional_programs": "مخفی کردن برنامه‌های اضافی",
+    "CL_CF_CS_portable_ac_select_panel": "آیا پنل شما علامت زیر را دارد؟",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "برای اتصال دستگاه به وای فای مراحل زیر را دنبال کنید. توصیه می کنیم داده های شبکه را در گوشی هوشمند خود غیرفعال کنید.",
+    "CL_Dish_Washer_energy_eco_mode_tip": "درصد نشان می‌دهد که با حالت هوش مصنوعی اکو چقدر در مصرف انرژی صرفه‌جویی کرده‌اید.",
+    "CL_DV_WM_Drum_Drying": "خشک کردن با درام",
+    "CL_DV_WM_Drum_Cleaning": "تمیز کردن درام"
 }

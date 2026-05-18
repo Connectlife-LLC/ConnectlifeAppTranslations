@@ -8501,5 +8501,22 @@
     "pind_level": "Nivel del capó",
     "CL_TA_MA_tariff_set_new_title": "Pulsa para seleccionar una sola hora. Mantén pulsado y desliza para seleccionar varias horas a la vez.",
     "CL_TS_purchase_price": "Precio de compra",
-    "CL_TS_feed_in_price": "precio de alimentación"
+    "CL_TS_feed_in_price": "precio de alimentación",
+    "CL_DV_RF_pl_exit_cool_first": "Por favor, salga primero del modo Súper Genial.",
+    "CL_DV_RF_pl_exit_frozen_first": "Por favor, salga primero del modo Congelación rápida.",
+    "CL_DV_RF_pl_exit_holiday_first": "Por favor, desactive primero el modo vacaciones.",
+    "CL_DV_RF_pl_exit_party_first": "Por favor, salga primero del modo Fiesta.",
+    "CL_DV_OV_baking_settings": "Configuración de horneado",
+    "CL_CF_FM_no_matching_region": "No hay región coincidente",
+    "CL_DV_OV_default_duration": "Duración predeterminada",
+    "CL_DV_OV_very_soft": "Muy suave",
+    "CL_DV_OV_very_hard": "Muy difícil",
+    "CL_DV_OV_celsius": "Celsius",
+    "CL_DV_OV_fahrenheit": "Fahrenheit",
+    "CL_DV_OV_hide_additional_programs": "Ocultar programas adicionales",
+    "CL_CF_CS_portable_ac_select_panel": "¿Su panel tiene el letrero que aparece a continuación?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Siga estos pasos para conectar el dispositivo al Wi-Fi. Recomendamos deshabilitar los datos de red en su teléfono inteligente.",
+    "CL_Dish_Washer_energy_eco_mode_tip": "El porcentaje muestra cuánta energía has ahorrado con el Modo Eco con IA.",
+    "CL_DV_WM_Drum_Drying": "Secado en tambor",
+    "CL_DV_WM_Drum_Cleaning": "Limpieza de tambores"
 }

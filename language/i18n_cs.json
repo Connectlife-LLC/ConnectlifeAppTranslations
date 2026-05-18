@@ -8501,5 +8501,22 @@
     "pind_level": "Úroveň kapuce",
     "CL_TA_MA_tariff_set_new_title": "Klepnutím vyberte jednu hodinu. Stisknutím, podržením a posunutím vyberte více hodin najednou.",
     "CL_TS_purchase_price": "Kupní cena",
-    "CL_TS_feed_in_price": "Výkupní cena"
+    "CL_TS_feed_in_price": "Výkupní cena",
+    "CL_DV_RF_pl_exit_cool_first": "Nejprve prosím ukončete režim Super Cool (super chlazení).",
+    "CL_DV_RF_pl_exit_frozen_first": "Nejprve prosím ukončete režim rychlého zmrazení.",
+    "CL_DV_RF_pl_exit_holiday_first": "Nejprve prosím ukončete režim Dovolená.",
+    "CL_DV_RF_pl_exit_party_first": "Nejprve prosím ukončete režim Párty",
+    "CL_DV_OV_baking_settings": "Nastavení pečení",
+    "CL_CF_FM_no_matching_region": "Žádná odpovídající oblast",
+    "CL_DV_OV_default_duration": "Výchozí doba trvání",
+    "CL_DV_OV_very_soft": "Velmi měkké",
+    "CL_DV_OV_very_hard": "Velmi těžké",
+    "CL_DV_OV_celsius": "Celsia",
+    "CL_DV_OV_fahrenheit": "Fahrenheita",
+    "CL_DV_OV_hide_additional_programs": "Skrýt další programy",
+    "CL_CF_CS_portable_ac_select_panel": "Má váš panel toto označení níže?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Pro připojení zařízení k Wi-Fi postupujte podle následujících kroků. Doporučujeme deaktivovat síťová data na vašem smartphonu.",
+    "CL_Dish_Washer_energy_eco_mode_tip": "Procento ukazuje, kolik energie jste ušetřili díky režimu AI Eco.",
+    "CL_DV_WM_Drum_Drying": "Sušení v bubnu",
+    "CL_DV_WM_Drum_Cleaning": "Čištění bubnu"
 }
