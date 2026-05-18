@@ -8501,5 +8501,22 @@
     "pind_level": "Kaput Seviyesi",
     "CL_TA_MA_tariff_set_new_title": "Tek bir saat seçmek için dokunun. Birden fazla saat seçmek için basılı tutun ve kaydırın.",
     "CL_TS_purchase_price": "Satın alma fiyatı",
-    "CL_TS_feed_in_price": "Besleme fiyatı"
+    "CL_TS_feed_in_price": "Besleme fiyatı",
+    "CL_DV_RF_pl_exit_cool_first": "Lütfen önce Süper Serin modundan çıkın.",
+    "CL_DV_RF_pl_exit_frozen_first": "Lütfen önce Hızlı Dondurma modundan çıkın.",
+    "CL_DV_RF_pl_exit_holiday_first": "Lütfen önce Tatil modundan çıkın.",
+    "CL_DV_RF_pl_exit_party_first": "Lütfen önce Parti modundan çıkın.",
+    "CL_DV_OV_baking_settings": "Pişirme ayarları",
+    "CL_CF_FM_no_matching_region": "Eşleşen bölge yok",
+    "CL_DV_OV_default_duration": "Varsayılan süre",
+    "CL_DV_OV_very_soft": "Çok yumuşak",
+    "CL_DV_OV_very_hard": "Çok zor",
+    "CL_DV_OV_celsius": "Santigrat",
+    "CL_DV_OV_fahrenheit": "Fahrenheit",
+    "CL_DV_OV_hide_additional_programs": "Ek programları gizle",
+    "CL_CF_CS_portable_ac_select_panel": "Panonuzda aşağıdaki işaret var mı?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Cihazı Wi-Fi'ye bağlamak için aşağıdaki adımları izleyin. Akıllı telefonunuzdaki ağ verilerini devre dışı bırakmanızı öneririz.",
+    "CL_Dish_Washer_energy_eco_mode_tip": "Yüzde oranı, yapay zeka destekli Eko Modu ile ne kadar enerji tasarrufu sağladığınızı gösterir.",
+    "CL_DV_WM_Drum_Drying": "Tamburda Kurutma",
+    "CL_DV_WM_Drum_Cleaning": "Tambur Temizliği"
 }

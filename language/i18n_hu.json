@@ -8501,5 +8501,22 @@
     "pind_level": "Motorháztető szint",
     "CL_TA_MA_tariff_set_new_title": "Koppintson egyetlen óra kiválasztásához. Nyomja meg, tartsa lenyomva, és csúsztassa el az ujját több óra egyidejű kiválasztásához.",
     "CL_TS_purchase_price": "Vételár",
-    "CL_TS_feed_in_price": "Betáplálási ár"
+    "CL_TS_feed_in_price": "Betáplálási ár",
+    "CL_DV_RF_pl_exit_cool_first": "Először lépjen ki a Szuperhűtés módból.",
+    "CL_DV_RF_pl_exit_frozen_first": "Először lépjen ki a Gyorsfagyasztás módból.",
+    "CL_DV_RF_pl_exit_holiday_first": "Először lépjen ki a Szabadság módból.",
+    "CL_DV_RF_pl_exit_party_first": "Először lépj ki a Buli módból",
+    "CL_DV_OV_baking_settings": "Sütési beállítások",
+    "CL_CF_FM_no_matching_region": "Nincs egyező régió",
+    "CL_DV_OV_default_duration": "Alapértelmezett időtartam",
+    "CL_DV_OV_very_soft": "Nagyon puha",
+    "CL_DV_OV_very_hard": "Nagyon nehéz",
+    "CL_DV_OV_celsius": "Celsius",
+    "CL_DV_OV_fahrenheit": "Fahrenheit",
+    "CL_DV_OV_hide_additional_programs": "További programok elrejtése",
+    "CL_CF_CS_portable_ac_select_panel": "A panelodon van az alábbi tábla?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Kövesse ezeket a lépéseket az eszköz Wi-Fi hálózathoz való csatlakoztatásához. Javasoljuk, hogy kapcsolja ki a hálózati adatokat az okostelefonon.",
+    "CL_Dish_Washer_energy_eco_mode_tip": "A százalékos érték azt mutatja, hogy mennyi energiát takarított meg az AI Eco móddal.",
+    "CL_DV_WM_Drum_Drying": "Dobszárítás",
+    "CL_DV_WM_Drum_Cleaning": "Dobtisztítás"
 }

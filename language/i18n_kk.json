@@ -8501,5 +8501,22 @@
     "pind_level": "Сорғыш деңгейі",
     "CL_TA_MA_tariff_set_new_title": "Бір сағатты таңдау үшін түртіңіз. Бір уақытта бірнеше сағатты таңдау үшін басып тұрыңыз және сырғытыңыз.",
     "CL_TS_purchase_price": "Сатып алу бағасы",
-    "CL_TS_feed_in_price": "Тамақтандыру бағасы"
+    "CL_TS_feed_in_price": "Тамақтандыру бағасы",
+    "CL_DV_RF_pl_exit_cool_first": "Алдымен \"Супер салқын\" режимінен шығыңыз.",
+    "CL_DV_RF_pl_exit_frozen_first": "Алдымен Жылдам мұздату режимінен шығыңыз.",
+    "CL_DV_RF_pl_exit_holiday_first": "Алдымен мерекелік режимнен шығыңыз.",
+    "CL_DV_RF_pl_exit_party_first": "Алдымен Кеш режимінен шығыңыз",
+    "CL_DV_OV_baking_settings": "Пісіру параметрлері",
+    "CL_CF_FM_no_matching_region": "Сәйкес келетін аймақ жоқ",
+    "CL_DV_OV_default_duration": "Әдепкі ұзақтық",
+    "CL_DV_OV_very_soft": "Өте жұмсақ",
+    "CL_DV_OV_very_hard": "Өте қиын",
+    "CL_DV_OV_celsius": "Цельсий",
+    "CL_DV_OV_fahrenheit": "Фаренгейт",
+    "CL_DV_OV_hide_additional_programs": "Қосымша бағдарламаларды жасыру",
+    "CL_CF_CS_portable_ac_select_panel": "Төмендегі тақтайшаңызда белгі бар ма?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Құрылғыны Wi-Fi желісіне қосу үшін мына қадамдарды орындаңыз. Смартфондағы желі деректерін өшіруді ұсынамыз.",
+    "CL_Dish_Washer_energy_eco_mode_tip": "Пайыздық көрсеткіш AI Eco режимімен қанша энергия үнемдегеніңізді көрсетеді.",
+    "CL_DV_WM_Drum_Drying": "Барабанмен кептіру",
+    "CL_DV_WM_Drum_Cleaning": "Барабан тазалау"
 }

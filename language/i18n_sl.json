@@ -8501,5 +8501,22 @@
     "pind_level": "Raven nape",
     "CL_TA_MA_tariff_set_new_title": "Dotaknite se, da izberete eno uro. Pritisnite, pridržite in podrsajte, da izberete več ur hkrati.",
     "CL_TS_purchase_price": "Nakupna cena",
-    "CL_TS_feed_in_price": "Cena odkupne tarife"
+    "CL_TS_feed_in_price": "Cena odkupne tarife",
+    "CL_DV_RF_pl_exit_cool_first": "Najprej zapustite način Super Cool.",
+    "CL_DV_RF_pl_exit_frozen_first": "Najprej zapustite način hitrega zamrzovanja.",
+    "CL_DV_RF_pl_exit_holiday_first": "Najprej zapustite način počitnic.",
+    "CL_DV_RF_pl_exit_party_first": "Najprej zapustite način zabave",
+    "CL_DV_OV_baking_settings": "Nastavitve peke",
+    "CL_CF_FM_no_matching_region": "Ni ujemajoče se regije",
+    "CL_DV_OV_default_duration": "Privzeto trajanje",
+    "CL_DV_OV_very_soft": "Zelo mehko",
+    "CL_DV_OV_very_hard": "Zelo težko",
+    "CL_DV_OV_celsius": "Celzija",
+    "CL_DV_OV_fahrenheit": "Fahrenheit",
+    "CL_DV_OV_hide_additional_programs": "Skrij dodatne programe",
+    "CL_CF_CS_portable_ac_select_panel": "Ali ima vaša plošča spodnji znak?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Če želite napravo povezati z omrežjem Wi-Fi, sledite naslednjim korakom. Priporočamo, da v pametnem telefonu onemogočite omrežne podatke.",
+    "CL_Dish_Washer_energy_eco_mode_tip": "Odstotek prikazuje, koliko energije ste prihranili z načinom AI Eco.",
+    "CL_DV_WM_Drum_Drying": "Sušenje v bobnu",
+    "CL_DV_WM_Drum_Cleaning": "Čiščenje bobna"
 }

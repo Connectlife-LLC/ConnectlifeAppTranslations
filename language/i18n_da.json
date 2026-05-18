@@ -8501,5 +8501,22 @@
     "pind_level": "Hætteniveau",
     "CL_TA_MA_tariff_set_new_title": "Tryk for at vælge en enkelt time. Tryk, hold nede og skub for at vælge flere timer på én gang.",
     "CL_TS_purchase_price": "Købspris",
-    "CL_TS_feed_in_price": "Tilførselspris"
+    "CL_TS_feed_in_price": "Tilførselspris",
+    "CL_DV_RF_pl_exit_cool_first": "Afslut venligst Super Cool-tilstanden først.",
+    "CL_DV_RF_pl_exit_frozen_first": "Afslut venligst Fast Freeze-tilstanden først.",
+    "CL_DV_RF_pl_exit_holiday_first": "Afslut venligst ferietilstand først.",
+    "CL_DV_RF_pl_exit_party_first": "Afslut venligst festtilstand først",
+    "CL_DV_OV_baking_settings": "Bageindstillinger",
+    "CL_CF_FM_no_matching_region": "Ingen matchende region",
+    "CL_DV_OV_default_duration": "Standardvarighed",
+    "CL_DV_OV_very_soft": "Meget blød",
+    "CL_DV_OV_very_hard": "Meget hårdt",
+    "CL_DV_OV_celsius": "Celsius",
+    "CL_DV_OV_fahrenheit": "Fahrenheit",
+    "CL_DV_OV_hide_additional_programs": "Skjul yderligere programmer",
+    "CL_CF_CS_portable_ac_select_panel": "Har dit panel skiltet nedenfor?",
+    "CL_CF_CS_portable_ac_connect_to_wifi": "Følg disse trin for at forbinde enheden til Wi-Fi. Vi anbefaler at deaktivere netværksdata på din smartphone.",
+    "CL_Dish_Washer_energy_eco_mode_tip": "Procentdelen viser, hvor meget energi du har sparet med AI Eco-tilstand.",
+    "CL_DV_WM_Drum_Drying": "Tromletørring",
+    "CL_DV_WM_Drum_Cleaning": "Tromlerensning"
 }
