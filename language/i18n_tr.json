@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Cihazı Wi-Fi'ye bağlamak için aşağıdaki adımları izleyin. Akıllı telefonunuzdaki ağ verilerini devre dışı bırakmanızı öneririz.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Yüzde oranı, yapay zeka destekli Eko Modu ile ne kadar enerji tasarrufu sağladığınızı gösterir.",
     "CL_DV_WM_Drum_Drying": "Tamburda Kurutma",
-    "CL_DV_WM_Drum_Cleaning": "Tambur Temizliği"
+    "CL_DV_WM_Drum_Cleaning": "Tambur Temizliği",
+    "share_feedback": "Geri bildirim paylaşın",
+    "share_feedback_desc": "Uygulamayı geliştirmemize yardımcı olun",
+    "CL_SF_experience_title": "Şu ana kadarki deneyiminiz nasıl?",
+    "CL_SF_experience_desc": "Düşüncelerinizi bizimle paylaşın! Geri bildirimleriniz bu uygulamayı daha iyi hale getirmemize yardımcı oluyor.",
+    "CL_SF_remind_desc": "Gelecek hafta tekrar kontrol etmemizi ister misiniz, yoksa sormayı bırakalım mı?",
+    "CL_SF_remind_next_week": "GELECEK HAFTA BANA HATIRLAT",
+    "CL_SF_dont_ask_again": "BİR DAHA SORMAMA",
+    "CL_SF_feedback_later": "Dilerseniz daha sonra yardım ve destek menüsünden geri bildirimlerinizi paylaşabilirsiniz.",
+    "CL_SF_thank_you": "Teşekkürler! Geri bildirimleriniz uygulamayı daha iyi hale getirmemize yardımcı oluyor."
 }

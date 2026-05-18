@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Urmați acești pași pentru a conecta dispozitivul la Wi-Fi. Vă recomandăm să dezactivați datele de rețea de pe smartphone-ul dvs.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Procentul arată câtă energie ați economisit cu modul AI Eco.",
     "CL_DV_WM_Drum_Drying": "Uscarea în tambur",
-    "CL_DV_WM_Drum_Cleaning": "Curățarea tamburului"
+    "CL_DV_WM_Drum_Cleaning": "Curățarea tamburului",
+    "share_feedback": "Distribuiți feedback",
+    "share_feedback_desc": "Ajutați-ne să îmbunătățim aplicația",
+    "CL_SF_experience_title": "Cum este experiența ta până acum?",
+    "CL_SF_experience_desc": "Spune-ne ce crezi! Feedback-ul tău ne ajută să îmbunătățim această aplicație.",
+    "CL_SF_remind_desc": "Vrei să ne contactăm din nou săptămâna viitoare sau ar trebui să nu mai întrebăm?",
+    "CL_SF_remind_next_week": "AMINTEȘTE-MI SĂPTĂMÂNA VIITOARE",
+    "CL_SF_dont_ask_again": "NU MAI ÎNTREBA",
+    "CL_SF_feedback_later": "Puteți oricând să ne oferiți feedback mai târziu din meniul de ajutor și asistență.",
+    "CL_SF_thank_you": "Mulțumim! Feedback-ul tău ne ajută să îmbunătățim aplicația."
 }

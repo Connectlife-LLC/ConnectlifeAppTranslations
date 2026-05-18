@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Följ stegen för att ansluta din enhet till Wi-Fi.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Procentandelen visar hur mycket energi du har sparat med AI Eco Mode.",
     "CL_DV_WM_Drum_Drying": "Trumtorkning",
-    "CL_DV_WM_Drum_Cleaning": "Trumrengöring"
+    "CL_DV_WM_Drum_Cleaning": "Trumrengöring",
+    "share_feedback": "Dela feedback",
+    "share_feedback_desc": "Hjälp oss att förbättra appen",
+    "CL_SF_experience_title": "Hur är din erfarenhet hittills?",
+    "CL_SF_experience_desc": "Berätta vad du tycker! Din feedback hjälper oss att göra den här appen bättre.",
+    "CL_SF_remind_desc": "Vill du att vi ska höra av oss igen nästa vecka, eller ska vi sluta fråga?",
+    "CL_SF_remind_next_week": "PÅMINN MIG NÄSTA VECKA",
+    "CL_SF_dont_ask_again": "FRÅGA INTE IGEN",
+    "CL_SF_feedback_later": "Du kan alltid dela din feedback senare från hjälp- och supportmenyn.",
+    "CL_SF_thank_you": "Tack! Din feedback hjälper oss att förbättra appen."
 }

@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Làm theo các bước sau để kết nối thiết bị với Wi-Fi. Chúng tôi khuyên bạn nên tắt dữ liệu mạng trên điện thoại thông minh của mình.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Tỷ lệ phần trăm thể hiện lượng năng lượng bạn đã tiết kiệm được nhờ Chế độ AI Eco.",
     "CL_DV_WM_Drum_Drying": "Sấy khô bằng trống",
-    "CL_DV_WM_Drum_Cleaning": "Vệ sinh trống"
+    "CL_DV_WM_Drum_Cleaning": "Vệ sinh trống",
+    "share_feedback": "Chia sẻ phản hồi",
+    "share_feedback_desc": "Hãy giúp chúng tôi cải thiện ứng dụng.",
+    "CL_SF_experience_title": "Trải nghiệm của bạn cho đến nay như thế nào?",
+    "CL_SF_experience_desc": "Hãy cho chúng tôi biết ý kiến ​​của bạn! Phản hồi của bạn giúp chúng tôi cải thiện ứng dụng này.",
+    "CL_SF_remind_desc": "Bạn muốn chúng tôi liên lạc lại vào tuần sau, hay là chúng ta nên ngừng hỏi?",
+    "CL_SF_remind_next_week": "NHẮC TÔI VÀO TUẦN SAU",
+    "CL_SF_dont_ask_again": "ĐỪNG HỎI LẠI NỮA",
+    "CL_SF_feedback_later": "Bạn luôn có thể chia sẻ phản hồi của mình sau này từ menu trợ giúp và hỗ trợ.",
+    "CL_SF_thank_you": "Cảm ơn bạn! Phản hồi của bạn giúp chúng tôi cải thiện ứng dụng."
 }

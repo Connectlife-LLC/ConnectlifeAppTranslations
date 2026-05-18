@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "请按照以下步骤对设备进行联网，建议关闭掉智能手机上的移动数据。",
     "CL_Dish_Washer_energy_eco_mode_tip": "该百分比显示了您使用 AI 节能模式节省了多少能源。",
     "CL_DV_WM_Drum_Drying": "滚筒干燥",
-    "CL_DV_WM_Drum_Cleaning": "鼓清洗"
+    "CL_DV_WM_Drum_Cleaning": "鼓清洗",
+    "share_feedback": "分享反馈",
+    "share_feedback_desc": "请帮助我们改进应用",
+    "CL_SF_experience_title": "你目前的体验如何？",
+    "CL_SF_experience_desc": "告诉我们您的想法！您的反馈有助于我们改进这款应用。",
+    "CL_SF_remind_desc": "希望我们下周再问一次，还是就此打住？",
+    "CL_SF_remind_next_week": "下周提醒我",
+    "CL_SF_dont_ask_again": "不要再问了",
+    "CL_SF_feedback_later": "您之后随时可以通过帮助和支持菜单分享您的反馈。",
+    "CL_SF_thank_you": "谢谢！您的反馈有助于我们改进应用。"
 }

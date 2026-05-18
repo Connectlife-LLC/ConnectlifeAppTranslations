@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Ikuti langkah ini untuk menyambungkan peranti ke Wi-Fi. Kami mengesyorkan untuk melumpuhkan data rangkaian pada telefon pintar anda.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Peratusan menunjukkan jumlah tenaga yang telah anda jimatkan dengan Mod Eko AI.",
     "CL_DV_WM_Drum_Drying": "Pengeringan Dram",
-    "CL_DV_WM_Drum_Cleaning": "Pembersihan Dram"
+    "CL_DV_WM_Drum_Cleaning": "Pembersihan Dram",
+    "share_feedback": "Kongsikan maklum balas",
+    "share_feedback_desc": "Bantu kami menambah baik aplikasi ini",
+    "CL_SF_experience_title": "Bagaimana pengalaman anda setakat ini?",
+    "CL_SF_experience_desc": "Beritahu kami pendapat anda! Maklum balas anda membantu kami menambah baik aplikasi ini.",
+    "CL_SF_remind_desc": "Mahu kami mendaftar masuk semula minggu depan, atau patutkah kami berhenti bertanya?",
+    "CL_SF_remind_next_week": "INGATKAN SAYA MINGGU DEPAN",
+    "CL_SF_dont_ask_again": "JANGAN TANYA LAGI",
+    "CL_SF_feedback_later": "Anda sentiasa boleh berkongsi maklum balas anda kemudian daripada menu bantuan dan sokongan.",
+    "CL_SF_thank_you": "Terima kasih! Maklum balas anda membantu kami menambah baik aplikasi ini."
 }

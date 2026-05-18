@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Follow these steps to connect the device to the WiFi. We recommend disabling network data on your smartphone.",
     "CL_Dish_Washer_energy_eco_mode_tip": "The percentage shows how much energy you've saved with AI Eco Mode.",
     "CL_DV_WM_Drum_Drying": "Drum Drying",
-    "CL_DV_WM_Drum_Cleaning": "Drum Cleaning"
+    "CL_DV_WM_Drum_Cleaning": "Drum Cleaning",
+    "share_feedback": "Share feedback",
+    "share_feedback_desc": "Help us improve the app",
+    "CL_SF_experience_title": "How’s your experience so far?",
+    "CL_SF_experience_desc": "Tell us what you think! Your feedback helps us make this app better.",
+    "CL_SF_remind_desc": "Want us to check in again next week, or should we stop asking?",
+    "CL_SF_remind_next_week": "REMIND ME NEXT WEEK",
+    "CL_SF_dont_ask_again": "DON’T ASK AGAIN",
+    "CL_SF_feedback_later": "You can always share your feedback later from the help and support menu.",
+    "CL_SF_thank_you": "Thank you! Your feedback helps us make the app better."
 }

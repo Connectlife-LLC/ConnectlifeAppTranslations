@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "בצע את השלבים הבאים כדי לחבר את המכשיר ל-Wi-Fi. אנו ממליצים להשבית את נתוני הרשת בסמארטפון שלך.",
     "CL_Dish_Washer_energy_eco_mode_tip": "האחוז מראה כמה אנרגיה חסכת עם מצב אקו מבוסס בינה מלאכותית.",
     "CL_DV_WM_Drum_Drying": "ייבוש תוף",
-    "CL_DV_WM_Drum_Cleaning": "ניקוי תוף"
+    "CL_DV_WM_Drum_Cleaning": "ניקוי תוף",
+    "share_feedback": "שתף משוב",
+    "share_feedback_desc": "עזרו לנו לשפר את האפליקציה",
+    "CL_SF_experience_title": "איך החוויה שלך עד כה?",
+    "CL_SF_experience_desc": "ספרו לנו מה אתם חושבים! המשוב שלכם עוזר לנו לשפר את האפליקציה הזו.",
+    "CL_SF_remind_desc": "רוצה שנבדוק שוב בשבוע הבא, או שעדיף שנפסיק לשאול?",
+    "CL_SF_remind_next_week": "תזכירו לי בשבוע הבא",
+    "CL_SF_dont_ask_again": "אל תשאל שוב",
+    "CL_SF_feedback_later": "תמיד תוכלו לשתף את המשוב שלכם מאוחר יותר מתפריט העזרה והתמיכה.",
+    "CL_SF_thank_you": "תודה! המשוב שלך עוזר לנו לשפר את האפליקציה."
 }

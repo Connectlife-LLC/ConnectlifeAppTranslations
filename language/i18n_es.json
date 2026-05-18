@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Siga estos pasos para conectar el dispositivo al Wi-Fi. Recomendamos deshabilitar los datos de red en su teléfono inteligente.",
     "CL_Dish_Washer_energy_eco_mode_tip": "El porcentaje muestra cuánta energía has ahorrado con el Modo Eco con IA.",
     "CL_DV_WM_Drum_Drying": "Secado en tambor",
-    "CL_DV_WM_Drum_Cleaning": "Limpieza de tambores"
+    "CL_DV_WM_Drum_Cleaning": "Limpieza de tambores",
+    "share_feedback": "Comparta sus comentarios",
+    "share_feedback_desc": "Ayúdanos a mejorar la aplicación.",
+    "CL_SF_experience_title": "¿Qué tal ha sido tu experiencia hasta ahora?",
+    "CL_SF_experience_desc": "¡Cuéntanos qué te parece! Tus comentarios nos ayudan a mejorar esta aplicación.",
+    "CL_SF_remind_desc": "¿Quieren que volvamos a contactarles la semana que viene, o deberíamos dejar de preguntar?",
+    "CL_SF_remind_next_week": "RECUÉNTAME LA SEMANA QUE VIENE",
+    "CL_SF_dont_ask_again": "NO VUELVAS A PREGUNTAR",
+    "CL_SF_feedback_later": "Siempre puedes compartir tus comentarios más adelante desde el menú de ayuda y soporte.",
+    "CL_SF_thank_you": "¡Gracias! Tus comentarios nos ayudan a mejorar la aplicación."
 }

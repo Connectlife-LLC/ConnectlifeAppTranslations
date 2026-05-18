@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Če želite napravo povezati z omrežjem Wi-Fi, sledite naslednjim korakom. Priporočamo, da v pametnem telefonu onemogočite omrežne podatke.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Odstotek prikazuje, koliko energije ste prihranili z načinom AI Eco.",
     "CL_DV_WM_Drum_Drying": "Sušenje v bobnu",
-    "CL_DV_WM_Drum_Cleaning": "Čiščenje bobna"
+    "CL_DV_WM_Drum_Cleaning": "Čiščenje bobna",
+    "share_feedback": "Deli povratne informacije",
+    "share_feedback_desc": "Pomagajte nam izboljšati aplikacijo",
+    "CL_SF_experience_title": "Kakšne so vaše izkušnje do sedaj?",
+    "CL_SF_experience_desc": "Povejte nam svoje mnenje! Vaše povratne informacije nam pomagajo izboljšati to aplikacijo.",
+    "CL_SF_remind_desc": "Želite, da se naslednji teden spet oglasimo, ali naj nehamo spraševati?",
+    "CL_SF_remind_next_week": "SPOMNI ME NASLEDNJI TEDEN",
+    "CL_SF_dont_ask_again": "NE SPRAŠUJ VEČ",
+    "CL_SF_feedback_later": "Svoje povratne informacije lahko vedno delite pozneje v meniju za pomoč in podporo.",
+    "CL_SF_thank_you": "Hvala! Vaše povratne informacije nam pomagajo izboljšati aplikacijo."
 }

@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Kövesse ezeket a lépéseket az eszköz Wi-Fi hálózathoz való csatlakoztatásához. Javasoljuk, hogy kapcsolja ki a hálózati adatokat az okostelefonon.",
     "CL_Dish_Washer_energy_eco_mode_tip": "A százalékos érték azt mutatja, hogy mennyi energiát takarított meg az AI Eco móddal.",
     "CL_DV_WM_Drum_Drying": "Dobszárítás",
-    "CL_DV_WM_Drum_Cleaning": "Dobtisztítás"
+    "CL_DV_WM_Drum_Cleaning": "Dobtisztítás",
+    "share_feedback": "Visszajelzés megosztása",
+    "share_feedback_desc": "Segítsen nekünk fejleszteni az alkalmazást",
+    "CL_SF_experience_title": "Milyenek az eddigi tapasztalataid?",
+    "CL_SF_experience_desc": "Mondd el a véleményed! Visszajelzésed segít nekünk jobbá tenni ezt az alkalmazást.",
+    "CL_SF_remind_desc": "Szeretnéd, ha jövő héten újra jelentkeznénk, vagy abba kellene hagynunk a kérdezősködést?",
+    "CL_SF_remind_next_week": "EMLÉKEZTESSE MEG KÖVETŐ HÉTEN",
+    "CL_SF_dont_ask_again": "NE KÉRDEZD MÉG",
+    "CL_SF_feedback_later": "Visszajelzését később is megoszthatja a Súgó és támogatás menüben.",
+    "CL_SF_thank_you": "Köszönjük! Visszajelzése segít nekünk az alkalmazás fejlesztésében."
 }

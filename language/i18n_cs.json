@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Pro připojení zařízení k Wi-Fi postupujte podle následujících kroků. Doporučujeme deaktivovat síťová data na vašem smartphonu.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Procento ukazuje, kolik energie jste ušetřili díky režimu AI Eco.",
     "CL_DV_WM_Drum_Drying": "Sušení v bubnu",
-    "CL_DV_WM_Drum_Cleaning": "Čištění bubnu"
+    "CL_DV_WM_Drum_Cleaning": "Čištění bubnu",
+    "share_feedback": "Sdílet zpětnou vazbu",
+    "share_feedback_desc": "Pomozte nám vylepšit aplikaci",
+    "CL_SF_experience_title": "Jaké jsou vaše dosavadní zkušenosti?",
+    "CL_SF_experience_desc": "Řekněte nám, co si myslíte! Vaše zpětná vazba nám pomáhá tuto aplikaci vylepšit.",
+    "CL_SF_remind_desc": "Chcete, abychom se příští týden znovu ozvali, nebo se už nemáme ptát?",
+    "CL_SF_remind_next_week": "PŘIPOMÍNEJ MI PŘÍŠTÍ TÝDEN",
+    "CL_SF_dont_ask_again": "Už se neptej",
+    "CL_SF_feedback_later": "Svůj názor můžete kdykoli sdílet později z nabídky nápovědy a podpory.",
+    "CL_SF_thank_you": "Děkujeme! Vaše zpětná vazba nám pomáhá aplikaci vylepšit."
 }

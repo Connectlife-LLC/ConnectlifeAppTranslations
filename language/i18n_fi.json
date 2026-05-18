@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Liitä laite Wi-Fi-verkkoon noudattamalla näitä ohjeita. Suosittelemme poistamaan verkkotiedot käytöstä älypuhelimellasi.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Prosenttiosuus näyttää, kuinka paljon energiaa olet säästänyt tekoäly-ekotilassa.",
     "CL_DV_WM_Drum_Drying": "Rumpukuivaus",
-    "CL_DV_WM_Drum_Cleaning": "Rummun puhdistus"
+    "CL_DV_WM_Drum_Cleaning": "Rummun puhdistus",
+    "share_feedback": "Jaa palautetta",
+    "share_feedback_desc": "Auta meitä parantamaan sovellusta",
+    "CL_SF_experience_title": "Millainen on kokemuksesi tähän mennessä?",
+    "CL_SF_experience_desc": "Kerro meille mielipiteesi! Palautteesi auttaa meitä parantamaan tätä sovellusta.",
+    "CL_SF_remind_desc": "Haluatko meidän kysyvän uudelleen ensi viikolla, vai pitäisikö meidän lopettaa kysely?",
+    "CL_SF_remind_next_week": "MUISTOITTAA MINUA ENSI VIIKOLLA",
+    "CL_SF_dont_ask_again": "ÄLÄ KYSY UUDESTAAN",
+    "CL_SF_feedback_later": "Voit aina antaa palautetta myöhemmin Ohjeet ja tuki -valikosta.",
+    "CL_SF_thank_you": "Kiitos! Palautteesi auttaa meitä parantamaan sovellusta."
 }

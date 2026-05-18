@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Volg deze stappen om het apparaat met Wi-Fi te verbinden. We raden aan om netwerkgegevens op uw smartphone uit te schakelen.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Het percentage geeft aan hoeveel energie je hebt bespaard met de AI Eco-modus.",
     "CL_DV_WM_Drum_Drying": "Trommeldrogen",
-    "CL_DV_WM_Drum_Cleaning": "Trommelreiniging"
+    "CL_DV_WM_Drum_Cleaning": "Trommelreiniging",
+    "share_feedback": "Deel feedback",
+    "share_feedback_desc": "Help ons de app te verbeteren",
+    "CL_SF_experience_title": "Hoe bevalt je ervaring tot nu toe?",
+    "CL_SF_experience_desc": "Laat ons weten wat je ervan vindt! Jouw feedback helpt ons deze app te verbeteren.",
+    "CL_SF_remind_desc": "Willen jullie dat we volgende week weer contact met jullie opnemen, of kunnen we beter stoppen met vragen?",
+    "CL_SF_remind_next_week": "HERINNER ME VOLGENDE WEEK",
+    "CL_SF_dont_ask_again": "VRAAG HET NIET NOG EENS",
+    "CL_SF_feedback_later": "Je kunt je feedback later altijd nog delen via het menu 'Help en ondersteuning'.",
+    "CL_SF_thank_you": "Dankjewel! Jouw feedback helpt ons de app te verbeteren."
 }

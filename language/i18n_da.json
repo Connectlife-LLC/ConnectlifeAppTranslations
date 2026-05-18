@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Følg disse trin for at forbinde enheden til Wi-Fi. Vi anbefaler at deaktivere netværksdata på din smartphone.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Procentdelen viser, hvor meget energi du har sparet med AI Eco-tilstand.",
     "CL_DV_WM_Drum_Drying": "Tromletørring",
-    "CL_DV_WM_Drum_Cleaning": "Tromlerensning"
+    "CL_DV_WM_Drum_Cleaning": "Tromlerensning",
+    "share_feedback": "Del feedback",
+    "share_feedback_desc": "Hjælp os med at forbedre appen",
+    "CL_SF_experience_title": "Hvordan er din oplevelse indtil videre?",
+    "CL_SF_experience_desc": "Fortæl os, hvad du synes! Din feedback hjælper os med at forbedre denne app.",
+    "CL_SF_remind_desc": "Skal vi tjekke ind igen i næste uge, eller skal vi holde op med at spørge?",
+    "CL_SF_remind_next_week": "PÅMIND MIG I NÆSTE UGE",
+    "CL_SF_dont_ask_again": "SPØRG IKKE IGEN",
+    "CL_SF_feedback_later": "Du kan altid dele din feedback senere fra menuen Hjælp og support.",
+    "CL_SF_thank_you": "Tak! Din feedback hjælper os med at forbedre appen."
 }

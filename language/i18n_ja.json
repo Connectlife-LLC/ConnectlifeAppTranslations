@@ -5194,7 +5194,7 @@
     "CL_CF_CS_Undercounter_Wine_climate_cabinet_1-zone": "カウンター下 - ワインクライメートキャビネット 1ゾーン",
     "CL_CF_CS_Undercounter_Wine_climate_cabinet_2-zone": "カウンター下 - 2ゾーンワインクライメートキャビネット",
     "CL_CS_CF_Light_commercial_air_conditioner": "小型業務用エアコン",
-    "CL_CF_CS_Residential_air_conditioner": "家庭用エアコン",
+    "CL_CF_CS_Residential_air_conditioner": "ルームエアコン",
     "CL_CF_CS_Window_type_air_conditioner": "窓エアコン",
     "CL_CF_CS_CHOOSE_THE_CONTROL": "コントロールを選択",
     "CL_CF_CS_choose_control_type": "デバイスの制御の種類を選択します。",
@@ -8518,5 +8518,14 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "次の手順で機器のWi-Fi 接続を行ってください。スマートフォンのモバイルデータ通信をオフにすることをお勧めします。",
     "CL_Dish_Washer_energy_eco_mode_tip": "このパーセンテージは、AIエコモードによってどれだけのエネルギーが節約できたかを示しています。",
     "CL_DV_WM_Drum_Drying": "ドラム乾燥",
-    "CL_DV_WM_Drum_Cleaning": "ドラム洗浄"
+    "CL_DV_WM_Drum_Cleaning": "ドラム洗浄",
+    "share_feedback": "フィードバックを共有する",
+    "share_feedback_desc": "アプリの改善にご協力ください",
+    "CL_SF_experience_title": "これまでの体験はいかがですか？",
+    "CL_SF_experience_desc": "ご意見をお聞かせください！皆様からのフィードバックは、このアプリをより良くするために役立ちます。",
+    "CL_SF_remind_desc": "来週も連絡を取りましょうか？それとももうこれ以上聞かない方がいいでしょうか？",
+    "CL_SF_remind_next_week": "来週リマインダーを設定",
+    "CL_SF_dont_ask_again": "二度と聞かないでください",
+    "CL_SF_feedback_later": "後からヘルプとサポートメニューからフィードバックを送信することもできます。",
+    "CL_SF_thank_you": "ありがとうございます！皆様からのフィードバックは、アプリの改善に役立ちます。"
 }
