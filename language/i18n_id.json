@@ -8518,5 +8518,19 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Ikuti langkah-langkah ini untuk menghubungkan perangkat ke Wi-Fi. Kami merekomendasikan untuk menonaktifkan data jaringan pada ponsel cerdas Anda.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Persentase tersebut menunjukkan berapa banyak energi yang telah Anda hemat dengan AI Eco Mode.",
     "CL_DV_WM_Drum_Drying": "Pengeringan Drum",
-    "CL_DV_WM_Drum_Cleaning": "Pembersihan Drum"
+    "CL_DV_WM_Drum_Cleaning": "Pembersihan Drum",
+    "share_feedback": "Berikan masukan",
+    "share_feedback_desc": "Bantu kami meningkatkan aplikasi ini.",
+    "CL_SF_experience_title": "Bagaimana pengalamanmu sejauh ini?",
+    "CL_SF_experience_desc": "Sampaikan pendapat Anda! Masukan Anda membantu kami membuat aplikasi ini lebih baik.",
+    "CL_SF_remind_desc": "Apakah Anda ingin kami menghubungi Anda lagi minggu depan, atau sebaiknya kami berhenti bertanya?",
+    "CL_SF_remind_next_week": "INGATKAN SAYA MINGGU DEPAN",
+    "CL_SF_dont_ask_again": "JANGAN TANYA LAGI",
+    "CL_SF_feedback_later": "Anda selalu dapat menyampaikan masukan Anda nanti melalui menu bantuan dan dukungan.",
+    "CL_SF_thank_you": "Terima kasih! Masukan Anda membantu kami membuat aplikasi ini menjadi lebih baik.",
+    "CL_DV_WM_energy_eco_percentage_desc": "Persentase tersebut menunjukkan berapa banyak energi yang telah Anda hemat dengan Mode Hemat Energi.",
+    "CL_DV_WM_energy_ai_eco_percentage_desc": "Persentase tersebut menunjukkan berapa banyak energi yang telah Anda hemat dengan AI Eco Mode.",
+    "CL_DV_OV_touch_sound": "Suara sentuh",
+    "CL_CF_energy_smart_scheduler_new_tip": "Buat strategi eksekusi terjadwal untuk perangkat berdasarkan fluktuasi harga listrik puncak dan non-puncak untuk mencapai penghematan energi.\nCatatan: Jika mode lain sedang berjalan, maka Smart Scheduler tidak akan efektif. Mode yang mungkin termasuk: Mode Liburan, Mode Sterilisasi, SG, Kesalahan, dan Kurva Iklim.",
+    "CL_CF_energy_smart_scheduler_conflict_warning": "Perangkat saat ini memiliki Penjadwal atau Otomatisasi yang sedang berjalan, yang dapat memengaruhi keterkaitan Energi Pintar. Jika perlu, silakan buka halaman yang relevan untuk menyesuaikan pengaturan."
 }

@@ -8518,5 +8518,19 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Wykonaj poniższe czynności, aby podłączyć urządzenie do sieci Wi-Fi. Zalecamy wyłączenie danych sieciowych w smartfonie.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Procent pokazuje, ile energii zaoszczędziłeś dzięki trybowi AI Eco.",
     "CL_DV_WM_Drum_Drying": "Suszenie bębnowe",
-    "CL_DV_WM_Drum_Cleaning": "Czyszczenie bębna"
+    "CL_DV_WM_Drum_Cleaning": "Czyszczenie bębna",
+    "share_feedback": "Udostępnij opinię",
+    "share_feedback_desc": "Pomóż nam ulepszyć aplikację",
+    "CL_SF_experience_title": "Jakie są Twoje dotychczasowe doświadczenia?",
+    "CL_SF_experience_desc": "Powiedz nam, co o tym myślisz! Twoja opinia pomoże nam ulepszyć tę aplikację.",
+    "CL_SF_remind_desc": "Czy mamy się z wami skontaktować ponownie w przyszłym tygodniu, czy mamy przestać pytać?",
+    "CL_SF_remind_next_week": "PRZYPOMNIJ MI W NASTĘPNYM TYGODNIU",
+    "CL_SF_dont_ask_again": "NIE PYTAJ WIĘCEJ",
+    "CL_SF_feedback_later": "Swoją opinię możesz przesłać później, korzystając z menu pomocy i wsparcia.",
+    "CL_SF_thank_you": "Dziękujemy! Twoja opinia pomoże nam ulepszyć aplikację.",
+    "CL_DV_WM_energy_eco_percentage_desc": "Procent pokazuje, ile energii zaoszczędziłeś dzięki trybowi Eco.",
+    "CL_DV_WM_energy_ai_eco_percentage_desc": "Procent pokazuje, ile energii zaoszczędziłeś dzięki trybowi AI Eco.",
+    "CL_DV_OV_touch_sound": "Dźwięk dotyku",
+    "CL_CF_energy_smart_scheduler_new_tip": "Utwórz strategię realizacji zadań dla danego urządzenia, uwzględniającą wahania cen energii elektrycznej w godzinach szczytu i poza szczytem, ​​aby zaoszczędzić energię.\nUwaga: Jeśli aktualnie działają inne tryby, funkcja Smart Scheduler nie będzie działać. Dostępne tryby to: tryb wakacyjny, tryb sterylizacji, tryb SG, tryb usterki i krzywa klimatyczna.",
+    "CL_CF_energy_smart_scheduler_conflict_warning": "Obecne urządzenie ma uruchomiony harmonogram lub automatyzację, co może mieć wpływ na połączenie Smart Energy. W razie potrzeby przejdź do odpowiedniej strony, aby dostosować ustawienia."
 }

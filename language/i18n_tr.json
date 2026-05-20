@@ -8518,5 +8518,19 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Cihazı Wi-Fi'ye bağlamak için aşağıdaki adımları izleyin. Akıllı telefonunuzdaki ağ verilerini devre dışı bırakmanızı öneririz.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Yüzde oranı, yapay zeka destekli Eko Modu ile ne kadar enerji tasarrufu sağladığınızı gösterir.",
     "CL_DV_WM_Drum_Drying": "Tamburda Kurutma",
-    "CL_DV_WM_Drum_Cleaning": "Tambur Temizliği"
+    "CL_DV_WM_Drum_Cleaning": "Tambur Temizliği",
+    "share_feedback": "Geri bildirim paylaşın",
+    "share_feedback_desc": "Uygulamayı geliştirmemize yardımcı olun",
+    "CL_SF_experience_title": "Şu ana kadarki deneyiminiz nasıl?",
+    "CL_SF_experience_desc": "Düşüncelerinizi bizimle paylaşın! Geri bildirimleriniz bu uygulamayı daha iyi hale getirmemize yardımcı oluyor.",
+    "CL_SF_remind_desc": "Gelecek hafta tekrar kontrol etmemizi ister misiniz, yoksa sormayı bırakalım mı?",
+    "CL_SF_remind_next_week": "GELECEK HAFTA BANA HATIRLAT",
+    "CL_SF_dont_ask_again": "BİR DAHA SORMAMA",
+    "CL_SF_feedback_later": "Dilerseniz daha sonra yardım ve destek menüsünden geri bildirimlerinizi paylaşabilirsiniz.",
+    "CL_SF_thank_you": "Teşekkürler! Geri bildirimleriniz uygulamayı daha iyi hale getirmemize yardımcı oluyor.",
+    "CL_DV_WM_energy_eco_percentage_desc": "Yüzde oranı, Eko Modu ile ne kadar enerji tasarrufu sağladığınızı gösterir.",
+    "CL_DV_WM_energy_ai_eco_percentage_desc": "Yüzde oranı, yapay zeka destekli Eko Modu ile ne kadar enerji tasarrufu sağladığınızı gösterir.",
+    "CL_DV_OV_touch_sound": "Dokunma sesi",
+    "CL_CF_energy_smart_scheduler_new_tip": "Enerji tasarrufu sağlamak amacıyla, elektrik fiyatlarındaki en yüksek ve en düşük talep saatlerindeki dalgalanmalara bağlı olarak cihaz için zamanlanmış bir uygulama stratejisi oluşturun.\nNot: Başka modlar çalışıyorsa, Akıllı Zamanlayıcı etkili olmayacaktır. Olası modlar şunlardır: Tatil Modu, Sterilizasyon Modu, SG, Arıza ve İklim Eğrisi.",
+    "CL_CF_energy_smart_scheduler_conflict_warning": "Mevcut cihazda çalışan bir Zamanlayıcı veya Otomasyon bulunmaktadır ve bu durum Akıllı Enerji bağlantısını etkileyebilir. Gerekirse, ayarları düzenlemek için lütfen ilgili sayfaya gidin."
 }
