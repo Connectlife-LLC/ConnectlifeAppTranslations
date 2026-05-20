@@ -8518,5 +8518,19 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Siga estes passos para ligar o dispositivo ao Wi-Fi. Recomendamos que desactive os dados de rede no seu smartphone.",
     "CL_Dish_Washer_energy_eco_mode_tip": "A porcentagem mostra quanta energia você economizou com o Modo Eco de IA.",
     "CL_DV_WM_Drum_Drying": "Secagem em tambor",
-    "CL_DV_WM_Drum_Cleaning": "Limpeza do tambor"
+    "CL_DV_WM_Drum_Cleaning": "Limpeza do tambor",
+    "share_feedback": "Compartilhe sua opinião",
+    "share_feedback_desc": "Ajude-nos a melhorar o aplicativo",
+    "CL_SF_experience_title": "Como tem sido sua experiência até agora?",
+    "CL_SF_experience_desc": "Dê-nos a sua opinião! O seu feedback ajuda-nos a melhorar esta aplicação.",
+    "CL_SF_remind_desc": "Quer que entremos em contato novamente na próxima semana, ou devemos parar de perguntar?",
+    "CL_SF_remind_next_week": "Lembre-me na próxima semana",
+    "CL_SF_dont_ask_again": "NÃO PERGUNTE NOVAMENTE",
+    "CL_SF_feedback_later": "Você sempre poderá compartilhar seu feedback posteriormente através do menu de ajuda e suporte.",
+    "CL_SF_thank_you": "Obrigado! Seu feedback nos ajuda a melhorar o aplicativo.",
+    "CL_DV_WM_energy_eco_percentage_desc": "A porcentagem mostra quanta energia você economizou com o Modo Eco.",
+    "CL_DV_WM_energy_ai_eco_percentage_desc": "A porcentagem mostra quanta energia você economizou com o Modo Eco de IA.",
+    "CL_DV_OV_touch_sound": "Som do toque",
+    "CL_CF_energy_smart_scheduler_new_tip": "Gere uma estratégia de execução cronometrada para o dispositivo com base na flutuação dos preços da eletricidade em horários de pico e fora de pico para alcançar economia de energia.\nObservação: Se outros modos estiverem em execução, o Agendador Inteligente não funcionará corretamente. Os modos possíveis incluem: Modo Férias, Modo Esterilização, SG, Falha e Curva Climática.",
+    "CL_CF_energy_smart_scheduler_conflict_warning": "O dispositivo atual possui um agendador ou automação em execução, o que pode afetar a integração com o Smart Energy. Se necessário, acesse a página correspondente para ajustar as configurações."
 }

@@ -8518,5 +8518,19 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Ak chcete pripojiť zariadenie k sieti Wi-Fi, postupujte podľa týchto krokov. Odporúčame deaktivovať sieťové údaje na vašom smartfóne.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Percentuálna hodnota zobrazuje, koľko energie ste ušetrili vďaka režimu AI Eco.",
     "CL_DV_WM_Drum_Drying": "Sušenie v bubne",
-    "CL_DV_WM_Drum_Cleaning": "Čistenie bubna"
+    "CL_DV_WM_Drum_Cleaning": "Čistenie bubna",
+    "share_feedback": "Zdieľať spätnú väzbu",
+    "share_feedback_desc": "Pomôžte nám vylepšiť aplikáciu",
+    "CL_SF_experience_title": "Aké sú vaše doterajšie skúsenosti?",
+    "CL_SF_experience_desc": "Povedzte nám, čo si myslíte! Vaša spätná väzba nám pomáha vylepšiť túto aplikáciu.",
+    "CL_SF_remind_desc": "Chcete, aby sme sa prihlásili znova budúci týždeň, alebo by sme sa mali prestať pýtať?",
+    "CL_SF_remind_next_week": "PRIPOMEŇ MI TO BUDUCI TÝŽDEŇ",
+    "CL_SF_dont_ask_again": "NEPÝTAJ SA ZNOVA",
+    "CL_SF_feedback_later": "Svoju spätnú väzbu môžete kedykoľvek zdieľať neskôr z ponuky pomoci a podpory.",
+    "CL_SF_thank_you": "Ďakujeme! Vaša spätná väzba nám pomáha vylepšiť aplikáciu.",
+    "CL_DV_WM_energy_eco_percentage_desc": "Percentuálna hodnota zobrazuje, koľko energie ste ušetrili vďaka režimu Eco.",
+    "CL_DV_WM_energy_ai_eco_percentage_desc": "Percentuálna hodnota zobrazuje, koľko energie ste ušetrili vďaka režimu AI Eco.",
+    "CL_DV_OV_touch_sound": "Zvuk dotyku",
+    "CL_CF_energy_smart_scheduler_new_tip": "Vygenerujte časovo riadenú stratégiu vykonávania pre zariadenie na základe kolísania cien elektriny v špičke a mimo špičky s cieľom dosiahnuť úspory energie.\nPoznámka: Ak sú momentálne spustené iné režimy, inteligentný plánovač nebude účinný. Možné režimy zahŕňajú: režim Dovolenka, režim sterilizácie, SG, porucha a klimatická krivka.",
+    "CL_CF_energy_smart_scheduler_conflict_warning": "Aktuálne zariadenie má spustený plánovač alebo automatizáciu, čo môže ovplyvniť prepojenie so systémom Smart Energy. V prípade potreby prejdite na príslušnú stránku a upravte nastavenia."
 }

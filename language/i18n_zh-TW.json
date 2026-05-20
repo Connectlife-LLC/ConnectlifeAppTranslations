@@ -8518,5 +8518,19 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "请按照以下步骤对设备进行联网，建议关闭掉智能手机上的移动数据。",
     "CL_Dish_Washer_energy_eco_mode_tip": "該百分比顯示了您使用 AI 節能模式節省了多少能源。",
     "CL_DV_WM_Drum_Drying": "滾筒乾燥",
-    "CL_DV_WM_Drum_Cleaning": "鼓清洗"
+    "CL_DV_WM_Drum_Cleaning": "鼓清洗",
+    "share_feedback": "分享回饋",
+    "share_feedback_desc": "請幫助我們改進應用",
+    "CL_SF_experience_title": "你目前的體驗如何？",
+    "CL_SF_experience_desc": "告訴我們您的想法！您的回饋有助於我們改進這款應用程式。",
+    "CL_SF_remind_desc": "希望我們下週再問一次，還是就此打住？",
+    "CL_SF_remind_next_week": "下週提醒我",
+    "CL_SF_dont_ask_again": "不要再問了",
+    "CL_SF_feedback_later": "您之後隨時可以透過協助和支援選單分享您的回饋。",
+    "CL_SF_thank_you": "謝謝！您的回饋有助於我們改進應用程式。",
+    "CL_DV_WM_energy_eco_percentage_desc": "此百分比顯示了您使用節能模式節省了多少能源。",
+    "CL_DV_WM_energy_ai_eco_percentage_desc": "該百分比顯示了您使用 AI 節能模式節省了多少能源。",
+    "CL_DV_OV_touch_sound": "觸摸聲音",
+    "CL_CF_energy_smart_scheduler_new_tip": "根據高峰和低谷電價的波動情況，為設備制定定時執行策略，以實現節能。\n注意：如果目前正在運行其他模式，智慧調度程式將無法生效。可能的模式包括：假日模式、消毒模式、SG模式、故障模式和氣候曲線模式。",
+    "CL_CF_energy_smart_scheduler_conflict_warning": "目前設備正在運行調度程序或自動化程序，這可能會影響智慧能源連動。如有必要，請前往相關頁面調整設定。"
 }

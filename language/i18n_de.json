@@ -8518,5 +8518,19 @@
     "CL_CF_CS_portable_ac_connect_to_wifi": "Befolgen Sie diese Schritte, um das Gerät mit dem WLAN zu verbinden. Wir empfehlen, die Netzwerkdaten auf Ihrem Smartphone zu deaktivieren.",
     "CL_Dish_Washer_energy_eco_mode_tip": "Der Prozentsatz zeigt an, wie viel Energie Sie mit dem KI-Eco-Modus gespart haben.",
     "CL_DV_WM_Drum_Drying": "Trommeltrocknung",
-    "CL_DV_WM_Drum_Cleaning": "Trommelreinigung"
+    "CL_DV_WM_Drum_Cleaning": "Trommelreinigung",
+    "share_feedback": "Feedback teilen",
+    "share_feedback_desc": "Helfen Sie uns, die App zu verbessern.",
+    "CL_SF_experience_title": "Wie sind Ihre bisherigen Erfahrungen?",
+    "CL_SF_experience_desc": "Sagen Sie uns Ihre Meinung! Ihr Feedback hilft uns, diese App zu verbessern.",
+    "CL_SF_remind_desc": "Sollen wir nächste Woche noch einmal nachfragen, oder sollen wir aufhören, nachzufragen?",
+    "CL_SF_remind_next_week": "ERINNERE MICH NÄCHSTE WOCHE",
+    "CL_SF_dont_ask_again": "FRAGE NICHT NOCH EINMAL",
+    "CL_SF_feedback_later": "Sie können Ihr Feedback jederzeit später über das Hilfe- und Supportmenü mitteilen.",
+    "CL_SF_thank_you": "Vielen Dank! Ihr Feedback hilft uns, die App zu verbessern.",
+    "CL_DV_WM_energy_eco_percentage_desc": "Der Prozentsatz zeigt an, wie viel Energie Sie mit dem Eco-Modus gespart haben.",
+    "CL_DV_WM_energy_ai_eco_percentage_desc": "Der Prozentsatz zeigt an, wie viel Energie Sie mit dem KI-Eco-Modus gespart haben.",
+    "CL_DV_OV_touch_sound": "Berührungsgeräusch",
+    "CL_CF_energy_smart_scheduler_new_tip": "Generieren Sie eine zeitgesteuerte Ausführungsstrategie für das Gerät basierend auf den Schwankungen der Strompreise in Spitzen- und Nebenzeiten, um Energieeinsparungen zu erzielen.\nHinweis: Wenn andere Modi aktiv sind, ist der intelligente Zeitplaner nicht wirksam. Mögliche Modi sind: Urlaubsmodus, Sterilisationsmodus, SG, Störungsmodus und Klimakurve.",
+    "CL_CF_energy_smart_scheduler_conflict_warning": "Das Gerät verfügt über einen aktiven Zeitplaner oder eine Automatisierung, die die Smart-Energy-Anbindung beeinträchtigen kann. Passen Sie gegebenenfalls die Einstellungen auf der entsprechenden Seite an."
 }
