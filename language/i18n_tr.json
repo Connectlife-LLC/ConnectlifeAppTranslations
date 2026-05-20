@@ -8542,5 +8542,6 @@
     "fan_power_level": "Fan güç seviyesi",
     "turn_on_the_light": "Işığı açın",
     "CL_CF_energy_smart_delay_tariff_tip": "Otomatik gecikme modu etkinleştirildiğinde, çalışma süresi otomatik olarak en düşük fiyata göre ayarlanacaktır.\nBaşlangıç ​​ve bitiş zamanını manuel olarak ayarlayabilir veya zaman çizelgesini sürükleyerek zamanı hassas bir şekilde ayarlayabilirsiniz.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Tarife planınızı en düşük fiyatı otomatik olarak eşleştirecek şekilde ayarlayın.\nBaşlangıç ​​ve bitiş saatlerini manuel olarak da ayarlayabilirsiniz."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Tarife planınızı en düşük fiyatı otomatik olarak eşleştirecek şekilde ayarlayın.\nBaşlangıç ​​ve bitiş saatlerini manuel olarak da ayarlayabilirsiniz.",
+    "CL_DV_OV_operating_temperature": "Çalışma sıcaklığı"
 }

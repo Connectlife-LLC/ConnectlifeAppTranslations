@@ -8542,5 +8542,6 @@
     "fan_power_level": "Mức công suất quạt",
     "turn_on_the_light": "Bật đèn lên",
     "CL_CF_energy_smart_delay_tariff_tip": "Khi chế độ tự động trì hoãn được kích hoạt, thời gian chạy sẽ tự động khớp với mức giá thấp nhất.\nBạn cũng có thể tự thiết lập thời gian bắt đầu và kết thúc hoặc kéo thanh thời gian để thiết lập thời gian chính xác.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Thiết lập gói cước để tự động khớp với mức giá thấp nhất.\nBạn cũng có thể tự thiết lập thời gian bắt đầu và kết thúc."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Thiết lập gói cước để tự động khớp với mức giá thấp nhất.\nBạn cũng có thể tự thiết lập thời gian bắt đầu và kết thúc.",
+    "CL_DV_OV_operating_temperature": "Nhiệt độ hoạt động"
 }

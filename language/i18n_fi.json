@@ -8542,5 +8542,6 @@
     "fan_power_level": "Tuulettimen tehotaso",
     "turn_on_the_light": "Sytytä valo",
     "CL_CF_energy_smart_delay_tariff_tip": "Kun automaattinen viivetila on aktivoitu, käyntiaika vastaa automaattisesti halvinta hintaa.\nVoit myös asettaa aloitus- ja päättymisajan manuaalisesti tai vetää aikajanaa asettaaksesi ajan tarkasti.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Aseta hinnoittelusuunnitelma automaattisesti vastaamaan halvinta hintaa.\nVoit myös asettaa aloitus- ja lopetusajan manuaalisesti."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Aseta hinnoittelusuunnitelma automaattisesti vastaamaan halvinta hintaa.\nVoit myös asettaa aloitus- ja lopetusajan manuaalisesti.",
+    "CL_DV_OV_operating_temperature": "Käyttölämpötila"
 }

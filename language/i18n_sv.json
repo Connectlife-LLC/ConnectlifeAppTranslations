@@ -8542,5 +8542,6 @@
     "fan_power_level": "Fläktens effektnivå",
     "turn_on_the_light": "Tänd ljuset",
     "CL_CF_energy_smart_delay_tariff_tip": "När automatiskt fördröjningsläge är aktiverat matchar körtiden automatiskt det lägsta priset.\nDu kan också ställa in start- och sluttid manuellt eller dra tidslinjen för att ställa in tiden exakt.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Ställ in tariffplanen för att automatiskt matcha det lägsta priset.\nDu kan också ställa in start- och sluttid manuellt."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Ställ in tariffplanen för att automatiskt matcha det lägsta priset.\nDu kan också ställa in start- och sluttid manuellt.",
+    "CL_DV_OV_operating_temperature": "Driftstemperatur"
 }

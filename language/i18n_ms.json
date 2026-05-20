@@ -8542,5 +8542,6 @@
     "fan_power_level": "Tahap kuasa kipas",
     "turn_on_the_light": "Hidupkan lampu",
     "CL_CF_energy_smart_delay_tariff_tip": "Apabila mod tunda automatik diaktifkan, masa operasi akan dipadankan secara automatik dengan harga terendah.\nAnda juga boleh menetapkan masa mula dan tamat secara manual atau seret garis masa untuk menetapkan masa dengan tepat.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Tetapkan pelan tarif agar sepadan secara automatik dengan harga terendah.\nAnda juga boleh menetapkan masa mula dan tamat secara manual."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Tetapkan pelan tarif agar sepadan secara automatik dengan harga terendah.\nAnda juga boleh menetapkan masa mula dan tamat secara manual.",
+    "CL_DV_OV_operating_temperature": "Suhu operasi"
 }

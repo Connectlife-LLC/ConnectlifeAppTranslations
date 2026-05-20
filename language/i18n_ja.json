@@ -8542,5 +8542,6 @@
     "fan_power_level": "ファンパワーレベル",
     "turn_on_the_light": "ライトをつけて",
     "CL_CF_energy_smart_delay_tariff_tip": "自動遅延モードが有効になっている場合、実行時間は自動的に最低価格に合わせられます。\n開始時刻と終了時刻を手動で設定したり、タイムラインをドラッグして正確な時刻を設定したりすることもできます。",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "料金プランを最低価格に自動的に合わせるように設定する。\n開始時刻と終了時刻を手動で設定することもできます。"
+    "CL_CF_energy_smart_delay_no_tariff_tip": "料金プランを最低価格に自動的に合わせるように設定する。\n開始時刻と終了時刻を手動で設定することもできます。",
+    "CL_DV_OV_operating_temperature": "動作温度"
 }

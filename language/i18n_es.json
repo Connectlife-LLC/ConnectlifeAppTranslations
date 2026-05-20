@@ -8542,5 +8542,6 @@
     "fan_power_level": "Nivel de potencia del ventilador",
     "turn_on_the_light": "Encender la luz",
     "CL_CF_energy_smart_delay_tariff_tip": "Cuando se activa el modo de retardo automático, el tiempo de ejecución se ajustará automáticamente al precio más bajo.\nTambién puede establecer manualmente la hora de inicio y finalización o arrastrar la línea de tiempo para establecer la hora con precisión.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Configure su plan tarifario para que coincida automáticamente con el precio más bajo.\nTambién puede configurar manualmente la hora de inicio y de finalización."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Configure su plan tarifario para que coincida automáticamente con el precio más bajo.\nTambién puede configurar manualmente la hora de inicio y de finalización.",
+    "CL_DV_OV_operating_temperature": "Temperatura de funcionamiento"
 }

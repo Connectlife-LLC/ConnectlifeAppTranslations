@@ -8542,5 +8542,6 @@
     "fan_power_level": "Tingkat daya kipas",
     "turn_on_the_light": "Nyalakan lampu",
     "CL_CF_energy_smart_delay_tariff_tip": "Saat mode penundaan otomatis diaktifkan, waktu berjalan akan secara otomatis disesuaikan dengan harga terendah.\nAnda juga dapat mengatur waktu mulai dan berakhir secara manual atau menyeret garis waktu untuk mengatur waktu secara tepat.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Atur paket tarif agar secara otomatis mencocokkan harga terendah.\nAnda juga dapat mengatur waktu mulai dan waktu berakhir secara manual."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Atur paket tarif agar secara otomatis mencocokkan harga terendah.\nAnda juga dapat mengatur waktu mulai dan waktu berakhir secara manual.",
+    "CL_DV_OV_operating_temperature": "Suhu pengoperasian"
 }

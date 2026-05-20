@@ -8542,5 +8542,6 @@
     "fan_power_level": "Úroveň výkonu ventilátora",
     "turn_on_the_light": "Zapni svetlo",
     "CL_CF_energy_smart_delay_tariff_tip": "Keď je aktivovaný režim automatického oneskorenia, doba prevádzky sa automaticky zhoduje s najnižšou cenou.\nČas začiatku a konca môžete nastaviť aj manuálne alebo presné nastavenie času potiahnutím časovej osi.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Nastavte si tarifný plán tak, aby sa automaticky zhodoval s najnižšou cenou.\nČas začiatku a konca môžete nastaviť aj manuálne."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Nastavte si tarifný plán tak, aby sa automaticky zhodoval s najnižšou cenou.\nČas začiatku a konca môžete nastaviť aj manuálne.",
+    "CL_DV_OV_operating_temperature": "Prevádzková teplota"
 }

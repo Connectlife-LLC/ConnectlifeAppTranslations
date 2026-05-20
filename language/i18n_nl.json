@@ -8542,5 +8542,6 @@
     "fan_power_level": "Ventilatorvermogensniveau",
     "turn_on_the_light": "Doe het licht aan.",
     "CL_CF_energy_smart_delay_tariff_tip": "Wanneer de automatische vertragingsmodus is geactiveerd, wordt de looptijd automatisch aangepast aan de laagste prijs.\nJe kunt de begin- en eindtijd ook handmatig instellen of de tijdlijn verslepen om de tijd nauwkeurig te bepalen.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Stel uw tariefplan in op automatisch de laagste prijs.\nJe kunt de begin- en eindtijd ook handmatig instellen."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Stel uw tariefplan in op automatisch de laagste prijs.\nJe kunt de begin- en eindtijd ook handmatig instellen.",
+    "CL_DV_OV_operating_temperature": "Oventemperatuur"
 }

@@ -8542,5 +8542,6 @@
     "fan_power_level": "Ventilatorens effektniveau",
     "turn_on_the_light": "Tænd lyset",
     "CL_CF_energy_smart_delay_tariff_tip": "Når automatisk forsinkelsestilstand er aktiveret, vil driftstiden automatisk matche den laveste pris.\nDu kan også manuelt indstille start- og sluttidspunktet eller trække tidslinjen for at indstille tidspunktet præcist.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Indstil takstplanen til automatisk at matche den laveste pris.\nDu kan også manuelt indstille start- og sluttidspunktet."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Indstil takstplanen til automatisk at matche den laveste pris.\nDu kan også manuelt indstille start- og sluttidspunktet.",
+    "CL_DV_OV_operating_temperature": "Driftstemperatur"
 }

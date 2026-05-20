@@ -8542,5 +8542,6 @@
     "fan_power_level": "Vifteeffektnivå",
     "turn_on_the_light": "Slå på lyset",
     "CL_CF_energy_smart_delay_tariff_tip": "Når automatisk forsinkelsesmodus er aktivert, vil kjøretiden automatisk matche den laveste prisen.\nDu kan også angi start- og sluttidspunkt manuelt, eller dra tidslinjen for å angi nøyaktig tidspunkt.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Sett tariffplanen til å automatisk matche den laveste prisen.\nDu kan også stille inn start- og sluttidspunkt manuelt."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Sett tariffplanen til å automatisk matche den laveste prisen.\nDu kan også stille inn start- og sluttidspunkt manuelt.",
+    "CL_DV_OV_operating_temperature": "Driftstemperatur"
 }
