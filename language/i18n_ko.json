@@ -8542,5 +8542,11 @@
     "fan_power_level": "팬 전력 레벨",
     "turn_on_the_light": "불을 켜세요",
     "CL_CF_energy_smart_delay_tariff_tip": "자동 지연 모드가 활성화되면 실행 시간은 최저 가격에 자동으로 맞춰집니다.\n시작 시간과 종료 시간을 수동으로 설정하거나 타임라인을 드래그하여 시간을 정확하게 설정할 수도 있습니다.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "요금제를 최저 가격에 자동 맞춰 설정하세요.\n시작 시간과 종료 시간을 수동으로 설정할 수도 있습니다."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "요금제를 최저 가격에 자동 맞춰 설정하세요.\n시작 시간과 종료 시간을 수동으로 설정할 수도 있습니다.",
+    "CL_DV_OV_operating_temperature": "작동 온도",
+    "CL_DV_OV_effect_sound": "효과음",
+    "enable_delay": "지연 활성화",
+    "CL_TS_running_tariff_dashboard": "실행 요금 대시보드",
+    "CL_TS_delay_save_hint": "이 기간 동안 실행하면 ##을 절약할 수 있습니다.",
+    "CL_TS_auto_off_peak_delay": "자동 비수기 지연"
 }

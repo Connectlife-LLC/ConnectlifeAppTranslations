@@ -8542,5 +8542,11 @@
     "fan_power_level": "Nivelul de putere al ventilatorului",
     "turn_on_the_light": "Aprinde lumina",
     "CL_CF_energy_smart_delay_tariff_tip": "Când modul de întârziere automată este activat, timpul de rulare se va potrivi automat cu cel mai mic preț.\nDe asemenea, puteți seta manual ora de început și de sfârșit sau puteți trage cronologia pentru a seta ora cu precizie.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Setați planul tarifar pentru a se potrivi automat cu cel mai mic preț.\nDe asemenea, puteți seta manual ora de început și de sfârșit."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Setați planul tarifar pentru a se potrivi automat cu cel mai mic preț.\nDe asemenea, puteți seta manual ora de început și de sfârșit.",
+    "CL_DV_OV_operating_temperature": "Temperatura de funcționare",
+    "CL_DV_OV_effect_sound": "Efect de sunet",
+    "enable_delay": "Activare întârziere",
+    "CL_TS_running_tariff_dashboard": "Tablou de bord cu tarife în desfășurare",
+    "CL_TS_delay_save_hint": "Rulați în această perioadă pentru a economisi ##.",
+    "CL_TS_auto_off_peak_delay": "Întârziere automată în afara orelor de vârf"
 }

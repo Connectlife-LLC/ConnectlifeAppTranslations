@@ -8542,5 +8542,11 @@
     "fan_power_level": "Lüfterleistung",
     "turn_on_the_light": "Schalte das Licht an",
     "CL_CF_energy_smart_delay_tariff_tip": "Wenn der automatische Verzögerungsmodus aktiviert ist, passt sich die Laufzeit automatisch dem niedrigsten Preis an.\nSie können die Start- und Endzeit auch manuell festlegen oder die Zeitleiste verschieben, um die Zeit präzise einzustellen.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Stellen Sie den Tarifplan so ein, dass er automatisch den niedrigsten Preis anpasst.\nSie können die Start- und Endzeit auch manuell einstellen."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Stellen Sie den Tarifplan so ein, dass er automatisch den niedrigsten Preis anpasst.\nSie können die Start- und Endzeit auch manuell einstellen.",
+    "CL_DV_OV_operating_temperature": "Betriebstemperatur",
+    "CL_DV_OV_effect_sound": "Effekt-Sound",
+    "enable_delay": "Verzögerung aktivieren",
+    "CL_TS_running_tariff_dashboard": "Dashboard für laufende Tarife",
+    "CL_TS_delay_save_hint": "Führen Sie das Programm während dieses Zeitraums aus, um ## zu sparen.",
+    "CL_TS_auto_off_peak_delay": "Automatische Verzögerung außerhalb der Spitzenzeiten"
 }

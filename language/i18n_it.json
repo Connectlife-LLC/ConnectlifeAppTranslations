@@ -8542,5 +8542,11 @@
     "fan_power_level": "Livello di potenza della ventola",
     "turn_on_the_light": "Accendi la luce",
     "CL_CF_energy_smart_delay_tariff_tip": "Quando la modalità di ritardo automatico è attivata, il tempo di esecuzione si adatterà automaticamente al prezzo più basso.\nÈ inoltre possibile impostare manualmente l'ora di inizio e di fine oppure trascinare la timeline per impostare l'ora con precisione.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Imposta il piano tariffario in modo che si adatti automaticamente al prezzo più basso.\nÈ inoltre possibile impostare manualmente l'ora di inizio e di fine."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Imposta il piano tariffario in modo che si adatti automaticamente al prezzo più basso.\nÈ inoltre possibile impostare manualmente l'ora di inizio e di fine.",
+    "CL_DV_OV_operating_temperature": "Temperatura di esercizio",
+    "CL_DV_OV_effect_sound": "Effetto sonoro",
+    "enable_delay": "Abilita ritardo",
+    "CL_TS_running_tariff_dashboard": "Pannello di controllo delle tariffe correnti",
+    "CL_TS_delay_save_hint": "Eseguire durante questo periodo per risparmiare ##.",
+    "CL_TS_auto_off_peak_delay": "Ritardo automatico nelle ore non di punta"
 }

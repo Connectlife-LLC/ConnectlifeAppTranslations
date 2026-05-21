@@ -8542,5 +8542,11 @@
     "fan_power_level": "風扇功率等級",
     "turn_on_the_light": "打開燈",
     "CL_CF_energy_smart_delay_tariff_tip": "啟用自動延時模式後，運行時間將自動匹配最低價格。\n您也可以手動設定開始時間和結束時間，或拖曳時間軸來精確設定時間。",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "設定資費方案自動匹配最低價格。\n您也可以手動設定開始時間和結束時間。"
+    "CL_CF_energy_smart_delay_no_tariff_tip": "設定資費方案自動匹配最低價格。\n您也可以手動設定開始時間和結束時間。",
+    "CL_DV_OV_operating_temperature": "工作溫度",
+    "CL_DV_OV_effect_sound": "特效音效",
+    "enable_delay": "啟用延遲",
+    "CL_TS_running_tariff_dashboard": "運行關稅儀表板",
+    "CL_TS_delay_save_hint": "在此期間運行以節省##。",
+    "CL_TS_auto_off_peak_delay": "自動非尖峰時段延遲"
 }

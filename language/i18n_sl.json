@@ -8542,5 +8542,11 @@
     "fan_power_level": "Moč ventilatorja",
     "turn_on_the_light": "Prižgi luč",
     "CL_CF_energy_smart_delay_tariff_tip": "Ko je aktiviran način samodejne zakasnitve, se bo čas delovanja samodejno ujemal z najnižjo ceno.\nZačetni in končni čas lahko nastavite tudi ročno ali pa povlečete časovnico, da natančno nastavite čas.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Nastavite tarifni načrt tako, da se samodejno uskladi z najnižjo ceno.\nZačetni in končni čas lahko nastavite tudi ročno."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Nastavite tarifni načrt tako, da se samodejno uskladi z najnižjo ceno.\nZačetni in končni čas lahko nastavite tudi ročno.",
+    "CL_DV_OV_operating_temperature": "Delovna temperatura",
+    "CL_DV_OV_effect_sound": "Zvok efekta",
+    "enable_delay": "Omogoči zakasnitev",
+    "CL_TS_running_tariff_dashboard": "Nadzorna plošča s tekočo tarifo",
+    "CL_TS_delay_save_hint": "Zaženite v tem obdobju, da prihranite ##.",
+    "CL_TS_auto_off_peak_delay": "Samodejni zamik izven konic"
 }

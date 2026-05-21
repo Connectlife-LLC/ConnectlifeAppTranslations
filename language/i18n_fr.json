@@ -8542,5 +8542,11 @@
     "fan_power_level": "niveau de puissance du ventilateur",
     "turn_on_the_light": "Allumer la lumière",
     "CL_CF_energy_smart_delay_tariff_tip": "Lorsque le mode de délai automatique est activé, la durée d'exécution s'adaptera automatiquement au prix le plus bas.\nVous pouvez également définir manuellement l'heure de début et de fin ou faire glisser la chronologie pour définir précisément l'heure.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Configurez votre forfait tarifaire pour qu'il s'aligne automatiquement sur le prix le plus bas.\nVous pouvez également définir manuellement l'heure de début et de fin."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Configurez votre forfait tarifaire pour qu'il s'aligne automatiquement sur le prix le plus bas.\nVous pouvez également définir manuellement l'heure de début et de fin.",
+    "CL_DV_OV_operating_temperature": "Température de fonctionnement",
+    "CL_DV_OV_effect_sound": "Effet sonore",
+    "enable_delay": "Activer le délai",
+    "CL_TS_running_tariff_dashboard": "Tableau de bord des tarifs en vigueur",
+    "CL_TS_delay_save_hint": "Exécutez cette opération pendant cette période pour économiser ##.",
+    "CL_TS_auto_off_peak_delay": "Délai automatique hors pointe"
 }

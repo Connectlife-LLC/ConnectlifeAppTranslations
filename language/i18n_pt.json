@@ -8542,5 +8542,11 @@
     "fan_power_level": "Nível de potência do ventilador",
     "turn_on_the_light": "Acender a luz",
     "CL_CF_energy_smart_delay_tariff_tip": "Quando o modo de atraso automático está ativado, o tempo de execução se ajustará automaticamente ao preço mais baixo.\nVocê também pode definir manualmente a hora de início e de término ou arrastar a linha do tempo para definir o horário com precisão.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Configure o plano tarifário para corresponder automaticamente ao preço mais baixo.\nVocê também pode definir manualmente a hora de início e de término."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Configure o plano tarifário para corresponder automaticamente ao preço mais baixo.\nVocê também pode definir manualmente a hora de início e de término.",
+    "CL_DV_OV_operating_temperature": "Temperatura de funcionamento",
+    "CL_DV_OV_effect_sound": "Som dos efeitos",
+    "enable_delay": "Ativar atraso",
+    "CL_TS_running_tariff_dashboard": "Painel de tarifas em execução",
+    "CL_TS_delay_save_hint": "Execute o comando durante este período para economizar ##.",
+    "CL_TS_auto_off_peak_delay": "Atraso automático fora do horário de pico"
 }

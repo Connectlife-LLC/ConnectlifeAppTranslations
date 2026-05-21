@@ -8542,5 +8542,11 @@
     "fan_power_level": "Tuulettimen tehotaso",
     "turn_on_the_light": "Sytytä valo",
     "CL_CF_energy_smart_delay_tariff_tip": "Kun automaattinen viivetila on aktivoitu, käyntiaika vastaa automaattisesti halvinta hintaa.\nVoit myös asettaa aloitus- ja päättymisajan manuaalisesti tai vetää aikajanaa asettaaksesi ajan tarkasti.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Aseta hinnoittelusuunnitelma automaattisesti vastaamaan halvinta hintaa.\nVoit myös asettaa aloitus- ja lopetusajan manuaalisesti."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Aseta hinnoittelusuunnitelma automaattisesti vastaamaan halvinta hintaa.\nVoit myös asettaa aloitus- ja lopetusajan manuaalisesti.",
+    "CL_DV_OV_operating_temperature": "Käyttölämpötila",
+    "CL_DV_OV_effect_sound": "Tehosteääni",
+    "enable_delay": "Ota viive käyttöön",
+    "CL_TS_running_tariff_dashboard": "Käynnissä olevan tariffin kojelauta",
+    "CL_TS_delay_save_hint": "Suorita tänä aikana säästääksesi ##.",
+    "CL_TS_auto_off_peak_delay": "Automaattinen ruuhka-ajan ulkopuolinen viive"
 }

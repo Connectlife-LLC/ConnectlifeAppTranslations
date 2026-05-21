@@ -8542,5 +8542,11 @@
     "fan_power_level": "Ventilátor teljesítményszintje",
     "turn_on_the_light": "Kapcsold fel a villanyt",
     "CL_CF_energy_smart_delay_tariff_tip": "Amikor az automatikus késleltetési mód aktiválva van, a futási idő automatikusan a legalacsonyabb árhoz igazodik.\nA kezdési és befejezési időpontot manuálisan is beállíthatja, vagy az idővonal húzásával pontosan beállíthatja az időt.",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Állítsa be a tarifacsomagot úgy, hogy automatikusan a legalacsonyabb árat egyezzen meg.\nA kezdési és befejezési időpontot manuálisan is beállíthatja."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Állítsa be a tarifacsomagot úgy, hogy automatikusan a legalacsonyabb árat egyezzen meg.\nA kezdési és befejezési időpontot manuálisan is beállíthatja.",
+    "CL_DV_OV_operating_temperature": "Üzemi hőmérséklet",
+    "CL_DV_OV_effect_sound": "Effekt hang",
+    "enable_delay": "Késleltetés engedélyezése",
+    "CL_TS_running_tariff_dashboard": "Futó tarifa irányítópult",
+    "CL_TS_delay_save_hint": "Futtassa ezt az időszakot a ## megtakarításához.",
+    "CL_TS_auto_off_peak_delay": "Automatikus csúcsidőn kívüli késleltetés"
 }
