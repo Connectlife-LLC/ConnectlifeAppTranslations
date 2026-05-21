@@ -8542,5 +8542,11 @@
     "fan_power_level": "Fan power level",
     "turn_on_the_light": "Turn on the light",
     "CL_CF_energy_smart_delay_tariff_tip": "When auto delay mode is activated, the running time will auto match the lowest price.\nYou can also manually set the start and end time or drag the timeline to precisely set the time .",
-    "CL_CF_energy_smart_delay_no_tariff_tip": "Set tariff plan to auto match the lowest price.\nYou can also manually set the start and end time."
+    "CL_CF_energy_smart_delay_no_tariff_tip": "Set tariff plan to auto match the lowest price.\nYou can also manually set the start and end time.",
+    "CL_DV_OV_operating_temperature": "Operating temperature",
+    "CL_DV_OV_effect_sound": "Effect sound",
+    "enable_delay": "Enable Delay",
+    "CL_TS_running_tariff_dashboard": "Running-tariff dashboard",
+    "CL_TS_delay_save_hint": "Run during this period to save ##.",
+    "CL_TS_auto_off_peak_delay": "Auto off-peak delay"
 }
