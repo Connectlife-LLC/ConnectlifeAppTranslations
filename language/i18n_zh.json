@@ -8567,5 +8567,15 @@
     "CL_DV_TV_vidaa_tv": "VIDAA 电视台",
     "CL_DV_TV_google_tv": "Google TV",
     "CL_device_login_title": "在设备上登录 ConnectLife",
-    "CL_device_login_description": "在您的设备上登录 ConnectLife，即可在您的设备上查看更多 ConnectLife 功能。\n\n您确定要在此设备上登录 ConnectLife 吗？"
+    "CL_device_login_description": "在您的设备上登录 ConnectLife，即可在您的设备上查看更多 ConnectLife 功能。\n\n您确定要在此设备上登录 ConnectLife 吗？",
+    "CL_DB_next_scheduler": "下一个调度器",
+    "CL_DV_OV_most_used": "最常用",
+    "CL_DV_OV_round_heater": "圆形加热器",
+    "CL_DV_OV_infra_heater": "红外线加热器",
+    "CL_DV_OV_inverter_mw": "逆变器兆瓦",
+    "CL_DV_OV_cooling_fan": "冷却风扇",
+    "CL_DV_OV_oven_fan": "烤箱风扇",
+    "CL_AI_ask_ai": "向人工智能咨询您的家电",
+    "CL_AI_instant_answers": "从手册中立即获取答案",
+    "CL_AI_ask_now": "立即询问"
 }
