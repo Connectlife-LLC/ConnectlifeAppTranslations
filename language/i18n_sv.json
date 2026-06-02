@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Kyler",
     "dry_finish_ele_tip": "Data kommer att inkluderas i statistiken en timme senare.",
     "add_mobile_ac_1": "Rikta fjärrkontrollen mot mottagaren och @tryck på \"SWING\"-knappen sex gånger.# Du bör höra ett pip efter varje tryck. Se till att fjärrkontrollen är riktad direkt mot mottagaren.",
-    "add_mobile_ac_2": "Bekräfta att @enhetens display visar \"77\".# Detta betyder att enheten nu är i Wi-Fi-parningsläge. Om displayen inte visar \"77\", upprepa steg 2.",
+    "add_mobile_ac_2": "Bekräfta att @enhetens display visar \"77\".# Det betyder att enheten nu är i Wi-Fi-parkopplingsläge. Om displayen inte visar \"77\", upprepa steg 3.",
     "add_dehumidifier_ac_2": "Tryck och håll in @\"Mode\" och \"Fan\"-knapparna samtidigt.# Enheten ska pipa tre gånger. Om du inte hör de tre ljudsignalerna, försök att trycka på och hålla ned knapparna igen.",
     "add_dehumidifier_ac_3": "Bekräfta att @enhetens display visar \"P2\".# Detta betyder att enheten nu är i Wi-Fi-parningsläge. Om displayen inte visar \"P2\", upprepa steg 2.",
     "wm22_add_clothes_and_continue": "Lägg till kläder och fortsätt",

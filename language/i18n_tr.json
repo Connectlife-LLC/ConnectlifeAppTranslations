@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Soğutma",
     "dry_finish_ele_tip": "Veriler bir saat sonra istatistiklere dahil edilecek",
     "add_mobile_ac_1": "Uzaktan kumandayı alıcıya doğrultun ve @\"SWING\" düğmesine altı kez basın.# Her basıştan sonra bir bip sesi duymalısınız. Uzaktan kumandanın doğrudan alıcıya dönük olduğundan emin olun.",
-    "add_mobile_ac_2": "@cihazın ekranında \"77\" yazdığını onaylayın.# Bu, ünitenin artık Wi-Fi eşleştirme modunda olduğu anlamına gelir. Ekran \"77\" göstermiyorsa, lütfen Adım 2'yi tekrarlayın.",
+    "add_mobile_ac_2": "@cihazın ekranında \"77\" yazısının göründüğünü doğrulayın. Bu, cihazın artık Wi-Fi eşleştirme modunda olduğu anlamına gelir. Ekranda \"77\" görünmüyorsa, lütfen 3. adımı tekrarlayın.",
     "add_dehumidifier_ac_2": "@\"Mode\" ve \"Fan\" düğmelerine aynı anda basın ve basılı tutun.# Cihaz üç kez bip sesi çıkarmalıdır. Üç bip sesini duymazsanız, düğmeleri tekrar basılı tutmayı deneyin.",
     "add_dehumidifier_ac_3": "@cihazın ekranında \"P2\" yazdığını onaylayın.# Bu, ünitenin artık Wi-Fi eşleştirme modunda olduğu anlamına gelir. Ekran \"P2\" göstermiyorsa, lütfen Adım 2'yi tekrarlayın.",
     "wm22_add_clothes_and_continue": "Kıyafet Ekle ve devam et",

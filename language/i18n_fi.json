@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Jäähdytys",
     "dry_finish_ele_tip": "Tiedot sisällytetään tilastoihin yhden tunnin kuluttua.",
     "add_mobile_ac_1": "Suuntaa kaukosäädin vastaanottimeen ja @paina \"SWING\"-painiketta kuusi kertaa.# Sinun pitäisi kuulla äänimerkki jokaisen painalluksen jälkeen. Varmista, että kaukosäädin on suunnattu suoraan vastaanottimeen.",
-    "add_mobile_ac_2": "Varmista, että @laitteen näytössä lukee \"77\".# Tämä tarkoittaa, että laite on nyt Wi-Fi-pariliitostilassa. Jos näytössä ei näy \"77\", toista vaihe 2.",
+    "add_mobile_ac_2": "Varmista, että @laitteen näytössä näkyy \"77\".# Tämä tarkoittaa, että laite on nyt Wi-Fi-pariliitostilassa. Jos näytössä ei näy \"77\", toista vaihe 3.",
     "add_dehumidifier_ac_2": "Paina ja pidä painettuna @\"Mode\"- ja \"Fan\"-painikkeita samanaikaisesti.# Laitteen tulee piippata kolme kertaa. Jos et kuule kolmea piippausta, yritä painaa painikkeita uudelleen ja pitää niitä painettuna.",
     "add_dehumidifier_ac_3": "Varmista, että @laitteen näytössä lukee \"P2\".# Tämä tarkoittaa, että laite on nyt Wi-Fi-pariliitostilassa. Jos näytössä ei näy \"P2\", toista vaihe 2.",
     "wm22_add_clothes_and_continue": "Lisää vaatteet ja jatka",

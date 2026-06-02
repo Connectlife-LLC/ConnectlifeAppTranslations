@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Enfriamiento",
     "dry_finish_ele_tip": "Los datos se incluirán en las estadísticas una hora más tarde",
     "add_mobile_ac_1": "Apunte el control remoto al receptor y @presione el botón \"SWING\" seis veces.# Debería escuchar un pitido después de cada presión. Asegúrese de que el control remoto apunte directamente al receptor.",
-    "add_mobile_ac_2": "Confirme que la pantalla del @dispositivo muestre \"77\".# Esto significa que la unidad ahora está en modo de emparejamiento Wi-Fi. Si la pantalla no muestra \"77\", repita el paso 2.",
+    "add_mobile_ac_2": "Confirme que la pantalla del dispositivo muestre \"77\". Esto significa que la unidad está en modo de emparejamiento Wi-Fi. Si la pantalla no muestra \"77\", repita el paso 3.",
     "add_dehumidifier_ac_2": "Mantenga presionados los botones @\"Mode\" y \"Fan\" simultáneamente.# El dispositivo debe emitir un pitido tres veces. Si no escucha los tres pitidos, intente presionar y mantener presionados los botones nuevamente.",
     "add_dehumidifier_ac_3": "Confirme que la pantalla del @dispositivo muestre \"P2\".# Esto significa que la unidad ahora está en modo de emparejamiento Wi-Fi. Si la pantalla no muestra \"P2\", repita el paso 2.",
     "wm22_add_clothes_and_continue": "Añadir ropa y continuar",

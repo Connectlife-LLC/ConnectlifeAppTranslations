@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Refroidissement",
     "dry_finish_ele_tip": "Les données seront incluses dans les statistiques dans une heure",
     "add_mobile_ac_1": "Dirigez la télécommande vers le récepteur et @appuyez six fois sur le bouton \"SWING\".# Vous devriez entendre un bip après chaque pression. Assurez-vous que la télécommande est pointée directement vers le récepteur.",
-    "add_mobile_ac_2": "Confirmez que l'écran de @appareil indique \"77\".# Cela signifie que l'appareil est maintenant en mode d'appairage Wi-Fi. Si l'écran n'affiche pas \"77\", veuillez répéter l'étape 2.",
+    "add_mobile_ac_2": "Vérifiez que l'écran de l'appareil affiche « 77 ». Cela signifie que l'appareil est maintenant en mode de jumelage Wi-Fi. Si l'écran n'affiche pas « 77 », veuillez répéter l'étape 3.",
     "add_dehumidifier_ac_2": "Appuyez simultanément sur les boutons @\"Mode\" et \"Fan\" et maintenez-les enfoncés. # L'appareil doit émettre trois bips. Si vous n'entendez pas les trois bips, essayez à nouveau d'appuyer sur les boutons et de les maintenir enfoncés.",
     "add_dehumidifier_ac_3": "Confirmez que l'écran de @appareil indique \"P2\".# Cela signifie que l'appareil est maintenant en mode d'appairage Wi-Fi. Si l'écran n'affiche pas \"P2\", veuillez répéter l'étape 2.",
     "wm22_add_clothes_and_continue": "Ajouter des vêtements et continuer",

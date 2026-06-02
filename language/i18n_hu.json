@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Hűtés",
     "dry_finish_ele_tip": "Az adatok egy órával később kerülnek be a statisztikába.",
     "add_mobile_ac_1": "Irányítsa a távirányítót a vevő felé, és @nyomja meg hatszor a \"SWING\" gombot.# Minden megnyomás után sípoló hangot kell hallania. Ügyeljen arra, hogy a távirányító közvetlenül a vevőre legyen irányítva.",
-    "add_mobile_ac_2": "Győződjön meg arról, hogy a @eszköz kijelzőjén a „77” felirat olvasható.# Ez azt jelenti, hogy az egység most Wi-Fi párosítási módban van. Ha a kijelzőn nem jelenik meg a „77”, ismételje meg a 2. lépést.",
+    "add_mobile_ac_2": "Győződjön meg róla, hogy az @eszköz kijelzőjén a „77” felirat látható.# Ez azt jelenti, hogy az egység most Wi-Fi párosítási módban van. Ha a kijelzőn nem látható a „77” felirat, ismételje meg a 3. lépést.",
     "add_dehumidifier_ac_2": "Nyomja meg és tartsa lenyomva egyszerre a @\"Mode\" és \"Fan\" gombot.# A készüléknek háromszor sípolni kell. Ha nem hallja a három sípolást, próbálja meg ismét lenyomni és lenyomva tartani a gombokat.",
     "add_dehumidifier_ac_3": "Győződjön meg arról, hogy a @eszköz kijelzőjén a „P2” felirat olvasható.# Ez azt jelenti, hogy az egység most Wi-Fi párosítási módban van. Ha a kijelzőn nem jelenik meg a „P2”, ismételje meg a 2. lépést.",
     "wm22_add_clothes_and_continue": "Adja hozzá a ruhákat, és folytassa",

@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Pendinginan",
     "dry_finish_ele_tip": "Data akan dimasukkan dalam statistik satu jam kemudian",
     "add_mobile_ac_1": "Arahkan remote ke penerima dan @tekan tombol \"SWING\" enam kali.# Anda akan mendengar bunyi bip setelah setiap penekanan. Pastikan remote diarahkan langsung ke penerima.",
-    "add_mobile_ac_2": "Konfirmasikan bahwa tampilan @perangkat membaca \"77\".# Ini berarti bahwa unit sekarang dalam mode pemasangan Wi-Fi. Jika tampilan tidak menunjukkan \"77\", ulangi Langkah 2.",
+    "add_mobile_ac_2": "Konfirmasikan bahwa tampilan @perangkat menunjukkan \"77\".# Ini berarti unit sekarang dalam mode pemasangan Wi-Fi. Jika tampilan tidak menunjukkan \"77\", silakan ulangi Langkah 3.",
     "add_dehumidifier_ac_2": "Tekan dan tahan tombol @\"Mode\" dan \"Fan\" secara bersamaan.# Perangkat akan berbunyi bip tiga kali. Jika Anda tidak mendengar bunyi bip tiga kali, coba tekan dan tahan tombol lagi.",
     "add_dehumidifier_ac_3": "Konfirmasikan bahwa tampilan @perangkat membaca \"P2\".# Ini berarti bahwa unit sekarang dalam mode pemasangan Wi-Fi. Jika tampilan tidak menunjukkan \"P2\", ulangi Langkah 2.",
     "wm22_add_clothes_and_continue": "Tambahkan Pakaian dan lanjutkan",

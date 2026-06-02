@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Chlazení",
     "dry_finish_ele_tip": "Data budou zahrnuta do statistiky o hodinu později.",
     "add_mobile_ac_1": "Namiřte dálkový ovladač na přijímač a @šestkrát stiskněte tlačítko \"SWING\".# Po každém stisknutí byste měli slyšet pípnutí. Ujistěte se, že dálkový ovladač míří přímo na přijímač.",
-    "add_mobile_ac_2": "Potvrďte, že se na displeji @zařízení zobrazuje „77“.# To znamená, že jednotka je nyní v režimu párování Wi-Fi. Pokud se na displeji nezobrazí „77“, opakujte prosím krok 2.",
+    "add_mobile_ac_2": "Ověřte, zda se na displeji zařízení @zobrazuje „77“.# To znamená, že se zařízení nyní nachází v režimu párování Wi-Fi. Pokud se na displeji nezobrazuje „77“, opakujte krok 3.",
     "add_dehumidifier_ac_2": "Stiskněte a podržte současně tlačítka @\"Mode\" a \"Fan\".# Zařízení by mělo třikrát pípnout. Pokud tři pípnutí neslyšíte, zkuste znovu stisknout a podržet tlačítka.",
     "add_dehumidifier_ac_3": "Potvrďte, že se na displeji @zařízení zobrazuje „P2“.# To znamená, že jednotka je nyní v režimu párování Wi-Fi. Pokud se na displeji nezobrazí „P2“, opakujte prosím krok 2.",
     "wm22_add_clothes_and_continue": "Přidejte oblečení a pokračujte",

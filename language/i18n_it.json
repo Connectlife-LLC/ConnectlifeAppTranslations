@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Raffreddamento",
     "dry_finish_ele_tip": "I dati verranno inclusi nelle statistiche un'ora dopo",
     "add_mobile_ac_1": "Puntare il telecomando verso il ricevitore e @premere il pulsante \"SWING\" sei volte.# Si dovrebbe sentire un segnale acustico dopo ogni pressione. Assicurarsi che il telecomando sia puntato direttamente verso il ricevitore.",
-    "add_mobile_ac_2": "Conferma che il display del @dispositivo indichi \"77\".# Ciò significa che l'unità è ora in modalità di associazione Wi-Fi. Se il display non mostra \"77\", ripetere il passaggio 2.",
+    "add_mobile_ac_2": "Verificare che sul display del dispositivo venga visualizzato \"77\". Ciò significa che l'unità è ora in modalità di abbinamento Wi-Fi. Se sul display non viene visualizzato \"77\", ripetere il passaggio 3.",
     "add_dehumidifier_ac_2": "Tieni premuti contemporaneamente i pulsanti @\"Mode\" e \"Fan\".# Il dispositivo dovrebbe emettere tre segnali acustici. Se non senti i tre segnali acustici, prova a tenere nuovamente premuti i pulsanti.",
     "add_dehumidifier_ac_3": "Verificare che il display del @dispositivo indichi \"P2\".# Ciò significa che l'unità è ora in modalità di associazione Wi-Fi. Se il display non mostra \"P2\", ripetere il passaggio 2.",
     "wm22_add_clothes_and_continue": "Aggiungi vestiti e continua",
