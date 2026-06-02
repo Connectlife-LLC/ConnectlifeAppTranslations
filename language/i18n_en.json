@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Update to version",
     "CL_CF_FW_update_desc": "Update from your current version to version ##",
     "CL_CF_FW_install": "Install",
-    "CL_CF_FW_select_to_begin": "Please select ## to begin."
+    "CL_CF_FW_select_to_begin": "Please select ## to begin.",
+    "CL_CF_FW_update_new_version": "A new version of the software is available.\nThis update includes:##",
+    "CL_CF_FW_update_memory_warning": "This update will use ## of memory and will not impact the performance of your appliance.\nIT IS STRONGLY RECOMMENDED TO PERFORM THIS UPDATE."
 }

@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Perbarui ke versi",
     "CL_CF_FW_update_desc": "Perbarui dari versi Anda saat ini ke versi ##",
     "CL_CF_FW_install": "Memasang",
-    "CL_CF_FW_select_to_begin": "Silakan pilih ## untuk memulai."
+    "CL_CF_FW_select_to_begin": "Silakan pilih ## untuk memulai.",
+    "CL_CF_FW_update_new_version": "Versi perangkat lunak yang baru telah tersedia.\nPembaruan ini mencakup:##",
+    "CL_CF_FW_update_memory_warning": "Pembaruan ini akan menggunakan ## memori dan tidak akan memengaruhi kinerja perangkat Anda.\nSANGAT DISARANKAN UNTUK MELAKUKAN PEMBARUAN INI."
 }
