@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Opdatering til version",
     "CL_CF_FW_update_desc": "Opdater fra din nuværende version til version ##",
     "CL_CF_FW_install": "Installere",
-    "CL_CF_FW_select_to_begin": "Vælg venligst ## for at starte."
+    "CL_CF_FW_select_to_begin": "Vælg venligst ## for at starte.",
+    "CL_CF_FW_update_new_version": "En ny version af softwaren er tilgængelig.\nDenne opdatering inkluderer:##",
+    "CL_CF_FW_update_memory_warning": "Denne opdatering bruger ## hukommelse og vil ikke påvirke din enhed's ydeevne.\nDET ANBEFALES STÆRKT AT UDFØRE DENNE OPDATERING."
 }

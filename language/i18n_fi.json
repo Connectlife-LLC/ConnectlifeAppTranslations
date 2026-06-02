@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Päivitä versioon",
     "CL_CF_FW_update_desc": "Päivitä nykyisestä versiosta versioon ##",
     "CL_CF_FW_install": "Asentaa",
-    "CL_CF_FW_select_to_begin": "Aloita valitsemalla ##."
+    "CL_CF_FW_select_to_begin": "Aloita valitsemalla ##.",
+    "CL_CF_FW_update_new_version": "Ohjelmistosta on saatavilla uusi versio.\nTämä päivitys sisältää:##",
+    "CL_CF_FW_update_memory_warning": "Tämä päivitys käyttää ## muistia eikä vaikuta laitteesi suorituskykyyn.\nTÄMÄN PÄIVITYKSEN SUORITTAMISTA SUOSITELLAAN VAHVASTI."
 }

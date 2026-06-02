@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Cập nhật lên phiên bản",
     "CL_CF_FW_update_desc": "Cập nhật từ phiên bản hiện tại lên phiên bản ##",
     "CL_CF_FW_install": "Cài đặt",
-    "CL_CF_FW_select_to_begin": "Vui lòng chọn ## để bắt đầu."
+    "CL_CF_FW_select_to_begin": "Vui lòng chọn ## để bắt đầu.",
+    "CL_CF_FW_update_new_version": "Phiên bản phần mềm mới đã có sẵn.\nBản cập nhật này bao gồm:##",
+    "CL_CF_FW_update_memory_warning": "Bản cập nhật này sẽ sử dụng ## bộ nhớ và sẽ không ảnh hưởng đến hiệu năng của thiết bị.\nCHÚNG TÔI KHUYẾN KHÍCH BẠN NÊN THỰC HIỆN CẬP NHẬT NÀY."
 }

@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Actualizare la versiunea",
     "CL_CF_FW_update_desc": "Actualizați de la versiunea curentă la versiunea ##",
     "CL_CF_FW_install": "Instala",
-    "CL_CF_FW_select_to_begin": "Vă rugăm să selectați ## pentru a începe."
+    "CL_CF_FW_select_to_begin": "Vă rugăm să selectați ## pentru a începe.",
+    "CL_CF_FW_update_new_version": "O nouă versiune a software-ului este disponibilă.\nAceastă actualizare include:##",
+    "CL_CF_FW_update_memory_warning": "Această actualizare va utiliza ## de memorie și nu va afecta performanța dispozitivului.\nSE RECOMANDĂ CU FORȚĂ EFECTUAREA ACESTEI ACTUALIZĂRI."
 }

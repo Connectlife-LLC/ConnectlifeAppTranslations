@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "قم بالتحديث إلى الإصدار",
     "CL_CF_FW_update_desc": "قم بالتحديث من إصدارك الحالي إلى الإصدار#",
     "CL_CF_FW_install": "ثَبَّتَ",
-    "CL_CF_FW_select_to_begin": "يرجى اختيار # للبدء."
+    "CL_CF_FW_select_to_begin": "يرجى اختيار # للبدء.",
+    "CL_CF_FW_update_new_version": "يتوفر إصدار جديد من البرنامج.\nيتضمن هذا التحديث ما يلي:##",
+    "CL_CF_FW_update_memory_warning": "سيستخدم هذا التحديث ## من الذاكرة ولن يؤثر على أداء جهازك.\nيوصى بشدة بإجراء هذا التحديث."
 }
