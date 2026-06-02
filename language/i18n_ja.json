@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "バージョンにアップデート",
     "CL_CF_FW_update_desc": "現在のバージョンからバージョン##にアップデートしてください",
     "CL_CF_FW_install": "インストール",
-    "CL_CF_FW_select_to_begin": "開始するには##を選択してください。"
+    "CL_CF_FW_select_to_begin": "開始するには##を選択してください。",
+    "CL_CF_FW_update_new_version": "ソフトウェアの新しいバージョンが利用可能です。\nこのアップデートには以下が含まれます:##",
+    "CL_CF_FW_update_memory_warning": "このアップデートでは##のメモリを使用しますが、アプライアンスのパフォーマンスには影響しません。\nこのアップデートを実行することを強くお勧めします。"
 }

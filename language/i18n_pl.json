@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Aktualizacja do wersji",
     "CL_CF_FW_update_desc": "Zaktualizuj z bieżącej wersji do wersji ##",
     "CL_CF_FW_install": "Zainstalować",
-    "CL_CF_FW_select_to_begin": "Proszę wybrać ##, aby rozpocząć."
+    "CL_CF_FW_select_to_begin": "Proszę wybrać ##, aby rozpocząć.",
+    "CL_CF_FW_update_new_version": "Dostępna jest nowa wersja oprogramowania.\nTa aktualizacja obejmuje:##",
+    "CL_CF_FW_update_memory_warning": "Ta aktualizacja wykorzysta ## pamięci i nie wpłynie na wydajność Twojego urządzenia.\nZDECYDOWANIE ZALECA SIĘ WYKONANIE TEJ AKTUALIZACJI."
 }

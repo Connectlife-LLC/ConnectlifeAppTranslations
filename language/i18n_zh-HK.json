@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "更新至版本",
     "CL_CF_FW_update_desc": "請將目前版本更新至版本 ##",
     "CL_CF_FW_install": "安裝",
-    "CL_CF_FW_select_to_begin": "請選擇##開始。"
+    "CL_CF_FW_select_to_begin": "請選擇##開始。",
+    "CL_CF_FW_update_new_version": "該軟體有新版本可用。\n本次更新包括：##",
+    "CL_CF_FW_update_memory_warning": "本次更新將使用 ## 內存，不會影響設備的效能。\n強烈建議執行此更新。"
 }
