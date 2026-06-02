@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Cooling down",
     "dry_finish_ele_tip": "The data will be included in the statistics one hour later",
     "add_mobile_ac_1": "Aim the remote at the receiver and @press the \"SWING\" button six times.# You should hear a beep after each press. Make sure that the remote is pointed directly at the receiver.",
-    "add_mobile_ac_2": "Confirm that the @device's display reads \"77\".# This means that the unit is now in Wi-Fi pairing mode. If the display does not show \"77\", please repeat Step 2.",
+    "add_mobile_ac_2": "Confirm that the @device's display reads \"77\".# This means that the unit is now in Wi-Fi pairing mode. If the display does not show \"77\", please repeat Step 3.",
     "add_dehumidifier_ac_2": "Press and hold the @\"Mode\" and \"Fan\" buttons simultaneously.# The device should beep three times. If you don't hear the three beeps, try pressing and holding the buttons again.",
     "add_dehumidifier_ac_3": "Confirm that the @device's display reads \"P2\".# This means that the unit is now in Wi-Fi pairing mode. If the display does not show \"P2\", please repeat Step 2.",
     "wm22_add_clothes_and_continue": "Add Clothes and continue ",
