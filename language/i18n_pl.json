@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Chłodzenie",
     "dry_finish_ele_tip": "Dane zostaną uwzględnione w statystykach za godzinę.",
     "add_mobile_ac_1": "Skieruj pilota na odbiornik i @naciśnij sześć razy przycisk „SWING”.# Po każdym naciśnięciu powinieneś usłyszeć sygnał dźwiękowy. Upewnij się, że pilot jest skierowany bezpośrednio na odbiornik.",
-    "add_mobile_ac_2": "Potwierdź, że wyświetlacz @urządzenia pokazuje „77”.# Oznacza to, że urządzenie jest teraz w trybie parowania Wi-Fi. Jeśli wyświetlacz nie pokazuje „77”, powtórz krok 2.",
+    "add_mobile_ac_2": "Sprawdź, czy na wyświetlaczu urządzenia @device widnieje cyfra „77”.# Oznacza to, że urządzenie jest teraz w trybie parowania Wi-Fi. Jeśli na wyświetlaczu nie pojawi się cyfra „77”, powtórz krok 3.",
     "add_dehumidifier_ac_2": "Naciśnij i przytrzymaj jednocześnie przyciski @\"Mode\" i \"Fan\".# Urządzenie powinno wydać trzykrotny sygnał dźwiękowy. Jeśli nie usłyszysz trzech sygnałów dźwiękowych, spróbuj ponownie nacisnąć i przytrzymać przyciski.",
     "add_dehumidifier_ac_3": "Potwierdź, że wyświetlacz @urządzenia pokazuje „P2”.# Oznacza to, że urządzenie jest teraz w trybie parowania Wi-Fi. Jeśli wyświetlacz nie pokazuje „P2”, powtórz krok 2.",
     "wm22_add_clothes_and_continue": "Dodaj ubrania i kontynuuj",

@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Køler",
     "dry_finish_ele_tip": "Dataene vil blive inkluderet i statistikken en time senere.",
     "add_mobile_ac_1": "Ret fjernbetjeningen mod modtageren og @tryk på \"SWING\"-knappen seks gange.# Du bør høre et bip efter hvert tryk. Sørg for, at fjernbetjeningen peger direkte mod modtageren.",
-    "add_mobile_ac_2": "Bekræft, at @enhedens display viser \"77\".# Dette betyder, at enheden nu er i Wi-Fi-parringstilstand. Hvis displayet ikke viser \"77\", gentag venligst trin 2.",
+    "add_mobile_ac_2": "Bekræft, at @enhedens display viser \"77\".# Det betyder, at enheden nu er i Wi-Fi-parringstilstand. Hvis displayet ikke viser \"77\", skal du gentage trin 3.",
     "add_dehumidifier_ac_2": "Tryk og hold @\"Mode\" og \"Fan\" knapperne samtidigt.# Enheden skal bippe tre gange. Hvis du ikke hører de tre bip, kan du prøve at trykke på og holde knapperne nede igen.",
     "add_dehumidifier_ac_3": "Bekræft, at @enhedens display viser \"P2\".# Dette betyder, at enheden nu er i Wi-Fi-parringstilstand. Hvis displayet ikke viser \"P2\", gentag venligst trin 2.",
     "wm22_add_clothes_and_continue": "Tilføj tøj og fortsæt",

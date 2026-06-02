@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Abkühlung",
     "dry_finish_ele_tip": "Die Daten werden eine Stunde später in die Statistik aufgenommen.",
     "add_mobile_ac_1": "Richten Sie die Fernbedienung auf den Empfänger und @drücken Sie sechsmal die „SWING“-Taste.# Nach jedem Drücken sollten Sie einen Piepton hören. Stellen Sie sicher, dass die Fernbedienung direkt auf den Empfänger gerichtet ist.",
-    "add_mobile_ac_2": "Vergewissern Sie sich, dass auf dem Display des @Geräts „77“ angezeigt wird.# Dies bedeutet, dass sich das Gerät jetzt im Wi-Fi-Pairing-Modus befindet. Sollte das Display nicht „77“ anzeigen, wiederholen Sie bitte Schritt 2.",
+    "add_mobile_ac_2": "Vergewissern Sie sich, dass auf dem Display des Geräts „77“ angezeigt wird. Dies bedeutet, dass sich das Gerät nun im WLAN-Kopplungsmodus befindet. Falls „77“ nicht angezeigt wird, wiederholen Sie bitte Schritt 3.",
     "add_dehumidifier_ac_2": "Halten Sie gleichzeitig die @„Mode“- und „Fan“-Tasten gedrückt.# Das Gerät sollte dreimal piepen. Wenn Sie die drei Pieptöne nicht hören, versuchen Sie erneut, die Tasten gedrückt zu halten.",
     "add_dehumidifier_ac_3": "Vergewissern Sie sich, dass auf dem Display des @Geräts „P2“ angezeigt wird. Dies bedeutet, dass sich das Gerät jetzt im Wi-Fi-Pairing-Modus befindet. Sollte das Display nicht „P2“ anzeigen, wiederholen Sie bitte Schritt 2.",
     "wm22_add_clothes_and_continue": "Kleidung hinzufügen und fortfahren",

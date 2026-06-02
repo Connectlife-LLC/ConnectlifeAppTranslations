@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Đang hạ nhiệt",
     "dry_finish_ele_tip": "Dữ liệu sẽ được đưa vào số liệu thống kê sau một giờ",
     "add_mobile_ac_1": "Bật điện lên. Nhấp vào nút \"SWING\" (CHUYỂN ĐỘNG) 6 lần trên điều khiển và âm báo sẽ kêu 5 lần.",
-    "add_mobile_ac_2": "Chờ đến khi màn hình hiển thị \"77\" , điều hòa nhiệt độ sẽ tiến vào chế độ mạng phân phối.",
+    "add_mobile_ac_2": "Hãy xác nhận rằng màn hình của thiết bị hiển thị \"77\".# Điều này có nghĩa là thiết bị hiện đang ở chế độ ghép nối Wi-Fi. Nếu màn hình không hiển thị \"77\", vui lòng lặp lại Bước 3.",
     "add_dehumidifier_ac_2": "Nhấn và giữ đồng thời nút \"mode\" (chế độ) và nút \"fan\" (quạt) cho đến khi bạn nghe thấy tiếng còi ba lần.",
     "add_dehumidifier_ac_3": "Chờ cho đến khi màn hình hiển thị \"P2\".",
     "wm22_add_clothes_and_continue": "Thêm quần áo và tiếp tục",

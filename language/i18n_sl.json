@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Ohlajanje",
     "dry_finish_ele_tip": "Podatki bodo vključeni v statistiko eno uro kasneje.",
     "add_mobile_ac_1": "Daljinski upravljalnik usmerite proti sprejemniku in šestkrat @pritisnite gumb \"NIHANJE\".# Po vsakem pritisku bi morali zaslišati pisk. Prepričajte se, da je daljinski upravljalnik usmerjen neposredno v sprejemnik.",
-    "add_mobile_ac_2": "Potrdite, da se na zaslonu @naprave prikaže \"77\".# To pomeni, da je enota zdaj v načinu seznanjanja Wi-Fi. Če se na zaslonu ne prikaže \"77\", ponovite korak 2.",
+    "add_mobile_ac_2": "Preverite, ali je na zaslonu naprave prikazano \"77\". To pomeni, da je enota zdaj v načinu seznanjanja z omrežjem Wi-Fi. Če na zaslonu ni prikazano \"77\", ponovite 3. korak.",
     "add_dehumidifier_ac_2": "Istočasno pritisnite in držite gumba @\"Način delovanja\" in \"Ventilator\".# Naprava bi morala trikrat zapiskati. Če ne slišite treh piskov, poskusite znova držati gumbe.",
     "add_dehumidifier_ac_3": "Prepričajte se, da se na zaslonu @naprave prikaže \"P2\".# To pomeni, da je enota zdaj v načinu združevanja Wi-Fi. Če zaslon ne prikazuje \"P2\", ponovite 2. korak.",
     "wm22_add_clothes_and_continue": "Dodajte oblačila in nadaljujte ",

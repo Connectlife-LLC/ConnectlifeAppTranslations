@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Hlađenje",
     "dry_finish_ele_tip": "Podaci će biti uključeni u statistiku jedan sat kasnije.",
     "add_mobile_ac_1": "Usmjerite daljinski prema slušalici i @pritisnite tipku \"SWING\" šest puta.# Nakon svakog pritiska trebali biste čuti zvučni signal. Provjerite je li daljinski upravljač usmjeren izravno prema prijemniku.",
-    "add_mobile_ac_2": "Provjerite prikazuje li se na zaslonu @uređaja \"77\".# To znači da je jedinica sada u načinu Wi-Fi uparivanja. Ako zaslon ne prikazuje \"77\", ponovite korak 2.",
+    "add_mobile_ac_2": "Potvrdite da se na zaslonu @uređaja prikazuje \"77\".# To znači da je uređaj sada u načinu rada za Wi-Fi uparivanje. Ako se na zaslonu ne prikazuje \"77\", ponovite 3. korak.",
     "add_dehumidifier_ac_2": "Pritisnite i držite tipke @\"Mode\" i \"Fan\" istovremeno.# Uređaj bi se trebao oglasiti tri puta. Ako ne čujete tri zvučna signala, pokušajte ponovno pritisnuti i držati gumbe.",
     "add_dehumidifier_ac_3": "Potvrdite da na zaslonu @uređaja piše \"P2\".# To znači da je jedinica sada u načinu Wi-Fi uparivanja. Ako zaslon ne prikazuje \"P2\", ponovite korak 2.",
     "wm22_add_clothes_and_continue": "Dodajte odjeću i nastavite",

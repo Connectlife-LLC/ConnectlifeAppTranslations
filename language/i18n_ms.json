@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Penyejukan",
     "dry_finish_ele_tip": "Data akan dimasukkan dalam statistik satu jam kemudian.",
     "add_mobile_ac_1": "Halakan alat kawalan jauh ke arah penerima dan @tekan butang \"SWING\" enam kali.# Anda sepatutnya mendengar bunyi bip selepas setiap kali ditekan. Pastikan alat kawalan jauh dihalakan terus ke penerima.",
-    "add_mobile_ac_2": "Sahkan bahawa paparan @peranti berbunyi \"77\".# Ini bermakna unit kini berada dalam mod berpasangan Wi-Fi. Jika paparan tidak menunjukkan \"77\", sila ulangi Langkah 2.",
+    "add_mobile_ac_2": "Sahkan bahawa paparan @peranti menunjukkan \"77\".# Ini bermakna unit kini berada dalam mod pasangan Wi-Fi. Jika paparan tidak menunjukkan \"77\", sila ulangi Langkah 3.",
     "add_dehumidifier_ac_2": "Tekan dan tahan butang @\"Mode\" dan \"Fan\" serentak.# Peranti harus berbunyi bip tiga kali. Jika anda tidak mendengar tiga bunyi bip, cuba tekan dan tahan butang sekali lagi.",
     "add_dehumidifier_ac_3": "Sahkan bahawa paparan @peranti berbunyi \"P2\".# Ini bermakna unit kini berada dalam mod berpasangan Wi-Fi. Jika paparan tidak menunjukkan \"P2\", sila ulangi Langkah 2.",
     "wm22_add_clothes_and_continue": "Tambah Pakaian dan teruskan",

@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "A arrefecer",
     "dry_finish_ele_tip": "Os dados serão incluídos nas estatísticas uma hora mais tarde",
     "add_mobile_ac_1": "Aponte o comando para o recetor e @pressione o botão \"SWING\" seis vezes.# Deverá ouvir um sinal sonoro após cada clique. Certifique-se de que o comando está a apontar diretamente para o recetor.",
-    "add_mobile_ac_2": "Confirme se o visor do @dispositivo exibe \"77\".# Isso significa que a unidade agora está no modo de emparelhamento Wi-Fi. Se o visor não mostrar \"77\", repita o Passo 2.",
+    "add_mobile_ac_2": "Confirme se o visor do dispositivo exibe \"77\". Isso significa que o dispositivo agora está no modo de emparelhamento Wi-Fi. Se o visor não mostrar \"77\", repita a Etapa 3.",
     "add_dehumidifier_ac_2": "Mantenha premidos os botões @\"Mode\" e \"Fan\" em simultâneo. Se não ouvir os três sinais sonoros, tente manter premidos os botões novamente.",
     "add_dehumidifier_ac_3": "Confirme se o ecrã do @aparelho apresenta \"P2\".# Isso significa que a unidade agora está em modo de emparelhamento Wi-Fi. Se o ecrã não apresentar \"P2\", repita o Passo 2.",
     "wm22_add_clothes_and_continue": "Adicione roupas e continue",

@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "Răcire",
     "dry_finish_ele_tip": "Datele vor fi incluse în statisticile cu o oră mai târziu.",
     "add_mobile_ac_1": "Îndreptați telecomanda spre receptor și @apăsați butonul „SWING” de șase ori.# Ar trebui să auziți un bip după fiecare apăsare. Asigurați-vă că telecomanda este îndreptată direct către receptor.",
-    "add_mobile_ac_2": "Confirmați că afișajul @dispozitivului arată „77”.# Aceasta înseamnă că unitatea este acum în modul de asociere Wi-Fi. Dacă afișajul nu arată „77”, vă rugăm să repetați Pasul 2.",
+    "add_mobile_ac_2": "Confirmați că pe afișajul dispozitivului @ este afișat „77”. Aceasta înseamnă că unitatea este acum în modul de asociere Wi-Fi. Dacă pe afișaj nu este afișat „77”, repetați pasul 3.",
     "add_dehumidifier_ac_2": "Apăsați și mențineți apăsate butoanele @\"Mode\" și \"Fan\" simultan.# Dispozitivul ar trebui să sune de trei ori. Dacă nu auziți cele trei semnale sonore, încercați să apăsați lung butoanele din nou.",
     "add_dehumidifier_ac_3": "Confirmați că pe afișajul dispozitivului @ se afișează „P2”.# Aceasta înseamnă că unitatea este acum în modul de asociere Wi-Fi. Dacă pe afișaj nu apare „P2”, repetați Pasul 2.",
     "wm22_add_clothes_and_continue": "Adăugați haine și continuați",
