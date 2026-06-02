@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Update naar versie",
     "CL_CF_FW_update_desc": "Update van uw huidige versie naar versie ##",
     "CL_CF_FW_install": "Installeren",
-    "CL_CF_FW_select_to_begin": "Selecteer ## om te beginnen."
+    "CL_CF_FW_select_to_begin": "Selecteer ## om te beginnen.",
+    "CL_CF_FW_update_new_version": "Er is een nieuwe versie van de software beschikbaar.\nDeze update bevat:##",
+    "CL_CF_FW_update_memory_warning": "Deze update gebruikt ## geheugen en heeft geen invloed op de prestaties van uw apparaat.\nHET WORDT TEN ZEERSTE AANBEVOLEN OM DEZE UPDATE UIT TE VOEREN."
 }

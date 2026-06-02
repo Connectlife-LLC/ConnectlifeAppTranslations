@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Sürüme güncelle",
     "CL_CF_FW_update_desc": "Mevcut sürümünüzü ## sürümüne güncelleyin.",
     "CL_CF_FW_install": "Düzenlemek",
-    "CL_CF_FW_select_to_begin": "Başlamak için lütfen ##'yi seçin."
+    "CL_CF_FW_select_to_begin": "Başlamak için lütfen ##'yi seçin.",
+    "CL_CF_FW_update_new_version": "Yazılımın yeni bir sürümü mevcuttur.\nBu güncelleme şunları içeriyor:##",
+    "CL_CF_FW_update_memory_warning": "Bu güncelleme ## bellek kullanacak ve cihazınızın performansını etkilemeyecektir.\nBU GÜNCELLEMEYİ YAPMANIZ ŞİDDETLE TAVSİYE EDİLİR."
 }
