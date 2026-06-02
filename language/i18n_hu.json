@@ -8617,5 +8617,7 @@
     "CL_CF_FW_update_to_version": "Frissítés a következő verzióra",
     "CL_CF_FW_update_desc": "Frissítsen a jelenlegi verzióról a ## verzióra",
     "CL_CF_FW_install": "Telepítés",
-    "CL_CF_FW_select_to_begin": "Kérjük, válassza a ## lehetőséget a kezdéshez."
+    "CL_CF_FW_select_to_begin": "Kérjük, válassza a ## lehetőséget a kezdéshez.",
+    "CL_CF_FW_update_new_version": "Elérhető a szoftver új verziója.\nEz a frissítés a következőket tartalmazza:##",
+    "CL_CF_FW_update_memory_warning": "Ez a frissítés ## memóriát fog használni, és nem befolyásolja a készülék teljesítményét.\nNAGYON AJÁNLOTT A FRISSÍTÉS ELVÉGZÉSE."
 }
