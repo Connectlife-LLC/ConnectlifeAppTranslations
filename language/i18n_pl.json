@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "Aktualizacja do wersji",
     "CL_CF_FW_update_desc": "Zaktualizuj z bieżącej wersji do wersji ##",
     "CL_CF_FW_install": "Zainstalować",
-    "CL_CF_FW_select_to_begin": "Proszę wybrać ##, aby rozpocząć."
+    "CL_CF_FW_select_to_begin": "Proszę wybrać ##, aby rozpocząć.",
+    "CL_CF_FW_update_new_version": "Dostępna jest nowa wersja oprogramowania.\nTa aktualizacja obejmuje:##",
+    "CL_CF_FW_update_memory_warning": "Ta aktualizacja wykorzysta ## pamięci i nie wpłynie na wydajność Twojego urządzenia.\nZDECYDOWANIE ZALECA SIĘ WYKONANIE TEJ AKTUALIZACJI.",
+    "CL_DV_WINE_wine_storage": "Przechowywanie wina",
+    "CL_DV_WINE_favourite_wine": "Ulubione wino",
+    "CL_DV_WINE_favourite_wine_desc": "Wygląda na to, że to wino przechowujesz najczęściej.",
+    "CL_DV_WINE_monthly_storage_category": "Miesięczna kategoria przechowywania",
+    "CL_DV_WINE_wine_region": "Region winiarski",
+    "CL_DV_WINE_yearly_storage_time": "Roczny czas przechowywania",
+    "CL_DV_WINE_yearly_drinking_time": "Roczny czas picia"
 }

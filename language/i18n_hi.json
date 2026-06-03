@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "संस्करण में अपडेट करें",
     "CL_CF_FW_update_desc": "अपने वर्तमान संस्करण से संस्करण ## पर अपडेट करें",
     "CL_CF_FW_install": "स्थापित करना",
-    "CL_CF_FW_select_to_begin": "शुरू करने के लिए कृपया ## चुनें।"
+    "CL_CF_FW_select_to_begin": "शुरू करने के लिए कृपया ## चुनें।",
+    "CL_CF_FW_update_new_version": "सॉफ्टवेयर का नया संस्करण उपलब्ध है।\nइस अपडेट में शामिल हैं:##",
+    "CL_CF_FW_update_memory_warning": "इस अपडेट में ## मेमोरी का उपयोग होगा और इससे आपके उपकरण के प्रदर्शन पर कोई प्रभाव नहीं पड़ेगा।\nइस अपडेट को करने की पुरजोर अनुशंसा की जाती है।",
+    "CL_DV_WINE_wine_storage": "वाइन भंडारण",
+    "CL_DV_WINE_favourite_wine": "पसंदीदा वाइन",
+    "CL_DV_WINE_favourite_wine_desc": "ऐसा लगता है कि आप इस वाइन को सबसे ज्यादा स्टोर करते हैं।",
+    "CL_DV_WINE_monthly_storage_category": "मासिक भंडारण श्रेणी",
+    "CL_DV_WINE_wine_region": "वाइन क्षेत्र",
+    "CL_DV_WINE_yearly_storage_time": "वार्षिक भंडारण समय",
+    "CL_DV_WINE_yearly_drinking_time": "वार्षिक पीने का समय"
 }

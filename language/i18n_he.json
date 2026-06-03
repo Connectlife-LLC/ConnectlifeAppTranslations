@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "עדכון לגרסה",
     "CL_CF_FW_update_desc": "עדכון מהגרסה הנוכחית שלך לגרסה ##",
     "CL_CF_FW_install": "לְהַתְקִין",
-    "CL_CF_FW_select_to_begin": "אנא בחר ## כדי להתחיל."
+    "CL_CF_FW_select_to_begin": "אנא בחר ## כדי להתחיל.",
+    "CL_CF_FW_update_new_version": "גרסה חדשה של התוכנה זמינה.\nעדכון זה כולל:##",
+    "CL_CF_FW_update_memory_warning": "עדכון זה ישתמש במספר ## של זיכרון ולא ישפיע על ביצועי המכשיר שלך.\nמומלץ מאוד לבצע עדכון זה.",
+    "CL_DV_WINE_wine_storage": "אחסון יין",
+    "CL_DV_WINE_favourite_wine": "יין מועדף",
+    "CL_DV_WINE_favourite_wine_desc": "נראה שאתה מאחסן את היין הזה בעיקר.",
+    "CL_DV_WINE_monthly_storage_category": "קטגוריית אחסון חודשית",
+    "CL_DV_WINE_wine_region": "אזור היין",
+    "CL_DV_WINE_yearly_storage_time": "זמן אחסון שנתי",
+    "CL_DV_WINE_yearly_drinking_time": "זמן שתייה שנתי"
 }

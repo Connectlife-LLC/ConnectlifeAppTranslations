@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "Perbarui ke versi",
     "CL_CF_FW_update_desc": "Perbarui dari versi Anda saat ini ke versi ##",
     "CL_CF_FW_install": "Memasang",
-    "CL_CF_FW_select_to_begin": "Silakan pilih ## untuk memulai."
+    "CL_CF_FW_select_to_begin": "Silakan pilih ## untuk memulai.",
+    "CL_CF_FW_update_new_version": "Versi perangkat lunak yang baru telah tersedia.\nPembaruan ini mencakup:##",
+    "CL_CF_FW_update_memory_warning": "Pembaruan ini akan menggunakan ## memori dan tidak akan memengaruhi kinerja perangkat Anda.\nSANGAT DISARANKAN UNTUK MELAKUKAN PEMBARUAN INI.",
+    "CL_DV_WINE_wine_storage": "Penyimpanan Anggur",
+    "CL_DV_WINE_favourite_wine": "Anggur Favorit",
+    "CL_DV_WINE_favourite_wine_desc": "Sepertinya Anda paling sering menyimpan anggur ini.",
+    "CL_DV_WINE_monthly_storage_category": "Kategori penyimpanan bulanan",
+    "CL_DV_WINE_wine_region": "Wilayah Anggur",
+    "CL_DV_WINE_yearly_storage_time": "Waktu penyimpanan tahunan",
+    "CL_DV_WINE_yearly_drinking_time": "Waktu minum tahunan"
 }

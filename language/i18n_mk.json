@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "Ажурирајте на верзија",
     "CL_CF_FW_update_desc": "Ажурирајте од вашата тековна верзија на верзија ##",
     "CL_CF_FW_install": "Инсталирај",
-    "CL_CF_FW_select_to_begin": "Изберете ## за да започнете."
+    "CL_CF_FW_select_to_begin": "Изберете ## за да започнете.",
+    "CL_CF_FW_update_new_version": "Достапна е нова верзија на софтверот.\nОва ажурирање вклучува:##",
+    "CL_CF_FW_update_memory_warning": "Ова ажурирање ќе користи ## меморија и нема да влијае на перформансите на вашиот уред.\nСИЛНО СЕ ПРЕПОРАЧУВА ДА ГО ИЗВРШИТЕ ОВОЈ АЖУРИРАЊЕ.",
+    "CL_DV_WINE_wine_storage": "Складирање вино",
+    "CL_DV_WINE_favourite_wine": "Омилено вино",
+    "CL_DV_WINE_favourite_wine_desc": "Се чини дека најмногу го складираш ова вино.",
+    "CL_DV_WINE_monthly_storage_category": "Месечна категорија за складирање",
+    "CL_DV_WINE_wine_region": "Вински регион",
+    "CL_DV_WINE_yearly_storage_time": "Годишно време на складирање",
+    "CL_DV_WINE_yearly_drinking_time": "Годишно време за пиење"
 }

@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "更新至版本",
     "CL_CF_FW_update_desc": "請將目前版本更新至版本 ##",
     "CL_CF_FW_install": "安裝",
-    "CL_CF_FW_select_to_begin": "請選擇##開始。"
+    "CL_CF_FW_select_to_begin": "請選擇##開始。",
+    "CL_CF_FW_update_new_version": "該軟體有新版本可用。\n本次更新包括：##",
+    "CL_CF_FW_update_memory_warning": "本次更新將使用 ## 內存，不會影響設備的效能。\n強烈建議執行此更新。",
+    "CL_DV_WINE_wine_storage": "葡萄酒儲存",
+    "CL_DV_WINE_favourite_wine": "最喜歡的葡萄酒",
+    "CL_DV_WINE_favourite_wine_desc": "這瓶酒好像是你存放得最多的。",
+    "CL_DV_WINE_monthly_storage_category": "每月儲存類別",
+    "CL_DV_WINE_wine_region": "葡萄酒產區",
+    "CL_DV_WINE_yearly_storage_time": "年度儲存時間",
+    "CL_DV_WINE_yearly_drinking_time": "年度飲酒時間"
 }

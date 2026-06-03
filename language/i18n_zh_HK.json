@@ -2260,7 +2260,7 @@
     "td22_cooling_down": "降溫",
     "dry_finish_ele_tip": "數據將在1小時後納入統計。",
     "add_mobile_ac_1": "將遙控器對準接收器，然後按六次「SWING」按鈕。每次按下後都應該聽到一聲嗶聲。請確保遙控器正對著接收器。",
-    "add_mobile_ac_2": "確認設備顯示幕顯示“77”。 # 這表示裝置已進入 Wi-Fi 配對模式。如果顯示幕未顯示“77”，請重複步驟 2。",
+    "add_mobile_ac_2": "確認設備顯示幕顯示“77”。 # 這表示裝置已進入 Wi-Fi 配對模式。如果顯示幕未顯示“77”，請重複步驟 3。",
     "add_dehumidifier_ac_2": "同時按住“模式”和“風扇”按鈕。設備應該會發出三聲嗶嗶聲。如果沒有聽到三聲嗶嗶聲，請再次嘗試按住按鈕。",
     "add_dehumidifier_ac_3": "確認設備顯示幕顯示“P2”。 # 這表示裝置已進入 Wi-Fi 配對模式。如果顯示幕未顯示“P2”，請重複步驟 2。",
     "wm22_add_clothes_and_continue": "添加衣服並繼續 ",
@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "更新至版本",
     "CL_CF_FW_update_desc": "請將目前版本更新至版本 ##",
     "CL_CF_FW_install": "安裝",
-    "CL_CF_FW_select_to_begin": "請選擇##開始。"
+    "CL_CF_FW_select_to_begin": "請選擇##開始。",
+    "CL_CF_FW_update_new_version": "該軟體有新版本可用。\n本次更新包括：##",
+    "CL_CF_FW_update_memory_warning": "本次更新將使用 ## 內存，不會影響設備的效能。\n強烈建議執行此更新。",
+    "CL_DV_WINE_wine_storage": "葡萄酒儲存",
+    "CL_DV_WINE_favourite_wine": "最喜歡的葡萄酒",
+    "CL_DV_WINE_favourite_wine_desc": "這瓶酒好像是你存放得最多的。",
+    "CL_DV_WINE_monthly_storage_category": "每月儲存類別",
+    "CL_DV_WINE_wine_region": "葡萄酒產區",
+    "CL_DV_WINE_yearly_storage_time": "年度儲存時間",
+    "CL_DV_WINE_yearly_drinking_time": "年度飲酒時間"
 }

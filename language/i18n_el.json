@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "Ενημέρωση στην έκδοση",
     "CL_CF_FW_update_desc": "Ενημέρωση από την τρέχουσα έκδοση στην έκδοση ##",
     "CL_CF_FW_install": "Εγκαθιστώ",
-    "CL_CF_FW_select_to_begin": "Επιλέξτε ## για να ξεκινήσετε."
+    "CL_CF_FW_select_to_begin": "Επιλέξτε ## για να ξεκινήσετε.",
+    "CL_CF_FW_update_new_version": "Μια νέα έκδοση του λογισμικού είναι διαθέσιμη.\nΑυτή η ενημέρωση περιλαμβάνει:##",
+    "CL_CF_FW_update_memory_warning": "Αυτή η ενημέρωση θα χρησιμοποιήσει ## μνήμης και δεν θα επηρεάσει την απόδοση της συσκευής σας.\nΣΥΝΙΣΤΑΤΑΙ ΑΝΕΠΙΦΥΛΑΚΤΑ ΝΑ ΕΚΤΕΛΕΣΕΤΕ ΑΥΤΗΝ ΤΗΝ ΕΝΗΜΕΡΩΣΗ.",
+    "CL_DV_WINE_wine_storage": "Αποθήκευση κρασιού",
+    "CL_DV_WINE_favourite_wine": "Αγαπημένο κρασί",
+    "CL_DV_WINE_favourite_wine_desc": "Φαίνεται ότι αυτό το κρασί το αποθηκεύεις περισσότερο.",
+    "CL_DV_WINE_monthly_storage_category": "Κατηγορία μηνιαίας αποθήκευσης",
+    "CL_DV_WINE_wine_region": "Οινοπαραγωγική Περιοχή",
+    "CL_DV_WINE_yearly_storage_time": "Ετήσιος χρόνος αποθήκευσης",
+    "CL_DV_WINE_yearly_drinking_time": "Ετήσιος χρόνος κατανάλωσης"
 }

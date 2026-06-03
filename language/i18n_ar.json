@@ -8615,7 +8615,16 @@
     "CL_DV_WINE_display_tips": "اضبط سطوع شاشة جهازك، وقم بتغيير سمة اللون واضبط الوقت الذي يجب أن تنتقل فيه شاشة الجهاز إلى وضع الاستعداد.",
     "CL_CF_FW_view_details": "عرض التفاصيل",
     "CL_CF_FW_update_to_version": "قم بالتحديث إلى الإصدار",
-    "CL_CF_FW_update_desc": "قم بالتحديث من إصدارك الحالي إلى الإصدار#",
+    "CL_CF_FW_update_desc": "قم بالتحديث من إصدارك الحالي إلى الإصدار##",
     "CL_CF_FW_install": "ثَبَّتَ",
-    "CL_CF_FW_select_to_begin": "يرجى اختيار # للبدء."
+    "CL_CF_FW_select_to_begin": "يرجى اختيار ## للبدء.",
+    "CL_CF_FW_update_new_version": "يتوفر إصدار جديد من البرنامج.\nيتضمن هذا التحديث ما يلي:##",
+    "CL_CF_FW_update_memory_warning": "سيستخدم هذا التحديث ## من الذاكرة ولن يؤثر على أداء جهازك.\nيوصى بشدة بإجراء هذا التحديث.",
+    "CL_DV_WINE_wine_storage": "تخزين النبيذ",
+    "CL_DV_WINE_favourite_wine": "النبيذ المفضل",
+    "CL_DV_WINE_favourite_wine_desc": "يبدو أنك تخزن هذا النبيذ في أغلب الأحيان.",
+    "CL_DV_WINE_monthly_storage_category": "فئة التخزين الشهرية",
+    "CL_DV_WINE_wine_region": "منطقة النبيذ",
+    "CL_DV_WINE_yearly_storage_time": "مدة التخزين السنوية",
+    "CL_DV_WINE_yearly_drinking_time": "وقت الشرب السنوي"
 }
