@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "Aktualizácia na verziu",
     "CL_CF_FW_update_desc": "Aktualizujte z vašej aktuálnej verzie na verziu ##",
     "CL_CF_FW_install": "Inštalovať",
-    "CL_CF_FW_select_to_begin": "Pre začiatok vyberte ##."
+    "CL_CF_FW_select_to_begin": "Pre začiatok vyberte ##.",
+    "CL_CF_FW_update_new_version": "K dispozícii je nová verzia softvéru.\nTáto aktualizácia obsahuje:##",
+    "CL_CF_FW_update_memory_warning": "Táto aktualizácia použije ## pamäte a nebude mať vplyv na výkon vášho zariadenia.\nDÔRAZNE SA ODPORÚČA VYKONAŤ TÚTO AKTUALIZÁCIU.",
+    "CL_DV_WINE_wine_storage": "Skladovanie vína",
+    "CL_DV_WINE_favourite_wine": "Obľúbené víno",
+    "CL_DV_WINE_favourite_wine_desc": "Zdá sa, že toto víno skladujete najviac.",
+    "CL_DV_WINE_monthly_storage_category": "Kategória mesačného úložiska",
+    "CL_DV_WINE_wine_region": "Vinárska oblasť",
+    "CL_DV_WINE_yearly_storage_time": "Ročná doba skladovania",
+    "CL_DV_WINE_yearly_drinking_time": "Ročný čas pitia"
 }

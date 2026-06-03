@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "Posodobi na različico",
     "CL_CF_FW_update_desc": "Posodobite s trenutne različice na različico ##",
     "CL_CF_FW_install": "Namestitev",
-    "CL_CF_FW_select_to_begin": "Za začetek izberite ##."
+    "CL_CF_FW_select_to_begin": "Za začetek izberite ##.",
+    "CL_CF_FW_update_new_version": "Na voljo je nova različica programske opreme.\nTa posodobitev vključuje:##",
+    "CL_CF_FW_update_memory_warning": "Ta posodobitev bo porabila ## pomnilnika in ne bo vplivala na delovanje vaše naprave.\nIZVEDBA TE POSODOBITVE JE ZELO PRIPOROČLJIVA.",
+    "CL_DV_WINE_wine_storage": "Shranjevanje vina",
+    "CL_DV_WINE_favourite_wine": "Najljubše vino",
+    "CL_DV_WINE_favourite_wine_desc": "Zdi se, da to vino največ shranjuješ.",
+    "CL_DV_WINE_monthly_storage_category": "Kategorija mesečnega shranjevanja",
+    "CL_DV_WINE_wine_region": "Vinska regija",
+    "CL_DV_WINE_yearly_storage_time": "Letni čas skladiščenja",
+    "CL_DV_WINE_yearly_drinking_time": "Letni čas pitja"
 }

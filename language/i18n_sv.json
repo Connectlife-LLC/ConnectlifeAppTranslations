@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "Uppdatera till version",
     "CL_CF_FW_update_desc": "Uppdatera från din nuvarande version till version ##",
     "CL_CF_FW_install": "Installera",
-    "CL_CF_FW_select_to_begin": "Välj ## för att börja."
+    "CL_CF_FW_select_to_begin": "Välj ## för att börja.",
+    "CL_CF_FW_update_new_version": "En ny version av programvaran finns tillgänglig.\nDen här uppdateringen inkluderar:",
+    "CL_CF_FW_update_memory_warning": "Den här uppdateringen använder ## minne och påverkar inte enhetens prestanda.\nDET REKOMMENDERAS STARKT ATT UTFÖRA DENNA UPPDATERING.",
+    "CL_DV_WINE_wine_storage": "Vinförvaring",
+    "CL_DV_WINE_favourite_wine": "Favoritvin",
+    "CL_DV_WINE_favourite_wine_desc": "Det verkar som att du lagrar det här vinet mest.",
+    "CL_DV_WINE_monthly_storage_category": "Månadslagringskategori",
+    "CL_DV_WINE_wine_region": "Vinregionen",
+    "CL_DV_WINE_yearly_storage_time": "Årlig lagringstid",
+    "CL_DV_WINE_yearly_drinking_time": "Årlig drickningstid"
 }

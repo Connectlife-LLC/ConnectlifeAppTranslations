@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "Обновить до версии",
     "CL_CF_FW_update_desc": "Обновите с текущей версии до версии ##",
     "CL_CF_FW_install": "Установить",
-    "CL_CF_FW_select_to_begin": "Пожалуйста, выберите ## для начала."
+    "CL_CF_FW_select_to_begin": "Пожалуйста, выберите ## для начала.",
+    "CL_CF_FW_update_new_version": "Доступна новая версия программного обеспечения.\nВ это обновление входит:##",
+    "CL_CF_FW_update_memory_warning": "Это обновление задействует ## памяти и не повлияет на производительность вашего устройства.\nНАСТОЯТЕЛЬНО РЕКОМЕНДУЕТСЯ ВЫПОЛНИТЬ ЭТО ОБНОВЛЕНИЕ.",
+    "CL_DV_WINE_wine_storage": "Хранение вина",
+    "CL_DV_WINE_favourite_wine": "Любимое вино",
+    "CL_DV_WINE_favourite_wine_desc": "Похоже, вы чаще всего храните именно это вино.",
+    "CL_DV_WINE_monthly_storage_category": "Категория ежемесячного хранения",
+    "CL_DV_WINE_wine_region": "Винодельческий регион",
+    "CL_DV_WINE_yearly_storage_time": "Годовой срок хранения",
+    "CL_DV_WINE_yearly_drinking_time": "Годовой период употребления алкоголя"
 }

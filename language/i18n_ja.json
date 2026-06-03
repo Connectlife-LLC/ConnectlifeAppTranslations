@@ -8617,5 +8617,14 @@
     "CL_CF_FW_update_to_version": "バージョンにアップデート",
     "CL_CF_FW_update_desc": "現在のバージョンからバージョン##にアップデートしてください",
     "CL_CF_FW_install": "インストール",
-    "CL_CF_FW_select_to_begin": "開始するには##を選択してください。"
+    "CL_CF_FW_select_to_begin": "開始するには##を選択してください。",
+    "CL_CF_FW_update_new_version": "ソフトウェアの新しいバージョンが利用可能です。\nこのアップデートには以下が含まれます:##",
+    "CL_CF_FW_update_memory_warning": "このアップデートでは##のメモリを使用しますが、アプライアンスのパフォーマンスには影響しません。\nこのアップデートを実行することを強くお勧めします。",
+    "CL_DV_WINE_wine_storage": "ワインの保管",
+    "CL_DV_WINE_favourite_wine": "お気に入りのワイン",
+    "CL_DV_WINE_favourite_wine_desc": "あなたはたいていこのワインを保管しているようですね。",
+    "CL_DV_WINE_monthly_storage_category": "月間ストレージカテゴリ",
+    "CL_DV_WINE_wine_region": "ワイン産地",
+    "CL_DV_WINE_yearly_storage_time": "年間保管期間",
+    "CL_DV_WINE_yearly_drinking_time": "年間飲酒時期"
 }
