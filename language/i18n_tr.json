@@ -8617,5 +8617,15 @@
     "CL_CF_FW_update_to_version": "Sürüme güncelle",
     "CL_CF_FW_update_desc": "Mevcut sürümünüzü ## sürümüne güncelleyin.",
     "CL_CF_FW_install": "Düzenlemek",
-    "CL_CF_FW_select_to_begin": "Başlamak için lütfen ##'yi seçin."
+    "CL_CF_FW_select_to_begin": "Başlamak için lütfen ##'yi seçin.",
+    "CL_CF_FW_update_new_version": "Yazılımın yeni bir sürümü mevcuttur.\nBu güncelleme şunları içeriyor:##",
+    "CL_CF_FW_update_memory_warning": "Bu güncelleme ## bellek kullanacak ve cihazınızın performansını etkilemeyecektir.\nBU GÜNCELLEMEYİ YAPMANIZ ŞİDDETLE TAVSİYE EDİLİR.",
+    "CL_DV_WINE_wine_storage": "Şarap Saklama",
+    "CL_DV_WINE_favourite_wine": "Favori Şarap",
+    "CL_DV_WINE_favourite_wine_desc": "Görünüşe göre bu şarabı çoğunlukla siz saklıyorsunuz.",
+    "CL_DV_WINE_monthly_storage_category": "Aylık depolama kategorisi",
+    "CL_DV_WINE_wine_region": "Şarap Bölgesi",
+    "CL_DV_WINE_yearly_storage_time": "Yıllık depolama süresi",
+    "CL_DV_WINE_yearly_drinking_time": "Yıllık içki içme süresi",
+    "CL_SET_TO": "ayarlandı"
 }

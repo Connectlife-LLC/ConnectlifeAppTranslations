@@ -8617,5 +8617,15 @@
     "CL_CF_FW_update_to_version": "Cập nhật lên phiên bản",
     "CL_CF_FW_update_desc": "Cập nhật từ phiên bản hiện tại lên phiên bản ##",
     "CL_CF_FW_install": "Cài đặt",
-    "CL_CF_FW_select_to_begin": "Vui lòng chọn ## để bắt đầu."
+    "CL_CF_FW_select_to_begin": "Vui lòng chọn ## để bắt đầu.",
+    "CL_CF_FW_update_new_version": "Phiên bản phần mềm mới đã có sẵn.\nBản cập nhật này bao gồm:##",
+    "CL_CF_FW_update_memory_warning": "Bản cập nhật này sẽ sử dụng ## bộ nhớ và sẽ không ảnh hưởng đến hiệu năng của thiết bị.\nCHÚNG TÔI KHUYẾN KHÍCH BẠN NÊN THỰC HIỆN CẬP NHẬT NÀY.",
+    "CL_DV_WINE_wine_storage": "Kho chứa rượu",
+    "CL_DV_WINE_favourite_wine": "Rượu vang yêu thích",
+    "CL_DV_WINE_favourite_wine_desc": "Có vẻ như bạn thường xuyên bảo quản loại rượu này.",
+    "CL_DV_WINE_monthly_storage_category": "Danh mục lưu trữ hàng tháng",
+    "CL_DV_WINE_wine_region": "Vùng rượu vang",
+    "CL_DV_WINE_yearly_storage_time": "Thời gian lưu trữ hàng năm",
+    "CL_DV_WINE_yearly_drinking_time": "Thời gian uống rượu hàng năm",
+    "CL_SET_TO": "đặt thành"
 }

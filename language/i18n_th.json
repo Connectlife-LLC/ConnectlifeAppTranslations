@@ -8617,5 +8617,15 @@
     "CL_CF_FW_update_to_version": "อัปเดตเป็นเวอร์ชัน",
     "CL_CF_FW_update_desc": "อัปเดตจากเวอร์ชันปัจจุบันของคุณเป็นเวอร์ชัน ##",
     "CL_CF_FW_install": "ติดตั้ง",
-    "CL_CF_FW_select_to_begin": "โปรดเลือก ## เพื่อเริ่มต้น"
+    "CL_CF_FW_select_to_begin": "โปรดเลือก ## เพื่อเริ่มต้น",
+    "CL_CF_FW_update_new_version": "ซอฟต์แวร์เวอร์ชันใหม่พร้อมใช้งานแล้ว\nการอัปเดตนี้ประกอบด้วย:##",
+    "CL_CF_FW_update_memory_warning": "การอัปเดตนี้จะใช้หน่วยความจำจำนวน ## และจะไม่ส่งผลกระทบต่อประสิทธิภาพการทำงานของอุปกรณ์ของคุณ\nขอแนะนำอย่างยิ่งให้ทำการอัปเดตนี้",
+    "CL_DV_WINE_wine_storage": "การเก็บรักษาไวน์",
+    "CL_DV_WINE_favourite_wine": "ไวน์โปรด",
+    "CL_DV_WINE_favourite_wine_desc": "ดูเหมือนว่าคุณจะเก็บไวน์นี้ไว้เป็นอย่างดี",
+    "CL_DV_WINE_monthly_storage_category": "หมวดหมู่พื้นที่จัดเก็บข้อมูลรายเดือน",
+    "CL_DV_WINE_wine_region": "ภูมิภาคไวน์",
+    "CL_DV_WINE_yearly_storage_time": "ระยะเวลาเก็บรักษาต่อปี",
+    "CL_DV_WINE_yearly_drinking_time": "ช่วงเวลาดื่มประจำปี",
+    "CL_SET_TO": "ตั้งค่าเป็น"
 }
