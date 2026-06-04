@@ -8617,5 +8617,15 @@
     "CL_CF_FW_update_to_version": "Päivitä versioon",
     "CL_CF_FW_update_desc": "Päivitä nykyisestä versiosta versioon ##",
     "CL_CF_FW_install": "Asentaa",
-    "CL_CF_FW_select_to_begin": "Aloita valitsemalla ##."
+    "CL_CF_FW_select_to_begin": "Aloita valitsemalla ##.",
+    "CL_CF_FW_update_new_version": "Ohjelmistosta on saatavilla uusi versio.\nTämä päivitys sisältää:##",
+    "CL_CF_FW_update_memory_warning": "Tämä päivitys käyttää ## muistia eikä vaikuta laitteesi suorituskykyyn.\nTÄMÄN PÄIVITYKSEN SUORITTAMISTA SUOSITELLAAN VAHVASTI.",
+    "CL_DV_WINE_wine_storage": "Viinin säilytys",
+    "CL_DV_WINE_favourite_wine": "Lempiviini",
+    "CL_DV_WINE_favourite_wine_desc": "Vaikuttaa siltä, ​​että säilytät tätä viiniä eniten.",
+    "CL_DV_WINE_monthly_storage_category": "Kuukausittainen varastointiluokka",
+    "CL_DV_WINE_wine_region": "Viinialue",
+    "CL_DV_WINE_yearly_storage_time": "Vuosittainen säilytysaika",
+    "CL_DV_WINE_yearly_drinking_time": "Vuosittainen juoma-aika",
+    "CL_SET_TO": "asetettu"
 }
