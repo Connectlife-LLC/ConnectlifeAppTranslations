@@ -8617,5 +8617,15 @@
     "CL_CF_FW_update_to_version": "Kemas kini ke versi",
     "CL_CF_FW_update_desc": "Kemas kini daripada versi semasa anda kepada versi ##",
     "CL_CF_FW_install": "Pasang",
-    "CL_CF_FW_select_to_begin": "Sila pilih ## untuk bermula."
+    "CL_CF_FW_select_to_begin": "Sila pilih ## untuk bermula.",
+    "CL_CF_FW_update_new_version": "Versi baharu perisian ini tersedia.\nKemas kini ini merangkumi:##",
+    "CL_CF_FW_update_memory_warning": "Kemas kini ini akan menggunakan ## memori dan tidak akan menjejaskan prestasi perkakas anda.\nADALAH SANGAT DISYORKAN UNTUK MELAKUKAN KEMASKINI INI.",
+    "CL_DV_WINE_wine_storage": "Penyimpanan Wain",
+    "CL_DV_WINE_favourite_wine": "Wain Kegemaran",
+    "CL_DV_WINE_favourite_wine_desc": "Nampaknya awak yang paling banyak menyimpan wain ini.",
+    "CL_DV_WINE_monthly_storage_category": "Kategori storan bulanan",
+    "CL_DV_WINE_wine_region": "Wilayah Wain",
+    "CL_DV_WINE_yearly_storage_time": "Masa penyimpanan tahunan",
+    "CL_DV_WINE_yearly_drinking_time": "Masa minum tahunan",
+    "CL_SET_TO": "ditetapkan kepada"
 }
