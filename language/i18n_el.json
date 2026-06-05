@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Πώς να ενεργοποιήσετε την απομακρυσμένη εκκίνηση\nτο πλυντήριο ρούχων;",
     "other_homeloads": "Άλλα οικιακά φορτία",
     "CL_AI_manuals_entry_eg1": "Πώς καθαρίζω το φίλτρο;",
-    "CL_AI_manuals_entry_eg2": "Τι είναι το σφάλμα E15;",
     "CL_CF_solar_power": "Ηλιακή ενέργεια",
     "CL_CF_smart_scheduler": "Έξυπνος προγραμματιστής",
     "CL_CM_Features_ConnectLife": "Νέες δυνατότητες του ConnectLife",
@@ -8627,5 +8626,7 @@
     "CL_DV_WINE_wine_region": "Οινοπαραγωγική Περιοχή",
     "CL_DV_WINE_yearly_storage_time": "Ετήσιος χρόνος αποθήκευσης",
     "CL_DV_WINE_yearly_drinking_time": "Ετήσιος χρόνος κατανάλωσης",
-    "CL_SET_TO": "στρώνομαι στη δουλειά"
+    "CL_SET_TO": "στρώνομαι στη δουλειά",
+    "CL_CF_HP_Add_explore": "Προσθήκη Εξερεύνησης",
+    "CL_DV_RF_usage_statistic_degrees": "βαθμούς"
 }

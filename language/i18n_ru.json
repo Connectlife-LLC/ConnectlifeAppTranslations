@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Как включить дистанционный запуск двигателя\nстиральная машина?",
     "other_homeloads": "Другие домашние нагрузки",
     "CL_AI_manuals_entry_eg1": "Как почистить фильтр?",
-    "CL_AI_manuals_entry_eg2": "Что означает ошибка E15?",
     "CL_CF_solar_power": "выработка солнечной энергии",
     "CL_CF_smart_scheduler": "Интеллектуальный планировщик",
     "CL_CM_Features_ConnectLife": "Новые возможности ConnectLife",
@@ -8627,5 +8626,7 @@
     "CL_DV_WINE_wine_region": "Винодельческий регион",
     "CL_DV_WINE_yearly_storage_time": "Годовой срок хранения",
     "CL_DV_WINE_yearly_drinking_time": "Годовой период употребления алкоголя",
-    "CL_SET_TO": "установить на"
+    "CL_SET_TO": "установить на",
+    "CL_CF_HP_Add_explore": "Добавить в раздел «Исследовать»",
+    "CL_DV_RF_usage_statistic_degrees": "градусы"
 }

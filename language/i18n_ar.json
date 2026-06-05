@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "كيفية تفعيل التشغيل عن بُعد\nالغسالة؟",
     "other_homeloads": "تحميلات منزلية أخرى",
     "CL_AI_manuals_entry_eg1": "كيف أنظف الفلتر؟",
-    "CL_AI_manuals_entry_eg2": "ما هو الخطأ E15؟",
     "CL_CF_solar_power": "إنتاج الطاقة الشمسية",
     "CL_CF_smart_scheduler": "جدولة ذكية",
     "CL_CM_Features_ConnectLife": "الميزات الجديدة لـ ConnectLife",
@@ -8627,5 +8626,7 @@
     "CL_DV_WINE_wine_region": "منطقة النبيذ",
     "CL_DV_WINE_yearly_storage_time": "مدة التخزين السنوية",
     "CL_DV_WINE_yearly_drinking_time": "وقت الشرب السنوي",
-    "CL_SET_TO": "تم ضبطه على"
+    "CL_SET_TO": "تم ضبطه على",
+    "CL_CF_HP_Add_explore": "أضف استكشف",
+    "CL_DV_RF_usage_statistic_degrees": "الدرجات العلمية"
 }

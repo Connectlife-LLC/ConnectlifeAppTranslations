@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Як увімкнути віддалений запуск\nпральна машина?",
     "other_homeloads": "Інші домашні навантаження",
     "CL_AI_manuals_entry_eg1": "Як почистити фільтр?",
-    "CL_AI_manuals_entry_eg2": "Що таке помилка E15?",
     "CL_CF_solar_power": "Вихідна сонячна енергія",
     "CL_CF_smart_scheduler": "Розумний планувальник",
     "CL_CM_Features_ConnectLife": "Нові можливості ConnectLife",
@@ -8627,5 +8626,7 @@
     "CL_DV_WINE_wine_region": "Винний регіон",
     "CL_DV_WINE_yearly_storage_time": "Річний термін зберігання",
     "CL_DV_WINE_yearly_drinking_time": "Річний час вживання алкоголю",
-    "CL_SET_TO": "встановлено на"
+    "CL_SET_TO": "встановлено на",
+    "CL_CF_HP_Add_explore": "Додати Огляд",
+    "CL_DV_RF_usage_statistic_degrees": "ступені"
 }

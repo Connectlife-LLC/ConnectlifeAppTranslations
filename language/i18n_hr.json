@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Kako omogućiti daljinsko pokretanje\nperilica rublja?",
     "other_homeloads": "Ostali kućni tereti",
     "CL_AI_manuals_entry_eg1": "Kako da očistim filter?",
-    "CL_AI_manuals_entry_eg2": "Što je greška E15?",
     "CL_CF_solar_power": "Izlazna solarna energija",
     "CL_CF_smart_scheduler": "Pametni planer",
     "CL_CM_Features_ConnectLife": "Nove značajke ConnectLifea",
@@ -8627,5 +8626,7 @@
     "CL_DV_WINE_wine_region": "Vinska regija",
     "CL_DV_WINE_yearly_storage_time": "Godišnje vrijeme skladištenja",
     "CL_DV_WINE_yearly_drinking_time": "Godišnje vrijeme pijenja",
-    "CL_SET_TO": "postavljeno na"
+    "CL_SET_TO": "postavljeno na",
+    "CL_CF_HP_Add_explore": "Dodaj istraživanje",
+    "CL_DV_RF_usage_statistic_degrees": "stupnjevi"
 }

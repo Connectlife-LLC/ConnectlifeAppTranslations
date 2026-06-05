@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "如何啟用遠端啟動\n洗衣機？",
     "other_homeloads": "其他家庭負荷",
     "CL_AI_manuals_entry_eg1": "如何清洗過濾器？",
-    "CL_AI_manuals_entry_eg2": "什麼是錯誤代碼E15？",
     "CL_CF_solar_power": "太陽能發電量",
     "CL_CF_smart_scheduler": "智慧日程安排器",
     "CL_CM_Features_ConnectLife": "ConnectLife 的新功能",
@@ -8627,5 +8626,7 @@
     "CL_DV_WINE_wine_region": "葡萄酒產區",
     "CL_DV_WINE_yearly_storage_time": "年度儲存時間",
     "CL_DV_WINE_yearly_drinking_time": "年度飲酒時間",
-    "CL_SET_TO": "設定為"
+    "CL_SET_TO": "設定為",
+    "CL_CF_HP_Add_explore": "添加探索",
+    "CL_DV_RF_usage_statistic_degrees": "學位"
 }

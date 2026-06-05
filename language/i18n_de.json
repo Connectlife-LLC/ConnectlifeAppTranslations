@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Wie man den Fernstart aktiviert\ndie Waschmaschine?",
     "other_homeloads": "Andere Heimlasten",
     "CL_AI_manuals_entry_eg1": "Wie reinige ich den Filter?",
-    "CL_AI_manuals_entry_eg2": "Was bedeutet Fehler E15?",
     "CL_CF_solar_power": "Solarstromerzeugung",
     "CL_CF_smart_scheduler": "Intelligenter Terminplaner",
     "CL_CM_Features_ConnectLife": "Neue Funktionen von ConnectLife",
@@ -8627,5 +8626,7 @@
     "CL_DV_WINE_wine_region": "Weinregion",
     "CL_DV_WINE_yearly_storage_time": "Jährliche Lagerzeit",
     "CL_DV_WINE_yearly_drinking_time": "Jährliche Trinkzeit",
-    "CL_SET_TO": "eingestellt auf"
+    "CL_SET_TO": "eingestellt auf",
+    "CL_CF_HP_Add_explore": "Erkunden hinzufügen",
+    "CL_DV_RF_usage_statistic_degrees": "Abschlüsse"
 }

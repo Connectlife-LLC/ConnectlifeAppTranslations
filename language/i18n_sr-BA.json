@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Како омогућити даљинско покретање\nмашина за прање веша?",
     "other_homeloads": "Остали кућни терет",
     "CL_AI_manuals_entry_eg1": "Како да очистим филтер?",
-    "CL_AI_manuals_entry_eg2": "Шта је грешка Е15?",
     "CL_CF_solar_power": "Излаз соларне енергије",
     "CL_CF_smart_scheduler": "Паметни распоред",
     "CL_CM_Features_ConnectLife": "Нове функције ConnectLife-а",
@@ -8617,5 +8616,17 @@
     "CL_CF_FW_update_to_version": "Ажурирај на верзију",
     "CL_CF_FW_update_desc": "Ажурирајте са ваше тренутне верзије на верзију ##",
     "CL_CF_FW_install": "Инсталирај",
-    "CL_CF_FW_select_to_begin": "Молимо вас да изаберете ## да бисте почели."
+    "CL_CF_FW_select_to_begin": "Молимо вас да изаберете ## да бисте почели.",
+    "CL_CF_FW_update_new_version": "Доступна је нова верзија софтвера.\nОво ажурирање укључује:##",
+    "CL_CF_FW_update_memory_warning": "Ово ажурирање ће користити ## меморије и неће утицати на перформансе вашег уређаја.\nТОПЛО СЕ ПРЕПОРУЧУЈЕ ДА ИЗВРШИТЕ ОВО АЖУРИРАЊЕ.",
+    "CL_DV_WINE_wine_storage": "Складиштење вина",
+    "CL_DV_WINE_favourite_wine": "Омиљено вино",
+    "CL_DV_WINE_favourite_wine_desc": "Изгледа да ово вино највише чуваш.",
+    "CL_DV_WINE_monthly_storage_category": "Категорија месечног складиштења",
+    "CL_DV_WINE_wine_region": "Вински регион",
+    "CL_DV_WINE_yearly_storage_time": "Годишње време складиштења",
+    "CL_DV_WINE_yearly_drinking_time": "Годишње време пијења",
+    "CL_SET_TO": "подешен на",
+    "CL_CF_HP_Add_explore": "Додај Истражи",
+    "CL_DV_RF_usage_statistic_degrees": "степени"
 }

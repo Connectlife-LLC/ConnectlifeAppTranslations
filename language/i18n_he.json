@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "כיצד להפעיל הפעלה מרחוק\nמכונת הכביסה?",
     "other_homeloads": "עומסים ביתיים אחרים",
     "CL_AI_manuals_entry_eg1": "איך אני מנקה את הפילטר?",
-    "CL_AI_manuals_entry_eg2": "מהי שגיאה E15?",
     "CL_CF_solar_power": "תפוקת אנרגיה סולארית",
     "CL_CF_smart_scheduler": "מתזמן חכם",
     "CL_CM_Features_ConnectLife": "תכונות חדשות של ConnectLife",
@@ -8627,5 +8626,7 @@
     "CL_DV_WINE_wine_region": "אזור היין",
     "CL_DV_WINE_yearly_storage_time": "זמן אחסון שנתי",
     "CL_DV_WINE_yearly_drinking_time": "זמן שתייה שנתי",
-    "CL_SET_TO": "מוגדר ל"
+    "CL_SET_TO": "מוגדר ל",
+    "CL_CF_HP_Add_explore": "הוסף גילוי",
+    "CL_DV_RF_usage_statistic_degrees": "מעלות"
 }

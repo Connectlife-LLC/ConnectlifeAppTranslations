@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "How to enable remote start on\nthe washing machine?",
     "other_homeloads": "Other homeloads",
     "CL_AI_manuals_entry_eg1": "How do I clean the filter?",
-    "CL_AI_manuals_entry_eg2": "What is error E15?",
     "CL_CF_solar_power": "Solar power output",
     "CL_CF_smart_scheduler": "Smart scheduler",
     "CL_CM_Features_ConnectLife": "New Features of ConnectLife",
@@ -8627,5 +8626,7 @@
     "CL_DV_WINE_wine_region": "Wine Region",
     "CL_DV_WINE_yearly_storage_time": "Yearly storage time",
     "CL_DV_WINE_yearly_drinking_time": "Yearly drinking time",
-    "CL_SET_TO": "set to"
+    "CL_SET_TO": "set to",
+    "CL_CF_HP_Add_explore": "Add Explore",
+    "CL_DV_RF_usage_statistic_degrees": "degrees"
 }
