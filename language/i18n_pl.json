@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Jak włączyć zdalne uruchamianie\npralka?",
     "other_homeloads": "Inne ładunki domowe",
     "CL_AI_manuals_entry_eg1": "Jak wyczyścić filtr?",
-    "CL_AI_manuals_entry_eg2": "Czym jest błąd E15?",
     "CL_CF_solar_power": "Moc wyjściowa energii słonecznej",
     "CL_CF_smart_scheduler": "Inteligentny harmonogram",
     "CL_CM_Features_ConnectLife": "Nowe funkcje ConnectLife",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Region winiarski",
     "CL_DV_WINE_yearly_storage_time": "Roczny czas przechowywania",
     "CL_DV_WINE_yearly_drinking_time": "Roczny czas picia",
-    "CL_SET_TO": "zabierać się do pracy"
+    "CL_SET_TO": "zabierać się do pracy",
+    "CL_CF_HP_Add_explore": "Dodaj Eksploruj"
 }

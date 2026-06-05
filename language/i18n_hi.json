@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "रिमोट स्टार्ट को कैसे सक्षम करें\nवाशिंग मशीन?",
     "other_homeloads": "अन्य होमलोड",
     "CL_AI_manuals_entry_eg1": "मैं फिल्टर को कैसे साफ करूं?",
-    "CL_AI_manuals_entry_eg2": "त्रुटि E15 क्या है?",
     "CL_CF_solar_power": "सौर ऊर्जा उत्पादन",
     "CL_CF_smart_scheduler": "स्मार्ट शेड्यूलर",
     "CL_CM_Features_ConnectLife": "कनेक्टलाइफ की नई विशेषताएं",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "वाइन क्षेत्र",
     "CL_DV_WINE_yearly_storage_time": "वार्षिक भंडारण समय",
     "CL_DV_WINE_yearly_drinking_time": "वार्षिक पीने का समय",
-    "CL_SET_TO": "करने के लिए सेट"
+    "CL_SET_TO": "करने के लिए सेट",
+    "CL_CF_HP_Add_explore": "एक्सप्लोर जोड़ें"
 }

@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Ako povoliť diaľkové spustenie\npráčka?",
     "other_homeloads": "Ostatné domáce záťaže",
     "CL_AI_manuals_entry_eg1": "Ako mám vyčistiť filter?",
-    "CL_AI_manuals_entry_eg2": "Čo je chyba E15?",
     "CL_CF_solar_power": "Výkon solárnej energie",
     "CL_CF_smart_scheduler": "Inteligentný plánovač",
     "CL_CM_Features_ConnectLife": "Nové funkcie ConnectLife",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Vinárska oblasť",
     "CL_DV_WINE_yearly_storage_time": "Ročná doba skladovania",
     "CL_DV_WINE_yearly_drinking_time": "Ročný čas pitia",
-    "CL_SET_TO": "nastavené na"
+    "CL_SET_TO": "nastavené na",
+    "CL_CF_HP_Add_explore": "Pridať Preskúmať"
 }

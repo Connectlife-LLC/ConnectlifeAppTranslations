@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Hoe schakel ik starten op afstand in?\nde wasmachine?",
     "other_homeloads": "Andere thuisbezorgingen",
     "CL_AI_manuals_entry_eg1": "Hoe maak ik het filter schoon?",
-    "CL_AI_manuals_entry_eg2": "Wat is foutcode E15?",
     "CL_CF_solar_power": "Zonne-energieopbrengst",
     "CL_CF_smart_scheduler": "Slimme planner",
     "CL_CM_Features_ConnectLife": "Nieuwe functies van ConnectLife",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Wijnregio",
     "CL_DV_WINE_yearly_storage_time": "Jaarlijkse opslagtijd",
     "CL_DV_WINE_yearly_drinking_time": "Jaarlijkse drinktijd",
-    "CL_SET_TO": "ingesteld op"
+    "CL_SET_TO": "ingesteld op",
+    "CL_CF_HP_Add_explore": "Toevoegen Verkennen"
 }

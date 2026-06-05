@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Comment activer le démarrage à distance sur\nla machine à laver ?",
     "other_homeloads": "Autres charges à domicile",
     "CL_AI_manuals_entry_eg1": "Comment nettoyer le filtre ?",
-    "CL_AI_manuals_entry_eg2": "Qu'est-ce que l'erreur E15 ?",
     "CL_CF_solar_power": "production d'énergie solaire",
     "CL_CF_smart_scheduler": "planificateur intelligent",
     "CL_CM_Features_ConnectLife": "Nouvelles fonctionnalités de ConnectLife",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Région viticole",
     "CL_DV_WINE_yearly_storage_time": "Durée de stockage annuelle",
     "CL_DV_WINE_yearly_drinking_time": "Temps de consommation annuel",
-    "CL_SET_TO": "défini à"
+    "CL_SET_TO": "défini à",
+    "CL_CF_HP_Add_explore": "Ajouter Explorer"
 }

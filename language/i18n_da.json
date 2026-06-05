@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Sådan aktiverer du fjernstart\nvaskemaskinen?",
     "other_homeloads": "Andre hjemmelaster",
     "CL_AI_manuals_entry_eg1": "Hvordan rengør jeg filteret?",
-    "CL_AI_manuals_entry_eg2": "Hvad er fejl E15?",
     "CL_CF_solar_power": "Solenergiproduktion",
     "CL_CF_smart_scheduler": "Smart planlægningsprogram",
     "CL_CM_Features_ConnectLife": "Nye funktioner i ConnectLife",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Vinregion",
     "CL_DV_WINE_yearly_storage_time": "Årlig opbevaringstid",
     "CL_DV_WINE_yearly_drinking_time": "Årlig drikketid",
-    "CL_SET_TO": "indstillet til"
+    "CL_SET_TO": "indstillet til",
+    "CL_CF_HP_Add_explore": "Tilføj Udforsk"
 }

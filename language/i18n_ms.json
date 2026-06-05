@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Cara mengaktifkan permulaan jauh\nmesin basuh itu?",
     "other_homeloads": "Beban kerja rumah yang lain",
     "CL_AI_manuals_entry_eg1": "Bagaimanakah saya membersihkan penapis?",
-    "CL_AI_manuals_entry_eg2": "Apakah ralat E15?",
     "CL_CF_solar_power": "Output kuasa solar",
     "CL_CF_smart_scheduler": "Penjadual pintar",
     "CL_CM_Features_ConnectLife": "Ciri-ciri Baharu ConnectLife",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Wilayah Wain",
     "CL_DV_WINE_yearly_storage_time": "Masa penyimpanan tahunan",
     "CL_DV_WINE_yearly_drinking_time": "Masa minum tahunan",
-    "CL_SET_TO": "ditetapkan kepada"
+    "CL_SET_TO": "ditetapkan kepada",
+    "CL_CF_HP_Add_explore": "Tambah Terokai"
 }

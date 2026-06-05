@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Hogyan engedélyezhető a távoli indítás\na mosógép?",
     "other_homeloads": "Egyéb hazarakodások",
     "CL_AI_manuals_entry_eg1": "Hogyan tisztítsam meg a szűrőt?",
-    "CL_AI_manuals_entry_eg2": "Mi az E15 hiba?",
     "CL_CF_solar_power": "Napenergia-kimenet",
     "CL_CF_smart_scheduler": "Intelligens ütemező",
     "CL_CM_Features_ConnectLife": "A ConnectLife új funkciói",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Borvidék",
     "CL_DV_WINE_yearly_storage_time": "Éves tárolási idő",
     "CL_DV_WINE_yearly_drinking_time": "Éves ivási idő",
-    "CL_SET_TO": "beállítva"
+    "CL_SET_TO": "beállítva",
+    "CL_CF_HP_Add_explore": "Felfedezés hozzáadása"
 }

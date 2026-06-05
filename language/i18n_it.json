@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Come abilitare l'avvio remoto su\nla lavatrice?",
     "other_homeloads": "Altri carichi domestici",
     "CL_AI_manuals_entry_eg1": "Come si pulisce il filtro?",
-    "CL_AI_manuals_entry_eg2": "Cos'è l'errore E15?",
     "CL_CF_solar_power": "Produzione di energia solare",
     "CL_CF_smart_scheduler": "Pianificatore intelligente",
     "CL_CM_Features_ConnectLife": "Nuove funzionalità di ConnectLife",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Regione vinicola",
     "CL_DV_WINE_yearly_storage_time": "Tempo di conservazione annuale",
     "CL_DV_WINE_yearly_drinking_time": "Tempo di consumo annuo",
-    "CL_SET_TO": "impostato su"
+    "CL_SET_TO": "impostato su",
+    "CL_CF_HP_Add_explore": "Aggiungi Esplora"
 }

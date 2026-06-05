@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "リモートスタートを有効にする方法\n洗濯機？",
     "other_homeloads": "その他の帰宅荷物",
     "CL_AI_manuals_entry_eg1": "フィルターの掃除方法を教えてください。",
-    "CL_AI_manuals_entry_eg2": "エラーE15とは何ですか？",
     "CL_CF_solar_power": "太陽光発電出力",
     "CL_CF_smart_scheduler": "スマートスケジューラー",
     "CL_CM_Features_ConnectLife": "ConnectLifeの新機能",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "ワイン産地",
     "CL_DV_WINE_yearly_storage_time": "年間保管期間",
     "CL_DV_WINE_yearly_drinking_time": "年間飲酒時期",
-    "CL_SET_TO": "設定"
+    "CL_SET_TO": "設定",
+    "CL_CF_HP_Add_explore": "追加する 探索する"
 }

@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Kako omogočiti oddaljeni zagon\npralni stroj?",
     "other_homeloads": "Drugi domači tovori",
     "CL_AI_manuals_entry_eg1": "Kako očistim filter?",
-    "CL_AI_manuals_entry_eg2": "Kaj je napaka E15?",
     "CL_CF_solar_power": "Izhodna sončna energija",
     "CL_CF_smart_scheduler": "Pametni razporejevalnik",
     "CL_CM_Features_ConnectLife": "Nove funkcije ConnectLife",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Vinska regija",
     "CL_DV_WINE_yearly_storage_time": "Letni čas skladiščenja",
     "CL_DV_WINE_yearly_drinking_time": "Letni čas pitja",
-    "CL_SET_TO": "nastavljeno na"
+    "CL_SET_TO": "nastavljeno na",
+    "CL_CF_HP_Add_explore": "Dodaj Razišči"
 }

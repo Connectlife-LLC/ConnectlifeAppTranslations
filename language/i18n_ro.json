@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Cum se activează pornirea de la distanță pe\nmașina de spălat?",
     "other_homeloads": "Alte încărcături la domiciliu",
     "CL_AI_manuals_entry_eg1": "Cum curăț filtrul?",
-    "CL_AI_manuals_entry_eg2": "Ce este eroarea E15?",
     "CL_CF_solar_power": "Producție de energie solară",
     "CL_CF_smart_scheduler": "Planificator inteligent",
     "CL_CM_Features_ConnectLife": "Noi caracteristici ale ConnectLife",
@@ -8627,5 +8626,6 @@
     "CL_DV_WINE_wine_region": "Regiunea viticolă",
     "CL_DV_WINE_yearly_storage_time": "Timp de depozitare anual",
     "CL_DV_WINE_yearly_drinking_time": "Timp de băut anual",
-    "CL_SET_TO": "setat la"
+    "CL_SET_TO": "setat la",
+    "CL_CF_HP_Add_explore": "Adaugă Explorează"
 }
