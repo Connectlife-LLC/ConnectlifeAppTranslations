@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Қашықтан іске қосуды қалай қосуға болады\nкір жуғыш машина?",
     "other_homeloads": "Басқа үй тапсырмалары",
     "CL_AI_manuals_entry_eg1": "Сүзгіні қалай тазалаймын?",
-    "CL_AI_manuals_entry_eg2": "E15 қатесі дегеніміз не?",
     "CL_CF_solar_power": "Күн энергиясының шығысы",
     "CL_CF_smart_scheduler": "Ақылды жоспарлағыш",
     "CL_CM_Features_ConnectLife": "ConnectLife жаңа мүмкіндіктері",
@@ -8627,5 +8626,9 @@
     "CL_DV_WINE_wine_region": "Шарап аймағы",
     "CL_DV_WINE_yearly_storage_time": "Жылдық сақтау уақыты",
     "CL_DV_WINE_yearly_drinking_time": "Жылдық ішімдік ішу уақыты",
-    "CL_SET_TO": "орнатылған"
+    "CL_SET_TO": "орнатылған",
+    "CL_CF_HP_Add_explore": "Зерттеуді қосу",
+    "CL_DV_RF_usage_statistic_degrees": "дәрежелер",
+    "CL_DV_HIH_firmware_upgrade": "Жаңа жаңарту қолжетімді",
+    "CL_DV_HIH_firmware_upgrade_installing": "Жаңарту орнатылуда..."
 }

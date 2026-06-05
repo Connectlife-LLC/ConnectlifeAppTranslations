@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "원격 시동을 활성화하는 방법\n세탁기 말인가요?",
     "other_homeloads": "기타 홈로드",
     "CL_AI_manuals_entry_eg1": "필터는 어떻게 청소하나요?",
-    "CL_AI_manuals_entry_eg2": "오류 코드 E15는 무엇인가요?",
     "CL_CF_solar_power": "태양광 발전량",
     "CL_CF_smart_scheduler": "스마트 스케줄러",
     "CL_CM_Features_ConnectLife": "커넥트라이프의 새로운 기능",
@@ -8627,5 +8626,9 @@
     "CL_DV_WINE_wine_region": "와인 산지",
     "CL_DV_WINE_yearly_storage_time": "연간 보관 기간",
     "CL_DV_WINE_yearly_drinking_time": "매년 음주 시간",
-    "CL_SET_TO": "설정됨"
+    "CL_SET_TO": "설정됨",
+    "CL_CF_HP_Add_explore": "탐색 추가",
+    "CL_DV_RF_usage_statistic_degrees": "학위",
+    "CL_DV_HIH_firmware_upgrade": "새로운 업데이트가 있습니다",
+    "CL_DV_HIH_firmware_upgrade_installing": "업데이트 설치 중..."
 }

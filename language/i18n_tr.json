@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Uzaktan başlatmayı nasıl etkinleştiririm?\nÇamaşır makinesi mi?",
     "other_homeloads": "Diğer ev yükleri",
     "CL_AI_manuals_entry_eg1": "Filtreyi nasıl temizlerim?",
-    "CL_AI_manuals_entry_eg2": "E15 hatası nedir?",
     "CL_CF_solar_power": "Güneş enerjisi üretimi",
     "CL_CF_smart_scheduler": "Akıllı zamanlayıcı",
     "CL_CM_Features_ConnectLife": "ConnectLife'ın Yeni Özellikleri",
@@ -8627,5 +8626,9 @@
     "CL_DV_WINE_wine_region": "Şarap Bölgesi",
     "CL_DV_WINE_yearly_storage_time": "Yıllık depolama süresi",
     "CL_DV_WINE_yearly_drinking_time": "Yıllık içki içme süresi",
-    "CL_SET_TO": "ayarlandı"
+    "CL_SET_TO": "ayarlandı",
+    "CL_CF_HP_Add_explore": "Ekle Keşfet",
+    "CL_DV_RF_usage_statistic_degrees": "dereceler",
+    "CL_DV_HIH_firmware_upgrade": "Yeni güncelleme mevcut.",
+    "CL_DV_HIH_firmware_upgrade_installing": "Güncelleme yükleniyor..."
 }

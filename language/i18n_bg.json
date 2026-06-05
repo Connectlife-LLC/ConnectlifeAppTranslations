@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Как да активирате дистанционно стартиране\nпералнята?",
     "other_homeloads": "Други домашни товари",
     "CL_AI_manuals_entry_eg1": "Как да почистя филтъра?",
-    "CL_AI_manuals_entry_eg2": "Какво е грешка E15?",
     "CL_CF_solar_power": "Слънчева мощност",
     "CL_CF_smart_scheduler": "Интелигентен планировчик",
     "CL_CM_Features_ConnectLife": "Нови функции на ConnectLife",
@@ -8627,5 +8626,9 @@
     "CL_DV_WINE_wine_region": "Винен регион",
     "CL_DV_WINE_yearly_storage_time": "Годишно време за съхранение",
     "CL_DV_WINE_yearly_drinking_time": "Годишно време за пиене",
-    "CL_SET_TO": "настроен на"
+    "CL_SET_TO": "настроен на",
+    "CL_CF_HP_Add_explore": "Добавяне на „Разглеждане“",
+    "CL_DV_RF_usage_statistic_degrees": "степени",
+    "CL_DV_HIH_firmware_upgrade": "Налична е нова актуализация",
+    "CL_DV_HIH_firmware_upgrade_installing": "Инсталиране на актуализацията..."
 }

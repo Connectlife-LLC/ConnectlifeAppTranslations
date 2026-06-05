@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "نحوه فعال کردن روشن کردن از راه دور\nماشین لباسشویی؟",
     "other_homeloads": "سایر بارهای خانگی",
     "CL_AI_manuals_entry_eg1": "چطور فیلتر را تمیز کنم؟",
-    "CL_AI_manuals_entry_eg2": "خطای E15 چیست؟",
     "CL_CF_solar_power": "خروجی انرژی خورشیدی",
     "CL_CF_smart_scheduler": "برنامه‌ریز هوشمند",
     "CL_CM_Features_ConnectLife": "ویژگی‌های جدید ConnectLife",
@@ -8627,5 +8626,9 @@
     "CL_DV_WINE_wine_region": "منطقه شراب",
     "CL_DV_WINE_yearly_storage_time": "زمان نگهداری سالانه",
     "CL_DV_WINE_yearly_drinking_time": "زمان نوشیدن سالانه",
-    "CL_SET_TO": "تنظیم شده برای"
+    "CL_SET_TO": "تنظیم شده برای",
+    "CL_CF_HP_Add_explore": "افزودن کاوش",
+    "CL_DV_RF_usage_statistic_degrees": "درجه",
+    "CL_DV_HIH_firmware_upgrade": "آپدیت جدید موجود شد",
+    "CL_DV_HIH_firmware_upgrade_installing": "نصب به‌روزرسانی..."
 }

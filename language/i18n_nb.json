@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Slik aktiverer du fjernstart\nvaskemaskinen?",
     "other_homeloads": "Andre hjemmelaster",
     "CL_AI_manuals_entry_eg1": "Hvordan rengjør jeg filteret?",
-    "CL_AI_manuals_entry_eg2": "Hva er feil E15?",
     "CL_CF_solar_power": "Solenergiproduksjon",
     "CL_CF_smart_scheduler": "Smart planlegger",
     "CL_CM_Features_ConnectLife": "Nye funksjoner i ConnectLife",
@@ -8627,5 +8626,9 @@
     "CL_DV_WINE_wine_region": "Vinregionen",
     "CL_DV_WINE_yearly_storage_time": "Årlig lagringstid",
     "CL_DV_WINE_yearly_drinking_time": "Årlig drikketid",
-    "CL_SET_TO": "satt til"
+    "CL_SET_TO": "satt til",
+    "CL_CF_HP_Add_explore": "Legg til Utforsk",
+    "CL_DV_RF_usage_statistic_degrees": "grader",
+    "CL_DV_HIH_firmware_upgrade": "Ny oppdatering tilgjengelig",
+    "CL_DV_HIH_firmware_upgrade_installing": "Installerer oppdateringen..."
 }

@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Kuinka ottaa etäkäynnistys käyttöön\npesukone?",
     "other_homeloads": "Muut kotiutukset",
     "CL_AI_manuals_entry_eg1": "Miten puhdistan suodattimen?",
-    "CL_AI_manuals_entry_eg2": "Mikä on virhe E15?",
     "CL_CF_solar_power": "Aurinkoenergian tuotto",
     "CL_CF_smart_scheduler": "Älykäs ajastin",
     "CL_CM_Features_ConnectLife": "ConnectLifen uudet ominaisuudet",
@@ -8627,5 +8626,9 @@
     "CL_DV_WINE_wine_region": "Viinialue",
     "CL_DV_WINE_yearly_storage_time": "Vuosittainen säilytysaika",
     "CL_DV_WINE_yearly_drinking_time": "Vuosittainen juoma-aika",
-    "CL_SET_TO": "asetettu"
+    "CL_SET_TO": "asetettu",
+    "CL_CF_HP_Add_explore": "Lisää Tutki",
+    "CL_DV_RF_usage_statistic_degrees": "astetta",
+    "CL_DV_HIH_firmware_upgrade": "Uusi päivitys saatavilla",
+    "CL_DV_HIH_firmware_upgrade_installing": "Päivitystä asennetaan..."
 }

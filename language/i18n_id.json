@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Cara mengaktifkan start jarak jauh pada\nMesin cuci?",
     "other_homeloads": "Muatan rumahan lainnya",
     "CL_AI_manuals_entry_eg1": "Bagaimana cara membersihkan filternya?",
-    "CL_AI_manuals_entry_eg2": "Apa itu error E15?",
     "CL_CF_solar_power": "Keluaran energi surya",
     "CL_CF_smart_scheduler": "Penjadwal pintar",
     "CL_CM_Features_ConnectLife": "Fitur Baru ConnectLife",
@@ -8627,5 +8626,9 @@
     "CL_DV_WINE_wine_region": "Wilayah Anggur",
     "CL_DV_WINE_yearly_storage_time": "Waktu penyimpanan tahunan",
     "CL_DV_WINE_yearly_drinking_time": "Waktu minum tahunan",
-    "CL_SET_TO": "diatur ke"
+    "CL_SET_TO": "diatur ke",
+    "CL_CF_HP_Add_explore": "Tambahkan Jelajahi",
+    "CL_DV_RF_usage_statistic_degrees": "derajat",
+    "CL_DV_HIH_firmware_upgrade": "Pembaruan baru tersedia",
+    "CL_DV_HIH_firmware_upgrade_installing": "Menginstal pembaruan..."
 }
