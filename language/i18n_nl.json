@@ -7549,7 +7549,7 @@
     "CL_login_set_password_error1": "De twee keer ingevoerde wachtwoorden zijn inconsistent.",
     "CL_CF_CS_hob_hi_billhlevel1_25_p_4": "Tik op het wifi-pictogram om te bevestigen. \n \n Daarna kunt u doorgaan in de app door op de onderstaande knop VOLGENDE te tikken.",
     "CL_DISH_DESIGNER_cook_mode": "Kookmodus",
-    "CL_DISH_DESIGNER_cook_mode_tips": "Voorkomt dat je scherm donker wordt.",
+    "CL_DISH_DESIGNER_cook_mode_tips": "Je scherm blijft aan terwijl je kookt",
     "CL_CF_energy_always_on_eco_tip2": "Het apparaat zal onder verschillende omstandigheden in de Eco-modus werken:",
     "CL_CF_energy_always_on_eco_tip_always_eco": "Schakelt direct over naar de Eco-modus zodra het apparaat wordt ingeschakeld.",
     "CL_CF_energy_always_on_eco_tip_peak_hour_eco": "Schakelt automatisch over naar de Eco-modus wanneer het apparaat wordt ingeschakeld tijdens uren met hoge elektriciteitstarieven.",
@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Hoe schakel ik starten op afstand in?\nde wasmachine?",
     "other_homeloads": "Andere thuisbezorgingen",
     "CL_AI_manuals_entry_eg1": "Hoe maak ik het filter schoon?",
-    "CL_AI_manuals_entry_eg2": "Wat is foutcode E15?",
     "CL_CF_solar_power": "Zonne-energieopbrengst",
     "CL_CF_smart_scheduler": "Slimme planner",
     "CL_CM_Features_ConnectLife": "Nieuwe functies van ConnectLife",
@@ -8627,5 +8626,10 @@
     "CL_DV_WINE_wine_region": "Wijnregio",
     "CL_DV_WINE_yearly_storage_time": "Jaarlijkse opslagtijd",
     "CL_DV_WINE_yearly_drinking_time": "Jaarlijkse drinktijd",
-    "CL_SET_TO": "ingesteld op"
+    "CL_SET_TO": "ingesteld op",
+    "CL_CF_HP_Add_explore": "Toevoegen Verkennen",
+    "CL_DV_RF_usage_statistic_degrees": "graden",
+    "CL_DV_HIH_firmware_upgrade": "Nieuwe update beschikbaar",
+    "CL_DV_HIH_firmware_upgrade_installing": "De update installeren...",
+    "CL_data_request_form_2": "GEGEVENSAANVRAAGFORMULIER"
 }

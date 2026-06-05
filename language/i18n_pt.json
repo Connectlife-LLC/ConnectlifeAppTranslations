@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Como habilitar a inicialização remota em\nA máquina de lavar roupa?",
     "other_homeloads": "Outras cargas domésticas",
     "CL_AI_manuals_entry_eg1": "Como faço para limpar o filtro?",
-    "CL_AI_manuals_entry_eg2": "O que é o erro E15?",
     "CL_CF_solar_power": "Produção de energia solar",
     "CL_CF_smart_scheduler": "Agendador inteligente",
     "CL_CM_Features_ConnectLife": "Novos recursos do ConnectLife",
@@ -8627,5 +8626,10 @@
     "CL_DV_WINE_wine_region": "Região Vinícola",
     "CL_DV_WINE_yearly_storage_time": "Tempo de armazenamento anual",
     "CL_DV_WINE_yearly_drinking_time": "Tempo anual para beber",
-    "CL_SET_TO": "definido para"
+    "CL_SET_TO": "definido para",
+    "CL_CF_HP_Add_explore": "Adicionar Explorar",
+    "CL_DV_RF_usage_statistic_degrees": "graus",
+    "CL_DV_HIH_firmware_upgrade": "Nova atualização disponível",
+    "CL_DV_HIH_firmware_upgrade_installing": "Instalando a atualização...",
+    "CL_data_request_form_2": "FORMULÁRIO DE SOLICITAÇÃO DE DADOS"
 }

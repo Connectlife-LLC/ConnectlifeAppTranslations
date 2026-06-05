@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Како да се овозможи далечинско стартување\nмашината за перење?",
     "other_homeloads": "Други домашни товари",
     "CL_AI_manuals_entry_eg1": "Како да го исчистам филтерот?",
-    "CL_AI_manuals_entry_eg2": "Што е грешка E15?",
     "CL_CF_solar_power": "Излез на сончева енергија",
     "CL_CF_smart_scheduler": "Паметен распоредувач",
     "CL_CM_Features_ConnectLife": "Нови функции на ConnectLife",
@@ -8627,5 +8626,10 @@
     "CL_DV_WINE_wine_region": "Вински регион",
     "CL_DV_WINE_yearly_storage_time": "Годишно време на складирање",
     "CL_DV_WINE_yearly_drinking_time": "Годишно време за пиење",
-    "CL_SET_TO": "поставено на"
+    "CL_SET_TO": "поставено на",
+    "CL_CF_HP_Add_explore": "Додај Истражување",
+    "CL_DV_RF_usage_statistic_degrees": "степени",
+    "CL_DV_HIH_firmware_upgrade": "Достапно е ново ажурирање",
+    "CL_DV_HIH_firmware_upgrade_installing": "Инсталирање на ажурирањето...",
+    "CL_data_request_form_2": "ФОРМУЛАР ЗА БАРАЊЕ НА ПОДАТОЦИ"
 }

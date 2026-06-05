@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Hur man aktiverar fjärrstart\ntvättmaskinen?",
     "other_homeloads": "Andra hemlastningar",
     "CL_AI_manuals_entry_eg1": "Hur rengör jag filtret?",
-    "CL_AI_manuals_entry_eg2": "Vad är fel E15?",
     "CL_CF_solar_power": "Solenergiproduktion",
     "CL_CF_smart_scheduler": "Smart schemaläggare",
     "CL_CM_Features_ConnectLife": "Nya funktioner i ConnectLife",
@@ -8627,5 +8626,10 @@
     "CL_DV_WINE_wine_region": "Vinregionen",
     "CL_DV_WINE_yearly_storage_time": "Årlig lagringstid",
     "CL_DV_WINE_yearly_drinking_time": "Årlig drickningstid",
-    "CL_SET_TO": "inställd på"
+    "CL_SET_TO": "inställd på",
+    "CL_CF_HP_Add_explore": "Lägg till Utforska",
+    "CL_DV_RF_usage_statistic_degrees": "grader",
+    "CL_DV_HIH_firmware_upgrade": "Ny uppdatering tillgänglig",
+    "CL_DV_HIH_firmware_upgrade_installing": "Installerar uppdateringen...",
+    "CL_data_request_form_2": "DATABEGÄRANSFORMULÄR"
 }

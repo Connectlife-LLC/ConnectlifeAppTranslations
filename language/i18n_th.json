@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "วิธีเปิดใช้งานการสตาร์ทระยะไกลบน\nเครื่องซักผ้า?",
     "other_homeloads": "ภาระอื่นๆ ที่บ้าน",
     "CL_AI_manuals_entry_eg1": "ฉันจะทำความสะอาดตัวกรองได้อย่างไร?",
-    "CL_AI_manuals_entry_eg2": "ข้อผิดพลาด E15 คืออะไร?",
     "CL_CF_solar_power": "ผลผลิตพลังงานแสงอาทิตย์",
     "CL_CF_smart_scheduler": "ตัวกำหนดตารางเวลาอัจฉริยะ",
     "CL_CM_Features_ConnectLife": "คุณสมบัติใหม่ของ ConnectLife",
@@ -8627,5 +8626,10 @@
     "CL_DV_WINE_wine_region": "ภูมิภาคไวน์",
     "CL_DV_WINE_yearly_storage_time": "ระยะเวลาเก็บรักษาต่อปี",
     "CL_DV_WINE_yearly_drinking_time": "ช่วงเวลาดื่มประจำปี",
-    "CL_SET_TO": "ตั้งค่าเป็น"
+    "CL_SET_TO": "ตั้งค่าเป็น",
+    "CL_CF_HP_Add_explore": "เพิ่มการสำรวจ",
+    "CL_DV_RF_usage_statistic_degrees": "ปริญญา",
+    "CL_DV_HIH_firmware_upgrade": "มีการอัปเดตใหม่แล้ว",
+    "CL_DV_HIH_firmware_upgrade_installing": "กำลังติดตั้งการอัปเดต...",
+    "CL_data_request_form_2": "แบบฟอร์มขอข้อมูล"
 }

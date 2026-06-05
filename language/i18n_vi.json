@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Cách bật tính năng khởi động từ xa trên\nMáy giặt?",
     "other_homeloads": "Các chuyến bay nội địa khác",
     "CL_AI_manuals_entry_eg1": "Tôi vệ sinh bộ lọc như thế nào?",
-    "CL_AI_manuals_entry_eg2": "Lỗi E15 là gì?",
     "CL_CF_solar_power": "Sản lượng điện mặt trời",
     "CL_CF_smart_scheduler": "Lập lịch thông minh",
     "CL_CM_Features_ConnectLife": "Các tính năng mới của ConnectLife",
@@ -8627,5 +8626,10 @@
     "CL_DV_WINE_wine_region": "Vùng rượu vang",
     "CL_DV_WINE_yearly_storage_time": "Thời gian lưu trữ hàng năm",
     "CL_DV_WINE_yearly_drinking_time": "Thời gian uống rượu hàng năm",
-    "CL_SET_TO": "đặt thành"
+    "CL_SET_TO": "đặt thành",
+    "CL_CF_HP_Add_explore": "Thêm Khám phá",
+    "CL_DV_RF_usage_statistic_degrees": "bằng cấp",
+    "CL_DV_HIH_firmware_upgrade": "Đã có bản cập nhật mới.",
+    "CL_DV_HIH_firmware_upgrade_installing": "Đang cài đặt bản cập nhật...",
+    "CL_data_request_form_2": "PHIẾU YÊU CẦU DỮ LIỆU"
 }
