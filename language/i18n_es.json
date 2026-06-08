@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Cómo habilitar el arranque remoto en\n¿La lavadora?",
     "other_homeloads": "Otros viajes a casa",
     "CL_AI_manuals_entry_eg1": "¿Cómo limpio el filtro?",
-    "CL_AI_manuals_entry_eg2": "¿Qué es el error E15?",
     "CL_CF_solar_power": "Salida de energía solar",
     "CL_CF_smart_scheduler": "Planificador inteligente",
     "CL_CM_Features_ConnectLife": "Nuevas funciones de ConnectLife",
@@ -8627,5 +8626,17 @@
     "CL_DV_WINE_wine_region": "Región vinícola",
     "CL_DV_WINE_yearly_storage_time": "Tiempo de almacenamiento anual",
     "CL_DV_WINE_yearly_drinking_time": "Tiempo de consumo anual",
-    "CL_SET_TO": "empezar a"
+    "CL_SET_TO": "empezar a",
+    "CL_CF_HP_Add_explore": "Agregar Explorar",
+    "CL_DV_RF_usage_statistic_degrees": "títulos",
+    "CL_DV_HIH_firmware_upgrade": "Nueva actualización disponible",
+    "CL_DV_HIH_firmware_upgrade_installing": "Instalando la actualización...",
+    "CL_data_request_form_2": "FORMULARIO DE SOLICITUD DE DATOS",
+    "CL_AI_rephrase_question": "Si ninguna de las soluciones anteriores responde a tu pregunta, puedes intentar reformularla.",
+    "add_mobile_ac_2_2": "Confirma que la pantalla del dispositivo muestra \"77\".\n Esto significa que el dispositivo ha entrado en modo de emparejamiento Wi-Fi. Si la pantalla no muestra \"77\", repita el paso 3.",
+    "CL_DV_WINE_general_volume": "Volumen general",
+    "CL_DV_WINE_traditional_lock": "Cerradura tradicional",
+    "CL_DV_RF_eco_micro_freeze_toast": "El modo ECO no está disponible en el modo “微氷結” del cajón para verduras",
+    "CL_DV_RF_micro_freeze_temp_toast": "La temperatura del refrigerador no se puede ajustar en el modo “微氷結” del cajón para verduras",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "El cajón para verduras cambió al modo \"チルド\""
 }

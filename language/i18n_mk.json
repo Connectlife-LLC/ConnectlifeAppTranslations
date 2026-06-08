@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Како да се овозможи далечинско стартување\nмашината за перење?",
     "other_homeloads": "Други домашни товари",
     "CL_AI_manuals_entry_eg1": "Како да го исчистам филтерот?",
-    "CL_AI_manuals_entry_eg2": "Што е грешка E15?",
     "CL_CF_solar_power": "Излез на сончева енергија",
     "CL_CF_smart_scheduler": "Паметен распоредувач",
     "CL_CM_Features_ConnectLife": "Нови функции на ConnectLife",
@@ -8627,5 +8626,17 @@
     "CL_DV_WINE_wine_region": "Вински регион",
     "CL_DV_WINE_yearly_storage_time": "Годишно време на складирање",
     "CL_DV_WINE_yearly_drinking_time": "Годишно време за пиење",
-    "CL_SET_TO": "поставено на"
+    "CL_SET_TO": "поставено на",
+    "CL_CF_HP_Add_explore": "Додај Истражување",
+    "CL_DV_RF_usage_statistic_degrees": "степени",
+    "CL_DV_HIH_firmware_upgrade": "Достапно е ново ажурирање",
+    "CL_DV_HIH_firmware_upgrade_installing": "Инсталирање на ажурирањето...",
+    "CL_data_request_form_2": "ФОРМУЛАР ЗА БАРАЊЕ НА ПОДАТОЦИ",
+    "CL_AI_rephrase_question": "Ако ниту едно од горенаведените решенија не одговара на вашето прашање, можете да се обидете да го преформулирате.",
+    "add_mobile_ac_2_2": "Потврдете дека на екранот на @уредот пишува „77“.\n Ова значи дека уредот влегол во режим на спарување преку Wi-Fi. Ако на екранот не се прикажува „77“, повторете го Чекор 3.",
+    "CL_DV_WINE_general_volume": "Општ волумен",
+    "CL_DV_WINE_traditional_lock": "Традиционална брава",
+    "CL_DV_RF_eco_micro_freeze_toast": "Режимот ECO е недостапен во режимот Crisper Drawer „微氷結“.",
+    "CL_DV_RF_micro_freeze_temp_toast": "Температурата на фрижидерот не може да се прилагоди во режимот Crisper Drawer „微氷結“.",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "Crisper Drawer се префрли на режимот „チルド“."
 }

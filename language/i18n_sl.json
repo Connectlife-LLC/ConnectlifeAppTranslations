@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Kako omogočiti oddaljeni zagon\npralni stroj?",
     "other_homeloads": "Drugi domači tovori",
     "CL_AI_manuals_entry_eg1": "Kako očistim filter?",
-    "CL_AI_manuals_entry_eg2": "Kaj je napaka E15?",
     "CL_CF_solar_power": "Izhodna sončna energija",
     "CL_CF_smart_scheduler": "Pametni razporejevalnik",
     "CL_CM_Features_ConnectLife": "Nove funkcije ConnectLife",
@@ -8627,5 +8626,17 @@
     "CL_DV_WINE_wine_region": "Vinska regija",
     "CL_DV_WINE_yearly_storage_time": "Letni čas skladiščenja",
     "CL_DV_WINE_yearly_drinking_time": "Letni čas pitja",
-    "CL_SET_TO": "nastavljeno na"
+    "CL_SET_TO": "nastavljeno na",
+    "CL_CF_HP_Add_explore": "Dodaj Razišči",
+    "CL_DV_RF_usage_statistic_degrees": "stopinj",
+    "CL_DV_HIH_firmware_upgrade": "Na voljo je nova posodobitev",
+    "CL_DV_HIH_firmware_upgrade_installing": "Nameščanje posodobitve ...",
+    "CL_data_request_form_2": "OBRAZEC ZA ZAHTEVEK ZA PODATKE",
+    "CL_AI_rephrase_question": "Če nobena od zgornjih rešitev ne odgovori na vaše vprašanje, ga lahko poskusite preoblikovati.",
+    "add_mobile_ac_2_2": "Preverite, ali je na zaslonu @device prikazano \"77\".\n To pomeni, da je naprava prešla v način seznanjanja z omrežjem Wi-Fi. Če se na zaslonu ne prikaže »77«, ponovite 3. korak.",
+    "CL_DV_WINE_general_volume": "Splošna glasnost",
+    "CL_DV_WINE_traditional_lock": "Tradicionalna ključavnica",
+    "CL_DV_RF_eco_micro_freeze_toast": "Način ECO ni na voljo v načinu Crisper Drawer “微氷結”.",
+    "CL_DV_RF_micro_freeze_temp_toast": "Temperature hladilnika ni mogoče prilagoditi v načinu Crisper Drawer “微氷結”.",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "Predal Crisper je preklopil v način »チルド«."
 }

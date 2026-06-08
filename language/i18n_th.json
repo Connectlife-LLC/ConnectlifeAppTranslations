@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "วิธีเปิดใช้งานการสตาร์ทระยะไกลบน\nเครื่องซักผ้า?",
     "other_homeloads": "ภาระอื่นๆ ที่บ้าน",
     "CL_AI_manuals_entry_eg1": "ฉันจะทำความสะอาดตัวกรองได้อย่างไร?",
-    "CL_AI_manuals_entry_eg2": "ข้อผิดพลาด E15 คืออะไร?",
     "CL_CF_solar_power": "ผลผลิตพลังงานแสงอาทิตย์",
     "CL_CF_smart_scheduler": "ตัวกำหนดตารางเวลาอัจฉริยะ",
     "CL_CM_Features_ConnectLife": "คุณสมบัติใหม่ของ ConnectLife",
@@ -8627,5 +8626,17 @@
     "CL_DV_WINE_wine_region": "ภูมิภาคไวน์",
     "CL_DV_WINE_yearly_storage_time": "ระยะเวลาเก็บรักษาต่อปี",
     "CL_DV_WINE_yearly_drinking_time": "ช่วงเวลาดื่มประจำปี",
-    "CL_SET_TO": "ตั้งค่าเป็น"
+    "CL_SET_TO": "ตั้งค่าเป็น",
+    "CL_CF_HP_Add_explore": "เพิ่มการสำรวจ",
+    "CL_DV_RF_usage_statistic_degrees": "ปริญญา",
+    "CL_DV_HIH_firmware_upgrade": "มีการอัปเดตใหม่แล้ว",
+    "CL_DV_HIH_firmware_upgrade_installing": "กำลังติดตั้งการอัปเดต...",
+    "CL_data_request_form_2": "แบบฟอร์มขอข้อมูล",
+    "CL_AI_rephrase_question": "หากคำตอบข้างต้นไม่ตรงกับคำถามของคุณ คุณสามารถลองเรียบเรียงคำถามใหม่ได้",
+    "add_mobile_ac_2_2": "ตรวจสอบให้แน่ใจว่าหน้าจอของ @device แสดงค่า \"77\"\n หมายความว่าอุปกรณ์ได้เข้าสู่โหมดจับคู่ Wi-Fi แล้ว หากหน้าจอไม่แสดง \"77\" ให้ทำซ้ำขั้นตอนที่ 3",
+    "CL_DV_WINE_general_volume": "ปริมาณทั่วไป",
+    "CL_DV_WINE_traditional_lock": "กุญแจแบบดั้งเดิม",
+    "CL_DV_RF_eco_micro_freeze_toast": "โหมด ECO ไม่พร้อมใช้งานในโหมด Crisper Drawer “微氷結”",
+    "CL_DV_RF_micro_freeze_temp_toast": "อุณหภูมิตู้เย็นไม่สามารถปรับได้ในโหมด Crisper Drawer “微氷結”",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "Crisper Drawer เปลี่ยนเป็นโหมด \"チルド\""
 }

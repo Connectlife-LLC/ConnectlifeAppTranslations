@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "如何启用远程启动\n洗衣机？",
     "other_homeloads": "其他家庭负荷",
     "CL_AI_manuals_entry_eg1": "如何清洗过滤器？",
-    "CL_AI_manuals_entry_eg2": "什么是错误代码E15？",
     "CL_CF_solar_power": "太阳能发电量",
     "CL_CF_smart_scheduler": "智能日程安排器",
     "CL_CM_Features_ConnectLife": "ConnectLife 的新功能",
@@ -8627,5 +8626,17 @@
     "CL_DV_WINE_wine_region": "葡萄酒产区",
     "CL_DV_WINE_yearly_storage_time": "年度存储时间",
     "CL_DV_WINE_yearly_drinking_time": "年度饮酒时间",
-    "CL_SET_TO": "设置为"
+    "CL_SET_TO": "设置为",
+    "CL_CF_HP_Add_explore": "添加探索",
+    "CL_DV_RF_usage_statistic_degrees": "学位",
+    "CL_DV_HIH_firmware_upgrade": "最新更新可用",
+    "CL_DV_HIH_firmware_upgrade_installing": "正在安装更新……",
+    "CL_data_request_form_2": "数据请求表",
+    "CL_AI_rephrase_question": "如果以上方法都无法解答你的问题，你可以尝试重新表述一下。",
+    "add_mobile_ac_2_2": "确认@device的显示屏显示“77”。\n 这意味着设备已进入 Wi-Fi 配对模式。如果显示屏未显示“77”，请重复步骤 3。",
+    "CL_DV_WINE_general_volume": "总卷",
+    "CL_DV_WINE_traditional_lock": "传统锁",
+    "CL_DV_RF_eco_micro_freeze_toast": "Crisper Drawer“微冰结”模式下ECO模式不可用",
+    "CL_DV_RF_micro_freeze_temp_toast": "Crisper Drawer“微冰结”模式下无法调节冰箱温度",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "Crisper Drawer 切换至“チルド”模式"
 }

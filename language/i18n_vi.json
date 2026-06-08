@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Cách bật tính năng khởi động từ xa trên\nMáy giặt?",
     "other_homeloads": "Các chuyến bay nội địa khác",
     "CL_AI_manuals_entry_eg1": "Tôi vệ sinh bộ lọc như thế nào?",
-    "CL_AI_manuals_entry_eg2": "Lỗi E15 là gì?",
     "CL_CF_solar_power": "Sản lượng điện mặt trời",
     "CL_CF_smart_scheduler": "Lập lịch thông minh",
     "CL_CM_Features_ConnectLife": "Các tính năng mới của ConnectLife",
@@ -8627,5 +8626,17 @@
     "CL_DV_WINE_wine_region": "Vùng rượu vang",
     "CL_DV_WINE_yearly_storage_time": "Thời gian lưu trữ hàng năm",
     "CL_DV_WINE_yearly_drinking_time": "Thời gian uống rượu hàng năm",
-    "CL_SET_TO": "đặt thành"
+    "CL_SET_TO": "đặt thành",
+    "CL_CF_HP_Add_explore": "Thêm Khám phá",
+    "CL_DV_RF_usage_statistic_degrees": "bằng cấp",
+    "CL_DV_HIH_firmware_upgrade": "Đã có bản cập nhật mới.",
+    "CL_DV_HIH_firmware_upgrade_installing": "Đang cài đặt bản cập nhật...",
+    "CL_data_request_form_2": "PHIẾU YÊU CẦU DỮ LIỆU",
+    "CL_AI_rephrase_question": "Nếu không có giải pháp nào ở trên giải đáp được thắc mắc của bạn, bạn có thể thử diễn đạt lại câu hỏi bằng cách khác.",
+    "add_mobile_ac_2_2": "Hãy xác nhận rằng màn hình của thiết bị hiển thị \"77\".\n Điều này có nghĩa là thiết bị đã vào chế độ ghép nối Wi-Fi. Nếu màn hình không hiển thị \"77\", hãy lặp lại Bước 3.",
+    "CL_DV_WINE_general_volume": "Tổng thể",
+    "CL_DV_WINE_traditional_lock": "Khóa truyền thống",
+    "CL_DV_RF_eco_micro_freeze_toast": "Chế độ ECO không có ở chế độ “微氷結” của Ngăn kéo Crisper",
+    "CL_DV_RF_micro_freeze_temp_toast": "Không thể điều chỉnh nhiệt độ tủ lạnh ở chế độ “微氷結” của Ngăn đựng Crisper",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "Ngăn kéo Crisper chuyển sang chế độ \"チルド\""
 }

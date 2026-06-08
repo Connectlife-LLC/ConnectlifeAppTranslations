@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Hogyan engedélyezhető a távoli indítás\na mosógép?",
     "other_homeloads": "Egyéb hazarakodások",
     "CL_AI_manuals_entry_eg1": "Hogyan tisztítsam meg a szűrőt?",
-    "CL_AI_manuals_entry_eg2": "Mi az E15 hiba?",
     "CL_CF_solar_power": "Napenergia-kimenet",
     "CL_CF_smart_scheduler": "Intelligens ütemező",
     "CL_CM_Features_ConnectLife": "A ConnectLife új funkciói",
@@ -8627,5 +8626,17 @@
     "CL_DV_WINE_wine_region": "Borvidék",
     "CL_DV_WINE_yearly_storage_time": "Éves tárolási idő",
     "CL_DV_WINE_yearly_drinking_time": "Éves ivási idő",
-    "CL_SET_TO": "beállítva"
+    "CL_SET_TO": "beállítva",
+    "CL_CF_HP_Add_explore": "Felfedezés hozzáadása",
+    "CL_DV_RF_usage_statistic_degrees": "fok",
+    "CL_DV_HIH_firmware_upgrade": "Új frissítés érhető el",
+    "CL_DV_HIH_firmware_upgrade_installing": "A frissítés telepítése...",
+    "CL_data_request_form_2": "ADATKÉRÉSI ŰRLAP",
+    "CL_AI_rephrase_question": "Ha a fenti megoldások egyike sem ad választ a kérdésére, megpróbálhatja átfogalmazni.",
+    "add_mobile_ac_2_2": "Ellenőrizd, hogy az @eszköz kijelzőjén „77” látható-e.\n Ez azt jelenti, hogy az eszköz Wi-Fi párosítási módba lépett. Ha a kijelzőn nem a „77” látható, ismételje meg a 3. lépést.",
+    "CL_DV_WINE_general_volume": "Általános kötet",
+    "CL_DV_WINE_traditional_lock": "Hagyományos zár",
+    "CL_DV_RF_eco_micro_freeze_toast": "Az ECO mód nem érhető el a Crisper Drawer „微氷結” módban",
+    "CL_DV_RF_micro_freeze_temp_toast": "A hűtőszekrény hőmérséklete nem állítható be Crisper Drawer „微氷結” módban",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "A Crisper Drawer \"チルド\" módba kapcsolt"
 }

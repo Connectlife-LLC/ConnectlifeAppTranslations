@@ -8587,7 +8587,6 @@
     "CL_AI_manuals_eg3": "Slik aktiverer du fjernstart\nvaskemaskinen?",
     "other_homeloads": "Andre hjemmelaster",
     "CL_AI_manuals_entry_eg1": "Hvordan rengjør jeg filteret?",
-    "CL_AI_manuals_entry_eg2": "Hva er feil E15?",
     "CL_CF_solar_power": "Solenergiproduksjon",
     "CL_CF_smart_scheduler": "Smart planlegger",
     "CL_CM_Features_ConnectLife": "Nye funksjoner i ConnectLife",
@@ -8627,5 +8626,17 @@
     "CL_DV_WINE_wine_region": "Vinregionen",
     "CL_DV_WINE_yearly_storage_time": "Årlig lagringstid",
     "CL_DV_WINE_yearly_drinking_time": "Årlig drikketid",
-    "CL_SET_TO": "satt til"
+    "CL_SET_TO": "satt til",
+    "CL_CF_HP_Add_explore": "Legg til Utforsk",
+    "CL_DV_RF_usage_statistic_degrees": "grader",
+    "CL_DV_HIH_firmware_upgrade": "Ny oppdatering tilgjengelig",
+    "CL_DV_HIH_firmware_upgrade_installing": "Installerer oppdateringen...",
+    "CL_data_request_form_2": "DATAFORSØKELSESSKJEMA",
+    "CL_AI_rephrase_question": "Hvis ingen av løsningene ovenfor svarer på spørsmålet ditt, kan du prøve å omformulere det.",
+    "add_mobile_ac_2_2": "Bekreft at @enhetens skjerm viser «77».\n Dette betyr at enheten har gått inn i Wi-Fi-paringsmodus. Hvis skjermen ikke viser «77», gjenta trinn 3.",
+    "CL_DV_WINE_general_volume": "Generelt volum",
+    "CL_DV_WINE_traditional_lock": "Tradisjonell lås",
+    "CL_DV_RF_eco_micro_freeze_toast": "ØKO-modus utilgjengelig i Crisper Drawer “微氷結”-modus",
+    "CL_DV_RF_micro_freeze_temp_toast": "Kjøleskapstemperaturen kan ikke justeres i Crisper Drawer “微氷結”-modus",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "Crisper Drawer byttet til \"チルド\"-modus"
 }
