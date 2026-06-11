@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Select for which zone(s) the temperature and the humidity should be set.",
     "CL_DV_WINE_alarm_volume": "Alarm volume",
     "ac_fast_mode": "Fast mode",
-    "auto_mode": "Auto mode"
+    "auto_mode": "Auto mode",
+    "CL_CF_LG_eu_data_act_2": "EU Data Act Notification",
+    "CL_CF_LG_enduser_terms_2": "End User Terms and Conditions",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife requires location services to determine device location. Please enable this feature in your phone settings to access all functions.",
+    "CL_CF_CS_exit": "exit"
 }

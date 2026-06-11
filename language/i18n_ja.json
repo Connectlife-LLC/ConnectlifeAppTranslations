@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "温度と湿度を設定するゾーンを選択してください。",
     "CL_DV_WINE_alarm_volume": "アラーム音量",
     "ac_fast_mode": "高速モード",
-    "auto_mode": "自動モード"
+    "auto_mode": "自動モード",
+    "CL_CF_LG_eu_data_act_2": "EUデータ保護法に関する通知",
+    "CL_CF_LG_enduser_terms_2": "エンドユーザー利用規約",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLifeは、端末の位置を特定するために位置情報サービスを必要とします。すべての機能をご利用いただくには、スマートフォンの設定で位置情報サービスを有効にしてください。",
+    "CL_CF_CS_exit": "出口"
 }

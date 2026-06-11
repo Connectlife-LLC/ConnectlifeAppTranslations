@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Válassza ki, hogy mely zónához/zónákhoz szeretné beállítani a hőmérsékletet és a páratartalmat.",
     "CL_DV_WINE_alarm_volume": "Riasztás hangereje",
     "ac_fast_mode": "Gyors mód",
-    "auto_mode": "Automatikus mód"
+    "auto_mode": "Automatikus mód",
+    "CL_CF_LG_eu_data_act_2": "EU adatvédelmi törvény értesítése",
+    "CL_CF_LG_enduser_terms_2": "Végfelhasználói Felhasználási Feltételek",
+    "CL_CF_CS_enable_location_service_tip": "A ConnectLife használatához helymeghatározási szolgáltatásokra van szükség az eszköz helyének meghatározásához. Kérjük, engedélyezze ezt a funkciót a telefon beállításaiban az összes funkció eléréséhez.",
+    "CL_CF_CS_exit": "kijárat"
 }

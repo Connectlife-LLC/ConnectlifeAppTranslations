@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Vyberte, pro kterou zónu (zóny) se má nastavit teplota a vlhkost.",
     "CL_DV_WINE_alarm_volume": "Hlasitost budíku",
     "ac_fast_mode": "Rychlý režim",
-    "auto_mode": "Automatický režim"
+    "auto_mode": "Automatický režim",
+    "CL_CF_LG_eu_data_act_2": "Oznámení o zákonu EU o ochraně osobních údajů",
+    "CL_CF_LG_enduser_terms_2": "Všeobecné obchodní podmínky pro koncového uživatele",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife vyžaduje pro určení polohy zařízení lokalizační služby. Pro přístup ke všem funkcím prosím povolte tuto funkci v nastavení telefonu.",
+    "CL_CF_CS_exit": "výstup"
 }
