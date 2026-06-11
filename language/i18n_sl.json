@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Izberite, za katero(-a) območje(-a) želite nastaviti temperaturo in vlažnost.",
     "CL_DV_WINE_alarm_volume": "Glasnost alarma",
     "ac_fast_mode": "Hitri način",
-    "auto_mode": "Samodejni način"
+    "auto_mode": "Samodejni način",
+    "CL_CF_LG_eu_data_act_2": "Obvestilo o zakonu EU o podatkih",
+    "CL_CF_LG_enduser_terms_2": "Splošni pogoji za končnega uporabnika",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife za določanje lokacije naprave potrebuje lokacijske storitve. Za dostop do vseh funkcij omogočite to funkcijo v nastavitvah telefona.",
+    "CL_CF_CS_exit": "Izhod"
 }

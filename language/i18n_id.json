@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Pilih zona mana yang akan diatur suhu dan kelembapannya.",
     "CL_DV_WINE_alarm_volume": "Volume alarm",
     "ac_fast_mode": "Mode cepat",
-    "auto_mode": "Mode otomatis"
+    "auto_mode": "Mode otomatis",
+    "CL_CF_LG_eu_data_act_2": "Pemberitahuan Undang-Undang Data Uni Eropa",
+    "CL_CF_LG_enduser_terms_2": "Syarat dan Ketentuan Pengguna Akhir",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife memerlukan layanan lokasi untuk menentukan lokasi perangkat. Harap aktifkan fitur ini di pengaturan ponsel Anda untuk mengakses semua fungsi.",
+    "CL_CF_CS_exit": "KELUAR"
 }

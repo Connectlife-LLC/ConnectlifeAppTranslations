@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Velg hvilken(e) sone(r) temperaturen og fuktigheten skal stilles inn for.",
     "CL_DV_WINE_alarm_volume": "Alarmvolum",
     "ac_fast_mode": "Hurtigmodus",
-    "auto_mode": "Automatisk modus"
+    "auto_mode": "Automatisk modus",
+    "CL_CF_LG_eu_data_act_2": "EU-datalovens varsel",
+    "CL_CF_LG_enduser_terms_2": "Vilkår og betingelser for sluttbruker",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife krever posisjonstjenester for å bestemme enhetens posisjon. Aktiver denne funksjonen i telefoninnstillingene for å få tilgang til alle funksjonene.",
+    "CL_CF_CS_exit": "Avslutt"
 }

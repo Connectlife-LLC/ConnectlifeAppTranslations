@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Selecteer voor welke zone(s) de temperatuur en de luchtvochtigheid moeten worden ingesteld.",
     "CL_DV_WINE_alarm_volume": "Alarmvolume",
     "ac_fast_mode": "Snelle modus",
-    "auto_mode": "Automatische modus"
+    "auto_mode": "Automatische modus",
+    "CL_CF_LG_eu_data_act_2": "EU-gegevenswet kennisgeving",
+    "CL_CF_LG_enduser_terms_2": "Voorwaarden voor eindgebruikers",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife heeft locatieservices nodig om de locatie van het apparaat te bepalen. Schakel deze functie in de instellingen van uw telefoon in om alle functies te kunnen gebruiken.",
+    "CL_CF_CS_exit": "Afsluiten"
 }
