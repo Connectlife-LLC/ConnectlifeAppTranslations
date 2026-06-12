@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Valitse, mille vyöhykkeille lämpötila ja kosteus asetetaan.",
     "CL_DV_WINE_alarm_volume": "Hälytyksen äänenvoimakkuus",
     "ac_fast_mode": "Nopea tila",
-    "auto_mode": "Automaattinen tila"
+    "auto_mode": "Automaattinen tila",
+    "CL_CF_LG_eu_data_act_2": "EU:n tietosuojalain ilmoitus",
+    "CL_CF_LG_enduser_terms_2": "Loppukäyttäjän ehdot",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife vaatii paikannuspalveluita laitteen sijainnin määrittämiseen. Ota tämä ominaisuus käyttöön puhelimesi asetuksissa käyttääksesi kaikkia toimintoja.",
+    "CL_CF_CS_exit": "Poistu"
 }

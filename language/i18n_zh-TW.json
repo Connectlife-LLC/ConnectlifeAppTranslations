@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "選擇要設定溫度和濕度的區域。",
     "CL_DV_WINE_alarm_volume": "警報音量",
     "ac_fast_mode": "快速模式",
-    "auto_mode": "自動模式"
+    "auto_mode": "自動模式",
+    "CL_CF_LG_eu_data_act_2": "歐盟數據法案通知",
+    "CL_CF_LG_enduser_terms_2": "用戶條款與使用條件",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife 需要使用定位服務來確定裝置位置。請在手機設定中啟用此功能以存取所有功能。",
+    "CL_CF_CS_exit": "退出"
 }

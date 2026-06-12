@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Wybierz strefę(-y), dla której(-ych) chcesz ustawić temperaturę i wilgotność.",
     "CL_DV_WINE_alarm_volume": "Głośność alarmu",
     "ac_fast_mode": "Tryb szybki",
-    "auto_mode": "Tryb automatyczny"
+    "auto_mode": "Tryb automatyczny",
+    "CL_CF_LG_eu_data_act_2": "Powiadomienie o ustawie UE o danych",
+    "CL_CF_LG_enduser_terms_2": "Warunki dla użytkownika końcowego",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife wymaga usług lokalizacyjnych do określenia lokalizacji urządzenia. Włącz tę funkcję w ustawieniach telefonu, aby uzyskać dostęp do wszystkich funkcji.",
+    "CL_CF_CS_exit": "Wyjdź"
 }

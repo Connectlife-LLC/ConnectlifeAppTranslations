@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Välj för vilken/vilka zoner temperaturen och luftfuktigheten ska ställas in.",
     "CL_DV_WINE_alarm_volume": "Larmvolym",
     "ac_fast_mode": "Snabbläge",
-    "auto_mode": "Autoläge"
+    "auto_mode": "Autoläge",
+    "CL_CF_LG_eu_data_act_2": "Anmälan till EU:s datalag",
+    "CL_CF_LG_enduser_terms_2": "Användaravtal",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife kräver platstjänster för att fastställa enhetens plats. Aktivera den här funktionen i dina telefoninställningar för att få åtkomst till alla funktioner.",
+    "CL_CF_CS_exit": "Avsluta"
 }

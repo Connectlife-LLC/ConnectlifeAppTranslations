@@ -8658,5 +8658,9 @@
     "CL_DV_WINE_area_choose_tips": "Wählen Sie aus, für welche Zone(n) die Temperatur und die Luftfeuchtigkeit eingestellt werden sollen.",
     "CL_DV_WINE_alarm_volume": "Alarmlautstärke",
     "ac_fast_mode": "Schnellmodus",
-    "auto_mode": "Automatikmodus"
+    "auto_mode": "Automatikmodus",
+    "CL_CF_LG_eu_data_act_2": "Benachrichtigung gemäß EU-Datenschutzgesetz",
+    "CL_CF_LG_enduser_terms_2": "Allgemeine Geschäftsbedingungen für Endbenutzer",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife benötigt Ortungsdienste, um den Standort Ihres Geräts zu ermitteln. Bitte aktivieren Sie diese Funktion in Ihren Telefoneinstellungen, um alle Funktionen nutzen zu können.",
+    "CL_CF_CS_exit": "Beenden"
 }
