@@ -8658,5 +8658,12 @@
     "CL_DV_WINE_area_choose_tips": "Select for which zone(s) the temperature and the humidity should be set.",
     "CL_DV_WINE_alarm_volume": "Alarm volume",
     "ac_fast_mode": "Fast mode",
-    "auto_mode": "Auto mode"
+    "auto_mode": "Auto mode",
+    "CL_CF_LG_eu_data_act_2": "EU Data Act Notification",
+    "CL_CF_LG_enduser_terms_2": "End User Terms and Conditions",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife requires location services to determine device location. Please enable this feature in your phone settings to access all functions.",
+    "CL_CF_CS_exit": "Exit",
+    "CL_DV_TV_add_google_open_ip_control": "Navigate to Settings → Channels and inputs → External inputs​ to turn on Network IP Control Port.",
+    "CL_DV_TV_add_google_see_ip": "Navigate to Settings​ → Network & Internet → Wi-Fi​ to find the connected network to find  IP and MAC addresses.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Click the setting button on the remote control, go to Explore more → Smart Home, then turn on Network IP Control Port."
 }
