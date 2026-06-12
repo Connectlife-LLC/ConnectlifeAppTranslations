@@ -8658,5 +8658,13 @@
     "CL_DV_WINE_area_choose_tips": "Pilih zona mana yang akan diatur suhu dan kelembapannya.",
     "CL_DV_WINE_alarm_volume": "Volume alarm",
     "ac_fast_mode": "Mode cepat",
-    "auto_mode": "Mode otomatis"
+    "auto_mode": "Mode otomatis",
+    "CL_CF_LG_eu_data_act_2": "Pemberitahuan Undang-Undang Data Uni Eropa",
+    "CL_CF_LG_enduser_terms_2": "Syarat dan Ketentuan Pengguna Akhir",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife memerlukan layanan lokasi untuk menentukan lokasi perangkat. Harap aktifkan fitur ini di pengaturan ponsel Anda untuk mengakses semua fungsi.",
+    "CL_CF_CS_exit": "KELUAR",
+    "CL_DV_TV_add_google_open_ip_control": "Buka Pengaturan → Saluran dan input → Input eksternal untuk mengaktifkan Port Kontrol IP Jaringan.",
+    "CL_DV_TV_add_google_see_ip": "Buka Pengaturan → Jaringan & Internet → Wi-Fi untuk menemukan jaringan yang terhubung dan mencari alamat IP dan MAC.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Klik tombol pengaturan pada remote control, buka Jelajahi selengkapnya → Rumah Pintar, lalu aktifkan Port Kontrol IP Jaringan.",
+    "CL_ENERGY_energy_device_name_fallback": "Sistem Energi"
 }

@@ -8658,5 +8658,13 @@
     "CL_DV_WINE_area_choose_tips": "选择要设置温度和湿度的区域。",
     "CL_DV_WINE_alarm_volume": "报警音量",
     "ac_fast_mode": "快速模式",
-    "auto_mode": "自动模式"
+    "auto_mode": "自动模式",
+    "CL_CF_LG_eu_data_act_2": "欧盟数据法案通知",
+    "CL_CF_LG_enduser_terms_2": "最终用户条款与使用条件",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife 需要使用定位服务来确定设备位置。请在手机设置中启用此功能以访问所有功能。",
+    "CL_CF_CS_exit": "退出",
+    "CL_DV_TV_add_google_open_ip_control": "进入设置→通道和输入→外部输入，打开网络IP控制端口。",
+    "CL_DV_TV_add_google_see_ip": "进入“设置”→“网络和互联网”→“Wi-Fi”查找已连接的网络，以查找 IP 和 MAC 地址。",
+    "CL_DV_TV_add_fire_tv_open_ip": "点击遥控器上的设置按钮，进入“探索更多”→“智能家居”，然后打开“网络IP控制端口”。",
+    "CL_ENERGY_energy_device_name_fallback": "能源系统"
 }

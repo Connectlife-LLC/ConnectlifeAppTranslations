@@ -8658,5 +8658,13 @@
     "CL_DV_WINE_area_choose_tips": "温度と湿度を設定するゾーンを選択してください。",
     "CL_DV_WINE_alarm_volume": "アラーム音量",
     "ac_fast_mode": "高速モード",
-    "auto_mode": "自動モード"
+    "auto_mode": "自動モード",
+    "CL_CF_LG_eu_data_act_2": "EUデータ保護法に関する通知",
+    "CL_CF_LG_enduser_terms_2": "エンドユーザー利用規約",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLifeは、端末の位置を特定するために位置情報サービスを必要とします。すべての機能をご利用いただくには、スマートフォンの設定で位置情報サービスを有効にしてください。",
+    "CL_CF_CS_exit": "終了",
+    "CL_DV_TV_add_google_open_ip_control": "設定 → チャンネルと入力 → 外部入力に移動して、ネットワークIP制御ポートをオンにします。",
+    "CL_DV_TV_add_google_see_ip": "設定 → ネットワークとインターネット → Wi-Fi に移動して、接続されているネットワークを探し、IP アドレスと MAC アドレスを確認してください。",
+    "CL_DV_TV_add_fire_tv_open_ip": "リモコンの設定ボタンをクリックし、「詳細を見る」→「スマートホーム」に進み、「ネットワークIP制御ポート」をオンにします。",
+    "CL_ENERGY_energy_device_name_fallback": "エネルギーシステム"
 }

@@ -8658,5 +8658,13 @@
     "CL_DV_WINE_area_choose_tips": "Sıcaklık ve nemin hangi bölge(ler) için ayarlanacağını seçin.",
     "CL_DV_WINE_alarm_volume": "Alarm sesi",
     "ac_fast_mode": "Hızlı mod",
-    "auto_mode": "Otomatik mod"
+    "auto_mode": "Otomatik mod",
+    "CL_CF_LG_eu_data_act_2": "AB Veri Koruma Yasası Bildirimi",
+    "CL_CF_LG_enduser_terms_2": "Son kullanıcı hüküm ve koşulları",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife, cihazın konumunu belirlemek için konum servislerine ihtiyaç duyar. Tüm işlevlere erişmek için lütfen telefonunuzun ayarlarından bu özelliği etkinleştirin.",
+    "CL_CF_CS_exit": "Çıkış",
+    "CL_DV_TV_add_google_open_ip_control": "Ayarlar → Kanallar ve girişler → Harici girişler bölümüne giderek Ağ IP Kontrol Portunu açın.",
+    "CL_DV_TV_add_google_see_ip": "Ayarlar → Ağ ve İnternet → Wi-Fi yolunu izleyerek bağlı olduğunuz ağın IP ve MAC adreslerini bulabilirsiniz.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Uzaktan kumandadaki ayarlar düğmesine tıklayın, Daha fazlasını keşfedin → Akıllı Ev bölümüne gidin ve ardından Ağ IP Kontrol Bağlantı Noktasını açın.",
+    "CL_ENERGY_energy_device_name_fallback": "Enerji Sistemi"
 }

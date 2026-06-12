@@ -8658,5 +8658,13 @@
     "CL_DV_WINE_area_choose_tips": "Odaberite za koju(e) zonu(e) treba postaviti temperaturu i vlažnost.",
     "CL_DV_WINE_alarm_volume": "Glasnoća alarma",
     "ac_fast_mode": "Brzi način rada",
-    "auto_mode": "Automatski način rada"
+    "auto_mode": "Automatski način rada",
+    "CL_CF_LG_eu_data_act_2": "Obavijest o Zakonu EU o podacima",
+    "CL_CF_LG_enduser_terms_2": "Opći uvjeti za konačnog korisnika",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife zahtijeva usluge lokacije za određivanje lokacije uređaja. Omogućite ovu značajku u postavkama telefona kako biste pristupili svim funkcijama.",
+    "CL_CF_CS_exit": "Napusti",
+    "CL_DV_TV_add_google_open_ip_control": "Idite na Postavke → Kanali i ulazi → Vanjski ulazi kako biste uključili mrežni IP kontrolni priključak.",
+    "CL_DV_TV_add_google_see_ip": "Idite na Postavke → Mreža i internet → Wi-Fi kako biste pronašli povezanu mrežu i IP i MAC adrese.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Kliknite gumb za postavke na daljinskom upravljaču, idite na Istraži više → Pametni dom, a zatim uključite Mrežni IP kontrolni port.",
+    "CL_ENERGY_energy_device_name_fallback": "Energetski sustav"
 }

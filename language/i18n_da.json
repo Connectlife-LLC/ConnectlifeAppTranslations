@@ -8658,5 +8658,13 @@
     "CL_DV_WINE_area_choose_tips": "Vælg hvilken(e) zone(r) temperaturen og luftfugtigheden skal indstilles for.",
     "CL_DV_WINE_alarm_volume": "Alarmlydstyrke",
     "ac_fast_mode": "Hurtig tilstand",
-    "auto_mode": "Automatisk tilstand"
+    "auto_mode": "Automatisk tilstand",
+    "CL_CF_LG_eu_data_act_2": "Meddelelse om EU-datalovgivningen",
+    "CL_CF_LG_enduser_terms_2": "Vilkår og betingelser for slutbruger",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife kræver lokationstjenester for at bestemme enhedens placering. Aktiver venligst denne funktion i dine telefonindstillinger for at få adgang til alle funktioner.",
+    "CL_CF_CS_exit": "Afslut",
+    "CL_DV_TV_add_google_open_ip_control": "Naviger til Indstillinger → Kanaler og indgange → Eksterne indgange for at aktivere Netværks-IP-kontrolport.",
+    "CL_DV_TV_add_google_see_ip": "Naviger til Indstillinger → Netværk og internet → Wi-Fi for at finde det tilsluttede netværk og finde IP- og MAC-adresser.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Klik på indstillingsknappen på fjernbetjeningen, gå til Udforsk mere → Smart Home, og aktivér derefter Netværks-IP-kontrolport.",
+    "CL_ENERGY_energy_device_name_fallback": "Energisystem"
 }
