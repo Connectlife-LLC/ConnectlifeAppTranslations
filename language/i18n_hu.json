@@ -8658,5 +8658,15 @@
     "CL_DV_WINE_area_choose_tips": "Válassza ki, hogy mely zónához/zónákhoz szeretné beállítani a hőmérsékletet és a páratartalmat.",
     "CL_DV_WINE_alarm_volume": "Riasztás hangereje",
     "ac_fast_mode": "Gyors mód",
-    "auto_mode": "Automatikus mód"
+    "auto_mode": "Automatikus mód",
+    "CL_CF_LG_eu_data_act_2": "EU adatvédelmi törvény értesítése",
+    "CL_CF_LG_enduser_terms_2": "Végfelhasználói Felhasználási Feltételek",
+    "CL_CF_CS_enable_location_service_tip": "A ConnectLife használatához helymeghatározási szolgáltatásokra van szükség az eszköz helyének meghatározásához. Kérjük, engedélyezze ezt a funkciót a telefon beállításaiban az összes funkció eléréséhez.",
+    "CL_CF_CS_exit": "Kijárat",
+    "CL_DV_TV_add_google_open_ip_control": "Navigáljon a Beállítások → Csatornák és bemenetek → Külső bemenetek menüpontra a Hálózati IP-vezérlőport bekapcsolásához.",
+    "CL_DV_TV_add_google_see_ip": "Lépjen a Beállítások​ → Hálózat és internet → Wi-Fi​ menüpontra, hogy megkeresse a csatlakoztatott hálózatot az IP- és MAC-címek megtekintéséhez.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Kattintson a távirányító beállítás gombjára, lépjen a Továbbiak → Okosotthon menüpontra, majd kapcsolja be a Hálózati IP-vezérlőport lehetőséget.",
+    "CL_CF_air_care_control_title": "Nappali állapota",
+    "turn_on_eco_mode": "Kapcsolja be az Eco módot",
+    "turn_on_turbo": "Kapcsolja be a Turbót"
 }

@@ -8658,5 +8658,15 @@
     "CL_DV_WINE_area_choose_tips": "Wybierz strefę(-y), dla której(-ych) chcesz ustawić temperaturę i wilgotność.",
     "CL_DV_WINE_alarm_volume": "Głośność alarmu",
     "ac_fast_mode": "Tryb szybki",
-    "auto_mode": "Tryb automatyczny"
+    "auto_mode": "Tryb automatyczny",
+    "CL_CF_LG_eu_data_act_2": "Powiadomienie o ustawie UE o danych",
+    "CL_CF_LG_enduser_terms_2": "Warunki dla użytkownika końcowego",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife wymaga usług lokalizacyjnych do określenia lokalizacji urządzenia. Włącz tę funkcję w ustawieniach telefonu, aby uzyskać dostęp do wszystkich funkcji.",
+    "CL_CF_CS_exit": "Wyjdź",
+    "CL_DV_TV_add_google_open_ip_control": "Przejdź do Ustawienia → Kanały i wejścia → Wejścia zewnętrzne, aby włączyć port sterowania siecią IP.",
+    "CL_DV_TV_add_google_see_ip": "Przejdź do Ustawienia → Sieć i Internet → Wi-Fi, aby znaleźć podłączoną sieć i sprawdzić adresy IP i MAC.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Kliknij przycisk ustawień na pilocie, przejdź do sekcji Poznaj więcej → Inteligentny dom, a następnie włącz opcję Port kontroli sieci IP.",
+    "CL_CF_air_care_control_title": "Status salonu",
+    "turn_on_eco_mode": "Włącz tryb Eco",
+    "turn_on_turbo": "Włącz Turbo"
 }

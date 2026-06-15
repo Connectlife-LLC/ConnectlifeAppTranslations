@@ -8658,5 +8658,15 @@
     "CL_DV_WINE_area_choose_tips": "Selecteer voor welke zone(s) de temperatuur en de luchtvochtigheid moeten worden ingesteld.",
     "CL_DV_WINE_alarm_volume": "Alarmvolume",
     "ac_fast_mode": "Snelle modus",
-    "auto_mode": "Automatische modus"
+    "auto_mode": "Automatische modus",
+    "CL_CF_LG_eu_data_act_2": "EU-gegevenswet kennisgeving",
+    "CL_CF_LG_enduser_terms_2": "Voorwaarden voor eindgebruikers",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife heeft locatieservices nodig om de locatie van het apparaat te bepalen. Schakel deze functie in de instellingen van uw telefoon in om alle functies te kunnen gebruiken.",
+    "CL_CF_CS_exit": "Afsluiten",
+    "CL_DV_TV_add_google_open_ip_control": "Ga naar Instellingen → Kanalen en ingangen → Externe ingangen om de netwerk-IP-besturingspoort in te schakelen.",
+    "CL_DV_TV_add_google_see_ip": "Ga naar Instellingen → Netwerk en internet → Wi-Fi om het verbonden netwerk te vinden en de IP- en MAC-adressen te achterhalen.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Klik op de instellingenknop op de afstandsbediening, ga naar Meer ontdekken → Smart Home en schakel vervolgens Netwerk-IP-besturingspoort in.",
+    "CL_CF_air_care_control_title": "Status van de woonkamer",
+    "turn_on_eco_mode": "Schakel de Eco-modus in.",
+    "turn_on_turbo": "Schakel Turbo in"
 }

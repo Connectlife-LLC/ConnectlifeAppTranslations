@@ -8658,5 +8658,15 @@
     "CL_DV_WINE_area_choose_tips": "Välj för vilken/vilka zoner temperaturen och luftfuktigheten ska ställas in.",
     "CL_DV_WINE_alarm_volume": "Larmvolym",
     "ac_fast_mode": "Snabbläge",
-    "auto_mode": "Autoläge"
+    "auto_mode": "Autoläge",
+    "CL_CF_LG_eu_data_act_2": "Anmälan till EU:s datalag",
+    "CL_CF_LG_enduser_terms_2": "Användaravtal",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife kräver platstjänster för att fastställa enhetens plats. Aktivera den här funktionen i dina telefoninställningar för att få åtkomst till alla funktioner.",
+    "CL_CF_CS_exit": "Avsluta",
+    "CL_DV_TV_add_google_open_ip_control": "Navigera till Inställningar → Kanaler och ingångar → Externa ingångar för att aktivera Nätverks-IP-kontrollport.",
+    "CL_DV_TV_add_google_see_ip": "Navigera till Inställningar → Nätverk och internet → Wi-Fi för att hitta det anslutna nätverket och hitta IP- och MAC-adresser.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Klicka på inställningsknappen på fjärrkontrollen, gå till Utforska mer → Smart hem och aktivera sedan Nätverks-IP-kontrollport.",
+    "CL_CF_air_care_control_title": "Vardagsrumsstatus",
+    "turn_on_eco_mode": "Aktivera ekoläget",
+    "turn_on_turbo": "Slå på Turbo"
 }

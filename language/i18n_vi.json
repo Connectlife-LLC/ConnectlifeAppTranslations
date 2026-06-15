@@ -8658,5 +8658,15 @@
     "CL_DV_WINE_area_choose_tips": "Chọn khu vực (hoặc các khu vực) cần thiết lập nhiệt độ và độ ẩm.",
     "CL_DV_WINE_alarm_volume": "Âm lượng báo động",
     "ac_fast_mode": "Chế độ nhanh",
-    "auto_mode": "Chế độ tự động"
+    "auto_mode": "Chế độ tự động",
+    "CL_CF_LG_eu_data_act_2": "Thông báo theo Đạo luật Dữ liệu của EU",
+    "CL_CF_LG_enduser_terms_2": "Điều khoản và điều kiện cho người dùng cuối",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife yêu cầu dịch vụ định vị để xác định vị trí thiết bị. Vui lòng bật tính năng này trong cài đặt điện thoại của bạn để truy cập đầy đủ các chức năng.",
+    "CL_CF_CS_exit": "Ra",
+    "CL_DV_TV_add_google_open_ip_control": "Vào Cài đặt → Kênh và đầu vào → Đầu vào bên ngoài để bật Cổng điều khiển IP mạng.",
+    "CL_DV_TV_add_google_see_ip": "Vào Cài đặt → Mạng & Internet → Wi-Fi để tìm mạng đang kết nối và tìm địa chỉ IP cũng như địa chỉ MAC.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Nhấn nút cài đặt trên điều khiển từ xa, vào Khám phá thêm → Nhà thông minh, sau đó bật Cổng điều khiển IP mạng.",
+    "CL_CF_air_care_control_title": "Tình trạng phòng khách",
+    "turn_on_eco_mode": "Bật chế độ Eco",
+    "turn_on_turbo": "Bật chế độ Turbo"
 }

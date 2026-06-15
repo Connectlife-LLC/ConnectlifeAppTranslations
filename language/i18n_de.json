@@ -8658,5 +8658,15 @@
     "CL_DV_WINE_area_choose_tips": "Wählen Sie aus, für welche Zone(n) die Temperatur und die Luftfeuchtigkeit eingestellt werden sollen.",
     "CL_DV_WINE_alarm_volume": "Alarmlautstärke",
     "ac_fast_mode": "Schnellmodus",
-    "auto_mode": "Automatikmodus"
+    "auto_mode": "Automatikmodus",
+    "CL_CF_LG_eu_data_act_2": "Benachrichtigung gemäß EU-Datenschutzgesetz",
+    "CL_CF_LG_enduser_terms_2": "Allgemeine Geschäftsbedingungen für Endbenutzer",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife benötigt Ortungsdienste, um den Standort Ihres Geräts zu ermitteln. Bitte aktivieren Sie diese Funktion in Ihren Telefoneinstellungen, um alle Funktionen nutzen zu können.",
+    "CL_CF_CS_exit": "Beenden",
+    "CL_DV_TV_add_google_open_ip_control": "Navigieren Sie zu Einstellungen → Kanäle und Eingänge → Externe Eingänge, um den Netzwerk-IP-Steuerungsport zu aktivieren.",
+    "CL_DV_TV_add_google_see_ip": "Navigieren Sie zu Einstellungen → Netzwerk & Internet → WLAN, um das verbundene Netzwerk zu finden und die IP- und MAC-Adressen zu ermitteln.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Klicken Sie auf die Einstellungstaste auf der Fernbedienung, gehen Sie zu Mehr entdecken → Smart Home und aktivieren Sie dann den Netzwerk-IP-Steuerungsport.",
+    "CL_CF_air_care_control_title": "Wohnzimmerstatus",
+    "turn_on_eco_mode": "Eco-Modus aktivieren",
+    "turn_on_turbo": "Turbo einschalten"
 }
