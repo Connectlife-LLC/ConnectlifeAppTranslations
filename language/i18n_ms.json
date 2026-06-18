@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Navigasi ke Tetapan → Saluran dan input → Input luaran​ untuk menghidupkan Port Kawalan IP Rangkaian.",
     "CL_DV_TV_add_google_see_ip": "Navigasi ke Tetapan → Rangkaian & Internet → Wi-Fi untuk mencari rangkaian yang disambungkan bagi mencari alamat IP dan MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klik butang tetapan pada alat kawalan jauh, pergi ke Terokai lebih lanjut → Rumah Pintar, kemudian hidupkan Port Kawalan IP Rangkaian.",
-    "CL_CF_air_care_control_title": "Status ruang tamu"
+    "CL_CF_air_care_control_title": "Status ruang tamu",
+    "turn_on_eco_mode": "Hidupkan mod Eko",
+    "turn_on_turbo": "Hidupkan Turbo",
+    "test_key": "^hello^  %world%  musim sejuk.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Sama ada hendak menghidupkan mod Super Beku.",
+    "ai_trouble_shooting_app_eg1": "Peranti saya di luar talian. Apa yang perlu saya lakukan?",
+    "ai_trouble_shooting_app_eg2": "Kod QR tidak berfungsi semasa menambah peranti.",
+    "ai_trouble_shooting_app_eg3": "Saya tidak boleh menghidupkan ketuhar saya daripada aplikasi.",
+    "CL_DV_RF_mark_guide_step1_title": "Tindakan pantas ",
+    "CL_DV_RF_mark_guide_step1_content": "Aktifkan fungsi serta-merta.",
+    "CL_DV_RF_guide_help_support_desc": "Cari jawapan dan selesaikan masalah pada bila-bila masa.",
+    "CL_DV_RF_guide_manuals_desc": "Akses manual peranti anda dengan cepat.",
+    "CL_DV_RF_guide_share_device_desc": "Jemput orang lain untuk mengakses dan mengawal peranti anda."
 }

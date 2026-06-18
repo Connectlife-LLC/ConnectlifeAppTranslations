@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Siirry kohtaan Asetukset → Kanavat ja tulot → Ulkoiset tulot ottaaksesi käyttöön verkon IP-ohjausportin.",
     "CL_DV_TV_add_google_see_ip": "Siirry kohtaan Asetukset → Verkko ja internet → Wi-Fi ja etsi yhdistetty verkko IP- ja MAC-osoitteiden selvittämiseksi.",
     "CL_DV_TV_add_fire_tv_open_ip": "Napsauta kaukosäätimen asetuspainiketta, siirry kohtaan Tutustu lisää → Älykoti ja ota sitten käyttöön Verkko IP-ohjausportti.",
-    "CL_CF_air_care_control_title": "Olohuoneen tila"
+    "CL_CF_air_care_control_title": "Olohuoneen tila",
+    "turn_on_eco_mode": "Ota Eco-tila käyttöön",
+    "turn_on_turbo": "Ota turbo käyttöön",
+    "test_key": "^hei^  %world%  talvi.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Haluatko kytkeä Super Freeze -tilan päälle.",
+    "ai_trouble_shooting_app_eg1": "Laitteeni on offline-tilassa. Mitä minun pitäisi tehdä?",
+    "ai_trouble_shooting_app_eg2": "QR-koodi ei toimi laitetta lisättäessä.",
+    "ai_trouble_shooting_app_eg3": "En saa uuniani käynnistettyä sovelluksesta.",
+    "CL_DV_RF_mark_guide_step1_title": "Pikatoiminnot ",
+    "CL_DV_RF_mark_guide_step1_content": "Aktivoi toiminnot välittömästi.",
+    "CL_DV_RF_guide_help_support_desc": "Löydä vastauksia ja ratkaise vianmäärityksiä milloin tahansa.",
+    "CL_DV_RF_guide_manuals_desc": "Käytä laitteen käyttöohjetta nopeasti.",
+    "CL_DV_RF_guide_share_device_desc": "Kutsu muita käyttämään ja hallitsemaan laitettasi."
 }

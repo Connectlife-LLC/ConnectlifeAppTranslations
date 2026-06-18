@@ -2477,7 +2477,7 @@
     "add_devices_to_the_room": "Agregar dispositivos a la habitación",
     "delete_room": "ELIMINAR HABITACIÓN",
     "done": "Hecho",
-    "add_devices_title": "Agregar dispositivos",
+    "add_devices_title": "Agregar",
     "looking_for_manuals": "buscando manuales...",
     "add_devices_to_room": "Elija uno o varios dispositivos que desee agregar a xx.",
     "recipe_bake_step_load_fail": "Error al cargar el paso de horneado de la receta",
@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Navegue a Configuración → Canales y entradas → Entradas externas para activar el puerto de control IP de red.",
     "CL_DV_TV_add_google_see_ip": "Navegue a Configuración → Red e Internet → Wi-Fi para encontrar la red conectada y obtener las direcciones IP y MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Haz clic en el botón de configuración del control remoto, ve a Explorar más → Hogar inteligente y, a continuación, activa el Puerto de control IP de red.",
-    "CL_CF_air_care_control_title": "estado de la sala de estar"
+    "CL_CF_air_care_control_title": "estado de la sala de estar",
+    "turn_on_eco_mode": "Activar el modo Eco",
+    "turn_on_turbo": "Activar Turbo",
+    "test_key": "^hola^  %world%  invierno.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Si se debe activar el modo Super Freeze.",
+    "ai_trouble_shooting_app_eg1": "Mi dispositivo está sin conexión. ¿Qué debo hacer?",
+    "ai_trouble_shooting_app_eg2": "El código QR no funciona al agregar el dispositivo.",
+    "ai_trouble_shooting_app_eg3": "No puedo encender el horno desde la aplicación.",
+    "CL_DV_RF_mark_guide_step1_title": "Acciones rápidas ",
+    "CL_DV_RF_mark_guide_step1_content": "Activa las funciones al instante.",
+    "CL_DV_RF_guide_help_support_desc": "Encuentra respuestas y soluciona problemas en cualquier momento.",
+    "CL_DV_RF_guide_manuals_desc": "Acceda rápidamente al manual de su dispositivo.",
+    "CL_DV_RF_guide_share_device_desc": "Invita a otros a acceder y controlar tu dispositivo."
 }

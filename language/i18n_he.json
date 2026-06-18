@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "נווט אל הגדרות ← ערוצים וכניסות ← כניסות חיצוניות כדי להפעיל את יציאת בקרת IP של הרשת.",
     "CL_DV_TV_add_google_see_ip": "נווט אל הגדרות​ ← רשת ואינטרנט ← Wi-Fi​ כדי למצוא את הרשת המחוברת ולמצוא כתובות IP ו-MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "לחצו על כפתור ההגדרות בשלט הרחוק, עברו אל \"חקרו עוד\" ← \"בית חכם\", לאחר מכן הפעילו את \"יציאת בקרת IP של הרשת\".",
-    "CL_CF_air_care_control_title": "סטטוס הסלון"
+    "CL_CF_air_care_control_title": "סטטוס הסלון",
+    "turn_on_eco_mode": "הפעל את מצב אקו",
+    "turn_on_turbo": "הפעל את הטורבו",
+    "test_key": "שלום  %world%  חוֹרֶף.",
+    "CL_DV_RF_speed_cool_freeze_info2": "האם להפעיל את מצב הקפאה סופר (Super Freeze).",
+    "ai_trouble_shooting_app_eg1": "המכשיר שלי לא מקוון. מה עליי לעשות?",
+    "ai_trouble_shooting_app_eg2": "קוד ה-QR לא עובד בעת הוספת מכשיר.",
+    "ai_trouble_shooting_app_eg3": "אני לא מצליח להפעיל את התנור שלי מהאפליקציה.",
+    "CL_DV_RF_mark_guide_step1_title": "פעולות מהירות ",
+    "CL_DV_RF_mark_guide_step1_content": "הפעל פונקציות באופן מיידי.",
+    "CL_DV_RF_guide_help_support_desc": "מצא תשובות ופתור בעיות בכל עת",
+    "CL_DV_RF_guide_manuals_desc": "גש במהירות למדריך המכשיר שלך.",
+    "CL_DV_RF_guide_share_device_desc": "הזמן אחרים לגשת למכשיר שלך ולשלוט בו."
 }

@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Naviger til Indstillinger → Kanaler og indgange → Eksterne indgange for at aktivere Netværks-IP-kontrolport.",
     "CL_DV_TV_add_google_see_ip": "Naviger til Indstillinger → Netværk og internet → Wi-Fi for at finde det tilsluttede netværk og finde IP- og MAC-adresser.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klik på indstillingsknappen på fjernbetjeningen, gå til Udforsk mere → Smart Home, og aktivér derefter Netværks-IP-kontrolport.",
-    "CL_CF_air_care_control_title": "Status på stuen"
+    "CL_CF_air_care_control_title": "Status på stuen",
+    "turn_on_eco_mode": "Slå Eco-tilstand til",
+    "turn_on_turbo": "Slå Turbo til",
+    "test_key": "^hej^  %world%  vinter.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Om Superfrys-tilstanden skal aktiveres.",
+    "ai_trouble_shooting_app_eg1": "Min enhed er offline. Hvad skal jeg gøre?",
+    "ai_trouble_shooting_app_eg2": "QR-koden virker ikke, når jeg tilføjer enhed.",
+    "ai_trouble_shooting_app_eg3": "Jeg kan ikke starte min ovn fra appen.",
+    "CL_DV_RF_mark_guide_step1_title": "Hurtige handlinger ",
+    "CL_DV_RF_mark_guide_step1_content": "Aktiver funktioner med det samme.",
+    "CL_DV_RF_guide_help_support_desc": "Find svar og fejlfind når som helst.",
+    "CL_DV_RF_guide_manuals_desc": "Få hurtig adgang til din enhedsmanual.",
+    "CL_DV_RF_guide_share_device_desc": "Inviter andre til at få adgang til og styre din enhed."
 }

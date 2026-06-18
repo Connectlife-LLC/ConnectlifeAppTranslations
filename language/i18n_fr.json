@@ -2477,7 +2477,7 @@
     "add_devices_to_the_room": "Ajouter des appareils à la pièce",
     "delete_room": "SUPPRIMER CHAMBRE",
     "done": "Fait",
-    "add_devices_title": "Ajouter des appareils",
+    "add_devices_title": "Ajout appar.",
     "looking_for_manuals": "Vous cherchez des manuels…",
     "add_devices_to_room": "Choisissez un ou plusieurs appareils que vous souhaitez ajouter à xx.",
     "recipe_bake_step_load_fail": "Échec du chargement de l'étape de cuisson de la recette",
@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Accédez à Paramètres → Canaux et entrées → Entrées externes pour activer le port de contrôle IP réseau.",
     "CL_DV_TV_add_google_see_ip": "Accédez à Paramètres → Réseau et Internet → Wi-Fi pour trouver le réseau connecté et ainsi obtenir les adresses IP et MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Cliquez sur le bouton de réglage de la télécommande, allez dans Explorer plus → Maison intelligente, puis activez le port de contrôle IP réseau.",
-    "CL_CF_air_care_control_title": "État du salon"
+    "CL_CF_air_care_control_title": "État du salon",
+    "turn_on_eco_mode": "Activer le mode Éco",
+    "turn_on_turbo": "Activer le mode Turbo",
+    "test_key": "^bonjour^  %world%  hiver.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Faut-il activer le mode Super Congélation ?",
+    "ai_trouble_shooting_app_eg1": "Mon appareil est hors ligne. Que dois-je faire ?",
+    "ai_trouble_shooting_app_eg2": "Le code QR ne fonctionne pas lors de l'ajout d'un appareil.",
+    "ai_trouble_shooting_app_eg3": "Je ne peux pas allumer mon four depuis l'application.",
+    "CL_DV_RF_mark_guide_step1_title": "Actions rapides ",
+    "CL_DV_RF_mark_guide_step1_content": "Activez les fonctions instantanément.",
+    "CL_DV_RF_guide_help_support_desc": "Trouvez des réponses et résolvez les problèmes à tout moment.",
+    "CL_DV_RF_guide_manuals_desc": "Accédez rapidement au manuel de votre appareil.",
+    "CL_DV_RF_guide_share_device_desc": "Invitez d'autres personnes à accéder à votre appareil et à le contrôler."
 }
