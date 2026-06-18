@@ -8658,5 +8658,13 @@
     "CL_DV_WINE_area_choose_tips": "Seleccione para qué zona(s) se deben configurar la temperatura y la humedad.",
     "CL_DV_WINE_alarm_volume": "Volumen de alarma",
     "ac_fast_mode": "Modo rápido",
-    "auto_mode": "Modo automático"
+    "auto_mode": "Modo automático",
+    "CL_CF_LG_eu_data_act_2": "Notificación conforme a la Ley de Protección de Datos de la UE",
+    "CL_CF_LG_enduser_terms_2": "Términos y condiciones para el usuario final",
+    "CL_CF_CS_enable_location_service_tip": "ConnectLife requiere los servicios de ubicación para determinar la ubicación del dispositivo. Active esta función en la configuración de su teléfono para acceder a todas las funciones.",
+    "CL_CF_CS_exit": "Salir",
+    "CL_DV_TV_add_google_open_ip_control": "Navegue a Configuración → Canales y entradas → Entradas externas para activar el puerto de control IP de red.",
+    "CL_DV_TV_add_google_see_ip": "Navegue a Configuración → Red e Internet → Wi-Fi para encontrar la red conectada y obtener las direcciones IP y MAC.",
+    "CL_DV_TV_add_fire_tv_open_ip": "Haz clic en el botón de configuración del control remoto, ve a Explorar más → Hogar inteligente y, a continuación, activa el Puerto de control IP de red.",
+    "CL_CF_air_care_control_title": "estado de la sala de estar"
 }
