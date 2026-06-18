@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Ayarlar → Kanallar ve girişler → Harici girişler bölümüne giderek Ağ IP Kontrol Portunu açın.",
     "CL_DV_TV_add_google_see_ip": "Ayarlar → Ağ ve İnternet → Wi-Fi yolunu izleyerek bağlı olduğunuz ağın IP ve MAC adreslerini bulabilirsiniz.",
     "CL_DV_TV_add_fire_tv_open_ip": "Uzaktan kumandadaki ayarlar düğmesine tıklayın, Daha fazlasını keşfedin → Akıllı Ev bölümüne gidin ve ardından Ağ IP Kontrol Bağlantı Noktasını açın.",
-    "CL_CF_air_care_control_title": "Oturma odası durumu"
+    "CL_CF_air_care_control_title": "Oturma odası durumu",
+    "turn_on_eco_mode": "Eko modu açın",
+    "turn_on_turbo": "Turbo'yu açın",
+    "test_key": "^merhaba^  %world%  kış.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Süper Dondurma modunu açıp açmamak.",
+    "ai_trouble_shooting_app_eg1": "Cihazım çevrimdışı. Ne yapmalıyım?",
+    "ai_trouble_shooting_app_eg2": "Cihaz eklerken QR kodu çalışmıyor.",
+    "ai_trouble_shooting_app_eg3": "Fırınımı uygulamadan çalıştıramıyorum.",
+    "CL_DV_RF_mark_guide_step1_title": "Hızlı işlemler ",
+    "CL_DV_RF_mark_guide_step1_content": "Fonksiyonları anında etkinleştirin.",
+    "CL_DV_RF_guide_help_support_desc": "İstediğiniz zaman cevapları bulun ve sorunları çözün.",
+    "CL_DV_RF_guide_manuals_desc": "Cihazınızın kullanım kılavuzuna hızlıca erişin.",
+    "CL_DV_RF_guide_share_device_desc": "Başka kişilerin cihazınıza erişmesine ve kontrol etmesine izin verin."
 }

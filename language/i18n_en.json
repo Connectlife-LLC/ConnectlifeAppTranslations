@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Navigate to Settings → Channels and inputs → External inputs​ to turn on Network IP Control Port.",
     "CL_DV_TV_add_google_see_ip": "Navigate to Settings​ → Network & Internet → Wi-Fi​ to find the connected network to find  IP and MAC addresses.",
     "CL_DV_TV_add_fire_tv_open_ip": "Click the setting button on the remote control, go to Explore more → Smart Home, then turn on Network IP Control Port.",
-    "CL_CF_air_care_control_title": "Living room status"
+    "CL_CF_air_care_control_title": "Living room status",
+    "turn_on_eco_mode": "Turn on Eco mode",
+    "turn_on_turbo": "Turn on Turbo",
+    "test_key": "^hello^  %world%  winter.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Whether to turn on the Super Freeze mode.",
+    "ai_trouble_shooting_app_eg1": "My device is offline. What should I do?",
+    "ai_trouble_shooting_app_eg2": "QR code not working when adding device.",
+    "ai_trouble_shooting_app_eg3": "I can't start my oven from the app.",
+    "CL_DV_RF_mark_guide_step1_title": "Quick actions ",
+    "CL_DV_RF_mark_guide_step1_content": "Activate functions instantly.",
+    "CL_DV_RF_guide_help_support_desc": "Find answers and troubleshoot anytime.",
+    "CL_DV_RF_guide_manuals_desc": "Access your device manual quickly.",
+    "CL_DV_RF_guide_share_device_desc": "Invite others to access and control your device."
 }

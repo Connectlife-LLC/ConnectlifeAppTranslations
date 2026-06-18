@@ -8634,7 +8634,7 @@
     "CL_data_request_form_2": "数据请求表",
     "CL_AI_rephrase_question": "如果以上方法都无法解答你的问题，你可以尝试重新表述一下。",
     "add_mobile_ac_2_2": "确认@device的显示屏显示“77”。\n 这意味着设备已进入 Wi-Fi 配对模式。如果显示屏未显示“77”，请重复步骤 3。",
-    "CL_DV_WINE_general_volume": "总卷",
+    "CL_DV_WINE_general_volume": "主音量",
     "CL_DV_WINE_traditional_lock": "传统锁",
     "CL_DV_RF_eco_micro_freeze_toast": "Crisper Drawer“微冰结”模式下ECO模式不可用",
     "CL_DV_RF_micro_freeze_temp_toast": "Crisper Drawer“微冰结”模式下无法调节冰箱温度",
@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "进入设置→通道和输入→外部输入，打开网络IP控制端口。",
     "CL_DV_TV_add_google_see_ip": "进入“设置”→“网络和互联网”→“Wi-Fi”查找已连接的网络，以查找 IP 和 MAC 地址。",
     "CL_DV_TV_add_fire_tv_open_ip": "点击遥控器上的设置按钮，进入“探索更多”→“智能家居”，然后打开“网络IP控制端口”。",
-    "CL_CF_air_care_control_title": "客厅状况"
+    "CL_CF_air_care_control_title": "客厅状况",
+    "turn_on_eco_mode": "开启节能模式",
+    "turn_on_turbo": "开启涡轮增压",
+    "test_key": "你好  %world%  冬天。",
+    "CL_DV_RF_speed_cool_freeze_info2": "是否开启超级冷冻模式。",
+    "ai_trouble_shooting_app_eg1": "我的设备离线了，该怎么办？",
+    "ai_trouble_shooting_app_eg2": "添加设备时二维码无法正常工作。",
+    "ai_trouble_shooting_app_eg3": "我无法通过应用程序启动烤箱。",
+    "CL_DV_RF_mark_guide_step1_title": "快速行动 ",
+    "CL_DV_RF_mark_guide_step1_content": "立即激活各项功能。",
+    "CL_DV_RF_guide_help_support_desc": "随时查找答案并排除故障。",
+    "CL_DV_RF_guide_manuals_desc": "快速查阅您的设备手册。",
+    "CL_DV_RF_guide_share_device_desc": "邀请他人访问和控制您的设备。"
 }

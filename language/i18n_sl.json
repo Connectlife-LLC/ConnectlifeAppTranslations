@@ -4137,7 +4137,7 @@
     "CL_DV_OV_24_night_mode_pop_content": "Izberite, kdaj naj se začne nočni način.",
     "CL_DV_OV_24_sabbath_mode_pop_content": "Izberite, kdaj naj se začne Sabat način.",
     "input_email_address": "Vnesite e-poštni naslov",
-    "CL_DV_OV_24_cavity_lights": "Luči za votline",
+    "CL_DV_OV_24_cavity_lights": "Pečniška lučka",
     "CL_DV_OV_24_sabbath_reminder": "Sabat opomnik",
     "CL_DV_OV_24_start_sabbath": "Začni Sabat",
     "CL_DV_OV_24_end_sabbath": "Konec Sabat načina",
@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Pojdite v Nastavitve → Kanali in vhodi → Zunanji vhodi, da vklopite vrata za nadzor omrežnega IP-ja.",
     "CL_DV_TV_add_google_see_ip": "Pojdite v Nastavitve → Omrežje in internet → Wi-Fi, da poiščete povezano omrežje in naslove IP ter MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Kliknite gumb za nastavitve na daljinskem upravljalniku, pojdite na Razišči več → Pametni dom in nato vklopite Vrata za nadzor omrežnega IP-ja.",
-    "CL_CF_air_care_control_title": "Stanje dnevne sobe"
+    "CL_CF_air_care_control_title": "Stanje dnevne sobe",
+    "turn_on_eco_mode": "Vklopite eko način",
+    "turn_on_turbo": "Vklopi Turbo",
+    "test_key": "^Živjo^  %world%  zima.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Ali naj se vklopi način Super Freeze.",
+    "ai_trouble_shooting_app_eg1": "Moja naprava je brez povezave. Kaj naj storim?",
+    "ai_trouble_shooting_app_eg2": "QR koda ne deluje pri dodajanju naprave.",
+    "ai_trouble_shooting_app_eg3": "Ne morem zagnati pečice iz aplikacije.",
+    "CL_DV_RF_mark_guide_step1_title": "Hitra dejanja ",
+    "CL_DV_RF_mark_guide_step1_content": "Takoj aktivirajte funkcije.",
+    "CL_DV_RF_guide_help_support_desc": "Poiščite odgovore in odpravite težave kadar koli.",
+    "CL_DV_RF_guide_manuals_desc": "Hitro dostopajte do priročnika za vašo napravo.",
+    "CL_DV_RF_guide_share_device_desc": "Povabite druge, da dostopajo do vaše naprave in jo upravljajo."
 }

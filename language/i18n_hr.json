@@ -4137,7 +4137,7 @@
     "CL_DV_OV_24_night_mode_pop_content": "Odaberite kada treba započeti Noćni način rada.",
     "CL_DV_OV_24_sabbath_mode_pop_content": "Odaberite kada treba početi Sabbath mode.",
     "input_email_address": "Unesite adresu e-pošte",
-    "CL_DV_OV_24_cavity_lights": "Svjetla za šupljinu",
+    "CL_DV_OV_24_cavity_lights": "Svjetlo pećnice",
     "CL_DV_OV_24_sabbath_reminder": "Podsjetnik na Sabbath Mode",
     "CL_DV_OV_24_start_sabbath": "Započnite Sabbath Mode",
     "CL_DV_OV_24_end_sabbath": "Završi Sabbath Mode",
@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Idite na Postavke → Kanali i ulazi → Vanjski ulazi kako biste uključili mrežni IP kontrolni priključak.",
     "CL_DV_TV_add_google_see_ip": "Idite na Postavke → Mreža i internet → Wi-Fi kako biste pronašli povezanu mrežu i IP i MAC adrese.",
     "CL_DV_TV_add_fire_tv_open_ip": "Kliknite gumb za postavke na daljinskom upravljaču, idite na Istraži više → Pametni dom, a zatim uključite Mrežni IP kontrolni port.",
-    "CL_CF_air_care_control_title": "Stanje dnevne sobe"
+    "CL_CF_air_care_control_title": "Stanje dnevne sobe",
+    "turn_on_eco_mode": "Uključite eko način rada",
+    "turn_on_turbo": "Uključi Turbo",
+    "test_key": "^bok^  %world%  zimski.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Treba li uključiti način rada Super zamrzavanje.",
+    "ai_trouble_shooting_app_eg1": "Moj uređaj je izvan mreže. Što trebam učiniti?",
+    "ai_trouble_shooting_app_eg2": "QR kod ne radi prilikom dodavanja uređaja.",
+    "ai_trouble_shooting_app_eg3": "Ne mogu pokrenuti pećnicu iz aplikacije.",
+    "CL_DV_RF_mark_guide_step1_title": "Brze radnje ",
+    "CL_DV_RF_mark_guide_step1_content": "Aktivirajte funkcije trenutno.",
+    "CL_DV_RF_guide_help_support_desc": "Pronađite odgovore i riješite probleme u bilo kojem trenutku.",
+    "CL_DV_RF_guide_manuals_desc": "Brzo pristupite priručniku za svoj uređaj.",
+    "CL_DV_RF_guide_share_device_desc": "Pozovite druge da pristupe vašem uređaju i upravljaju njime."
 }

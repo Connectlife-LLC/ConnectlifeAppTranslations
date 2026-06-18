@@ -8666,5 +8666,17 @@
     "CL_DV_TV_add_google_open_ip_control": "Navigieren Sie zu Einstellungen → Kanäle und Eingänge → Externe Eingänge, um den Netzwerk-IP-Steuerungsport zu aktivieren.",
     "CL_DV_TV_add_google_see_ip": "Navigieren Sie zu Einstellungen → Netzwerk & Internet → WLAN, um das verbundene Netzwerk zu finden und die IP- und MAC-Adressen zu ermitteln.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klicken Sie auf die Einstellungstaste auf der Fernbedienung, gehen Sie zu Mehr entdecken → Smart Home und aktivieren Sie dann den Netzwerk-IP-Steuerungsport.",
-    "CL_CF_air_care_control_title": "Wohnzimmerstatus"
+    "CL_CF_air_care_control_title": "Wohnzimmerstatus",
+    "turn_on_eco_mode": "Eco-Modus aktivieren",
+    "turn_on_turbo": "Turbo einschalten",
+    "test_key": "Hallo  %world%  Winter.",
+    "CL_DV_RF_speed_cool_freeze_info2": "Ob der Super-Freeze-Modus eingeschaltet werden soll.",
+    "ai_trouble_shooting_app_eg1": "Mein Gerät ist offline. Was soll ich tun?",
+    "ai_trouble_shooting_app_eg2": "Der QR-Code funktioniert beim Hinzufügen des Geräts nicht.",
+    "ai_trouble_shooting_app_eg3": "Ich kann meinen Backofen nicht über die App starten.",
+    "CL_DV_RF_mark_guide_step1_title": "Schnelle Aktionen ",
+    "CL_DV_RF_mark_guide_step1_content": "Funktionen sofort aktivieren.",
+    "CL_DV_RF_guide_help_support_desc": "Finden Sie jederzeit Antworten und beheben Sie Probleme.",
+    "CL_DV_RF_guide_manuals_desc": "Greifen Sie schnell auf das Handbuch Ihres Geräts zu.",
+    "CL_DV_RF_guide_share_device_desc": "Laden Sie andere ein, auf Ihr Gerät zuzugreifen und es zu steuern."
 }
