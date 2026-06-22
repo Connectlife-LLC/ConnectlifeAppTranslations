@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Användaravtal",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife kräver platstjänster för att fastställa enhetens plats. Aktivera den här funktionen i dina telefoninställningar för att få åtkomst till alla funktioner.",
     "CL_CF_CS_exit": "Avsluta",
-    "CL_DV_TV_add_google_open_ip_control": "Navigera till Inställningar → Kanaler och ingångar → Externa ingångar för att aktivera Nätverks-IP-kontrollport.",
     "CL_DV_TV_add_google_see_ip": "Navigera till Inställningar → Nätverk och internet → Wi-Fi för att hitta det anslutna nätverket och hitta IP- och MAC-adresser.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klicka på inställningsknappen på fjärrkontrollen, gå till Utforska mer → Smart hem och aktivera sedan Nätverks-IP-kontrollport.",
     "CL_CF_air_care_control_title": "Vardagsrumsstatus",
@@ -8678,5 +8677,6 @@
     "CL_DV_RF_mark_guide_step1_content": "Aktivera funktioner direkt.",
     "CL_DV_RF_guide_help_support_desc": "Hitta svar och felsök när som helst.",
     "CL_DV_RF_guide_manuals_desc": "Få snabbt tillgång till din enhetsmanual.",
-    "CL_DV_RF_guide_share_device_desc": "Bjud in andra att komma åt och kontrollera din enhet."
+    "CL_DV_RF_guide_share_device_desc": "Bjud in andra att komma åt och kontrollera din enhet.",
+    "CL_DV_TV_add_google_open_ip_control": "Navigera till Snabbinställningar → Alla inställningar → Kanaler och ingångar → Externa ingångar för att aktivera Nätverks-IP-kontrollport."
 }

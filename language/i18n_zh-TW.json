@@ -4257,7 +4257,7 @@
     "CL_CF_CS_ble_scan_have_found": "我們透過藍牙找到設備。選擇要配置的設備。",
     "pump_holiday_start_time_greater_one_day": "假日模式設置必須大於 1 天！",
     "CL_CF_FM_food_type": "食物類型",
-    "CL_CF_FM_add_food_from_lib": "從圖書館添加食物",
+    "CL_CF_FM_add_food_from_lib": "從庫中添加食物",
     "CL_CF_FM_items_check": "物品檢查",
     "CL_CF_FM_items_check_desc": "請檢查是否需要修改食品訊息",
     "CL_CF_FM_add_to_ref": "添加到冰箱",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "用戶條款與使用條件",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife 需要使用定位服務來確定裝置位置。請在手機設定中啟用此功能以存取所有功能。",
     "CL_CF_CS_exit": "退出",
-    "CL_DV_TV_add_google_open_ip_control": "進入設定→通道和輸入→外部輸入，開啟網路IP控制埠。",
     "CL_DV_TV_add_google_see_ip": "進入「設定」→「網路和互聯網」→「Wi-Fi」尋找已連接的網絡，以尋找 IP 和 MAC 位址。",
     "CL_DV_TV_add_fire_tv_open_ip": "點擊遙控器上的設定按鈕，進入“探索更多”→“智慧家庭”，然後開啟“網路IP控制埠”。",
     "CL_CF_air_care_control_title": "客廳狀況",
@@ -8678,5 +8677,6 @@
     "CL_DV_RF_mark_guide_step1_content": "立即啟動各項功能。",
     "CL_DV_RF_guide_help_support_desc": "隨時找出答案並排除故障。",
     "CL_DV_RF_guide_manuals_desc": "快速查閱您的設備手冊。",
-    "CL_DV_RF_guide_share_device_desc": "邀請他人存取和控制您的裝置。"
+    "CL_DV_RF_guide_share_device_desc": "邀請他人存取和控制您的裝置。",
+    "CL_DV_TV_add_google_open_ip_control": "導覽至快速設定 → 所有設定 → 頻道和輸入 → 外部輸入，以啟用網路 IP 控制連接埠。"
 }

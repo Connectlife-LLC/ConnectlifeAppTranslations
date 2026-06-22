@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "エンドユーザー利用規約",
     "CL_CF_CS_enable_location_service_tip": "ConnectLifeは、端末の位置を特定するために位置情報サービスを必要とします。すべての機能をご利用いただくには、スマートフォンの設定で位置情報サービスを有効にしてください。",
     "CL_CF_CS_exit": "終了",
-    "CL_DV_TV_add_google_open_ip_control": "設定 → チャンネルと入力 → 外部入力に移動して、ネットワークIP制御ポートをオンにします。",
     "CL_DV_TV_add_google_see_ip": "設定 → ネットワークとインターネット → Wi-Fi に移動して、接続されているネットワークを探し、IP アドレスと MAC アドレスを確認してください。",
     "CL_DV_TV_add_fire_tv_open_ip": "リモコンの設定ボタンをクリックし、「詳細を見る」→「スマートホーム」に進み、「ネットワークIP制御ポート」をオンにします。",
     "CL_CF_air_care_control_title": "リビングルームの状況",
@@ -8678,5 +8677,6 @@
     "CL_DV_RF_mark_guide_step1_content": "機能を即座に有効化します。",
     "CL_DV_RF_guide_help_support_desc": "いつでも解決策を見つけたり、トラブルシューティングを行ったりできます。",
     "CL_DV_RF_guide_manuals_desc": "デバイスのマニュアルにすぐにアクセスできます。",
-    "CL_DV_RF_guide_share_device_desc": "他のユーザーを招待して、デバイスへのアクセス権限と操作権限を付与します。"
+    "CL_DV_RF_guide_share_device_desc": "他のユーザーを招待して、デバイスへのアクセス権限と操作権限を付与します。",
+    "CL_DV_TV_add_google_open_ip_control": "クイック設定 → すべての設定 → チャンネルと入力 → 外部入力に移動して、ネットワーク IP コントロール ポートをオンにします。"
 }

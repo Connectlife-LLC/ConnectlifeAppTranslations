@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Termeni și condiții pentru utilizatorul final",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife necesită servicii de localizare pentru a determina locația dispozitivului. Vă rugăm să activați această funcție în setările telefonului pentru a accesa toate funcțiile.",
     "CL_CF_CS_exit": "Ieșire",
-    "CL_DV_TV_add_google_open_ip_control": "Navigați la Setări → Canale și intrări → Intrări externe pentru a activa Portul de control IP al rețelei.",
     "CL_DV_TV_add_google_see_ip": "Navigați la Setări → Rețea și internet → Wi-Fi pentru a găsi rețeaua conectată și a afla adresele IP și MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Faceți clic pe butonul de setări de pe telecomandă, accesați Explorează mai multe → Casă inteligentă, apoi activați Port de control IP rețea.",
     "CL_CF_air_care_control_title": "Starea camerei de zi",
@@ -8678,5 +8677,6 @@
     "CL_DV_RF_mark_guide_step1_content": "Activează funcțiile instantaneu.",
     "CL_DV_RF_guide_help_support_desc": "Găsește răspunsuri și depanează oricând.",
     "CL_DV_RF_guide_manuals_desc": "Accesați rapid manualul dispozitivului.",
-    "CL_DV_RF_guide_share_device_desc": "Invită alte persoane să acceseze și să controleze dispozitivul tău."
+    "CL_DV_RF_guide_share_device_desc": "Invită alte persoane să acceseze și să controleze dispozitivul tău.",
+    "CL_DV_TV_add_google_open_ip_control": "Navigați la Setări rapide → Toate setările → Canale și intrări → Intrări externe pentru a activa Portul de control IP al rețelei."
 }

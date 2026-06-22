@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Termos e condições do utilizador final",
     "CL_CF_CS_enable_location_service_tip": "O ConnectLife requer serviços de localização para determinar a localização do dispositivo. Ative esse recurso nas configurações do seu telefone para acessar todas as funções.",
     "CL_CF_CS_exit": "Sair",
-    "CL_DV_TV_add_google_open_ip_control": "Acesse Configurações → Canais e entradas → Entradas externas para ativar a Porta de Controle IP de Rede.",
     "CL_DV_TV_add_google_see_ip": "Acesse Configurações → Rede e Internet → Wi-Fi para encontrar a rede à qual você está conectado e, assim, obter os endereços IP e MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Clique no botão de configurações no controle remoto, acesse Explorar mais → Casa Inteligente e ative a Porta de Controle IP de Rede.",
     "CL_CF_air_care_control_title": "Status da sala de estar",
@@ -8678,5 +8677,6 @@
     "CL_DV_RF_mark_guide_step1_content": "Ative as funções instantaneamente.",
     "CL_DV_RF_guide_help_support_desc": "Encontre respostas e resolva problemas a qualquer momento.",
     "CL_DV_RF_guide_manuals_desc": "Acesse o manual do seu dispositivo rapidamente.",
-    "CL_DV_RF_guide_share_device_desc": "Convide outras pessoas para acessar e controlar seu dispositivo."
+    "CL_DV_RF_guide_share_device_desc": "Convide outras pessoas para acessar e controlar seu dispositivo.",
+    "CL_DV_TV_add_google_open_ip_control": "Acesse Configurações rápidas → Todas as configurações → Canais e entradas → Entradas externas para ativar a Porta de controle IP de rede."
 }

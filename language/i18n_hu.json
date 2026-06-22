@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Végfelhasználói Felhasználási Feltételek",
     "CL_CF_CS_enable_location_service_tip": "A ConnectLife használatához helymeghatározási szolgáltatásokra van szükség az eszköz helyének meghatározásához. Kérjük, engedélyezze ezt a funkciót a telefon beállításaiban az összes funkció eléréséhez.",
     "CL_CF_CS_exit": "Kijárat",
-    "CL_DV_TV_add_google_open_ip_control": "Navigáljon a Beállítások → Csatornák és bemenetek → Külső bemenetek menüpontra a Hálózati IP-vezérlőport bekapcsolásához.",
     "CL_DV_TV_add_google_see_ip": "Lépjen a Beállítások​ → Hálózat és internet → Wi-Fi​ menüpontra, hogy megkeresse a csatlakoztatott hálózatot az IP- és MAC-címek megtekintéséhez.",
     "CL_DV_TV_add_fire_tv_open_ip": "Kattintson a távirányító beállítás gombjára, lépjen a Továbbiak → Okosotthon menüpontra, majd kapcsolja be a Hálózati IP-vezérlőport lehetőséget.",
     "CL_CF_air_care_control_title": "Nappali állapota",
@@ -8678,5 +8677,6 @@
     "CL_DV_RF_mark_guide_step1_content": "Funkciók azonnali aktiválása.",
     "CL_DV_RF_guide_help_support_desc": "Találj válaszokat és hárítsd el a problémákat bármikor.",
     "CL_DV_RF_guide_manuals_desc": "Gyorsan hozzáférhet a készülék kézikönyvéhez.",
-    "CL_DV_RF_guide_share_device_desc": "Hívj meg másokat, hogy hozzáférjenek és irányítsák az eszközödet."
+    "CL_DV_RF_guide_share_device_desc": "Hívj meg másokat, hogy hozzáférjenek és irányítsák az eszközödet.",
+    "CL_DV_TV_add_google_open_ip_control": "Navigáljon a Gyorsbeállítások → Minden beállítás → Csatornák és bemenetek → Külső bemenetek menüpontra a Hálózati IP-vezérlőport bekapcsolásához."
 }
