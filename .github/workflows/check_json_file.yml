@@ -1,14 +1,18 @@
 name: Check JSON Map (string keys & values)
 
 on:
+  push:
+    branches: [ main, develop ]
   pull_request:
     branches: [ main, develop ]
 
 jobs:
   validate:
     runs-on: ubuntu-latest
+    # 允许 Workflow 评论 PR（如需评论功能）
     permissions:
-      pull-requests: write   # 允许评论 PR
+      pull-requests: write
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -18,6 +22,7 @@ jobs:
       - name: Install jq
         run: sudo apt-get install -y jq
 
+      # 找出本次 PR/提交中新增或修改的 .json 文件
       - name: Get changed JSON files
         id: changed-files
         uses: tj-actions/changed-files@v42
@@ -25,7 +30,16 @@ jobs:
           files: |
             **/*.json
 
-      - name: Validate and collect result
+      # 如果没有 JSON 文件变更，直接通过并评论
+      - name: No JSON files changed
+        if: steps.changed-files.outputs.any_changed != 'true'
+        run: |
+          echo "No JSON files changed in this PR, skipping validation."
+          echo "output=✅ No JSON files changed, all good." >> $GITHUB_OUTPUT
+          echo "failed=0" >> $GITHUB_OUTPUT
+
+      # 执行验证
+      - name: Validate JSON files
         id: validate
         if: steps.changed-files.outputs.any_changed == 'true'
         run: |
@@ -33,13 +47,16 @@ jobs:
           OUTPUT=""
           for FILE in ${{ steps.changed-files.outputs.all_changed_files }}; do
             echo "Checking $FILE ..."
-            # 检查逻辑（同上）
+
+            # 1. 检查是否为合法 JSON
             if ! jq empty "$FILE" 2>/dev/null; then
               echo "❌ $FILE is not valid JSON"
               OUTPUT+="❌ $FILE is not valid JSON\n"
               FAILED=1
               continue
             fi
+
+            # 2. 检查顶层类型是否为 object
             TYPE=$(jq -r 'type' "$FILE")
             if [ "$TYPE" != "object" ]; then
               echo "❌ $FILE is not a JSON object (map), got: $TYPE"
@@ -47,22 +64,28 @@ jobs:
               FAILED=1
               continue
             fi
-            KEY_TYPES=$(jq -r 'keys[]' "$FILE" | while read k; do
-              jq -r --arg k "$k" 'type(.[$k])' "$FILE"
-            done | sort -u)
-            VAL_TYPES=$(jq -r '.[] | type' "$FILE" | sort -u)
-            if [ "$KEY_TYPES" != "string" ]; then
+
+            # 3. 检查所有 key 是否都是字符串（JSON 的 key 默认就是字符串，但保留检查以防万一）
+            #    获取所有 key 的类型，去重后输出；如果对象为空，则输出空字符串
+            KEY_TYPES=$(jq -r 'keys | map(type) | unique | if length == 0 then "" else .[] end' "$FILE")
+            # 如果 KEY_TYPES 非空且不等于 "string"，则报错
+            if [ -n "$KEY_TYPES" ] && [ "$KEY_TYPES" != "string" ]; then
               echo "❌ $FILE has non-string keys (found: $KEY_TYPES)"
               OUTPUT+="❌ $FILE has non-string keys (found: $KEY_TYPES)\n"
               FAILED=1
               continue
             fi
-            if [ "$VAL_TYPES" != "string" ]; then
+
+            # 4. 检查所有 value 是否都是字符串
+            #    获取所有 value 的类型，去重后输出；如果对象为空，则输出空字符串
+            VAL_TYPES=$(jq -r 'map(type) | unique | if length == 0 then "" else .[] end' "$FILE")
+            if [ -n "$VAL_TYPES" ] && [ "$VAL_TYPES" != "string" ]; then
               echo "❌ $FILE has non-string values (found: $VAL_TYPES)"
               OUTPUT+="❌ $FILE has non-string values (found: $VAL_TYPES)\n"
               FAILED=1
               continue
             fi
+
             echo "✅ $FILE is valid"
             OUTPUT+="✅ $FILE is valid\n"
           done
@@ -70,20 +93,22 @@ jobs:
           # 保存结果供后续步骤使用
           echo "output=$OUTPUT" >> $GITHUB_OUTPUT
           echo "failed=$FAILED" >> $GITHUB_OUTPUT
+
           if [ $FAILED -ne 0 ]; then
             exit 1
           fi
 
+      # 将检查结果评论到 PR（仅在 pull_request 事件中）
       - name: Post comment to PR
-        if: always() && steps.changed-files.outputs.any_changed == 'true'
+        if: always() && github.event_name == 'pull_request'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const result = `${{ steps.validate.outputs.output }}`;
-            const failed = ${{ steps.validate.outputs.failed || 0 }};
+            const output = `${{ steps.validate.outputs.output || steps['no-json-files-changed'].outputs.output || 'No validation performed' }}`;
+            const failed = parseInt(`${{ steps.validate.outputs.failed || steps['no-json-files-changed'].outputs.failed || 0 }}`);
             const conclusion = failed ? '❌ **Validation failed**' : '✅ **All files are valid string→string JSON maps**';
-            const body = `## JSON Format Check Result\n\n${conclusion}\n\`\`\`\n${result}\n\`\`\``;
+            const body = `## 📋 JSON Format Check Result\n\n${conclusion}\n\n\`\`\`\n${output}\n\`\`\``;
             await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
