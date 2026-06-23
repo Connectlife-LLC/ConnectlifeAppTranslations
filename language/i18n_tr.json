@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "ConnectLife'ın bağlanmaya çalıştığınız cihazı destekleyip desteklemediğini kontrol edin.",
     "input_entered_browse_through": "Sık Sorulan Sorulara göz atın.",
     "input_entered_if_none": "Bu çözümlerden hiçbiri sorununuzu çözmediyse, bir servis bileti açabilirsiniz.",
-    "input_exit_setup": "KURULUMDAN ÇIK",
+    "input_exit_setup": "İptal etmek",
     "cn_wifi_error_not": "Cihazın Wi-Fi ağına bağlı değil.",
     "cn_wifi_error_the_cn": "Cihazın Wi-Fi bağlantısı başarısız oldu.",
     "cn_wifi_error_check1": "Cihazın bağlantı modunda olup olmadığını kontrol edin.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Son kullanıcı hüküm ve koşulları",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife, cihazın konumunu belirlemek için konum servislerine ihtiyaç duyar. Tüm işlevlere erişmek için lütfen telefonunuzun ayarlarından bu özelliği etkinleştirin.",
     "CL_CF_CS_exit": "Çıkış",
-    "CL_DV_TV_add_google_open_ip_control": "Ayarlar → Kanallar ve girişler → Harici girişler bölümüne giderek Ağ IP Kontrol Portunu açın.",
     "CL_DV_TV_add_google_see_ip": "Ayarlar → Ağ ve İnternet → Wi-Fi yolunu izleyerek bağlı olduğunuz ağın IP ve MAC adreslerini bulabilirsiniz.",
     "CL_DV_TV_add_fire_tv_open_ip": "Uzaktan kumandadaki ayarlar düğmesine tıklayın, Daha fazlasını keşfedin → Akıllı Ev bölümüne gidin ve ardından Ağ IP Kontrol Bağlantı Noktasını açın.",
     "CL_CF_air_care_control_title": "Oturma odası durumu",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Fonksiyonları anında etkinleştirin.",
     "CL_DV_RF_guide_help_support_desc": "İstediğiniz zaman cevapları bulun ve sorunları çözün.",
     "CL_DV_RF_guide_manuals_desc": "Cihazınızın kullanım kılavuzuna hızlıca erişin.",
-    "CL_DV_RF_guide_share_device_desc": "Başka kişilerin cihazınıza erişmesine ve kontrol etmesine izin verin."
+    "CL_DV_RF_guide_share_device_desc": "Başka kişilerin cihazınıza erişmesine ve kontrol etmesine izin verin.",
+    "CL_DV_TV_add_google_open_ip_control": "Ağ IP Kontrol Portunu etkinleştirmek için Hızlı Ayarlar → Tüm Ayarlar → Kanallar ve girişler → Harici girişler yolunu izleyin.",
+    "CL_CF_energy_compare_same_month_last_year": "Geçen yılın aynı ayı ile karşılaştırın",
+    "CL_permission_desc_notification": "Sistem anlık bildirimleri için erişim bildirimi izni gereklidir."
 }

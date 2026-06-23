@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Zkontrolujte, zda ConnectLife podporuje zařízení, které se pokoušíte připojit.",
     "input_entered_browse_through": "Projděte si často kladené otázky.",
     "input_entered_if_none": "Pokud žádné z těchto řešení váš problém nevyřešilo, můžete otevřít servisní lístek.",
-    "input_exit_setup": "UKONČIT NASTAVENÍ",
+    "input_exit_setup": "Zrušit",
     "cn_wifi_error_not": "Není připojeno k Wi-Fi zařízení.",
     "cn_wifi_error_the_cn": "Připojení k Wi-Fi zařízení se nezdařilo.",
     "cn_wifi_error_check1": "Zkontrolujte, zda je zařízení v režimu připojení.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Všeobecné obchodní podmínky pro koncového uživatele",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife vyžaduje pro určení polohy zařízení lokalizační služby. Pro přístup ke všem funkcím prosím povolte tuto funkci v nastavení telefonu.",
     "CL_CF_CS_exit": "Ukončit",
-    "CL_DV_TV_add_google_open_ip_control": "Přejděte do Nastavení → Kanály a vstupy → Externí vstupy a zapněte port pro řízení síťové IP adresy.",
     "CL_DV_TV_add_google_see_ip": "Přejděte do Nastavení → Síť a internet → Wi-Fi a vyhledejte připojenou síť, ke které chcete přiřadit IP a MAC adresy.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klikněte na tlačítko nastavení na dálkovém ovladači, přejděte do sekce Prozkoumat více → Chytrá domácnost a poté zapněte možnost Řízení síťové IP adresy.",
     "CL_CF_air_care_control_title": "Stav obývacího pokoje",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Aktivujte funkce okamžitě.",
     "CL_DV_RF_guide_help_support_desc": "Najděte odpovědi a řešte problémy kdykoli.",
     "CL_DV_RF_guide_manuals_desc": "Rychlý přístup k manuálu k vašemu zařízení.",
-    "CL_DV_RF_guide_share_device_desc": "Pozvěte ostatní k přístupu a ovládání vašeho zařízení."
+    "CL_DV_RF_guide_share_device_desc": "Pozvěte ostatní k přístupu a ovládání vašeho zařízení.",
+    "CL_DV_TV_add_google_open_ip_control": "Přejděte do Rychlé nastavení → Všechna nastavení → Kanály a vstupy → Externí vstupy a zapněte port pro řízení síťové IP adresy.",
+    "CL_CF_energy_compare_same_month_last_year": "Porovnejte se stejným měsícem loňského roku",
+    "CL_permission_desc_notification": "Pro systémová push oznámení je vyžadováno oprávnění k přístupu k oznámením"
 }

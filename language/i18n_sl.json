@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Preverite, ali ConnectLife podpira napravo, ki jo poskušate povezati.",
     "input_entered_browse_through": "Prebrskajte med pogostimi vprašanji.",
     "input_entered_if_none": "Če nobena od teh rešitev ni rešila vaše težave, lahko odprete servisni zahtevek.",
-    "input_exit_setup": "IZHOD IZ NASTAVITVE",
+    "input_exit_setup": "Prekliči",
     "cn_wifi_error_not": "Ni povezano z omrežjem Wi-Fi naprave.",
     "cn_wifi_error_the_cn": "Povezava z omrežjem Wi-Fi naprave ni bila uspešna.",
     "cn_wifi_error_check1": "Preverite, ali je naprava v načinu povezave.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Splošni pogoji za končnega uporabnika",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife za določanje lokacije naprave potrebuje lokacijske storitve. Za dostop do vseh funkcij omogočite to funkcijo v nastavitvah telefona.",
     "CL_CF_CS_exit": "Izhod",
-    "CL_DV_TV_add_google_open_ip_control": "Pojdite v Nastavitve → Kanali in vhodi → Zunanji vhodi, da vklopite vrata za nadzor omrežnega IP-ja.",
     "CL_DV_TV_add_google_see_ip": "Pojdite v Nastavitve → Omrežje in internet → Wi-Fi, da poiščete povezano omrežje in naslove IP ter MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Kliknite gumb za nastavitve na daljinskem upravljalniku, pojdite na Razišči več → Pametni dom in nato vklopite Vrata za nadzor omrežnega IP-ja.",
     "CL_CF_air_care_control_title": "Stanje dnevne sobe",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Takoj aktivirajte funkcije.",
     "CL_DV_RF_guide_help_support_desc": "Poiščite odgovore in odpravite težave kadar koli.",
     "CL_DV_RF_guide_manuals_desc": "Hitro dostopajte do priročnika za vašo napravo.",
-    "CL_DV_RF_guide_share_device_desc": "Povabite druge, da dostopajo do vaše naprave in jo upravljajo."
+    "CL_DV_RF_guide_share_device_desc": "Povabite druge, da dostopajo do vaše naprave in jo upravljajo.",
+    "CL_DV_TV_add_google_open_ip_control": "Pomaknite se do Hitrih nastavitev → Vse nastavitve → Kanali in vhodi → Zunanji vhodi, da vklopite vrata za nadzor omrežnega IP-ja.",
+    "CL_CF_energy_compare_same_month_last_year": "Primerjajte z istim mesecem lani",
+    "CL_permission_desc_notification": "Za sistemska potisna obvestila je potrebno dovoljenje za dostop do obvestil"
 }

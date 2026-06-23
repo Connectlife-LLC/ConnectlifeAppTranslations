@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Kiểm tra xem ConnectLife có hỗ trợ thiết bị bạn đang cố kết nối không.",
     "input_entered_browse_through": "Xem qua phần Các câu hỏi thường gặp.",
     "input_entered_if_none": "Nếu không có giải pháp nào trong số này giải quyết được vấn đề của bạn, bạn có thể mở một phiếu dịch vụ.",
-    "input_exit_setup": "THOÁT THIẾT LẬP",
+    "input_exit_setup": "Hủy bỏ",
     "cn_wifi_error_not": "Chưa kết nối với Wi-Fi của thiết bị.",
     "cn_wifi_error_the_cn": "Kết nối với Wi-Fi của thiết bị không thành công.",
     "cn_wifi_error_check1": "Kiểm tra xem thiết bị đã ở chế độ kết nối chưa.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Điều khoản và điều kiện cho người dùng cuối",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife yêu cầu dịch vụ định vị để xác định vị trí thiết bị. Vui lòng bật tính năng này trong cài đặt điện thoại của bạn để truy cập đầy đủ các chức năng.",
     "CL_CF_CS_exit": "Ra",
-    "CL_DV_TV_add_google_open_ip_control": "Vào Cài đặt → Kênh và đầu vào → Đầu vào bên ngoài để bật Cổng điều khiển IP mạng.",
     "CL_DV_TV_add_google_see_ip": "Vào Cài đặt → Mạng & Internet → Wi-Fi để tìm mạng đang kết nối và tìm địa chỉ IP cũng như địa chỉ MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Nhấn nút cài đặt trên điều khiển từ xa, vào Khám phá thêm → Nhà thông minh, sau đó bật Cổng điều khiển IP mạng.",
     "CL_CF_air_care_control_title": "Tình trạng phòng khách",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Kích hoạt chức năng ngay lập tức.",
     "CL_DV_RF_guide_help_support_desc": "Tìm câu trả lời và khắc phục sự cố bất cứ lúc nào.",
     "CL_DV_RF_guide_manuals_desc": "Truy cập nhanh hướng dẫn sử dụng thiết bị của bạn.",
-    "CL_DV_RF_guide_share_device_desc": "Mời người khác truy cập và điều khiển thiết bị của bạn."
+    "CL_DV_RF_guide_share_device_desc": "Mời người khác truy cập và điều khiển thiết bị của bạn.",
+    "CL_DV_TV_add_google_open_ip_control": "Vào Cài đặt nhanh → Tất cả cài đặt → Kênh và đầu vào → Đầu vào bên ngoài để bật Cổng điều khiển IP mạng.",
+    "CL_CF_energy_compare_same_month_last_year": "So sánh với cùng tháng năm ngoái",
+    "CL_permission_desc_notification": "Cần có quyền truy cập thông báo để nhận thông báo đẩy hệ thống."
 }

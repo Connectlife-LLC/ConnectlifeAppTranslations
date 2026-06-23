@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "בדוק אם ConnectLife תומך במכשיר שאתה מנסה לחבר.",
     "input_entered_browse_through": "עיין בשאלות הנפוצות.",
     "input_entered_if_none": "אם אף אחד מהפתרונות האלה לא פתר את הבעיה שלך, אתה יכול לפתוח כרטיס שירות.",
-    "input_exit_setup": "צא מהגדרות",
+    "input_exit_setup": "לְבַטֵל",
     "cn_wifi_error_not": "לא מחובר ל-Wi-Fi של המכשיר.",
     "cn_wifi_error_the_cn": "החיבור ל-Wi-Fi של המכשיר לא הצליח.",
     "cn_wifi_error_check1": "בדוק אם המכשיר נמצא במצב חיבור.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "תנאים והגבלות למשתמש הקצה",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife דורש שירותי מיקום כדי לקבוע את מיקום המכשיר. אנא הפעל תכונה זו בהגדרות הטלפון שלך כדי לגשת לכל הפונקציות.",
     "CL_CF_CS_exit": "יְצִיאָה",
-    "CL_DV_TV_add_google_open_ip_control": "נווט אל הגדרות ← ערוצים וכניסות ← כניסות חיצוניות כדי להפעיל את יציאת בקרת IP של הרשת.",
     "CL_DV_TV_add_google_see_ip": "נווט אל הגדרות​ ← רשת ואינטרנט ← Wi-Fi​ כדי למצוא את הרשת המחוברת ולמצוא כתובות IP ו-MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "לחצו על כפתור ההגדרות בשלט הרחוק, עברו אל \"חקרו עוד\" ← \"בית חכם\", לאחר מכן הפעילו את \"יציאת בקרת IP של הרשת\".",
     "CL_CF_air_care_control_title": "סטטוס הסלון",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "הפעל פונקציות באופן מיידי.",
     "CL_DV_RF_guide_help_support_desc": "מצא תשובות ופתור בעיות בכל עת",
     "CL_DV_RF_guide_manuals_desc": "גש במהירות למדריך המכשיר שלך.",
-    "CL_DV_RF_guide_share_device_desc": "הזמן אחרים לגשת למכשיר שלך ולשלוט בו."
+    "CL_DV_RF_guide_share_device_desc": "הזמן אחרים לגשת למכשיר שלך ולשלוט בו.",
+    "CL_DV_TV_add_google_open_ip_control": "נווט אל הגדרות מהירות ← כל ההגדרות ← ערוצים וכניסות ← כניסות חיצוניות כדי להפעיל את יציאת בקרת IP של הרשת.",
+    "CL_CF_energy_compare_same_month_last_year": "השוואה לחודש המקביל בשנה שעברה",
+    "CL_permission_desc_notification": "נדרשת הרשאת גישה להתראות עבור התראות דחיפה של המערכת"
 }

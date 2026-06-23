@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Provjerite podržava li ConnectLife uređaj koji pokušavate spojiti.",
     "input_entered_browse_through": "Pogledajte često postavljana pitanja.",
     "input_entered_if_none": "Ako nijedno od ovih rješenja nije riješilo vaš problem, možete otvoriti servisn i ticket.",
-    "input_exit_setup": "IZLAZ IZ POSTAVKI",
+    "input_exit_setup": "Otkazati",
     "cn_wifi_error_not": "Nije povezan s Wi-Fi mrežom uređaja.",
     "cn_wifi_error_the_cn": "Povezivanje s Wi-Fi mrežom uređaja nije uspjelo.",
     "cn_wifi_error_check1": "Provjerite je li uređaj u načinu povezivanja.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Opći uvjeti za konačnog korisnika",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife zahtijeva usluge lokacije za određivanje lokacije uređaja. Omogućite ovu značajku u postavkama telefona kako biste pristupili svim funkcijama.",
     "CL_CF_CS_exit": "Napusti",
-    "CL_DV_TV_add_google_open_ip_control": "Idite na Postavke → Kanali i ulazi → Vanjski ulazi kako biste uključili mrežni IP kontrolni priključak.",
     "CL_DV_TV_add_google_see_ip": "Idite na Postavke → Mreža i internet → Wi-Fi kako biste pronašli povezanu mrežu i IP i MAC adrese.",
     "CL_DV_TV_add_fire_tv_open_ip": "Kliknite gumb za postavke na daljinskom upravljaču, idite na Istraži više → Pametni dom, a zatim uključite Mrežni IP kontrolni port.",
     "CL_CF_air_care_control_title": "Stanje dnevne sobe",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Aktivirajte funkcije trenutno.",
     "CL_DV_RF_guide_help_support_desc": "Pronađite odgovore i riješite probleme u bilo kojem trenutku.",
     "CL_DV_RF_guide_manuals_desc": "Brzo pristupite priručniku za svoj uređaj.",
-    "CL_DV_RF_guide_share_device_desc": "Pozovite druge da pristupe vašem uređaju i upravljaju njime."
+    "CL_DV_RF_guide_share_device_desc": "Pozovite druge da pristupe vašem uređaju i upravljaju njime.",
+    "CL_DV_TV_add_google_open_ip_control": "Idite na Brze postavke → Sve postavke → Kanali i ulazi → Vanjski ulazi da biste uključili mrežni IP kontrolni priključak.",
+    "CL_CF_energy_compare_same_month_last_year": "Usporedite s istim mjesecom prošle godine",
+    "CL_permission_desc_notification": "Za sustavne push obavijesti potrebno je dopuštenje za pristup obavijestima"
 }
