@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "Invita altri ad accedere e controllare il tuo dispositivo.",
     "CL_DV_TV_add_google_open_ip_control": "Accedere a Impostazioni rapide → Tutte le impostazioni → Canali e ingressi → Ingressi esterni per attivare la porta di controllo IP di rete.",
     "CL_CF_energy_compare_same_month_last_year": "Rispetto allo stesso mese dell'anno scorso.",
-    "CL_permission_desc_notification": "Per ricevere le notifiche push di sistema è necessario il permesso di accesso alle notifiche."
+    "CL_permission_desc_notification": "Per ricevere le notifiche push di sistema è necessario il permesso di accesso alle notifiche.",
+    "guide_baking_des": "Avvia, arresta e monitora il tuo dispositivo da remoto.",
+    "guide_recipes_des": "Sfoglia le ricette e invia le impostazioni direttamente al tuo dispositivo.",
+    "guide_auto_programms_des": "Sfoglia i programmi automatici e invia le impostazioni direttamente al tuo dispositivo.",
+    "guide_cooking_assist_des": "Lasciate che il piano cottura vi aiuti con le impostazioni di cottura automatiche."
 }

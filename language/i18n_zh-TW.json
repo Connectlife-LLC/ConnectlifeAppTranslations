@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "邀請他人存取和控制您的裝置。",
     "CL_DV_TV_add_google_open_ip_control": "導覽至快速設定 → 所有設定 → 頻道和輸入 → 外部輸入，以啟用網路 IP 控制連接埠。",
     "CL_CF_energy_compare_same_month_last_year": "與去年同期相比",
-    "CL_permission_desc_notification": "系統推播通知需要存取通知權限"
+    "CL_permission_desc_notification": "系統推播通知需要存取通知權限",
+    "guide_baking_des": "遠端啟動、停止和監控您的設備。",
+    "guide_recipes_des": "瀏覽食譜並將設定直接發送到您的裝置。",
+    "guide_auto_programms_des": "瀏覽汽車程式並將設定直接傳送到您的裝置。",
+    "guide_cooking_assist_des": "讓爐台的自動烹飪功能助您一臂之力。"
 }

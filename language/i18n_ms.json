@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "Jemput orang lain untuk mengakses dan mengawal peranti anda.",
     "CL_DV_TV_add_google_open_ip_control": "Navigasi ke Tetapan Pantas → Semua Tetapan → Saluran dan input → Input luaran untuk menghidupkan Port Kawalan IP Rangkaian.",
     "CL_CF_energy_compare_same_month_last_year": "Bandingkan dengan bulan yang sama tahun lepas",
-    "CL_permission_desc_notification": "kebenaran pemberitahuan akses diperlukan untuk pemberitahuan tolak sistem"
+    "CL_permission_desc_notification": "kebenaran pemberitahuan akses diperlukan untuk pemberitahuan tolak sistem",
+    "guide_baking_des": "Mulakan, hentikan dan pantau peranti anda dari jauh.",
+    "guide_recipes_des": "Layari resipi dan hantar tetapan terus ke peranti anda.",
+    "guide_auto_programms_des": "Layari program automatik dan hantar tetapan terus ke peranti anda.",
+    "guide_cooking_assist_des": "Biarkan dapur membantu anda dengan tetapan memasak automatik."
 }

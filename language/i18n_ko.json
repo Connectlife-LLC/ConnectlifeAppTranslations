@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "다른 사람을 초대하여 기기에 접근하고 제어할 수 있도록 하세요.",
     "CL_DV_TV_add_google_open_ip_control": "빠른 설정 → 모든 설정 → 채널 및 입력 → 외부 입력으로 이동하여 네트워크 IP 제어 포트를 켜십시오.",
     "CL_CF_energy_compare_same_month_last_year": "작년 같은 달과 비교해 보세요",
-    "CL_permission_desc_notification": "시스템 푸시 알림을 받으려면 알림 접근 권한이 필요합니다."
+    "CL_permission_desc_notification": "시스템 푸시 알림을 받으려면 알림 접근 권한이 필요합니다.",
+    "guide_baking_des": "기기를 원격으로 시작, 중지 및 모니터링하세요.",
+    "guide_recipes_des": "레시피를 찾아보고 설정값을 기기로 바로 전송하세요.",
+    "guide_auto_programms_des": "자동 프로그램을 찾아보고 설정을 기기로 바로 전송하세요.",
+    "guide_cooking_assist_des": "자동 조리 설정 기능으로 쿡탑을 편리하게 사용하세요."
 }

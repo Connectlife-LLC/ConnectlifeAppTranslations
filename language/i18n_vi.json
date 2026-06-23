@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "Mời người khác truy cập và điều khiển thiết bị của bạn.",
     "CL_DV_TV_add_google_open_ip_control": "Vào Cài đặt nhanh → Tất cả cài đặt → Kênh và đầu vào → Đầu vào bên ngoài để bật Cổng điều khiển IP mạng.",
     "CL_CF_energy_compare_same_month_last_year": "So sánh với cùng tháng năm ngoái",
-    "CL_permission_desc_notification": "Cần có quyền truy cập thông báo để nhận thông báo đẩy hệ thống."
+    "CL_permission_desc_notification": "Cần có quyền truy cập thông báo để nhận thông báo đẩy hệ thống.",
+    "guide_baking_des": "Khởi động, dừng và giám sát thiết bị của bạn từ xa.",
+    "guide_recipes_des": "Tìm kiếm công thức nấu ăn và gửi cài đặt trực tiếp đến thiết bị của bạn.",
+    "guide_auto_programms_des": "Duyệt qua các chương trình tự động và gửi cài đặt trực tiếp đến thiết bị của bạn.",
+    "guide_cooking_assist_des": "Hãy để bếp hỗ trợ bạn với các cài đặt nấu ăn tự động."
 }

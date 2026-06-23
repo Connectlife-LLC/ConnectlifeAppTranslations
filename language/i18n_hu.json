@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "Hívj meg másokat, hogy hozzáférjenek és irányítsák az eszközödet.",
     "CL_DV_TV_add_google_open_ip_control": "Navigáljon a Gyorsbeállítások → Minden beállítás → Csatornák és bemenetek → Külső bemenetek menüpontra a Hálózati IP-vezérlőport bekapcsolásához.",
     "CL_CF_energy_compare_same_month_last_year": "Hasonlítsa össze az előző év azonos hónapjával",
-    "CL_permission_desc_notification": "Hozzáférési értesítési engedély szükséges a rendszer push értesítéseihez"
+    "CL_permission_desc_notification": "Hozzáférési értesítési engedély szükséges a rendszer push értesítéseihez",
+    "guide_baking_des": "Indítsa el, állítsa le és figyelje eszközét távolról.",
+    "guide_recipes_des": "Böngésszen a receptek között, és küldje el a beállításokat közvetlenül az eszközére.",
+    "guide_auto_programms_des": "Böngésszen az automatikus programok között, és küldje el a beállításokat közvetlenül az eszközére.",
+    "guide_cooking_assist_des": "Hagyd, hogy a főzőlap segítsen az automatikus főzési beállításokban."
 }

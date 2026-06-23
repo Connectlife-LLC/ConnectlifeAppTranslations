@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "Bjud in andra att komma åt och kontrollera din enhet.",
     "CL_DV_TV_add_google_open_ip_control": "Navigera till Snabbinställningar → Alla inställningar → Kanaler och ingångar → Externa ingångar för att aktivera Nätverks-IP-kontrollport.",
     "CL_CF_energy_compare_same_month_last_year": "Jämför med samma månad förra året",
-    "CL_permission_desc_notification": "åtkomstbehörighet krävs för systempush-meddelanden"
+    "CL_permission_desc_notification": "åtkomstbehörighet krävs för systempush-meddelanden",
+    "guide_baking_des": "Starta, stoppa och övervaka din enhet på distans.",
+    "guide_recipes_des": "Bläddra bland recept och skicka inställningar direkt till din enhet.",
+    "guide_auto_programms_des": "Bläddra bland autoprogram och skicka inställningar direkt till din enhet.",
+    "guide_cooking_assist_des": "Låt hällen hjälpa dig med automatiska tillagningsinställningar."
 }

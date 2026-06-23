@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "Nodig anderen uit om toegang te krijgen tot je apparaat en het te bedienen.",
     "CL_DV_TV_add_google_open_ip_control": "Ga naar Snelle instellingen → Alle instellingen → Kanalen en ingangen → Externe ingangen om de netwerk-IP-besturingspoort in te schakelen.",
     "CL_CF_energy_compare_same_month_last_year": "Vergelijk dit met dezelfde maand vorig jaar.",
-    "CL_permission_desc_notification": "Toegang tot meldingen is vereist voor systeempushmeldingen."
+    "CL_permission_desc_notification": "Toegang tot meldingen is vereist voor systeempushmeldingen.",
+    "guide_baking_des": "Start, stop en bewaak uw apparaat op afstand.",
+    "guide_recipes_des": "Blader door recepten en verstuur instellingen direct naar je apparaat.",
+    "guide_auto_programms_des": "Blader door automatische programma's en verstuur instellingen direct naar uw apparaat.",
+    "guide_cooking_assist_des": "Laat de kookplaat u helpen met automatische kookinstellingen."
 }

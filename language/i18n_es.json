@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "Invita a otros a acceder y controlar tu dispositivo.",
     "CL_DV_TV_add_google_open_ip_control": "Navegue a Configuración rápida → Todas las configuraciones → Canales y entradas → Entradas externas para activar el puerto de control IP de red.",
     "CL_CF_energy_compare_same_month_last_year": "Comparar con el mismo mes del año pasado",
-    "CL_permission_desc_notification": "Se requiere permiso de acceso para las notificaciones push del sistema."
+    "CL_permission_desc_notification": "Se requiere permiso de acceso para las notificaciones push del sistema.",
+    "guide_baking_des": "Inicia, detén y supervisa tu dispositivo de forma remota.",
+    "guide_recipes_des": "Explora recetas y envía la configuración directamente a tu dispositivo.",
+    "guide_auto_programms_des": "Explora los programas automáticos y envía la configuración directamente a tu dispositivo.",
+    "guide_cooking_assist_des": "Deja que la placa te ayude con los ajustes de cocción automáticos."
 }

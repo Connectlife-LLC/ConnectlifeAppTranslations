@@ -8680,5 +8680,9 @@
     "CL_DV_RF_guide_share_device_desc": "他のユーザーを招待して、デバイスへのアクセス権限と操作権限を付与します。",
     "CL_DV_TV_add_google_open_ip_control": "クイック設定 → すべての設定 → チャンネルと入力 → 外部入力に移動して、ネットワーク IP コントロール ポートをオンにします。",
     "CL_CF_energy_compare_same_month_last_year": "昨年同月と比較",
-    "CL_permission_desc_notification": "システムプッシュ通知にはアクセス通知権限が必要です"
+    "CL_permission_desc_notification": "システムプッシュ通知にはアクセス通知権限が必要です",
+    "guide_baking_des": "デバイスの起動、停止、監視をリモートで行えます。",
+    "guide_recipes_des": "レシピを閲覧し、設定を直接デバイスに送信できます。",
+    "guide_auto_programms_des": "自動プログラムを閲覧し、設定を直接デバイスに送信します。",
+    "guide_cooking_assist_des": "コンロの自動調理設定で調理をサポートしてもらいましょう。"
 }
