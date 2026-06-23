@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Überprüfen Sie, ob ConnectLife das Gerät unterstützt, das Sie verbinden möchten.",
     "input_entered_browse_through": "Durchsuchen Sie die FAQs.",
     "input_entered_if_none": "Wenn keine dieser Lösungen Ihr Problem gelöst hat, können Sie ein Serviceticket eröffnen.",
-    "input_exit_setup": "INSTALLATION VERLASSEN",
+    "input_exit_setup": "Stornieren",
     "cn_wifi_error_not": "Nicht mit dem Wi-Fi des Geräts verbunden.",
     "cn_wifi_error_the_cn": "Die Verbindung zum Wi-Fi des Geräts war nicht erfolgreich.",
     "cn_wifi_error_check1": "Überprüfen Sie, ob sich das Gerät im Verbindungsmodus befindet.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Allgemeine Geschäftsbedingungen für Endbenutzer",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife benötigt Ortungsdienste, um den Standort Ihres Geräts zu ermitteln. Bitte aktivieren Sie diese Funktion in Ihren Telefoneinstellungen, um alle Funktionen nutzen zu können.",
     "CL_CF_CS_exit": "Beenden",
-    "CL_DV_TV_add_google_open_ip_control": "Navigieren Sie zu Einstellungen → Kanäle und Eingänge → Externe Eingänge, um den Netzwerk-IP-Steuerungsport zu aktivieren.",
     "CL_DV_TV_add_google_see_ip": "Navigieren Sie zu Einstellungen → Netzwerk & Internet → WLAN, um das verbundene Netzwerk zu finden und die IP- und MAC-Adressen zu ermitteln.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klicken Sie auf die Einstellungstaste auf der Fernbedienung, gehen Sie zu Mehr entdecken → Smart Home und aktivieren Sie dann den Netzwerk-IP-Steuerungsport.",
     "CL_CF_air_care_control_title": "Wohnzimmerstatus",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Funktionen sofort aktivieren.",
     "CL_DV_RF_guide_help_support_desc": "Finden Sie jederzeit Antworten und beheben Sie Probleme.",
     "CL_DV_RF_guide_manuals_desc": "Greifen Sie schnell auf das Handbuch Ihres Geräts zu.",
-    "CL_DV_RF_guide_share_device_desc": "Laden Sie andere ein, auf Ihr Gerät zuzugreifen und es zu steuern."
+    "CL_DV_RF_guide_share_device_desc": "Laden Sie andere ein, auf Ihr Gerät zuzugreifen und es zu steuern.",
+    "CL_DV_TV_add_google_open_ip_control": "Navigieren Sie zu Schnelleinstellungen → Alle Einstellungen → Kanäle und Eingänge → Externe Eingänge, um den Netzwerk-IP-Steuerungsport zu aktivieren.",
+    "CL_CF_energy_compare_same_month_last_year": "Vergleich mit dem gleichen Monat des Vorjahres",
+    "CL_permission_desc_notification": "Für System-Push-Benachrichtigungen ist die Zugriffsberechtigung erforderlich."
 }

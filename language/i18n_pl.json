@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Sprawdź, czy ConnectLife obsługuje urządzenie, z którym próbujesz się połączyć.",
     "input_entered_browse_through": "Przejrzyj najczęściej zadawane pytania.",
     "input_entered_if_none": "Jeśli żadne z tych rozwiązań nie rozwiązało problemu, możesz otworzyć bilet serwisowy.",
-    "input_exit_setup": "WYJDŹ Z USTAWIEŃ",
+    "input_exit_setup": "Anulować",
     "cn_wifi_error_not": "Brak połączenia z Wi-Fi urządzenia.",
     "cn_wifi_error_the_cn": "Połączenie z siecią Wi-Fi urządzenia zakończyło się niepowodzeniem.",
     "cn_wifi_error_check1": "Sprawdź, czy urządzenie znajduje się w trybie połączenia.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Warunki dla użytkownika końcowego",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife wymaga usług lokalizacyjnych do określenia lokalizacji urządzenia. Włącz tę funkcję w ustawieniach telefonu, aby uzyskać dostęp do wszystkich funkcji.",
     "CL_CF_CS_exit": "Wyjdź",
-    "CL_DV_TV_add_google_open_ip_control": "Przejdź do Ustawienia → Kanały i wejścia → Wejścia zewnętrzne, aby włączyć port sterowania siecią IP.",
     "CL_DV_TV_add_google_see_ip": "Przejdź do Ustawienia → Sieć i Internet → Wi-Fi, aby znaleźć podłączoną sieć i sprawdzić adresy IP i MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Kliknij przycisk ustawień na pilocie, przejdź do sekcji Poznaj więcej → Inteligentny dom, a następnie włącz opcję Port kontroli sieci IP.",
     "CL_CF_air_care_control_title": "Status salonu",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Aktywuj funkcje natychmiast.",
     "CL_DV_RF_guide_help_support_desc": "Znajdź odpowiedzi i rozwiąż problemy w dowolnym momencie.",
     "CL_DV_RF_guide_manuals_desc": "Szybki dostęp do instrukcji obsługi urządzenia.",
-    "CL_DV_RF_guide_share_device_desc": "Zaproś innych do dostępu i kontroli nad swoim urządzeniem."
+    "CL_DV_RF_guide_share_device_desc": "Zaproś innych do dostępu i kontroli nad swoim urządzeniem.",
+    "CL_DV_TV_add_google_open_ip_control": "Aby włączyć port sterowania IP sieci, przejdź do Szybkie ustawienia → Wszystkie ustawienia → Kanały i wejścia → Wejścia zewnętrzne.",
+    "CL_CF_energy_compare_same_month_last_year": "Porównaj z tym samym miesiącem ubiegłego roku",
+    "CL_permission_desc_notification": "do powiadomień push w systemie wymagane jest uprawnienie dostępu do powiadomień"
 }

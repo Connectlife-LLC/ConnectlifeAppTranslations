@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "检查ConnectLife APP是否支持您正尝试连接的设备",
     "input_entered_browse_through": "浏览常见问题",
     "input_entered_if_none": "如果这些方案都不能解决您的问题，您可以创建一个服务工单。",
-    "input_exit_setup": "离开设置程序",
+    "input_exit_setup": "取消",
     "cn_wifi_error_not": "设备网络未连接",
     "cn_wifi_error_the_cn": "连接设备网络失败",
     "cn_wifi_error_check1": "请检查设备是否处于可连接状态",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "最终用户条款与使用条件",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife 需要使用定位服务来确定设备位置。请在手机设置中启用此功能以访问所有功能。",
     "CL_CF_CS_exit": "退出",
-    "CL_DV_TV_add_google_open_ip_control": "进入设置→通道和输入→外部输入，打开网络IP控制端口。",
     "CL_DV_TV_add_google_see_ip": "进入“设置”→“网络和互联网”→“Wi-Fi”查找已连接的网络，以查找 IP 和 MAC 地址。",
     "CL_DV_TV_add_fire_tv_open_ip": "点击遥控器上的设置按钮，进入“探索更多”→“智能家居”，然后打开“网络IP控制端口”。",
     "CL_CF_air_care_control_title": "客厅状况",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "立即激活各项功能。",
     "CL_DV_RF_guide_help_support_desc": "随时查找答案并排除故障。",
     "CL_DV_RF_guide_manuals_desc": "快速查阅您的设备手册。",
-    "CL_DV_RF_guide_share_device_desc": "邀请他人访问和控制您的设备。"
+    "CL_DV_RF_guide_share_device_desc": "邀请他人访问和控制您的设备。",
+    "CL_DV_TV_add_google_open_ip_control": "导航至快速设置 → 所有设置 → 通道和输入 → 外部输入，以启用网络 IP 控制端口。",
+    "CL_CF_energy_compare_same_month_last_year": "与去年同期相比",
+    "CL_permission_desc_notification": "需访问通知权限用于系统推送"
 }

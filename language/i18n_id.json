@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Periksa apakah ConnectLife mendukung perangkat yang Anda coba sambungkan.",
     "input_entered_browse_through": "Telusuri FAQ.",
     "input_entered_if_none": "Jika tidak ada solusi ini yang menyelesaikan masalah Anda, Anda dapat membuka tiket layanan.",
-    "input_exit_setup": "PENGATURAN KELUAR",
+    "input_exit_setup": "Membatalkan",
     "cn_wifi_error_not": "Tidak tersambung ke Wi-Fi perangkat.",
     "cn_wifi_error_the_cn": "Sambungan ke Wi-Fi perangkat tidak berhasil.",
     "cn_wifi_error_check1": "Periksa apakah perangkat dalam mode koneksi.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Syarat dan Ketentuan Pengguna Akhir",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife memerlukan layanan lokasi untuk menentukan lokasi perangkat. Harap aktifkan fitur ini di pengaturan ponsel Anda untuk mengakses semua fungsi.",
     "CL_CF_CS_exit": "KELUAR",
-    "CL_DV_TV_add_google_open_ip_control": "Buka Pengaturan → Saluran dan input → Input eksternal untuk mengaktifkan Port Kontrol IP Jaringan.",
     "CL_DV_TV_add_google_see_ip": "Buka Pengaturan → Jaringan & Internet → Wi-Fi untuk menemukan jaringan yang terhubung dan mencari alamat IP dan MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klik tombol pengaturan pada remote control, buka Jelajahi selengkapnya → Rumah Pintar, lalu aktifkan Port Kontrol IP Jaringan.",
     "CL_CF_air_care_control_title": "Status ruang tamu",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Aktifkan fungsi secara instan.",
     "CL_DV_RF_guide_help_support_desc": "Temukan jawaban dan atasi masalah kapan saja.",
     "CL_DV_RF_guide_manuals_desc": "Akses manual perangkat Anda dengan cepat.",
-    "CL_DV_RF_guide_share_device_desc": "Undang orang lain untuk mengakses dan mengontrol perangkat Anda."
+    "CL_DV_RF_guide_share_device_desc": "Undang orang lain untuk mengakses dan mengontrol perangkat Anda.",
+    "CL_DV_TV_add_google_open_ip_control": "Buka Pengaturan Cepat → Semua Pengaturan → Saluran dan input → Input eksternal untuk mengaktifkan Port Kontrol IP Jaringan.",
+    "CL_CF_energy_compare_same_month_last_year": "Bandingkan dengan bulan yang sama tahun lalu",
+    "CL_permission_desc_notification": "Izin akses notifikasi diperlukan untuk notifikasi push sistem."
 }

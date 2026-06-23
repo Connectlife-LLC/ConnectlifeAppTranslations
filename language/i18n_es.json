@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Compruebe si ConnectLife es compatible con el dispositivo que está intentando conectar.",
     "input_entered_browse_through": "Navegar a través de preguntas frecuentes.",
     "input_entered_if_none": "Si ninguna de estas soluciones resolvió su problema, puede abrir un ticket de servicio.",
-    "input_exit_setup": "SALIR CONFIGURACIÓN",
+    "input_exit_setup": "Cancelar",
     "cn_wifi_error_not": "No conectado al Wi-Fi del dispositivo.",
     "cn_wifi_error_the_cn": "La conexión al Wi-Fi del dispositivo no tuvo éxito.",
     "cn_wifi_error_check1": "Compruebe si el dispositivo está en modo de conexión.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Términos y condiciones para el usuario final",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife requiere los servicios de ubicación para determinar la ubicación del dispositivo. Active esta función en la configuración de su teléfono para acceder a todas las funciones.",
     "CL_CF_CS_exit": "Salir",
-    "CL_DV_TV_add_google_open_ip_control": "Navegue a Configuración → Canales y entradas → Entradas externas para activar el puerto de control IP de red.",
     "CL_DV_TV_add_google_see_ip": "Navegue a Configuración → Red e Internet → Wi-Fi para encontrar la red conectada y obtener las direcciones IP y MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Haz clic en el botón de configuración del control remoto, ve a Explorar más → Hogar inteligente y, a continuación, activa el Puerto de control IP de red.",
     "CL_CF_air_care_control_title": "estado de la sala de estar",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Activa las funciones al instante.",
     "CL_DV_RF_guide_help_support_desc": "Encuentra respuestas y soluciona problemas en cualquier momento.",
     "CL_DV_RF_guide_manuals_desc": "Acceda rápidamente al manual de su dispositivo.",
-    "CL_DV_RF_guide_share_device_desc": "Invita a otros a acceder y controlar tu dispositivo."
+    "CL_DV_RF_guide_share_device_desc": "Invita a otros a acceder y controlar tu dispositivo.",
+    "CL_DV_TV_add_google_open_ip_control": "Navegue a Configuración rápida → Todas las configuraciones → Canales y entradas → Entradas externas para activar el puerto de control IP de red.",
+    "CL_CF_energy_compare_same_month_last_year": "Comparar con el mismo mes del año pasado",
+    "CL_permission_desc_notification": "Se requiere permiso de acceso para las notificaciones push del sistema."
 }

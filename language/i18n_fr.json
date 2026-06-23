@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Vérifiez si ConnectLife prend en charge l'appareil que vous essayez de connecter.",
     "input_entered_browse_through": "Parcourez les FAQ.",
     "input_entered_if_none": "Si aucune de ces solutions ne résout votre problème, vous pouvez ouvrir un ticket de service.",
-    "input_exit_setup": "QUITTER LA CONFIGURATION",
+    "input_exit_setup": "Annuler",
     "cn_wifi_error_not": "Non connecté au Wi-Fi de l'appareil.",
     "cn_wifi_error_the_cn": "La connexion au Wi-Fi de l'appareil a échoué.",
     "cn_wifi_error_check1": "Vérifiez si l'appareil est en mode connexion.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Conditions générales pour l'utilisateur final",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife utilise les services de localisation pour déterminer l'emplacement de votre appareil. Veuillez activer cette fonction dans les paramètres de votre téléphone pour accéder à toutes les fonctionnalités.",
     "CL_CF_CS_exit": "Quitter",
-    "CL_DV_TV_add_google_open_ip_control": "Accédez à Paramètres → Canaux et entrées → Entrées externes pour activer le port de contrôle IP réseau.",
     "CL_DV_TV_add_google_see_ip": "Accédez à Paramètres → Réseau et Internet → Wi-Fi pour trouver le réseau connecté et ainsi obtenir les adresses IP et MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Cliquez sur le bouton de réglage de la télécommande, allez dans Explorer plus → Maison intelligente, puis activez le port de contrôle IP réseau.",
     "CL_CF_air_care_control_title": "État du salon",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Activez les fonctions instantanément.",
     "CL_DV_RF_guide_help_support_desc": "Trouvez des réponses et résolvez les problèmes à tout moment.",
     "CL_DV_RF_guide_manuals_desc": "Accédez rapidement au manuel de votre appareil.",
-    "CL_DV_RF_guide_share_device_desc": "Invitez d'autres personnes à accéder à votre appareil et à le contrôler."
+    "CL_DV_RF_guide_share_device_desc": "Invitez d'autres personnes à accéder à votre appareil et à le contrôler.",
+    "CL_DV_TV_add_google_open_ip_control": "Accédez à Paramètres rapides → Tous les paramètres → Canaux et entrées → Entrées externes pour activer le port de contrôle IP réseau.",
+    "CL_CF_energy_compare_same_month_last_year": "Comparer au même mois de l'année dernière",
+    "CL_permission_desc_notification": "L'autorisation d'accès aux notifications est requise pour les notifications push système."
 }

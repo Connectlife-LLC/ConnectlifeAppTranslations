@@ -2023,7 +2023,7 @@
     "input_entered_check_if": "Tarkista, tukeeko ConnectLife laitetta, johon yrität muodostaa yhteyden.",
     "input_entered_browse_through": "Selaa usein kysyttyjä kysymyksiä.",
     "input_entered_if_none": "Jos mikään näistä ratkaisuista ei ratkaissut ongelmaasi, voit avata palvelulipun.",
-    "input_exit_setup": "POISTA ASETUKSET",
+    "input_exit_setup": "Peruuttaa",
     "cn_wifi_error_not": "Ei yhteyttä laitteen Wi-Fi-verkkoon.",
     "cn_wifi_error_the_cn": "Yhteyden muodostaminen laitteen Wi-Fi-verkkoon epäonnistui.",
     "cn_wifi_error_check1": "Tarkista, onko laite yhteystilassa.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Loppukäyttäjän ehdot",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife vaatii paikannuspalveluita laitteen sijainnin määrittämiseen. Ota tämä ominaisuus käyttöön puhelimesi asetuksissa käyttääksesi kaikkia toimintoja.",
     "CL_CF_CS_exit": "Poistu",
-    "CL_DV_TV_add_google_open_ip_control": "Siirry kohtaan Asetukset → Kanavat ja tulot → Ulkoiset tulot ottaaksesi käyttöön verkon IP-ohjausportin.",
     "CL_DV_TV_add_google_see_ip": "Siirry kohtaan Asetukset → Verkko ja internet → Wi-Fi ja etsi yhdistetty verkko IP- ja MAC-osoitteiden selvittämiseksi.",
     "CL_DV_TV_add_fire_tv_open_ip": "Napsauta kaukosäätimen asetuspainiketta, siirry kohtaan Tutustu lisää → Älykoti ja ota sitten käyttöön Verkko IP-ohjausportti.",
     "CL_CF_air_care_control_title": "Olohuoneen tila",
@@ -8678,5 +8677,8 @@
     "CL_DV_RF_mark_guide_step1_content": "Aktivoi toiminnot välittömästi.",
     "CL_DV_RF_guide_help_support_desc": "Löydä vastauksia ja ratkaise vianmäärityksiä milloin tahansa.",
     "CL_DV_RF_guide_manuals_desc": "Käytä laitteen käyttöohjetta nopeasti.",
-    "CL_DV_RF_guide_share_device_desc": "Kutsu muita käyttämään ja hallitsemaan laitettasi."
+    "CL_DV_RF_guide_share_device_desc": "Kutsu muita käyttämään ja hallitsemaan laitettasi.",
+    "CL_DV_TV_add_google_open_ip_control": "Ota verkon IP-ohjausportti käyttöön siirtymällä kohtaan Pika-asetukset → Kaikki asetukset → Kanavat ja tulot → Ulkoiset tulot.",
+    "CL_CF_energy_compare_same_month_last_year": "Vertaa samaan kuukauteen viime vuonna",
+    "CL_permission_desc_notification": "järjestelmän push-ilmoituksille vaaditaan käyttöoikeusilmoituksiin"
 }
