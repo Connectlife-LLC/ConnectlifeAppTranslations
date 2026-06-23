@@ -1,0 +1,92 @@
+name: Check JSON Map (string keys & values)
+
+on:
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write   # 允许评论 PR
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Get changed JSON files
+        id: changed-files
+        uses: tj-actions/changed-files@v42
+        with:
+          files: |
+            **/*.json
+
+      - name: Validate and collect result
+        id: validate
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          FAILED=0
+          OUTPUT=""
+          for FILE in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "Checking $FILE ..."
+            # 检查逻辑（同上）
+            if ! jq empty "$FILE" 2>/dev/null; then
+              echo "❌ $FILE is not valid JSON"
+              OUTPUT+="❌ $FILE is not valid JSON\n"
+              FAILED=1
+              continue
+            fi
+            TYPE=$(jq -r 'type' "$FILE")
+            if [ "$TYPE" != "object" ]; then
+              echo "❌ $FILE is not a JSON object (map), got: $TYPE"
+              OUTPUT+="❌ $FILE is not a JSON object (map), got: $TYPE\n"
+              FAILED=1
+              continue
+            fi
+            KEY_TYPES=$(jq -r 'keys[]' "$FILE" | while read k; do
+              jq -r --arg k "$k" 'type(.[$k])' "$FILE"
+            done | sort -u)
+            VAL_TYPES=$(jq -r '.[] | type' "$FILE" | sort -u)
+            if [ "$KEY_TYPES" != "string" ]; then
+              echo "❌ $FILE has non-string keys (found: $KEY_TYPES)"
+              OUTPUT+="❌ $FILE has non-string keys (found: $KEY_TYPES)\n"
+              FAILED=1
+              continue
+            fi
+            if [ "$VAL_TYPES" != "string" ]; then
+              echo "❌ $FILE has non-string values (found: $VAL_TYPES)"
+              OUTPUT+="❌ $FILE has non-string values (found: $VAL_TYPES)\n"
+              FAILED=1
+              continue
+            fi
+            echo "✅ $FILE is valid"
+            OUTPUT+="✅ $FILE is valid\n"
+          done
+
+          # 保存结果供后续步骤使用
+          echo "output=$OUTPUT" >> $GITHUB_OUTPUT
+          echo "failed=$FAILED" >> $GITHUB_OUTPUT
+          if [ $FAILED -ne 0 ]; then
+            exit 1
+          fi
+
+      - name: Post comment to PR
+        if: always() && steps.changed-files.outputs.any_changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const result = `${{ steps.validate.outputs.output }}`;
+            const failed = ${{ steps.validate.outputs.failed || 0 }};
+            const conclusion = failed ? '❌ **Validation failed**' : '✅ **All files are valid string→string JSON maps**';
+            const body = `## JSON Format Check Result\n\n${conclusion}\n\`\`\`\n${result}\n\`\`\``;
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: body
+            });
