@@ -8680,5 +8680,10 @@
     "CL_DV_RF_guide_share_device_desc": "Povabite druge, da dostopajo do vaše naprave in jo upravljajo.",
     "CL_DV_TV_add_google_open_ip_control": "Pomaknite se do Hitrih nastavitev → Vse nastavitve → Kanali in vhodi → Zunanji vhodi, da vklopite vrata za nadzor omrežnega IP-ja.",
     "CL_CF_energy_compare_same_month_last_year": "Primerjajte z istim mesecem lani",
-    "CL_permission_desc_notification": "Za sistemska potisna obvestila je potrebno dovoljenje za dostop do obvestil"
+    "CL_permission_desc_notification": "Za sistemska potisna obvestila je potrebno dovoljenje za dostop do obvestil",
+    "guide_baking_des": "Zaženite, ustavite in spremljajte svojo napravo na daljavo.",
+    "guide_recipes_des": "Brskajte po receptih in pošljite nastavitve neposredno v svojo napravo.",
+    "guide_auto_programms_des": "Brskajte po samodejnih programih in pošljite nastavitve neposredno v svojo napravo.",
+    "guide_cooking_assist_des": "Naj vam kuhalna plošča pomaga pri samodejnih nastavitvah kuhanja.",
+    "CL_DV_WINE_humidity_box": "Opomnik za polje za vlažnost"
 }

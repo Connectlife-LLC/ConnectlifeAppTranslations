@@ -8680,5 +8680,10 @@
     "CL_DV_RF_guide_share_device_desc": "הזמן אחרים לגשת למכשיר שלך ולשלוט בו.",
     "CL_DV_TV_add_google_open_ip_control": "נווט אל הגדרות מהירות ← כל ההגדרות ← ערוצים וכניסות ← כניסות חיצוניות כדי להפעיל את יציאת בקרת IP של הרשת.",
     "CL_CF_energy_compare_same_month_last_year": "השוואה לחודש המקביל בשנה שעברה",
-    "CL_permission_desc_notification": "נדרשת הרשאת גישה להתראות עבור התראות דחיפה של המערכת"
+    "CL_permission_desc_notification": "נדרשת הרשאת גישה להתראות עבור התראות דחיפה של המערכת",
+    "guide_baking_des": "הפעל, עצור ונטר את המכשיר שלך מרחוק.",
+    "guide_recipes_des": "עיין במתכונים ושלח הגדרות ישירות למכשיר שלך.",
+    "guide_auto_programms_des": "עיין בתוכניות אוטומטיות ושלח הגדרות ישירות למכשיר שלך.",
+    "guide_cooking_assist_des": "תנו לכיריים לסייע לכם בהגדרות הבישול האוטומטיות.",
+    "CL_DV_WINE_humidity_box": "תזכורת לתיבת לחות"
 }

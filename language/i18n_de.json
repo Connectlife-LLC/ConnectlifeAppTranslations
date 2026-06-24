@@ -8680,5 +8680,10 @@
     "CL_DV_RF_guide_share_device_desc": "Laden Sie andere ein, auf Ihr Gerät zuzugreifen und es zu steuern.",
     "CL_DV_TV_add_google_open_ip_control": "Navigieren Sie zu Schnelleinstellungen → Alle Einstellungen → Kanäle und Eingänge → Externe Eingänge, um den Netzwerk-IP-Steuerungsport zu aktivieren.",
     "CL_CF_energy_compare_same_month_last_year": "Vergleich mit dem gleichen Monat des Vorjahres",
-    "CL_permission_desc_notification": "Für System-Push-Benachrichtigungen ist die Zugriffsberechtigung erforderlich."
+    "CL_permission_desc_notification": "Für System-Push-Benachrichtigungen ist die Zugriffsberechtigung erforderlich.",
+    "guide_baking_des": "Starten, stoppen und überwachen Sie Ihr Gerät aus der Ferne.",
+    "guide_recipes_des": "Durchstöbern Sie Rezepte und senden Sie Einstellungen direkt an Ihr Gerät.",
+    "guide_auto_programms_des": "Durchsuchen Sie automatische Programme und senden Sie Einstellungen direkt an Ihr Gerät.",
+    "guide_cooking_assist_des": "Lassen Sie sich von den automatischen Kochprogrammen des Kochfelds unterstützen.",
+    "CL_DV_WINE_humidity_box": "Erinnerung an die Feuchtigkeitsbox"
 }
