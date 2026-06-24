@@ -8680,5 +8680,10 @@
     "CL_DV_RF_guide_share_device_desc": "Pozvěte ostatní k přístupu a ovládání vašeho zařízení.",
     "CL_DV_TV_add_google_open_ip_control": "Přejděte do Rychlé nastavení → Všechna nastavení → Kanály a vstupy → Externí vstupy a zapněte port pro řízení síťové IP adresy.",
     "CL_CF_energy_compare_same_month_last_year": "Porovnejte se stejným měsícem loňského roku",
-    "CL_permission_desc_notification": "Pro systémová push oznámení je vyžadováno oprávnění k přístupu k oznámením"
+    "CL_permission_desc_notification": "Pro systémová push oznámení je vyžadováno oprávnění k přístupu k oznámením",
+    "guide_baking_des": "Spouštějte, zastavujte a monitorujte své zařízení na dálku.",
+    "guide_recipes_des": "Procházejte recepty a odesílejte nastavení přímo do svého zařízení.",
+    "guide_auto_programms_des": "Procházejte automatické programy a odesílejte nastavení přímo do svého zařízení.",
+    "guide_cooking_assist_des": "Nechte si s automatickým nastavením vaření pomoci varnou deskou.",
+    "CL_DV_WINE_humidity_box": "Připomenutí boxu s vlhkostí"
 }

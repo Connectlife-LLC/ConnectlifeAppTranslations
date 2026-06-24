@@ -8680,5 +8680,10 @@
     "CL_DV_RF_guide_share_device_desc": "Inviter andre til at få adgang til og styre din enhed.",
     "CL_DV_TV_add_google_open_ip_control": "Naviger til Hurtige indstillinger → Alle indstillinger → Kanaler og indgange → Eksterne indgange for at aktivere Netværks-IP-kontrolport.",
     "CL_CF_energy_compare_same_month_last_year": "Sammenlign med samme måned sidste år",
-    "CL_permission_desc_notification": "Adgangstilladelse er påkrævet for system-push-notifikationer"
+    "CL_permission_desc_notification": "Adgangstilladelse er påkrævet for system-push-notifikationer",
+    "guide_baking_des": "Start, stop og overvåg din enhed eksternt.",
+    "guide_recipes_des": "Gennemse opskrifter og send indstillinger direkte til din enhed.",
+    "guide_auto_programms_des": "Gennemse automatiske programmer og send indstillinger direkte til din enhed.",
+    "guide_cooking_assist_des": "Lad kogepladen hjælpe dig med automatiske madlavningsindstillinger.",
+    "CL_DV_WINE_humidity_box": "Påmindelse om fugtighedsboks"
 }
