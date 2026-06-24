@@ -8680,5 +8680,10 @@
     "CL_DV_RF_guide_share_device_desc": "Invite others to access and control your device.",
     "CL_DV_TV_add_google_open_ip_control": "Navigate to Quick Settings → All Settings → Channels and inputs → External inputs to turn on Network IP Control Port.",
     "CL_CF_energy_compare_same_month_last_year": "Compare to the same month last year",
-    "CL_permission_desc_notification": "access notification permission is required for system push notifications"
+    "CL_permission_desc_notification": "access notification permission is required for system push notifications",
+    "guide_baking_des": "Start, stop, and monitor your device remotely.",
+    "guide_recipes_des": "Browse recipes and send settings directly to your device.",
+    "guide_auto_programms_des": "Browse auto programms and send settings directly to your device.",
+    "guide_cooking_assist_des": "Let the hob assist you with automatic cooking settings.",
+    "CL_DV_WINE_humidity_box": "Humidity box reminder"
 }

@@ -8680,5 +8680,10 @@
     "CL_DV_RF_guide_share_device_desc": "Invită alte persoane să acceseze și să controleze dispozitivul tău.",
     "CL_DV_TV_add_google_open_ip_control": "Navigați la Setări rapide → Toate setările → Canale și intrări → Intrări externe pentru a activa Portul de control IP al rețelei.",
     "CL_CF_energy_compare_same_month_last_year": "Comparați cu aceeași lună a anului trecut",
-    "CL_permission_desc_notification": "Permisiunea de acces la notificări este necesară pentru notificările push de sistem."
+    "CL_permission_desc_notification": "Permisiunea de acces la notificări este necesară pentru notificările push de sistem.",
+    "guide_baking_des": "Porniți, opriți și monitorizați dispozitivul de la distanță.",
+    "guide_recipes_des": "Răsfoiește rețete și trimite setările direct pe dispozitiv.",
+    "guide_auto_programms_des": "Răsfoiți programele automate și trimiteți setările direct pe dispozitiv.",
+    "guide_cooking_assist_des": "Lăsați plita să vă ajute cu setările automate de gătit.",
+    "CL_DV_WINE_humidity_box": "Memento cutie de umiditate"
 }
