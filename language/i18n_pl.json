@@ -8680,5 +8680,11 @@
     "CL_DV_RF_guide_share_device_desc": "Zaproś innych do dostępu i kontroli nad swoim urządzeniem.",
     "CL_DV_TV_add_google_open_ip_control": "Aby włączyć port sterowania IP sieci, przejdź do Szybkie ustawienia → Wszystkie ustawienia → Kanały i wejścia → Wejścia zewnętrzne.",
     "CL_CF_energy_compare_same_month_last_year": "Porównaj z tym samym miesiącem ubiegłego roku",
-    "CL_permission_desc_notification": "do powiadomień push w systemie wymagane jest uprawnienie dostępu do powiadomień"
+    "CL_permission_desc_notification": "do powiadomień push w systemie wymagane jest uprawnienie dostępu do powiadomień",
+    "guide_baking_des": "Zdalne uruchamianie, zatrzymywanie i monitorowanie urządzenia.",
+    "guide_recipes_des": "Przeglądaj przepisy i wysyłaj ustawienia bezpośrednio na swoje urządzenie.",
+    "guide_auto_programms_des": "Przeglądaj programy automatyczne i wysyłaj ustawienia bezpośrednio na swoje urządzenie.",
+    "guide_cooking_assist_des": "Pozwól, aby płyta grzewcza wspomagała Cię dzięki automatycznym ustawieniom gotowania.",
+    "CL_DV_WINE_humidity_box": "Przypomnienie o polu wilgotności",
+    "CL_CF_HP_hide_card_tips": "Czy na pewno chcesz ukryć kartę?"
 }

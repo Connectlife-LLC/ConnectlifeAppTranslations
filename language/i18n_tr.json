@@ -8680,5 +8680,11 @@
     "CL_DV_RF_guide_share_device_desc": "Başka kişilerin cihazınıza erişmesine ve kontrol etmesine izin verin.",
     "CL_DV_TV_add_google_open_ip_control": "Ağ IP Kontrol Portunu etkinleştirmek için Hızlı Ayarlar → Tüm Ayarlar → Kanallar ve girişler → Harici girişler yolunu izleyin.",
     "CL_CF_energy_compare_same_month_last_year": "Geçen yılın aynı ayı ile karşılaştırın",
-    "CL_permission_desc_notification": "Sistem anlık bildirimleri için erişim bildirimi izni gereklidir."
+    "CL_permission_desc_notification": "Sistem anlık bildirimleri için erişim bildirimi izni gereklidir.",
+    "guide_baking_des": "Cihazınızı uzaktan başlatın, durdurun ve izleyin.",
+    "guide_recipes_des": "Tariflere göz atın ve ayarları doğrudan cihazınıza gönderin.",
+    "guide_auto_programms_des": "Otomatik programlara göz atın ve ayarları doğrudan cihazınıza gönderin.",
+    "guide_cooking_assist_des": "Ocağın otomatik pişirme ayarlarıyla size yardımcı olmasına izin verin.",
+    "CL_DV_WINE_humidity_box": "Nem kutusu hatırlatıcısı",
+    "CL_CF_HP_hide_card_tips": "Kartı saklamak istediğinizden emin misiniz?"
 }

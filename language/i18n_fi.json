@@ -8680,5 +8680,11 @@
     "CL_DV_RF_guide_share_device_desc": "Kutsu muita käyttämään ja hallitsemaan laitettasi.",
     "CL_DV_TV_add_google_open_ip_control": "Ota verkon IP-ohjausportti käyttöön siirtymällä kohtaan Pika-asetukset → Kaikki asetukset → Kanavat ja tulot → Ulkoiset tulot.",
     "CL_CF_energy_compare_same_month_last_year": "Vertaa samaan kuukauteen viime vuonna",
-    "CL_permission_desc_notification": "järjestelmän push-ilmoituksille vaaditaan käyttöoikeusilmoituksiin"
+    "CL_permission_desc_notification": "järjestelmän push-ilmoituksille vaaditaan käyttöoikeusilmoituksiin",
+    "guide_baking_des": "Käynnistä, pysäytä ja valvo laitettasi etänä.",
+    "guide_recipes_des": "Selaa reseptejä ja lähetä asetukset suoraan laitteeseesi.",
+    "guide_auto_programms_des": "Selaa automaattisia ohjelmia ja lähetä asetukset suoraan laitteeseesi.",
+    "guide_cooking_assist_des": "Anna lieden auttaa sinua automaattisissa kypsennysasetuksissa.",
+    "CL_DV_WINE_humidity_box": "Kosteuslaatikon muistutus",
+    "CL_CF_HP_hide_card_tips": "Oletko varma, että haluat piilottaa kortin?"
 }

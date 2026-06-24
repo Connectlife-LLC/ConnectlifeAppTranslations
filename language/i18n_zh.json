@@ -8680,5 +8680,11 @@
     "CL_DV_RF_guide_share_device_desc": "邀请他人访问和控制您的设备。",
     "CL_DV_TV_add_google_open_ip_control": "导航至快速设置 → 所有设置 → 通道和输入 → 外部输入，以启用网络 IP 控制端口。",
     "CL_CF_energy_compare_same_month_last_year": "与去年同期相比",
-    "CL_permission_desc_notification": "需访问通知权限用于系统推送"
+    "CL_permission_desc_notification": "需访问通知权限用于系统推送",
+    "guide_baking_des": "远程启动、停止和监控您的设备。",
+    "guide_recipes_des": "浏览食谱并将设置直接发送到您的设备。",
+    "guide_auto_programms_des": "浏览汽车程序并将设置直接发送到您的设备。",
+    "guide_cooking_assist_des": "让灶台的自动烹饪功能助您一臂之力。",
+    "CL_DV_WINE_humidity_box": "湿度盒提醒",
+    "CL_CF_HP_hide_card_tips": "你确定要隐藏这张卡吗？"
 }

@@ -8680,5 +8680,11 @@
     "CL_DV_RF_guide_share_device_desc": "Invitez d'autres personnes à accéder à votre appareil et à le contrôler.",
     "CL_DV_TV_add_google_open_ip_control": "Accédez à Paramètres rapides → Tous les paramètres → Canaux et entrées → Entrées externes pour activer le port de contrôle IP réseau.",
     "CL_CF_energy_compare_same_month_last_year": "Comparer au même mois de l'année dernière",
-    "CL_permission_desc_notification": "L'autorisation d'accès aux notifications est requise pour les notifications push système."
+    "CL_permission_desc_notification": "L'autorisation d'accès aux notifications est requise pour les notifications push système.",
+    "guide_baking_des": "Démarrez, arrêtez et surveillez votre appareil à distance.",
+    "guide_recipes_des": "Parcourez les recettes et envoyez les paramètres directement sur votre appareil.",
+    "guide_auto_programms_des": "Parcourez les programmes automatiques et envoyez les paramètres directement à votre appareil.",
+    "guide_cooking_assist_des": "Laissez la plaque de cuisson vous assister grâce à ses réglages de cuisson automatiques.",
+    "CL_DV_WINE_humidity_box": "rappel de boîte d'humidité",
+    "CL_CF_HP_hide_card_tips": "Êtes-vous sûr de vouloir cacher la carte ?"
 }
