@@ -107,8 +107,7 @@ jobs:
           script: |
             const output = `${{ steps.validate.outputs.output || steps['no-json-files-changed'].outputs.output || 'No validation performed' }}`;
             const failed = parseInt(`${{ steps.validate.outputs.failed || steps['no-json-files-changed'].outputs.failed || 0 }}`);
-            const conclusion = failed ? '❌ **Validation failed**' : '✅ **All files are valid string→string JSON maps**';
-            const body = `## 📋 JSON Format Check Result\n\n${conclusion}\n\n\`\`\`\n${output}\n\`\`\``;
+            const body = `## 📋 JSON Format Check Result\n\n\`\`\`\n${output}\n\`\`\``;
             await github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
