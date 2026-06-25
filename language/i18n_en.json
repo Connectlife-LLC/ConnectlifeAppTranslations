@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Your *** and ConnectLife accounts have been successfully linked.",
     "link_google_title": "You can link Google to your ConnectLife account",
     "link_google_confirm": "AGREE & LINK GOOGLE",
-    "link_google_ability_title": "If you link, Google can:",
-    "link_google_ability_1": "Access a list of your connected devices.",
-    "link_google_ability_2": "Access identification of the devices (this includes the name and its unique identification).",
-    "link_google_ability_3": "Access current state and settings of the devices.",
+    "link_google_ability_title": "Once your account is connected, you give Google permission to:",
+    "link_google_ability_1": "View a list of your connected devices.",
+    "link_google_ability_2": "View device details, such as name and unique ID",
+    "link_google_ability_3": "Control your devices and view their state and settings.",
     "review_google_xxx": "Review Google’s ***.",
     "air_care_general_des": "Auto-optimize for comfort environment",
     "air_care_pet_des": "Auto-optimize for pet-friendly environment",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Browse auto programms and send settings directly to your device.",
     "guide_cooking_assist_des": "Let the hob assist you with automatic cooking settings.",
     "CL_DV_WINE_humidity_box": "Humidity box reminder",
-    "CL_CF_HP_hide_card_tips": "Are you sure you want to hide the card?"
+    "CL_CF_HP_hide_card_tips": "Are you sure you want to hide the card?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Control your hood directly from your phone.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Adjust and personalize your device settings."
 }

@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "귀하의 *** 및 ConnectLife 계정이 성공적으로 연결되었습니다.",
     "link_google_title": "Google을 ConnectLife 계정에 연결할 수 있습니다",
     "link_google_confirm": "동의하고 Google에 연결하세요.",
-    "link_google_ability_title": "연결하면 Google에서 다음을 수행할 수 있습니다.",
-    "link_google_ability_1": "연결된 장치 목록에 액세스하세요.",
-    "link_google_ability_2": "장치의 액세스 식별(여기에는 이름과 고유 ID가 포함됩니다)",
-    "link_google_ability_3": "장치의 현재 상태 및 설정에 액세스합니다.",
+    "link_google_ability_title": "계정이 연결되면 Google에 다음과 같은 권한을 부여하게 됩니다.",
+    "link_google_ability_1": "연결된 기기 목록을 확인하세요.",
+    "link_google_ability_2": "기기 이름 및 고유 ID와 같은 기기 세부 정보를 확인하세요.",
+    "link_google_ability_3": "기기를 제어하고 상태 및 설정을 확인하세요.",
     "review_google_xxx": "Google의 ***를 검토하세요.",
     "air_care_general_des": "편안한 환경을 위한 자동 최적화",
     "air_care_pet_des": "반려동물 친화적인 환경을 위한 자동 최적화",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "자동 프로그램을 찾아보고 설정을 기기로 바로 전송하세요.",
     "guide_cooking_assist_des": "자동 조리 설정 기능으로 쿡탑을 편리하게 사용하세요.",
     "CL_DV_WINE_humidity_box": "습도 조절 상자 알림",
-    "CL_CF_HP_hide_card_tips": "카드를 숨기시겠습니까?"
+    "CL_CF_HP_hide_card_tips": "카드를 숨기시겠습니까?",
+    "CL_DV_HOOD_guide_remote_control_desc": "스마트폰으로 후드를 직접 제어하세요.",
+    "CL_DV_HOOD_guide_device_settings_desc": "기기 설정을 조정하고 개인 설정하세요."
 }

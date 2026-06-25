@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Akaun *** dan ConnectLife anda telah berjaya dipautkan.",
     "link_google_title": "Anda boleh memautkan Google ke akaun ConnectLife anda",
     "link_google_confirm": "SETUJU & PAUT GOOGLE",
-    "link_google_ability_title": "Jika anda memaut, Google boleh:",
-    "link_google_ability_1": "Akses senarai peranti anda yang disambungkan.",
-    "link_google_ability_2": "Akses pengenalan peranti (ini termasuk nama dan pengenalan uniknya).",
-    "link_google_ability_3": "Akses keadaan semasa dan tetapan peranti.",
+    "link_google_ability_title": "Sebaik sahaja akaun anda disambungkan, anda memberi kebenaran kepada Google untuk:",
+    "link_google_ability_1": "Lihat senarai peranti anda yang disambungkan.",
+    "link_google_ability_2": "Lihat butiran peranti, seperti nama dan ID unik",
+    "link_google_ability_3": "Kawal peranti anda dan lihat keadaan serta tetapannya.",
     "review_google_xxx": "Semak *** Google.",
     "air_care_general_des": "Autooptimumkan untuk persekitaran yang selesa",
     "air_care_pet_des": "Autooptimumkan untuk persekitaran mesra haiwan peliharaan",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Layari program automatik dan hantar tetapan terus ke peranti anda.",
     "guide_cooking_assist_des": "Biarkan dapur membantu anda dengan tetapan memasak automatik.",
     "CL_DV_WINE_humidity_box": "Peringatan kotak kelembapan",
-    "CL_CF_HP_hide_card_tips": "Adakah anda pasti mahu menyembunyikan kad itu?"
+    "CL_CF_HP_hide_card_tips": "Adakah anda pasti mahu menyembunyikan kad itu?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Kawal hud anda terus dari telefon anda.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Laraskan dan peribadikan tetapan peranti anda."
 }

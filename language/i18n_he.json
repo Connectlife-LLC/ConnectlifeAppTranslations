@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "חשבונות *** ו-ConnectLife שלך קושרו בהצלחה.",
     "link_google_title": "אתה יכול לקשר את Google לחשבון ConnectLife שלך",
     "link_google_confirm": "מסכים וקשר לגוגל",
-    "link_google_ability_title": "אם אתה מקשר, גוגל יכול:",
-    "link_google_ability_1": "גש לרשימה של המכשירים המחוברים שלך.",
-    "link_google_ability_2": "זיהוי גישה של המכשירים (זה כולל את השם והזיהוי הייחודי שלו).",
-    "link_google_ability_3": "גש למצב הנוכחי ולהגדרות של המכשירים.",
+    "link_google_ability_title": "לאחר שהחשבון שלך מחובר, אתה נותן לגוגל הרשאה ל:",
+    "link_google_ability_1": "צפה ברשימה של המכשירים המחוברים שלך.",
+    "link_google_ability_2": "הצג פרטי מכשיר, כגון שם ומזהה ייחודי",
+    "link_google_ability_3": "שלטו במכשירים שלכם וצפו במצב ובהגדרות שלהם.",
     "review_google_xxx": "סקור את ה*** של גוגל.",
     "air_care_general_des": "אופטימיזציה אוטומטית עבור סביבת נוחות",
     "air_care_pet_des": "אופטימיזציה אוטומטית לסביבה ידידותית לחיות מחמד",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "עיין בתוכניות אוטומטיות ושלח הגדרות ישירות למכשיר שלך.",
     "guide_cooking_assist_des": "תנו לכיריים לסייע לכם בהגדרות הבישול האוטומטיות.",
     "CL_DV_WINE_humidity_box": "תזכורת לתיבת לחות",
-    "CL_CF_HP_hide_card_tips": "האם אתה בטוח שאתה רוצה להסתיר את הכרטיס?"
+    "CL_CF_HP_hide_card_tips": "האם אתה בטוח שאתה רוצה להסתיר את הכרטיס?",
+    "CL_DV_HOOD_guide_remote_control_desc": "שלטו במכסה המנוע שלכם ישירות מהטלפון.",
+    "CL_DV_HOOD_guide_device_settings_desc": "התאם והתאם אישית את הגדרות המכשיר שלך."
 }

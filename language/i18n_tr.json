@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "*** ve ConnectLife hesaplarınız başarıyla bağlandı.",
     "link_google_title": "Google'ı ConnectLife hesabınıza bağlayabilirsiniz",
     "link_google_confirm": "KABUL EDİN VE GOOGLE'A BAĞLAYIN",
-    "link_google_ability_title": "Bağlantı verirseniz Google şunları yapabilir:",
-    "link_google_ability_1": "Bağlı cihazlarınızın listesine erişin.",
-    "link_google_ability_2": "Cihazların erişim tanımlaması (buna adı ve benzersiz tanımlaması da dahildir).",
-    "link_google_ability_3": "Cihazların mevcut durumuna ve ayarlarına erişin.",
+    "link_google_ability_title": "Hesabınız bağlandıktan sonra, Google'a şu izinleri veriyorsunuz:",
+    "link_google_ability_1": "Bağlı cihazlarınızın listesini görüntüleyin.",
+    "link_google_ability_2": "Cihazın adını ve benzersiz kimliğini gibi cihaz ayrıntılarını görüntüleyin.",
+    "link_google_ability_3": "Cihazlarınızı kontrol edin, durumlarını ve ayarlarını görüntüleyin.",
     "review_google_xxx": "Google'ın ***'ını inceleyin.",
     "air_care_general_des": "Konfor ortamı için otomatik optimizasyon",
     "air_care_pet_des": "Evcil hayvan dostu ortam için otomatik optimizasyon",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Otomatik programlara göz atın ve ayarları doğrudan cihazınıza gönderin.",
     "guide_cooking_assist_des": "Ocağın otomatik pişirme ayarlarıyla size yardımcı olmasına izin verin.",
     "CL_DV_WINE_humidity_box": "Nem kutusu hatırlatıcısı",
-    "CL_CF_HP_hide_card_tips": "Kartı saklamak istediğinizden emin misiniz?"
+    "CL_CF_HP_hide_card_tips": "Kartı saklamak istediğinizden emin misiniz?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Davlumbazınızı doğrudan telefonunuzdan kontrol edin.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Cihazınızın ayarlarını düzenleyin ve kişiselleştirin."
 }

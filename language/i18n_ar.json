@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "لقد تم ربط حسابي *** وConnectLife الخاصين بك بنجاح.",
     "link_google_title": "يمكنك ربط Google بحساب ConnectLife الخاص بك",
     "link_google_confirm": "الموافقة والربط بجوجل",
-    "link_google_ability_title": "إذا قمت بالربط، فيمكن لـ Google إجراء ما يلي:",
-    "link_google_ability_1": "الوصول إلى قائمة الأجهزة المتصلة الخاصة بك.",
-    "link_google_ability_2": "تحديد الوصول إلى الأجهزة (وهذا يشمل الاسم والتعريف الفريد الخاص به).",
-    "link_google_ability_3": "الوصول إلى الحالة الحالية وإعدادات الأجهزة.",
+    "link_google_ability_title": "بمجرد ربط حسابك، فإنك تمنح جوجل الإذن بما يلي:",
+    "link_google_ability_1": "اعرض قائمة أجهزتك المتصلة.",
+    "link_google_ability_2": "عرض تفاصيل الجهاز، مثل الاسم والمعرف الفريد",
+    "link_google_ability_3": "تحكم في أجهزتك واطلع على حالتها وإعداداتها.",
     "review_google_xxx": "مراجعة جوجل ***.",
     "air_care_general_des": "التحسين التلقائي لبيئة الراحة",
     "air_care_pet_des": "التحسين التلقائي للبيئة الصديقة للحيوانات الأليفة",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "تصفح البرامج التلقائية وأرسل الإعدادات مباشرة إلى جهازك.",
     "guide_cooking_assist_des": "دع الموقد يساعدك بإعدادات الطهي التلقائية.",
     "CL_DV_WINE_humidity_box": "تذكير بصندوق الترطيب",
-    "CL_CF_HP_hide_card_tips": "هل أنت متأكد من رغبتك في إخفاء البطاقة؟"
+    "CL_CF_HP_hide_card_tips": "هل أنت متأكد من رغبتك في إخفاء البطاقة؟",
+    "CL_DV_HOOD_guide_remote_control_desc": "تحكم في غطاء المحرك مباشرة من هاتفك.",
+    "CL_DV_HOOD_guide_device_settings_desc": "اضبط إعدادات جهازك وقم بتخصيصها."
 }

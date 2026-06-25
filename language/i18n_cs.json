@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Vaše účty *** a ConnectLife byly úspěšně propojeny.",
     "link_google_title": "Google můžete propojit se svým účtem ConnectLife",
     "link_google_confirm": "SOUHLASÍTE A PROPOJTE GOOGLE",
-    "link_google_ability_title": "Pokud propojíte, Google může:",
-    "link_google_ability_1": "Přístup k seznamu připojených zařízení.",
-    "link_google_ability_2": "Přístupová identifikace zařízení (sem patří název a jeho jednoznačná identifikace).",
-    "link_google_ability_3": "Přístup k aktuálnímu stavu a nastavení zařízení.",
+    "link_google_ability_title": "Jakmile je váš účet propojen, dáváte Googlu povolení k:",
+    "link_google_ability_1": "Zobrazte seznam připojených zařízení.",
+    "link_google_ability_2": "Zobrazit podrobnosti o zařízení, jako je název a jedinečné ID",
+    "link_google_ability_3": "Ovládejte svá zařízení a zobrazujte jejich stav a nastavení.",
     "review_google_xxx": "Zkontrolujte Google ***.",
     "air_care_general_des": "Automatická optimalizace pro komfortní prostředí",
     "air_care_pet_des": "Automatická optimalizace pro prostředí přátelské k domácím mazlíčkům",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Procházejte automatické programy a odesílejte nastavení přímo do svého zařízení.",
     "guide_cooking_assist_des": "Nechte si s automatickým nastavením vaření pomoci varnou deskou.",
     "CL_DV_WINE_humidity_box": "Připomenutí boxu s vlhkostí",
-    "CL_CF_HP_hide_card_tips": "Jste si jistý/á, že chcete kartu skrýt?"
+    "CL_CF_HP_hide_card_tips": "Jste si jistý/á, že chcete kartu skrýt?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Ovládejte digestoř přímo z telefonu.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Upravte a přizpůsobte nastavení svého zařízení."
 }

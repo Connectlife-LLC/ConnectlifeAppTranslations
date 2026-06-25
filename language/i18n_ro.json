@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Conturile dvs. *** și ConnectLife au fost conectate cu succes.",
     "link_google_title": "Puteți conecta Google la contul dvs. ConnectLife",
     "link_google_confirm": "ACCEPTARE ȘI CONECTARE GOOGLE",
-    "link_google_ability_title": "Dacă conectați, Google poate:",
-    "link_google_ability_1": "Accesați o listă a dispozitivelor dvs. conectate.",
-    "link_google_ability_2": "Identificarea accesului a dispozitivelor (aceasta include numele și identificarea unică a acestuia).",
-    "link_google_ability_3": "Accesați starea curentă și setările dispozitivelor.",
+    "link_google_ability_title": "După ce contul dvs. este conectat, îi acordați Google permisiunea de a:",
+    "link_google_ability_1": "Vizualizați o listă cu dispozitivele conectate.",
+    "link_google_ability_2": "Vizualizați detaliile dispozitivului, cum ar fi numele și ID-ul unic",
+    "link_google_ability_3": "Controlează-ți dispozitivele și vizualizează starea și setările acestora.",
     "review_google_xxx": "Examinați *** de la Google.",
     "air_care_general_des": "Optimizare automată pentru un mediu confortabil",
     "air_care_pet_des": "Optimizare automată pentru un mediu prietenos cu animalele de companie",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Răsfoiți programele automate și trimiteți setările direct pe dispozitiv.",
     "guide_cooking_assist_des": "Lăsați plita să vă ajute cu setările automate de gătit.",
     "CL_DV_WINE_humidity_box": "Memento cutie de umiditate",
-    "CL_CF_HP_hide_card_tips": "Sigur vrei să ascunzi cardul?"
+    "CL_CF_HP_hide_card_tips": "Sigur vrei să ascunzi cardul?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Controlează-ți hota direct de pe telefon.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Ajustați și personalizați setările dispozitivului."
 }

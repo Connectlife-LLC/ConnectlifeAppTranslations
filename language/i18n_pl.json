@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Twoje konta *** i ConnectLife zostały pomyślnie połączone.",
     "link_google_title": "Możesz połączyć Google ze swoim kontem ConnectLife",
     "link_google_confirm": "ZGADZAM SIĘ I POŁĄCZ GOOGLE",
-    "link_google_ability_title": "Jeśli umieścisz link, Google może:",
-    "link_google_ability_1": "Uzyskaj dostęp do listy podłączonych urządzeń.",
-    "link_google_ability_2": "Identyfikacja dostępu do urządzeń (obejmuje nazwę i jej unikalną identyfikację).",
-    "link_google_ability_3": "Uzyskaj dostęp do aktualnego stanu i ustawień urządzeń.",
+    "link_google_ability_title": "Po połączeniu konta udzielasz Google pozwolenia na:",
+    "link_google_ability_1": "Wyświetl listę podłączonych urządzeń.",
+    "link_google_ability_2": "Wyświetl szczegóły urządzenia, takie jak nazwa i unikalny identyfikator",
+    "link_google_ability_3": "Kontroluj swoje urządzenia i przeglądaj ich stan oraz ustawienia.",
     "review_google_xxx": "Przejrzyj Google ***.",
     "air_care_general_des": "Automatyczna optymalizacja pod kątem komfortu",
     "air_care_pet_des": "Automatyczna optymalizacja pod kątem środowiska przyjaznego zwierzętom",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Przeglądaj programy automatyczne i wysyłaj ustawienia bezpośrednio na swoje urządzenie.",
     "guide_cooking_assist_des": "Pozwól, aby płyta grzewcza wspomagała Cię dzięki automatycznym ustawieniom gotowania.",
     "CL_DV_WINE_humidity_box": "Przypomnienie o polu wilgotności",
-    "CL_CF_HP_hide_card_tips": "Czy na pewno chcesz ukryć kartę?"
+    "CL_CF_HP_hide_card_tips": "Czy na pewno chcesz ukryć kartę?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Kontroluj swój okap bezpośrednio ze swojego telefonu.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Dostosuj i spersonalizuj ustawienia swojego urządzenia."
 }

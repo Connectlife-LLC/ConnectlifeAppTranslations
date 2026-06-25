@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "***- ja ConnectLife-tilisi on yhdistetty onnistuneesti.",
     "link_google_title": "Voit linkittää Googlen ConnectLife-tiliisi",
     "link_google_confirm": "HYVÄKSY JA LINKKI GOOGLE",
-    "link_google_ability_title": "Jos linkität, Google voi:",
-    "link_google_ability_1": "Avaa yhdistettyjen laitteiden luettelo.",
-    "link_google_ability_2": "Laitteiden pääsytunniste (tämä sisältää nimen ja sen yksilöllisen tunnisteen).",
-    "link_google_ability_3": "Pääsy laitteiden nykyiseen tilaan ja asetuksiin.",
+    "link_google_ability_title": "Kun tilisi on yhdistetty, annat Googlelle luvan:",
+    "link_google_ability_1": "Näytä luettelo yhdistetyistä laitteistasi.",
+    "link_google_ability_2": "Näytä laitteen tiedot, kuten nimi ja yksilöllinen tunniste",
+    "link_google_ability_3": "Ohjaa laitteitasi ja tarkastele niiden tilaa ja asetuksia.",
     "review_google_xxx": "Tarkista Googlen ***.",
     "air_care_general_des": "Automaattinen optimointi mukavaan ympäristöön",
     "air_care_pet_des": "Automaattinen optimointi lemmikkiystävälliseen ympäristöön",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Selaa automaattisia ohjelmia ja lähetä asetukset suoraan laitteeseesi.",
     "guide_cooking_assist_des": "Anna lieden auttaa sinua automaattisissa kypsennysasetuksissa.",
     "CL_DV_WINE_humidity_box": "Kosteuslaatikon muistutus",
-    "CL_CF_HP_hide_card_tips": "Oletko varma, että haluat piilottaa kortin?"
+    "CL_CF_HP_hide_card_tips": "Oletko varma, että haluat piilottaa kortin?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Ohjaa liesituuletinta suoraan puhelimestasi.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Säädä ja mukauta laitteesi asetuksia."
 }

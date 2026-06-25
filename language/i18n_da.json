@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Dine ***- og ConnectLife-konti er blevet linket.",
     "link_google_title": "Du kan linke Google til din ConnectLife-konto",
     "link_google_confirm": "ACCEPTER OG LINK GOOGLE",
-    "link_google_ability_title": "Hvis du linker, kan Google:",
-    "link_google_ability_1": "Få adgang til en liste over dine tilsluttede enheder.",
-    "link_google_ability_2": "Adgangsidentifikation af enhederne (dette inkluderer navnet og dets unikke identifikation).",
-    "link_google_ability_3": "Få adgang til den aktuelle tilstand og indstillinger for enhederne.",
+    "link_google_ability_title": "Når din konto er forbundet, giver du Google tilladelse til at:",
+    "link_google_ability_1": "Se en liste over dine tilsluttede enheder.",
+    "link_google_ability_2": "Se enhedsoplysninger, f.eks. navn og unikt ID",
+    "link_google_ability_3": "Styr dine enheder, og se deres tilstand og indstillinger.",
     "review_google_xxx": "Gennemgå Googles ***.",
     "air_care_general_des": "Automatisk optimering til komfortmiljø",
     "air_care_pet_des": "Auto-optimer til kæledyrsvenligt miljø",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Gennemse automatiske programmer og send indstillinger direkte til din enhed.",
     "guide_cooking_assist_des": "Lad kogepladen hjælpe dig med automatiske madlavningsindstillinger.",
     "CL_DV_WINE_humidity_box": "Påmindelse om fugtighedsboks",
-    "CL_CF_HP_hide_card_tips": "Er du sikker på, at du vil skjule kortet?"
+    "CL_CF_HP_hide_card_tips": "Er du sikker på, at du vil skjule kortet?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Styr din emhætte direkte fra din telefon.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Juster og personliggør dine enhedsindstillinger."
 }

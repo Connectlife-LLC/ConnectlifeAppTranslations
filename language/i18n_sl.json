@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Vaša računa *** in ConnectLife sta bila uspešno povezana.",
     "link_google_title": "Google lahko povežete s svojim računom ConnectLife",
     "link_google_confirm": "STRINJAM SE IN POVEŽI GOOGLE",
-    "link_google_ability_title": "Če se povežete, lahko Google:",
-    "link_google_ability_1": "Dostop do seznama povezanih naprav.",
-    "link_google_ability_2": "Dostopna identifikacija naprav (to vključuje ime in njegovo edinstveno identifikacijo).",
-    "link_google_ability_3": "Dostop do trenutnega stanja in nastavitev naprav.",
+    "link_google_ability_title": "Ko je vaš račun povezan, Googlu dovoljujete:",
+    "link_google_ability_1": "Oglejte si seznam povezanih naprav.",
+    "link_google_ability_2": "Oglejte si podrobnosti naprave, kot sta ime in enolični ID",
+    "link_google_ability_3": "Nadzorujte svoje naprave in si oglejte njihovo stanje in nastavitve.",
     "review_google_xxx": "Preglejte Googlov ***.",
     "air_care_general_des": "Samodejna optimizacija za udobno okolje",
     "air_care_pet_des": "Samodejna optimizacija za hišnim ljubljenčkom prijazno okolje",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Brskajte po samodejnih programih in pošljite nastavitve neposredno v svojo napravo.",
     "guide_cooking_assist_des": "Naj vam kuhalna plošča pomaga pri samodejnih nastavitvah kuhanja.",
     "CL_DV_WINE_humidity_box": "Opomnik za polje za vlažnost",
-    "CL_CF_HP_hide_card_tips": "Ste prepričani, da želite skriti kartico?"
+    "CL_CF_HP_hide_card_tips": "Ste prepričani, da želite skriti kartico?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Upravljajte svojo napo neposredno s telefona.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Prilagodite in personalizirajte nastavitve naprave."
 }

@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "As suas contas *** e ConnectLife foram ligadas com sucesso.",
     "link_google_title": "Pode associar o Google à sua conta ConnectLife",
     "link_google_confirm": "CONCORDAR E LIGAR AO GOOGLE",
-    "link_google_ability_title": "Se tiver uma ligação, o Google pode:",
-    "link_google_ability_1": "Aceder a uma lista dos seus aparelhos ligados.",
-    "link_google_ability_2": "Identificação de acesso dos aparelhos (inclui o nome e a sua identificação única).",
-    "link_google_ability_3": "Aceder ao estado atual e às definições dos aparelhos.",
+    "link_google_ability_title": "Após conectar sua conta, você concede permissão ao Google para:",
+    "link_google_ability_1": "Veja uma lista dos seus dispositivos conectados.",
+    "link_google_ability_2": "Veja detalhes do dispositivo, como nome e ID exclusivo.",
+    "link_google_ability_3": "Controle seus dispositivos e visualize o estado e as configurações deles.",
     "review_google_xxx": "Rever o Google ***.",
     "air_care_general_des": "Otimização automática para um ambiente de conforto",
     "air_care_pet_des": "Otimização automática para um ambiente adequado para animais de estimação",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Navegue pelos programas automáticos e envie as configurações diretamente para o seu dispositivo.",
     "guide_cooking_assist_des": "Deixe que o fogão o auxilie com configurações automáticas de cozimento.",
     "CL_DV_WINE_humidity_box": "lembrete da caixa de umidade",
-    "CL_CF_HP_hide_card_tips": "Tem certeza de que deseja ocultar o cartão?"
+    "CL_CF_HP_hide_card_tips": "Tem certeza de que deseja ocultar o cartão?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Controle o capô do seu carro diretamente do seu celular.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Ajuste e personalize as configurações do seu dispositivo."
 }
