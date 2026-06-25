@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Dina ***- och ConnectLife-konton har länkats.",
     "link_google_title": "Du kan länka Google till ditt ConnectLife-konto",
     "link_google_confirm": "ACCEPTERAR OCH LÄNKAR GOOGLE",
-    "link_google_ability_title": "Om du länkar kan Google:",
-    "link_google_ability_1": "Få tillgång till en lista över dina anslutna enheter.",
-    "link_google_ability_2": "Åtkomstidentifiering av enheterna (detta inkluderar namnet och dess unika identifiering).",
-    "link_google_ability_3": "Få tillgång till aktuell status och inställningar för enheterna.",
+    "link_google_ability_title": "När ditt konto är anslutet ger du Google tillåtelse att:",
+    "link_google_ability_1": "Visa en lista över dina anslutna enheter.",
+    "link_google_ability_2": "Visa enhetsinformation, såsom namn och unikt ID",
+    "link_google_ability_3": "Styr dina enheter och se deras status och inställningar.",
     "review_google_xxx": "Granska Googles ***.",
     "air_care_general_des": "Automatisk optimering för komfortmiljö",
     "air_care_pet_des": "Autooptimera för husdjursvänlig miljö",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Bläddra bland autoprogram och skicka inställningar direkt till din enhet.",
     "guide_cooking_assist_des": "Låt hällen hjälpa dig med automatiska tillagningsinställningar.",
     "CL_DV_WINE_humidity_box": "Påminnelse om fuktighetsrutan",
-    "CL_CF_HP_hide_card_tips": "Är du säker på att du vill dölja kortet?"
+    "CL_CF_HP_hide_card_tips": "Är du säker på att du vill dölja kortet?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Styr din fläkt direkt från din telefon.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Justera och anpassa dina enhetsinställningar."
 }

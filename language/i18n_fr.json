@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Vos comptes *** et ConnectLife ont été liés !",
     "link_google_title": "Vous pouvez lier Google à votre compte ConnectLife",
     "link_google_confirm": "ACCEPTER & LIER GOOGLE",
-    "link_google_ability_title": "Si vous créez un lien, Google peut :",
-    "link_google_ability_1": "Accédez à une liste de vos appareils connectés.",
-    "link_google_ability_2": "Identification d'accès aux appareils (cela inclut le nom et son identification unique).",
-    "link_google_ability_3": "Accédez à l’état actuel et aux paramètres des appareils.",
+    "link_google_ability_title": "Une fois votre compte connecté, vous autorisez Google à :",
+    "link_google_ability_1": "Consultez la liste de vos appareils connectés.",
+    "link_google_ability_2": "Afficher les détails de l'appareil, tels que son nom et son identifiant unique",
+    "link_google_ability_3": "Contrôlez vos appareils et consultez leur état et leurs paramètres.",
     "review_google_xxx": "Consultez les *** de Google.",
     "air_care_general_des": "Optimisation automatique pour un environnement de confort",
     "air_care_pet_des": "Optimisation automatique pour un environnement respectueux des animaux de compagnie",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Parcourez les programmes automatiques et envoyez les paramètres directement à votre appareil.",
     "guide_cooking_assist_des": "Laissez la plaque de cuisson vous assister grâce à ses réglages de cuisson automatiques.",
     "CL_DV_WINE_humidity_box": "rappel de boîte d'humidité",
-    "CL_CF_HP_hide_card_tips": "Êtes-vous sûr de vouloir cacher la carte ?"
+    "CL_CF_HP_hide_card_tips": "Êtes-vous sûr de vouloir cacher la carte ?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Contrôlez votre capote directement depuis votre téléphone.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Ajustez et personnalisez les paramètres de votre appareil."
 }

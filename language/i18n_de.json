@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Ihre ***- und ConnectLife-Konten wurden erfolgreich verknüpft.",
     "link_google_title": "Sie können Google mit Ihrem ConnectLife-Konto verknüpfen",
     "link_google_confirm": "ZUSTIMMEN & VERLINKEN GOOGLE",
-    "link_google_ability_title": "Wenn Sie verlinken, kann Google:",
-    "link_google_ability_1": "Greifen Sie auf eine Liste Ihrer verbundenen Geräte zu.",
-    "link_google_ability_2": "Zugriffsidentifikation der Geräte (dazu gehören der Name und seine eindeutige Identifikation).",
-    "link_google_ability_3": "Greifen Sie auf den aktuellen Status und die Einstellungen der Geräte zu.",
+    "link_google_ability_title": "Sobald Ihr Konto verbunden ist, erteilen Sie Google die Berechtigung zu Folgendem:",
+    "link_google_ability_1": "Sehen Sie sich eine Liste Ihrer verbundenen Geräte an.",
+    "link_google_ability_2": "Gerätedetails wie Name und eindeutige ID anzeigen.",
+    "link_google_ability_3": "Steuern Sie Ihre Geräte und sehen Sie sich deren Status und Einstellungen an.",
     "review_google_xxx": "Überprüfen Sie Googles ***.",
     "air_care_general_des": "Automatische Optimierung für angenehme Umgebung",
     "air_care_pet_des": "Automatische Optimierung für eine haustierfreundliche Umgebung",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Durchsuchen Sie automatische Programme und senden Sie Einstellungen direkt an Ihr Gerät.",
     "guide_cooking_assist_des": "Lassen Sie sich von den automatischen Kochprogrammen des Kochfelds unterstützen.",
     "CL_DV_WINE_humidity_box": "Erinnerung an die Feuchtigkeitsbox",
-    "CL_CF_HP_hide_card_tips": "Möchtest du die Karte wirklich verstecken?"
+    "CL_CF_HP_hide_card_tips": "Möchtest du die Karte wirklich verstecken?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Steuern Sie Ihre Dunstabzugshaube direkt von Ihrem Smartphone aus.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Passen Sie Ihre Geräteeinstellungen an und personalisieren Sie sie."
 }

@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "*** アカウントと ConnectLife アカウントは正常にリンクされました。",
     "link_google_title": "Google を ConnectLife アカウントにリンクできます",
     "link_google_confirm": "同意して Google にリンクする",
-    "link_google_ability_title": "リンクすると、Google は次のことを行うことができます。",
-    "link_google_ability_1": "接続されているデバイスのリストにアクセスします。",
-    "link_google_ability_2": "デバイスのアクセス ID (これには、名前とその一意の ID が含まれます)。",
-    "link_google_ability_3": "デバイスの現在の状態と設定にアクセスします。",
+    "link_google_ability_title": "アカウントを接続すると、Googleに以下の権限を与えることになります。",
+    "link_google_ability_1": "接続されているデバイスの一覧を表示します。",
+    "link_google_ability_2": "デバイス名や固有IDなどの詳細情報を表示します。",
+    "link_google_ability_3": "デバイスを操作し、その状態や設定を確認できます。",
     "review_google_xxx": "Google の *** を確認してください。",
     "air_care_general_des": "快適環境への自動運転モード",
     "air_care_pet_des": "ペット向け自動運転モード",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "自動プログラムを閲覧し、設定を直接デバイスに送信します。",
     "guide_cooking_assist_des": "コンロの自動調理設定で調理をサポートしてもらいましょう。",
     "CL_DV_WINE_humidity_box": "湿度ボックスに関するお知らせ",
-    "CL_CF_HP_hide_card_tips": "本当にカードを非表示にしたいですか？"
+    "CL_CF_HP_hide_card_tips": "本当にカードを非表示にしたいですか？",
+    "CL_DV_HOOD_guide_remote_control_desc": "スマートフォンから直接ボンネットを操作できます。",
+    "CL_DV_HOOD_guide_device_settings_desc": "デバイスの設定を調整してカスタマイズしましょう。"
 }

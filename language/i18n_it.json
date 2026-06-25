@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "I tuoi account *** e ConnectLife sono stati collegati correttamente.",
     "link_google_title": "Puoi collegare Google al tuo account ConnectLife",
     "link_google_confirm": "ACCETTO E COLLEGA GOOGLE",
-    "link_google_ability_title": "Se esegui il collegamento, Google può:",
-    "link_google_ability_1": "Accedi all'elenco dei tuoi dispositivi connessi.",
-    "link_google_ability_2": "Identificazione di accesso dei dispositivi (questo include il nome e la sua identificazione univoca).",
-    "link_google_ability_3": "Accedi allo stato attuale e alle impostazioni dei dispositivi.",
+    "link_google_ability_title": "Una volta collegato il tuo account, concedi a Google l'autorizzazione a:",
+    "link_google_ability_1": "Visualizza l'elenco dei dispositivi connessi.",
+    "link_google_ability_2": "Visualizza i dettagli del dispositivo, come il nome e l'ID univoco.",
+    "link_google_ability_3": "Controlla i tuoi dispositivi e visualizza il loro stato e le impostazioni.",
     "review_google_xxx": "Controlla gli *** di Google.",
     "air_care_general_des": "Ottimizzazione automatica per un ambiente confortevole",
     "air_care_pet_des": "Ottimizzazione automatica per un ambiente adatto agli animali domestici",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Sfoglia i programmi automatici e invia le impostazioni direttamente al tuo dispositivo.",
     "guide_cooking_assist_des": "Lascia che il piano ti aiuti con le impostazioni di cottura automatiche.",
     "CL_DV_WINE_humidity_box": "Promemoria scatola umidità",
-    "CL_CF_HP_hide_card_tips": "Sei sicuro di voler nascondere la carta?"
+    "CL_CF_HP_hide_card_tips": "Sei sicuro di voler nascondere la carta?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Controlla la tua cappa direttamente dal tuo telefono.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Regola e personalizza le impostazioni del tuo dispositivo."
 }

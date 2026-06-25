@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "***和你的ConnectLife账号绑定成功",
     "link_google_title": "你可以将谷歌和你的ConnectLife账号绑定",
     "link_google_confirm": "同意&绑定谷歌",
-    "link_google_ability_title": "如果绑定，谷歌可以：",
-    "link_google_ability_1": "访问你的设备列表",
-    "link_google_ability_2": "访问设备信息（包括名字和唯一标识）",
-    "link_google_ability_3": "访问设备当前状态和设定",
+    "link_google_ability_title": "帐户关联后，即表示您授予 Google 以下权限：",
+    "link_google_ability_1": "查看已连接设备列表。",
+    "link_google_ability_2": "查看设备详细信息，例如名称和唯一标识符",
+    "link_google_ability_3": "控制您的设备并查看其状态和设置。",
     "review_google_xxx": "查看谷歌的***",
     "air_care_general_des": "自动优化舒适环境",
     "air_care_pet_des": "自动优化适宜宠物的环境",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "浏览汽车程序并将设置直接发送到您的设备。",
     "guide_cooking_assist_des": "让灶台的自动烹饪功能助您一臂之力。",
     "CL_DV_WINE_humidity_box": "湿度盒提醒",
-    "CL_CF_HP_hide_card_tips": "你确定要隐藏这张卡吗？"
+    "CL_CF_HP_hide_card_tips": "你确定要隐藏这张卡吗？",
+    "CL_DV_HOOD_guide_remote_control_desc": "直接通过手机控制引擎盖。",
+    "CL_DV_HOOD_guide_device_settings_desc": "调整并个性化您的设备设置。"
 }

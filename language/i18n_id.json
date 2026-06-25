@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Akun *** dan ConnectLife Anda telah berhasil ditautkan.",
     "link_google_title": "Anda dapat menautkan Google ke akun ConnectLife Anda",
     "link_google_confirm": "SETUJU & TAUTKAN GOOGLE",
-    "link_google_ability_title": "Jika Anda menautkan, Google dapat:",
-    "link_google_ability_1": "Akses daftar perangkat Anda yang terhubung.",
-    "link_google_ability_2": "Akses identifikasi perangkat (termasuk nama dan identifikasi uniknya).",
-    "link_google_ability_3": "Akses status dan pengaturan perangkat saat ini.",
+    "link_google_ability_title": "Setelah akun Anda terhubung, Anda memberikan izin kepada Google untuk:",
+    "link_google_ability_1": "Lihat daftar perangkat Anda yang terhubung.",
+    "link_google_ability_2": "Lihat detail perangkat, seperti nama dan ID unik.",
+    "link_google_ability_3": "Kendalikan perangkat Anda dan lihat status serta pengaturannya.",
     "review_google_xxx": "Tinjau *** Google.",
     "air_care_general_des": "Optimalkan otomatis untuk lingkungan yang nyaman",
     "air_care_pet_des": "Optimalkan otomatis untuk lingkungan ramah hewan peliharaan",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Telusuri program otomatis dan kirim pengaturan langsung ke perangkat Anda.",
     "guide_cooking_assist_des": "Biarkan kompor membantu Anda dengan pengaturan memasak otomatis.",
     "CL_DV_WINE_humidity_box": "Pengingat kotak kelembapan",
-    "CL_CF_HP_hide_card_tips": "Apakah Anda yakin ingin menyembunyikan kartu tersebut?"
+    "CL_CF_HP_hide_card_tips": "Apakah Anda yakin ingin menyembunyikan kartu tersebut?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Kendalikan kap mesin Anda langsung dari ponsel Anda.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Sesuaikan dan personalisasikan pengaturan perangkat Anda."
 }

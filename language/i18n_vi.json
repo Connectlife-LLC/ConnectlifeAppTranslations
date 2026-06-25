@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Tài khoản *** và ConnectLife của bạn đã được liên kết thành công.",
     "link_google_title": "Bạn có thể liên kết Google với tài khoản ConnectLife của mình",
     "link_google_confirm": "ĐỒNG Ý & LIÊN KẾT GOOGLE",
-    "link_google_ability_title": "Nếu bạn liên kết, Google có thể:",
-    "link_google_ability_1": "Truy cập danh sách các thiết bị được kết nối của bạn.",
-    "link_google_ability_2": "Nhận dạng truy cập của thiết bị (bao gồm tên và nhận dạng duy nhất của thiết bị).\n​",
-    "link_google_ability_3": "Truy cập trạng thái hiện tại và cài đặt của thiết bị.",
+    "link_google_ability_title": "Sau khi tài khoản của bạn được kết nối, bạn cấp cho Google quyền:",
+    "link_google_ability_1": "Xem danh sách các thiết bị đã kết nối của bạn.",
+    "link_google_ability_2": "Xem chi tiết thiết bị, chẳng hạn như tên và ID duy nhất.",
+    "link_google_ability_3": "Kiểm soát các thiết bị của bạn và xem trạng thái cũng như cài đặt của chúng.",
     "review_google_xxx": "Xem lại *** của Google.",
     "air_care_general_des": "Tự động tối ưu hóa cho môi trường thoải mái",
     "air_care_pet_des": "Tự động tối ưu hóa cho môi trường thân thiện với vật nuôi",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Duyệt qua các chương trình tự động và gửi cài đặt trực tiếp đến thiết bị của bạn.",
     "guide_cooking_assist_des": "Hãy để bếp hỗ trợ bạn với các cài đặt nấu ăn tự động.",
     "CL_DV_WINE_humidity_box": "Nhắc nhở về hộp giữ ẩm",
-    "CL_CF_HP_hide_card_tips": "Bạn có chắc chắn muốn giấu tấm thẻ này không?"
+    "CL_CF_HP_hide_card_tips": "Bạn có chắc chắn muốn giấu tấm thẻ này không?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Điều khiển máy hút mùi trực tiếp từ điện thoại của bạn.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Điều chỉnh và cá nhân hóa cài đặt thiết bị của bạn."
 }

@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "*** és ConnectLife fiókja sikeresen összekapcsolva.",
     "link_google_title": "Összekapcsolhatja a Google-t ConnectLife-fiókjával",
     "link_google_confirm": "ELFOGADJ, ÉS KAPCSOLATOS A GOOGLE",
-    "link_google_ability_title": "Ha linkel, a Google a következőket teheti:",
-    "link_google_ability_1": "Nyissa meg a csatlakoztatott eszközök listáját.",
-    "link_google_ability_2": "Az eszközök hozzáférési azonosítója (ez tartalmazza a nevet és annak egyedi azonosítóját).",
-    "link_google_ability_3": "Hozzáférés az eszközök aktuális állapotához és beállításaihoz.",
+    "link_google_ability_title": "Miután a fiókod csatlakoztatva van, engedélyt adsz a Google-nak a következőkre:",
+    "link_google_ability_1": "Tekintse meg a csatlakoztatott eszközök listáját.",
+    "link_google_ability_2": "Eszközadatok, például név és egyedi azonosító megtekintése",
+    "link_google_ability_3": "Irányítsd az eszközeidet, és tekintsd meg azok állapotát és beállításait.",
     "review_google_xxx": "Tekintse át a Google ***-ját.",
     "air_care_general_des": "Automatikus optimalizálás a kényelmi környezethez",
     "air_care_pet_des": "Automatikus optimalizálás az állatbarát környezetért",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Böngésszen az automatikus programok között, és küldje el a beállításokat közvetlenül az eszközére.",
     "guide_cooking_assist_des": "Hagyd, hogy a főzőlap segítsen az automatikus főzési beállításokban.",
     "CL_DV_WINE_humidity_box": "Páratartalom-mező emlékeztető",
-    "CL_CF_HP_hide_card_tips": "Biztosan el akarod rejteni a kártyát?"
+    "CL_CF_HP_hide_card_tips": "Biztosan el akarod rejteni a kártyát?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Irányítsd a páraelszívódat közvetlenül a telefonodról.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Módosítsa és személyre szabja eszköze beállításait."
 }

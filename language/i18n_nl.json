@@ -2913,10 +2913,10 @@
     "link_xxx_successful": "Uw ***- en ConnectLife-accounts zijn succesvol gekoppeld.",
     "link_google_title": "U kunt Google aan uw ConnectLife-account koppelen",
     "link_google_confirm": "AKKOORD & GOOGLE KOPPELEN",
-    "link_google_ability_title": "Als u linkt, kan Google:",
-    "link_google_ability_1": "Krijg toegang tot een lijst met uw verbonden apparaten.",
-    "link_google_ability_2": "Toegangsidentificatie van de apparaten (inclusief de naam en de unieke identificatie ervan).",
-    "link_google_ability_3": "Toegang tot de huidige status en instellingen van de apparaten.",
+    "link_google_ability_title": "Zodra je account is gekoppeld, geef je Google toestemming om:",
+    "link_google_ability_1": "Bekijk een lijst van uw verbonden apparaten.",
+    "link_google_ability_2": "Bekijk apparaatdetails, zoals naam en unieke ID.",
+    "link_google_ability_3": "Beheer uw apparaten en bekijk hun status en instellingen.",
     "review_google_xxx": "Beoordeel Google's ***.",
     "air_care_general_des": "Automatisch optimaliseren voor een comfortabele omgeving",
     "air_care_pet_des": "Automatisch optimaliseren voor een huisdiervriendelijke omgeving",
@@ -8686,5 +8686,7 @@
     "guide_auto_programms_des": "Blader door automatische programma's en verstuur instellingen direct naar uw apparaat.",
     "guide_cooking_assist_des": "Laat de kookplaat u helpen met automatische kookinstellingen.",
     "CL_DV_WINE_humidity_box": "Herinnering voor de luchtvochtigheidskast",
-    "CL_CF_HP_hide_card_tips": "Weet je zeker dat je de kaart wilt verbergen?"
+    "CL_CF_HP_hide_card_tips": "Weet je zeker dat je de kaart wilt verbergen?",
+    "CL_DV_HOOD_guide_remote_control_desc": "Bedien je afzuigkap rechtstreeks vanaf je telefoon.",
+    "CL_DV_HOOD_guide_device_settings_desc": "Pas de instellingen van je apparaat aan en personaliseer ze."
 }
