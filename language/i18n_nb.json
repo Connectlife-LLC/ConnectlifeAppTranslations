@@ -8680,5 +8680,11 @@
     "CL_DV_RF_guide_share_device_desc": "Inviter andre til å få tilgang til og kontrollere enheten din.",
     "CL_DV_TV_add_google_open_ip_control": "Naviger til Hurtiginnstillinger → Alle innstillinger → Kanaler og innganger → Eksterne innganger for å slå på nettverks-IP-kontrollport.",
     "CL_CF_energy_compare_same_month_last_year": "Sammenlign med samme måned i fjor",
-    "CL_permission_desc_notification": "tilgangstillatelse for varsling kreves for system-push-varsler"
+    "CL_permission_desc_notification": "tilgangstillatelse for varsling kreves for system-push-varsler",
+    "guide_baking_des": "Start, stopp og overvåk enheten din eksternt.",
+    "guide_recipes_des": "Bla gjennom oppskrifter og send innstillinger direkte til enheten din.",
+    "guide_auto_programms_des": "Bla gjennom automatiske programmer og send innstillinger direkte til enheten din.",
+    "guide_cooking_assist_des": "La koketoppen hjelpe deg med automatiske matlagingsinnstillinger.",
+    "CL_DV_WINE_humidity_box": "Påminnelse om fuktighetsboks",
+    "CL_CF_HP_hide_card_tips": "Er du sikker på at du vil skjule kortet?"
 }

@@ -8680,5 +8680,11 @@
     "CL_DV_RF_guide_share_device_desc": "Undang orang lain untuk mengakses dan mengontrol perangkat Anda.",
     "CL_DV_TV_add_google_open_ip_control": "Buka Pengaturan Cepat → Semua Pengaturan → Saluran dan input → Input eksternal untuk mengaktifkan Port Kontrol IP Jaringan.",
     "CL_CF_energy_compare_same_month_last_year": "Bandingkan dengan bulan yang sama tahun lalu",
-    "CL_permission_desc_notification": "Izin akses notifikasi diperlukan untuk notifikasi push sistem."
+    "CL_permission_desc_notification": "Izin akses notifikasi diperlukan untuk notifikasi push sistem.",
+    "guide_baking_des": "Mulai, hentikan, dan pantau perangkat Anda dari jarak jauh.",
+    "guide_recipes_des": "Telusuri resep dan kirim pengaturan langsung ke perangkat Anda.",
+    "guide_auto_programms_des": "Telusuri program otomatis dan kirim pengaturan langsung ke perangkat Anda.",
+    "guide_cooking_assist_des": "Biarkan kompor membantu Anda dengan pengaturan memasak otomatis.",
+    "CL_DV_WINE_humidity_box": "Pengingat kotak kelembapan",
+    "CL_CF_HP_hide_card_tips": "Apakah Anda yakin ingin menyembunyikan kartu tersebut?"
 }

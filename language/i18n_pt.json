@@ -8680,5 +8680,11 @@
     "CL_DV_RF_guide_share_device_desc": "Convide outras pessoas para acessar e controlar seu dispositivo.",
     "CL_DV_TV_add_google_open_ip_control": "Acesse Configurações rápidas → Todas as configurações → Canais e entradas → Entradas externas para ativar a Porta de controle IP de rede.",
     "CL_CF_energy_compare_same_month_last_year": "Comparar com o mesmo mês do ano passado",
-    "CL_permission_desc_notification": "É necessário ter permissão para acessar as notificações push do sistema."
+    "CL_permission_desc_notification": "É necessário ter permissão para acessar as notificações push do sistema.",
+    "guide_baking_des": "Inicie, pare e monitore seu dispositivo remotamente.",
+    "guide_recipes_des": "Navegue pelas receitas e envie as configurações diretamente para o seu dispositivo.",
+    "guide_auto_programms_des": "Navegue pelos programas automáticos e envie as configurações diretamente para o seu dispositivo.",
+    "guide_cooking_assist_des": "Deixe que o fogão o auxilie com configurações automáticas de cozimento.",
+    "CL_DV_WINE_humidity_box": "lembrete da caixa de umidade",
+    "CL_CF_HP_hide_card_tips": "Tem certeza de que deseja ocultar o cartão?"
 }

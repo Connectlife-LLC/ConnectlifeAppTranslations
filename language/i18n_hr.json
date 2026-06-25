@@ -8680,5 +8680,11 @@
     "CL_DV_RF_guide_share_device_desc": "Pozovite druge da pristupe vašem uređaju i upravljaju njime.",
     "CL_DV_TV_add_google_open_ip_control": "Idite na Brze postavke → Sve postavke → Kanali i ulazi → Vanjski ulazi da biste uključili mrežni IP kontrolni priključak.",
     "CL_CF_energy_compare_same_month_last_year": "Usporedite s istim mjesecom prošle godine",
-    "CL_permission_desc_notification": "Za sustavne push obavijesti potrebno je dopuštenje za pristup obavijestima"
+    "CL_permission_desc_notification": "Za sustavne push obavijesti potrebno je dopuštenje za pristup obavijestima",
+    "guide_baking_des": "Daljinski pokrenite, zaustavite i nadzirite svoj uređaj.",
+    "guide_recipes_des": "Pregledajte recepte i pošaljite postavke izravno na svoj uređaj.",
+    "guide_auto_programms_des": "Pregledajte automatske programe i pošaljite postavke izravno na svoj uređaj.",
+    "guide_cooking_assist_des": "Neka vam ploča za kuhanje pomogne s automatskim postavkama kuhanja.",
+    "CL_DV_WINE_humidity_box": "Podsjetnik za kutiju s vlagom",
+    "CL_CF_HP_hide_card_tips": "Jeste li sigurni da želite sakriti karticu?"
 }
