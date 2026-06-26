@@ -8395,7 +8395,7 @@
     "CL_VC_DETECT_DEVICE": "Zaznaj napravo",
     "CL_TS_tariff_zone": "TARIFARNA OBMOČJA",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Dotaknite se možnosti »Seznani napravo«. Če sistem Wi-Fi ni povezan, najprej naredite ****.",
-    "CL_CF_CM_add_demo_device": "Dodaj predstavitveno napravo",
+    "CL_CF_CM_add_demo_device": "Dodaj Predst. naprava",
     "CL_CF_CS_can_not_find_device_label": "Ne najdem oznake naprave",
     "hisrf_dura_fresh_guide": "Vodnik za Dura Fresh",
     "CL_DV_EY_learn_about_logic": "O NAŠI LOGIKI",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Splošni pogoji za končnega uporabnika",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife za določanje lokacije naprave potrebuje lokacijske storitve. Za dostop do vseh funkcij omogočite to funkcijo v nastavitvah telefona.",
     "CL_CF_CS_exit": "Izhod",
-    "CL_DV_TV_add_google_see_ip": "Pojdite v Nastavitve → Omrežje in internet → Wi-Fi, da poiščete povezano omrežje in naslove IP ter MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Kliknite gumb za nastavitve na daljinskem upravljalniku, pojdite na Razišči več → Pametni dom in nato vklopite Vrata za nadzor omrežnega IP-ja.",
     "CL_CF_air_care_control_title": "Stanje dnevne sobe",
     "turn_on_eco_mode": "Vklopite eko način",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "Opomnik za polje za vlažnost",
     "CL_CF_HP_hide_card_tips": "Ste prepričani, da želite skriti kartico?",
     "CL_DV_HOOD_guide_remote_control_desc": "Upravljajte svojo napo neposredno s telefona.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Prilagodite in personalizirajte nastavitve naprave."
+    "CL_DV_HOOD_guide_device_settings_desc": "Prilagodite in personalizirajte nastavitve naprave.",
+    "CL_DV_TV_add_google_see_ip": "Pojdite na Hitre nastavitve → Wi-Fi → Omrežje in internet, da poiščete povezano omrežje in naslove IP ter MAC."
 }

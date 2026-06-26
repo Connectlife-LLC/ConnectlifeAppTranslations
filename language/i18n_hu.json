@@ -8395,7 +8395,7 @@
     "CL_VC_DETECT_DEVICE": "Eszköz észlelése",
     "CL_TS_tariff_zone": "TARIFF ZÓNA",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Koppintson a „Eszköz párosítása” lehetőségre. Ha a WiFi rendszer nincs csatlakoztatva, akkor először írjon egy ****-t.",
-    "CL_CF_CM_add_demo_device": "Demóeszköz hozzáadása",
+    "CL_CF_CM_add_demo_device": "Demoeszköz hozzáad.",
     "CL_CF_CS_can_not_find_device_label": "Nem találom az eszköz címkéjét",
     "hisrf_dura_fresh_guide": "Dura Fresh útmutató",
     "CL_DV_EY_learn_about_logic": "A LOGIKÁNKRÓL",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Végfelhasználói Felhasználási Feltételek",
     "CL_CF_CS_enable_location_service_tip": "A ConnectLife használatához helymeghatározási szolgáltatásokra van szükség az eszköz helyének meghatározásához. Kérjük, engedélyezze ezt a funkciót a telefon beállításaiban az összes funkció eléréséhez.",
     "CL_CF_CS_exit": "Kijárat",
-    "CL_DV_TV_add_google_see_ip": "Lépjen a Beállítások​ → Hálózat és internet → Wi-Fi​ menüpontra, hogy megkeresse a csatlakoztatott hálózatot az IP- és MAC-címek megtekintéséhez.",
     "CL_DV_TV_add_fire_tv_open_ip": "Kattintson a távirányító beállítás gombjára, lépjen a Továbbiak → Okosotthon menüpontra, majd kapcsolja be a Hálózati IP-vezérlőport lehetőséget.",
     "CL_CF_air_care_control_title": "Nappali állapota",
     "turn_on_eco_mode": "Kapcsolja be az Eco módot",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "Páratartalom-mező emlékeztető",
     "CL_CF_HP_hide_card_tips": "Biztosan el akarod rejteni a kártyát?",
     "CL_DV_HOOD_guide_remote_control_desc": "Irányítsd a páraelszívódat közvetlenül a telefonodról.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Módosítsa és személyre szabja eszköze beállításait."
+    "CL_DV_HOOD_guide_device_settings_desc": "Módosítsa és személyre szabja eszköze beállításait.",
+    "CL_DV_TV_add_google_see_ip": "Lépjen a Gyorsbeállítások → Wi-Fi → Hálózat és internet menüpontra, hogy megkeresse a csatlakoztatott hálózatot az IP- és MAC-címek megkereséséhez."
 }

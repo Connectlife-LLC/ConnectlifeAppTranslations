@@ -1850,7 +1850,7 @@
     "STR_PROG_TIME_PROGRAM": "Programma del tempo",
     "STR_PROG_SELFCLEANING": "Autopulente",
     "stove": "Stufa",
-    "add_device": "Aggiungi dispositivo",
+    "add_device": "Aggiungi disp.",
     "get_manuals": "Manuali",
     "device_not_on_this_list": "DISPOSITIVO NON IN ELENCO",
     "choose_device_category_title": "Scegli la categoria del dispositivo",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Termini e condizioni generali per l'utente finale",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife richiede i servizi di localizzazione per determinare la posizione del dispositivo. Si prega di abilitare questa funzione nelle impostazioni del telefono per accedere a tutte le funzionalità.",
     "CL_CF_CS_exit": "Esci",
-    "CL_DV_TV_add_google_see_ip": "Accedi a Impostazioni → Rete e Internet → Wi-Fi per trovare la rete connessa e visualizzare gli indirizzi IP e MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Fai clic sul pulsante delle impostazioni sul telecomando, vai su Esplora altro → Casa intelligente, quindi attiva la porta di controllo IP di rete.",
     "CL_CF_air_care_control_title": "Stato del soggiorno",
     "turn_on_eco_mode": "Attiva la modalità Eco",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "Promemoria scatola umidità",
     "CL_CF_HP_hide_card_tips": "Sei sicuro di voler nascondere la carta?",
     "CL_DV_HOOD_guide_remote_control_desc": "Controlla la tua cappa direttamente dal tuo telefono.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Regola e personalizza le impostazioni del tuo dispositivo."
+    "CL_DV_HOOD_guide_device_settings_desc": "Regola e personalizza le impostazioni del tuo dispositivo.",
+    "CL_DV_TV_add_google_see_ip": "Accedi a Impostazioni rapide → Wi-Fi → Rete e Internet per trovare la rete connessa e visualizzare gli indirizzi IP e MAC."
 }

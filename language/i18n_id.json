@@ -1850,7 +1850,7 @@
     "STR_PROG_TIME_PROGRAM": "Program waktu",
     "STR_PROG_SELFCLEANING": "Membersihkan diri",
     "stove": "Kompor",
-    "add_device": "Tambahkan perangkat",
+    "add_device": "Tmbh perangkat",
     "get_manuals": "Dapatkan manual",
     "device_not_on_this_list": "PERANGKAT TIDAK DALAM DAFTAR INI",
     "choose_device_category_title": "Pilih kategori perangkat",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Syarat dan Ketentuan Pengguna Akhir",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife memerlukan layanan lokasi untuk menentukan lokasi perangkat. Harap aktifkan fitur ini di pengaturan ponsel Anda untuk mengakses semua fungsi.",
     "CL_CF_CS_exit": "KELUAR",
-    "CL_DV_TV_add_google_see_ip": "Buka Pengaturan → Jaringan & Internet → Wi-Fi untuk menemukan jaringan yang terhubung dan mencari alamat IP dan MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klik tombol pengaturan pada remote control, buka Jelajahi selengkapnya → Rumah Pintar, lalu aktifkan Port Kontrol IP Jaringan.",
     "CL_CF_air_care_control_title": "Status ruang tamu",
     "turn_on_eco_mode": "Aktifkan mode Eco",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "Pengingat kotak kelembapan",
     "CL_CF_HP_hide_card_tips": "Apakah Anda yakin ingin menyembunyikan kartu tersebut?",
     "CL_DV_HOOD_guide_remote_control_desc": "Kendalikan kap mesin Anda langsung dari ponsel Anda.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Sesuaikan dan personalisasikan pengaturan perangkat Anda."
+    "CL_DV_HOOD_guide_device_settings_desc": "Sesuaikan dan personalisasikan pengaturan perangkat Anda.",
+    "CL_DV_TV_add_google_see_ip": "Buka Pengaturan Cepat → Wi-Fi → Jaringan & Internet untuk menemukan jaringan yang terhubung dan melihat alamat IP dan MAC."
 }

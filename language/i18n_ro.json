@@ -8395,7 +8395,7 @@
     "CL_VC_DETECT_DEVICE": "Detectează dispozitivul",
     "CL_TS_tariff_zone": "ZONĂ TARIFARĂ",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Apăsați pe „Asociere dispozitiv”. Dacă sistemul WiFi nu este conectat, atunci faceți mai întâi un ****.",
-    "CL_CF_CM_add_demo_device": "Adăugați un dispozitiv demonstrativ",
+    "CL_CF_CM_add_demo_device": "Adăugați disp. demo",
     "CL_CF_CS_can_not_find_device_label": "Nu găsesc eticheta dispozitivului",
     "hisrf_dura_fresh_guide": "Ghid Dura Fresh",
     "CL_DV_EY_learn_about_logic": "DESPRE LOGICA NOASTRĂ",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Termeni și condiții pentru utilizatorul final",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife necesită servicii de localizare pentru a determina locația dispozitivului. Vă rugăm să activați această funcție în setările telefonului pentru a accesa toate funcțiile.",
     "CL_CF_CS_exit": "Ieșire",
-    "CL_DV_TV_add_google_see_ip": "Navigați la Setări → Rețea și internet → Wi-Fi pentru a găsi rețeaua conectată și a afla adresele IP și MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Faceți clic pe butonul de setări de pe telecomandă, accesați Explorează mai multe → Casă inteligentă, apoi activați Port de control IP rețea.",
     "CL_CF_air_care_control_title": "Starea camerei de zi",
     "turn_on_eco_mode": "Activează modul Eco",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "Memento cutie de umiditate",
     "CL_CF_HP_hide_card_tips": "Sigur vrei să ascunzi cardul?",
     "CL_DV_HOOD_guide_remote_control_desc": "Controlează-ți hota direct de pe telefon.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Ajustați și personalizați setările dispozitivului."
+    "CL_DV_HOOD_guide_device_settings_desc": "Ajustați și personalizați setările dispozitivului.",
+    "CL_DV_TV_add_google_see_ip": "Navigați la Setări rapide → Wi-Fi → Rețea și internet pentru a găsi rețeaua conectată și a afla adresele IP și MAC."
 }

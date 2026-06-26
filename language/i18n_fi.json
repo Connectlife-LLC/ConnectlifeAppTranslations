@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Loppukäyttäjän ehdot",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife vaatii paikannuspalveluita laitteen sijainnin määrittämiseen. Ota tämä ominaisuus käyttöön puhelimesi asetuksissa käyttääksesi kaikkia toimintoja.",
     "CL_CF_CS_exit": "Poistu",
-    "CL_DV_TV_add_google_see_ip": "Siirry kohtaan Asetukset → Verkko ja internet → Wi-Fi ja etsi yhdistetty verkko IP- ja MAC-osoitteiden selvittämiseksi.",
     "CL_DV_TV_add_fire_tv_open_ip": "Napsauta kaukosäätimen asetuspainiketta, siirry kohtaan Tutustu lisää → Älykoti ja ota sitten käyttöön Verkko IP-ohjausportti.",
     "CL_CF_air_care_control_title": "Olohuoneen tila",
     "turn_on_eco_mode": "Ota Eco-tila käyttöön",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "Kosteuslaatikon muistutus",
     "CL_CF_HP_hide_card_tips": "Oletko varma, että haluat piilottaa kortin?",
     "CL_DV_HOOD_guide_remote_control_desc": "Ohjaa liesituuletinta suoraan puhelimestasi.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Säädä ja mukauta laitteesi asetuksia."
+    "CL_DV_HOOD_guide_device_settings_desc": "Säädä ja mukauta laitteesi asetuksia.",
+    "CL_DV_TV_add_google_see_ip": "Siirry kohtaan Pika-asetukset → Wi-Fi → Verkko ja internet löytääksesi yhdistetyn verkon IP- ja MAC-osoitteiden selvittämiseksi."
 }

@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Användaravtal",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife kräver platstjänster för att fastställa enhetens plats. Aktivera den här funktionen i dina telefoninställningar för att få åtkomst till alla funktioner.",
     "CL_CF_CS_exit": "Avsluta",
-    "CL_DV_TV_add_google_see_ip": "Navigera till Inställningar → Nätverk och internet → Wi-Fi för att hitta det anslutna nätverket och hitta IP- och MAC-adresser.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klicka på inställningsknappen på fjärrkontrollen, gå till Utforska mer → Smart hem och aktivera sedan Nätverks-IP-kontrollport.",
     "CL_CF_air_care_control_title": "Vardagsrumsstatus",
     "turn_on_eco_mode": "Aktivera ekoläget",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "Påminnelse om fuktighetsrutan",
     "CL_CF_HP_hide_card_tips": "Är du säker på att du vill dölja kortet?",
     "CL_DV_HOOD_guide_remote_control_desc": "Styr din fläkt direkt från din telefon.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Justera och anpassa dina enhetsinställningar."
+    "CL_DV_HOOD_guide_device_settings_desc": "Justera och anpassa dina enhetsinställningar.",
+    "CL_DV_TV_add_google_see_ip": "Navigera till Snabbinställningar → Wi-Fi → Nätverk och internet för att hitta det anslutna nätverket och IP- och MAC-adresser."
 }

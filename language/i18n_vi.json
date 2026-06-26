@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Điều khoản và điều kiện cho người dùng cuối",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife yêu cầu dịch vụ định vị để xác định vị trí thiết bị. Vui lòng bật tính năng này trong cài đặt điện thoại của bạn để truy cập đầy đủ các chức năng.",
     "CL_CF_CS_exit": "Ra",
-    "CL_DV_TV_add_google_see_ip": "Vào Cài đặt → Mạng & Internet → Wi-Fi để tìm mạng đang kết nối và tìm địa chỉ IP cũng như địa chỉ MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Nhấn nút cài đặt trên điều khiển từ xa, vào Khám phá thêm → Nhà thông minh, sau đó bật Cổng điều khiển IP mạng.",
     "CL_CF_air_care_control_title": "Tình trạng phòng khách",
     "turn_on_eco_mode": "Bật chế độ Eco",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "Nhắc nhở về hộp giữ ẩm",
     "CL_CF_HP_hide_card_tips": "Bạn có chắc chắn muốn giấu tấm thẻ này không?",
     "CL_DV_HOOD_guide_remote_control_desc": "Điều khiển máy hút mùi trực tiếp từ điện thoại của bạn.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Điều chỉnh và cá nhân hóa cài đặt thiết bị của bạn."
+    "CL_DV_HOOD_guide_device_settings_desc": "Điều chỉnh và cá nhân hóa cài đặt thiết bị của bạn.",
+    "CL_DV_TV_add_google_see_ip": "Vào Cài đặt nhanh → Wi-Fi → Mạng & Internet để tìm mạng đang kết nối và tìm địa chỉ IP cũng như địa chỉ MAC."
 }

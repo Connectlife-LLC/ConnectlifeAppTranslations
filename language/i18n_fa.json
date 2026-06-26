@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "شرایط و ضوابط کاربر نهایی",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife برای تعیین موقعیت مکانی دستگاه به سرویس‌های موقعیت‌یابی نیاز دارد. لطفاً برای دسترسی به همه عملکردها، این ویژگی را در تنظیمات تلفن خود فعال کنید.",
     "CL_CF_CS_exit": "خروج",
-    "CL_DV_TV_add_google_see_ip": "برای یافتن شبکه متصل و یافتن آدرس‌های IP و MAC، به تنظیمات → شبکه و اینترنت → وای‌فای بروید.",
     "CL_DV_TV_add_fire_tv_open_ip": "روی دکمه تنظیم روی کنترل از راه دور کلیک کنید، به کاوش بیشتر → خانه هوشمند بروید، سپس پورت کنترل IP شبکه را روشن کنید.",
     "CL_CF_air_care_control_title": "وضعیت اتاق نشیمن",
     "turn_on_eco_mode": "حالت اکو را روشن کنید",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "یادآوری جعبه رطوبت",
     "CL_CF_HP_hide_card_tips": "مطمئنی می‌خوای کارت رو مخفی کنی؟",
     "CL_DV_HOOD_guide_remote_control_desc": "هود خود را مستقیماً از طریق تلفن خود کنترل کنید.",
-    "CL_DV_HOOD_guide_device_settings_desc": "تنظیمات دستگاه خود را تنظیم و شخصی‌سازی کنید."
+    "CL_DV_HOOD_guide_device_settings_desc": "تنظیمات دستگاه خود را تنظیم و شخصی‌سازی کنید.",
+    "CL_DV_TV_add_google_see_ip": "برای یافتن شبکه متصل و یافتن آدرس‌های IP و MAC، به تنظیمات سریع → Wi-Fi → Network & Internet بروید."
 }

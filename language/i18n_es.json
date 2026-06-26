@@ -8395,7 +8395,7 @@
     "CL_VC_DETECT_DEVICE": "Dispositivo de detección",
     "CL_TS_tariff_zone": "ZONA ARANCELARIA",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Pulsa en “Emparejar dispositivo”. Si el sistema WiFi no está conectado, primero haz ****.",
-    "CL_CF_CM_add_demo_device": "Agregar dispositivo de demostración",
+    "CL_CF_CM_add_demo_device": "Agregar disp. demo",
     "CL_CF_CS_can_not_find_device_label": "No encuentro la etiqueta del dispositivo.",
     "hisrf_dura_fresh_guide": "Guía Dura Fresh",
     "CL_DV_EY_learn_about_logic": "SOBRE NUESTRA LÓGICA",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Términos y condiciones para el usuario final",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife requiere los servicios de ubicación para determinar la ubicación del dispositivo. Active esta función en la configuración de su teléfono para acceder a todas las funciones.",
     "CL_CF_CS_exit": "Salir",
-    "CL_DV_TV_add_google_see_ip": "Navegue a Configuración → Red e Internet → Wi-Fi para encontrar la red conectada y obtener las direcciones IP y MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Haz clic en el botón de configuración del control remoto, ve a Explorar más → Hogar inteligente y, a continuación, activa el Puerto de control IP de red.",
     "CL_CF_air_care_control_title": "estado de la sala de estar",
     "turn_on_eco_mode": "Activar el modo Eco",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "Recordatorio de la caja de humedad",
     "CL_CF_HP_hide_card_tips": "¿Estás seguro de que quieres esconder la tarjeta?",
     "CL_DV_HOOD_guide_remote_control_desc": "Controla el capó directamente desde tu teléfono.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Ajusta y personaliza la configuración de tu dispositivo."
+    "CL_DV_HOOD_guide_device_settings_desc": "Ajusta y personaliza la configuración de tu dispositivo.",
+    "CL_DV_TV_add_google_see_ip": "Navegue a Configuración rápida → Wi-Fi → Red e Internet para encontrar la red conectada y obtener las direcciones IP y MAC."
 }

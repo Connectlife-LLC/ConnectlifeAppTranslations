@@ -1850,7 +1850,7 @@
     "STR_PROG_TIME_PROGRAM": "Programme horaire",
     "STR_PROG_SELFCLEANING": "Autonettoyant",
     "stove": "Poêle",
-    "add_device": "Ajouter un appareil",
+    "add_device": "Ajouter app.",
     "get_manuals": "Obtenir des manuels",
     "device_not_on_this_list": "APPAREIL PAS SUR CETTE LISTE",
     "choose_device_category_title": "Choisissez la catégorie d'appareil",
@@ -8395,7 +8395,7 @@
     "CL_VC_DETECT_DEVICE": "Détecter l'appareil",
     "CL_TS_tariff_zone": "ZONE TARIFAIRE",
     "CL_CF_CS_wm86_td76_ui3_p_step3_new_1": "Appuyez sur « Associer l’appareil ». Si le système Wi-Fi n’est pas connecté, effectuez d’abord une ****.",
-    "CL_CF_CM_add_demo_device": "Ajouter un appareil de démonstration",
+    "CL_CF_CM_add_demo_device": "Ajouter app. démo",
     "CL_CF_CS_can_not_find_device_label": "Je ne trouve pas l'étiquette de l'appareil",
     "hisrf_dura_fresh_guide": "Dura Fresh Guide",
     "CL_DV_EY_learn_about_logic": "À PROPOS DE NOTRE LOGIQUE",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Conditions générales pour l'utilisateur final",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife utilise les services de localisation pour déterminer l'emplacement de votre appareil. Veuillez activer cette fonction dans les paramètres de votre téléphone pour accéder à toutes les fonctionnalités.",
     "CL_CF_CS_exit": "Quitter",
-    "CL_DV_TV_add_google_see_ip": "Accédez à Paramètres → Réseau et Internet → Wi-Fi pour trouver le réseau connecté et ainsi obtenir les adresses IP et MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "Cliquez sur le bouton de réglage de la télécommande, allez dans Explorer plus → Maison intelligente, puis activez le port de contrôle IP réseau.",
     "CL_CF_air_care_control_title": "État du salon",
     "turn_on_eco_mode": "Activer le mode Éco",
@@ -8688,5 +8687,6 @@
     "CL_DV_WINE_humidity_box": "rappel de boîte d'humidité",
     "CL_CF_HP_hide_card_tips": "Êtes-vous sûr de vouloir cacher la carte ?",
     "CL_DV_HOOD_guide_remote_control_desc": "Contrôlez votre capote directement depuis votre téléphone.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Ajustez et personnalisez les paramètres de votre appareil."
+    "CL_DV_HOOD_guide_device_settings_desc": "Ajustez et personnalisez les paramètres de votre appareil.",
+    "CL_DV_TV_add_google_see_ip": "Accédez à Paramètres rapides → Wi-Fi → Réseau et Internet pour trouver le réseau connecté et ainsi obtenir les adresses IP et MAC."
 }
