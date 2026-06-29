@@ -4480,7 +4480,7 @@
     "block_key": "Blokkere",
     "guide_tips_device_1": "Dette er kategorien <b> ny hjemmeside. </b>",
     "guide_tips_device_2": "Du kan klikke \" : \" for å redigere bestillingen, vise eller skjule.",
-    "guide_tips_device_3": "Du kan trykke lenge på kortet for å slette eller redigere det.",
+    "guide_tips_device_3": "Du kan trykke lenge på kortet for å skjule eller redigere det.",
     "guide_tips_device_4": "Du kan oppleve <b> tilpassede scenariokort. </b>",
     "guide_tips_device_5": "Du kan finne innstillingen for startfanen under <b> tilpasse utseende </b> på menysiden",
     "guide_tips_1": "ConnectLife har lansert <b> fem scenarier. </b>",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Vilkår og betingelser for sluttbruker",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife krever posisjonstjenester for å bestemme enhetens posisjon. Aktiver denne funksjonen i telefoninnstillingene for å få tilgang til alle funksjonene.",
     "CL_CF_CS_exit": "Avslutt",
-    "CL_DV_TV_add_google_see_ip": "Naviger til Innstillinger → Nettverk og internett → Wi-Fi for å finne det tilkoblede nettverket og finne IP- og MAC-adresser.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klikk på innstillingsknappen på fjernkontrollen, gå til Utforsk mer → Smart hjem, og slå deretter på Nettverks-IP-kontrollport.",
     "CL_CF_air_care_control_title": "Status for stue",
     "turn_on_eco_mode": "Slå på økomodus",
@@ -8688,5 +8687,13 @@
     "CL_DV_WINE_humidity_box": "Påminnelse om fuktighetsboks",
     "CL_CF_HP_hide_card_tips": "Er du sikker på at du vil skjule kortet?",
     "CL_DV_HOOD_guide_remote_control_desc": "Styr hetten direkte fra telefonen.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Juster og tilpass enhetsinnstillingene dine."
+    "CL_DV_HOOD_guide_device_settings_desc": "Juster og tilpass enhetsinnstillingene dine.",
+    "CL_DV_TV_add_google_see_ip": "Naviger til Hurtiginnstillinger → Wi-Fi → Nettverk og internett for å finne det tilkoblede nettverket og finne IP- og MAC-adresser.",
+    "CL_CF_CS_device_name_multi_tub_washing_machine": "Smart vaskemaskin med flere trommeltrommer",
+    "dw_guide_washing_desc": "Start, stopp og overvåk apparatet ditt eksternt.",
+    "dw_guide_assist_desc": "Få programforslag for optimale resultater.",
+    "CL_CF_CS_use_remote_with_wifi_button": "Bruk fjernkontrollen med «wifi»-knappen",
+    "CL_energy_about_statistics": "OM STATISTIKK",
+    "CL_energy_statistics_support_status": "Følgende er støttestatusen for enheten din.",
+    "CL_supported": "Støttet"
 }

@@ -4480,7 +4480,7 @@
     "block_key": "Blok",
     "guide_tips_device_1": "Toto je <b> nová karta domovské stránky. </b>",
     "guide_tips_device_2": "Kliknutím na \" : \" můžete objednávku upravit, zobrazit nebo skrýt.",
-    "guide_tips_device_3": "Kartu můžete dlouhým stisknutím smazat nebo upravit.",
+    "guide_tips_device_3": "Dlouhým stisknutím karty ji můžete skrýt nebo upravit.",
     "guide_tips_device_4": "Můžete zažít <b> přizpůsobené karty scénáře. </b>",
     "guide_tips_device_5": "Nastavení domovské karty naleznete v části <b> přizpůsobení vzhledu </b> na stránce nabídky",
     "guide_tips_1": "ConnectLife spustil <b> pět scénářů. </b>",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Všeobecné obchodní podmínky pro koncového uživatele",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife vyžaduje pro určení polohy zařízení lokalizační služby. Pro přístup ke všem funkcím prosím povolte tuto funkci v nastavení telefonu.",
     "CL_CF_CS_exit": "Ukončit",
-    "CL_DV_TV_add_google_see_ip": "Přejděte do Nastavení → Síť a internet → Wi-Fi a vyhledejte připojenou síť, ke které chcete přiřadit IP a MAC adresy.",
     "CL_DV_TV_add_fire_tv_open_ip": "Klikněte na tlačítko nastavení na dálkovém ovladači, přejděte do sekce Prozkoumat více → Chytrá domácnost a poté zapněte možnost Řízení síťové IP adresy.",
     "CL_CF_air_care_control_title": "Stav obývacího pokoje",
     "turn_on_eco_mode": "Zapněte ekologický režim",
@@ -8688,5 +8687,13 @@
     "CL_DV_WINE_humidity_box": "Připomenutí boxu s vlhkostí",
     "CL_CF_HP_hide_card_tips": "Jste si jistý/á, že chcete kartu skrýt?",
     "CL_DV_HOOD_guide_remote_control_desc": "Ovládejte digestoř přímo z telefonu.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Upravte a přizpůsobte nastavení svého zařízení."
+    "CL_DV_HOOD_guide_device_settings_desc": "Upravte a přizpůsobte nastavení svého zařízení.",
+    "CL_DV_TV_add_google_see_ip": "Přejděte do Rychlé nastavení → Wi-Fi → Síť a internet a vyhledejte připojenou síť, ke které chcete najít IP a MAC adresy.",
+    "CL_CF_CS_device_name_multi_tub_washing_machine": "Chytrá vícebubnová pračka",
+    "dw_guide_washing_desc": "Spouštějte, zastavujte a monitorujte svůj spotřebič na dálku.",
+    "dw_guide_assist_desc": "Získejte návrhy programů pro optimální výsledky.",
+    "CL_CF_CS_use_remote_with_wifi_button": "Používejte dálkové ovládání s tlačítkem „Wi-Fi“",
+    "CL_energy_about_statistics": "O STATISTIKÁCH",
+    "CL_energy_statistics_support_status": "Následuje stav podpory pro vaše zařízení.",
+    "CL_supported": "Podporováno"
 }

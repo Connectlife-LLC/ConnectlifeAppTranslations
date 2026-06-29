@@ -4480,7 +4480,7 @@
     "block_key": "ブロック",
     "guide_tips_device_1": "これは<b>新しいホームページ タブです。 </b>",
     "guide_tips_device_2": "「 : 」をクリックすると、順序を編集したり、表示または非表示にしたりできます。",
-    "guide_tips_device_3": "カードを長押しすると削除または編集できます。",
+    "guide_tips_device_3": "カードを長押しすると、非表示にしたり編集したりできます。",
     "guide_tips_device_4": "<b>カスタマイズされたシナリオカード</b>を体験できます。",
     "guide_tips_device_5": "ホームタブの設定はメニューページの<b>外観のカスタマイズ</b>で確認できます。",
     "guide_tips_1": "ConnectLife の<b> 5 つの利用シーン</b>を紹介します。",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "エンドユーザー利用規約",
     "CL_CF_CS_enable_location_service_tip": "ConnectLifeは、端末の位置を特定するために位置情報サービスを必要とします。すべての機能をご利用いただくには、スマートフォンの設定で位置情報サービスを有効にしてください。",
     "CL_CF_CS_exit": "終了",
-    "CL_DV_TV_add_google_see_ip": "設定 → ネットワークとインターネット → Wi-Fi に移動して、接続されているネットワークを探し、IP アドレスと MAC アドレスを確認してください。",
     "CL_DV_TV_add_fire_tv_open_ip": "リモコンの設定ボタンをクリックし、「詳細を見る」→「スマートホーム」に進み、「ネットワークIP制御ポート」をオンにします。",
     "CL_CF_air_care_control_title": "リビングルームの状況",
     "turn_on_eco_mode": "エコモードをオンにする",
@@ -8688,5 +8687,13 @@
     "CL_DV_WINE_humidity_box": "湿度ボックスに関するお知らせ",
     "CL_CF_HP_hide_card_tips": "本当にカードを非表示にしたいですか？",
     "CL_DV_HOOD_guide_remote_control_desc": "スマートフォンから直接ボンネットを操作できます。",
-    "CL_DV_HOOD_guide_device_settings_desc": "デバイスの設定を調整してカスタマイズしましょう。"
+    "CL_DV_HOOD_guide_device_settings_desc": "デバイスの設定を調整してカスタマイズしましょう。",
+    "CL_DV_TV_add_google_see_ip": "クイック設定 → Wi-Fi → ネットワークとインターネットに移動して、接続されているネットワークを探し、IPアドレスとMACアドレスを確認してください。",
+    "CL_CF_CS_device_name_multi_tub_washing_machine": "スマートマルチドラム洗濯機",
+    "dw_guide_washing_desc": "家電製品の起動、停止、監視を遠隔で行えます。",
+    "dw_guide_assist_desc": "最適な結果を得るためのプログラム提案を受けましょう。",
+    "CL_CF_CS_use_remote_with_wifi_button": "「Wi-Fi」ボタン付きのリモコンを使用してください",
+    "CL_energy_about_statistics": "統計について",
+    "CL_energy_statistics_support_status": "お使いのデバイスのサポート状況は以下のとおりです。",
+    "CL_supported": "サポート対象"
 }
