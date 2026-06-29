@@ -4480,7 +4480,7 @@
     "block_key": "לַחסוֹם",
     "guide_tips_device_1": "זוהי הכרטיסייה <b> דף הבית החדש. </b>",
     "guide_tips_device_2": "אתה יכול ללחוץ על \" : \" כדי לערוך את הסדר, להציג או להסתיר.",
-    "guide_tips_device_3": "אתה יכול ללחוץ לחיצה ארוכה על הכרטיס כדי למחוק או לערוך אותו.",
+    "guide_tips_device_3": "ניתן ללחוץ לחיצה ארוכה על הכרטיס כדי להסתיר או לערוך אותו.",
     "guide_tips_device_4": "אתה יכול לחוות <b> כרטיסי תרחישים מותאמים אישית. </b>",
     "guide_tips_device_5": "אתה יכול למצוא את הגדרת כרטיסיית הבית ב- <b> התאם אישית את המראה </b> בדף התפריט",
     "guide_tips_1": "ConnectLife השיקה <b> חמישה תרחישים. </b>",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "תנאים והגבלות למשתמש הקצה",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife דורש שירותי מיקום כדי לקבוע את מיקום המכשיר. אנא הפעל תכונה זו בהגדרות הטלפון שלך כדי לגשת לכל הפונקציות.",
     "CL_CF_CS_exit": "יְצִיאָה",
-    "CL_DV_TV_add_google_see_ip": "נווט אל הגדרות​ ← רשת ואינטרנט ← Wi-Fi​ כדי למצוא את הרשת המחוברת ולמצוא כתובות IP ו-MAC.",
     "CL_DV_TV_add_fire_tv_open_ip": "לחצו על כפתור ההגדרות בשלט הרחוק, עברו אל \"חקרו עוד\" ← \"בית חכם\", לאחר מכן הפעילו את \"יציאת בקרת IP של הרשת\".",
     "CL_CF_air_care_control_title": "סטטוס הסלון",
     "turn_on_eco_mode": "הפעל את מצב אקו",
@@ -8688,5 +8687,13 @@
     "CL_DV_WINE_humidity_box": "תזכורת לתיבת לחות",
     "CL_CF_HP_hide_card_tips": "האם אתה בטוח שאתה רוצה להסתיר את הכרטיס?",
     "CL_DV_HOOD_guide_remote_control_desc": "שלטו במכסה המנוע שלכם ישירות מהטלפון.",
-    "CL_DV_HOOD_guide_device_settings_desc": "התאם והתאם אישית את הגדרות המכשיר שלך."
+    "CL_DV_HOOD_guide_device_settings_desc": "התאם והתאם אישית את הגדרות המכשיר שלך.",
+    "CL_DV_TV_add_google_see_ip": "נווט אל הגדרות מהירות ← Wi-Fi ← רשת ואינטרנט כדי למצוא את הרשת המחוברת ולמצוא כתובות IP ו-MAC.",
+    "CL_CF_CS_device_name_multi_tub_washing_machine": "מכונת כביסה חכמה עם מספר תופים",
+    "dw_guide_washing_desc": "הפעל, עצור ונטר את המכשיר שלך מרחוק.",
+    "dw_guide_assist_desc": "קבל הצעות לתוכניות לקבלת תוצאות אופטימליות.",
+    "CL_CF_CS_use_remote_with_wifi_button": "השתמשו בשלט רחוק עם כפתור ה-'wifi'",
+    "CL_energy_about_statistics": "אודות סטטיסטיקה",
+    "CL_energy_statistics_support_status": "להלן סטטוס התמיכה עבור המכשיר שלך.",
+    "CL_supported": "נתמך"
 }

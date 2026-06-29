@@ -4480,7 +4480,7 @@
     "block_key": "Engellemek",
     "guide_tips_device_1": "Bu <b> yeni ana sayfa sekmesidir. </b>",
     "guide_tips_device_2": "Sıralamayı düzenlemek, göstermek veya gizlemek için \" : \" tuşuna tıklayabilirsiniz.",
-    "guide_tips_device_3": "Kartınıza uzun süre basarak onu silebilir veya düzenleyebilirsiniz.",
+    "guide_tips_device_3": "Kartı gizlemek veya düzenlemek için uzun süre basılı tutabilirsiniz.",
     "guide_tips_device_4": "<b> Özelleştirilmiş senaryo kartlarını </b> deneyimleyebilirsiniz.",
     "guide_tips_device_5": "Ana sekme ayarını menü sayfasındaki <b> görünümü özelleştir </b> kısmında bulabilirsiniz",
     "guide_tips_1": "ConnectLife <b> beş senaryo </b> başlattı.",
@@ -8663,7 +8663,6 @@
     "CL_CF_LG_enduser_terms_2": "Son kullanıcı hüküm ve koşulları",
     "CL_CF_CS_enable_location_service_tip": "ConnectLife, cihazın konumunu belirlemek için konum servislerine ihtiyaç duyar. Tüm işlevlere erişmek için lütfen telefonunuzun ayarlarından bu özelliği etkinleştirin.",
     "CL_CF_CS_exit": "Çıkış",
-    "CL_DV_TV_add_google_see_ip": "Ayarlar → Ağ ve İnternet → Wi-Fi yolunu izleyerek bağlı olduğunuz ağın IP ve MAC adreslerini bulabilirsiniz.",
     "CL_DV_TV_add_fire_tv_open_ip": "Uzaktan kumandadaki ayarlar düğmesine tıklayın, Daha fazlasını keşfedin → Akıllı Ev bölümüne gidin ve ardından Ağ IP Kontrol Bağlantı Noktasını açın.",
     "CL_CF_air_care_control_title": "Oturma odası durumu",
     "turn_on_eco_mode": "Eko modu açın",
@@ -8688,5 +8687,13 @@
     "CL_DV_WINE_humidity_box": "Nem kutusu hatırlatıcısı",
     "CL_CF_HP_hide_card_tips": "Kartı saklamak istediğinizden emin misiniz?",
     "CL_DV_HOOD_guide_remote_control_desc": "Davlumbazınızı doğrudan telefonunuzdan kontrol edin.",
-    "CL_DV_HOOD_guide_device_settings_desc": "Cihazınızın ayarlarını düzenleyin ve kişiselleştirin."
+    "CL_DV_HOOD_guide_device_settings_desc": "Cihazınızın ayarlarını düzenleyin ve kişiselleştirin.",
+    "CL_DV_TV_add_google_see_ip": "Bağlı olduğunuz ağın IP ve MAC adreslerini bulmak için Hızlı Ayarlar → Wi-Fi → Ağ ve İnternet yolunu izleyin.",
+    "CL_CF_CS_device_name_multi_tub_washing_machine": "Akıllı çok tamburlu çamaşır makinesi",
+    "dw_guide_washing_desc": "Cihazınızı uzaktan başlatın, durdurun ve izleyin.",
+    "dw_guide_assist_desc": "En iyi sonuçlar için program önerileri alın.",
+    "CL_CF_CS_use_remote_with_wifi_button": "'Wi-Fi' düğmeli uzaktan kumandayı kullanın.",
+    "CL_energy_about_statistics": "İSTATİSTİKLER HAKKINDA",
+    "CL_energy_statistics_support_status": "Aşağıda cihazınızın destek durumu yer almaktadır.",
+    "CL_supported": "Desteklendi"
 }
