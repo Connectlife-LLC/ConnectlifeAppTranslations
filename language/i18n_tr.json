@@ -8699,5 +8699,13 @@
     "CL_not_supported": "Desteklenmiyor",
     "CL_energy_statistics_energy_title": "Enerji Tüketimi İstatistikleri",
     "CL_energy_statistics_water_title": "Su Tüketimi İstatistikleri",
-    "CL_energy_statistics_heating_title": "Isıtma/Soğutma Kapasitesi İstatistikleri"
+    "CL_energy_statistics_heating_title": "Isıtma/Soğutma Kapasitesi İstatistikleri",
+    "CL_DR_entrance_desc": "Yoğun talep dönemlerinde klimanızın enerji tüketimini kısa süreliğine azaltan gönüllü bir program. Karşılığında, Hisense'den özel avantajlar elde etme ve elektrik şebekesinin istikrarlı kalmasına yardımcı olma fırsatı yakalıyorsunuz.",
+    "CL_DR_entrance_enrolled": "Kaydınız tamamlandı.",
+    "CL_DR_entrance_desc_confirming": "İlgili elektrik şirketiyle teyit ediliyor.",
+    "CL_DR_enroll": "KAYDOL",
+    "CL_DR_unenroll": "KAYDI ÇIKAR",
+    "CL_DR_unenroll_confirm_tips": "Talep Yanıtı programından kaydınızı sildirmek istediğinizden emin misiniz?",
+    "CL_DR_not_available": "HENÜZ BÖLGENİZDE MEVCUT DEĞİL",
+    "CL_DR_not_available_desc": "Talep Yanıtı, yerel enerji ortaklarına bağlıdır. Bulunduğunuz yerde ne zaman kullanılabilir hale geleceğini size bildireceğiz."
 }

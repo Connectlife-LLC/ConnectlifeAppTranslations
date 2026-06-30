@@ -8699,5 +8699,13 @@
     "CL_not_supported": "Not supported",
     "CL_energy_statistics_energy_title": "Energy Consumption Statistics",
     "CL_energy_statistics_water_title": "Water Consumption Statistics",
-    "CL_energy_statistics_heating_title": "Heating/Cooling Capacity Statistics"
+    "CL_energy_statistics_heating_title": "Heating/Cooling Capacity Statistics",
+    "CL_DR_entrance_desc": "A voluntary program that briefly reduces your air conditioner's energy use during peak demand periods. In return, you get the opportunity to receive exclusive perks from Hisense and help keep the power grid stable.",
+    "CL_DR_entrance_enrolled": "You are enrolled.",
+    "CL_DR_entrance_desc_confirming": "Confirming with your utility.",
+    "CL_DR_enroll": "ENROLL",
+    "CL_DR_unenroll": "UNENROLL",
+    "CL_DR_unenroll_confirm_tips": "Are you sure to unenroll the Demand Response program?",
+    "CL_DR_not_available": "NOT AVAILABLE IN YOUR AREA YET",
+    "CL_DR_not_available_desc": "Demand Response depends on local energy partners. We'll let you know when it's available where you live."
 }

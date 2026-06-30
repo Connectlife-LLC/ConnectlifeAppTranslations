@@ -8699,5 +8699,13 @@
     "CL_not_supported": "Ikke støttet",
     "CL_energy_statistics_energy_title": "Statistikk over energiforbruk",
     "CL_energy_statistics_water_title": "Statistikk over vannforbruk",
-    "CL_energy_statistics_heating_title": "Statistikk for oppvarmings-/kjølekapasitet"
+    "CL_energy_statistics_heating_title": "Statistikk for oppvarmings-/kjølekapasitet",
+    "CL_DR_entrance_desc": "Et frivillig program som kortvarig reduserer klimaanleggets energiforbruk i perioder med høy etterspørsel. Til gjengjeld får du muligheten til å motta eksklusive fordeler fra Hisense og bidra til å holde strømnettet stabilt.",
+    "CL_DR_entrance_enrolled": "Du er påmeldt.",
+    "CL_DR_entrance_desc_confirming": "Bekrefter med strømleverandøren din.",
+    "CL_DR_enroll": "REGISTRERE",
+    "CL_DR_unenroll": "AVMELDING",
+    "CL_DR_unenroll_confirm_tips": "Er du sikker på at du vil avmelde deg programmet for etterspørselsrespons?",
+    "CL_DR_not_available": "IKKE TILGJENGELIG I DITT OMRÅDE ENNÅ",
+    "CL_DR_not_available_desc": "Etterspørselsrespons er avhengig av lokale energipartnere. Vi gir deg beskjed når det er tilgjengelig der du bor."
 }
