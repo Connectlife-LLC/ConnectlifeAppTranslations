@@ -8699,5 +8699,14 @@
     "CL_not_supported": "Non pris en charge",
     "CL_energy_statistics_energy_title": "Statistiques de consommation d'énergie",
     "CL_energy_statistics_water_title": "Statistiques sur la consommation d'eau",
-    "CL_energy_statistics_heating_title": "Statistiques sur les capacités de chauffage et de refroidissement"
+    "CL_energy_statistics_heating_title": "Statistiques sur les capacités de chauffage et de refroidissement",
+    "CL_DR_entrance_desc": "Un programme volontaire qui réduit temporairement la consommation d'énergie de votre climatiseur lors des pics de consommation. En contrepartie, vous bénéficiez d'avantages exclusifs Hisense et contribuez à la stabilité du réseau électrique.",
+    "CL_DR_entrance_enrolled": "Vous êtes inscrit.",
+    "CL_DR_entrance_desc_confirming": "À confirmer auprès de votre fournisseur d'énergie.",
+    "CL_DR_enroll": "INSCRIRE",
+    "CL_DR_unenroll": "DÉSINSCRIRE",
+    "CL_DR_unenroll_confirm_tips": "Êtes-vous certain de vous désinscrire du programme de réponse à la demande ?",
+    "CL_DR_not_available": "PAS ENCORE DISPONIBLE DANS VOTRE RÉGION",
+    "CL_DR_not_available_desc": "La gestion de la demande dépend de nos partenaires énergétiques locaux. Nous vous informerons dès qu'elle sera disponible dans votre région.",
+    "street_address": "ADRESSE DE LA RUE"
 }

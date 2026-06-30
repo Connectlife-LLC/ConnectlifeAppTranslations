@@ -8699,5 +8699,14 @@
     "CL_not_supported": "No compatible",
     "CL_energy_statistics_energy_title": "Estadísticas de consumo de energía",
     "CL_energy_statistics_water_title": "Estadísticas de consumo de agua",
-    "CL_energy_statistics_heating_title": "Estadísticas de capacidad de calefacción/refrigeración"
+    "CL_energy_statistics_heating_title": "Estadísticas de capacidad de calefacción/refrigeración",
+    "CL_DR_entrance_desc": "Un programa voluntario que reduce brevemente el consumo energético de tu aire acondicionado durante los periodos de máxima demanda. A cambio, tendrás la oportunidad de recibir beneficios exclusivos de Hisense y contribuir a la estabilidad de la red eléctrica.",
+    "CL_DR_entrance_enrolled": "Estás inscrito.",
+    "CL_DR_entrance_desc_confirming": "Confirme con su compañía de servicios públicos.",
+    "CL_DR_enroll": "INSCRIBIRSE",
+    "CL_DR_unenroll": "DAR DE BAJA",
+    "CL_DR_unenroll_confirm_tips": "¿Está seguro de que desea darse de baja del programa de Respuesta a la Demanda?",
+    "CL_DR_not_available": "AÚN NO ESTÁ DISPONIBLE EN TU ZONA",
+    "CL_DR_not_available_desc": "La gestión de la demanda depende de los proveedores de energía locales. Le avisaremos cuando esté disponible en su zona.",
+    "street_address": "DIRECCIÓN CALLEJERA"
 }

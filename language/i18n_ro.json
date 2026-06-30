@@ -8699,5 +8699,14 @@
     "CL_not_supported": "Nu este acceptat",
     "CL_energy_statistics_energy_title": "Statistici privind consumul de energie",
     "CL_energy_statistics_water_title": "Statistici privind consumul de apă",
-    "CL_energy_statistics_heating_title": "Statistici privind capacitatea de încălzire/răcire"
+    "CL_energy_statistics_heating_title": "Statistici privind capacitatea de încălzire/răcire",
+    "CL_DR_entrance_desc": "Un program voluntar care reduce pe scurt consumul de energie al aparatului de aer condiționat în perioadele de vârf. În schimb, aveți oportunitatea de a primi avantaje exclusive de la Hisense și de a contribui la menținerea stabilității rețelei electrice.",
+    "CL_DR_entrance_enrolled": "Ești înscris/ă.",
+    "CL_DR_entrance_desc_confirming": "Confirm cu furnizorul de utilități.",
+    "CL_DR_enroll": "ÎNSCRIE-TE",
+    "CL_DR_unenroll": "DEZINĂ",
+    "CL_DR_unenroll_confirm_tips": "Sigur vrei să te dezabonezi din programul de răspuns la cerere?",
+    "CL_DR_not_available": "NU ESTE DISPONIBIL ÎN ZONA DUMNEAVOASTRĂ ÎNCĂ",
+    "CL_DR_not_available_desc": "Răspunsul la cerere depinde de partenerii energetici locali. Vă vom anunța când va fi disponibil acolo unde locuiți.",
+    "street_address": "ADRESĂ"
 }

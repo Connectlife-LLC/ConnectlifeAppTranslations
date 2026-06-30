@@ -8699,5 +8699,14 @@
     "CL_not_supported": "समर्थित नहीं",
     "CL_energy_statistics_energy_title": "ऊर्जा खपत के आँकड़े",
     "CL_energy_statistics_water_title": "जल खपत के आँकड़े",
-    "CL_energy_statistics_heating_title": "तापन/शीतलन क्षमता के आँकड़े"
+    "CL_energy_statistics_heating_title": "तापन/शीतलन क्षमता के आँकड़े",
+    "CL_DR_entrance_desc": "यह एक स्वैच्छिक कार्यक्रम है जो ऊर्जा की अत्यधिक मांग के समय आपके एयर कंडीशनर की ऊर्जा खपत को कुछ समय के लिए कम कर देता है। इसके बदले में, आपको Hisense से विशेष लाभ प्राप्त करने का अवसर मिलता है और आप बिजली ग्रिड को स्थिर रखने में मदद करते हैं।",
+    "CL_DR_entrance_enrolled": "आप नामांकित हैं।",
+    "CL_DR_entrance_desc_confirming": "आपकी यूटिलिटी से पुष्टि कर रहे हैं।",
+    "CL_DR_enroll": "भर्ती",
+    "CL_DR_unenroll": "नामांकन रद्द करें",
+    "CL_DR_unenroll_confirm_tips": "क्या आप डिमांड रिस्पांस प्रोग्राम से अपना नाम हटाने के लिए निश्चित हैं?",
+    "CL_DR_not_available": "आपके क्षेत्र में अभी उपलब्ध नहीं है",
+    "CL_DR_not_available_desc": "डिमांड रिस्पॉन्स स्थानीय ऊर्जा साझेदारों पर निर्भर करता है। जब यह आपके क्षेत्र में उपलब्ध होगा, हम आपको सूचित करेंगे।",
+    "street_address": "पता"
 }
