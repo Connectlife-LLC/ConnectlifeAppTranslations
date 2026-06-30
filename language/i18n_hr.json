@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Vaši *** i ConnectLife računi uspješno su povezani.",
     "link_google_title": "Možete povezati Google sa svojim ConnectLife računom",
     "link_google_confirm": "SLAŽETE SE I POVEŽITE S GOOGLE-om",
-    "link_google_ability_title": "Nakon što je vaš račun povezan, dajete Googleu dopuštenje za:",
+    "link_google_ability_title": "Dajete Googleu dopuštenje za:",
     "link_google_ability_1": "Pogledajte popis svojih povezanih uređaja.",
     "link_google_ability_2": "Prikaz detalja uređaja, kao što su naziv i jedinstveni ID",
     "link_google_ability_3": "Upravljajte svojim uređajima i pregledavajte njihovo stanje i postavke.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Jeste li sigurni da se želite odjaviti iz programa Odgovor na potražnju?",
     "CL_DR_not_available": "JOŠ NIJE DOSTUPNO U VAŠEM PODRUČJU",
     "CL_DR_not_available_desc": "Odgovor na potražnju ovisi o lokalnim energetskim partnerima. Obavijestit ćemo vas kada bude dostupan tamo gdje živite.",
-    "street_address": "ADRESA ULICE"
+    "street_address": "ADRESA ULICE",
+    "CL_DV_RF_freezer_gear_content": "kratkotrajno brzo hlađenje"
 }

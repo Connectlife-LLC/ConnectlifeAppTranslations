@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "*** ve ConnectLife hesaplarınız başarıyla bağlandı.",
     "link_google_title": "Google'ı ConnectLife hesabınıza bağlayabilirsiniz",
     "link_google_confirm": "KABUL EDİN VE GOOGLE'A BAĞLAYIN",
-    "link_google_ability_title": "Hesabınız bağlandıktan sonra, Google'a şu izinleri veriyorsunuz:",
+    "link_google_ability_title": "Google'a şu izinleri veriyorsunuz:",
     "link_google_ability_1": "Bağlı cihazlarınızın listesini görüntüleyin.",
     "link_google_ability_2": "Cihazın adını ve benzersiz kimliğini gibi cihaz ayrıntılarını görüntüleyin.",
     "link_google_ability_3": "Cihazlarınızı kontrol edin, durumlarını ve ayarlarını görüntüleyin.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Talep Yanıtı programından kaydınızı sildirmek istediğinizden emin misiniz?",
     "CL_DR_not_available": "HENÜZ BÖLGENİZDE MEVCUT DEĞİL",
     "CL_DR_not_available_desc": "Talep Yanıtı, yerel enerji ortaklarına bağlıdır. Bulunduğunuz yerde ne zaman kullanılabilir hale geleceğini size bildireceğiz.",
-    "street_address": "AÇIK ADRES"
+    "street_address": "AÇIK ADRES",
+    "CL_DV_RF_freezer_gear_content": "kısa süreli hızlı soğutma"
 }

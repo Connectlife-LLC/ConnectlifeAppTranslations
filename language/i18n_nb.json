@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "***- og ConnectLife-kontoene dine har blitt koblet sammen.",
     "link_google_title": "Du kan koble Google til ConnectLife-kontoen din",
     "link_google_confirm": "ENIG OG KNYTT GOOGLE",
-    "link_google_ability_title": "Når kontoen din er koblet til, gir du Google tillatelse til å:",
+    "link_google_ability_title": "Du gir Google tillatelse til å:",
     "link_google_ability_1": "Se en liste over tilkoblede enheter.",
     "link_google_ability_2": "Se enhetsdetaljer, for eksempel navn og unik ID",
     "link_google_ability_3": "Kontroller enhetene dine og se statusen og innstillingene deres.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Er du sikker på at du vil avmelde deg programmet for etterspørselsrespons?",
     "CL_DR_not_available": "IKKE TILGJENGELIG I DITT OMRÅDE ENNÅ",
     "CL_DR_not_available_desc": "Etterspørselsrespons er avhengig av lokale energipartnere. Vi gir deg beskjed når det er tilgjengelig der du bor.",
-    "street_address": "GATEADRESSE"
+    "street_address": "GATEADRESSE",
+    "CL_DV_RF_freezer_gear_content": "kortvarig rask avkjøling"
 }
