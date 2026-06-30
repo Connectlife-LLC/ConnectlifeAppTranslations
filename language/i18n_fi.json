@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "***- ja ConnectLife-tilisi on yhdistetty onnistuneesti.",
     "link_google_title": "Voit linkittää Googlen ConnectLife-tiliisi",
     "link_google_confirm": "HYVÄKSY JA LINKKI GOOGLE",
-    "link_google_ability_title": "Kun tilisi on yhdistetty, annat Googlelle luvan:",
+    "link_google_ability_title": "Annat Googlelle luvan:",
     "link_google_ability_1": "Näytä luettelo yhdistetyistä laitteistasi.",
     "link_google_ability_2": "Näytä laitteen tiedot, kuten nimi ja yksilöllinen tunniste",
     "link_google_ability_3": "Ohjaa laitteitasi ja tarkastele niiden tilaa ja asetuksia.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Haluatko varmasti peruuttaa Demand Response -ohjelmaan ilmoittautumisen?",
     "CL_DR_not_available": "EI VIELÄ SAATAVILLA ALUEELLASI",
     "CL_DR_not_available_desc": "Kysynnänjousto riippuu paikallisista energiakumppaneista. Ilmoitamme sinulle, kun se on saatavilla asuinalueellasi.",
-    "street_address": "KATUOSOITE"
+    "street_address": "KATUOSOITE",
+    "CL_DV_RF_freezer_gear_content": "lyhytaikainen nopea jäähdytys"
 }

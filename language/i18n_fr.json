@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Vos comptes *** et ConnectLife ont été liés !",
     "link_google_title": "Vous pouvez lier Google à votre compte ConnectLife",
     "link_google_confirm": "ACCEPTER & LIER GOOGLE",
-    "link_google_ability_title": "Une fois votre compte connecté, vous autorisez Google à :",
+    "link_google_ability_title": "Vous autorisez Google à :",
     "link_google_ability_1": "Consultez la liste de vos appareils connectés.",
     "link_google_ability_2": "Afficher les détails de l'appareil, tels que son nom et son identifiant unique",
     "link_google_ability_3": "Contrôlez vos appareils et consultez leur état et leurs paramètres.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Êtes-vous certain de vous désinscrire du programme de réponse à la demande ?",
     "CL_DR_not_available": "PAS ENCORE DISPONIBLE DANS VOTRE RÉGION",
     "CL_DR_not_available_desc": "La gestion de la demande dépend de nos partenaires énergétiques locaux. Nous vous informerons dès qu'elle sera disponible dans votre région.",
-    "street_address": "ADRESSE DE LA RUE"
+    "street_address": "ADRESSE DE LA RUE",
+    "CL_DV_RF_freezer_gear_content": "refroidissement rapide de courte durée"
 }

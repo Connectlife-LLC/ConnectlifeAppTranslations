@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Akun *** dan ConnectLife Anda telah berhasil ditautkan.",
     "link_google_title": "Anda dapat menautkan Google ke akun ConnectLife Anda",
     "link_google_confirm": "SETUJU & TAUTKAN GOOGLE",
-    "link_google_ability_title": "Setelah akun Anda terhubung, Anda memberikan izin kepada Google untuk:",
+    "link_google_ability_title": "Anda memberikan izin kepada Google untuk:",
     "link_google_ability_1": "Lihat daftar perangkat Anda yang terhubung.",
     "link_google_ability_2": "Lihat detail perangkat, seperti nama dan ID unik.",
     "link_google_ability_3": "Kendalikan perangkat Anda dan lihat status serta pengaturannya.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Apakah Anda yakin ingin berhenti mengikuti program Demand Response?",
     "CL_DR_not_available": "BELUM TERSEDIA DI WILAYAH ANDA",
     "CL_DR_not_available_desc": "Demand Response bergantung pada mitra energi lokal. Kami akan memberi tahu Anda kapan layanan ini tersedia di tempat Anda tinggal.",
-    "street_address": "ALAMAT JALAN"
+    "street_address": "ALAMAT JALAN",
+    "CL_DV_RF_freezer_gear_content": "pendinginan cepat jangka pendek"
 }
