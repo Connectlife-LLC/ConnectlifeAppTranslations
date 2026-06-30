@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Vaše účty *** a ConnectLife boli úspešne prepojené.",
     "link_google_title": "Google môžete prepojiť so svojím účtom ConnectLife",
     "link_google_confirm": "SÚHLASÍTE A PREPOJTE GOOGLE",
-    "link_google_ability_title": "Po prepojení vášho účtu dávate spoločnosti Google povolenie na:",
+    "link_google_ability_title": "Dávaš spoločnosti Google povolenie na:",
     "link_google_ability_1": "Zobraziť zoznam pripojených zariadení.",
     "link_google_ability_2": "Zobraziť podrobnosti o zariadení, ako napríklad názov a jedinečné ID",
     "link_google_ability_3": "Ovládajte svoje zariadenia a zobrazujte ich stav a nastavenia.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Naozaj sa chcete odhlásiť z programu Demand Response?",
     "CL_DR_not_available": "ZATIAĽ NIE JE DOSTUPNÉ VO VAŠEJ OBLASTI",
     "CL_DR_not_available_desc": "Služba Demand Response závisí od miestnych energetických partnerov. Dáme vám vedieť, kedy bude k dispozícii vo vašom okolí.",
-    "street_address": "ADRESA ULICE"
+    "street_address": "ADRESA ULICE",
+    "CL_DV_RF_freezer_gear_content": "krátkodobé rýchle ochladenie"
 }

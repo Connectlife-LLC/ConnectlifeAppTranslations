@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Conturile dvs. *** și ConnectLife au fost conectate cu succes.",
     "link_google_title": "Puteți conecta Google la contul dvs. ConnectLife",
     "link_google_confirm": "ACCEPTARE ȘI CONECTARE GOOGLE",
-    "link_google_ability_title": "După ce contul dvs. este conectat, îi acordați Google permisiunea de a:",
+    "link_google_ability_title": "Îi acordați Google permisiunea de a:",
     "link_google_ability_1": "Vizualizați o listă cu dispozitivele conectate.",
     "link_google_ability_2": "Vizualizați detaliile dispozitivului, cum ar fi numele și ID-ul unic",
     "link_google_ability_3": "Controlează-ți dispozitivele și vizualizează starea și setările acestora.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Sigur vrei să te dezabonezi din programul de răspuns la cerere?",
     "CL_DR_not_available": "NU ESTE DISPONIBIL ÎN ZONA DUMNEAVOASTRĂ ÎNCĂ",
     "CL_DR_not_available_desc": "Răspunsul la cerere depinde de partenerii energetici locali. Vă vom anunța când va fi disponibil acolo unde locuiți.",
-    "street_address": "ADRESĂ"
+    "street_address": "ADRESĂ",
+    "CL_DV_RF_freezer_gear_content": "răcire rapidă pe termen scurt"
 }

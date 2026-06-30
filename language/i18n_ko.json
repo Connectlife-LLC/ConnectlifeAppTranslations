@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "귀하의 *** 및 ConnectLife 계정이 성공적으로 연결되었습니다.",
     "link_google_title": "Google을 ConnectLife 계정에 연결할 수 있습니다",
     "link_google_confirm": "동의하고 Google에 연결하세요.",
-    "link_google_ability_title": "계정이 연결되면 Google에 다음과 같은 권한을 부여하게 됩니다.",
+    "link_google_ability_title": "Google에 다음과 같은 권한을 부여하는 것입니다.",
     "link_google_ability_1": "연결된 기기 목록을 확인하세요.",
     "link_google_ability_2": "기기 이름 및 고유 ID와 같은 기기 세부 정보를 확인하세요.",
     "link_google_ability_3": "기기를 제어하고 상태 및 설정을 확인하세요.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "수요응답 프로그램에서 탈퇴하시는 것이 확실합니까?",
     "CL_DR_not_available": "해당 지역에서는 아직 이용할 수 없습니다.",
     "CL_DR_not_available_desc": "수요 반응 프로그램은 지역 에너지 파트너사에 따라 달라집니다. 거주 지역에서 프로그램 이용 가능해지면 알려드리겠습니다.",
-    "street_address": "도로명 주소"
+    "street_address": "도로명 주소",
+    "CL_DV_RF_freezer_gear_content": "단시간 급속 냉각"
 }

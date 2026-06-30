@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "لقد تم ربط حسابي *** وConnectLife الخاصين بك بنجاح.",
     "link_google_title": "يمكنك ربط Google بحساب ConnectLife الخاص بك",
     "link_google_confirm": "الموافقة والربط بجوجل",
-    "link_google_ability_title": "بمجرد ربط حسابك، فإنك تمنح جوجل الإذن بما يلي:",
+    "link_google_ability_title": "أنت تمنح جوجل الإذن بما يلي:",
     "link_google_ability_1": "اعرض قائمة أجهزتك المتصلة.",
     "link_google_ability_2": "عرض تفاصيل الجهاز، مثل الاسم والمعرف الفريد",
     "link_google_ability_3": "تحكم في أجهزتك واطلع على حالتها وإعداداتها.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "هل أنت متأكد من إلغاء اشتراكك في برنامج الاستجابة للطلب؟",
     "CL_DR_not_available": "غير متوفر في منطقتك بعد",
     "CL_DR_not_available_desc": "تعتمد خدمة الاستجابة للطلب على شركاء الطاقة المحليين. سنُعلمك عندما تصبح متاحة في منطقتك.",
-    "street_address": "عنوان الشارع"
+    "street_address": "عنوان الشارع",
+    "CL_DV_RF_freezer_gear_content": "التبريد السريع لفترة قصيرة"
 }

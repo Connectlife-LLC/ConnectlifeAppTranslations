@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Dina ***- och ConnectLife-konton har länkats.",
     "link_google_title": "Du kan länka Google till ditt ConnectLife-konto",
     "link_google_confirm": "ACCEPTERAR OCH LÄNKAR GOOGLE",
-    "link_google_ability_title": "När ditt konto är anslutet ger du Google tillåtelse att:",
+    "link_google_ability_title": "Du ger Google tillåtelse att:",
     "link_google_ability_1": "Visa en lista över dina anslutna enheter.",
     "link_google_ability_2": "Visa enhetsinformation, såsom namn och unikt ID",
     "link_google_ability_3": "Styr dina enheter och se deras status och inställningar.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Är du säker på att du vill avregistrera dig från programmet för efterfrågerespons?",
     "CL_DR_not_available": "INTE TILLGÄNGLIGT I DITT OMRÅDE ÄN",
     "CL_DR_not_available_desc": "Efterfrågeflexibilitet är beroende av lokala energipartners. Vi meddelar dig när det är tillgängligt där du bor.",
-    "street_address": "GATUADRESS"
+    "street_address": "GATUADRESS",
+    "CL_DV_RF_freezer_gear_content": "kortvarig snabb kylning"
 }
