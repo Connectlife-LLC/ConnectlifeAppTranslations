@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "*** アカウントと ConnectLife アカウントは正常にリンクされました。",
     "link_google_title": "Google を ConnectLife アカウントにリンクできます",
     "link_google_confirm": "同意して Google にリンクする",
-    "link_google_ability_title": "アカウントを接続すると、Googleに以下の権限を与えることになります。",
+    "link_google_ability_title": "あなたはGoogleに以下のことを許可しています：",
     "link_google_ability_1": "接続されているデバイスの一覧を表示します。",
     "link_google_ability_2": "デバイス名や固有IDなどの詳細情報を表示します。",
     "link_google_ability_3": "デバイスを操作し、その状態や設定を確認できます。",
@@ -8637,8 +8637,8 @@
     "CL_DV_WINE_general_volume": "一般向け",
     "CL_DV_WINE_traditional_lock": "伝統的な錠前",
     "CL_DV_RF_eco_micro_freeze_toast": "Crisper Drawer「微氷結」モードではECOモードは利用できません",
-    "CL_DV_RF_micro_freeze_temp_toast": "Crisper Drawer「微氷結」モードでは冷蔵庫の温度調整ができません",
-    "CL_DV_RF_eco_thaw_to_chilled_toast": "Crisper Drawerが「チルド」モードに切り替わりました",
+    "CL_DV_RF_micro_freeze_temp_toast": "セレクト室「微氷結」モードでは、冷蔵温度は調整できません",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "セレクト室が「チルド」モードに切り替わりました",
     "CL_DV_OV_baking_cycles": "ベーキングサイクル",
     "CL_DV_WINE_key_volume": "キーボリューム",
     "CL_DV_WINE_serving_guide": "盛り付けガイド",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "デマンドレスポンスプログラムの登録を解除してもよろしいですか？",
     "CL_DR_not_available": "お住まいの地域ではまだご利用いただけません",
     "CL_DR_not_available_desc": "デマンドレスポンスは、地域のエネルギーパートナーとの連携に依存しています。お住まいの地域で利用可能になった際には、お知らせいたします。",
-    "street_address": "住所"
+    "street_address": "住所",
+    "CL_DV_RF_freezer_gear_content": "粗熱取り"
 }

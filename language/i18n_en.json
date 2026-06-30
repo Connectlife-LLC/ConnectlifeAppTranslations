@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Your *** and ConnectLife accounts have been successfully linked.",
     "link_google_title": "You can link Google to your ConnectLife account",
     "link_google_confirm": "AGREE & LINK GOOGLE",
-    "link_google_ability_title": "Once your account is connected, you give Google permission to:",
+    "link_google_ability_title": "You're giving Google permission to:",
     "link_google_ability_1": "View a list of your connected devices.",
     "link_google_ability_2": "View device details, such as name and unique ID",
     "link_google_ability_3": "Control your devices and view their state and settings.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Are you sure to unenroll the Demand Response program?",
     "CL_DR_not_available": "NOT AVAILABLE IN YOUR AREA YET",
     "CL_DR_not_available_desc": "Demand Response depends on local energy partners. We'll let you know when it's available where you live.",
-    "street_address": "STREET ADDRESS"
+    "street_address": "STREET ADDRESS",
+    "CL_DV_RF_freezer_gear_content": "short-time rapid cooling"
 }
