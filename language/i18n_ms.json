@@ -8699,5 +8699,13 @@
     "CL_not_supported": "Tidak disokong",
     "CL_energy_statistics_energy_title": "Statistik Penggunaan Tenaga",
     "CL_energy_statistics_water_title": "Statistik Penggunaan Air",
-    "CL_energy_statistics_heating_title": "Statistik Kapasiti Pemanasan/Penyejukan"
+    "CL_energy_statistics_heating_title": "Statistik Kapasiti Pemanasan/Penyejukan",
+    "CL_DR_entrance_desc": "Program sukarela yang mengurangkan penggunaan tenaga penghawa dingin anda secara sementara semasa tempoh permintaan puncak. Sebagai balasan, anda berpeluang menerima faedah eksklusif daripada Hisense dan membantu memastikan grid kuasa stabil.",
+    "CL_DR_entrance_enrolled": "Anda telah mendaftar.",
+    "CL_DR_entrance_desc_confirming": "Mengesahkan dengan utiliti anda.",
+    "CL_DR_enroll": "DAFTAR",
+    "CL_DR_unenroll": "UNENROLL",
+    "CL_DR_unenroll_confirm_tips": "Adakah anda pasti untuk membatalkan pendaftaran program Respons Permintaan?",
+    "CL_DR_not_available": "BELUM TERSEDIA DI KAWASAN ANDA LAGI",
+    "CL_DR_not_available_desc": "Respons Permintaan bergantung pada rakan kongsi tenaga tempatan. Kami akan memberitahu anda apabila ia tersedia di tempat tinggal anda."
 }

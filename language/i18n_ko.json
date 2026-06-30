@@ -8699,5 +8699,13 @@
     "CL_not_supported": "지원되지 않음",
     "CL_energy_statistics_energy_title": "에너지 소비 통계",
     "CL_energy_statistics_water_title": "물 소비량 통계",
-    "CL_energy_statistics_heating_title": "난방/냉방 용량 통계"
+    "CL_energy_statistics_heating_title": "난방/냉방 용량 통계",
+    "CL_DR_entrance_desc": "전력 수요가 가장 많은 시간대에 에어컨의 에너지 사용량을 일시적으로 줄여주는 자발적 프로그램입니다. 참여하시면 하이센스에서 제공하는 특별 혜택을 받으실 수 있으며, 전력망 안정화에도 기여하실 수 있습니다.",
+    "CL_DR_entrance_enrolled": "등록이 완료되었습니다.",
+    "CL_DR_entrance_desc_confirming": "해당 유틸리티 회사에 확인 중입니다.",
+    "CL_DR_enroll": "싸다",
+    "CL_DR_unenroll": "등록 취소",
+    "CL_DR_unenroll_confirm_tips": "수요응답 프로그램에서 탈퇴하시는 것이 확실합니까?",
+    "CL_DR_not_available": "해당 지역에서는 아직 이용할 수 없습니다.",
+    "CL_DR_not_available_desc": "수요 반응 프로그램은 지역 에너지 파트너사에 따라 달라집니다. 거주 지역에서 프로그램 이용 가능해지면 알려드리겠습니다."
 }

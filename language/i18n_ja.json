@@ -8699,5 +8699,13 @@
     "CL_not_supported": "サポートされていません",
     "CL_energy_statistics_energy_title": "エネルギー消費統計",
     "CL_energy_statistics_water_title": "水消費量統計",
-    "CL_energy_statistics_heating_title": "暖房/冷房能力統計"
+    "CL_energy_statistics_heating_title": "暖房/冷房能力統計",
+    "CL_DR_entrance_desc": "電力需要のピーク時にエアコンのエネルギー消費量を一時的に削減する自主的なプログラムです。参加することで、ハイセンスからの特別な特典を受けられるだけでなく、電力網の安定化にも貢献できます。",
+    "CL_DR_entrance_enrolled": "登録が完了しました。",
+    "CL_DR_entrance_desc_confirming": "電力会社に確認中です。",
+    "CL_DR_enroll": "登録する",
+    "CL_DR_unenroll": "登録解除",
+    "CL_DR_unenroll_confirm_tips": "デマンドレスポンスプログラムの登録を解除してもよろしいですか？",
+    "CL_DR_not_available": "お住まいの地域ではまだご利用いただけません",
+    "CL_DR_not_available_desc": "デマンドレスポンスは、地域のエネルギーパートナーとの連携に依存しています。お住まいの地域で利用可能になった際には、お知らせいたします。"
 }

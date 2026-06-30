@@ -8699,5 +8699,13 @@
     "CL_not_supported": "לא נתמך",
     "CL_energy_statistics_energy_title": "סטטיסטיקות צריכת אנרגיה",
     "CL_energy_statistics_water_title": "סטטיסטיקות צריכת מים",
-    "CL_energy_statistics_heating_title": "סטטיסטיקות קיבולת חימום/קירור"
+    "CL_energy_statistics_heating_title": "סטטיסטיקות קיבולת חימום/קירור",
+    "CL_DR_entrance_desc": "תוכנית התנדבותית שמפחיתה לזמן קצר את צריכת האנרגיה של המזגן שלכם בתקופות שיא. בתמורה, תקבלו הטבות בלעדיות מ-Hisense ולעזור לשמור על יציבות רשת החשמל.",
+    "CL_DR_entrance_enrolled": "אתה רשום.",
+    "CL_DR_entrance_desc_confirming": "מאשר מול חברת החשמל שלך.",
+    "CL_DR_enroll": "לְהִרָשֵׁם",
+    "CL_DR_unenroll": "ביטול הרשמה",
+    "CL_DR_unenroll_confirm_tips": "האם אתה בטוח שברצונך לבטל את ההרשמה לתוכנית תגובת הביקוש?",
+    "CL_DR_not_available": "עדיין לא זמין באזור שלך",
+    "CL_DR_not_available_desc": "תגובת הביקוש תלויה בשותפי אנרגיה מקומיים. נודיע לך מתי היא תהיה זמינה במקום מגוריך."
 }
