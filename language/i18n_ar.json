@@ -8699,5 +8699,14 @@
     "CL_not_supported": "غير مدعوم",
     "CL_energy_statistics_energy_title": "إحصائيات استهلاك الطاقة",
     "CL_energy_statistics_water_title": "إحصائيات استهلاك المياه",
-    "CL_energy_statistics_heating_title": "إحصائيات سعة التدفئة/التبريد"
+    "CL_energy_statistics_heating_title": "إحصائيات سعة التدفئة/التبريد",
+    "CL_DR_entrance_desc": "برنامج تطوعي يُخفّض استهلاك مكيف الهواء للطاقة مؤقتًا خلال فترات ذروة الطلب. في المقابل، ستحصل على فرصة الاستفادة من مزايا حصرية من هايسنس، وستساهم في الحفاظ على استقرار شبكة الكهرباء.",
+    "CL_DR_entrance_enrolled": "لقد تم تسجيلك.",
+    "CL_DR_entrance_desc_confirming": "يرجى التأكد من ذلك مع شركة المرافق الخاصة بك.",
+    "CL_DR_enroll": "تسجل",
+    "CL_DR_unenroll": "إلغاء التسجيل",
+    "CL_DR_unenroll_confirm_tips": "هل أنت متأكد من إلغاء اشتراكك في برنامج الاستجابة للطلب؟",
+    "CL_DR_not_available": "غير متوفر في منطقتك بعد",
+    "CL_DR_not_available_desc": "تعتمد خدمة الاستجابة للطلب على شركاء الطاقة المحليين. سنُعلمك عندما تصبح متاحة في منطقتك.",
+    "street_address": "عنوان الشارع"
 }

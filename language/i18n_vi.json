@@ -8699,5 +8699,14 @@
     "CL_not_supported": "Không được hỗ trợ",
     "CL_energy_statistics_energy_title": "Thống kê tiêu thụ năng lượng",
     "CL_energy_statistics_water_title": "Thống kê tiêu thụ nước",
-    "CL_energy_statistics_heating_title": "Thống kê công suất sưởi/làm mát"
+    "CL_energy_statistics_heating_title": "Thống kê công suất sưởi/làm mát",
+    "CL_DR_entrance_desc": "Đây là chương trình tự nguyện giúp giảm tạm thời mức tiêu thụ điện của máy điều hòa trong thời gian cao điểm. Đổi lại, bạn sẽ có cơ hội nhận được những ưu đãi độc quyền từ Hisense và góp phần giữ ổn định lưới điện.",
+    "CL_DR_entrance_enrolled": "Bạn đã đăng ký thành công.",
+    "CL_DR_entrance_desc_confirming": "Tôi sẽ xác nhận lại với công ty cung cấp dịch vụ tiện ích của bạn.",
+    "CL_DR_enroll": "THAM GIA",
+    "CL_DR_unenroll": "HỦY ĐĂNG KÝ",
+    "CL_DR_unenroll_confirm_tips": "Bạn có chắc chắn muốn hủy đăng ký chương trình Demand Response không?",
+    "CL_DR_not_available": "CHƯA CÓ SẴN TẠI KHU VỰC CỦA BẠN",
+    "CL_DR_not_available_desc": "Chương trình Demand Response phụ thuộc vào các đối tác năng lượng địa phương. Chúng tôi sẽ thông báo cho bạn khi chương trình này khả dụng tại khu vực bạn sinh sống.",
+    "street_address": "ĐỊA CHỈ ĐƯỜNG PHỐ"
 }
