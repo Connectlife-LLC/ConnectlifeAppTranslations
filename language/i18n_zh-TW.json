@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "***和你的ConnectLife帳號綁定成功",
     "link_google_title": "你可以將Google和你的ConnectLife帳號綁定",
     "link_google_confirm": "同意&綁定GOOGLE",
-    "link_google_ability_title": "帳戶關聯後，即表示您授予 Google 以下權限：",
+    "link_google_ability_title": "您授予 Google 以下權限：",
     "link_google_ability_1": "查看已連接設備清單。",
     "link_google_ability_2": "查看設備詳細信息，例如名稱和唯一標識符",
     "link_google_ability_3": "控制您的設備並查看其狀態和設定。",
@@ -8636,9 +8636,9 @@
     "add_mobile_ac_2_2": "確認@device的顯示幕顯示“77”。\n 這意味著裝置已進入 Wi-Fi 配對模式。如果顯示幕未顯示“77”，請重複步驟 3。",
     "CL_DV_WINE_general_volume": "主音量",
     "CL_DV_WINE_traditional_lock": "傳統鎖",
-    "CL_DV_RF_eco_micro_freeze_toast": "Crisper Drawer「微冰結」模式下ECO模式不可用",
-    "CL_DV_RF_micro_freeze_temp_toast": "Crisper Drawer「微冰結」模式下無法調節冰箱溫度",
-    "CL_DV_RF_eco_thaw_to_chilled_toast": "Crisper Drawer 切換至「チルド」模式",
+    "CL_DV_RF_eco_micro_freeze_toast": "冰溫室「微冰結」模式下ECO模式不可用",
+    "CL_DV_RF_micro_freeze_temp_toast": "冰溫室「微冰結」模式下無法調節冷藏室溫度",
+    "CL_DV_RF_eco_thaw_to_chilled_toast": "冰溫室切換至「チルド」模式",
     "CL_DV_OV_baking_cycles": "烘焙循環",
     "CL_DV_WINE_key_volume": "關鍵卷",
     "CL_DV_WINE_serving_guide": "服務指南",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "您確定要退出需求回應計畫嗎？",
     "CL_DR_not_available": "您所在地區暫不可用",
     "CL_DR_not_available_desc": "需求響應取決於當地的能源合作夥伴。我們會通知您所在地區何時可以享受這項服務。",
-    "street_address": "街道地址"
+    "street_address": "街道地址",
+    "CL_DV_RF_freezer_gear_content": "粗熱取"
 }

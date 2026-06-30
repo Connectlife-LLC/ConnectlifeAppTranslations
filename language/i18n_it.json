@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "I tuoi account *** e ConnectLife sono stati collegati correttamente.",
     "link_google_title": "Puoi collegare Google al tuo account ConnectLife",
     "link_google_confirm": "ACCETTO E COLLEGA GOOGLE",
-    "link_google_ability_title": "Una volta collegato il tuo account, concedi a Google l'autorizzazione a:",
+    "link_google_ability_title": "Concedi a Google l'autorizzazione a:",
     "link_google_ability_1": "Visualizza l'elenco dei dispositivi connessi.",
     "link_google_ability_2": "Visualizza i dettagli del dispositivo, come il nome e l'ID univoco.",
     "link_google_ability_3": "Controlla i tuoi dispositivi e visualizza il loro stato e le impostazioni.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Vuoi annullare l'iscrizione al programma Demand Response?",
     "CL_DR_not_available": "NON ANCORA DISPONIBILE NELLA TUA ZONA",
     "CL_DR_not_available_desc": "La gestione della domanda dipende dai partner energetici locali. Ti avviseremo quando sarà disponibile nella tua zona.",
-    "street_address": "INDIRIZZO STRADALE"
+    "street_address": "INDIRIZZO STRADALE",
+    "CL_DV_RF_freezer_gear_content": "raffreddamento rapido di breve durata"
 }

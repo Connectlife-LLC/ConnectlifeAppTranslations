@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Tài khoản *** và ConnectLife của bạn đã được liên kết thành công.",
     "link_google_title": "Bạn có thể liên kết Google với tài khoản ConnectLife của mình",
     "link_google_confirm": "ĐỒNG Ý & LIÊN KẾT GOOGLE",
-    "link_google_ability_title": "Sau khi tài khoản của bạn được kết nối, bạn cấp cho Google quyền:",
+    "link_google_ability_title": "Bạn đang cấp cho Google quyền:",
     "link_google_ability_1": "Xem danh sách các thiết bị đã kết nối của bạn.",
     "link_google_ability_2": "Xem chi tiết thiết bị, chẳng hạn như tên và ID duy nhất.",
     "link_google_ability_3": "Kiểm soát các thiết bị của bạn và xem trạng thái cũng như cài đặt của chúng.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Bạn có chắc chắn muốn hủy đăng ký chương trình Demand Response không?",
     "CL_DR_not_available": "CHƯA CÓ SẴN TẠI KHU VỰC CỦA BẠN",
     "CL_DR_not_available_desc": "Chương trình Demand Response phụ thuộc vào các đối tác năng lượng địa phương. Chúng tôi sẽ thông báo cho bạn khi chương trình này khả dụng tại khu vực bạn sinh sống.",
-    "street_address": "ĐỊA CHỈ ĐƯỜNG PHỐ"
+    "street_address": "ĐỊA CHỈ ĐƯỜNG PHỐ",
+    "CL_DV_RF_freezer_gear_content": "làm mát nhanh trong thời gian ngắn"
 }
