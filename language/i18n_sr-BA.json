@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Ваши *** и ConnectLife налози су успешно повезани.",
     "link_google_title": "Можете да повежете Google са својим ConnectLife налогом",
     "link_google_confirm": "СЛАЖЕМ СЕ И ПОВЕЖИ GOOGLE",
-    "link_google_ability_title": "Када се ваш налог повеже, дајете Google-у дозволу да:",
+    "link_google_ability_title": "Дајете Google-у дозволу да:",
     "link_google_ability_1": "Погледајте листу повезаних уређаја.",
     "link_google_ability_2": "Погледајте детаље уређаја, као што су име и јединствени ИД",
     "link_google_ability_3": "Контролишите своје уређаје и прегледајте њихово стање и подешавања.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Да ли сте сигурни да желите да се одјавите из програма Demand Response?",
     "CL_DR_not_available": "ЈОШ УВЕК НИЈЕ ДОСТУПНО У ВАШЕМ ПОДРУЧЈУ",
     "CL_DR_not_available_desc": "Одговор на потражњу зависи од локалних енергетских партнера. Обавестићемо вас када буде доступан тамо где живите.",
-    "street_address": "УЛИЧНА АДРЕСА"
+    "street_address": "УЛИЧНА АДРЕСА",
+    "CL_DV_RF_freezer_gear_content": "краткотрајно брзо хлађење"
 }

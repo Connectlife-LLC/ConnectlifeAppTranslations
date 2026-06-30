@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "חשבונות *** ו-ConnectLife שלך קושרו בהצלחה.",
     "link_google_title": "אתה יכול לקשר את Google לחשבון ConnectLife שלך",
     "link_google_confirm": "מסכים וקשר לגוגל",
-    "link_google_ability_title": "לאחר שהחשבון שלך מחובר, אתה נותן לגוגל הרשאה ל:",
+    "link_google_ability_title": "אתה נותן לגוגל הרשאה ל:",
     "link_google_ability_1": "צפה ברשימה של המכשירים המחוברים שלך.",
     "link_google_ability_2": "הצג פרטי מכשיר, כגון שם ומזהה ייחודי",
     "link_google_ability_3": "שלטו במכשירים שלכם וצפו במצב ובהגדרות שלהם.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "האם אתה בטוח שברצונך לבטל את ההרשמה לתוכנית תגובת הביקוש?",
     "CL_DR_not_available": "עדיין לא זמין באזור שלך",
     "CL_DR_not_available_desc": "תגובת הביקוש תלויה בשותפי אנרגיה מקומיים. נודיע לך מתי היא תהיה זמינה במקום מגוריך.",
-    "street_address": "כתובת רחוב"
+    "street_address": "כתובת רחוב",
+    "CL_DV_RF_freezer_gear_content": "קירור מהיר לזמן קצר"
 }

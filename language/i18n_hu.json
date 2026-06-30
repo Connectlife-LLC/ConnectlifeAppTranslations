@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "*** és ConnectLife fiókja sikeresen összekapcsolva.",
     "link_google_title": "Összekapcsolhatja a Google-t ConnectLife-fiókjával",
     "link_google_confirm": "ELFOGADJ, ÉS KAPCSOLATOS A GOOGLE",
-    "link_google_ability_title": "Miután a fiókod csatlakoztatva van, engedélyt adsz a Google-nak a következőkre:",
+    "link_google_ability_title": "Engedélyt adsz a Google-nek a következőkre:",
     "link_google_ability_1": "Tekintse meg a csatlakoztatott eszközök listáját.",
     "link_google_ability_2": "Eszközadatok, például név és egyedi azonosító megtekintése",
     "link_google_ability_3": "Irányítsd az eszközeidet, és tekintsd meg azok állapotát és beállításait.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Biztosan leiratkozik a Demand Response programról?",
     "CL_DR_not_available": "MÉG NEM ELÉRHETŐ A KÖRNYÉKÉN",
     "CL_DR_not_available_desc": "A keresletoldali válasz a helyi energiapartnerektől függ. Értesíteni fogjuk, amikor elérhetővé válik az Ön lakóhelyén.",
-    "street_address": "UTCAI CÍM"
+    "street_address": "UTCAI CÍM",
+    "CL_DV_RF_freezer_gear_content": "rövid idejű gyors hűtés"
 }

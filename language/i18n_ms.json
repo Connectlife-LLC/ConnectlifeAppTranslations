@@ -2913,7 +2913,7 @@
     "link_xxx_successful": "Akaun *** dan ConnectLife anda telah berjaya dipautkan.",
     "link_google_title": "Anda boleh memautkan Google ke akaun ConnectLife anda",
     "link_google_confirm": "SETUJU & PAUT GOOGLE",
-    "link_google_ability_title": "Sebaik sahaja akaun anda disambungkan, anda memberi kebenaran kepada Google untuk:",
+    "link_google_ability_title": "Anda memberi kebenaran kepada Google untuk:",
     "link_google_ability_1": "Lihat senarai peranti anda yang disambungkan.",
     "link_google_ability_2": "Lihat butiran peranti, seperti nama dan ID unik",
     "link_google_ability_3": "Kawal peranti anda dan lihat keadaan serta tetapannya.",
@@ -8708,5 +8708,6 @@
     "CL_DR_unenroll_confirm_tips": "Adakah anda pasti untuk membatalkan pendaftaran program Respons Permintaan?",
     "CL_DR_not_available": "BELUM TERSEDIA DI KAWASAN ANDA LAGI",
     "CL_DR_not_available_desc": "Respons Permintaan bergantung pada rakan kongsi tenaga tempatan. Kami akan memberitahu anda apabila ia tersedia di tempat tinggal anda.",
-    "street_address": "ALAMAT JALAN"
+    "street_address": "ALAMAT JALAN",
+    "CL_DV_RF_freezer_gear_content": "penyejukan pantas dalam masa yang singkat"
 }
