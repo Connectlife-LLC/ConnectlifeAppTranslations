@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "JOŠ NIJE DOSTUPNO U VAŠEM PODRUČJU",
     "CL_DR_not_available_desc": "Odgovor na potražnju ovisi o lokalnim energetskim partnerima. Obavijestit ćemo vas kada bude dostupan tamo gdje živite.",
     "street_address": "ADRESA ULICE",
-    "CL_DV_RF_freezer_gear_content": "kratkotrajno brzo hlađenje"
+    "CL_DV_RF_freezer_gear_content": "kratkotrajno brzo hlađenje",
+    "CL_data_request_execute_permission_tips": "Već ste zatražili ovu uslugu.",
+    "CL_AI_agent_focus_recognize_count_text": "Pronašao/la sam ## stavki. Dodirnite bilo koju stavku da biste saznali više ili postavili pitanje o njoj.",
+    "CL_DV_WINE_please_open_remote": "Uključite daljinsko upravljanje na uređaju."
 }

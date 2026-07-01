@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "您所在地區暫不可用",
     "CL_DR_not_available_desc": "需求響應取決於當地的能源合作夥伴。我們會通知您所在地區何時可以享受這項服務。",
     "street_address": "街道地址",
-    "CL_DV_RF_freezer_gear_content": "粗熱取"
+    "CL_DV_RF_freezer_gear_content": "粗熱取",
+    "CL_data_request_execute_permission_tips": "您已申請過此項服務。",
+    "CL_AI_agent_focus_recognize_count_text": "我找到了##件商品。點擊任何商品即可了解更多資訊或提出相關問題。",
+    "CL_DV_WINE_please_open_remote": "請開啟設備上的遙控器。"
 }

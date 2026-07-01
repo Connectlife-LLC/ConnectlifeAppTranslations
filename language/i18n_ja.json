@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "お住まいの地域ではまだご利用いただけません",
     "CL_DR_not_available_desc": "デマンドレスポンスは、地域のエネルギーパートナーとの連携に依存しています。お住まいの地域で利用可能になった際には、お知らせいたします。",
     "street_address": "住所",
-    "CL_DV_RF_freezer_gear_content": "粗熱取り"
+    "CL_DV_RF_freezer_gear_content": "粗熱取り",
+    "CL_data_request_execute_permission_tips": "このサービスは既にリクエスト済みです。",
+    "CL_AI_agent_focus_recognize_count_text": "##個のアイテムが見つかりました。各アイテムをタップすると、詳細を確認したり、質問したりできます。",
+    "CL_DV_WINE_please_open_remote": "リモート操作をオンにしてください。"
 }

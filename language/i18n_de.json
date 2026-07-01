@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "IN IHRER REGION NOCH NICHT VERFÜGBAR",
     "CL_DR_not_available_desc": "Die Laststeuerung ist von lokalen Energiepartnern abhängig. Wir informieren Sie, sobald sie an Ihrem Wohnort verfügbar ist.",
     "street_address": "STRASSENADRESSE",
-    "CL_DV_RF_freezer_gear_content": "kurzzeitige schnelle Kühlung"
+    "CL_DV_RF_freezer_gear_content": "kurzzeitige schnelle Kühlung",
+    "CL_data_request_execute_permission_tips": "Sie haben diesen Service bereits angefordert.",
+    "CL_AI_agent_focus_recognize_count_text": "Ich habe ## Artikel gefunden. Tippe auf einen Artikel, um mehr darüber zu erfahren oder eine Frage dazu zu stellen.",
+    "CL_DV_WINE_please_open_remote": "Apri la funzione “Controllo remoto” sul dispositivo."
 }

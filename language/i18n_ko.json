@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "해당 지역에서는 아직 이용할 수 없습니다.",
     "CL_DR_not_available_desc": "수요 반응 프로그램은 지역 에너지 파트너사에 따라 달라집니다. 거주 지역에서 프로그램 이용 가능해지면 알려드리겠습니다.",
     "street_address": "도로명 주소",
-    "CL_DV_RF_freezer_gear_content": "단시간 급속 냉각"
+    "CL_DV_RF_freezer_gear_content": "단시간 급속 냉각",
+    "CL_data_request_execute_permission_tips": "이미 이 서비스를 요청하셨습니다.",
+    "CL_AI_agent_focus_recognize_count_text": "##개의 항목을 찾았습니다. 항목을 탭하면 자세한 내용을 보거나 질문을 할 수 있습니다.",
+    "CL_DV_WINE_please_open_remote": "기기에서 원격 제어를 켜주세요"
 }

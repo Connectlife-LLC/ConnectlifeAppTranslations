@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "BELUM TERSEDIA DI KAWASAN ANDA LAGI",
     "CL_DR_not_available_desc": "Respons Permintaan bergantung pada rakan kongsi tenaga tempatan. Kami akan memberitahu anda apabila ia tersedia di tempat tinggal anda.",
     "street_address": "ALAMAT JALAN",
-    "CL_DV_RF_freezer_gear_content": "penyejukan pantas dalam masa yang singkat"
+    "CL_DV_RF_freezer_gear_content": "penyejukan pantas dalam masa yang singkat",
+    "CL_data_request_execute_permission_tips": "Anda telah pun meminta perkhidmatan ini.",
+    "CL_AI_agent_focus_recognize_count_text": "Saya jumpa ## item. Ketik mana-mana item untuk mengetahui lebih lanjut atau bertanya soalan mengenainya.",
+    "CL_DV_WINE_please_open_remote": "Sila hidupkan kawalan jauh pada peranti."
 }

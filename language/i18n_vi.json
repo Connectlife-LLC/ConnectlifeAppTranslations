@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "CHƯA CÓ SẴN TẠI KHU VỰC CỦA BẠN",
     "CL_DR_not_available_desc": "Chương trình Demand Response phụ thuộc vào các đối tác năng lượng địa phương. Chúng tôi sẽ thông báo cho bạn khi chương trình này khả dụng tại khu vực bạn sinh sống.",
     "street_address": "ĐỊA CHỈ ĐƯỜNG PHỐ",
-    "CL_DV_RF_freezer_gear_content": "làm mát nhanh trong thời gian ngắn"
+    "CL_DV_RF_freezer_gear_content": "làm mát nhanh trong thời gian ngắn",
+    "CL_data_request_execute_permission_tips": "Bạn đã yêu cầu dịch vụ này rồi.",
+    "CL_AI_agent_focus_recognize_count_text": "Tôi tìm thấy ## mục. Chạm vào bất kỳ mục nào để tìm hiểu thêm hoặc đặt câu hỏi về mục đó.",
+    "CL_DV_WINE_please_open_remote": "Vui lòng bật điều khiển từ xa trên thiết bị."
 }

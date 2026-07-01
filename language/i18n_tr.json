@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "HENÜZ BÖLGENİZDE MEVCUT DEĞİL",
     "CL_DR_not_available_desc": "Talep Yanıtı, yerel enerji ortaklarına bağlıdır. Bulunduğunuz yerde ne zaman kullanılabilir hale geleceğini size bildireceğiz.",
     "street_address": "AÇIK ADRES",
-    "CL_DV_RF_freezer_gear_content": "kısa süreli hızlı soğutma"
+    "CL_DV_RF_freezer_gear_content": "kısa süreli hızlı soğutma",
+    "CL_data_request_execute_permission_tips": "Bu hizmeti daha önce talep ettiniz.",
+    "CL_AI_agent_focus_recognize_count_text": "## öğe buldum. Daha fazla bilgi edinmek veya soru sormak için herhangi bir öğeye dokunun.",
+    "CL_DV_WINE_please_open_remote": "Lütfen cihazda uzaktan kumandayı açın."
 }

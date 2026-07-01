@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "NU ESTE DISPONIBIL ÎN ZONA DUMNEAVOASTRĂ ÎNCĂ",
     "CL_DR_not_available_desc": "Răspunsul la cerere depinde de partenerii energetici locali. Vă vom anunța când va fi disponibil acolo unde locuiți.",
     "street_address": "ADRESĂ",
-    "CL_DV_RF_freezer_gear_content": "răcire rapidă pe termen scurt"
+    "CL_DV_RF_freezer_gear_content": "răcire rapidă pe termen scurt",
+    "CL_data_request_execute_permission_tips": "Ați solicitat deja acest serviciu.",
+    "CL_AI_agent_focus_recognize_count_text": "Am găsit ## articole. Atingeți orice articol pentru a afla mai multe sau pentru a pune o întrebare despre acesta.",
+    "CL_DV_WINE_please_open_remote": "Vă rugăm să activați controlul la distanță pe dispozitiv."
 }

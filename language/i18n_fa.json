@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "هنوز در منطقه شما موجود نیست",
     "CL_DR_not_available_desc": "پاسخگویی به تقاضا به شرکای انرژی محلی بستگی دارد. ما به شما اطلاع خواهیم داد که چه زمانی در محل زندگی شما در دسترس قرار می‌گیرد.",
     "street_address": "آدرس خیابان",
-    "CL_DV_RF_freezer_gear_content": "خنک سازی سریع کوتاه مدت"
+    "CL_DV_RF_freezer_gear_content": "خنک سازی سریع کوتاه مدت",
+    "CL_data_request_execute_permission_tips": "شما قبلاً این سرویس را درخواست کرده‌اید.",
+    "CL_AI_agent_focus_recognize_count_text": "من ## مورد پیدا کردم. برای کسب اطلاعات بیشتر یا پرسیدن سوال در مورد هر مورد، روی آن ضربه بزنید.",
+    "CL_DV_WINE_please_open_remote": "لطفاً کنترل از راه دور را روی دستگاه فعال کنید."
 }

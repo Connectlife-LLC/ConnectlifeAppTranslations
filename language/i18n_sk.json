@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "ZATIAĽ NIE JE DOSTUPNÉ VO VAŠEJ OBLASTI",
     "CL_DR_not_available_desc": "Služba Demand Response závisí od miestnych energetických partnerov. Dáme vám vedieť, kedy bude k dispozícii vo vašom okolí.",
     "street_address": "ADRESA ULICE",
-    "CL_DV_RF_freezer_gear_content": "krátkodobé rýchle ochladenie"
+    "CL_DV_RF_freezer_gear_content": "krátkodobé rýchle ochladenie",
+    "CL_data_request_execute_permission_tips": "Túto službu ste už požiadali.",
+    "CL_AI_agent_focus_recognize_count_text": "Našiel som ## položiek. Klepnutím na ľubovoľnú položku sa dozviete viac alebo sa na ňu opýtate.",
+    "CL_DV_WINE_please_open_remote": "Prosím, zapnite diaľkové ovládanie na zariadení."
 }

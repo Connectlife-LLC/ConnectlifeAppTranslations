@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "EI VIELÄ SAATAVILLA ALUEELLASI",
     "CL_DR_not_available_desc": "Kysynnänjousto riippuu paikallisista energiakumppaneista. Ilmoitamme sinulle, kun se on saatavilla asuinalueellasi.",
     "street_address": "KATUOSOITE",
-    "CL_DV_RF_freezer_gear_content": "lyhytaikainen nopea jäähdytys"
+    "CL_DV_RF_freezer_gear_content": "lyhytaikainen nopea jäähdytys",
+    "CL_data_request_execute_permission_tips": "Olet jo pyytänyt tätä palvelua.",
+    "CL_AI_agent_focus_recognize_count_text": "Löysin ## kohdetta. Napauta mitä tahansa kohdetta saadaksesi lisätietoja tai kysyäksesi siitä kysymyksen.",
+    "CL_DV_WINE_please_open_remote": "Ole hyvä ja kytke etälaukaisu laitteeseen päälle."
 }

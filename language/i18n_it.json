@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "NON ANCORA DISPONIBILE NELLA TUA ZONA",
     "CL_DR_not_available_desc": "La gestione della domanda dipende dai partner energetici locali. Ti avviseremo quando sarà disponibile nella tua zona.",
     "street_address": "INDIRIZZO STRADALE",
-    "CL_DV_RF_freezer_gear_content": "raffreddamento rapido di breve durata"
+    "CL_DV_RF_freezer_gear_content": "raffreddamento rapido di breve durata",
+    "CL_data_request_execute_permission_tips": "Hai già richiesto questo servizio.",
+    "CL_AI_agent_focus_recognize_count_text": "Ho trovato ## elementi. Tocca un elemento qualsiasi per saperne di più o per fare una domanda al riguardo.",
+    "CL_DV_WINE_please_open_remote": "Si prega di attivare il controllo remoto sul dispositivo."
 }

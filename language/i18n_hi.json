@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "आपके क्षेत्र में अभी उपलब्ध नहीं है",
     "CL_DR_not_available_desc": "डिमांड रिस्पॉन्स स्थानीय ऊर्जा साझेदारों पर निर्भर करता है। जब यह आपके क्षेत्र में उपलब्ध होगा, हम आपको सूचित करेंगे।",
     "street_address": "पता",
-    "CL_DV_RF_freezer_gear_content": "अल्पकालिक तीव्र शीतलन"
+    "CL_DV_RF_freezer_gear_content": "अल्पकालिक तीव्र शीतलन",
+    "CL_data_request_execute_permission_tips": "आप पहले ही इस सेवा के लिए अनुरोध कर चुके हैं।",
+    "CL_AI_agent_focus_recognize_count_text": "मुझे ## आइटम मिले। किसी भी आइटम के बारे में अधिक जानने या प्रश्न पूछने के लिए उस पर टैप करें।",
+    "CL_DV_WINE_please_open_remote": "कृपया उपकरण पर रिमोट कंट्रोल सक्षम करें।"
 }

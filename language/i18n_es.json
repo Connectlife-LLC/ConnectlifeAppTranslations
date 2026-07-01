@@ -7418,7 +7418,7 @@
     "CL_AC_co2_poor": "Pobre",
     "CL_AC_es_leave_home": "MODO SALIR DE CASA",
     "CL_AC_es_leave_home_content": "Nota: En el modo SALIR DE CASA, el aire acondicionado funcionará en el modo de ahorro de energía preconfigurado por el fabricante, en lugar de apagarse por completo. Asegúrese de que no haya personas en casa para evitar molestias causadas por los cambios de temperatura en este modo.",
-    "CL_AC_es_leave_mode": "HABILITAR EL MODO SALIR DE CASA",
+    "CL_AC_es_leave_mode": "HABILITAR EL MODO FUERA DE CASA",
     "CL_CF_CS_hob_elica_integrated_p_2": "Mantenga presionado el botón Wi-Fi durante 6 segundos. \n El dispositivo ahora está listo para emparejarse durante 3 minutos. \n Haga clic en SIGUIENTE para continuar.",
     "CL_DV_LRC_not_linked": "No vinculado",
     "CL_DV_LRC_linked": "Vinculado",
@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "AÚN NO ESTÁ DISPONIBLE EN TU ZONA",
     "CL_DR_not_available_desc": "La gestión de la demanda depende de los proveedores de energía locales. Le avisaremos cuando esté disponible en su zona.",
     "street_address": "DIRECCIÓN CALLEJERA",
-    "CL_DV_RF_freezer_gear_content": "enfriamiento rápido de corta duración"
+    "CL_DV_RF_freezer_gear_content": "enfriamiento rápido de corta duración",
+    "CL_data_request_execute_permission_tips": "Ya has solicitado este servicio.",
+    "CL_AI_agent_focus_recognize_count_text": "Encontré ## artículos. Toca cualquier artículo para obtener más información o hacer una pregunta al respecto.",
+    "CL_DV_WINE_please_open_remote": "Por favor, encienda el control remoto en el dispositivo."
 }

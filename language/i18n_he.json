@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "עדיין לא זמין באזור שלך",
     "CL_DR_not_available_desc": "תגובת הביקוש תלויה בשותפי אנרגיה מקומיים. נודיע לך מתי היא תהיה זמינה במקום מגוריך.",
     "street_address": "כתובת רחוב",
-    "CL_DV_RF_freezer_gear_content": "קירור מהיר לזמן קצר"
+    "CL_DV_RF_freezer_gear_content": "קירור מהיר לזמן קצר",
+    "CL_data_request_execute_permission_tips": "כבר ביקשת שירות זה.",
+    "CL_AI_agent_focus_recognize_count_text": "מצאתי ## פריטים. הקש על כל פריט כדי ללמוד עוד או לשאול שאלה לגביו.",
+    "CL_DV_WINE_please_open_remote": "בבקשה הפעל את השלט המרחוק על המכשיר."
 }

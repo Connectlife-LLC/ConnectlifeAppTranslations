@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "NIEDOSTĘPNE JESZCZE W TWOJEJ OKOLICY",
     "CL_DR_not_available_desc": "Usługa Demand Response zależy od lokalnych partnerów energetycznych. Poinformujemy Cię, kiedy będzie dostępna w Twojej okolicy.",
     "street_address": "ADRES ULICY",
-    "CL_DV_RF_freezer_gear_content": "krótkotrwałe szybkie chłodzenie"
+    "CL_DV_RF_freezer_gear_content": "krótkotrwałe szybkie chłodzenie",
+    "CL_data_request_execute_permission_tips": "Już poprosiłeś o tę usługę.",
+    "CL_AI_agent_focus_recognize_count_text": "Znalazłem ## pozycji. Kliknij dowolną pozycję, aby dowiedzieć się więcej lub zadać pytanie na jej temat.",
+    "CL_DV_WINE_please_open_remote": "Proszę włączyć zdalne sterowanie na urządzeniu."
 }

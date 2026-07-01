@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "NOT AVAILABLE IN YOUR AREA YET",
     "CL_DR_not_available_desc": "Demand Response depends on local energy partners. We'll let you know when it's available where you live.",
     "street_address": "STREET ADDRESS",
-    "CL_DV_RF_freezer_gear_content": "short-time rapid cooling"
+    "CL_DV_RF_freezer_gear_content": "short-time rapid cooling",
+    "CL_data_request_execute_permission_tips": "You have already requested this service.",
+    "CL_AI_agent_focus_recognize_count_text": "I found ## items. Tap any item to learn more or ask a question about it.",
+    "CL_DV_WINE_please_open_remote": "Please turn on the remote control on the device."
 }
