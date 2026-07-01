@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "IKKE TILGJENGELIG I DITT OMRÅDE ENNÅ",
     "CL_DR_not_available_desc": "Etterspørselsrespons er avhengig av lokale energipartnere. Vi gir deg beskjed når det er tilgjengelig der du bor.",
     "street_address": "GATEADRESSE",
-    "CL_DV_RF_freezer_gear_content": "kortvarig rask avkjøling"
+    "CL_DV_RF_freezer_gear_content": "kortvarig rask avkjøling",
+    "CL_data_request_execute_permission_tips": "Du har allerede bedt om denne tjenesten.",
+    "CL_AI_agent_focus_recognize_count_text": "Jeg fant ## elementer. Trykk på et hvilket som helst element for å finne ut mer eller stille et spørsmål om det.",
+    "CL_DV_WINE_please_open_remote": "Vennligst slå på fjernkontrollen på enheten."
 }

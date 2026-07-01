@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "ZATÍM NENÍ K DISPOZICI VE VAŠÍ OBLASTI",
     "CL_DR_not_available_desc": "Služba Demand Response závisí na místních energetických partnerech. Dáme vám vědět, až bude k dispozici ve vašem místě bydliště.",
     "street_address": "ADRESA ULICE",
-    "CL_DV_RF_freezer_gear_content": "krátkodobé rychlé ochlazení"
+    "CL_DV_RF_freezer_gear_content": "krátkodobé rychlé ochlazení",
+    "CL_data_request_execute_permission_tips": "O tuto službu jste již požádali.",
+    "CL_AI_agent_focus_recognize_count_text": "Našel(a) jsem ## položek. Klepnutím na libovolnou položku se dozvíte více nebo se na ni zeptejte.",
+    "CL_DV_WINE_please_open_remote": "Prosím, zapněte dálkové ovládání na zařízení."
 }

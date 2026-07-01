@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "MÉG NEM ELÉRHETŐ A KÖRNYÉKÉN",
     "CL_DR_not_available_desc": "A keresletoldali válasz a helyi energiapartnerektől függ. Értesíteni fogjuk, amikor elérhetővé válik az Ön lakóhelyén.",
     "street_address": "UTCAI CÍM",
-    "CL_DV_RF_freezer_gear_content": "rövid idejű gyors hűtés"
+    "CL_DV_RF_freezer_gear_content": "rövid idejű gyors hűtés",
+    "CL_data_request_execute_permission_tips": "Már igényelte ezt a szolgáltatást.",
+    "CL_AI_agent_focus_recognize_count_text": "## elemet találtam. Koppintson bármelyik elemre, ha többet szeretne megtudni róla, vagy kérdést szeretne feltenni róla.",
+    "CL_DV_WINE_please_open_remote": "Kérjük, kapcsolja be a távoli vezérlést az eszközön."
 }

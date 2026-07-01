@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "PAS ENCORE DISPONIBLE DANS VOTRE RÉGION",
     "CL_DR_not_available_desc": "La gestion de la demande dépend de nos partenaires énergétiques locaux. Nous vous informerons dès qu'elle sera disponible dans votre région.",
     "street_address": "ADRESSE DE LA RUE",
-    "CL_DV_RF_freezer_gear_content": "refroidissement rapide de courte durée"
+    "CL_DV_RF_freezer_gear_content": "refroidissement rapide de courte durée",
+    "CL_data_request_execute_permission_tips": "Vous avez déjà demandé ce service.",
+    "CL_AI_agent_focus_recognize_count_text": "J'ai trouvé ## articles. Touchez un article pour en savoir plus ou poser une question à son sujet.",
+    "CL_DV_WINE_please_open_remote": "Veuillez activer la télécommande sur l'appareil."
 }

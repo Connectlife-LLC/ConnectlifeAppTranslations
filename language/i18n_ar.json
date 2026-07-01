@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "غير متوفر في منطقتك بعد",
     "CL_DR_not_available_desc": "تعتمد خدمة الاستجابة للطلب على شركاء الطاقة المحليين. سنُعلمك عندما تصبح متاحة في منطقتك.",
     "street_address": "عنوان الشارع",
-    "CL_DV_RF_freezer_gear_content": "التبريد السريع لفترة قصيرة"
+    "CL_DV_RF_freezer_gear_content": "التبريد السريع لفترة قصيرة",
+    "CL_data_request_execute_permission_tips": "لقد طلبت هذه الخدمة بالفعل.",
+    "CL_AI_agent_focus_recognize_count_text": "لقد عثرت على ## عنصر. انقر على أي عنصر لمعرفة المزيد عنه أو لطرح سؤال بشأنه.",
+    "CL_DV_WINE_please_open_remote": "يرجى تشغيل التحكم عن بُعد على الجهاز."
 }

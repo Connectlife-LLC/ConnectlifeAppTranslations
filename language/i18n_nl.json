@@ -8709,5 +8709,8 @@
     "CL_DR_not_available": "NOG NIET BESCHIKBAAR IN UW REGIO",
     "CL_DR_not_available_desc": "Vraagsturing is afhankelijk van lokale energiepartners. We laten u weten wanneer het bij u in de buurt beschikbaar is.",
     "street_address": "STRAATADRES",
-    "CL_DV_RF_freezer_gear_content": "kortdurende snelle koeling"
+    "CL_DV_RF_freezer_gear_content": "kortdurende snelle koeling",
+    "CL_data_request_execute_permission_tips": "U heeft deze service al eerder aangevraagd.",
+    "CL_AI_agent_focus_recognize_count_text": "Ik heb ## items gevonden. Tik op een item om meer te weten te komen of een vraag te stellen.",
+    "CL_DV_WINE_please_open_remote": "Gelieve de afstandsbediening op het apparaat in te schakelen."
 }
