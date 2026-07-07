@@ -8668,7 +8668,7 @@
     "turn_on_eco_mode": "开启节能模式",
     "turn_on_turbo": "开启涡轮增压",
     "test_key": "你好  %world%  冬天。",
-    "CL_DV_RF_speed_cool_freeze_info2": "是否开启超级冷冻模式。",
+    "CL_DV_RF_speed_cool_freeze_info2": "是否开启速冻模式。",
     "ai_trouble_shooting_app_eg1": "我的设备离线了，该怎么办？",
     "ai_trouble_shooting_app_eg2": "添加设备时二维码无法正常工作。",
     "ai_trouble_shooting_app_eg3": "我无法通过应用程序启动烤箱。",
