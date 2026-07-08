@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Folosește nivelul de uscare care corespunde nevoilor tale.",
     "CL_DV_LRC_your_program_is": "Programul dumneavoastră este",
     "CL_BT_AUDIO_ota_hint": "Înainte de a actualiza firmware-ul, asigurați-vă că ați introdus cablul de alimentare CA sau cablul de tip C în dispozitiv.",
-    "CL_DV_WC_light_color_cold": "RECE"
+    "CL_DV_WC_light_color_cold": "RECE",
+    "missing_country_information": "Informații lipsă despre țară",
+    "missing_country_description": "Pentru a continua să utilizați toate funcțiile aplicației ConnectLife, introduceți țara dvs. în câmpul de mai jos și salvați modificările."
 }

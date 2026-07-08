@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "השתמשו ברמת היובש המתאימה לצרכים שלכם.",
     "CL_DV_LRC_your_program_is": "התוכנית שלך היא",
     "CL_BT_AUDIO_ota_hint": "לפני עדכון הקושחה, ודא שכבל AC או כבל מסוג C מחובר למכשיר.",
-    "CL_DV_WC_light_color_cold": "קַר"
+    "CL_DV_WC_light_color_cold": "קַר",
+    "missing_country_information": "מידע חסר על המדינה",
+    "missing_country_description": "כדי להמשיך להשתמש בכל התכונות של אפליקציית ConnectLife, הזינו את המדינה שלכם בשדה למטה ושמרו את השינויים."
 }

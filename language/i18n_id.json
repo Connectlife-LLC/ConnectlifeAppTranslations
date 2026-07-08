@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Gunakan tingkat kekeringan yang sesuai dengan kebutuhan Anda.",
     "CL_DV_LRC_your_program_is": "Program Anda adalah",
     "CL_BT_AUDIO_ota_hint": "Sebelum memperbarui firmware, pastikan kabel AC atau kabel tipe-C telah terpasang pada perangkat.",
-    "CL_DV_WC_light_color_cold": "DINGIN"
+    "CL_DV_WC_light_color_cold": "DINGIN",
+    "missing_country_information": "Informasi negara hilang",
+    "missing_country_description": "Untuk terus menggunakan semua fitur aplikasi ConnectLife, masukkan negara Anda di kolom di bawah ini dan simpan perubahannya."
 }

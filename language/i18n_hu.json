@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Használja az igényeinek megfelelő szárazsági szintet.",
     "CL_DV_LRC_your_program_is": "A programod",
     "CL_BT_AUDIO_ota_hint": "A firmware frissítése előtt győződjön meg arról, hogy a hálózati kábel vagy a C típusú kábel csatlakoztatva van az eszközhöz.",
-    "CL_DV_WC_light_color_cold": "HIDEG"
+    "CL_DV_WC_light_color_cold": "HIDEG",
+    "missing_country_information": "Hiányzó országinformációk",
+    "missing_country_description": "A ConnectLife alkalmazás összes funkciójának további használatához adja meg országát az alábbi mezőben, és mentse el a módosításokat."
 }

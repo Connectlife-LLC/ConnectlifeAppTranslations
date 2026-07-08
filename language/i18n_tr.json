@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "İhtiyaçlarınıza uygun kuruluk seviyesini kullanın.",
     "CL_DV_LRC_your_program_is": "Programınız",
     "CL_BT_AUDIO_ota_hint": "Firmware güncellemesini yapmadan önce lütfen AC kablosunun veya Type-C kablosunun cihaza takılı olduğundan emin olun.",
-    "CL_DV_WC_light_color_cold": "SOĞUK"
+    "CL_DV_WC_light_color_cold": "SOĞUK",
+    "missing_country_information": "Ülke bilgisi eksik",
+    "missing_country_description": "ConnectLife uygulamasının tüm özelliklerini kullanmaya devam etmek için, aşağıdaki alana ülkenizi girin ve değişiklikleri kaydedin."
 }

@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Käytä tarpeitasi vastaavaa kuivuustasoa.",
     "CL_DV_LRC_your_program_is": "Ohjelmasi on",
     "CL_BT_AUDIO_ota_hint": "Ennen laiteohjelmiston päivittämistä varmista, että verkkovirtakaapeli tai C-tyypin kaapeli on kytketty laitteeseen.",
-    "CL_DV_WC_light_color_cold": "KYLMÄ"
+    "CL_DV_WC_light_color_cold": "KYLMÄ",
+    "missing_country_information": "Puuttuva maatieto",
+    "missing_country_description": "Jos haluat jatkaa ConnectLife-sovelluksen kaikkien ominaisuuksien käyttöä, anna maasi alla olevaan kenttään ja tallenna muutokset."
 }

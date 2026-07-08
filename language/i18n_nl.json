@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Gebruik de droogtegraad die het beste bij uw behoeften past.",
     "CL_DV_LRC_your_program_is": "Uw programma is",
     "CL_BT_AUDIO_ota_hint": "Voordat u de firmware bijwerkt, moet u ervoor zorgen dat de netstroomkabel of de USB-C-kabel in het apparaat is aangesloten.",
-    "CL_DV_WC_light_color_cold": "KOUD"
+    "CL_DV_WC_light_color_cold": "KOUD",
+    "missing_country_information": "Ontbrekende landinformatie",
+    "missing_country_description": "Om alle functies van de ConnectLife-app te blijven gebruiken, voer je je land in het onderstaande veld in en sla je de wijzigingen op."
 }
