@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Utilice el nivel de sequedad que mejor se adapte a sus necesidades.",
     "CL_DV_LRC_your_program_is": "Tu programa es",
     "CL_BT_AUDIO_ota_hint": "Antes de actualizar el firmware, asegúrese de que el cable de alimentación o el cable tipo C estén conectados al dispositivo.",
-    "CL_DV_WC_light_color_cold": "FRÍO"
+    "CL_DV_WC_light_color_cold": "FRÍO",
+    "missing_country_information": "Información del país faltante",
+    "missing_country_description": "Para seguir utilizando todas las funciones de la aplicación ConnectLife, introduzca su país en el campo siguiente y guarde los cambios."
 }

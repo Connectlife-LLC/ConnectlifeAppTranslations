@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "از سطح خشکی متناسب با نیازهای خود استفاده کنید.",
     "CL_DV_LRC_your_program_is": "برنامه شما این است",
     "CL_BT_AUDIO_ota_hint": "قبل از به‌روزرسانی میان‌افزار، لطفاً مطمئن شوید که کابل برق متناوب یا کابل نوع C به دستگاه وصل شده است.",
-    "CL_DV_WC_light_color_cold": "سرد"
+    "CL_DV_WC_light_color_cold": "سرد",
+    "missing_country_information": "اطلاعات کشور گمشده",
+    "missing_country_description": "برای ادامه استفاده از تمام ویژگی‌های برنامه ConnectLife، کشور خود را در فیلد زیر وارد کنید و تغییرات را ذخیره کنید."
 }

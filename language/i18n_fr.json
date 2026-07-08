@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Utilisez le niveau de séchage qui correspond à vos besoins.",
     "CL_DV_LRC_your_program_is": "Votre programme est",
     "CL_BT_AUDIO_ota_hint": "Avant de mettre à jour le firmware, veuillez vous assurer que le câble d'alimentation ou le câble de type C est branché à l'appareil.",
-    "CL_DV_WC_light_color_cold": "FROID"
+    "CL_DV_WC_light_color_cold": "FROID",
+    "missing_country_information": "Informations sur le pays manquant",
+    "missing_country_description": "Pour continuer à utiliser toutes les fonctionnalités de l'application ConnectLife, veuillez saisir votre pays dans le champ ci-dessous et enregistrer les modifications."
 }

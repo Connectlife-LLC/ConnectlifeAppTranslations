@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "选择符合您需求的干燥程度。",
     "CL_DV_LRC_your_program_is": "您的程序是",
     "CL_BT_AUDIO_ota_hint": "更新固件之前，请确保已将交流电源线或C型电源线插入设备。",
-    "CL_DV_WC_light_color_cold": "冷色调"
+    "CL_DV_WC_light_color_cold": "冷色调",
+    "missing_country_information": "缺少国家信息",
+    "missing_country_description": "要继续使用 ConnectLife 应用的所有功能，请在下面的字段中输入您的国家/地区并保存更改。"
 }

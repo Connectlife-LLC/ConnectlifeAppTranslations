@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Utilizza il livello di asciugatura più adatto alle tue esigenze.",
     "CL_DV_LRC_your_program_is": "Il tuo programma è",
     "CL_BT_AUDIO_ota_hint": "Prima di aggiornare il firmware, assicurarsi che il cavo di alimentazione CA o il cavo di tipo C siano inseriti nel dispositivo.",
-    "CL_DV_WC_light_color_cold": "FREDDO"
+    "CL_DV_WC_light_color_cold": "FREDDO",
+    "missing_country_information": "Informazioni sul paese mancanti",
+    "missing_country_description": "Per continuare a utilizzare tutte le funzionalità dell'app ConnectLife, inserisci il tuo Paese nel campo sottostante e salva le modifiche."
 }

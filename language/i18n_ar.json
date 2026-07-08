@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "استخدم مستوى الجفاف الذي يناسب احتياجاتك.",
     "CL_DV_LRC_your_program_is": "برنامجك هو",
     "CL_BT_AUDIO_ota_hint": "قبل تحديث البرنامج الثابت، يرجى التأكد من توصيل كابل التيار المتردد أو كابل من النوع C بالجهاز.",
-    "CL_DV_WC_light_color_cold": "بارد"
+    "CL_DV_WC_light_color_cold": "بارد",
+    "missing_country_information": "معلومات البلد مفقودة",
+    "missing_country_description": "للاستمرار في استخدام جميع ميزات تطبيق ConnectLife، أدخل بلدك في الحقل أدناه واحفظ التغييرات."
 }

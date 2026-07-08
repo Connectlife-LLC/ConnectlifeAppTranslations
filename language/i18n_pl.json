@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Wybierz poziom suchości, który odpowiada Twoim potrzebom.",
     "CL_DV_LRC_your_program_is": "Twój program to",
     "CL_BT_AUDIO_ota_hint": "Przed aktualizacją oprogramowania sprzętowego upewnij się, że kabel sieciowy lub kabel typu C jest podłączony do urządzenia.",
-    "CL_DV_WC_light_color_cold": "ZIMNY"
+    "CL_DV_WC_light_color_cold": "ZIMNY",
+    "missing_country_information": "Brak informacji o kraju",
+    "missing_country_description": "Aby nadal korzystać ze wszystkich funkcji aplikacji ConnectLife, wpisz swój kraj w polu poniżej i zapisz zmiany."
 }

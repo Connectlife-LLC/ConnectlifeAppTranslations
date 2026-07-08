@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "ご自身のニーズに合った乾燥レベルをお選びください。",
     "CL_DV_LRC_your_program_is": "あなたのプログラムは",
     "CL_BT_AUDIO_ota_hint": "ファームウェアをアップデートする前に、ACケーブルまたはType-Cケーブルがデバイスに接続されていることを確認してください。",
-    "CL_DV_WC_light_color_cold": "寒い"
+    "CL_DV_WC_light_color_cold": "寒い",
+    "missing_country_information": "国情報が不足しています",
+    "missing_country_description": "ConnectLifeアプリのすべての機能を引き続きご利用いただくには、下の欄に国名を入力して変更を保存してください。"
 }
