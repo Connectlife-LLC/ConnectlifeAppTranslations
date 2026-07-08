@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Použite úroveň suchosti, ktorá zodpovedá vašim potrebám.",
     "CL_DV_LRC_your_program_is": "Váš program je",
     "CL_BT_AUDIO_ota_hint": "Pred aktualizáciou firmvéru sa uistite, že je do zariadenia zapojený napájací kábel alebo kábel typu C.",
-    "CL_DV_WC_light_color_cold": "CHLADNÝ"
+    "CL_DV_WC_light_color_cold": "CHLADNÝ",
+    "missing_country_information": "Chýbajúce informácie o krajine",
+    "missing_country_description": "Ak chcete naďalej používať všetky funkcie aplikácie ConnectLife, zadajte svoju krajinu do poľa nižšie a uložte zmeny."
 }

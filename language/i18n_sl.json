@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Uporabite stopnjo suhosti, ki ustreza vašim potrebam.",
     "CL_DV_LRC_your_program_is": "Vaš program je",
     "CL_BT_AUDIO_ota_hint": "Preden posodobite vdelano programsko opremo, se prepričajte, da je v napravo priključen kabel za napajalni kabel ali kabel tipa C.",
-    "CL_DV_WC_light_color_cold": "HLADNA"
+    "CL_DV_WC_light_color_cold": "HLADNA",
+    "missing_country_information": "Manjkajo podatki o državi",
+    "missing_country_description": "Če želite še naprej uporabljati vse funkcije aplikacije ConnectLife, v spodnje polje vnesite svojo državo in shranite spremembe."
 }

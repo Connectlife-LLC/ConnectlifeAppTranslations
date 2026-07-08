@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Wählen Sie den Trockenheitsgrad, der Ihren Bedürfnissen entspricht.",
     "CL_DV_LRC_your_program_is": "Ihr Programm ist",
     "CL_BT_AUDIO_ota_hint": "Bevor Sie die Firmware aktualisieren, vergewissern Sie sich bitte, dass das Netzkabel oder das Typ-C-Kabel an das Gerät angeschlossen ist.",
-    "CL_DV_WC_light_color_cold": "KALT"
+    "CL_DV_WC_light_color_cold": "KALT",
+    "missing_country_information": "Fehlende Länderinformationen",
+    "missing_country_description": "Um weiterhin alle Funktionen der ConnectLife-App nutzen zu können, geben Sie Ihr Land in das unten stehende Feld ein und speichern Sie die Änderungen."
 }

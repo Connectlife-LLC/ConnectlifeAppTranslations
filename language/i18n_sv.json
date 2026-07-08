@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Använd den torrhetsgrad som passar dina behov.",
     "CL_DV_LRC_your_program_is": "Ditt program är",
     "CL_BT_AUDIO_ota_hint": "Innan du uppdaterar den inbyggda programvaran, se till att en nätkabel eller typ-C-kabel är ansluten till enheten.",
-    "CL_DV_WC_light_color_cold": "KALLT"
+    "CL_DV_WC_light_color_cold": "KALLT",
+    "missing_country_information": "Saknad landsinformation",
+    "missing_country_description": "För att fortsätta använda alla funktioner i ConnectLife-appen, ange ditt land i fältet nedan och spara ändringarna."
 }

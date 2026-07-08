@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Use the dryness level that matches your needs.",
     "CL_DV_LRC_your_program_is": "Your program is",
     "CL_BT_AUDIO_ota_hint": "Before you update the firmware, please make sure that AC cable or type-C cable is inserted to device.",
-    "CL_DV_WC_light_color_cold": "COLD"
+    "CL_DV_WC_light_color_cold": "COLD",
+    "missing_country_information": "Missing country information",
+    "missing_country_description": "To continue using all features of the ConnectLife app, enter your country in the field below and save the changes."
 }

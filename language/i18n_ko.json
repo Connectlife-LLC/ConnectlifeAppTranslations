@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "필요에 맞는 건조도를 사용하세요.",
     "CL_DV_LRC_your_program_is": "귀하의 프로그램은 다음과 같습니다.",
     "CL_BT_AUDIO_ota_hint": "펌웨어를 업데이트하기 전에 AC 케이블 또는 Type-C 케이블이 기기에 연결되어 있는지 확인하십시오.",
-    "CL_DV_WC_light_color_cold": "춥다"
+    "CL_DV_WC_light_color_cold": "춥다",
+    "missing_country_information": "국가 정보가 누락되었습니다",
+    "missing_country_description": "ConnectLife 앱의 모든 기능을 계속 사용하려면 아래 필드에 국가를 입력하고 변경 사항을 저장하세요."
 }

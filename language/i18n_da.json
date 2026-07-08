@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Brug det tørhedsniveau, der passer til dine behov.",
     "CL_DV_LRC_your_program_is": "Dit program er",
     "CL_BT_AUDIO_ota_hint": "Før du opdaterer firmwaren, skal du sørge for, at der er sat et AC-kabel eller type-C-kabel i enheden.",
-    "CL_DV_WC_light_color_cold": "KOLD"
+    "CL_DV_WC_light_color_cold": "KOLD",
+    "missing_country_information": "Manglende landeoplysninger",
+    "missing_country_description": "For at fortsætte med at bruge alle funktionerne i ConnectLife-appen skal du indtaste dit land i feltet nedenfor og gemme ændringerne."
 }

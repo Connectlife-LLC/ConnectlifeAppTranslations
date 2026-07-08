@@ -8806,5 +8806,7 @@
     "TD_EVER_04": "Hãy chọn mức độ khô phù hợp với nhu cầu của bạn.",
     "CL_DV_LRC_your_program_is": "Chương trình của bạn là",
     "CL_BT_AUDIO_ota_hint": "Trước khi cập nhật phần mềm, vui lòng đảm bảo rằng cáp nguồn AC hoặc cáp Type-C đã được cắm vào thiết bị.",
-    "CL_DV_WC_light_color_cold": "LẠNH"
+    "CL_DV_WC_light_color_cold": "LẠNH",
+    "missing_country_information": "Thông tin quốc gia bị thiếu",
+    "missing_country_description": "Để tiếp tục sử dụng tất cả các tính năng của ứng dụng ConnectLife, hãy nhập quốc gia của bạn vào ô bên dưới và lưu lại các thay đổi."
 }
