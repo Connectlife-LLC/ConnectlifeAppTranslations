@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Brez določanja tarif",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Pojdi v nastavitve",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## je trenutno v načinu pametnega razporejevalnika. Ali ga želite izklopiti in preklopiti v način AI ECO?",
-    "CL_CF_energy_demand_response_title": "Odziv na povpraševanje",
+    "CL_CF_energy_demand_response_title": "Relief mreže",
     "CL_DV_LRC_winter_clothes": "Zimska oblačila",
     "CL_CF_energy_demand_response_desc": "Pridružite se programu DR in prejmite nagrado",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimizirajte urnik naprav na podlagi tarife ali ogljika.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Nazaj",
     "dr_btn_back_b": "Nazaj",
     "CL_CF_FM_receipt_ai": "Potrdilo",
-    "dr_hiw_step1": "Vpišite se na platformo Leap"
+    "dr_hiw_step1": "Vpišite se na platformo Leap",
+    "CL_AC_comfort_living": "Udobno bivanje",
+    "CL_AC_quiet_night": "Mirna noč",
+    "CL_AC_morning_fresh": "Jutranja svežina",
+    "CL_AC_moisture_reduction": "Zmanjšanje vlage",
+    "CL_AC_conflict_tips": "Program xxx se izvaja. Ali ste pripravljeni ustaviti tega in začeti novega?",
+    "CL_AC_child_tips": "Sklepanje na podlagi naslednjih informacij",
+    "CL_AC_autopilot_temp_tips": "Temperatura narašča. Razmislite o predhodnem ohlajanju, da ohranite udobje."
 }

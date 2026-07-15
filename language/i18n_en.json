@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "No tariff setting",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Go to settings",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## is currently in Smart Scheduler mode. Would you like to turn it off and switch to AI ECO mode instead?",
-    "CL_CF_energy_demand_response_title": "Demand response",
+    "CL_CF_energy_demand_response_title": "Grid Relief",
     "CL_DV_LRC_winter_clothes": "Winter clothes",
     "CL_CF_energy_demand_response_desc": "Join DR program and get reward",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimize appliances schedule based on tariff or carbon.",
@@ -8949,7 +8949,7 @@
     "CL_CF_CS_tower_wm_scan_guide_label": "Your wash tower has a device label with a unique identification code. It's located in this place:",
     "CL_CF_CS_tower_wm_scan_guide_label_1": "##The right side of the top panel of the device.##",
     "CL_CF_FM_receipt_scanner": "Receipt scanner",
-    "dr_title": "Demand Response",
+    "dr_title": "Grid Relief",
     "dr_title_b": "Save Energy Together",
     "dr_hiw_title": "How it works",
     "dr_hiw_title_b": "Here's how it works",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Go back",
     "dr_btn_back_b": "Go back",
     "CL_CF_FM_receipt_ai": "Receipt",
-    "dr_hiw_step1": "Enroll on the Leap platform"
+    "dr_hiw_step1": "Enroll on the Leap platform",
+    "CL_AC_comfort_living": "Comfort living",
+    "CL_AC_quiet_night": "Quiet night",
+    "CL_AC_morning_fresh": "Morning fresh",
+    "CL_AC_moisture_reduction": "Moisture reduction",
+    "CL_AC_conflict_tips": "xxx program is running. Are you willing to stop this one and start a new one?",
+    "CL_AC_child_tips": "Inferring based on the following information",
+    "CL_AC_autopilot_temp_tips": "Temperature trending upward. Consider pre-cooling to maintain comfort."
 }

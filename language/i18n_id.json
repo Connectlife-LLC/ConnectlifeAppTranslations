@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Tidak ada pengaturan tarif",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Buka pengaturan",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## saat ini dalam mode Penjadwal Cerdas. Apakah Anda ingin menonaktifkannya dan beralih ke mode AI ECO?",
-    "CL_CF_energy_demand_response_title": "Respon permintaan",
+    "CL_CF_energy_demand_response_title": "Bantuan Jaringan",
     "CL_DV_LRC_winter_clothes": "Pakaian musim dingin",
     "CL_CF_energy_demand_response_desc": "Bergabunglah dengan program DR dan dapatkan hadiahnya",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimalkan jadwal peralatan berdasarkan tarif atau karbon.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Kembali",
     "dr_btn_back_b": "Kembali",
     "CL_CF_FM_receipt_ai": "Kuitansi",
-    "dr_hiw_step1": "Daftar di platform Leap"
+    "dr_hiw_step1": "Daftar di platform Leap",
+    "CL_AC_comfort_living": "Kehidupan yang nyaman",
+    "CL_AC_quiet_night": "Malam yang tenang",
+    "CL_AC_morning_fresh": "Pagi yang segar",
+    "CL_AC_moisture_reduction": "Pengurangan kelembapan",
+    "CL_AC_conflict_tips": "Program xxx sedang berjalan. Apakah Anda bersedia menghentikan program ini dan memulai program baru?",
+    "CL_AC_child_tips": "Menyimpulkan berdasarkan informasi berikut",
+    "CL_AC_autopilot_temp_tips": "Suhu cenderung meningkat. Pertimbangkan untuk melakukan pendinginan awal untuk menjaga kenyamanan."
 }

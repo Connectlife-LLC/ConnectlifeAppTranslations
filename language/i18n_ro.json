@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Fără stabilire de tarife",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Accesați setările",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## este în prezent în modul Programator inteligent. Doriți să îl dezactivați și să comutați la modul AI ECO?",
-    "CL_CF_energy_demand_response_title": "Răspuns la cerere",
+    "CL_CF_energy_demand_response_title": "Relief de grilă",
     "CL_DV_LRC_winter_clothes": "Haine de iarnă",
     "CL_CF_energy_demand_response_desc": "Alătură-te programului DR și primește recompense",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimizați programul de utilizare a aparatelor electrocasnice în funcție de tarif sau emisii de carbon.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Întoarce-te",
     "dr_btn_back_b": "Întoarce-te",
     "CL_CF_FM_receipt_ai": "Chitanță",
-    "dr_hiw_step1": "Înscrie-te pe platforma Leap"
+    "dr_hiw_step1": "Înscrie-te pe platforma Leap",
+    "CL_AC_comfort_living": "Viață confortabilă",
+    "CL_AC_quiet_night": "Noapte liniștită",
+    "CL_AC_morning_fresh": "Proaspăt de dimineață",
+    "CL_AC_moisture_reduction": "Reducerea umidității",
+    "CL_AC_conflict_tips": "Programul xxx rulează. Ești dispus să-l oprești și să începi unul nou?",
+    "CL_AC_child_tips": "Deducere pe baza următoarelor informații",
+    "CL_AC_autopilot_temp_tips": "Temperatura este în creștere. Luați în considerare pre-răcirea pentru a menține confortul."
 }

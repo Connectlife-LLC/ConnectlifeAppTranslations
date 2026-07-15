@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "无电价设置",
     "CL_CF_energy_smart_scheduler_go_to_settings": "前往设置",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## 目前处于智能调度模式。您是否想将其关闭并切换到 AI ECO 模式？",
-    "CL_CF_energy_demand_response_title": "需求响应",
+    "CL_CF_energy_demand_response_title": "电网缓解",
     "CL_DV_LRC_winter_clothes": "冬季服装",
     "CL_CF_energy_demand_response_desc": "加入 DR 计划即可获得奖励",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "根据电价或碳排放量优化电器使用时间。",
@@ -8949,7 +8949,7 @@
     "CL_CF_CS_tower_wm_scan_guide_label": "您的清洗塔上贴有带有唯一识别码的设备标签。它位于此处：",
     "CL_CF_CS_tower_wm_scan_guide_label_1": "设备顶部面板的右侧。",
     "CL_CF_FM_receipt_scanner": "收据扫描仪",
-    "dr_title": "需求响应",
+    "dr_title": "电网缓解",
     "dr_title_b": "共同节约能源",
     "dr_hiw_title": "工作原理",
     "dr_hiw_title_b": "它的工作原理如下",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "回去",
     "dr_btn_back_b": "回去",
     "CL_CF_FM_receipt_ai": "收据",
-    "dr_hiw_step1": "在 Leap 平台上注册"
+    "dr_hiw_step1": "在 Leap 平台上注册",
+    "CL_AC_comfort_living": "舒适生活",
+    "CL_AC_quiet_night": "寂静的夜晚",
+    "CL_AC_morning_fresh": "清晨的清新",
+    "CL_AC_moisture_reduction": "减少水分",
+    "CL_AC_conflict_tips": "xxx 程序正在运行。您是否愿意停止当前程序并启动一个新的程序？",
+    "CL_AC_child_tips": "根据以下信息进行推断",
+    "CL_AC_autopilot_temp_tips": "气温呈上升趋势。考虑预冷以保持舒适。"
 }

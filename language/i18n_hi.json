@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "कोई टैरिफ सेटिंग नहीं",
     "CL_CF_energy_smart_scheduler_go_to_settings": "सेटिंग्स पर जाएँ",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## अभी स्मार्ट शेड्यूलर मोड में है। क्या आप इसे बंद करके AI ECO मोड पर स्विच करना चाहेंगे?",
-    "CL_CF_energy_demand_response_title": "मांग प्रतिक्रिया",
+    "CL_CF_energy_demand_response_title": "ग्रिड रिलीफ",
     "CL_DV_LRC_winter_clothes": "सर्दियों के कपड़े",
     "CL_CF_energy_demand_response_desc": "डीआर कार्यक्रम में शामिल हों और पुरस्कार प्राप्त करें",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "टैरिफ या कार्बन के आधार पर उपकरणों की समय-सारणी को अनुकूलित करें।",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "वापस जाओ",
     "dr_btn_back_b": "वापस जाओ",
     "CL_CF_FM_receipt_ai": "रसीद",
-    "dr_hiw_step1": "लीप प्लेटफॉर्म पर पंजीकरण करें"
+    "dr_hiw_step1": "लीप प्लेटफॉर्म पर पंजीकरण करें",
+    "CL_AC_comfort_living": "आरामदायक जीवन",
+    "CL_AC_quiet_night": "शांत रात",
+    "CL_AC_morning_fresh": "सुबह की ताजगी",
+    "CL_AC_moisture_reduction": "नमी में कमी",
+    "CL_AC_conflict_tips": "xxx प्रोग्राम चल रहा है। क्या आप इसे रोककर एक नया प्रोग्राम शुरू करने के लिए तैयार हैं?",
+    "CL_AC_child_tips": "निम्नलिखित जानकारी के आधार पर निष्कर्ष निकालना",
+    "CL_AC_autopilot_temp_tips": "तापमान बढ़ रहा है। आराम बनाए रखने के लिए पहले से ही तापमान को ठंडा करने पर विचार करें।"
 }

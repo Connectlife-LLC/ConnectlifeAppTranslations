@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Ingen tariffinställning",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Gå till inställningar",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## är för närvarande i Smart Scheduler-läge. Vill du stänga av det och växla till AI ECO-läge istället?",
-    "CL_CF_energy_demand_response_title": "Efterfrågerespons",
+    "CL_CF_energy_demand_response_title": "Rutnätsavlastning",
     "CL_DV_LRC_winter_clothes": "Vinterkläder",
     "CL_CF_energy_demand_response_desc": "Gå med i DR-programmet och få belöning",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimera apparatschemat baserat på tariff eller koldioxid.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Gå tillbaka",
     "dr_btn_back_b": "Gå tillbaka",
     "CL_CF_FM_receipt_ai": "Mottagande",
-    "dr_hiw_step1": "Registrera dig på Leap-plattformen"
+    "dr_hiw_step1": "Registrera dig på Leap-plattformen",
+    "CL_AC_comfort_living": "Komfortboende",
+    "CL_AC_quiet_night": "Tyst natt",
+    "CL_AC_morning_fresh": "Morgonfrisk",
+    "CL_AC_moisture_reduction": "Fuktreducering",
+    "CL_AC_conflict_tips": "xxx-programmet körs. Är du villig att stoppa det här och starta ett nytt?",
+    "CL_AC_child_tips": "Slutsats baserad på följande information",
+    "CL_AC_autopilot_temp_tips": "Temperaturen är på uppåtgående. Överväg förkylning för att bibehålla komforten."
 }

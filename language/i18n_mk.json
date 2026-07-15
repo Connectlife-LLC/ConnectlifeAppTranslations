@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Нема поставување тарифа",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Оди во поставки",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## моментално е во режим на паметен распоред. Дали сакате да го исклучите и наместо тоа да се префрлите на режим на вештачка интелигенција (AI ECO)?",
-    "CL_CF_energy_demand_response_title": "Одговор на побарувачката",
+    "CL_CF_energy_demand_response_title": "Релјеф на мрежата",
     "CL_DV_LRC_winter_clothes": "Зимска облека",
     "CL_CF_energy_demand_response_desc": "Придружете се на DR програмата и добијте награда",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Оптимизирајте го распоредот на апаратите врз основа на тарифа или јаглерод.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Врати се назад",
     "dr_btn_back_b": "Врати се назад",
     "CL_CF_FM_receipt_ai": "Сметка",
-    "dr_hiw_step1": "Регистрирајте се на платформата Leap"
+    "dr_hiw_step1": "Регистрирајте се на платформата Leap",
+    "CL_AC_comfort_living": "Удобен живот",
+    "CL_AC_quiet_night": "Тивка ноќ",
+    "CL_AC_morning_fresh": "Свежо утро",
+    "CL_AC_moisture_reduction": "Намалување на влагата",
+    "CL_AC_conflict_tips": "xxx програмата е активна. Дали сакате да ја запрете оваа и да започнете нова?",
+    "CL_AC_child_tips": "Заклучување врз основа на следните информации",
+    "CL_AC_autopilot_temp_tips": "Температурата е во пораст. Размислете за претходно ладење за да се одржи удобноста."
 }

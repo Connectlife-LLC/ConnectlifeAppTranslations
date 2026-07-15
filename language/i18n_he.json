@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "אין קביעת תעריף",
     "CL_CF_energy_smart_scheduler_go_to_settings": "עבור אל הגדרות",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## נמצא כעת במצב Smart Scheduler. האם ברצונך לכבות אותו ולעבור למצב AI ECO במקום זאת?",
-    "CL_CF_energy_demand_response_title": "תגובת ביקוש",
+    "CL_CF_energy_demand_response_title": "הקלה ברשת",
     "CL_DV_LRC_winter_clothes": "בגדי חורף",
     "CL_CF_energy_demand_response_desc": "הצטרפו לתוכנית DR וקבלו תגמול",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "אופטימיזציה של לוח הזמנים של מכשירי חשמל בהתבסס על תעריף או פליטות פחמן.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "לַחֲזוֹר",
     "dr_btn_back_b": "לַחֲזוֹר",
     "CL_CF_FM_receipt_ai": "קַבָּלָה",
-    "dr_hiw_step1": "הירשמו לפלטפורמת Leap"
+    "dr_hiw_step1": "הירשמו לפלטפורמת Leap",
+    "CL_AC_comfort_living": "מגורים נוחים",
+    "CL_AC_quiet_night": "לילה שקט",
+    "CL_AC_morning_fresh": "בוקר רענן",
+    "CL_AC_moisture_reduction": "הפחתת לחות",
+    "CL_AC_conflict_tips": "תוכנית xxx פועלת. האם אתה מוכן לעצור אותה ולהתחיל חדשה?",
+    "CL_AC_child_tips": "מסקנות המבוססות על המידע הבא",
+    "CL_AC_autopilot_temp_tips": "הטמפרטורה במגמת עלייה. יש לשקול קירור מקדים כדי לשמור על נוחות."
 }
