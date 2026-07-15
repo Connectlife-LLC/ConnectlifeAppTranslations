@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "関税設定なし",
     "CL_CF_energy_smart_scheduler_go_to_settings": "設定に移動",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## は現在スマートスケジューラモードです。これをオフにして、AIエコモードに切り替えますか？",
-    "CL_CF_energy_demand_response_title": "需要応答",
+    "CL_CF_energy_demand_response_title": "グリッドリリーフ",
     "CL_DV_LRC_winter_clothes": "冬服",
     "CL_CF_energy_demand_response_desc": "DRプログラムに参加して報酬を獲得しましょう",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "料金または炭素に基づいて機器のスケジュールを最適化します。",

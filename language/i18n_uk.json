@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Без встановлення тарифів",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Перейти до налаштувань",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## зараз перебуває в режимі інтелектуального планувальника. Бажаєте вимкнути його та перейти в режим AI ECO?",
-    "CL_CF_energy_demand_response_title": "Реагування на попит",
+    "CL_CF_energy_demand_response_title": "Рельєф сітки",
     "CL_DV_LRC_winter_clothes": "Зимовий одяг",
     "CL_CF_energy_demand_response_desc": "Приєднуйтесь до програми DR та отримуйте винагороду",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Оптимізуйте графік роботи приладів на основі тарифу або викидів вуглецю.",

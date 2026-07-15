@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Không thiết lập thuế quan",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Vào cài đặt",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## hiện đang ở chế độ Lập lịch thông minh. Bạn có muốn tắt chế độ này và chuyển sang chế độ AI ECO không?",
-    "CL_CF_energy_demand_response_title": "Phản hồi nhu cầu",
+    "CL_CF_energy_demand_response_title": "Giảm áp lưới",
     "CL_DV_LRC_winter_clothes": "Quần áo mùa đông",
     "CL_CF_energy_demand_response_desc": "Tham gia chương trình DR và nhận phần thưởng",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Tối ưu hóa lịch trình sử dụng thiết bị dựa trên giá điện hoặc carbon.",

@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Tiada penetapan tarif",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Pergi ke tetapan",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## kini dalam mod Penjadual Pintar. Adakah anda mahu mematikannya dan bertukar kepada mod AI ECO?",
-    "CL_CF_energy_demand_response_title": "Tindak balas permintaan",
+    "CL_CF_energy_demand_response_title": "Pelepasan Grid",
     "CL_DV_LRC_winter_clothes": "Pakaian musim sejuk",
     "CL_CF_energy_demand_response_desc": "Sertai program DR dan dapatkan ganjaran",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimumkan jadual perkakas berdasarkan tarif atau karbon.",

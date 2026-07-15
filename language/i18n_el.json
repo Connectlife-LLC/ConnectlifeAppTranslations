@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Δεν υπάρχει καθορισμός τιμολογίου",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Μεταβείτε στις ρυθμίσεις",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "Το ## βρίσκεται αυτήν τη στιγμή σε λειτουργία Έξυπνου Χρονοδιαγράμματος. Θέλετε να το απενεργοποιήσετε και να μεταβείτε στη λειτουργία AI ECO;",
-    "CL_CF_energy_demand_response_title": "Απόκριση στη ζήτηση",
+    "CL_CF_energy_demand_response_title": "Ανακούφιση πλέγματος",
     "CL_DV_LRC_winter_clothes": "Χειμερινά ρούχα",
     "CL_CF_energy_demand_response_desc": "Γίνετε μέλος του προγράμματος DR και κερδίστε ανταμοιβή",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Βελτιστοποιήστε το πρόγραμμα των συσκευών με βάση τον τιμολόγιο ή τον άνθρακα.",

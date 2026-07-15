@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Geen tariefinstelling",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Ga naar instellingen",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## staat momenteel in de Smart Scheduler-modus. Wilt u deze uitschakelen en overschakelen naar de AI ECO-modus?",
-    "CL_CF_energy_demand_response_title": "Vraagrespons",
+    "CL_CF_energy_demand_response_title": "Rasterreliëf",
     "CL_DV_LRC_winter_clothes": "Winterkleding",
     "CL_CF_energy_demand_response_desc": "Doe mee met het DR-programma en ontvang beloningen",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimaliseer de planning van apparaten op basis van tarief of CO2-uitstoot.",

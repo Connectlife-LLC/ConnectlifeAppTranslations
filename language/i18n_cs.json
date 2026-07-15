@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Žádné nastavení tarifů",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Přejít do nastavení",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## je momentálně v režimu Inteligentní plánovač. Chcete jej vypnout a přepnout do režimu AI ECO?",
-    "CL_CF_energy_demand_response_title": "Reakce na poptávku",
+    "CL_CF_energy_demand_response_title": "Reliéf mřížky",
     "CL_DV_LRC_winter_clothes": "Zimní oblečení",
     "CL_CF_energy_demand_response_desc": "Zapojte se do programu DR a získejte odměnu",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimalizujte rozvrh spotřebičů na základě tarifu nebo uhlíkových emisí.",

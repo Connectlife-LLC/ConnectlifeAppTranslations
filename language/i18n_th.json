@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "ไม่มีการกำหนดอัตราภาษี",
     "CL_CF_energy_smart_scheduler_go_to_settings": "ไปที่การตั้งค่า",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## ขณะนี้อยู่ในโหมด Smart Scheduler คุณต้องการปิดและเปลี่ยนเป็นโหมด AI ECO แทนหรือไม่",
-    "CL_CF_energy_demand_response_title": "การตอบสนองความต้องการ",
+    "CL_CF_energy_demand_response_title": "บรรเทาความเครียดด้วยตาราง",
     "CL_DV_LRC_winter_clothes": "เสื้อผ้าฤดูหนาว",
     "CL_CF_energy_demand_response_desc": "เข้าร่วมโปรแกรม DR และรับรางวัล",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "เพิ่มประสิทธิภาพตารางการใช้เครื่องใช้ไฟฟ้าตามอัตราภาษีหรือคาร์บอน",

@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Нет установления тарифов",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Перейти к настройкам",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## сейчас находится в режиме Smart Scheduler. Хотите отключить его и перейти в режим AI ECO?",
-    "CL_CF_energy_demand_response_title": "Реагирование на спрос",
+    "CL_CF_energy_demand_response_title": "Снижение нагрузки на энергосистему",
     "CL_DV_LRC_winter_clothes": "Зимняя одежда",
     "CL_CF_energy_demand_response_desc": "Присоединяйтесь к программе DR и получите вознаграждение",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Оптимизируйте график работы приборов на основе тарифа или выбросов углерода.",

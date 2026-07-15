@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Tidak ada pengaturan tarif",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Buka pengaturan",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## saat ini dalam mode Penjadwal Cerdas. Apakah Anda ingin menonaktifkannya dan beralih ke mode AI ECO?",
-    "CL_CF_energy_demand_response_title": "Respon permintaan",
+    "CL_CF_energy_demand_response_title": "Bantuan Jaringan",
     "CL_DV_LRC_winter_clothes": "Pakaian musim dingin",
     "CL_CF_energy_demand_response_desc": "Bergabunglah dengan program DR dan dapatkan hadiahnya",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimalkan jadwal peralatan berdasarkan tarif atau karbon.",

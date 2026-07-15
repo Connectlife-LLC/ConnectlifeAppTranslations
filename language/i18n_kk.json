@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Тариф орнату жоқ",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Параметрлерге өтіңіз",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## қазір смарт жоспарлаушы режимінде. Оны өшіріп, орнына AI ECO режиміне ауысқыңыз келе ме?",
-    "CL_CF_energy_demand_response_title": "Сұраныс жауабы",
+    "CL_CF_energy_demand_response_title": "Торлы рельеф",
     "CL_DV_LRC_winter_clothes": "Қысқы киім",
     "CL_CF_energy_demand_response_desc": "DR бағдарламасына қосылыңыз және сыйлық алыңыз",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Тариф немесе көміртегі негізінде құрылғылар кестесін оңтайландырыңыз.",

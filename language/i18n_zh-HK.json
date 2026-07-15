@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "無關稅設置",
     "CL_CF_energy_smart_scheduler_go_to_settings": "前往設定",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## 目前處於智慧調度模式。您是否想將其關閉並切換到 AI ECO 模式？",
-    "CL_CF_energy_demand_response_title": "需求回應",
+    "CL_CF_energy_demand_response_title": "網格緩解",
     "CL_DV_LRC_winter_clothes": "冬季服裝",
     "CL_CF_energy_demand_response_desc": "加入 DR 計劃即可獲得獎勵",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "根據電價或碳排放量優化電器使用時間。",

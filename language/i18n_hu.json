@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Nincs tarifabeállítás",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Menj a beállításokhoz",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "A ## jelenleg Intelligens ütemező módban van. Szeretnéd kikapcsolni, és AI ECO módba váltani?",
-    "CL_CF_energy_demand_response_title": "Igényválasz",
+    "CL_CF_energy_demand_response_title": "Rács domborzat",
     "CL_DV_LRC_winter_clothes": "Téli ruhák",
     "CL_CF_energy_demand_response_desc": "Csatlakozz a DR programhoz és szerezz jutalmat",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimalizálja a készülékek ütemtervét tarifa vagy szén-dioxid alapján.",

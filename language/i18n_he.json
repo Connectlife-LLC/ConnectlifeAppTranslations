@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "אין קביעת תעריף",
     "CL_CF_energy_smart_scheduler_go_to_settings": "עבור אל הגדרות",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## נמצא כעת במצב Smart Scheduler. האם ברצונך לכבות אותו ולעבור למצב AI ECO במקום זאת?",
-    "CL_CF_energy_demand_response_title": "תגובת ביקוש",
+    "CL_CF_energy_demand_response_title": "הקלה ברשת",
     "CL_DV_LRC_winter_clothes": "בגדי חורף",
     "CL_CF_energy_demand_response_desc": "הצטרפו לתוכנית DR וקבלו תגמול",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "אופטימיזציה של לוח הזמנים של מכשירי חשמל בהתבסס על תעריף או פליטות פחמן.",

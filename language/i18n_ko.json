@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "요금 설정 없음",
     "CL_CF_energy_smart_scheduler_go_to_settings": "설정으로 이동",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "##은(는) 현재 스마트 스케줄러 모드입니다. 스마트 스케줄러 모드를 끄고 AI ECO 모드로 전환하시겠습니까?",
-    "CL_CF_energy_demand_response_title": "수요 대응",
+    "CL_CF_energy_demand_response_title": "격자형 지형",
     "CL_DV_LRC_winter_clothes": "겨울옷",
     "CL_CF_energy_demand_response_desc": "DR 프로그램에 가입하고 보상을 받으세요",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "관세 또는 탄소에 따라 가전제품 일정을 최적화합니다.",

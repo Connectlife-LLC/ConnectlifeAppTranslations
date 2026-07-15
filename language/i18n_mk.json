@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Нема поставување тарифа",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Оди во поставки",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## моментално е во режим на паметен распоред. Дали сакате да го исклучите и наместо тоа да се префрлите на режим на вештачка интелигенција (AI ECO)?",
-    "CL_CF_energy_demand_response_title": "Одговор на побарувачката",
+    "CL_CF_energy_demand_response_title": "Релјеф на мрежата",
     "CL_DV_LRC_winter_clothes": "Зимска облека",
     "CL_CF_energy_demand_response_desc": "Придружете се на DR програмата и добијте награда",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Оптимизирајте го распоредот на апаратите врз основа на тарифа или јаглерод.",

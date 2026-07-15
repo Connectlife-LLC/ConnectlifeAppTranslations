@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "بدون تنظیم تعرفه",
     "CL_CF_energy_smart_scheduler_go_to_settings": "به تنظیمات بروید",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## در حال حاضر در حالت زمان‌بندی هوشمند است. آیا مایلید آن را خاموش کرده و به جای آن به حالت AI ECO بروید؟",
-    "CL_CF_energy_demand_response_title": "پاسخ به تقاضا",
+    "CL_CF_energy_demand_response_title": "نقش برجسته شبکه‌ای",
     "CL_DV_LRC_winter_clothes": "لباس‌های زمستانی",
     "CL_CF_energy_demand_response_desc": "به برنامه DR بپیوندید و پاداش بگیرید",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "بهینه سازی برنامه لوازم خانگی بر اساس تعرفه یا کربن.",

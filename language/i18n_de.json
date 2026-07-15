@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Keine Tariffestlegung",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Gehen Sie zu den Einstellungen",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## befindet sich derzeit im Smart Scheduler-Modus. Möchten Sie diesen deaktivieren und stattdessen in den AI ECO-Modus wechseln?",
-    "CL_CF_energy_demand_response_title": "Lastmanagement",
+    "CL_CF_energy_demand_response_title": "Gitterrelief",
     "CL_DV_LRC_winter_clothes": "Winterkleidung",
     "CL_CF_energy_demand_response_desc": "Nehmen Sie am DR-Programm teil und erhalten Sie eine Belohnung.",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimierung des Gerätebetriebs auf Basis von Tarifen oder CO2-Emissionen.",

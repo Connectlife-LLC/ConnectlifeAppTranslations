@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Ingen tariffinnstilling",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Gå til innstillinger",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## er for øyeblikket i Smart Scheduler-modus. Vil du slå den av og bytte til AI ECO-modus i stedet?",
-    "CL_CF_energy_demand_response_title": "Etterspørselsrespons",
+    "CL_CF_energy_demand_response_title": "Rutenettavlastning",
     "CL_DV_LRC_winter_clothes": "Vinterklær",
     "CL_CF_energy_demand_response_desc": "Bli med i DR-programmet og få en belønning",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimaliser apparatplanen basert på tariff eller karbon.",

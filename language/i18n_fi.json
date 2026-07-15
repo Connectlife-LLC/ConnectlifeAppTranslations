@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Ei tariffiasetusta",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Siirry asetuksiin",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## on tällä hetkellä Älykäs ajoitus -tilassa. Haluatko poistaa sen käytöstä ja vaihtaa AI ECO -tilaan?",
-    "CL_CF_energy_demand_response_title": "Kysynnän jousto",
+    "CL_CF_energy_demand_response_title": "Ruudukon kohokuva",
     "CL_DV_LRC_winter_clothes": "Talvivaatteet",
     "CL_CF_energy_demand_response_desc": "Liity DR-ohjelmaan ja saat palkkion",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimoi laitteiden aikataulu tariffin tai hiilidioksidin perusteella.",
