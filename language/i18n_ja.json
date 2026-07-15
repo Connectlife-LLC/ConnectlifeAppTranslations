@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "関税設定なし",
     "CL_CF_energy_smart_scheduler_go_to_settings": "設定に移動",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## は現在スマートスケジューラモードです。これをオフにして、AIエコモードに切り替えますか？",
-    "CL_CF_energy_demand_response_title": "需要応答",
+    "CL_CF_energy_demand_response_title": "グリッドリリーフ",
     "CL_DV_LRC_winter_clothes": "冬服",
     "CL_CF_energy_demand_response_desc": "DRプログラムに参加して報酬を獲得しましょう",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "料金または炭素に基づいて機器のスケジュールを最適化します。",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "戻る",
     "dr_btn_back_b": "戻る",
     "CL_CF_FM_receipt_ai": "レシート",
-    "dr_hiw_step1": "Leapプラットフォームに登録する"
+    "dr_hiw_step1": "Leapプラットフォームに登録する",
+    "CL_AC_comfort_living": "快適な暮らし",
+    "CL_AC_quiet_night": "静かな夜",
+    "CL_AC_morning_fresh": "朝の爽やかな気分",
+    "CL_AC_moisture_reduction": "水分削減",
+    "CL_AC_conflict_tips": "xxxプログラムが実行中です。このプログラムを停止して、新しいプログラムを開始しますか？",
+    "CL_AC_child_tips": "以下の情報に基づいて推論する",
+    "CL_AC_autopilot_temp_tips": "気温は上昇傾向にあります。快適さを保つため、事前に冷房対策を講じることを検討してください。"
 }

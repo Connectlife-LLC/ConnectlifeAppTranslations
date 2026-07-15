@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "無關稅設置",
     "CL_CF_energy_smart_scheduler_go_to_settings": "前往設定",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## 目前處於智慧調度模式。您是否想將其關閉並切換到 AI ECO 模式？",
-    "CL_CF_energy_demand_response_title": "需求回應",
+    "CL_CF_energy_demand_response_title": "網格緩解",
     "CL_DV_LRC_winter_clothes": "冬季服裝",
     "CL_CF_energy_demand_response_desc": "加入 DR 計劃即可獲得獎勵",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "根據電價或碳排放量優化電器使用時間。",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "回去",
     "dr_btn_back_b": "回去",
     "CL_CF_FM_receipt_ai": "收據",
-    "dr_hiw_step1": "在 Leap 平台上註冊"
+    "dr_hiw_step1": "在 Leap 平台上註冊",
+    "CL_AC_comfort_living": "舒適生活",
+    "CL_AC_quiet_night": "寂靜的夜晚",
+    "CL_AC_morning_fresh": "清晨的清新",
+    "CL_AC_moisture_reduction": "減少水分",
+    "CL_AC_conflict_tips": "xxx 程式正在運行。您是否願意停止目前程式並啟動一個新的程式？",
+    "CL_AC_child_tips": "根據以下資訊進行推斷",
+    "CL_AC_autopilot_temp_tips": "氣溫呈上升趨勢。考慮預冷以保持舒適。"
 }

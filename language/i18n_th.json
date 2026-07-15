@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "ไม่มีการกำหนดอัตราภาษี",
     "CL_CF_energy_smart_scheduler_go_to_settings": "ไปที่การตั้งค่า",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## ขณะนี้อยู่ในโหมด Smart Scheduler คุณต้องการปิดและเปลี่ยนเป็นโหมด AI ECO แทนหรือไม่",
-    "CL_CF_energy_demand_response_title": "การตอบสนองความต้องการ",
+    "CL_CF_energy_demand_response_title": "บรรเทาความเครียดด้วยตาราง",
     "CL_DV_LRC_winter_clothes": "เสื้อผ้าฤดูหนาว",
     "CL_CF_energy_demand_response_desc": "เข้าร่วมโปรแกรม DR และรับรางวัล",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "เพิ่มประสิทธิภาพตารางการใช้เครื่องใช้ไฟฟ้าตามอัตราภาษีหรือคาร์บอน",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "ย้อนกลับไป",
     "dr_btn_back_b": "ย้อนกลับไป",
     "CL_CF_FM_receipt_ai": "ใบเสร็จ",
-    "dr_hiw_step1": "ลงทะเบียนบนแพลตฟอร์ม Leap"
+    "dr_hiw_step1": "ลงทะเบียนบนแพลตฟอร์ม Leap",
+    "CL_AC_comfort_living": "การใช้ชีวิตอย่างสะดวกสบาย",
+    "CL_AC_quiet_night": "ค่ำคืนที่เงียบสงบ",
+    "CL_AC_morning_fresh": "เช้าวันใหม่สดชื่น",
+    "CL_AC_moisture_reduction": "การลดความชื้น",
+    "CL_AC_conflict_tips": "โปรแกรม xxx กำลังทำงานอยู่ คุณยินดีที่จะหยุดโปรแกรมนี้และเริ่มโปรแกรมใหม่หรือไม่?",
+    "CL_AC_child_tips": "อนุมานจากข้อมูลต่อไปนี้",
+    "CL_AC_autopilot_temp_tips": "อุณหภูมิมีแนวโน้มสูงขึ้น ควรพิจารณาเปิดเครื่องปรับอากาศล่วงหน้าเพื่อรักษาระดับความสบาย"
 }

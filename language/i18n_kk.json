@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Тариф орнату жоқ",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Параметрлерге өтіңіз",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## қазір смарт жоспарлаушы режимінде. Оны өшіріп, орнына AI ECO режиміне ауысқыңыз келе ме?",
-    "CL_CF_energy_demand_response_title": "Сұраныс жауабы",
+    "CL_CF_energy_demand_response_title": "Торлы рельеф",
     "CL_DV_LRC_winter_clothes": "Қысқы киім",
     "CL_CF_energy_demand_response_desc": "DR бағдарламасына қосылыңыз және сыйлық алыңыз",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Тариф немесе көміртегі негізінде құрылғылар кестесін оңтайландырыңыз.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Қайтып келу",
     "dr_btn_back_b": "Қайтып келу",
     "CL_CF_FM_receipt_ai": "Түбіртек",
-    "dr_hiw_step1": "Leap платформасына тіркеліңіз"
+    "dr_hiw_step1": "Leap платформасына тіркеліңіз",
+    "CL_AC_comfort_living": "Ыңғайлы өмір сүру",
+    "CL_AC_quiet_night": "Тыныш түн",
+    "CL_AC_morning_fresh": "Таңертеңгілік тазалық",
+    "CL_AC_moisture_reduction": "Ылғалды азайту",
+    "CL_AC_conflict_tips": "xxx бағдарламасы жұмыс істеп тұр. Сіз мұны тоқтатып, жаңасын бастауға дайынсыз ба?",
+    "CL_AC_child_tips": "Келесі ақпаратқа сүйене отырып қорытынды жасау",
+    "CL_AC_autopilot_temp_tips": "Температура жоғарылап барады. Ыңғайлы болу үшін алдын ала салқындатуды қарастырыңыз."
 }

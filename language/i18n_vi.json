@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Không thiết lập thuế quan",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Vào cài đặt",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## hiện đang ở chế độ Lập lịch thông minh. Bạn có muốn tắt chế độ này và chuyển sang chế độ AI ECO không?",
-    "CL_CF_energy_demand_response_title": "Phản hồi nhu cầu",
+    "CL_CF_energy_demand_response_title": "Giảm áp lưới",
     "CL_DV_LRC_winter_clothes": "Quần áo mùa đông",
     "CL_CF_energy_demand_response_desc": "Tham gia chương trình DR và nhận phần thưởng",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Tối ưu hóa lịch trình sử dụng thiết bị dựa trên giá điện hoặc carbon.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Quay lại",
     "dr_btn_back_b": "Quay lại",
     "CL_CF_FM_receipt_ai": "Biên lai",
-    "dr_hiw_step1": "Đăng ký trên nền tảng Leap"
+    "dr_hiw_step1": "Đăng ký trên nền tảng Leap",
+    "CL_AC_comfort_living": "Cuộc sống thoải mái",
+    "CL_AC_quiet_night": "Đêm yên tĩnh",
+    "CL_AC_morning_fresh": "Chào buổi sáng, tươi mới!",
+    "CL_AC_moisture_reduction": "Giảm độ ẩm",
+    "CL_AC_conflict_tips": "Chương trình xxx đang chạy. Bạn có sẵn lòng dừng chương trình này và khởi động một chương trình mới không?",
+    "CL_AC_child_tips": "Dựa trên thông tin sau đây, ta suy luận:",
+    "CL_AC_autopilot_temp_tips": "Nhiệt độ đang có xu hướng tăng. Hãy cân nhắc làm mát trước để duy trì sự thoải mái."
 }

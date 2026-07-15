@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Нет установления тарифов",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Перейти к настройкам",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## сейчас находится в режиме Smart Scheduler. Хотите отключить его и перейти в режим AI ECO?",
-    "CL_CF_energy_demand_response_title": "Реагирование на спрос",
+    "CL_CF_energy_demand_response_title": "Снижение нагрузки на энергосистему",
     "CL_DV_LRC_winter_clothes": "Зимняя одежда",
     "CL_CF_energy_demand_response_desc": "Присоединяйтесь к программе DR и получите вознаграждение",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Оптимизируйте график работы приборов на основе тарифа или выбросов углерода.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Возвращаться",
     "dr_btn_back_b": "Возвращаться",
     "CL_CF_FM_receipt_ai": "Квитанция",
-    "dr_hiw_step1": "Зарегистрируйтесь на платформе Leap"
+    "dr_hiw_step1": "Зарегистрируйтесь на платформе Leap",
+    "CL_AC_comfort_living": "Комфортная жизнь",
+    "CL_AC_quiet_night": "Тихая ночь",
+    "CL_AC_morning_fresh": "Утренняя свежесть",
+    "CL_AC_moisture_reduction": "Снижение влажности",
+    "CL_AC_conflict_tips": "Программа xxx запущена. Вы готовы остановить эту программу и запустить новую?",
+    "CL_AC_child_tips": "Выводы, сделанные на основе следующей информации.",
+    "CL_AC_autopilot_temp_tips": "Температура повышается. Для поддержания комфортной температуры рекомендуется предварительное охлаждение."
 }

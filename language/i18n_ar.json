@@ -8971,5 +8971,12 @@
     "dr_btn_back": "عُد",
     "dr_btn_back_b": "عُد",
     "CL_CF_FM_receipt_ai": "إيصال",
-    "dr_hiw_step1": "سجل في منصة Leap"
+    "dr_hiw_step1": "سجل في منصة Leap",
+    "CL_AC_comfort_living": "حياة مريحة",
+    "CL_AC_quiet_night": "ليلة هادئة",
+    "CL_AC_morning_fresh": "انتعاش الصباح",
+    "CL_AC_moisture_reduction": "تقليل الرطوبة",
+    "CL_AC_conflict_tips": "البرنامج xxx قيد التشغيل. هل ترغب في إيقاف هذا البرنامج وبدء برنامج جديد؟",
+    "CL_AC_child_tips": "الاستنتاج بناءً على المعلومات التالية",
+    "CL_AC_autopilot_temp_tips": "درجات الحرارة في ازدياد. يُنصح بتبريد المكان مسبقاً للحفاظ على الراحة."
 }

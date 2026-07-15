@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Geen tariefinstelling",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Ga naar instellingen",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## staat momenteel in de Smart Scheduler-modus. Wilt u deze uitschakelen en overschakelen naar de AI ECO-modus?",
-    "CL_CF_energy_demand_response_title": "Vraagrespons",
+    "CL_CF_energy_demand_response_title": "Rasterreliëf",
     "CL_DV_LRC_winter_clothes": "Winterkleding",
     "CL_CF_energy_demand_response_desc": "Doe mee met het DR-programma en ontvang beloningen",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimaliseer de planning van apparaten op basis van tarief of CO2-uitstoot.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Ga terug",
     "dr_btn_back_b": "Ga terug",
     "CL_CF_FM_receipt_ai": "Ontvangst",
-    "dr_hiw_step1": "Meld je aan op het Leap-platform"
+    "dr_hiw_step1": "Meld je aan op het Leap-platform",
+    "CL_AC_comfort_living": "Comfortabel wonen",
+    "CL_AC_quiet_night": "Stille nacht",
+    "CL_AC_morning_fresh": "Frisse ochtend",
+    "CL_AC_moisture_reduction": "Vochtreductie",
+    "CL_AC_conflict_tips": "Het programma xxx is actief. Wilt u dit programma stoppen en een nieuw programma starten?",
+    "CL_AC_child_tips": "Op basis van de volgende informatie conclusies trekken",
+    "CL_AC_autopilot_temp_tips": "De temperatuur stijgt. Overweeg voorkoeling om het comfort te behouden."
 }

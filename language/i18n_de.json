@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "Keine Tariffestlegung",
     "CL_CF_energy_smart_scheduler_go_to_settings": "Gehen Sie zu den Einstellungen",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## befindet sich derzeit im Smart Scheduler-Modus. Möchten Sie diesen deaktivieren und stattdessen in den AI ECO-Modus wechseln?",
-    "CL_CF_energy_demand_response_title": "Lastmanagement",
+    "CL_CF_energy_demand_response_title": "Gitterrelief",
     "CL_DV_LRC_winter_clothes": "Winterkleidung",
     "CL_CF_energy_demand_response_desc": "Nehmen Sie am DR-Programm teil und erhalten Sie eine Belohnung.",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "Optimierung des Gerätebetriebs auf Basis von Tarifen oder CO2-Emissionen.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "Geh zurück",
     "dr_btn_back_b": "Geh zurück",
     "CL_CF_FM_receipt_ai": "Quittung",
-    "dr_hiw_step1": "Registrieren Sie sich auf der Leap-Plattform"
+    "dr_hiw_step1": "Registrieren Sie sich auf der Leap-Plattform",
+    "CL_AC_comfort_living": "Komfortables Wohnen",
+    "CL_AC_quiet_night": "Ruhige Nacht",
+    "CL_AC_morning_fresh": "Morgenfrisch",
+    "CL_AC_moisture_reduction": "Feuchtigkeitsreduzierung",
+    "CL_AC_conflict_tips": "Das Programm xxx läuft. Möchten Sie es beenden und ein neues starten?",
+    "CL_AC_child_tips": "Schlussfolgerungen basierend auf den folgenden Informationen",
+    "CL_AC_autopilot_temp_tips": "Die Temperaturen steigen. Um den Komfort aufrechtzuerhalten, sollten Sie eine Vorkühlung in Betracht ziehen."
 }

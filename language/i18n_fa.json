@@ -7275,7 +7275,7 @@
     "CL_CF_energy_smart_scheduler_no_tariff_setting": "بدون تنظیم تعرفه",
     "CL_CF_energy_smart_scheduler_go_to_settings": "به تنظیمات بروید",
     "CL_CF_energy_smart_scheduler_is_currently_in_smart_scheduler_mode": "## در حال حاضر در حالت زمان‌بندی هوشمند است. آیا مایلید آن را خاموش کرده و به جای آن به حالت AI ECO بروید؟",
-    "CL_CF_energy_demand_response_title": "پاسخ به تقاضا",
+    "CL_CF_energy_demand_response_title": "نقش برجسته شبکه‌ای",
     "CL_DV_LRC_winter_clothes": "لباس‌های زمستانی",
     "CL_CF_energy_demand_response_desc": "به برنامه DR بپیوندید و پاداش بگیرید",
     "CL_CF_energy_demand_response_optimize_appliances_shedule_based_on_tariff_or_carbon": "بهینه سازی برنامه لوازم خانگی بر اساس تعرفه یا کربن.",
@@ -8971,5 +8971,12 @@
     "dr_btn_back": "برگرد",
     "dr_btn_back_b": "برگرد",
     "CL_CF_FM_receipt_ai": "رسید",
-    "dr_hiw_step1": "ثبت نام در پلتفرم Leap"
+    "dr_hiw_step1": "ثبت نام در پلتفرم Leap",
+    "CL_AC_comfort_living": "زندگی راحت",
+    "CL_AC_quiet_night": "شب آرام",
+    "CL_AC_morning_fresh": "صبح تازه",
+    "CL_AC_moisture_reduction": "کاهش رطوبت",
+    "CL_AC_conflict_tips": "برنامه xxx در حال اجرا است. آیا مایلید این یکی را متوقف کرده و یکی جدید را شروع کنید؟",
+    "CL_AC_child_tips": "استنتاج بر اساس اطلاعات زیر",
+    "CL_AC_autopilot_temp_tips": "دما رو به افزایش است. برای حفظ آسایش، پیش‌سرمایش را در نظر بگیرید."
 }
