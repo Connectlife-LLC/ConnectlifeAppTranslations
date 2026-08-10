@@ -9049,5 +9049,6 @@
     "CL_VC_SOUND_EFFECT_VOCAL_CARD_DESC": "Tăng cường độ rõ ràng của giọng nói, giúp cuộc đối thoại trở nên mạch lạc và dễ hiểu hơn.",
     "CL_VRF_statistics_desc": "Dữ liệu thống kê này dựa trên mô phỏng thuật toán phần mềm, thống kê mạng, điều kiện vận hành máy móc, và một phần dữ liệu dựa trên các điều kiện thí nghiệm tiêu chuẩn được đo đạc, chỉ mang tính chất tham khảo cho người dùng. Hệ thống điều hòa VRF bao gồm nhiều dàn lạnh trong nhà thông qua một hoặc nhiều dàn nóng ngoài trời, và giá trị tiêu thụ năng lượng thể hiện toàn bộ thiết bị trong hệ thống.",
     "CL_AC_in_temp": "Nhiệt độ trong nhà",
-    "CL_AC_two": "Hai"
+    "CL_AC_two": "Hai",
+    "CL_AC_all_offline": "Các thiết bị đang ngoại tuyến"
 }

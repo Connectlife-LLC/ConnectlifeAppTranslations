@@ -9049,5 +9049,6 @@
     "CL_VC_SOUND_EFFECT_VOCAL_CARD_DESC": "Îmbunătățește claritatea vocală pentru dialoguri clare și inteligibile.",
     "CL_VRF_statistics_desc": "Aceste date statistice se bazează pe simularea algoritmilor software, statisticile rețelei, condițiile de funcționare ale mașinilor, iar o parte din date se bazează pe condiții standard de laborator măsurate, doar pentru referință pentru utilizator. Sistemul de climatizare VRF conține mai multe unități interioare prin intermediul uneia sau mai multor unități exterioare, iar valoarea consumului de energie reprezintă întregul echipament al sistemului.",
     "CL_AC_in_temp": "Temperatura interioară",
-    "CL_AC_two": "Două"
+    "CL_AC_two": "Două",
+    "CL_AC_all_offline": "Aparatele sunt offline"
 }

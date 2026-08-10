@@ -9049,5 +9049,6 @@
     "CL_VC_SOUND_EFFECT_VOCAL_CARD_DESC": "Meningkatkan kejelasan vokal untuk dialog yang jelas dan mudah difahami.",
     "CL_VRF_statistics_desc": "Data statistik ini berdasarkan simulasi algoritma perisian, statistik rangkaian, keadaan operasi mesin, dan sebahagian daripada data adalah berdasarkan keadaan makmal standard yang diukur, hanya untuk rujukan pengguna. Sistem penyaman VRF mengandungi berbilang unit dalaman melalui satu atau lebih unit luaran, dan nilai penggunaan tenaga mewakili keseluruhan peralatan sistem.",
     "CL_AC_in_temp": "Suhu Dalaman",
-    "CL_AC_two": "Dua"
+    "CL_AC_two": "Dua",
+    "CL_AC_all_offline": "Peralatan di luar talian"
 }

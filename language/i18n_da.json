@@ -9049,5 +9049,6 @@
     "CL_VC_SOUND_EFFECT_VOCAL_CARD_DESC": "Forbedrer stemmens klarhed for skarp og forståelig dialog.",
     "CL_VRF_statistics_desc": "Disse statistiske data er baseret på softwarealgoritmesimulering, netværksstatistik, maskinens driftsforhold, og en del af dataene er baseret på standard laboratorieforhold målt, udelukkende til brugerens reference. VRF-klimaanlægget indeholder flere indendørsenheder via en eller flere udendørsenheder, og energiforbrugsværdien repræsenterer hele systemudstyret.",
     "CL_AC_in_temp": "Indendørs temperatur",
-    "CL_AC_two": "To"
+    "CL_AC_two": "To",
+    "CL_AC_all_offline": "Apparaterne er offline"
 }

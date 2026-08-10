@@ -9049,5 +9049,6 @@
     "CL_VC_SOUND_EFFECT_VOCAL_CARD_DESC": "Konuşmaların daha net ve anlaşılır olması için ses berraklığını artırır.",
     "CL_VRF_statistics_desc": "Bu istatistiksel veriler, yazılım algoritması simülasyonu, ağ istatistikleri, makine çalışma koşulları ve verilerin bir kısmı standart laboratuvar koşullarında ölçülen verilere dayanmaktadır ve yalnızca kullanıcının referansı içindir. VRF iklimlendirme sistemi, bir veya daha fazla dış ünite aracılığıyla birden fazla iç ünite içerir ve enerji tüketim değeri tüm sistem ekipmanını temsil eder.",
     "CL_AC_in_temp": "İç Mekan Sıcaklığı",
-    "CL_AC_two": "İki"
+    "CL_AC_two": "İki",
+    "CL_AC_all_offline": "Cihazlar çevrimdışı."
 }

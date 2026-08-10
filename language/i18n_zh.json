@@ -9049,5 +9049,6 @@
     "CL_VC_SOUND_EFFECT_VOCAL_CARD_DESC": "提升语音清晰度，使对话清晰易​​懂。",
     "CL_VRF_statistics_desc": "该统计数据基于软件算法模拟、网络统计、机器运行工况以及部分基于标准实验室条件测量的数据，仅供用户参考。VRF空调系统包含多个室内机，并通过一个或多个室外机进行连接，能耗值代表整个系统设备的能耗。",
     "CL_AC_in_temp": "室内温度",
-    "CL_AC_two": "二"
+    "CL_AC_two": "二",
+    "CL_AC_all_offline": "设备已离线"
 }

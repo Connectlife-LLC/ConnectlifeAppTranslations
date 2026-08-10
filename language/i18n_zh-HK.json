@@ -9049,5 +9049,6 @@
     "CL_VC_SOUND_EFFECT_VOCAL_CARD_DESC": "提升語音清晰度，使對話清晰易懂。",
     "CL_VRF_statistics_desc": "此統計數據基於軟體演算法模擬、網路統計、機器運行工況以及部分基於標準實驗室條件測量的數據，僅供用戶參考。 VRF空調系統包含多個室內機，並透過一個或多個室外機進行連接，能耗值代表整個系統設備的能耗。",
     "CL_AC_in_temp": "室內溫度",
-    "CL_AC_two": "二"
+    "CL_AC_two": "二",
+    "CL_AC_all_offline": "設備已離線"
 }

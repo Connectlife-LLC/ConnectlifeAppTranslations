@@ -9049,5 +9049,6 @@
     "CL_VC_SOUND_EFFECT_VOCAL_CARD_DESC": "Zvyšuje čistotu hlasu pro ostré a srozumitelné dialogy.",
     "CL_VRF_statistics_desc": "Tato statistická data jsou založena na simulaci softwarových algoritmů, síťových statistikách, provozních podmínkách strojů a část dat je založena na standardních laboratorních podmínkách naměřených pouze pro informaci uživatele. Klimatizační systém VRF obsahuje více vnitřních jednotek a jednu nebo více venkovních jednotek a hodnota spotřeby energie představuje celé systémové vybavení.",
     "CL_AC_in_temp": "Vnitřní teplota",
-    "CL_AC_two": "Dva"
+    "CL_AC_two": "Dva",
+    "CL_AC_all_offline": "Spotřebiče jsou offline"
 }
