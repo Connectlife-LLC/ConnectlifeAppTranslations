@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "Diese Woche ist kein Plan aktiv.",
     "CL_Meal_Planner_no_week_plan_des": "Erstelle einen personalisierten Speiseplan, um gut in die Woche zu starten, oder plane manuell.",
     "CL_MP_ai_week_plan": "KI generiert meine Woche",
-    "CL_MP_plan_manually": "Planen Sie manuell"
+    "CL_MP_plan_manually": "Planen Sie manuell",
+    "multi_unit_heat_pump": "Multi-Einheiten-Wärmepumpe",
+    "CL_DV_EY_line": "Linie"
 }

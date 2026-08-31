@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "На этой неделе активных планов нет.",
     "CL_Meal_Planner_no_week_plan_des": "Создайте персонализированный план питания, чтобы начать неделю, или составьте план вручную.",
     "CL_MP_ai_week_plan": "ИИ сгенерирует мою неделю",
-    "CL_MP_plan_manually": "Планируйте вручную"
+    "CL_MP_plan_manually": "Планируйте вручную",
+    "multi_unit_heat_pump": "Многоблочный тепловой насос",
+    "CL_DV_EY_line": "Линия"
 }

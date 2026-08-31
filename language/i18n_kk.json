@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "Бұл аптада белсенді жоспар жоқ",
     "CL_Meal_Planner_no_week_plan_des": "Аптаңызды бастау үшін жеке тамақтану жоспарын жасаңыз немесе қолмен жоспарлаңыз.",
     "CL_MP_ai_week_plan": "Жасанды интеллект менің апталық жұмысымды жасайды",
-    "CL_MP_plan_manually": "Қолмен жоспарлау"
+    "CL_MP_plan_manually": "Қолмен жоспарлау",
+    "multi_unit_heat_pump": "MulMultiti-бірлік жылу сорғысы",
+    "CL_DV_EY_line": "Сызық"
 }

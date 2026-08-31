@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "Няма активен план тази седмица",
     "CL_Meal_Planner_no_week_plan_des": "Създайте персонализиран план за хранене, за да започнете седмицата си, или планирайте ръчно.",
     "CL_MP_ai_week_plan": "Изкуственият интелект генерира моята седмица",
-    "CL_MP_plan_manually": "Планирайте ръчно"
+    "CL_MP_plan_manually": "Планирайте ръчно",
+    "multi_unit_heat_pump": "Термопомпа MulMultiti",
+    "CL_DV_EY_line": "Линия"
 }
