@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "Ta teden ni aktivnega načrta",
     "CL_Meal_Planner_no_week_plan_des": "Za začetek tedna si ustvarite prilagojen načrt obrokov ali pa načrtujte ročno.",
     "CL_MP_ai_week_plan": "Umetna inteligenca ustvarja moj teden",
-    "CL_MP_plan_manually": "Ročno načrtovanje"
+    "CL_MP_plan_manually": "Ročno načrtovanje",
+    "multi_unit_heat_pump": "Toplotna črpalka MulMultiti"
 }

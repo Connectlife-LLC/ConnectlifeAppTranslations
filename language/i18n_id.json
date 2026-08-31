@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "Tidak ada rencana aktif minggu ini.",
     "CL_Meal_Planner_no_week_plan_des": "Buat rencana makan pribadi untuk memulai minggu Anda, atau rencanakan secara manual.",
     "CL_MP_ai_week_plan": "AI menghasilkan jadwal minggu saya",
-    "CL_MP_plan_manually": "Rencanakan secara manual"
+    "CL_MP_plan_manually": "Rencanakan secara manual",
+    "multi_unit_heat_pump": "Pompa panas multi-unit"
 }

@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "Ingen aktiv plan denne uken",
     "CL_Meal_Planner_no_week_plan_des": "Lag en personlig måltidsplan for å komme i gang med uken din, eller planlegg manuelt.",
     "CL_MP_ai_week_plan": "AI genererer uken min",
-    "CL_MP_plan_manually": "Planlegg manuelt"
+    "CL_MP_plan_manually": "Planlegg manuelt",
+    "multi_unit_heat_pump": "Multienhet varmepumpe"
 }
