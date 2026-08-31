@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "Geen actief plan deze week",
     "CL_Meal_Planner_no_week_plan_des": "Genereer een persoonlijk maaltijdplan om je week goed te beginnen, of plan handmatig.",
     "CL_MP_ai_week_plan": "AI genereert mijn week",
-    "CL_MP_plan_manually": "Handmatig plannen"
+    "CL_MP_plan_manually": "Handmatig plannen",
+    "multi_unit_heat_pump": "Multi-unit warmtepomp",
+    "CL_DV_EY_line": "Lijn"
 }

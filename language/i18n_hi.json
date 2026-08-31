@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "इस सप्ताह कोई सक्रिय योजना नहीं है",
     "CL_Meal_Planner_no_week_plan_des": "अपने सप्ताह की शुरुआत के लिए एक व्यक्तिगत भोजन योजना बनाएं, या मैन्युअल रूप से योजना बनाएं।",
     "CL_MP_ai_week_plan": "AI ने मेरे सप्ताह का विवरण तैयार किया",
-    "CL_MP_plan_manually": "मैन्युअल रूप से योजना बनाएं"
+    "CL_MP_plan_manually": "मैन्युअल रूप से योजना बनाएं",
+    "multi_unit_heat_pump": "मल्टी-यूनिट हीट पंप",
+    "CL_DV_EY_line": "रेखा"
 }

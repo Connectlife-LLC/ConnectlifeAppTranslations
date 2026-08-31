@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "אין תוכנית פעילה השבוע",
     "CL_Meal_Planner_no_week_plan_des": "צור תוכנית ארוחות מותאמת אישית כדי להתחיל את השבוע שלך, או תכנן באופן ידני.",
     "CL_MP_ai_week_plan": "בינה מלאכותית מייצרת את השבוע שלי",
-    "CL_MP_plan_manually": "תכנון ידני"
+    "CL_MP_plan_manually": "תכנון ידני",
+    "multi_unit_heat_pump": "משאבת חום מולטי-יחידה",
+    "CL_DV_EY_line": "קַו"
 }

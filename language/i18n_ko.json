@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "이번 주에는 예정된 계획이 없습니다.",
     "CL_Meal_Planner_no_week_plan_des": "개인 맞춤형 식단 계획을 생성하여 한 주를 시작하거나, 직접 계획할 수도 있습니다.",
     "CL_MP_ai_week_plan": "AI가 내 한 주를 생성해 줍니다",
-    "CL_MP_plan_manually": "수동으로 계획하기"
+    "CL_MP_plan_manually": "수동으로 계획하기",
+    "multi_unit_heat_pump": "멀티 유닛 히트 펌프",
+    "CL_DV_EY_line": "선"
 }

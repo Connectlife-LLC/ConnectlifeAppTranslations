@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "今週は特に予定はありません",
     "CL_Meal_Planner_no_week_plan_des": "週のスタートに合わせて、自分だけの食事プランを作成するか、手動でプランを立てましょう。",
     "CL_MP_ai_week_plan": "AIが私の週を生成する",
-    "CL_MP_plan_manually": "手動で計画する"
+    "CL_MP_plan_manually": "手動で計画する",
+    "multi_unit_heat_pump": "マルチユニットヒートポンプ",
+    "CL_DV_EY_line": "ライン"
 }

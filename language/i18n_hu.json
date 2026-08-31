@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "Nincs aktív terv erre a hétre",
     "CL_Meal_Planner_no_week_plan_des": "Készíts személyre szabott étkezési tervet a heti kezdéshez, vagy tervezz manuálisan.",
     "CL_MP_ai_week_plan": "A mesterséges intelligencia generálja a hetemet",
-    "CL_MP_plan_manually": "Manuális tervezés"
+    "CL_MP_plan_manually": "Manuális tervezés",
+    "multi_unit_heat_pump": "MulMultiti hőszivattyú",
+    "CL_DV_EY_line": "Vonal"
 }

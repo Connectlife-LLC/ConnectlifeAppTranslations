@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "Sem planos ativos esta semana",
     "CL_Meal_Planner_no_week_plan_des": "Crie um plano alimentar personalizado para começar bem a semana ou planeje manualmente.",
     "CL_MP_ai_week_plan": "A IA gera minha semana",
-    "CL_MP_plan_manually": "Planejar manualmente"
+    "CL_MP_plan_manually": "Planejar manualmente",
+    "multi_unit_heat_pump": "Bomba de calor multiunidade",
+    "CL_DV_EY_line": "Linha"
 }

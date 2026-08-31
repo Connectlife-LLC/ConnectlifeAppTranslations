@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "ไม่มีแผนงานที่ใช้งานอยู่สัปดาห์นี้",
     "CL_Meal_Planner_no_week_plan_des": "สร้างแผนอาหารส่วนตัวเพื่อเริ่มต้นสัปดาห์ของคุณ หรือวางแผนด้วยตนเองก็ได้",
     "CL_MP_ai_week_plan": "AI วางแผนสัปดาห์ของฉัน",
-    "CL_MP_plan_manually": "วางแผนด้วยตนเอง"
+    "CL_MP_plan_manually": "วางแผนด้วยตนเอง",
+    "multi_unit_heat_pump": "ปั๊มความร้อนแบบหลายยูนิต",
+    "CL_DV_EY_line": "เส้น"
 }

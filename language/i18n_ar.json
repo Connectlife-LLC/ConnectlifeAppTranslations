@@ -9208,5 +9208,7 @@
     "CL_Meal_Planner_no_week_plan_title": "لا توجد خطة فعالة هذا الأسبوع",
     "CL_Meal_Planner_no_week_plan_des": "قم بإنشاء خطة وجبات شخصية للبدء في أسبوعك، أو خطط يدويًا.",
     "CL_MP_ai_week_plan": "الذكاء الاصطناعي يُنشئ أسبوعي",
-    "CL_MP_plan_manually": "التخطيط يدوياً"
+    "CL_MP_plan_manually": "التخطيط يدوياً",
+    "multi_unit_heat_pump": "مضخة حرارية متعددة الوحدات",
+    "CL_DV_EY_line": "خط"
 }
