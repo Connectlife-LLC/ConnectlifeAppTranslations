@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "Niciun plan activ săptămâna aceasta",
     "CL_Meal_Planner_no_week_plan_des": "Generează un plan de mese personalizat pentru a începe săptămâna sau planifică-l manual.",
     "CL_MP_ai_week_plan": "AI-ul îmi generează săptămâna",
-    "CL_MP_plan_manually": "Planificați manual"
+    "CL_MP_plan_manually": "Planificați manual",
+    "multi_unit_heat_pump": "Pompă de căldură MulMultiti-unit"
 }

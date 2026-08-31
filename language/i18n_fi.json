@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "Ei aktiivista suunnitelmaa tällä viikolla",
     "CL_Meal_Planner_no_week_plan_des": "Luo henkilökohtainen ateriasuunnitelma aloittaaksesi viikkosi tai suunnittele manuaalisesti.",
     "CL_MP_ai_week_plan": "Tekoäly luo viikkoni",
-    "CL_MP_plan_manually": "Suunnittele manuaalisesti"
+    "CL_MP_plan_manually": "Suunnittele manuaalisesti",
+    "multi_unit_heat_pump": "MulMulti-yksikköinen lämpöpumppu"
 }

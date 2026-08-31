@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "این هفته طرح فعالی وجود ندارد",
     "CL_Meal_Planner_no_week_plan_des": "برای شروع هفته خود، یک برنامه غذایی شخصی ایجاد کنید، یا به صورت دستی برنامه‌ریزی کنید.",
     "CL_MP_ai_week_plan": "هوش مصنوعی هفته من را تولید می‌کند",
-    "CL_MP_plan_manually": "برنامه‌ریزی دستی"
+    "CL_MP_plan_manually": "برنامه‌ریزی دستی",
+    "multi_unit_heat_pump": "پمپ حرارتی چند واحدی مول-مولتی"
 }

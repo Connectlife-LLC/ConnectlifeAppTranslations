@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "Žiadny aktívny plán tento týždeň",
     "CL_Meal_Planner_no_week_plan_des": "Vytvorte si personalizovaný jedálniček na začiatok týždňa alebo si ho naplánujte manuálne.",
     "CL_MP_ai_week_plan": "AI generuje môj týždeň",
-    "CL_MP_plan_manually": "Plánovať manuálne"
+    "CL_MP_plan_manually": "Plánovať manuálne",
+    "multi_unit_heat_pump": "Tepelné čerpadlo MulMultiti"
 }

@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "本週暫無具體計劃",
     "CL_Meal_Planner_no_week_plan_des": "您可以產生個人化的飲食計劃來開始新的一周，也可以手動制定計劃。",
     "CL_MP_ai_week_plan": "AI 產生我的一周",
-    "CL_MP_plan_manually": "手動計劃"
+    "CL_MP_plan_manually": "手動計劃",
+    "multi_unit_heat_pump": "多單元熱泵"
 }

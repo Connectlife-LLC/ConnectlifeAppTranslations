@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "Ingen aktiv plan denna vecka",
     "CL_Meal_Planner_no_week_plan_des": "Skapa en personlig matplan för att komma igång med din vecka, eller planera manuellt.",
     "CL_MP_ai_week_plan": "AI genererar min vecka",
-    "CL_MP_plan_manually": "Planera manuellt"
+    "CL_MP_plan_manually": "Planera manuellt",
+    "multi_unit_heat_pump": "Multienhetsvärmepump"
 }

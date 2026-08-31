@@ -9208,5 +9208,6 @@
     "CL_Meal_Planner_no_week_plan_title": "Không có kế hoạch cụ thể nào trong tuần này.",
     "CL_Meal_Planner_no_week_plan_des": "Tạo kế hoạch bữa ăn cá nhân hóa để bắt đầu tuần mới, hoặc lên kế hoạch thủ công.",
     "CL_MP_ai_week_plan": "AI lập kế hoạch cho tuần của tôi",
-    "CL_MP_plan_manually": "Lập kế hoạch thủ công"
+    "CL_MP_plan_manually": "Lập kế hoạch thủ công",
+    "multi_unit_heat_pump": "Bơm nhiệt đa đơn vị"
 }
