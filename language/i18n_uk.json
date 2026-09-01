@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Фон з датою",
     "CL_DV_WCC_simple_clock": "Простий годинник",
     "CL_DV_WCC_simple_clock_with_date": "Простий годинник з датою",
-    "CL_AC_widget_des": "Слідкуйте за станом вашої програми Air Care Autopilot",
     "CL_CF_hide_gr_entrance": "Приховати вхід GR",
     "CL_CF_power_on_broadcast": "Трансляція при ввімкненні",
     "CL_AI_check_food_inventory_prompt": "Рецепти згенеровано. Хочете, щоб я зараз перевірив наявність продуктів?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "Цього тижня немає активних планів",
     "CL_Meal_Planner_no_week_plan_des": "Створіть персоналізований план харчування, щоб розпочати тиждень, або сплануйте вручну.",
     "CL_MP_ai_week_plan": "Штучний інтелект генерує мій тиждень",
-    "CL_MP_plan_manually": "Плануйте вручну"
+    "CL_MP_plan_manually": "Плануйте вручну",
+    "multi_unit_heat_pump": "Тепловий насос MulMultiti-unit",
+    "CL_DV_EY_line": "Лінія",
+    "CL_AC_widget_des": "Слідкуйте за станом вашої програми Air Care.",
+    "CL_MP_which_meals": "Які страви ви хочете спланувати?",
+    "CL_MP_meal_plan_week_des": "План харчування персоналізовано відповідно до вашого обраного профілю. Розмір порцій можна коригувати для кожного рецепту.",
+    "CL_MP_meals_week_count": "7 прийомів їжі на тиждень · Для 1 особи",
+    "CL_MP_choose_profile": "Виберіть профіль, щоб персоналізувати свій тижневий план вечері. (Необов'язково)",
+    "CL_MP_Ingredients_exclude": "Інгредієнти, які слід виключити",
+    "CL_MP_week_plan_limit_des": "Досягнуто тижневого ліміту. Можна створювати лише один тижневий план кожні 7 днів."
 }

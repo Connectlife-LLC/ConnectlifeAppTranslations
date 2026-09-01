@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Sfondo con data",
     "CL_DV_WCC_simple_clock": "Orologio semplice",
     "CL_DV_WCC_simple_clock_with_date": "Semplice orologio con datario",
-    "CL_AC_widget_des": "Monitora lo stato del tuo programma Air Care Autopilot.",
     "CL_CF_hide_gr_entrance": "Ingresso GR nascosto",
     "CL_CF_power_on_broadcast": "Trasmissione all'accensione",
     "CL_AI_check_food_inventory_prompt": "Le ricette sono state generate. Vuoi che controlli subito le scorte di cibo?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "Nessun programma attivo questa settimana",
     "CL_Meal_Planner_no_week_plan_des": "Genera un piano alimentare personalizzato per iniziare al meglio la settimana, oppure pianifica manualmente.",
     "CL_MP_ai_week_plan": "L'IA genera la mia settimana",
-    "CL_MP_plan_manually": "Pianificare manualmente"
+    "CL_MP_plan_manually": "Pianificare manualmente",
+    "multi_unit_heat_pump": "Pompa di calore multi-unità",
+    "CL_DV_EY_line": "Linea",
+    "CL_AC_widget_des": "Monitora lo stato del tuo programma Air Care.",
+    "CL_MP_which_meals": "Quali pasti desideri pianificare?",
+    "CL_MP_meal_plan_week_des": "Il piano alimentare è personalizzato in base al profilo selezionato. Le porzioni possono essere adattate per ogni ricetta.",
+    "CL_MP_meals_week_count": "7 pasti a settimana · Per 1 persona",
+    "CL_MP_choose_profile": "Scegli un profilo per personalizzare il tuo menù settimanale per la cena. (Facoltativo)",
+    "CL_MP_Ingredients_exclude": "Ingredienti da escludere",
+    "CL_MP_week_plan_limit_des": "Limite settimanale raggiunto. È possibile generare un solo piano settimanale ogni 7 giorni."
 }

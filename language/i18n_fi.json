@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Tausta päivämäärällä",
     "CL_DV_WCC_simple_clock": "Yksinkertainen kello",
     "CL_DV_WCC_simple_clock_with_date": "Yksinkertainen kello päivämäärällä",
-    "CL_AC_widget_des": "Seuraa Air Care Autopilot -ohjelmasi tilaa",
     "CL_CF_hide_gr_entrance": "Piilota GR-sisäänkäynti",
     "CL_CF_power_on_broadcast": "Käynnistyslähetys",
     "CL_AI_check_food_inventory_prompt": "Reseptit on luotu. Haluatko minun tarkistavan ruokavaraston heti?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "Ei aktiivista suunnitelmaa tällä viikolla",
     "CL_Meal_Planner_no_week_plan_des": "Luo henkilökohtainen ateriasuunnitelma aloittaaksesi viikkosi tai suunnittele manuaalisesti.",
     "CL_MP_ai_week_plan": "Tekoäly luo viikkoni",
-    "CL_MP_plan_manually": "Suunnittele manuaalisesti"
+    "CL_MP_plan_manually": "Suunnittele manuaalisesti",
+    "multi_unit_heat_pump": "MulMulti-yksikköinen lämpöpumppu",
+    "CL_DV_EY_line": "Linja",
+    "CL_AC_widget_des": "Seuraa Air Care -ohjelmasi tilaa.",
+    "CL_MP_which_meals": "Mitä aterioita haluat suunnitella?",
+    "CL_MP_meal_plan_week_des": "Ateriasuunnitelma räätälöidään valitsemasi profiilin mukaan. Annoskokoja voidaan säätää reseptikohtaisesti.",
+    "CL_MP_meals_week_count": "7 ateriaa viikossa · yhdelle hengelle",
+    "CL_MP_choose_profile": "Valitse profiili viikoittaisen illallissuunnitelmasi mukauttamiseksi. (Valinnainen)",
+    "CL_MP_Ingredients_exclude": "Poissuljettavat ainesosat",
+    "CL_MP_week_plan_limit_des": "Viikkoraja saavutettu. Vain yksi viikkosuunnitelma voidaan luoda seitsemän päivän välein."
 }

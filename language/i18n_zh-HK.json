@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "背景及日期",
     "CL_DV_WCC_simple_clock": "簡易時鐘",
     "CL_DV_WCC_simple_clock_with_date": "帶有日期顯示的簡易時鐘",
-    "CL_AC_widget_des": "監控您的 Air Care Autopilot 程式狀態",
     "CL_CF_hide_gr_entrance": "隱藏GR入口",
     "CL_CF_power_on_broadcast": "開機廣播",
     "CL_AI_check_food_inventory_prompt": "食譜已產生。您需要我立即檢查食材庫存嗎？",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "本週暫無具體計劃",
     "CL_Meal_Planner_no_week_plan_des": "您可以產生個人化的飲食計劃來開始新的一周，也可以手動制定計劃。",
     "CL_MP_ai_week_plan": "AI 產生我的一周",
-    "CL_MP_plan_manually": "手動計劃"
+    "CL_MP_plan_manually": "手動計劃",
+    "multi_unit_heat_pump": "多單元熱泵",
+    "CL_DV_EY_line": "線",
+    "CL_AC_widget_des": "監控您的空氣品質維護計畫狀態。",
+    "CL_MP_which_meals": "你想計劃哪些餐點？",
+    "CL_MP_meal_plan_week_des": "膳食計劃根據您選擇的個人資料進行個人化。每道菜的份量都可以調整。",
+    "CL_MP_meals_week_count": "每週7餐 · 1人份",
+    "CL_MP_choose_profile": "選擇一種模式來個性化您的每週晚餐計劃。 （可選）",
+    "CL_MP_Ingredients_exclude": "排除的成分",
+    "CL_MP_week_plan_limit_des": "每週限額已滿。每7天只能產生一個週計劃。"
 }

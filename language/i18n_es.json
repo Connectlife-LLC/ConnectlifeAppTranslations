@@ -9066,7 +9066,7 @@
     "CL_DV_LRC_load_medium": "Hecho",
     "CL_AC_quality_desc": "Actualmente no se dispone de datos sobre la calidad del aire para esta habitación.",
     "CL_AC_purification_off": "Purificación DESACTIVADA",
-    "CL_DR_website_link": "Para obtener más información: https://en.connectlife.io/gridrelief",
+    "CL_DR_website_link": "Para más información, visite:\nhttps://connectlife.io/gridrelief",
     "CL_DV_WM_weighing_analyzing": "Analizando",
     "CL_DV_RF_shopping_mode": "Modo compras",
     "CL_DV_RF_shopping_mode_close": "Modo de compra desactivado",
@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Antecedentes con fecha",
     "CL_DV_WCC_simple_clock": "Reloj sencillo",
     "CL_DV_WCC_simple_clock_with_date": "Reloj sencillo con fecha",
-    "CL_AC_widget_des": "Supervise el estado de su programa Air Care Autopilot.",
     "CL_CF_hide_gr_entrance": "Ocultar la entrada GR",
     "CL_CF_power_on_broadcast": "Transmisión de encendido",
     "CL_AI_check_food_inventory_prompt": "Las recetas ya están generadas. ¿Quieres que revise el inventario de alimentos ahora mismo?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "No hay planes activos esta semana.",
     "CL_Meal_Planner_no_week_plan_des": "Genera un plan de comidas personalizado para empezar la semana, o planifica manualmente.",
     "CL_MP_ai_week_plan": "La IA genera mi semana",
-    "CL_MP_plan_manually": "Planificar manualmente"
+    "CL_MP_plan_manually": "Planificar manualmente",
+    "multi_unit_heat_pump": "Bomba de calor multiunidad",
+    "CL_DV_EY_line": "Línea",
+    "CL_AC_widget_des": "Supervise el estado de su programa Air Care.",
+    "CL_MP_which_meals": "¿Qué comidas quieres planificar?",
+    "CL_MP_meal_plan_week_des": "El plan de comidas se personaliza según el perfil que hayas seleccionado. Las porciones se pueden ajustar para cada receta.",
+    "CL_MP_meals_week_count": "7 comidas por semana · Para 1 persona",
+    "CL_MP_choose_profile": "Selecciona un perfil para personalizar tu plan de cenas semanal. (Opcional)",
+    "CL_MP_Ingredients_exclude": "Ingredientes a excluir",
+    "CL_MP_week_plan_limit_des": "Se ha alcanzado el límite semanal. Solo se puede generar un plan semanal cada 7 días."
 }

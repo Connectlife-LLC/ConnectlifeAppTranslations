@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Bakgrund med datum",
     "CL_DV_WCC_simple_clock": "Enkel klocka",
     "CL_DV_WCC_simple_clock_with_date": "Enkel klocka med datum",
-    "CL_AC_widget_des": "Övervaka statusen för ditt Air Care Autopilot-program",
     "CL_CF_hide_gr_entrance": "Dölj GR-ingången",
     "CL_CF_power_on_broadcast": "Sändning vid påslag",
     "CL_AI_check_food_inventory_prompt": "Recepten har genererats. Vill du att jag ska kontrollera matlagningen just nu?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "Ingen aktiv plan denna vecka",
     "CL_Meal_Planner_no_week_plan_des": "Skapa en personlig matplan för att komma igång med din vecka, eller planera manuellt.",
     "CL_MP_ai_week_plan": "AI genererar min vecka",
-    "CL_MP_plan_manually": "Planera manuellt"
+    "CL_MP_plan_manually": "Planera manuellt",
+    "multi_unit_heat_pump": "Multienhetsvärmepump",
+    "CL_DV_EY_line": "Linje",
+    "CL_AC_widget_des": "Övervaka statusen för ditt Air Care-program.",
+    "CL_MP_which_meals": "Vilka måltider vill du planera?",
+    "CL_MP_meal_plan_week_des": "Måltidsplanen anpassas efter din valda profil. Portionsstorlekarna kan justeras för varje recept.",
+    "CL_MP_meals_week_count": "7 måltider per vecka · För 1 person",
+    "CL_MP_choose_profile": "Välj en profil för att anpassa din veckovisa middagsplan. (Valfritt)",
+    "CL_MP_Ingredients_exclude": "Ingredienser att utesluta",
+    "CL_MP_week_plan_limit_des": "Veckogränsen är uppnådd. Endast en veckoplan kan genereras var sjunde dag."
 }

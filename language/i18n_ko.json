@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "날짜가 포함된 배경",
     "CL_DV_WCC_simple_clock": "심플한 시계",
     "CL_DV_WCC_simple_clock_with_date": "날짜 표시 기능이 있는 간단한 시계",
-    "CL_AC_widget_des": "Air Care Autopilot 프로그램 상태를 모니터링하세요.",
     "CL_CF_hide_gr_entrance": "GR 입구 숨기기",
     "CL_CF_power_on_broadcast": "전원 켜짐 방송",
     "CL_AI_check_food_inventory_prompt": "레시피가 생성되었습니다. 지금 식재료 재고를 확인해 드릴까요?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "이번 주에는 예정된 계획이 없습니다.",
     "CL_Meal_Planner_no_week_plan_des": "개인 맞춤형 식단 계획을 생성하여 한 주를 시작하거나, 직접 계획할 수도 있습니다.",
     "CL_MP_ai_week_plan": "AI가 내 한 주를 생성해 줍니다",
-    "CL_MP_plan_manually": "수동으로 계획하기"
+    "CL_MP_plan_manually": "수동으로 계획하기",
+    "multi_unit_heat_pump": "멀티 유닛 히트 펌프",
+    "CL_DV_EY_line": "선",
+    "CL_AC_widget_des": "Air Care 프로그램 진행 상황을 확인하세요.",
+    "CL_MP_which_meals": "어떤 식사를 계획하고 싶으세요?",
+    "CL_MP_meal_plan_week_des": "식단은 선택하신 프로필에 맞춰 개인화됩니다. 각 레시피의 1인분 양을 조절할 수 있습니다.",
+    "CL_MP_meals_week_count": "주 7회 식사 제공 (1인 기준)",
+    "CL_MP_choose_profile": "나만의 주간 저녁 식사 계획을 세우려면 프로필을 선택하세요. (선택 사항)",
+    "CL_MP_Ingredients_exclude": "제외해야 할 성분",
+    "CL_MP_week_plan_limit_des": "주간 한도에 도달했습니다. 7일마다 주간 계획은 하나만 생성할 수 있습니다."
 }

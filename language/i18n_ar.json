@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "خلفية مع التاريخ",
     "CL_DV_WCC_simple_clock": "ساعة بسيطة",
     "CL_DV_WCC_simple_clock_with_date": "ساعة بسيطة مع التاريخ",
-    "CL_AC_widget_des": "راقب حالة برنامج الطيار الآلي للعناية بالهواء",
     "CL_CF_hide_gr_entrance": "إخفاء مدخل GR",
     "CL_CF_power_on_broadcast": "بث التشغيل",
     "CL_AI_check_food_inventory_prompt": "تم إعداد الوصفات. هل ترغب في أن أتحقق من مخزون الطعام الآن؟",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "لا توجد خطة فعالة هذا الأسبوع",
     "CL_Meal_Planner_no_week_plan_des": "قم بإنشاء خطة وجبات شخصية للبدء في أسبوعك، أو خطط يدويًا.",
     "CL_MP_ai_week_plan": "الذكاء الاصطناعي يُنشئ أسبوعي",
-    "CL_MP_plan_manually": "التخطيط يدوياً"
+    "CL_MP_plan_manually": "التخطيط يدوياً",
+    "multi_unit_heat_pump": "مضخة حرارية متعددة الوحدات",
+    "CL_DV_EY_line": "خط",
+    "CL_AC_widget_des": "راقب حالة برنامج العناية بالهواء الخاص بك.",
+    "CL_MP_which_meals": "ما هي الوجبات التي ترغب في التخطيط لها؟",
+    "CL_MP_meal_plan_week_des": "يتم تخصيص خطة الوجبات وفقًا لملفك الشخصي المختار. ويمكن تعديل أحجام الحصص لكل وصفة.",
+    "CL_MP_meals_week_count": "7 وجبات أسبوعياً · لشخص واحد",
+    "CL_MP_choose_profile": "اختر ملفًا شخصيًا لتخصيص خطة عشاءك الأسبوعية. (اختياري)",
+    "CL_MP_Ingredients_exclude": "المكونات التي يجب استبعادها",
+    "CL_MP_week_plan_limit_des": "تم الوصول إلى الحد الأسبوعي. لا يمكن إنشاء سوى خطة أسبوعية واحدة كل 7 أيام."
 }

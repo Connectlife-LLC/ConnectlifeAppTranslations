@@ -9066,7 +9066,7 @@
     "CL_DV_LRC_load_medium": "Trung bình",
     "CL_AC_quality_desc": "Hiện tại không có dữ liệu về chất lượng không khí cho căn phòng này.",
     "CL_AC_purification_off": "Tắt chế độ lọc",
-    "CL_DR_website_link": "Để biết thêm thông tin chi tiết: https://en.connectlife.io/gridrelief",
+    "CL_DR_website_link": "Để biết thêm thông tin, vui lòng truy cập:\nhttps://connectlife.io/gridrelief",
     "CL_DV_WM_weighing_analyzing": "Phân tích",
     "CL_DV_RF_shopping_mode": "Chế độ mua sắm",
     "CL_DV_RF_shopping_mode_close": "Chế độ mua sắm đã tắt",
@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Hình nền có ngày tháng",
     "CL_DV_WCC_simple_clock": "Đồng hồ đơn giản",
     "CL_DV_WCC_simple_clock_with_date": "Đồng hồ đơn giản có hiển thị ngày tháng",
-    "CL_AC_widget_des": "Theo dõi trạng thái chương trình Air Care Autopilot của bạn.",
     "CL_CF_hide_gr_entrance": "Ẩn lối vào GR",
     "CL_CF_power_on_broadcast": "Phát sóng khi bật nguồn",
     "CL_AI_check_food_inventory_prompt": "Các công thức nấu ăn đã được tạo. Bạn có muốn tôi kiểm tra kho thực phẩm ngay bây giờ không?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "Không có kế hoạch cụ thể nào trong tuần này.",
     "CL_Meal_Planner_no_week_plan_des": "Tạo kế hoạch bữa ăn cá nhân hóa để bắt đầu tuần mới, hoặc lên kế hoạch thủ công.",
     "CL_MP_ai_week_plan": "AI lập kế hoạch cho tuần của tôi",
-    "CL_MP_plan_manually": "Lập kế hoạch thủ công"
+    "CL_MP_plan_manually": "Lập kế hoạch thủ công",
+    "multi_unit_heat_pump": "Bơm nhiệt đa đơn vị",
+    "CL_DV_EY_line": "Đường kẻ",
+    "CL_AC_widget_des": "Theo dõi trạng thái chương trình Chăm sóc Không khí của bạn.",
+    "CL_MP_which_meals": "Bạn muốn lên kế hoạch cho những bữa ăn nào?",
+    "CL_MP_meal_plan_week_des": "Kế hoạch bữa ăn được cá nhân hóa theo hồ sơ bạn đã chọn. Khẩu phần ăn có thể được điều chỉnh cho từng công thức.",
+    "CL_MP_meals_week_count": "7 bữa ăn mỗi tuần · Dành cho 1 người",
+    "CL_MP_choose_profile": "Chọn một hồ sơ để cá nhân hóa kế hoạch bữa tối hàng tuần của bạn. (Tùy chọn)",
+    "CL_MP_Ingredients_exclude": "Các thành phần cần loại trừ",
+    "CL_MP_week_plan_limit_des": "Đã đạt giới hạn hàng tuần. Chỉ có thể tạo một kế hoạch hàng tuần mỗi 7 ngày."
 }
