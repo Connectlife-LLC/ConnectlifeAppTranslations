@@ -9066,7 +9066,7 @@
     "CL_DV_LRC_load_medium": "Moyen",
     "CL_AC_quality_desc": "Les données sur la qualité de l'air sont actuellement indisponibles pour cette pièce.",
     "CL_AC_purification_off": "Purification désactivée",
-    "CL_DR_website_link": "Pour plus d'informations : https://en.connectlife.io/gridrelief",
+    "CL_DR_website_link": "Pour plus d'informations, visitez :\nhttps://connectlife.io/gridrelief",
     "CL_DV_WM_weighing_analyzing": "Analyse",
     "CL_DV_RF_shopping_mode": "Mode shopping",
     "CL_DV_RF_shopping_mode_close": "Mode shopping désactivé",
@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Fond avec date",
     "CL_DV_WCC_simple_clock": "Horloge simple",
     "CL_DV_WCC_simple_clock_with_date": "Horloge simple avec date",
-    "CL_AC_widget_des": "Surveillez l'état de votre programme Air Care Autopilot",
     "CL_CF_hide_gr_entrance": "Masquer l'entrée GR",
     "CL_CF_power_on_broadcast": "Diffusion de la mise sous tension",
     "CL_AI_check_food_inventory_prompt": "Les recettes ont été générées. Souhaitez-vous que je vérifie les stocks alimentaires dès maintenant ?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "Aucun plan actif cette semaine",
     "CL_Meal_Planner_no_week_plan_des": "Créez un plan de repas personnalisé pour bien démarrer votre semaine, ou planifiez-le manuellement.",
     "CL_MP_ai_week_plan": "L'IA génère ma semaine",
-    "CL_MP_plan_manually": "Planifiez manuellement"
+    "CL_MP_plan_manually": "Planifiez manuellement",
+    "multi_unit_heat_pump": "Pompe à chaleur multi-unités",
+    "CL_DV_EY_line": "Doubler",
+    "CL_AC_widget_des": "Surveillez l'état de votre programme de traitement de l'air.",
+    "CL_MP_which_meals": "Quels repas souhaitez-vous planifier ?",
+    "CL_MP_meal_plan_week_des": "Votre plan de repas est personnalisé selon le profil que vous avez sélectionné. Les portions peuvent être ajustées pour chaque recette.",
+    "CL_MP_meals_week_count": "7 repas par semaine · Pour 1 personne",
+    "CL_MP_choose_profile": "Choisissez un profil pour personnaliser votre menu hebdomadaire. (Facultatif)",
+    "CL_MP_Ingredients_exclude": "Ingrédients à exclure",
+    "CL_MP_week_plan_limit_des": "Limite hebdomadaire atteinte. Un seul forfait hebdomadaire peut être généré tous les 7 jours."
 }

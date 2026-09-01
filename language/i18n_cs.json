@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Pozadí s datem",
     "CL_DV_WCC_simple_clock": "Jednoduché hodiny",
     "CL_DV_WCC_simple_clock_with_date": "Jednoduché hodiny s datem",
-    "CL_AC_widget_des": "Sledujte stav svého programu Air Care Autopilot",
     "CL_CF_hide_gr_entrance": "Skrýt vchod GR",
     "CL_CF_power_on_broadcast": "Vysílání při zapnutí",
     "CL_AI_check_food_inventory_prompt": "Recepty byly vygenerovány. Chcete, abych hned zkontroloval/a zásoby potravin?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "Žádný aktivní plán tento týden",
     "CL_Meal_Planner_no_week_plan_des": "Vytvořte si personalizovaný jídelníček pro začátek týdne nebo si ho naplánujte ručně.",
     "CL_MP_ai_week_plan": "Umělá inteligence generuje můj týden",
-    "CL_MP_plan_manually": "Ruční plánování"
+    "CL_MP_plan_manually": "Ruční plánování",
+    "multi_unit_heat_pump": "Tepelné čerpadlo MulMultiti",
+    "CL_DV_EY_line": "Čára",
+    "CL_AC_widget_des": "Sledujte stav svého programu Air Care.",
+    "CL_MP_which_meals": "Která jídla chcete naplánovat?",
+    "CL_MP_meal_plan_week_des": "Jídelníček je přizpůsoben vašemu vybranému profilu. Velikost porcí lze upravit pro každý recept.",
+    "CL_MP_meals_week_count": "7 jídel týdně · Pro 1 osobu",
+    "CL_MP_choose_profile": "Vyberte si profil pro personalizaci vašeho týdenního plánu večeří. (Volitelné)",
+    "CL_MP_Ingredients_exclude": "Složky, které je třeba vyloučit",
+    "CL_MP_week_plan_limit_des": "Dosažen týdenní limit. Každých 7 dní lze vygenerovat pouze jeden týdenní plán."
 }

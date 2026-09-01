@@ -9066,7 +9066,7 @@
     "CL_DV_LRC_load_medium": "中等",
     "CL_AC_quality_desc": "目前暂无该房间的空气质量数据。",
     "CL_AC_purification_off": "净化关闭",
-    "CL_DR_website_link": "了解更多信息：https://en.connectlife.io/gridrelief",
+    "CL_DR_website_link": "如需了解更多信息，请访问：\nhttps://connectlife.io/gridrelief",
     "CL_DV_WM_weighing_analyzing": "分析",
     "CL_DV_RF_shopping_mode": "购物模式",
     "CL_DV_RF_shopping_mode_close": "购物模式已关闭",
@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "背景及日期",
     "CL_DV_WCC_simple_clock": "数字时钟",
     "CL_DV_WCC_simple_clock_with_date": "带日期显示的简易时钟",
-    "CL_AC_widget_des": "监控您的 Air Care Autopilot 程序状态",
     "CL_CF_hide_gr_entrance": "隐藏GR入口",
     "CL_CF_power_on_broadcast": "开机广播",
     "CL_AI_check_food_inventory_prompt": "菜谱已生成。您需要我立即检查一下食材库存吗？",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "本周暂无具体计划",
     "CL_Meal_Planner_no_week_plan_des": "您可以生成个性化的膳食计划来开始新的一周，也可以手动制定计划。",
     "CL_MP_ai_week_plan": "AI 生成我的一周",
-    "CL_MP_plan_manually": "手动计划"
+    "CL_MP_plan_manually": "手动计划",
+    "multi_unit_heat_pump": "多单元热泵",
+    "CL_DV_EY_line": "线",
+    "CL_AC_widget_des": "监控您的空气质量维护计划状态。",
+    "CL_MP_which_meals": "你想计划哪些餐食？",
+    "CL_MP_meal_plan_week_des": "膳食计划根据您选择的个人资料进行个性化定制。每道菜的份量都可以调整。",
+    "CL_MP_meals_week_count": "每周7餐 · 1人份",
+    "CL_MP_choose_profile": "选择一种模式来个性化您的每周晚餐计划。（可选）",
+    "CL_MP_Ingredients_exclude": "排除的成分",
+    "CL_MP_week_plan_limit_des": "每周限额已满。每7天只能生成一个周计划。"
 }

@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Tło z datą",
     "CL_DV_WCC_simple_clock": "Zegar prosty",
     "CL_DV_WCC_simple_clock_with_date": "Prosty zegar z datą",
-    "CL_AC_widget_des": "Monitoruj status swojego programu Air Care Autopilot",
     "CL_CF_hide_gr_entrance": "Ukryj wejście GR",
     "CL_CF_power_on_broadcast": "Transmisja po włączeniu zasilania",
     "CL_AI_check_food_inventory_prompt": "Przepisy zostały wygenerowane. Czy mam teraz sprawdzić stan zapasów żywności?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "Brak aktywnego planu w tym tygodniu",
     "CL_Meal_Planner_no_week_plan_des": "Utwórz spersonalizowany plan posiłków i rozpocznij tydzień lub zaplanuj posiłki ręcznie.",
     "CL_MP_ai_week_plan": "Sztuczna inteligencja generuje mój tydzień",
-    "CL_MP_plan_manually": "Zaplanuj ręcznie"
+    "CL_MP_plan_manually": "Zaplanuj ręcznie",
+    "multi_unit_heat_pump": "Pompa ciepła MulMultiti",
+    "CL_DV_EY_line": "Linia",
+    "CL_AC_widget_des": "Monitoruj status swojego programu Air Care.",
+    "CL_MP_which_meals": "Jakie posiłki chcesz zaplanować?",
+    "CL_MP_meal_plan_week_des": "Plan posiłków jest spersonalizowany pod Twój profil. Wielkość porcji można dostosować do każdego przepisu.",
+    "CL_MP_meals_week_count": "7 posiłków w tygodniu · Dla 1 osoby",
+    "CL_MP_choose_profile": "Wybierz profil, aby spersonalizować swój tygodniowy plan posiłków. (Opcjonalnie)",
+    "CL_MP_Ingredients_exclude": "Składniki do wykluczenia",
+    "CL_MP_week_plan_limit_des": "Osiągnięto limit tygodniowy. Można wygenerować tylko jeden plan tygodniowy na 7 dni."
 }

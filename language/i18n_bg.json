@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Фон с дата",
     "CL_DV_WCC_simple_clock": "Прост часовник",
     "CL_DV_WCC_simple_clock_with_date": "Прост часовник с дата",
-    "CL_AC_widget_des": "Следете състоянието на вашата програма Air Care Autopilot",
     "CL_CF_hide_gr_entrance": "Скриване на входа на GR",
     "CL_CF_power_on_broadcast": "Излъчване при включване",
     "CL_AI_check_food_inventory_prompt": "Рецептите са генерирани. Искате ли да проверя наличността на храна веднага?",
@@ -9208,5 +9207,14 @@
     "CL_Meal_Planner_no_week_plan_title": "Няма активен план тази седмица",
     "CL_Meal_Planner_no_week_plan_des": "Създайте персонализиран план за хранене, за да започнете седмицата си, или планирайте ръчно.",
     "CL_MP_ai_week_plan": "Изкуственият интелект генерира моята седмица",
-    "CL_MP_plan_manually": "Планирайте ръчно"
+    "CL_MP_plan_manually": "Планирайте ръчно",
+    "multi_unit_heat_pump": "Термопомпа MulMultiti",
+    "CL_DV_EY_line": "Линия",
+    "CL_AC_widget_des": "Следете състоянието на вашата програма Air Care.",
+    "CL_MP_which_meals": "Кои ястия искате да планирате?",
+    "CL_MP_meal_plan_week_des": "Планът за хранене е персонализиран спрямо избрания от вас профил. Размерите на порциите могат да се коригират за всяка рецепта.",
+    "CL_MP_meals_week_count": "7 хранения на седмица · За 1 човек",
+    "CL_MP_choose_profile": "Изберете профил, за да персонализирате седмичния си план за вечеря. (По избор)",
+    "CL_MP_Ingredients_exclude": "Съставки, които да се изключат",
+    "CL_MP_week_plan_limit_des": "Достигнат е седмичният лимит. Може да се генерира само един седмичен план на всеки 7 дни."
 }
