@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "پس زمینه با تاریخ",
     "CL_DV_WCC_simple_clock": "ساعت ساده",
     "CL_DV_WCC_simple_clock_with_date": "ساعت ساده با تاریخ",
-    "CL_AC_widget_des": "وضعیت برنامه خلبان خودکار Air Care خود را زیر نظر داشته باشید",
     "CL_CF_hide_gr_entrance": "ورودی GR را مخفی کنید",
     "CL_CF_power_on_broadcast": "پخش در حالت روشن بودن دستگاه",
     "CL_AI_check_food_inventory_prompt": "دستور پخت‌ها آماده شده‌اند. آیا مایلید همین الان موجودی مواد غذایی را بررسی کنم؟",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "این هفته طرح فعالی وجود ندارد",
     "CL_Meal_Planner_no_week_plan_des": "برای شروع هفته خود، یک برنامه غذایی شخصی ایجاد کنید، یا به صورت دستی برنامه‌ریزی کنید.",
     "CL_MP_ai_week_plan": "هوش مصنوعی هفته من را تولید می‌کند",
-    "CL_MP_plan_manually": "برنامه‌ریزی دستی"
+    "CL_MP_plan_manually": "برنامه‌ریزی دستی",
+    "multi_unit_heat_pump": "پمپ حرارتی چند واحدی مول-مولتی",
+    "CL_DV_EY_line": "خط",
+    "CL_AC_widget_des": "وضعیت برنامه مراقبت هوایی خود را زیر نظر داشته باشید.",
+    "CL_MP_which_meals": "کدام وعده‌های غذایی را می‌خواهید برنامه‌ریزی کنید؟",
+    "CL_MP_meal_plan_week_des": "برنامه غذایی متناسب با پروفایل انتخابی شما شخصی‌سازی می‌شود. اندازه هر وعده غذایی را می‌توان برای هر دستور غذا تنظیم کرد.",
+    "CL_MP_meals_week_count": "۷ وعده غذایی در هفته · برای ۱ نفر",
+    "CL_MP_choose_profile": "برای شخصی‌سازی برنامه شام ​​هفتگی خود، یک پروفایل انتخاب کنید. (اختیاری)",
+    "CL_MP_Ingredients_exclude": "مواد لازم برای حذف",
+    "CL_MP_week_plan_limit_des": "محدودیت هفتگی تکمیل شد. فقط یک طرح هفتگی در هر ۷ روز قابل ایجاد است.",
+    "CL_JA_tariff_electricity": "برق"
 }

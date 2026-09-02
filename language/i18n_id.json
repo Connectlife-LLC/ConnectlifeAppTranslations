@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Latar belakang dengan tanggal",
     "CL_DV_WCC_simple_clock": "Jam sederhana",
     "CL_DV_WCC_simple_clock_with_date": "Jam sederhana dengan tanggal",
-    "CL_AC_widget_des": "Pantau status program Air Care Autopilot Anda.",
     "CL_CF_hide_gr_entrance": "Sembunyikan pintu masuk GR",
     "CL_CF_power_on_broadcast": "Siaran saat dinyalakan",
     "CL_AI_check_food_inventory_prompt": "Resep-resepnya sudah dibuat. Apakah Anda ingin saya memeriksa persediaan makanan sekarang?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "Tidak ada rencana aktif minggu ini.",
     "CL_Meal_Planner_no_week_plan_des": "Buat rencana makan pribadi untuk memulai minggu Anda, atau rencanakan secara manual.",
     "CL_MP_ai_week_plan": "AI menghasilkan jadwal minggu saya",
-    "CL_MP_plan_manually": "Rencanakan secara manual"
+    "CL_MP_plan_manually": "Rencanakan secara manual",
+    "multi_unit_heat_pump": "Pompa panas multi-unit",
+    "CL_DV_EY_line": "Garis",
+    "CL_AC_widget_des": "Pantau status program Air Care Anda.",
+    "CL_MP_which_meals": "Makanan apa saja yang ingin Anda rencanakan?",
+    "CL_MP_meal_plan_week_des": "Rencana makan dipersonalisasi sesuai dengan profil yang Anda pilih. Ukuran porsi dapat disesuaikan untuk setiap resep.",
+    "CL_MP_meals_week_count": "7 kali makan per minggu · Untuk 1 orang",
+    "CL_MP_choose_profile": "Pilih profil untuk mempersonalisasi rencana makan malam mingguan Anda. (Opsional)",
+    "CL_MP_Ingredients_exclude": "Bahan-bahan yang harus dihindari",
+    "CL_MP_week_plan_limit_des": "Batas mingguan telah tercapai. Hanya satu rencana mingguan yang dapat dibuat setiap 7 hari.",
+    "CL_JA_tariff_electricity": "Listrik"
 }
