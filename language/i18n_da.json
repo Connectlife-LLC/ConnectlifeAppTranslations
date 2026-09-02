@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Baggrund med dato",
     "CL_DV_WCC_simple_clock": "Enkelt ur",
     "CL_DV_WCC_simple_clock_with_date": "Simpelt ur med dato",
-    "CL_AC_widget_des": "Overvåg status for dit Air Care Autopilot-program",
     "CL_CF_hide_gr_entrance": "Skjul GR-indgang",
     "CL_CF_power_on_broadcast": "Udsendelse ved tænding",
     "CL_AI_check_food_inventory_prompt": "Opskrifterne er blevet genereret. Vil du have mig til at tjekke madbeholdningen med det samme?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "Ingen aktiv plan denne uge",
     "CL_Meal_Planner_no_week_plan_des": "Lav en personlig madplan for at komme i gang med din uge, eller planlæg den manuelt.",
     "CL_MP_ai_week_plan": "AI genererer min uge",
-    "CL_MP_plan_manually": "Planlæg manuelt"
+    "CL_MP_plan_manually": "Planlæg manuelt",
+    "multi_unit_heat_pump": "Multienhed varmepumpe",
+    "CL_DV_EY_line": "Linje",
+    "CL_AC_widget_des": "Overvåg status for dit Air Care-program.",
+    "CL_MP_which_meals": "Hvilke måltider vil du planlægge?",
+    "CL_MP_meal_plan_week_des": "Madplanen tilpasses din valgte profil. Portionsstørrelserne kan justeres for hver opskrift.",
+    "CL_MP_meals_week_count": "7 måltider om ugen · For 1 person",
+    "CL_MP_choose_profile": "Vælg en profil for at personliggøre din ugentlige middagsplan. (Valgfrit)",
+    "CL_MP_Ingredients_exclude": "Ingredienser, der skal udelukkes",
+    "CL_MP_week_plan_limit_des": "Ugentlig grænse nået. Der kan kun genereres én ugentlig plan hver 7. dag.",
+    "CL_JA_tariff_electricity": "Elektricitet"
 }

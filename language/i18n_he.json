@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "רקע עם תאריך",
     "CL_DV_WCC_simple_clock": "שעון פשוט",
     "CL_DV_WCC_simple_clock_with_date": "שעון פשוט עם תאריך",
-    "CL_AC_widget_des": "ניטור סטטוס תוכנית הטייס האוטומטי של Air Care",
     "CL_CF_hide_gr_entrance": "הסתר את כניסת ה-GR",
     "CL_CF_power_on_broadcast": "שידור הפעלה",
     "CL_AI_check_food_inventory_prompt": "המתכונים נוצרו. האם תרצה שאבדוק את מלאי המזון עכשיו?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "אין תוכנית פעילה השבוע",
     "CL_Meal_Planner_no_week_plan_des": "צור תוכנית ארוחות מותאמת אישית כדי להתחיל את השבוע שלך, או תכנן באופן ידני.",
     "CL_MP_ai_week_plan": "בינה מלאכותית מייצרת את השבוע שלי",
-    "CL_MP_plan_manually": "תכנון ידני"
+    "CL_MP_plan_manually": "תכנון ידני",
+    "multi_unit_heat_pump": "משאבת חום מולטי-יחידה",
+    "CL_DV_EY_line": "קַו",
+    "CL_AC_widget_des": "עקוב אחר סטטוס תוכנית Air Care שלך.",
+    "CL_MP_which_meals": "אילו ארוחות את/ה רוצה לתכנן?",
+    "CL_MP_meal_plan_week_des": "תוכנית הארוחות מותאמת אישית לפרופיל שבחרת. ניתן להתאים את גודל המנות לכל מתכון.",
+    "CL_MP_meals_week_count": "7 ארוחות בשבוע · לאדם אחד",
+    "CL_MP_choose_profile": "בחר פרופיל כדי להתאים אישית את תוכנית ארוחת הערב השבועית שלך. (אופציונלי)",
+    "CL_MP_Ingredients_exclude": "מרכיבים שיש להוציא",
+    "CL_MP_week_plan_limit_des": "הגעת למגבלה השבועית. ניתן ליצור תוכנית שבועית אחת בלבד כל 7 ימים.",
+    "CL_JA_tariff_electricity": "חַשְׁמַל"
 }

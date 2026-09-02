@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Tarihli arka plan",
     "CL_DV_WCC_simple_clock": "Basit saat",
     "CL_DV_WCC_simple_clock_with_date": "Tarih göstergeli sade saat",
-    "CL_AC_widget_des": "Air Care Autopilot programınızın durumunu izleyin.",
     "CL_CF_hide_gr_entrance": "GR girişini gizle",
     "CL_CF_power_on_broadcast": "Güç açma yayını",
     "CL_AI_check_food_inventory_prompt": "Tarifler oluşturuldu. Şimdi yiyecek envanterini kontrol etmemi ister misiniz?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "Bu hafta için aktif bir plan yok.",
     "CL_Meal_Planner_no_week_plan_des": "Haftanıza başlamak için kişiselleştirilmiş bir yemek planı oluşturun veya manuel olarak planlayın.",
     "CL_MP_ai_week_plan": "Yapay zeka benim haftamı oluştur",
-    "CL_MP_plan_manually": "Manuel olarak planlayın"
+    "CL_MP_plan_manually": "Manuel olarak planlayın",
+    "multi_unit_heat_pump": "Çoklu üniteli ısı pompası",
+    "CL_DV_EY_line": "Astar",
+    "CL_AC_widget_des": "Hava Bakım programınızın durumunu takip edin.",
+    "CL_MP_which_meals": "Hangi yemekleri planlamak istersiniz?",
+    "CL_MP_meal_plan_week_des": "Yemek planı, seçtiğiniz profile göre kişiselleştirilir. Her tarif için porsiyon boyutları ayarlanabilir.",
+    "CL_MP_meals_week_count": "Haftada 7 öğün · 1 kişi için",
+    "CL_MP_choose_profile": "Haftalık yemek planınızı kişiselleştirmek için bir profil seçin. (İsteğe bağlı)",
+    "CL_MP_Ingredients_exclude": "Hariç tutulacak malzemeler",
+    "CL_MP_week_plan_limit_des": "Haftalık limite ulaşıldı. Her 7 günde bir yalnızca bir haftalık plan oluşturulabilir.",
+    "CL_JA_tariff_electricity": "Elektrik"
 }
