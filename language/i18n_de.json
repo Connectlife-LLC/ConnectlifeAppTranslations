@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Hintergrund mit Datum",
     "CL_DV_WCC_simple_clock": "Einfache Uhr",
     "CL_DV_WCC_simple_clock_with_date": "Einfache Uhr mit Datumsanzeige",
-    "CL_AC_widget_des": "Überwachen Sie den Status Ihres Air Care Autopilot-Programms.",
     "CL_CF_hide_gr_entrance": "GR-Eingang verstecken",
     "CL_CF_power_on_broadcast": "Einschalt-Übertragung",
     "CL_AI_check_food_inventory_prompt": "Die Rezepte wurden generiert. Soll ich jetzt gleich den Lebensmittelbestand überprüfen?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "Diese Woche ist kein Plan aktiv.",
     "CL_Meal_Planner_no_week_plan_des": "Erstelle einen personalisierten Speiseplan, um gut in die Woche zu starten, oder plane manuell.",
     "CL_MP_ai_week_plan": "KI generiert meine Woche",
-    "CL_MP_plan_manually": "Planen Sie manuell"
+    "CL_MP_plan_manually": "Planen Sie manuell",
+    "multi_unit_heat_pump": "Multi-Einheiten-Wärmepumpe",
+    "CL_DV_EY_line": "Linie",
+    "CL_AC_widget_des": "Überwachen Sie den Status Ihres Air Care-Programms.",
+    "CL_MP_which_meals": "Welche Mahlzeiten möchten Sie planen?",
+    "CL_MP_meal_plan_week_des": "Der Speiseplan wird individuell auf Ihr ausgewähltes Profil zugeschnitten. Die Portionsgrößen können für jedes Rezept angepasst werden.",
+    "CL_MP_meals_week_count": "7 Mahlzeiten pro Woche · Für 1 Person",
+    "CL_MP_choose_profile": "Wählen Sie ein Profil, um Ihren wöchentlichen Speiseplan zu personalisieren. (Optional)",
+    "CL_MP_Ingredients_exclude": "Zutaten, die man ausschließen sollte",
+    "CL_MP_week_plan_limit_des": "Wöchentliches Limit erreicht. Es kann nur alle 7 Tage ein Wochenplan erstellt werden.",
+    "CL_JA_tariff_electricity": "Strom"
 }
