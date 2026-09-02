@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Ozadje z datumom",
     "CL_DV_WCC_simple_clock": "Preprosta ura",
     "CL_DV_WCC_simple_clock_with_date": "Preprosta ura z datumom",
-    "CL_AC_widget_des": "Spremljajte stanje programa Air Care Autopilot",
     "CL_CF_hide_gr_entrance": "Skrij vhod GR",
     "CL_CF_power_on_broadcast": "Oddajanje ob vklopu",
     "CL_AI_check_food_inventory_prompt": "Recepti so bili ustvarjeni. Ali želite, da takoj preverim zalogo hrane?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "Ta teden ni aktivnega načrta",
     "CL_Meal_Planner_no_week_plan_des": "Za začetek tedna si ustvarite prilagojen načrt obrokov ali pa načrtujte ročno.",
     "CL_MP_ai_week_plan": "Umetna inteligenca ustvarja moj teden",
-    "CL_MP_plan_manually": "Ročno načrtovanje"
+    "CL_MP_plan_manually": "Ročno načrtovanje",
+    "multi_unit_heat_pump": "Toplotna črpalka MulMultiti",
+    "CL_DV_EY_line": "Črta",
+    "CL_AC_widget_des": "Spremljajte stanje svojega programa Air Care.",
+    "CL_MP_which_meals": "Katere obroke želite načrtovati?",
+    "CL_MP_meal_plan_week_des": "Načrt obrokov je prilagojen vašemu izbranemu profilu. Velikost porcij je mogoče prilagoditi za vsak recept posebej.",
+    "CL_MP_meals_week_count": "7 obrokov na teden · Za 1 osebo",
+    "CL_MP_choose_profile": "Izberite profil za prilagoditev tedenskega načrta večerje. (Neobvezno)",
+    "CL_MP_Ingredients_exclude": "Sestavine, ki jih je treba izključiti",
+    "CL_MP_week_plan_limit_des": "Dosežena je tedenska omejitev. Vsakih 7 dni je mogoče ustvariti samo en tedenski načrt.",
+    "CL_JA_tariff_electricity": "Elektrika"
 }

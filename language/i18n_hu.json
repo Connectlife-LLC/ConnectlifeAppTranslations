@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Dátummal ellátott háttér",
     "CL_DV_WCC_simple_clock": "Egyszerű óra",
     "CL_DV_WCC_simple_clock_with_date": "Egyszerű óra dátummal",
-    "CL_AC_widget_des": "Figyelje Air Care Autopilot programjának állapotát",
     "CL_CF_hide_gr_entrance": "GR bejárat elrejtése",
     "CL_CF_power_on_broadcast": "Bekapcsolási adás",
     "CL_AI_check_food_inventory_prompt": "A receptek elkészültek. Szeretnéd, hogy most azonnal ellenőrizzem az élelmiszerkészletet?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "Nincs aktív terv erre a hétre",
     "CL_Meal_Planner_no_week_plan_des": "Készíts személyre szabott étkezési tervet a heti kezdéshez, vagy tervezz manuálisan.",
     "CL_MP_ai_week_plan": "A mesterséges intelligencia generálja a hetemet",
-    "CL_MP_plan_manually": "Manuális tervezés"
+    "CL_MP_plan_manually": "Manuális tervezés",
+    "multi_unit_heat_pump": "MulMultiti hőszivattyú",
+    "CL_DV_EY_line": "Vonal",
+    "CL_AC_widget_des": "Figyelemmel kíséri Air Care programjának állapotát.",
+    "CL_MP_which_meals": "Milyen étkezéseket szeretnél megtervezni?",
+    "CL_MP_meal_plan_week_des": "Az étkezési terv a kiválasztott profilodhoz igazodik. Az adagok mérete receptenként módosítható.",
+    "CL_MP_meals_week_count": "Heti 7 étkezés · 1 fő részére",
+    "CL_MP_choose_profile": "Válasszon egy profilt a heti vacsoraterv személyre szabásához. (Opcionális)",
+    "CL_MP_Ingredients_exclude": "Kizárandó összetevők",
+    "CL_MP_week_plan_limit_des": "Elérte a heti limitet. 7 naponta csak egy heti terv generálható.",
+    "CL_JA_tariff_electricity": "Elektromosság"
 }
