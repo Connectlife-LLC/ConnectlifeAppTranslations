@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Achtergrond met datum",
     "CL_DV_WCC_simple_clock": "Eenvoudige klok",
     "CL_DV_WCC_simple_clock_with_date": "Eenvoudige klok met datumweergave",
-    "CL_AC_widget_des": "Controleer de status van uw Air Care Autopilot-programma.",
     "CL_CF_hide_gr_entrance": "GR-ingang verbergen",
     "CL_CF_power_on_broadcast": "Inschakeluitzending",
     "CL_AI_check_food_inventory_prompt": "De recepten zijn gegenereerd. Wilt u dat ik nu de voedselvoorraad controleer?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "Geen actief plan deze week",
     "CL_Meal_Planner_no_week_plan_des": "Genereer een persoonlijk maaltijdplan om je week goed te beginnen, of plan handmatig.",
     "CL_MP_ai_week_plan": "AI genereert mijn week",
-    "CL_MP_plan_manually": "Handmatig plannen"
+    "CL_MP_plan_manually": "Handmatig plannen",
+    "multi_unit_heat_pump": "Multi-unit warmtepomp",
+    "CL_DV_EY_line": "Lijn",
+    "CL_AC_widget_des": "Houd de status van uw Air Care-programma in de gaten.",
+    "CL_MP_which_meals": "Welke maaltijden wilt u plannen?",
+    "CL_MP_meal_plan_week_des": "Het maaltijdplan wordt gepersonaliseerd op basis van uw geselecteerde profiel. De portiegrootte kan voor elk recept worden aangepast.",
+    "CL_MP_meals_week_count": "7 maaltijden per week · Voor 1 persoon",
+    "CL_MP_choose_profile": "Kies een profiel om je wekelijkse dinerplan te personaliseren. (Optioneel)",
+    "CL_MP_Ingredients_exclude": "Ingrediënten om te vermijden",
+    "CL_MP_week_plan_limit_des": "De wekelijkse limiet is bereikt. Er kan slechts één weekabonnement per 7 dagen worden aangemaakt.",
+    "CL_JA_tariff_electricity": "Elektriciteit"
 }

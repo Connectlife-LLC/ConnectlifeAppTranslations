@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Fundal cu dată",
     "CL_DV_WCC_simple_clock": "Ceas simplu",
     "CL_DV_WCC_simple_clock_with_date": "Ceas simplu cu dată",
-    "CL_AC_widget_des": "Monitorizați starea programului de pilot automat Air Care",
     "CL_CF_hide_gr_entrance": "Ascunde intrarea GR",
     "CL_CF_power_on_broadcast": "Transmisie la pornire",
     "CL_AI_check_food_inventory_prompt": "Rețetele au fost generate. Doriți să verific inventarul de alimente chiar acum?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "Niciun plan activ săptămâna aceasta",
     "CL_Meal_Planner_no_week_plan_des": "Generează un plan de mese personalizat pentru a începe săptămâna sau planifică-l manual.",
     "CL_MP_ai_week_plan": "AI-ul îmi generează săptămâna",
-    "CL_MP_plan_manually": "Planificați manual"
+    "CL_MP_plan_manually": "Planificați manual",
+    "multi_unit_heat_pump": "Pompă de căldură MulMultiti-unit",
+    "CL_DV_EY_line": "Linia",
+    "CL_AC_widget_des": "Monitorizați starea programului Air Care.",
+    "CL_MP_which_meals": "Ce mese vrei să planifici?",
+    "CL_MP_meal_plan_week_des": "Planul de masă este personalizat în funcție de profilul selectat. Porțiile pot fi ajustate pentru fiecare rețetă.",
+    "CL_MP_meals_week_count": "7 mese pe săptămână · Pentru 1 persoană",
+    "CL_MP_choose_profile": "Alege un profil pentru a-ți personaliza planul săptămânal de cină. (Opțional)",
+    "CL_MP_Ingredients_exclude": "Ingrediente de exclus",
+    "CL_MP_week_plan_limit_des": "Limita săptămânală a fost atinsă. Se poate genera un singur plan săptămânal la fiecare 7 zile.",
+    "CL_JA_tariff_electricity": "Electricitate"
 }

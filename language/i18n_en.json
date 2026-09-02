@@ -9066,7 +9066,7 @@
     "CL_DV_LRC_load_medium": "Medium",
     "CL_AC_quality_desc": "Air quality data is currently unavailable for this room.",
     "CL_AC_purification_off": "Purification OFF",
-    "CL_DR_website_link": "To get more information: https://en.connectlife.io/gridrelief",
+    "CL_DR_website_link": "For more information visit:\nhttps://connectlife.io/gridrelief",
     "CL_DV_WM_weighing_analyzing": "Analyzing",
     "CL_DV_RF_shopping_mode": "Shopping mode",
     "CL_DV_RF_shopping_mode_close": "Shopping mode off",
@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Background with date",
     "CL_DV_WCC_simple_clock": "Simple clock",
     "CL_DV_WCC_simple_clock_with_date": "Simple clock with date",
-    "CL_AC_widget_des": "Monitor your Air Care Autopilot program status",
     "CL_CF_hide_gr_entrance": "Hide GR entrance",
     "CL_CF_power_on_broadcast": "Power-on broadcast",
     "CL_AI_check_food_inventory_prompt": "The recipes have been generated. Would you like me to check the food inventory right now?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "No active plan this week",
     "CL_Meal_Planner_no_week_plan_des": "Generate a personalized meal plan to get started with your week, or plan manually.",
     "CL_MP_ai_week_plan": "AI generate my week",
-    "CL_MP_plan_manually": "Plan manually"
+    "CL_MP_plan_manually": "Plan manually",
+    "multi_unit_heat_pump": "MulMultiti-unit heat pump",
+    "CL_DV_EY_line": "Line",
+    "CL_AC_widget_des": "Monitor your Air Care program status.",
+    "CL_MP_which_meals": "Which meals do you want to plan?",
+    "CL_MP_meal_plan_week_des": "Meal plan is personalised to your selected profile. Serving sizes can be adjusted for each recipe.",
+    "CL_MP_meals_week_count": "7 meals per week  ·  For 1 person",
+    "CL_MP_choose_profile": "Choose a profile to personalize your weekly dinner plan. (Optional)",
+    "CL_MP_Ingredients_exclude": "Ingredients to exclude",
+    "CL_MP_week_plan_limit_des": "Weekly limit reached. Only one weekly plan can be generated every 7 days.",
+    "CL_JA_tariff_electricity": "Electricity"
 }

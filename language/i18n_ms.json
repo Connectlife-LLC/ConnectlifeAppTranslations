@@ -9130,7 +9130,6 @@
     "CL_DV_WCC_backgroud_with_date": "Latar belakang dengan tarikh",
     "CL_DV_WCC_simple_clock": "Jam ringkas",
     "CL_DV_WCC_simple_clock_with_date": "Jam ringkas dengan tarikh",
-    "CL_AC_widget_des": "Pantau status program Autopilot Penjagaan Udara anda",
     "CL_CF_hide_gr_entrance": "Sembunyikan pintu masuk GR",
     "CL_CF_power_on_broadcast": "Siaran hidup",
     "CL_AI_check_food_inventory_prompt": "Resipi telah dihasilkan. Adakah anda mahu saya menyemak inventori makanan sekarang?",
@@ -9208,5 +9207,15 @@
     "CL_Meal_Planner_no_week_plan_title": "Tiada pelan aktif minggu ini",
     "CL_Meal_Planner_no_week_plan_des": "Jana pelan makan yang diperibadikan untuk memulakan minggu anda, atau rancang secara manual.",
     "CL_MP_ai_week_plan": "AI menjana minggu saya",
-    "CL_MP_plan_manually": "Rancang secara manual"
+    "CL_MP_plan_manually": "Rancang secara manual",
+    "multi_unit_heat_pump": "Pam haba Multiunit",
+    "CL_DV_EY_line": "Baris",
+    "CL_AC_widget_des": "Pantau status program Penjagaan Udara anda.",
+    "CL_MP_which_meals": "Hidangan manakah yang ingin anda rancang?",
+    "CL_MP_meal_plan_week_des": "Pelan hidangan diperibadikan mengikut profil pilihan anda. Saiz hidangan boleh dilaraskan untuk setiap resipi.",
+    "CL_MP_meals_week_count": "7 hidangan seminggu · Untuk 1 orang",
+    "CL_MP_choose_profile": "Pilih profil untuk memperibadikan pelan makan malam mingguan anda. (Pilihan)",
+    "CL_MP_Ingredients_exclude": "Bahan-bahan untuk dikecualikan",
+    "CL_MP_week_plan_limit_des": "Had mingguan dicapai. Hanya satu pelan mingguan boleh dijana setiap 7 hari.",
+    "CL_JA_tariff_electricity": "Elektrik"
 }
