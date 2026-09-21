@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "1 dakika sonra kapanır",
     "CL_DV_wcc_off_after_x_min": "xxx dakika sonra kapanıyor",
     "CL_DV_wcc_light_time_out_details": "Kapıyı açtıktan veya kapattıktan sonra ışıkların ne kadar süreyle açık kalacağını ayarlayın.",
-    "CL_DV_wcc_do_not_show": "Gösterme"
+    "CL_DV_wcc_do_not_show": "Gösterme",
+    "last_used": "Son kullanım",
+    "most_used": "En çok kullanılan",
+    "your": "Senin"
 }

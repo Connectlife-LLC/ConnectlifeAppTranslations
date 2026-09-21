@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "Mati selepas 1 minit",
     "CL_DV_wcc_off_after_x_min": "Mati selepas xxx minit",
     "CL_DV_wcc_light_time_out_details": "Tetapkan berapa lama lampu akan menyala selepas membuka atau menutup pintu.",
-    "CL_DV_wcc_do_not_show": "Jangan tunjukkan"
+    "CL_DV_wcc_do_not_show": "Jangan tunjukkan",
+    "last_used": "Terakhir digunakan",
+    "most_used": "Paling banyak digunakan",
+    "your": "Anda"
 }

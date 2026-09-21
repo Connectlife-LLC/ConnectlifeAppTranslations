@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "Kikapcsolás 1 perc után",
     "CL_DV_wcc_off_after_x_min": "Kikapcsolás xxx perc után",
     "CL_DV_wcc_light_time_out_details": "Állítsa be, hogy a lámpák mennyi ideig maradjanak égve az ajtó kinyitása vagy bezárása után.",
-    "CL_DV_wcc_do_not_show": "Ne mutassa"
+    "CL_DV_wcc_do_not_show": "Ne mutassa",
+    "last_used": "Utolsó használat",
+    "most_used": "Legtöbbet használt",
+    "your": "A te"
 }

@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "Izklop po 1 minuti",
     "CL_DV_wcc_off_after_x_min": "Izklop po xxx minutah",
     "CL_DV_wcc_light_time_out_details": "Nastavite, kako dolgo naj luči ostanejo prižgane po odprtju ali zapiranju vrat.",
-    "CL_DV_wcc_do_not_show": "Ne prikaži"
+    "CL_DV_wcc_do_not_show": "Ne prikaži",
+    "last_used": "Nazadnje uporabljeno",
+    "most_used": "Najbolj uporabljeno",
+    "your": "Tvoj"
 }

@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "1分钟后关闭",
     "CL_DV_wcc_off_after_x_min": "xxx 分钟后关闭",
     "CL_DV_wcc_light_time_out_details": "设置开门或关门后灯保持亮起的时间。",
-    "CL_DV_wcc_do_not_show": "不要显示"
+    "CL_DV_wcc_do_not_show": "不要显示",
+    "last_used": "上次使用",
+    "most_used": "最常用",
+    "your": "你的"
 }

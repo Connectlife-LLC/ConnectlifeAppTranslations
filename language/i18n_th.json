@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "ปิดเองหลังจาก 1 นาที",
     "CL_DV_wcc_off_after_x_min": "ปิดหลังจาก xxx นาที",
     "CL_DV_wcc_light_time_out_details": "ตั้งค่าระยะเวลาที่ไฟจะติดอยู่หลังจากเปิดหรือปิดประตู",
-    "CL_DV_wcc_do_not_show": "อย่าแสดง"
+    "CL_DV_wcc_do_not_show": "อย่าแสดง",
+    "last_used": "ใช้งานครั้งล่าสุด",
+    "most_used": "ใช้งานมากที่สุด",
+    "your": "ของคุณ"
 }

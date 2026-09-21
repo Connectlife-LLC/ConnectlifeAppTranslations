@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "Исклучено по 1 минута",
     "CL_DV_wcc_off_after_x_min": "Исклучено по xxx минути",
     "CL_DV_wcc_light_time_out_details": "Поставете колку долго светлата ќе останат вклучени по отворањето или затворањето на вратата.",
-    "CL_DV_wcc_do_not_show": "Не прикажувај"
+    "CL_DV_wcc_do_not_show": "Не прикажувај",
+    "last_used": "Последно користено",
+    "most_used": "Најкористени",
+    "your": "Твој"
 }

@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "Wyłączone po 1 minucie",
     "CL_DV_wcc_off_after_x_min": "Wyłączone po xxx minutach",
     "CL_DV_wcc_light_time_out_details": "Ustaw, jak długo światło ma się świecić po otwarciu lub zamknięciu drzwi.",
-    "CL_DV_wcc_do_not_show": "Nie pokazuj"
+    "CL_DV_wcc_do_not_show": "Nie pokazuj",
+    "last_used": "Ostatnio używane",
+    "most_used": "Najczęściej używane",
+    "your": "Twój"
 }

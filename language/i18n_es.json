@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "Se apaga después de 1 minuto.",
     "CL_DV_wcc_off_after_x_min": "Se apaga después de xxx minutos",
     "CL_DV_wcc_light_time_out_details": "Configura cuánto tiempo permanecerán encendidas las luces después de abrir o cerrar la puerta.",
-    "CL_DV_wcc_do_not_show": "No mostrar"
+    "CL_DV_wcc_do_not_show": "No mostrar",
+    "last_used": "Último uso",
+    "most_used": "Más utilizado",
+    "your": "Su"
 }

@@ -9311,5 +9311,8 @@
     "CL_DV_wcc_off_after_1_min": "Av etter 1 minutt",
     "CL_DV_wcc_off_after_x_min": "Av etter xxx minutter",
     "CL_DV_wcc_light_time_out_details": "Angi hvor lenge lysene skal være på etter at døren er åpnet eller lukket.",
-    "CL_DV_wcc_do_not_show": "Ikke vis"
+    "CL_DV_wcc_do_not_show": "Ikke vis",
+    "last_used": "Sist brukt",
+    "most_used": "Mest brukt",
+    "your": "Din"
 }
