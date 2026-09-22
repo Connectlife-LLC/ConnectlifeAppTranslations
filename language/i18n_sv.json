@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Avstängd efter 1 minut",
     "CL_DV_wcc_off_after_x_min": "Avstängd efter xxx minuter",
     "CL_DV_wcc_light_time_out_details": "Ställ in hur länge lamporna ska vara tända efter att dörren öppnats eller stängts.",
-    "CL_DV_wcc_do_not_show": "Visa inte"
+    "CL_DV_wcc_do_not_show": "Visa inte",
+    "last_used": "Senast använd",
+    "most_used": "Mest använda",
+    "your": "Din",
+    "CL_DV_wcc_ select_year": "Välj år",
+    "CL_DV_wcc_ add_a_note": "Lägg till en anteckning"
 }

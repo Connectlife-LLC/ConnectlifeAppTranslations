@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Nach 1 Minute ausschalten",
     "CL_DV_wcc_off_after_x_min": "Abschalten nach xxx Minuten",
     "CL_DV_wcc_light_time_out_details": "Stellen Sie ein, wie lange die Lichter nach dem Öffnen oder Schließen der Tür anbleiben.",
-    "CL_DV_wcc_do_not_show": "Nicht zeigen"
+    "CL_DV_wcc_do_not_show": "Nicht zeigen",
+    "last_used": "Zuletzt verwendet",
+    "most_used": "Am häufigsten verwendet",
+    "your": "Dein",
+    "CL_DV_wcc_ select_year": "Jahr auswählen",
+    "CL_DV_wcc_ add_a_note": "Füge eine Notiz hinzu"
 }

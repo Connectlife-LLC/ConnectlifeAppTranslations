@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "1 मिनट बाद बंद",
     "CL_DV_wcc_off_after_x_min": "xxx मिनट बाद बंद हो जाएगा",
     "CL_DV_wcc_light_time_out_details": "दरवाजा खोलने या बंद करने के बाद लाइटें कितनी देर तक जलती रहें, यह सेट करें।",
-    "CL_DV_wcc_do_not_show": "मत दिखाओ"
+    "CL_DV_wcc_do_not_show": "मत दिखाओ",
+    "last_used": "अंतिम समय प्रयोग हुआ",
+    "most_used": "सबसे अधिक इस्तेमाल किया गता",
+    "your": "आपका",
+    "CL_DV_wcc_ select_year": "वर्ष चुनें",
+    "CL_DV_wcc_ add_a_note": "एक नोट जोड़े"
 }

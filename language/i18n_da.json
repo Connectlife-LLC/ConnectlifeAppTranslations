@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Slukker efter 1 minut",
     "CL_DV_wcc_off_after_x_min": "Slukker efter xxx minutter",
     "CL_DV_wcc_light_time_out_details": "Indstil hvor længe lyset skal være tændt efter åbning eller lukning af døren.",
-    "CL_DV_wcc_do_not_show": "Vis ikke"
+    "CL_DV_wcc_do_not_show": "Vis ikke",
+    "last_used": "Sidst brugt",
+    "most_used": "Mest brugte",
+    "your": "Dine",
+    "CL_DV_wcc_ select_year": "Vælg år",
+    "CL_DV_wcc_ add_a_note": "Tilføj en note"
 }

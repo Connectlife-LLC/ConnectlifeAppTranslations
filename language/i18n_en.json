@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Off after 1 minute",
     "CL_DV_wcc_off_after_x_min": "Off after xxx minutes",
     "CL_DV_wcc_light_time_out_details": "Set how long the lights stay on after opening or closing the door.",
-    "CL_DV_wcc_do_not_show": "Don't show"
+    "CL_DV_wcc_do_not_show": "Don't show",
+    "last_used": "Last used",
+    "most_used": "Most used",
+    "your": "Your",
+    "CL_DV_wcc_ select_year": "Select year",
+    "CL_DV_wcc_ add_a_note": "Add a note"
 }

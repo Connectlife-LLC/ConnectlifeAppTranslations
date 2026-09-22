@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Uit na 1 minuut",
     "CL_DV_wcc_off_after_x_min": "Uitschakelen na xxx minuten",
     "CL_DV_wcc_light_time_out_details": "Stel in hoe lang de lichten aan blijven na het openen of sluiten van de deur.",
-    "CL_DV_wcc_do_not_show": "Niet laten zien"
+    "CL_DV_wcc_do_not_show": "Niet laten zien",
+    "last_used": "Laatst gebruikt",
+    "most_used": "Meest gebruikt",
+    "your": "Jouw",
+    "CL_DV_wcc_ select_year": "Selecteer jaar",
+    "CL_DV_wcc_ add_a_note": "Voeg een notitie toe"
 }

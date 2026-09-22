@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Vypnuto po 1 minutě",
     "CL_DV_wcc_off_after_x_min": "Vypnuto po xxx minutách",
     "CL_DV_wcc_light_time_out_details": "Nastavte, jak dlouho zůstanou světla rozsvícená po otevření nebo zavření dveří.",
-    "CL_DV_wcc_do_not_show": "Nezobrazovat"
+    "CL_DV_wcc_do_not_show": "Nezobrazovat",
+    "last_used": "Naposledy použito",
+    "most_used": "Nejpoužívanější",
+    "your": "Váš",
+    "CL_DV_wcc_ select_year": "Vyberte rok",
+    "CL_DV_wcc_ add_a_note": "Přidat poznámku"
 }

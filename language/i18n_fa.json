@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "خاموش شدن بعد از ۱ دقیقه",
     "CL_DV_wcc_off_after_x_min": "خاموش شدن بعد از xxx دقیقه",
     "CL_DV_wcc_light_time_out_details": "مدت زمان روشن ماندن چراغ‌ها پس از باز یا بسته شدن درب را تنظیم کنید.",
-    "CL_DV_wcc_do_not_show": "نشان نده"
+    "CL_DV_wcc_do_not_show": "نشان نده",
+    "last_used": "آخرین استفاده",
+    "most_used": "بیشترین استفاده",
+    "your": "شما",
+    "CL_DV_wcc_ select_year": "سال را انتخاب کنید",
+    "CL_DV_wcc_ add_a_note": "اضافه کردن یادداشت"
 }

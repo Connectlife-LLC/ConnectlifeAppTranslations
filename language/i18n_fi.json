@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Pois päältä 1 minuutin kuluttua",
     "CL_DV_wcc_off_after_x_min": "Pois päältä xxx minuutin kuluttua",
     "CL_DV_wcc_light_time_out_details": "Aseta, kuinka kauan valot pysyvät päällä oven avaamisen tai sulkemisen jälkeen.",
-    "CL_DV_wcc_do_not_show": "Älä näytä"
+    "CL_DV_wcc_do_not_show": "Älä näytä",
+    "last_used": "Viimeksi käytetty",
+    "most_used": "Käytetyimmät",
+    "your": "Sinun",
+    "CL_DV_wcc_ select_year": "Valitse vuosi",
+    "CL_DV_wcc_ add_a_note": "Lisää muistiinpano"
 }

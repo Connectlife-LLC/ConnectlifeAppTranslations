@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Spento dopo 1 minuto",
     "CL_DV_wcc_off_after_x_min": "Spegnimento dopo xxx minuti",
     "CL_DV_wcc_light_time_out_details": "Imposta per quanto tempo le luci rimangono accese dopo l'apertura o la chiusura della porta.",
-    "CL_DV_wcc_do_not_show": "Non mostrare"
+    "CL_DV_wcc_do_not_show": "Non mostrare",
+    "last_used": "Ultimo utilizzo",
+    "most_used": "Più utilizzato",
+    "your": "Tuo",
+    "CL_DV_wcc_ select_year": "Seleziona l'anno",
+    "CL_DV_wcc_ add_a_note": "Aggiungi una nota"
 }

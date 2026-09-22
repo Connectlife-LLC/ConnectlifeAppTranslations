@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "כבוי לאחר דקה",
     "CL_DV_wcc_off_after_x_min": "כבוי לאחר xxx דקות",
     "CL_DV_wcc_light_time_out_details": "הגדר את משך הזמן שבו האורות יישארו דולקים לאחר פתיחה או סגירה של הדלת.",
-    "CL_DV_wcc_do_not_show": "אל תציג"
+    "CL_DV_wcc_do_not_show": "אל תציג",
+    "last_used": "בשימוש אחרון",
+    "most_used": "הכי בשימוש",
+    "your": "שֶׁלְךָ",
+    "CL_DV_wcc_ select_year": "בחר שנה",
+    "CL_DV_wcc_ add_a_note": "הוסף הערה"
 }
