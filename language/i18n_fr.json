@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Arrêt après 1 minute",
     "CL_DV_wcc_off_after_x_min": "Arrêt après xxx minutes",
     "CL_DV_wcc_light_time_out_details": "Réglez la durée pendant laquelle les lumières restent allumées après l'ouverture ou la fermeture de la porte.",
-    "CL_DV_wcc_do_not_show": "Ne pas montrer"
+    "CL_DV_wcc_do_not_show": "Ne pas montrer",
+    "last_used": "Dernière utilisation",
+    "most_used": "Les plus utilisés",
+    "your": "Ton",
+    "CL_DV_wcc_ select_year": "Sélectionnez l'année",
+    "CL_DV_wcc_ add_a_note": "Ajouter une note"
 }

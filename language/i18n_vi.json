@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "Tắt sau 1 phút",
     "CL_DV_wcc_off_after_x_min": "Tắt sau xxx phút",
     "CL_DV_wcc_light_time_out_details": "Thiết lập thời gian đèn sáng sau khi mở hoặc đóng cửa.",
-    "CL_DV_wcc_do_not_show": "Đừng hiển thị"
+    "CL_DV_wcc_do_not_show": "Đừng hiển thị",
+    "last_used": "Lần cuối sử dụng",
+    "most_used": "Được sử dụng nhiều nhất",
+    "your": "Của bạn",
+    "CL_DV_wcc_ select_year": "Chọn năm",
+    "CL_DV_wcc_ add_a_note": "Thêm ghi chú"
 }

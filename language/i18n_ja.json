@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "1分後にオフ",
     "CL_DV_wcc_off_after_x_min": "xxx分後にオフ",
     "CL_DV_wcc_light_time_out_details": "ドアの開閉後、ライトが点灯し続ける時間を設定します。",
-    "CL_DV_wcc_do_not_show": "表示しない"
+    "CL_DV_wcc_do_not_show": "表示しない",
+    "last_used": "最終使用日時",
+    "most_used": "最もよく使われる",
+    "your": "あなたの",
+    "CL_DV_wcc_ select_year": "年を選択してください",
+    "CL_DV_wcc_ add_a_note": "メモを追加"
 }

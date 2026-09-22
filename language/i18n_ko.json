@@ -9311,5 +9311,10 @@
     "CL_DV_wcc_off_after_1_min": "1분 후 꺼짐",
     "CL_DV_wcc_off_after_x_min": "xxx분 후 꺼짐",
     "CL_DV_wcc_light_time_out_details": "문을 열거나 닫은 후 조명이 켜져 있는 시간을 설정하세요.",
-    "CL_DV_wcc_do_not_show": "보여주지 마세요"
+    "CL_DV_wcc_do_not_show": "보여주지 마세요",
+    "last_used": "마지막 사용",
+    "most_used": "가장 많이 사용되는",
+    "your": "당신의",
+    "CL_DV_wcc_ select_year": "연도를 선택하세요",
+    "CL_DV_wcc_ add_a_note": "메모를 추가하세요"
 }
