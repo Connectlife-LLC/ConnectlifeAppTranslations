@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "¿Qué es PM2.5?",
     "CL_AC_air_care_pm25_des": "Partículas diminutas provenientes de la cocina, el humo, las velas y el polvo irritan los ojos y los pulmones, con riesgos a largo plazo para el corazón y los pulmones. El riesgo es mayor para los niños, los ancianos y las personas con asma.",
     "CL_AC_air_care_data_gap": "Brecha de datos",
-    "CL_AC_air_care_data_gap_des": "Se perdió la conexión con su dispositivo."
+    "CL_AC_air_care_data_gap_des": "Se perdió la conexión con su dispositivo.",
+    "CL_AC_air_care_tvoc_w_i": "¿Qué es el COV total?",
+    "CL_AC_air_care_temp_hum_poor": "La desviación supera el rango de confort.",
+    "CL_AI_guide_ai_des": "Hola, soy VIDAA, <b>tu asistente de IA.</b> Pídeme orientación, recomendaciones y más.",
+    "CL_AC_air_care_temp_hum_moderate": "Dentro de una desviación de ## respecto al rango de confort."
 }

@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "什麼是PM2.5？",
     "CL_AC_air_care_pm25_des": "烹飪、煙霧、蠟燭和灰塵中的微小顆粒會刺激眼睛和肺部，長期接觸會對心臟和肺部造成風險。兒童、老年人和氣喘患者的風險較高。",
     "CL_AC_air_care_data_gap": "數據缺口",
-    "CL_AC_air_care_data_gap_des": "您的裝置連線已中斷。"
+    "CL_AC_air_care_data_gap_des": "您的裝置連線已中斷。",
+    "CL_AC_air_care_tvoc_w_i": "TVOC是什麼？",
+    "CL_AC_air_care_temp_hum_poor": "偏差超過舒適範圍的##。",
+    "CL_AI_guide_ai_des": "你好，我是VIDAA，<b>你的人工智慧助理。</b> 向我尋求指導、建議等等。",
+    "CL_AC_air_care_temp_hum_moderate": "在舒適範圍的##偏差範圍內。"
 }

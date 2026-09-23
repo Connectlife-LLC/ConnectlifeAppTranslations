@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "Čo je PM2,5",
     "CL_AC_air_care_pm25_des": "Drobné častice z varenia, dymu, sviečok a prachu, ktoré dráždia oči a pľúca s dlhodobými rizikami pre srdce a pľúca. Vyššie riziko pre deti, starších ľudí a ľudí s astmou.",
     "CL_AC_air_care_data_gap": "Medzera v údajoch",
-    "CL_AC_air_care_data_gap_des": "Pripojenie k vášmu zariadeniu sa stratilo."
+    "CL_AC_air_care_data_gap_des": "Pripojenie k vášmu zariadeniu sa stratilo.",
+    "CL_AC_air_care_tvoc_w_i": "Čo je TVOC",
+    "CL_AC_air_care_temp_hum_poor": "Odchýlka presahuje ## od rozsahu komfortu.",
+    "CL_AI_guide_ai_des": "Ahoj, ja som VIDAA, <b>váš asistent s umelou inteligenciou.</b> Požiadajte ma o radu, odporúčania a ďalšie informácie.",
+    "CL_AC_air_care_temp_hum_moderate": "V rámci ## odchýlky od rozsahu komfortu."
 }

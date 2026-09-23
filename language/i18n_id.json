@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "Apa itu PM2.5?",
     "CL_AC_air_care_pm25_des": "Partikel-partikel kecil dari masakan, asap, lilin, dan debu yang mengiritasi mata dan paru-paru, dengan risiko jangka panjang bagi jantung dan paru-paru. Risiko lebih tinggi bagi anak-anak, lansia, dan penderita asma.",
     "CL_AC_air_care_data_gap": "Kesenjangan data",
-    "CL_AC_air_care_data_gap_des": "Koneksi ke perangkat Anda terputus."
+    "CL_AC_air_care_data_gap_des": "Koneksi ke perangkat Anda terputus.",
+    "CL_AC_air_care_tvoc_w_i": "Apa itu TVOC?",
+    "CL_AC_air_care_temp_hum_poor": "Penyimpangan melebihi ## dari rentang kenyamanan.",
+    "CL_AI_guide_ai_des": "Hai, saya VIDAA, <b>asisten AI Anda.</b> Mintalah bimbingan, rekomendasi, dan lainnya dari saya.",
+    "CL_AC_air_care_temp_hum_moderate": "Dalam batas deviasi ## dari rentang kenyamanan."
 }
