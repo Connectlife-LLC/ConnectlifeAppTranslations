@@ -7813,7 +7813,7 @@
     "CL_DV_EY_grid_power": "Mrežna snaga",
     "CL_DV_EY_reactive_power": "Reaktivna snaga",
     "CL_DV_EY_weekday": "Radni dan",
-    "CL_AI_guide_assistant_new_title": "Bok, ja sam VIDAA, vaš <b>AI asistent</b>Mogu vas voditi, predlagati programe i olakšati vam svakodnevne zadatke. ",
+    "CL_AI_guide_assistant_new_title": "Bok, ja sam VIDAA, vaš <b>AI asistent</b>. Mogu vas voditi, predlagati programe i olakšati vam svakodnevne zadatke. ",
     "CL_bind_phone": "Veza telefonskog broja",
     "ai_mode_time_use": "AI način rada (za odgovor na određivanje cijena na temelju vremena korištenja)",
     "ai_mode_real_time": "AI način rada (za odgovor na cijene u stvarnom vremenu)",
@@ -9344,5 +9344,8 @@
     "CL_AC_air_care_pm25_w_i": "Što je PM2.5",
     "CL_AC_air_care_pm25_des": "Sitne čestice od kuhanja, dima, svijeća i prašine koje iritiraju oči i pluća, s dugoročnim rizicima za srce i pluća. Veći rizik za djecu, starije osobe i osobe s astmom.",
     "CL_AC_air_care_data_gap": "Nedostatak podataka",
-    "CL_AC_air_care_data_gap_des": "Veza s vašim uređajem je prekinuta."
+    "CL_AC_air_care_data_gap_des": "Veza s vašim uređajem je prekinuta.",
+    "CL_AC_air_care_tvoc_w_i": "Što je TVOC",
+    "CL_AC_air_care_temp_hum_moderate": "Unutar ## odstupanja od raspona udobnosti.",
+    "CL_AC_air_care_temp_hum_poor": "Odstupanje prelazi ## od raspona udobnosti."
 }

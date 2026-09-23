@@ -9344,5 +9344,8 @@
     "CL_AC_air_care_pm25_w_i": "What is PM2.5",
     "CL_AC_air_care_pm25_des": "Tiny particles from cooking, smoke, candles, and dust that irritate eyes and lungs, with long-term heart and lung risks. Higher risk for children, the elderly, and those with asthma.",
     "CL_AC_air_care_data_gap": "Data gap",
-    "CL_AC_air_care_data_gap_des": "Connection to your device was lost."
+    "CL_AC_air_care_data_gap_des": "Connection to your device was lost.",
+    "CL_AC_air_care_tvoc_w_i": "What is TVOC",
+    "CL_AC_air_care_temp_hum_moderate": "Within ##  deviation from the comfort range.",
+    "CL_AC_air_care_temp_hum_poor": "Deviation exceeds ## from the comfort range."
 }
