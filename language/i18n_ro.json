@@ -9344,5 +9344,13 @@
     "CL_AC_air_care_pm25_w_i": "Ce este PM2.5",
     "CL_AC_air_care_pm25_des": "Particule minuscule provenite din gătit, fum, lumânări și praf care irită ochii și plămânii, cu riscuri pe termen lung pentru inimă și plămâni. Risc mai mare pentru copii, vârstnici și persoanele cu astm.",
     "CL_AC_air_care_data_gap": "Lacune în date",
-    "CL_AC_air_care_data_gap_des": "Conexiunea la dispozitivul dvs. s-a pierdut."
+    "CL_AC_air_care_data_gap_des": "Conexiunea la dispozitivul dvs. s-a pierdut.",
+    "CL_AC_air_care_tvoc_w_i": "Ce este TVOC?",
+    "CL_AC_air_care_temp_hum_poor": "Abaterea depășește ## față de intervalul de confort.",
+    "CL_AI_guide_ai_des": "Salut, sunt VIDAA, <b>asistentul tău AI</b>. Cere-mi îndrumări, recomandări și multe altele.",
+    "CL_AC_air_care_temp_hum_moderate": "În limita a ## abateri de la intervalul de confort.",
+    "CL_CF_FM_fridge_almost_full_tips": "Frigiderul tău este aproape plin. Îți recomandăm să folosești ce ai înainte de a cumpăra mai mult.",
+    "CL_CF_FM_reminder_title": "Memento",
+    "CL_CF_FM_missing_food_title": "Ingrediente lipsă recomandate",
+    "CL_CF_FM_missing_food_tips": "Este posibil să vă lipsească următoarele ingrediente. Selectați-le pentru a le adăuga pe lista de cumpărături."
 }

@@ -9344,5 +9344,13 @@
     "CL_AC_air_care_pm25_w_i": "PM2.5とは何ですか？",
     "CL_AC_air_care_pm25_des": "調理、煙、ろうそく、ほこりなどから発生する微粒子は、目や肺を刺激し、長期的に心臓や肺にリスクをもたらします。子供、高齢者、喘息患者は特にリスクが高くなります。",
     "CL_AC_air_care_data_gap": "データギャップ",
-    "CL_AC_air_care_data_gap_des": "お使いのデバイスとの接続が失われました。"
+    "CL_AC_air_care_data_gap_des": "お使いのデバイスとの接続が失われました。",
+    "CL_AC_air_care_tvoc_w_i": "TVOCとは何ですか？",
+    "CL_AC_air_care_temp_hum_poor": "逸脱が快適範囲から##を超えています。",
+    "CL_AI_guide_ai_des": "こんにちは、私はVIDAAです。<b>あなたのAIアシスタント</b>です。ガイダンスやおすすめ情報など、何でもお気軽にお尋ねください。",
+    "CL_AC_air_care_temp_hum_moderate": "快適範囲からの##偏差以内。",
+    "CL_CF_FM_fridge_almost_full_tips": "冷蔵庫がほぼ満杯です。追加購入する前に、今ある食材を使い切ることをお勧めします。",
+    "CL_CF_FM_reminder_title": "リマインダー",
+    "CL_CF_FM_missing_food_title": "不足している推奨材料",
+    "CL_CF_FM_missing_food_tips": "以下の材料が不足している可能性があります。該当する材料を選択して、買い物リストに追加してください。"
 }

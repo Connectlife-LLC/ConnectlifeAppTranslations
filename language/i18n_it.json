@@ -9344,5 +9344,13 @@
     "CL_AC_air_care_pm25_w_i": "Che cos'è il PM2.5?",
     "CL_AC_air_care_pm25_des": "Particelle minuscole provenienti da cottura, fumo, candele e polvere che irritano occhi e polmoni, con rischi a lungo termine per il cuore e i polmoni. Il rischio è maggiore per i bambini, gli anziani e le persone asmatiche.",
     "CL_AC_air_care_data_gap": "Mancanza di dati",
-    "CL_AC_air_care_data_gap_des": "La connessione al dispositivo è stata persa."
+    "CL_AC_air_care_data_gap_des": "La connessione al dispositivo è stata persa.",
+    "CL_AC_air_care_tvoc_w_i": "Che cos'è il TVOC?",
+    "CL_AC_air_care_temp_hum_poor": "La deviazione supera ## dall'intervallo di comfort.",
+    "CL_AI_guide_ai_des": "Ciao, sono VIDAA, <b>il tuo assistente IA.</b> Chiedimi consigli, suggerimenti e altro ancora.",
+    "CL_AC_air_care_temp_hum_moderate": "Entro ## deviazione dall'intervallo di comfort.",
+    "CL_CF_FM_fridge_almost_full_tips": "Il tuo frigorifero è quasi pieno. Ti consigliamo di consumare gli alimenti che hai già prima di acquistarne altri.",
+    "CL_CF_FM_reminder_title": "Promemoria",
+    "CL_CF_FM_missing_food_title": "Ingredienti mancanti consigliati",
+    "CL_CF_FM_missing_food_tips": "Potrebbero mancare i seguenti ingredienti. Selezionali per aggiungerli alla lista della spesa."
 }

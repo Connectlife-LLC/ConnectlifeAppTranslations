@@ -9344,5 +9344,13 @@
     "CL_AC_air_care_pm25_w_i": "什么是PM2.5？",
     "CL_AC_air_care_pm25_des": "烹饪、烟雾、蜡烛和灰尘中的微小颗粒会刺激眼睛和肺部，长期接触会对心脏和肺部造成风险。儿童、老年人和哮喘患者的风险更高。",
     "CL_AC_air_care_data_gap": "数据缺口",
-    "CL_AC_air_care_data_gap_des": "您的设备连接已断开。"
+    "CL_AC_air_care_data_gap_des": "您的设备连接已断开。",
+    "CL_AC_air_care_tvoc_w_i": "TVOC是什么？",
+    "CL_AC_air_care_temp_hum_poor": "偏差超过舒适范围的##。",
+    "CL_AI_guide_ai_des": "你好，我是VIDAA，<b>你的人工智能助手。</b> 向我寻求指导、建议等等。",
+    "CL_AC_air_care_temp_hum_moderate": "与舒适范围的偏差在 ## 以内。",
+    "CL_CF_FM_fridge_almost_full_tips": "您的冰箱快满了。我们建议您先把现有的食物用完，然后再购买新的。",
+    "CL_CF_FM_reminder_title": "提醒",
+    "CL_CF_FM_missing_food_title": "推荐的缺失成分",
+    "CL_CF_FM_missing_food_tips": "您可能缺少以下食材。请选择它们添加到您的购物清单中。"
 }

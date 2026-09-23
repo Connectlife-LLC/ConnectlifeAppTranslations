@@ -7813,7 +7813,7 @@
     "CL_DV_EY_grid_power": "Omrežna moč",
     "CL_DV_EY_reactive_power": "Reaktivna moč",
     "CL_DV_EY_weekday": "Delovni dan",
-    "CL_AI_guide_assistant_new_title": "Živjo, jaz sem VIDAA, tvoja <b>Pomočnik umetne inteligence</b>Lahko vas vodim, predlagam programe in vam olajšam vsakodnevna opravila. ",
+    "CL_AI_guide_assistant_new_title": "Živjo, jaz sem VIDAA, tvoj <b>AI pomočnik </b>. Lahko vas vodim, predlagam programe in vam olajšam vsakodnevna opravila.",
     "CL_bind_phone": "Povezava telefonske številke",
     "ai_mode_time_use": "Način umetne inteligence (za odziv na cene glede na čas uporabe)",
     "ai_mode_real_time": "Način umetne inteligence (za odziv na cene v realnem času)",
@@ -9344,5 +9344,13 @@
     "CL_AC_air_care_pm25_w_i": "Kaj je PM2,5",
     "CL_AC_air_care_pm25_des": "Drobni delci iz kuhanja, dima, sveč in prahu, ki dražijo oči in pljuča, kar dolgoročno predstavlja tveganje za srce in pljuča. Večje tveganje za otroke, starejše in osebe z astmo.",
     "CL_AC_air_care_data_gap": "Vrzel v podatkih",
-    "CL_AC_air_care_data_gap_des": "Povezava z vašo napravo je bila prekinjena."
+    "CL_AC_air_care_data_gap_des": "Povezava z vašo napravo je bila prekinjena.",
+    "CL_AC_air_care_tvoc_w_i": "Kaj je TVOC",
+    "CL_AC_air_care_temp_hum_poor": "Odstopanje presega ## od območja udobja.",
+    "CL_AI_guide_ai_des": "Živjo, jaz sem VIDAA, <b>vaš asistent za umetno inteligenco.</b> Vprašajte me za nasvet, priporočila in še več.",
+    "CL_AC_air_care_temp_hum_moderate": "Znotraj ## odstopanja od območja udobja.",
+    "CL_CF_FM_fridge_almost_full_tips": "Vaš hladilnik je skoraj poln. Priporočamo, da porabite, kar imate, preden kupite več.",
+    "CL_CF_FM_reminder_title": "Opomnik",
+    "CL_CF_FM_missing_food_title": "Priporočene manjkajoče sestavine",
+    "CL_CF_FM_missing_food_tips": "Morda vam manjkajo naslednje sestavine. Izberite jih, da jih dodate na nakupovalni seznam."
 }
