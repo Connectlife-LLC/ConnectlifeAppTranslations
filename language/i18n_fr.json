@@ -9344,5 +9344,8 @@
     "CL_AC_air_care_pm25_w_i": "Qu'est-ce que les PM2.5 ?",
     "CL_AC_air_care_pm25_des": "Les fines particules issues de la cuisson, de la fumée, des bougies et de la poussière irritent les yeux et les poumons, et présentent des risques à long terme pour le cœur et les poumons. Le risque est plus élevé chez les enfants, les personnes âgées et les asthmatiques.",
     "CL_AC_air_care_data_gap": "Lacune en matière de données",
-    "CL_AC_air_care_data_gap_des": "La connexion à votre appareil a été perdue."
+    "CL_AC_air_care_data_gap_des": "La connexion à votre appareil a été perdue.",
+    "CL_AC_air_care_tvoc_w_i": "Qu'est-ce que TVOC ?",
+    "CL_AC_air_care_temp_hum_moderate": "À moins de ## écarts de la zone de confort.",
+    "CL_AC_air_care_temp_hum_poor": "L'écart dépasse ## par rapport à la plage de confort."
 }

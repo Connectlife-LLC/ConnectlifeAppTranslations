@@ -9344,5 +9344,8 @@
     "CL_AC_air_care_pm25_w_i": "Mikä on PM2.5",
     "CL_AC_air_care_pm25_des": "Ruoanlaitosta, savusta, kynttilöistä ja pölystä tulevat pienet hiukkaset, jotka ärsyttävät silmiä ja keuhkoja ja aiheuttavat pitkäaikaisia ​​sydän- ja keuhkoriskejä. Suurempi riski lapsille, vanhuksille ja astmaatikoille.",
     "CL_AC_air_care_data_gap": "Tietoaukko",
-    "CL_AC_air_care_data_gap_des": "Yhteys laitteeseesi katkesi."
+    "CL_AC_air_care_data_gap_des": "Yhteys laitteeseesi katkesi.",
+    "CL_AC_air_care_tvoc_w_i": "Mikä on TVOC",
+    "CL_AC_air_care_temp_hum_moderate": "## poikkeaman sisällä mukavuusalueesta.",
+    "CL_AC_air_care_temp_hum_poor": "Poikkeama ylittää ## mukavuusalueelta."
 }

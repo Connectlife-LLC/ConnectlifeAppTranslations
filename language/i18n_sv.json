@@ -9344,5 +9344,8 @@
     "CL_AC_air_care_pm25_w_i": "Vad är PM2.5",
     "CL_AC_air_care_pm25_des": "Små partiklar från matlagning, rök, ljus och damm som irriterar ögon och lungor, med långsiktiga risker för hjärta och lungor. Högre risk för barn, äldre och personer med astma.",
     "CL_AC_air_care_data_gap": "Datagap",
-    "CL_AC_air_care_data_gap_des": "Anslutningen till din enhet bröts."
+    "CL_AC_air_care_data_gap_des": "Anslutningen till din enhet bröts.",
+    "CL_AC_air_care_tvoc_w_i": "Vad är TVOC",
+    "CL_AC_air_care_temp_hum_moderate": "Inom ## avvikelse från komfortintervallet.",
+    "CL_AC_air_care_temp_hum_poor": "Avvikelsen överstiger ## från komfortintervallet."
 }

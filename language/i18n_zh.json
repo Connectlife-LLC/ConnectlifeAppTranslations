@@ -9344,5 +9344,8 @@
     "CL_AC_air_care_pm25_w_i": "什么是PM2.5？",
     "CL_AC_air_care_pm25_des": "烹饪、烟雾、蜡烛和灰尘中的微小颗粒会刺激眼睛和肺部，长期接触会对心脏和肺部造成风险。儿童、老年人和哮喘患者的风险更高。",
     "CL_AC_air_care_data_gap": "数据缺口",
-    "CL_AC_air_care_data_gap_des": "您的设备连接已断开。"
+    "CL_AC_air_care_data_gap_des": "您的设备连接已断开。",
+    "CL_AC_air_care_tvoc_w_i": "TVOC是什么？",
+    "CL_AC_air_care_temp_hum_moderate": "与舒适范围的偏差在 ## 以内。",
+    "CL_AC_air_care_temp_hum_poor": "偏差超过舒适范围的##。"
 }

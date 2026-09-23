@@ -9344,5 +9344,8 @@
     "CL_AC_air_care_pm25_w_i": "Was ist PM2,5?",
     "CL_AC_air_care_pm25_des": "Feinstaub aus Kochdünsten, Rauch, Kerzen und Staub reizt Augen und Lunge und kann langfristig Herz- und Lungenerkrankungen verursachen. Besonders gefährdet sind Kinder, ältere Menschen und Asthmatiker.",
     "CL_AC_air_care_data_gap": "Datenlücke",
-    "CL_AC_air_care_data_gap_des": "Die Verbindung zu Ihrem Gerät wurde unterbrochen."
+    "CL_AC_air_care_data_gap_des": "Die Verbindung zu Ihrem Gerät wurde unterbrochen.",
+    "CL_AC_air_care_tvoc_w_i": "Was ist TVOC?",
+    "CL_AC_air_care_temp_hum_moderate": "Innerhalb einer ## Abweichung vom Komfortbereich.",
+    "CL_AC_air_care_temp_hum_poor": "Die Abweichung überschreitet ## vom Komfortbereich."
 }
