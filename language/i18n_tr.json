@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "PM2.5 nedir?",
     "CL_AC_air_care_pm25_des": "Yemek pişirme, duman, mum ve tozdan kaynaklanan minik parçacıklar gözleri ve akciğerleri tahriş eder ve uzun vadede kalp ve akciğer sağlığı riskleri taşır. Çocuklar, yaşlılar ve astım hastaları için risk daha yüksektir.",
     "CL_AC_air_care_data_gap": "Veri açığı",
-    "CL_AC_air_care_data_gap_des": "Cihazınızla bağlantı kesildi."
+    "CL_AC_air_care_data_gap_des": "Cihazınızla bağlantı kesildi.",
+    "CL_AC_air_care_tvoc_w_i": "TVOC nedir?",
+    "CL_AC_air_care_temp_hum_poor": "Konfor aralığından sapma ## değerini aşıyor.",
+    "CL_AI_guide_ai_des": "Merhaba, ben VIDAA, <b>yapay zekâ asistanınızım.</b> Rehberlik, öneriler ve daha fazlası için bana danışın.",
+    "CL_AC_air_care_temp_hum_moderate": "Konfor aralığından ## sapma dahilinde."
 }

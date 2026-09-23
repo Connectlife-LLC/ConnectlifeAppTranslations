@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "Co je PM2,5",
     "CL_AC_air_care_pm25_des": "Drobné částice z vaření, kouře, svíček a prachu, které dráždí oči a plíce s dlouhodobým rizikem pro srdce a plíce. Vyšší riziko pro děti, starší osoby a osoby s astmatem.",
     "CL_AC_air_care_data_gap": "Mezera v datech",
-    "CL_AC_air_care_data_gap_des": "Připojení k vašemu zařízení bylo ztraceno."
+    "CL_AC_air_care_data_gap_des": "Připojení k vašemu zařízení bylo ztraceno.",
+    "CL_AC_air_care_tvoc_w_i": "Co je TVOC",
+    "CL_AC_air_care_temp_hum_poor": "Odchylka přesahuje ## od komfortního rozsahu.",
+    "CL_AI_guide_ai_des": "Ahoj, jmenuji se VIDAA a jsem <b>váš asistent s umělou inteligencí</b>. Požádejte mě o rady, doporučení a další informace.",
+    "CL_AC_air_care_temp_hum_moderate": "V rámci ## odchylky od komfortního rozsahu."
 }

@@ -154,7 +154,7 @@
     "ac_save_energy": "",
     "ac_electricity_statistics": "",
     "ac_temperature_unit": "",
-    "ac_manual_examination": "",
+    "ac_manual_examination": "Tự chẩn đoán",
     "ac_last_examination_date": "",
     "ac_auto": "",
     "ac_air_supply": "",
@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "PM2.5 là gì?",
     "CL_AC_air_care_pm25_des": "Các hạt bụi li ti từ việc nấu ăn, khói thuốc, nến và bụi có thể gây kích ứng mắt và phổi, tiềm ẩn nguy cơ về tim và phổi lâu dài. Nguy cơ cao hơn ở trẻ em, người già và những người mắc bệnh hen suyễn.",
     "CL_AC_air_care_data_gap": "Khoảng trống dữ liệu",
-    "CL_AC_air_care_data_gap_des": "Kết nối với thiết bị của bạn đã bị mất."
+    "CL_AC_air_care_data_gap_des": "Kết nối với thiết bị của bạn đã bị mất.",
+    "CL_AC_air_care_tvoc_w_i": "TVOC là gì?",
+    "CL_AC_air_care_temp_hum_poor": "Độ lệch vượt quá ## so với phạm vi cho phép.",
+    "CL_AI_guide_ai_des": "Chào, tôi là VIDAA, trợ lý AI của bạn.</b> Hãy hỏi tôi để được hướng dẫn, đề xuất và nhiều hơn nữa.",
+    "CL_AC_air_care_temp_hum_moderate": "Trong phạm vi sai lệch ## so với phạm vi thoải mái."
 }

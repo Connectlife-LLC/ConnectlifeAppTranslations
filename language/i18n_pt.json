@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "O que é PM2.5?",
     "CL_AC_air_care_pm25_des": "Partículas minúsculas provenientes da cozinha, fumaça, velas e poeira irritam os olhos e os pulmões, com riscos a longo prazo para o coração e os pulmões. O risco é maior para crianças, idosos e pessoas com asma.",
     "CL_AC_air_care_data_gap": "Lacuna de dados",
-    "CL_AC_air_care_data_gap_des": "A conexão com seu dispositivo foi perdida."
+    "CL_AC_air_care_data_gap_des": "A conexão com seu dispositivo foi perdida.",
+    "CL_AC_air_care_tvoc_w_i": "O que é TVOC?",
+    "CL_AC_air_care_temp_hum_poor": "O desvio excede ## da faixa de conforto.",
+    "CL_AI_guide_ai_des": "Olá, eu sou a VIDAA, <b>a sua assistente de IA.</b> Peça-me orientações, recomendações e muito mais.",
+    "CL_AC_air_care_temp_hum_moderate": "Dentro de um desvio de ## da faixa de conforto."
 }

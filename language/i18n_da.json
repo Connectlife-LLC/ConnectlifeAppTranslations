@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "Hvad er PM2.5",
     "CL_AC_air_care_pm25_des": "Små partikler fra madlavning, røg, stearinlys og støv, der irriterer øjne og lunger, med langsigtede hjerte- og lungerisici. Højere risiko for børn, ældre og personer med astma.",
     "CL_AC_air_care_data_gap": "Datamangel",
-    "CL_AC_air_care_data_gap_des": "Forbindelsen til din enhed blev afbrudt."
+    "CL_AC_air_care_data_gap_des": "Forbindelsen til din enhed blev afbrudt.",
+    "CL_AC_air_care_tvoc_w_i": "Hvad er TVOC",
+    "CL_AC_air_care_temp_hum_poor": "Afvigelsen overstiger ## fra komfortområdet.",
+    "CL_AI_guide_ai_des": "Hej, jeg er VIDAA, <b>din AI-assistent</b>. Spørg mig om vejledning, anbefalinger og mere.",
+    "CL_AC_air_care_temp_hum_moderate": "Inden for ## afvigelse fra komfortområdet."
 }
