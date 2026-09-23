@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "PM2.5とは何ですか？",
     "CL_AC_air_care_pm25_des": "調理、煙、ろうそく、ほこりなどから発生する微粒子は、目や肺を刺激し、長期的に心臓や肺にリスクをもたらします。子供、高齢者、喘息患者は特にリスクが高くなります。",
     "CL_AC_air_care_data_gap": "データギャップ",
-    "CL_AC_air_care_data_gap_des": "お使いのデバイスとの接続が失われました。"
+    "CL_AC_air_care_data_gap_des": "お使いのデバイスとの接続が失われました。",
+    "CL_AC_air_care_tvoc_w_i": "TVOCとは何ですか？",
+    "CL_AC_air_care_temp_hum_moderate": "快適範囲からの##偏差以内。",
+    "CL_AC_air_care_temp_hum_poor": "逸脱が快適範囲から##を超えています。",
+    "CL_AI_guide_ai_des": "こんにちは、私はVIDAAです。<b>あなたのAIアシスタント</b>です。ガイダンスやおすすめ情報など、何でもお気軽にお尋ねください。"
 }

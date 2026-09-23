@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "Mi az a PM2,5?",
     "CL_AC_air_care_pm25_des": "A főzésből, füstből, gyertyákból és porból származó apró részecskék irritálják a szemet és a tüdőt, hosszú távú szív- és tüdőkockázattal járva. Nagyobb kockázatot jelent a gyermekek, az idősek és az asztmás betegek számára.",
     "CL_AC_air_care_data_gap": "Adathiány",
-    "CL_AC_air_care_data_gap_des": "Megszakadt a kapcsolat az eszközöddel."
+    "CL_AC_air_care_data_gap_des": "Megszakadt a kapcsolat az eszközöddel.",
+    "CL_AC_air_care_tvoc_w_i": "Mi a TVOC?",
+    "CL_AC_air_care_temp_hum_moderate": "## eltérésen belül a komforttartománytól.",
+    "CL_AC_air_care_temp_hum_poor": "Az eltérés meghaladja a ## értéket a komforttartománytól.",
+    "CL_AI_guide_ai_des": "Sziasztok, VIDAA vagyok, <b>a mesterséges intelligencia asszisztensetek.</b> Kérjetek tőlem útmutatást, ajánlásokat és egyebeket."
 }
