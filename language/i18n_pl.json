@@ -9344,5 +9344,13 @@
     "CL_AC_air_care_pm25_w_i": "Co to jest PM2,5",
     "CL_AC_air_care_pm25_des": "Drobne cząsteczki pochodzące z gotowania, dymu, świec i kurzu, które podrażniają oczy i płuca, powodując długotrwałe ryzyko dla serca i płuc. Wyższe ryzyko dla dzieci, osób starszych i osób z astmą.",
     "CL_AC_air_care_data_gap": "Luka w danych",
-    "CL_AC_air_care_data_gap_des": "Połączenie z urządzeniem zostało utracone."
+    "CL_AC_air_care_data_gap_des": "Połączenie z urządzeniem zostało utracone.",
+    "CL_AC_air_care_tvoc_w_i": "Co to jest TVOC?",
+    "CL_AC_air_care_temp_hum_poor": "Odchylenie przekracza ## zakres komfortu.",
+    "CL_AI_guide_ai_des": "Cześć, nazywam się VIDAA i jestem <b>Twoim asystentem AI</b>. Poproś mnie o wskazówki, rekomendacje i nie tylko.",
+    "CL_AC_air_care_temp_hum_moderate": "W granicach ## odchylenia od zakresu komfortu.",
+    "CL_CF_FM_fridge_almost_full_tips": "Twoja lodówka jest prawie pełna. Zalecamy wykorzystanie tego, co masz, zanim kupisz więcej.",
+    "CL_CF_FM_reminder_title": "Przypomnienie",
+    "CL_CF_FM_missing_food_title": "Zalecane brakujące składniki",
+    "CL_CF_FM_missing_food_tips": "Możliwe, że brakuje Ci następujących składników. Zaznacz je, aby dodać do listy zakupów."
 }

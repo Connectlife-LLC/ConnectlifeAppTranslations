@@ -9344,5 +9344,13 @@
     "CL_AC_air_care_pm25_w_i": "PM2.5 là gì?",
     "CL_AC_air_care_pm25_des": "Các hạt bụi li ti từ việc nấu ăn, khói thuốc, nến và bụi có thể gây kích ứng mắt và phổi, tiềm ẩn nguy cơ về tim và phổi lâu dài. Nguy cơ cao hơn ở trẻ em, người già và những người mắc bệnh hen suyễn.",
     "CL_AC_air_care_data_gap": "Khoảng trống dữ liệu",
-    "CL_AC_air_care_data_gap_des": "Kết nối với thiết bị của bạn đã bị mất."
+    "CL_AC_air_care_data_gap_des": "Kết nối với thiết bị của bạn đã bị mất.",
+    "CL_AC_air_care_tvoc_w_i": "TVOC là gì?",
+    "CL_AC_air_care_temp_hum_poor": "Độ lệch vượt quá ## so với phạm vi cho phép.",
+    "CL_AI_guide_ai_des": "Chào, tôi là VIDAA, trợ lý AI của bạn.</b> Hãy hỏi tôi để được hướng dẫn, đề xuất và nhiều hơn nữa.",
+    "CL_AC_air_care_temp_hum_moderate": "Trong phạm vi sai lệch ## so với phạm vi thoải mái.",
+    "CL_CF_FM_fridge_almost_full_tips": "Tủ lạnh của bạn gần đầy rồi. Chúng tôi khuyên bạn nên dùng hết những gì đang có trước khi mua thêm.",
+    "CL_CF_FM_reminder_title": "Lời nhắc nhở",
+    "CL_CF_FM_missing_food_title": "Các thành phần bị thiếu được đề xuất",
+    "CL_CF_FM_missing_food_tips": "Có thể bạn đang thiếu những nguyên liệu sau. Hãy chọn chúng để thêm vào danh sách mua sắm của bạn."
 }

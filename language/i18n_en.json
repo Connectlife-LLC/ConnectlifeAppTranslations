@@ -9344,5 +9344,13 @@
     "CL_AC_air_care_pm25_w_i": "What is PM2.5",
     "CL_AC_air_care_pm25_des": "Tiny particles from cooking, smoke, candles, and dust that irritate eyes and lungs, with long-term heart and lung risks. Higher risk for children, the elderly, and those with asthma.",
     "CL_AC_air_care_data_gap": "Data gap",
-    "CL_AC_air_care_data_gap_des": "Connection to your device was lost."
+    "CL_AC_air_care_data_gap_des": "Connection to your device was lost.",
+    "CL_AC_air_care_tvoc_w_i": "What is TVOC",
+    "CL_AC_air_care_temp_hum_poor": "Deviation exceeds ## from the comfort range.",
+    "CL_AI_guide_ai_des": "Hi, I’m VIDAA, <b>your AI assistant.</b> Ask me for guidance, recommendations and more.",
+    "CL_AC_air_care_temp_hum_moderate": "Within ## deviation from the comfort range.",
+    "CL_CF_FM_fridge_almost_full_tips": "Your fridge is almost full. We recommend using up what you have before buying more.",
+    "CL_CF_FM_reminder_title": "Reminder",
+    "CL_CF_FM_missing_food_title": "Recommended Missing Ingredients",
+    "CL_CF_FM_missing_food_tips": "You may be missing the following ingredients. Select them to add to your shopping list."
 }

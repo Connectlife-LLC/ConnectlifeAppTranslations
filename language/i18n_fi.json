@@ -9344,5 +9344,13 @@
     "CL_AC_air_care_pm25_w_i": "Mikä on PM2.5",
     "CL_AC_air_care_pm25_des": "Ruoanlaitosta, savusta, kynttilöistä ja pölystä tulevat pienet hiukkaset, jotka ärsyttävät silmiä ja keuhkoja ja aiheuttavat pitkäaikaisia ​​sydän- ja keuhkoriskejä. Suurempi riski lapsille, vanhuksille ja astmaatikoille.",
     "CL_AC_air_care_data_gap": "Tietoaukko",
-    "CL_AC_air_care_data_gap_des": "Yhteys laitteeseesi katkesi."
+    "CL_AC_air_care_data_gap_des": "Yhteys laitteeseesi katkesi.",
+    "CL_AC_air_care_tvoc_w_i": "Mikä on TVOC",
+    "CL_AC_air_care_temp_hum_poor": "Poikkeama ylittää ## mukavuusalueelta.",
+    "CL_AI_guide_ai_des": "Hei, olen VIDAA, <b>tekoälyavustajasi.</b> Kysy minulta ohjeita, suosituksia ja muuta.",
+    "CL_AC_air_care_temp_hum_moderate": "## poikkeaman sisällä mukavuusalueesta.",
+    "CL_CF_FM_fridge_almost_full_tips": "Jääkaappisi on melkein täynnä. Suosittelemme käyttämään loppuun jäljellä olevat ennen kuin ostat lisää.",
+    "CL_CF_FM_reminder_title": "Muistutus",
+    "CL_CF_FM_missing_food_title": "Suositellut puuttuvat ainesosat",
+    "CL_CF_FM_missing_food_tips": "Sinulta saattaa puuttua seuraavat ainekset. Valitse ne lisätäksesi ne ostoslistallesi."
 }
