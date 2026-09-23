@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "Apakah PM2.5?",
     "CL_AC_air_care_pm25_des": "Zarah-zarah kecil daripada masakan, asap, lilin dan habuk yang merengsakan mata dan paru-paru, dengan risiko jantung dan paru-paru jangka panjang. Risiko lebih tinggi untuk kanak-kanak, warga emas dan mereka yang menghidap asma.",
     "CL_AC_air_care_data_gap": "Jurang data",
-    "CL_AC_air_care_data_gap_des": "Sambungan ke peranti anda telah terputus."
+    "CL_AC_air_care_data_gap_des": "Sambungan ke peranti anda telah terputus.",
+    "CL_AC_air_care_tvoc_w_i": "Apakah TVOC?",
+    "CL_AC_air_care_temp_hum_moderate": "Dalam sisihan ## daripada julat keselesaan.",
+    "CL_AC_air_care_temp_hum_poor": "Sisihan melebihi ## daripada julat keselesaan.",
+    "CL_AI_guide_ai_des": "Hai, saya VIDAA, <b>pembantu AI anda.</b> Minta panduan, cadangan dan banyak lagi daripada saya."
 }

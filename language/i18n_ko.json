@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "PM2.5란 무엇인가요?",
     "CL_AC_air_care_pm25_des": "요리, 연기, 촛불, 먼지에서 발생하는 미세 입자는 눈과 폐를 자극하여 장기적으로 심장 및 폐 질환의 위험을 초래할 수 있습니다. 특히 어린이, 노인, 천식 환자의 경우 위험도가 더 높습니다.",
     "CL_AC_air_care_data_gap": "데이터 격차",
-    "CL_AC_air_care_data_gap_des": "기기와의 연결이 끊어졌습니다."
+    "CL_AC_air_care_data_gap_des": "기기와의 연결이 끊어졌습니다.",
+    "CL_AC_air_care_tvoc_w_i": "TVOC란 무엇인가요?",
+    "CL_AC_air_care_temp_hum_moderate": "쾌적 범위에서 ## 편차 이내.",
+    "CL_AC_air_care_temp_hum_poor": "편차가 쾌적 범위에서 ##을 초과했습니다.",
+    "CL_AI_guide_ai_des": "안녕하세요, 저는 VIDAA입니다. <b>여러분의 AI 어시스턴트입니다.</b> 안내, 추천 등 다양한 도움을 요청해 보세요."
 }

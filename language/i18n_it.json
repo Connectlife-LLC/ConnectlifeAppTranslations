@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "Che cos'è il PM2.5?",
     "CL_AC_air_care_pm25_des": "Particelle minuscole provenienti da cottura, fumo, candele e polvere che irritano occhi e polmoni, con rischi a lungo termine per il cuore e i polmoni. Il rischio è maggiore per i bambini, gli anziani e le persone asmatiche.",
     "CL_AC_air_care_data_gap": "Mancanza di dati",
-    "CL_AC_air_care_data_gap_des": "La connessione al dispositivo è stata persa."
+    "CL_AC_air_care_data_gap_des": "La connessione al dispositivo è stata persa.",
+    "CL_AC_air_care_tvoc_w_i": "Che cos'è il TVOC?",
+    "CL_AC_air_care_temp_hum_moderate": "Entro ## deviazione dall'intervallo di comfort.",
+    "CL_AC_air_care_temp_hum_poor": "La deviazione supera ## dall'intervallo di comfort.",
+    "CL_AI_guide_ai_des": "Ciao, sono VIDAA, <b>il tuo assistente IA.</b> Chiedimi consigli, suggerimenti e altro ancora."
 }

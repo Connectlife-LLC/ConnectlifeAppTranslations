@@ -9344,5 +9344,9 @@
     "CL_AC_air_care_pm25_w_i": "Wat is PM2.5?",
     "CL_AC_air_care_pm25_des": "Kleine deeltjes afkomstig van koken, rook, kaarsen en stof irriteren de ogen en longen, met risico's voor het hart en de longen op de lange termijn. Het risico is groter voor kinderen, ouderen en mensen met astma.",
     "CL_AC_air_care_data_gap": "Gegevenskloof",
-    "CL_AC_air_care_data_gap_des": "De verbinding met uw apparaat is verbroken."
+    "CL_AC_air_care_data_gap_des": "De verbinding met uw apparaat is verbroken.",
+    "CL_AC_air_care_tvoc_w_i": "Wat is TVOC?",
+    "CL_AC_air_care_temp_hum_moderate": "Binnen een afwijking van ## ten opzichte van het comfortbereik.",
+    "CL_AC_air_care_temp_hum_poor": "De afwijking overschrijdt ## van het comfortbereik.",
+    "CL_AI_guide_ai_des": "Hallo, ik ben VIDAA, <b>jouw AI-assistent.</b> Vraag me gerust om advies, aanbevelingen en meer."
 }
