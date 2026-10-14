@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "カメラビュー",
     "CL_DV_DW_dw_auto_start": "食器洗い機の自動スタート",
     "CL_DV_DW_xx_auto_start": "{1}自動起動",
-    "CL_DV_DW_dw_auto_start_desc": "食器洗い機の自動スタート機能は、選択したプログラムを毎日同じ時間に自動的に実行します。そのため、開始するのを忘れることはありません。利便性と安全性を考慮し、食器洗い機は過去18時間以内にドアが開かれた場合にのみ起動します。その時間内にドアが開かれなかった場合、その日の自動スタートはスキップされます。",
+    "CL_DV_DW_dw_auto_start_desc": "食器洗い機の自動スタート機能は、選択したプログラムを毎日同じ時間に自動的に実行するため、スタートボタンを押す必要はありません。利便性と安全性を考慮し、食器洗い機は過去18時間以内にドアが開けられた場合にのみ起動します。その期間中にドアが開けられなかった場合は、その日の自動スタート機能はスキップされます。\n自動起動ルーチンを実行するには、永続的なリモート起動を有効にする必要があります。",
     "CL_AC_auto_defrost_title": "自動霜取りクリーニング",
     "CL_AC_auto_defrost_time": "累積走行時間",
     "CL_AC_work_time": "勤務時間",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "電力網を支えるスマートな冷却調整機能。さらに、報酬獲得のチャンスも。",
     "CL_thermostat_enable_location_title": "位置情報を有効にする",
     "CL_thermostat_enable_location_desc": "位置情報へのアクセスを許可することで、地域の天気、外気温、よりスマートな冷暖房機能を提供できます。",
-    "CL_thermostat_maybe_later": "後で"
+    "CL_thermostat_maybe_later": "後で",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "レシートをスキャンするには、ConnectLifeアプリにカメラへのアクセスを許可する必要があります。",
+    "scan_user_manual_not_exist": "ユーザーマニュアルは存在しません。",
+    "CL_DV_wcc_activity_humidity": "アクティブ湿度"
 }

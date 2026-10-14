@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "摄像头画面",
     "CL_DV_DW_dw_auto_start": "洗碗机自动启动",
     "CL_DV_DW_xx_auto_start": "{1}自动启动",
-    "CL_DV_DW_dw_auto_start_desc": "洗碗机自动启动功能会在每天同一时间自动运行您选择的程序，让您无需手动启动。为了您的方便和安全，洗碗机仅在过去 18 小时内门被打开过的情况下才会启动。如果门在此期间未被打开，则当天将跳过自动启动。",
+    "CL_DV_DW_dw_auto_start_desc": "洗碗机自动启动功能会在每天同一时间自动运行您选择的程序，让您无需手动启动。为了您的方便和安全，洗碗机仅在过去 18 小时内门被打开过的情况下才会启动。如果在此期间门未被打开，则当天的自动启动程序将不会运行。\n要使自动启动程序能够运行，必须启用永久远程启动。",
     "CL_AC_auto_defrost_title": "自动除霜清洁",
     "CL_AC_auto_defrost_time": "累计运行时间",
     "CL_AC_work_time": "工作时间",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "智能冷却调节功能，助力电网运行。还有机会赢取奖励。",
     "CL_thermostat_enable_location_title": "启用定位",
     "CL_thermostat_enable_location_desc": "允许访问位置信息，以便提供当地天气、室外温度以及更智能的供暖和制冷。",
-    "CL_thermostat_maybe_later": "或许以后吧"
+    "CL_thermostat_maybe_later": "或许以后吧",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "要扫描收据，您必须允许 ConnectLife 应用访问摄像头。",
+    "scan_user_manual_not_exist": "用户手册不存在。",
+    "CL_DV_wcc_activity_humidity": "活性湿度"
 }

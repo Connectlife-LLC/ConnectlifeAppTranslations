@@ -788,7 +788,7 @@
     "recipes_filter_difficulties": "VANSKELIGHED",
     "recipes_filter_allergens": "ALLERGENER",
     "hisrf_number_door_open": "ANTAL DØRÅBNINGER",
-    "device_status_standby": "Stå ved",
+    "device_status_standby": "Standby",
     "device_status_open": "Åben",
     "device_status_not_available": "Ikke tilgængelig",
     "device_status_weight": "Vejning",
@@ -1267,7 +1267,7 @@
     "register_title": "Registrer dig",
     "sent_email": "Vi har sendt en e-mail til",
     "add_to_inventory": "FØJ TIL BEHOLDNING",
-    "set": "Setti",
+    "set": "Indstil",
     "shelf_position": "Hyldeposition",
     "how_would_like_add_wine": "Hvordan vil du tilføje vindata?",
     "automatic": "AUTOMATISK",
@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Kameravisning",
     "CL_DV_DW_dw_auto_start": "Opvaskemaskines automatiske start",
     "CL_DV_DW_xx_auto_start": "{1} Automatisk start",
-    "CL_DV_DW_dw_auto_start_desc": "Opvaskemaskinens automatiske startrutine kører automatisk dit valgte program på samme tidspunkt hver dag – så du behøver aldrig at huske at starte det. Af hensyn til din bekvemmelighed og sikkerhed starter opvaskemaskinen kun, hvis lågen er blevet åbnet inden for de sidste 18 timer. Hvis lågen ikke er blevet åbnet inden for den tid, springes den automatiske start over for den dag.",
+    "CL_DV_DW_dw_auto_start_desc": "Opvaskemaskinens automatiske startrutine kører automatisk dit valgte program på samme tidspunkt hver dag, så du aldrig behøver at huske at starte det. Af hensyn til din bekvemmelighed og sikkerhed starter opvaskemaskinen kun, hvis lågen er blevet åbnet inden for de sidste 18 timer. Hvis lågen ikke er blevet åbnet i løbet af den tid, springes den automatiske startrutine over for den pågældende dag.\nFor at Autostart-rutinen kan køre, skal Permanent fjernstart være aktiveret.",
     "CL_AC_auto_defrost_title": "Automatisk optøningsrensning",
     "CL_AC_auto_defrost_time": "Akkumuleret løbetid",
     "CL_AC_work_time": "Arbejdstid",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Smarte kølejusteringer, der understøtter elnettet. Plus en chance for en belønning.",
     "CL_thermostat_enable_location_title": "AKTIVER PLACERING",
     "CL_thermostat_enable_location_desc": "Tillad adgang til lokationer for at få oplysninger om lokalt vejr, udendørstemperatur og smartere opvarmning og køling.",
-    "CL_thermostat_maybe_later": "MÅSKE SENERE"
+    "CL_thermostat_maybe_later": "MÅSKE SENERE",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "For at scanne kvitteringen skal du give ConnectLife-appen adgang til kameraet.",
+    "scan_user_manual_not_exist": "Brugermanualen findes ikke.",
+    "CL_DV_wcc_activity_humidity": "Aktiv luftfugtighed"
 }

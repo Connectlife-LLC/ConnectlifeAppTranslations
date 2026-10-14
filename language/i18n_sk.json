@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Pohľad kamery",
     "CL_DV_DW_dw_auto_start": "Automatické spustenie umývačky riadu",
     "CL_DV_DW_xx_auto_start": "{1} Automatické spustenie",
-    "CL_DV_DW_dw_auto_start_desc": "Rutina automatického spustenia umývačky riadu automaticky spustí vami zvolený program každý deň v rovnakom čase, takže si ho nikdy nemusíte pamätať. Pre vaše pohodlie a bezpečnosť sa umývačka riadu spustí iba vtedy, ak boli dvierka otvorené v priebehu posledných 18 hodín. Ak dvierka neboli v tomto čase otvorené, automatické spustenie sa v daný deň preskočí.",
+    "CL_DV_DW_dw_auto_start_desc": "Rutina automatického spustenia umývačky riadu automaticky spustí vami zvolený program každý deň v rovnakom čase, takže si ho nikdy nemusíte pamätať. Pre vaše pohodlie a bezpečnosť sa umývačka riadu spustí iba vtedy, ak boli dvierka otvorené v priebehu posledných 18 hodín. Ak dvierka neboli počas tohto času otvorené, rutina automatického spustenia sa v daný deň preskočí.\nAby sa mohla spustiť rutina automatického spustenia, musí byť povolená funkcia Trvalé diaľkové spustenie.",
     "CL_AC_auto_defrost_title": "Automatické rozmrazovanie a čistenie",
     "CL_AC_auto_defrost_time": "Kumulovaný čas behu",
     "CL_AC_work_time": "Pracovný čas",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Inteligentné nastavenia chladenia, ktoré podporujú sieť. Plus šanca na odmenu.",
     "CL_thermostat_enable_location_title": "POVOLIŤ POLOHU",
     "CL_thermostat_enable_location_desc": "Povoľte prístup k polohe, aby ste získali informácie o miestnom počasí, vonkajšej teplote a inteligentnejšom vykurovaní a chladení.",
-    "CL_thermostat_maybe_later": "MOŽNO NESKÔR"
+    "CL_thermostat_maybe_later": "MOŽNO NESKÔR",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Ak chcete naskenovať doklad, musíte aplikácii ConnectLife povoliť prístup k fotoaparátu.",
+    "scan_user_manual_not_exist": "Používateľská príručka neexistuje.",
+    "CL_DV_wcc_activity_humidity": "Aktívna vlhkosť"
 }

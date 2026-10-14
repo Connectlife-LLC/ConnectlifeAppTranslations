@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Pogled kamere",
     "CL_DV_DW_dw_auto_start": "Samodejni zagon pomivalnega stroja",
     "CL_DV_DW_xx_auto_start": "{1} Samodejni zagon",
-    "CL_DV_DW_dw_auto_start_desc": "Rutina samodejnega zagona pomivalnega stroja samodejno zažene izbrani program vsak dan ob istem času – tako se vam nikoli ne bo treba spomniti, da ga morate zagnati. Za vaše udobje in varnost se bo pomivalni stroj zagnal le, če so bila vrata odprta v zadnjih 18 urah. Če vrat v tem času niste odprli, se bo samodejni zagon za ta dan preskočil.",
+    "CL_DV_DW_dw_auto_start_desc": "Rutina samodejnega zagona pomivalnega stroja samodejno zažene izbrani program vsak dan ob istem času, tako da se vam nikoli ne bo treba spomniti, da ga morate zagnati. Za vaše udobje in varnost se bo pomivalni stroj zagnal le, če so bila vrata odprta v zadnjih 18 urah. Če vrat v tem času niste odprli, bo rutina samodejnega zagona za ta dan preskočena.\nZa omogočanje samodejnega zagona mora biti omogočen stalni oddaljeni zagon.",
     "CL_AC_auto_defrost_title": "Samodejno odmrzovanje",
     "CL_AC_auto_defrost_time": "Skupni čas delovanja",
     "CL_AC_work_time": "Delovni čas",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Pametne nastavitve hlajenja, ki podpirajo omrežje. Plus možnost nagrade.",
     "CL_thermostat_enable_location_title": "OMOGOČI LOKACIJO",
     "CL_thermostat_enable_location_desc": "Omogočite dostop do lokacije za zagotavljanje lokalnega vremena, zunanje temperature ter pametnejšega ogrevanja in hlajenja.",
-    "CL_thermostat_maybe_later": "MOŽNO KASNEJE"
+    "CL_thermostat_maybe_later": "MOŽNO KASNEJE",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Za skeniranje računa morate aplikaciji ConnectLife omogočiti dostop do kamere.",
+    "scan_user_manual_not_exist": "Uporabniški priročnik ne obstaja.",
+    "CL_DV_wcc_activity_humidity": "Aktivna vlažnost"
 }

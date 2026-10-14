@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Pandangan kamera",
     "CL_DV_DW_dw_auto_start": "Mesin basuh pinggan mangkuk Auto mula",
     "CL_DV_DW_xx_auto_start": "{1} Automula",
-    "CL_DV_DW_dw_auto_start_desc": "Rutin Auto-Mula Mesin Cuci Pinggan secara automatik menjalankan program pilihan anda pada masa yang sama setiap hari—jadi anda tidak perlu ingat untuk memulakannya. Untuk kemudahan dan keselamatan anda, mesin basuh pinggan mangkuk hanya akan dimulakan jika pintu telah dibuka dalam tempoh 18 jam yang lalu. Jika pintu belum dibuka pada masa itu, automula akan dilangkau untuk hari itu.",
+    "CL_DV_DW_dw_auto_start_desc": "Rutin Auto-Start Mesin Pencuci Pinggan Mangkuk akan menjalankan program pilihan anda secara automatik pada waktu yang sama setiap hari, jadi anda tidak perlu ingat untuk menghidupkannya. Demi kemudahan dan keselamatan anda, mesin basuh pinggan mangkuk hanya akan hidup jika pintu telah dibuka dalam tempoh 18 jam yang lalu. Jika pintu tidak dibuka dalam tempoh tersebut, rutin Auto-Start akan dilangkau untuk hari tersebut.\nUntuk membolehkan rutin Auto-Mula berjalan, Permulaan Jauh Kekal mesti diaktifkan.",
     "CL_AC_auto_defrost_title": "Auto-Defrost Clean",
     "CL_AC_auto_defrost_time": "Masa berjalan terkumpul",
     "CL_AC_work_time": "Masa kerja",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Pelarasan penyejukan pintar yang menyokong grid. Serta peluang untuk mendapatkan ganjaran.",
     "CL_thermostat_enable_location_title": "DAPATKAN LOKASI",
     "CL_thermostat_enable_location_desc": "Benarkan akses lokasi untuk menyediakan cuaca tempatan, suhu luar dan pemanasan serta penyejukan yang lebih pintar.",
-    "CL_thermostat_maybe_later": "MUNGKIN KEMUDIAN"
+    "CL_thermostat_maybe_later": "MUNGKIN KEMUDIAN",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Untuk mengimbas resit, anda mesti membenarkan aplikasi ConnectLife mengakses kamera.",
+    "scan_user_manual_not_exist": "Manual pengguna tidak wujud.",
+    "CL_DV_wcc_activity_humidity": "Kelembapan aktif"
 }

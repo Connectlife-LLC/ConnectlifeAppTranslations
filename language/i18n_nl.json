@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Cameraweergave",
     "CL_DV_DW_dw_auto_start": "Automatische start van de vaatwasser",
     "CL_DV_DW_xx_auto_start": "{1} Automatisch starten",
-    "CL_DV_DW_dw_auto_start_desc": "De automatische startroutine van de vaatwasser start elke dag automatisch het door u gekozen programma op hetzelfde tijdstip, zodat u er nooit aan hoeft te denken om het te starten. Voor uw gemak en veiligheid start de vaatwasser alleen als de deur in de afgelopen 18 uur is geopend. Als de deur in die tijd niet is geopend, wordt de automatische start die dag overgeslagen.",
+    "CL_DV_DW_dw_auto_start_desc": "De automatische startfunctie van de vaatwasser voert het door u gekozen programma elke dag op hetzelfde tijdstip automatisch uit, zodat u er nooit aan hoeft te denken om hem te starten. Voor uw gemak en veiligheid start de vaatwasser alleen als de deur in de afgelopen 18 uur is geopend. Als de deur in die periode niet is geopend, wordt de automatische startfunctie die dag overgeslagen.\nOm de automatische startprocedure te laten werken, moet Permanent Remote Start ingeschakeld zijn.",
     "CL_AC_auto_defrost_title": "Automatisch ontdooien reinigen",
     "CL_AC_auto_defrost_time": "Geaccumuleerde looptijd",
     "CL_AC_work_time": "Werktijd",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Slimme koelingsaanpassingen die het elektriciteitsnet ondersteunen. Plus een kans op een beloning.",
     "CL_thermostat_enable_location_title": "LOCATIE INSCHAKELEN",
     "CL_thermostat_enable_location_desc": "Geef toegang tot de locatie om lokaal weer, buitentemperatuur en slimmere verwarming en koeling te verkrijgen.",
-    "CL_thermostat_maybe_later": "MISSCHIEN LATER"
+    "CL_thermostat_maybe_later": "MISSCHIEN LATER",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Om de bon te scannen, moet u de ConnectLife-app toegang geven tot de camera.",
+    "scan_user_manual_not_exist": "Er bestaat geen gebruikershandleiding.",
+    "CL_DV_wcc_activity_humidity": "Actieve luchtvochtigheid"
 }

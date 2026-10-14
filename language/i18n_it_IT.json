@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "",
     "CL_DV_DW_dw_auto_start": "",
     "CL_DV_DW_xx_auto_start": "",
-    "CL_DV_DW_dw_auto_start_desc": "",
+    "CL_DV_DW_dw_auto_start_desc": "La funzione di avvio automatico della lavastoviglie esegue automaticamente il programma scelto alla stessa ora ogni giorno, così non dovrai mai ricordarti di avviarlo. Per la tua comodità e sicurezza, la lavastoviglie si avvierà solo se lo sportello è stato aperto nelle ultime 18 ore. Se lo sportello non è stato aperto in questo lasso di tempo, la funzione di avvio automatico verrà saltata per quel giorno.\nPer consentire l'esecuzione della routine di avvio automatico, è necessario abilitare l'avvio remoto permanente.",
     "CL_AC_auto_defrost_title": "",
     "CL_AC_auto_defrost_time": "",
     "CL_AC_work_time": "",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Regolazioni intelligenti del sistema di raffreddamento che supportano la rete elettrica. In più, la possibilità di vincere un premio.",
     "CL_thermostat_enable_location_title": "ABILITA LA POSIZIONE",
     "CL_thermostat_enable_location_desc": "Consenti l'accesso alla posizione per fornire informazioni meteo locali, temperatura esterna e un sistema di riscaldamento e raffreddamento più intelligente.",
-    "CL_thermostat_maybe_later": "FORSE PIÙ TARDI"
+    "CL_thermostat_maybe_later": "FORSE PIÙ TARDI",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Per scansionare la ricevuta è necessario consentire all'app ConnectLife l'accesso alla fotocamera.",
+    "scan_user_manual_not_exist": "Il manuale d'uso non esiste.",
+    "CL_DV_wcc_activity_humidity": "Umidità di comando"
 }

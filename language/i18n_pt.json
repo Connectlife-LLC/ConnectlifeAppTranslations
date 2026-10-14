@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Visão da câmera",
     "CL_DV_DW_dw_auto_start": "Lava-louças com início automático",
     "CL_DV_DW_xx_auto_start": "{1} Início automático",
-    "CL_DV_DW_dw_auto_start_desc": "A função de início automático da lava-louças executa automaticamente o programa escolhido no mesmo horário todos os dias, para que você não precise se lembrar de iniciá-la. Para sua comodidade e segurança, a lava-louças só iniciará se a porta tiver sido aberta nas últimas 18 horas. Caso a porta não tenha sido aberta nesse período, o início automático será ignorado naquele dia.",
+    "CL_DV_DW_dw_auto_start_desc": "A função Início Automático da lava-louças executa automaticamente o programa escolhido no mesmo horário todos os dias, para que você não precise se lembrar de iniciá-la. Para sua comodidade e segurança, a lava-louças só iniciará se a porta tiver sido aberta nas últimas 18 horas. Caso a porta não tenha sido aberta nesse período, a função Início Automático será ignorada naquele dia.\nPara permitir que a rotina de inicialização automática seja executada, a inicialização remota permanente deve estar ativada.",
     "CL_AC_auto_defrost_title": "Limpeza de descongelamento automático",
     "CL_AC_auto_defrost_time": "Tempo de execução acumulado",
     "CL_AC_work_time": "Horário de trabalho",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Ajustes inteligentes de refrigeração que dão suporte à rede elétrica. Além da chance de ganhar uma recompensa.",
     "CL_thermostat_enable_location_title": "ATIVAR LOCALIZAÇÃO",
     "CL_thermostat_enable_location_desc": "Permitir o acesso à localização para fornecer informações sobre o clima local, temperatura externa e sistemas de aquecimento e resfriamento mais inteligentes.",
-    "CL_thermostat_maybe_later": "TALVEZ MAIS TARDE"
+    "CL_thermostat_maybe_later": "TALVEZ MAIS TARDE",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Para digitalizar o recibo, você precisa permitir que o aplicativo ConnectLife acesse a câmera.",
+    "scan_user_manual_not_exist": "O manual do usuário não existe.",
+    "CL_DV_wcc_activity_humidity": "Umidade ativa"
 }

@@ -1220,7 +1220,7 @@
     "appliance_paired": "Apparat paret",
     "start_using_connect_life": "Det er enkelt å begynne å bruke ConnectLife!",
     "create_your_user_profile": "Opprett en brukerprofil og begynn å bruke \nConnectLife til apparatene dine.",
-    "sign_in": "REGISTRER DEG",
+    "sign_in": "Logg inn",
     "sign_out": "AVREGISTRER DEG",
     "use_any_below_to_sign_in": "Bruk ett av alternativene under for å registrere deg.",
     "sign_in_manually": "REGISTRER DEG MANUELT",
@@ -1263,7 +1263,7 @@
     "post_ticket_error": "Postbillettfeil",
     "forgot_password_input_email_hint": "E-post",
     "login_register_third_title": "Liker du ikke å skrive?",
-    "sign_in_title": "Registrer deg",
+    "sign_in_title": "Logg inn",
     "register_title": "Registrer",
     "sent_email": "Vi har sendt en e-post til",
     "add_to_inventory": "LEGG TIL I LAGEROVERSIKT",
@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Kameravisning",
     "CL_DV_DW_dw_auto_start": "Oppvaskmaskinens automatiske start",
     "CL_DV_DW_xx_auto_start": "{1} Automatisk start",
-    "CL_DV_DW_dw_auto_start_desc": "Oppvaskmaskinens automatiske startrutine kjører automatisk det valgte programmet til samme tid hver dag – slik at du aldri trenger å huske å starte det. For din bekvemmelighet og sikkerhet vil oppvaskmaskinen bare starte hvis døren har blitt åpnet i løpet av de siste 18 timene. Hvis døren ikke har blitt åpnet i løpet av den tiden, vil automatisk start hoppes over for den dagen.",
+    "CL_DV_DW_dw_auto_start_desc": "Oppvaskmaskinens automatiske startrutine kjører automatisk det valgte programmet til samme tid hver dag, slik at du aldri trenger å huske å starte den. For din bekvemmelighet og sikkerhet vil oppvaskmaskinen bare starte hvis døren har blitt åpnet i løpet av de siste 18 timene. Hvis døren ikke har blitt åpnet i løpet av den tiden, vil automatiske startrutine hoppes over for den dagen.\nFor at automatisk start skal kunne kjøres, må permanent fjernstart være aktivert.",
     "CL_AC_auto_defrost_title": "Automatisk tining",
     "CL_AC_auto_defrost_time": "Akkumulert kjøretid",
     "CL_AC_work_time": "Arbeidstid",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Smarte kjølejusteringer som støtter strømnettet. Pluss en sjanse til å vinne en belønning.",
     "CL_thermostat_enable_location_title": "AKTIVER PLASSERING",
     "CL_thermostat_enable_location_desc": "Gi tilgang til posisjoner for å få informasjon om lokalt vær, utetemperatur og smartere oppvarming og kjøling.",
-    "CL_thermostat_maybe_later": "KANSKJE SENERE"
+    "CL_thermostat_maybe_later": "KANSKJE SENERE",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "For å skanne kvitteringen må du gi ConnectLife-appen tilgang til kameraet.",
+    "scan_user_manual_not_exist": "Brukermanualen finnes ikke.",
+    "CL_DV_wcc_activity_humidity": "Aktiv fuktighet"
 }

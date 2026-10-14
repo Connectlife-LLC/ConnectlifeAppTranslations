@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Kamera görünümü",
     "CL_DV_DW_dw_auto_start": "Bulaşık Makinesi Otomatik Başlatma",
     "CL_DV_DW_xx_auto_start": "{1} Otomatik başlatma",
-    "CL_DV_DW_dw_auto_start_desc": "Bulaşık Makinesi Otomatik Başlatma rutini, seçtiğiniz programı her gün aynı saatte otomatik olarak çalıştırır; böylece başlatmayı hatırlamanıza gerek kalmaz. Rahatlığınız ve güvenliğiniz için, bulaşık makinesi yalnızca kapağı son 18 saat içinde açılmışsa çalışır. Kapak bu süre içinde açılmamışsa, otomatik başlatma o gün için atlanır.",
+    "CL_DV_DW_dw_auto_start_desc": "Bulaşık makinesinin otomatik başlatma özelliği, seçtiğiniz programı her gün aynı saatte otomatik olarak çalıştırır, böylece onu başlatmayı hatırlamanıza gerek kalmaz. Rahatınız ve güvenliğiniz için, bulaşık makinesi yalnızca kapı son 18 saat içinde açılmışsa çalışmaya başlar. Bu süre içinde kapı açılmamışsa, otomatik başlatma özelliği o gün için atlanır.\nOtomatik başlatma rutininin çalışabilmesi için, Kalıcı Uzaktan Başlatma özelliğinin etkinleştirilmesi gerekir.",
     "CL_AC_auto_defrost_title": "Otomatik Çözme Temizliği",
     "CL_AC_auto_defrost_time": "Toplam çalışma süresi",
     "CL_AC_work_time": "Çalışma zamanı",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Şebekeyi destekleyen akıllı soğutma ayarlamaları. Ayrıca ödül kazanma şansı da var.",
     "CL_thermostat_enable_location_title": "KONUMU ETKİNLEŞTİR",
     "CL_thermostat_enable_location_desc": "Yerel hava durumu, dış ortam sıcaklığı ve daha akıllı ısıtma ve soğutma için konum erişimine izin verin.",
-    "CL_thermostat_maybe_later": "BELKİ DAHA SONRA"
+    "CL_thermostat_maybe_later": "BELKİ DAHA SONRA",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Fişi tarayabilmek için ConnectLife uygulamasının kameraya erişmesine izin vermeniz gerekmektedir.",
+    "scan_user_manual_not_exist": "Kullanım kılavuzu mevcut değil.",
+    "CL_DV_wcc_activity_humidity": "Aktif nem"
 }

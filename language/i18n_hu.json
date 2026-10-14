@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Kameranézet",
     "CL_DV_DW_dw_auto_start": "Mosogatógép automatikus indítása",
     "CL_DV_DW_xx_auto_start": "{1} Automatikus indítás",
-    "CL_DV_DW_dw_auto_start_desc": "A mosogatógép automatikus indítási rutinja automatikusan, minden nap ugyanabban az időben futtatja le a kiválasztott programot – így soha nem kell emlékezned az elindítására. A kényelmed és biztonságod érdekében a mosogatógép csak akkor indul el, ha az ajtót az elmúlt 18 órában kinyitottad. Ha az ajtót ez idő alatt nem nyitották ki, az automatikus indítás aznapra kimarad.",
+    "CL_DV_DW_dw_auto_start_desc": "A mosogatógép automatikus indítási rutinja minden nap ugyanabban az időben futtatja le a kiválasztott programot, így soha nem kell emlékezned az elindítására. A kényelmed és biztonságod érdekében a mosogatógép csak akkor indul el, ha az ajtót az elmúlt 18 órában kinyitottad. Ha az ajtót ez idő alatt nem nyitották ki, az automatikus indítási rutin az adott napon kimarad.\nAz automatikus indítási rutin futtatásához engedélyezni kell az állandó távoli indítást.",
     "CL_AC_auto_defrost_title": "Automatikus leolvasztás tisztítása",
     "CL_AC_auto_defrost_time": "Összesített futási idő",
     "CL_AC_work_time": "Munkaidő",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Intelligens hűtési beállítások, amelyek támogatják a hálózatot. Plusz esély a jutalomra.",
     "CL_thermostat_enable_location_title": "HELYSZÍN ENGEDÉLYEZÉSE",
     "CL_thermostat_enable_location_desc": "Engedélyezze a helymeghatározást a helyi időjárás, a kültéri hőmérséklet, valamint az intelligensebb fűtés és hűtés biztosításához.",
-    "CL_thermostat_maybe_later": "TALÁN KÉSŐBB"
+    "CL_thermostat_maybe_later": "TALÁN KÉSŐBB",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "A nyugta beolvasásához engedélyezned kell a ConnectLife alkalmazásnak a kamera elérését.",
+    "scan_user_manual_not_exist": "A használati útmutató nem létezik.",
+    "CL_DV_wcc_activity_humidity": "Aktív páratartalom"
 }

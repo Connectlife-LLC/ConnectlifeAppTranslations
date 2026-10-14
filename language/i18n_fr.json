@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Vue de la caméra",
     "CL_DV_DW_dw_auto_start": "Démarrage automatique du lave-vaisselle",
     "CL_DV_DW_xx_auto_start": "{1} Démarrage automatique",
-    "CL_DV_DW_dw_auto_start_desc": "La fonction de démarrage automatique du lave-vaisselle lance automatiquement le programme sélectionné chaque jour à la même heure ; vous n’avez donc plus à y penser. Pour votre confort et votre sécurité, le lave-vaisselle ne démarrera que si la porte a été ouverte au cours des 18 dernières heures. Si la porte n’a pas été ouverte pendant cette période, le démarrage automatique sera annulé pour la journée.",
+    "CL_DV_DW_dw_auto_start_desc": "La fonction de démarrage automatique du lave-vaisselle lance automatiquement le programme sélectionné chaque jour à la même heure. Vous n'avez donc plus à y penser. Pour votre confort et votre sécurité, le lave-vaisselle ne démarrera que si la porte a été ouverte au cours des 18 dernières heures. Si la porte n'a pas été ouverte pendant cette période, le démarrage automatique sera annulé pour la journée.\nPour permettre l'exécution de la routine de démarrage automatique, le démarrage à distance permanent doit être activé.",
     "CL_AC_auto_defrost_title": "Dégivrage automatique",
     "CL_AC_auto_defrost_time": "Durée de fonctionnement cumulée",
     "CL_AC_work_time": "Temps de travail",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Des réglages intelligents du refroidissement qui optimisent le fonctionnement du réseau. Et en plus, une récompense à la clé.",
     "CL_thermostat_enable_location_title": "ACTIVER LA LOCALISATION",
     "CL_thermostat_enable_location_desc": "Autoriser l'accès à la géolocalisation pour fournir les conditions météorologiques locales, la température extérieure et un système de chauffage et de climatisation plus intelligent.",
-    "CL_thermostat_maybe_later": "Peut-être plus tard"
+    "CL_thermostat_maybe_later": "Peut-être plus tard",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Pour scanner le reçu, vous devez autoriser l'application ConnectLife à accéder à la caméra.",
+    "scan_user_manual_not_exist": "Le manuel d'utilisation n'existe pas.",
+    "CL_DV_wcc_activity_humidity": "Humidité active"
 }

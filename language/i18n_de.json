@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Kameraansicht",
     "CL_DV_DW_dw_auto_start": "Geschirrspüler-Automatikstart",
     "CL_DV_DW_xx_auto_start": "{1} Automatischer Start",
-    "CL_DV_DW_dw_auto_start_desc": "Die automatische Startfunktion Ihres Geschirrspülers führt Ihr gewähltes Programm täglich zur gleichen Zeit aus – Sie müssen also nie daran denken, ihn zu starten. Für Ihren Komfort und Ihre Sicherheit startet der Geschirrspüler nur, wenn die Tür in den letzten 18 Stunden geöffnet wurde. Andernfalls wird der automatische Start für diesen Tag übersprungen.",
+    "CL_DV_DW_dw_auto_start_desc": "Die automatische Startfunktion Ihres Geschirrspülers führt Ihr gewähltes Programm täglich zur gleichen Zeit aus, sodass Sie nicht daran denken müssen, ihn zu starten. Aus Sicherheitsgründen startet der Geschirrspüler nur, wenn die Tür in den letzten 18 Stunden geöffnet wurde. Andernfalls wird die automatische Startfunktion für diesen Tag übersprungen.\nDamit die Auto-Start-Routine ausgeführt werden kann, muss der permanente Fernstart aktiviert sein.",
     "CL_AC_auto_defrost_title": "Automatische Abtaureinigung",
     "CL_AC_auto_defrost_time": "Kumulierte Laufzeit",
     "CL_AC_work_time": "Arbeitszeit",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Intelligente Kühlungsanpassungen, die das Stromnetz unterstützen. Und die Chance auf eine Belohnung.",
     "CL_thermostat_enable_location_title": "STANDORT AKTIVIEREN",
     "CL_thermostat_enable_location_desc": "Erlauben Sie den Zugriff auf den Standort, um lokale Wetterdaten, Außentemperaturen und intelligentere Heiz- und Kühlfunktionen bereitzustellen.",
-    "CL_thermostat_maybe_later": "VIELLEICHT SPÄTER"
+    "CL_thermostat_maybe_later": "VIELLEICHT SPÄTER",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Um den Kassenbon zu scannen, müssen Sie der ConnectLife-App Zugriff auf die Kamera gewähren.",
+    "scan_user_manual_not_exist": "Es existiert keine Bedienungsanleitung.",
+    "CL_DV_wcc_activity_humidity": "Aktive Luftfeuchtigkeit"
 }

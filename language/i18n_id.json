@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Tampilan kamera",
     "CL_DV_DW_dw_auto_start": "Mesin Pencuci Piring Mulai Otomatis",
     "CL_DV_DW_xx_auto_start": "{1} Mulai otomatis",
-    "CL_DV_DW_dw_auto_start_desc": "Rutinitas Mulai Otomatis Mesin Pencuci Piring akan menjalankan program pilihan Anda secara otomatis pada waktu yang sama setiap hari—jadi Anda tidak perlu mengingat untuk memulainya. Demi kenyamanan dan keamanan Anda, mesin pencuci piring hanya akan menyala jika pintunya telah dibuka dalam 18 jam terakhir. Jika pintu belum dibuka dalam waktu tersebut, mulai otomatis akan dilewati untuk hari itu.",
+    "CL_DV_DW_dw_auto_start_desc": "Fitur Auto-Start pada mesin pencuci piring secara otomatis menjalankan program yang Anda pilih pada waktu yang sama setiap hari, sehingga Anda tidak perlu lagi mengingat untuk memulainya. Demi kenyamanan dan keamanan Anda, mesin pencuci piring hanya akan mulai beroperasi jika pintunya telah dibuka dalam 18 jam terakhir. Jika pintunya belum dibuka selama waktu tersebut, fitur Auto-Start akan dilewati untuk hari itu.\nAgar rutinitas Auto-Start dapat berjalan, Permanent Remote Start harus diaktifkan.",
     "CL_AC_auto_defrost_title": "Pembersihan Pencairan Otomatis",
     "CL_AC_auto_defrost_time": "Akumulasi waktu berjalan",
     "CL_AC_work_time": "Waktu kerja",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Pengaturan pendinginan cerdas yang mendukung jaringan listrik. Plus kesempatan untuk mendapatkan hadiah.",
     "CL_thermostat_enable_location_title": "AKTIFKAN LOKASI",
     "CL_thermostat_enable_location_desc": "Izinkan akses lokasi untuk memberikan informasi cuaca lokal, suhu luar ruangan, dan sistem pemanas dan pendingin yang lebih cerdas.",
-    "CL_thermostat_maybe_later": "MUNGKIN NANTI"
+    "CL_thermostat_maybe_later": "MUNGKIN NANTI",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Untuk memindai struk, Anda harus mengizinkan aplikasi ConnectLife mengakses kamera.",
+    "scan_user_manual_not_exist": "Buku panduan pengguna tidak ada.",
+    "CL_DV_wcc_activity_humidity": "Kelembapan aktif"
 }

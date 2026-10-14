@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Kameravy",
     "CL_DV_DW_dw_auto_start": "Diskmaskinens automatiska start",
     "CL_DV_DW_xx_auto_start": "{1} Automatisk start",
-    "CL_DV_DW_dw_auto_start_desc": "Diskmaskinens automatiska startprogram kör automatiskt ditt valda program vid samma tidpunkt varje dag – så du behöver aldrig komma ihåg att starta det. För din bekvämlighet och säkerhet startar diskmaskinen bara om luckan har öppnats inom de senaste 18 timmarna. Om luckan inte har öppnats under den tiden hoppas den automatiska starten över för den dagen.",
+    "CL_DV_DW_dw_auto_start_desc": "Diskmaskinens automatiska startprogram kör automatiskt ditt valda program vid samma tidpunkt varje dag, så du behöver aldrig komma ihåg att starta det. För din bekvämlighet och säkerhet startar diskmaskinen bara om luckan har öppnats inom de senaste 18 timmarna. Om luckan inte har öppnats under den tiden hoppas automatiska startprogrammet över för den dagen.\nFör att automatisk start ska kunna köras måste permanent fjärrstart vara aktiverad.",
     "CL_AC_auto_defrost_title": "Rengöring med automatisk avfrostning",
     "CL_AC_auto_defrost_time": "Ackumulerad körtid",
     "CL_AC_work_time": "Arbetstid",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Smarta kyljusteringar som stödjer elnätet. Plus en chans till en belöning.",
     "CL_thermostat_enable_location_title": "AKTIVERA PLATS",
     "CL_thermostat_enable_location_desc": "Tillåt platsåtkomst för att få information om lokalt väder, utomhustemperatur och smartare uppvärmning och kylning.",
-    "CL_thermostat_maybe_later": "KANSKE SENARE"
+    "CL_thermostat_maybe_later": "KANSKE SENARE",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "För att kunna skanna kvittot måste du ge ConnectLife-appen åtkomst till kameran.",
+    "scan_user_manual_not_exist": "Bruksanvisningen finns inte.",
+    "CL_DV_wcc_activity_humidity": "Aktiv fuktighet"
 }

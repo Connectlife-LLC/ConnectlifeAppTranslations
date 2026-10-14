@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Pohled kamery",
     "CL_DV_DW_dw_auto_start": "Automatické spuštění myčky nádobí",
     "CL_DV_DW_xx_auto_start": "{1} Automatické spuštění",
-    "CL_DV_DW_dw_auto_start_desc": "Rutina automatického spuštění myčky nádobí automaticky spustí vámi zvolený program každý den ve stejnou dobu – takže si nikdy nemusíte pamatovat, zda jej spustit. Pro vaše pohodlí a bezpečnost se myčka spustí pouze v případě, že byly dvířka otevřena v posledních 18 hodinách. Pokud dvířka nebyla během této doby otevřena, automatické spuštění se pro daný den přeskočí.",
+    "CL_DV_DW_dw_auto_start_desc": "Funkce automatického spuštění myčky nádobí automaticky spouští vámi zvolený program každý den ve stejnou dobu, takže si na jeho spuštění nikdy nebudete muset pamatovat. Pro vaše pohodlí a bezpečnost se myčka nádobí spustí pouze v případě, že byly dvířka otevřena v posledních 18 hodinách. Pokud dvířka během této doby nebyla otevřena, bude funkce automatického spuštění pro daný den přeskočena.\nAby bylo možné spustit rutinu automatického spuštění, musí být povoleno trvalé vzdálené spuštění.",
     "CL_AC_auto_defrost_title": "Automatické odmrazování",
     "CL_AC_auto_defrost_time": "Celková doba běhu",
     "CL_AC_work_time": "Pracovní doba",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Chytré nastavení chlazení, které podporuje síť. Plus šance na odměnu.",
     "CL_thermostat_enable_location_title": "POVOLENÍ POLOHY",
     "CL_thermostat_enable_location_desc": "Povolte přístup k poloze pro zobrazení místního počasí, venkovní teploty a inteligentnějšího vytápění a chlazení.",
-    "CL_thermostat_maybe_later": "MOŽNÁ POZDĚJI"
+    "CL_thermostat_maybe_later": "MOŽNÁ POZDĚJI",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Abyste mohli naskenovat účtenku, musíte aplikaci ConnectLife povolit přístup k fotoaparátu.",
+    "scan_user_manual_not_exist": "Uživatelská příručka neexistuje.",
+    "CL_DV_wcc_activity_humidity": "Aktivní vlhkost"
 }

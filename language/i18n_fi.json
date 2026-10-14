@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Kameranäkymä",
     "CL_DV_DW_dw_auto_start": "Astianpesukoneen automaattinen käynnistys",
     "CL_DV_DW_xx_auto_start": "{1} Automaattinen käynnistys",
-    "CL_DV_DW_dw_auto_start_desc": "Astianpesukoneen automaattinen käynnistysrutiini suorittaa valitsemasi ohjelman automaattisesti samaan aikaan joka päivä – joten sinun ei koskaan tarvitse muistaa käynnistää sitä. Mukavuutesi ja turvallisuutesi vuoksi astianpesukone käynnistyy vain, jos luukku on avattu viimeisten 18 tunnin aikana. Jos luukkua ei ole avattu tänä aikana, automaattinen käynnistys ohitetaan kyseisenä päivänä.",
+    "CL_DV_DW_dw_auto_start_desc": "Astianpesukoneen automaattinen käynnistysrutiini suorittaa valitsemasi ohjelman automaattisesti samaan aikaan joka päivä, joten sinun ei koskaan tarvitse muistaa käynnistää sitä. Mukavuutesi ja turvallisuutesi vuoksi astianpesukone käynnistyy vain, jos luukku on avattu viimeisten 18 tunnin aikana. Jos luukkua ei ole avattu tänä aikana, automaattinen käynnistysrutiini ohitetaan kyseisenä päivänä.\nJotta automaattinen käynnistysrutiini voi toimia, pysyvän etäkäynnistyksen on oltava käytössä.",
     "CL_AC_auto_defrost_title": "Automaattinen sulatuspuhdistus",
     "CL_AC_auto_defrost_time": "Kertynyt käyttöaika",
     "CL_AC_work_time": "Työaika",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Älykkäät jäähdytyssäädöt, jotka tukevat sähköverkkoa. Lisäksi mahdollisuus palkintoihin.",
     "CL_thermostat_enable_location_title": "OTA SIJAINTI KÄYTTÖÖN",
     "CL_thermostat_enable_location_desc": "Salli sijainnin käyttöoikeus paikallisten säätietojen, ulkolämpötilan sekä älykkäämpien lämmitys- ja jäähdytystietojen tarjoamiseksi.",
-    "CL_thermostat_maybe_later": "Ehkä myöhemmin"
+    "CL_thermostat_maybe_later": "Ehkä myöhemmin",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Jotta voit skannata kuitin, sinun on annettava ConnectLife-sovellukselle lupa käyttää kameraa.",
+    "scan_user_manual_not_exist": "Käyttöohjetta ei ole olemassa.",
+    "CL_DV_wcc_activity_humidity": "Aktiivinen kosteus"
 }

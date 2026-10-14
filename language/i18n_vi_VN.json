@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "",
     "CL_DV_DW_dw_auto_start": "",
     "CL_DV_DW_xx_auto_start": "",
-    "CL_DV_DW_dw_auto_start_desc": "",
+    "CL_DV_DW_dw_auto_start_desc": "Chức năng Tự động khởi động của máy rửa chén sẽ tự động chạy chương trình bạn đã chọn vào cùng một thời điểm mỗi ngày, vì vậy bạn không cần phải nhớ khởi động máy. Để thuận tiện và an toàn cho bạn, máy rửa chén sẽ chỉ khởi động nếu cửa đã được mở trong vòng 18 giờ qua. Nếu cửa chưa được mở trong khoảng thời gian đó, chức năng Tự động khởi động sẽ bị bỏ qua trong ngày hôm đó.\nĐể cho phép quy trình Tự khởi động chạy, tính năng Khởi động từ xa vĩnh viễn phải được bật.",
     "CL_AC_auto_defrost_title": "",
     "CL_AC_auto_defrost_time": "",
     "CL_AC_work_time": "",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Điều chỉnh làm mát thông minh hỗ trợ lưới điện. Thêm vào đó là cơ hội nhận phần thưởng.",
     "CL_thermostat_enable_location_title": "KÍCH HOẠT VỊ TRÍ",
     "CL_thermostat_enable_location_desc": "Cho phép truy cập vị trí để xem thông tin thời tiết địa phương, nhiệt độ ngoài trời và hệ thống sưởi/làm mát thông minh hơn.",
-    "CL_thermostat_maybe_later": "CÓ THỂ LÀ LÚC SAU"
+    "CL_thermostat_maybe_later": "CÓ THỂ LÀ LÚC SAU",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Để quét hóa đơn, bạn cần cho phép ứng dụng ConnectLife truy cập vào camera.",
+    "scan_user_manual_not_exist": "Sách hướng dẫn sử dụng không tồn tại.",
+    "CL_DV_wcc_activity_humidity": "Độ ẩm chủ động"
 }

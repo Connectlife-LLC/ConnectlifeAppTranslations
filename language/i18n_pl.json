@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Widok kamery",
     "CL_DV_DW_dw_auto_start": "Zmywarka z automatycznym startem",
     "CL_DV_DW_xx_auto_start": "{1} Autostart",
-    "CL_DV_DW_dw_auto_start_desc": "Funkcja automatycznego uruchamiania zmywarki automatycznie uruchamia wybrany program o tej samej porze każdego dnia – dzięki czemu nie musisz pamiętać o jego uruchomieniu. Dla Twojej wygody i bezpieczeństwa zmywarka uruchomi się tylko wtedy, gdy drzwiczki zostaną otwarte w ciągu ostatnich 18 godzin. Jeśli drzwiczki nie zostaną otwarte w tym czasie, automatyczny start zostanie pominięty w danym dniu.",
+    "CL_DV_DW_dw_auto_start_desc": "Procedura automatycznego uruchamiania zmywarki automatycznie uruchamia wybrany program o tej samej porze każdego dnia, dzięki czemu nie musisz pamiętać o jego uruchomieniu. Dla Twojej wygody i bezpieczeństwa zmywarka uruchomi się tylko wtedy, gdy drzwiczki zostaną otwarte w ciągu ostatnich 18 godzin. Jeśli drzwiczki nie zostaną otwarte w tym czasie, procedura automatycznego uruchamiania zostanie pominięta w danym dniu.\nAby umożliwić uruchomienie procedury automatycznego uruchamiania, opcja Stałego zdalnego uruchamiania musi być włączona.",
     "CL_AC_auto_defrost_title": "Czyszczenie automatycznego odmrażania",
     "CL_AC_auto_defrost_time": "Skumulowany czas trwania",
     "CL_AC_work_time": "Czas pracy",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Inteligentne sterowanie chłodzeniem, które wspiera siatkę. Plus szansa na nagrodę.",
     "CL_thermostat_enable_location_title": "WŁĄCZ LOKALIZACJĘ",
     "CL_thermostat_enable_location_desc": "Zezwól na dostęp do lokalizacji, aby wyświetlać lokalną pogodę, temperaturę zewnętrzną oraz inteligentniejsze ogrzewanie i chłodzenie.",
-    "CL_thermostat_maybe_later": "MOŻE PÓŹNIEJ"
+    "CL_thermostat_maybe_later": "MOŻE PÓŹNIEJ",
+    "CL_DV_WM_energy_water_use": "",
+    "scan_code_tips_receipt": "Aby zeskanować paragon, musisz zezwolić aplikacji ConnectLife na dostęp do aparatu.",
+    "scan_user_manual_not_exist": "Instrukcja obsługi nie istnieje.",
+    "CL_DV_wcc_activity_humidity": "Aktywna wilgotność"
 }

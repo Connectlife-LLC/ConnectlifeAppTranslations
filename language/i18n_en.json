@@ -6977,7 +6977,7 @@
     "CL_DV_OV_camera_view": "Camera view",
     "CL_DV_DW_dw_auto_start": "Dishwasher Auto-start",
     "CL_DV_DW_xx_auto_start": "{1} Auto-start",
-    "CL_DV_DW_dw_auto_start_desc": "The Dishwasher Auto-Start routine automatically runs your chosen program at the same time each day—so you never have to remember to start it. For your convenience and safety, the dishwasher will only start if the door has been opened within the past 18 hours. If the door hasn’t been opened in that time, the auto-start will be skipped for that day.",
+    "CL_DV_DW_dw_auto_start_desc": "The Dishwasher Auto-Start routine automatically runs your chosen program at the same time each day, so you never have to remember to start it. For your convenience and safety, the dishwasher will only start if the door has been opened within the past 18 hours. If the door hasn’t been opened during that time, the Auto-Start routine will be skipped for that day.\nTo allow the Auto-Start routine to run, Permanent Remote Start must be enabled.",
     "CL_AC_auto_defrost_title": "Auto-Defrost Clean",
     "CL_AC_auto_defrost_time": "Accumulated running time",
     "CL_AC_work_time": "Work time",
@@ -9390,5 +9390,9 @@
     "CL_TH_dr_desc": "Smart cooling adjustments that support the grid. Plus a chance at a reward.",
     "CL_thermostat_enable_location_title": "ENABLE LOCATION",
     "CL_thermostat_enable_location_desc": "Allow location access to provide local weather, outdoor temperature, and smarter heating and cooling.",
-    "CL_thermostat_maybe_later": "MAYBE LATER"
+    "CL_thermostat_maybe_later": "MAYBE LATER",
+    "CL_DV_WM_energy_water_use": "Energy & water use",
+    "scan_code_tips_receipt": "In order to scan the receipt you must allow the ConnectLife app the access to the camera.",
+    "scan_user_manual_not_exist": "The user manual does not exist.",
+    "CL_DV_wcc_activity_humidity": "Active humidty"
 }
