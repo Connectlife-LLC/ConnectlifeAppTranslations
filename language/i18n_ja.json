@@ -4081,7 +4081,7 @@
     "CL_DV_RF_ice_off": "製氷停止",
     "CL_DV_RF_ion_preservation": "HI-NANO",
     "CL_DV_RF_ai_energy": "AI省エネ",
-    "CL_DV_RF_adaptive_temperature": "自己適応",
+    "CL_DV_RF_adaptive_temperature": "適応温度制御",
     "CL_DV_RF_normal_ice_making": "製氷",
     "CL_DV_RF_quick_ice_making": "急速",
     "CL_DV_OV_extra_auto_programs": "自動プログラム",
@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "日照量が十分な季節には、制御不能な負荷に太陽光発電を使用した後も、余剰電力が発生します。ヒートポンプをエネルギー管理システムに接続することで、余剰のグリーン電力を消費し、家計の節約に役立てることができます。",
     "CL_smart_energy_key": "1. AIエコ",
-    "air_care_helps_1_content_n": "家全体の温度、湿度、空気質の状態をリアルタイムで監視し、ユーザーの好みに基づいて快適性の評価とリマインダーを提供します。"
+    "air_care_helps_1_content_n": "家全体の温度、湿度、空気質の状態をリアルタイムで監視し、ユーザーの好みに基づいて快適性の評価とリマインダーを提供します。",
+    "oven_hi9_tft_setup_1": "デバイスの電源が入っていることを確認してください。\n「メニュー」キーをタップして右にスライドすると、設定画面が表示されます。",
+    "oven_hi9_tft_setup_2": "下にスクロールして「ネットワーク設定」を選択してください。",
+    "oven_hi9_tft_setup_3": "Wi-Fiが既にオンになっている場合は、この手順をスキップして手順4に進んでください。\nWi-Fiがオフになっている場合は、Wi-Fiをオンにしてオーブンをネットワークに接続してください。",
+    "oven_hi9_tft_setup_4": "「アプリのペアリング」を選択し、次のステップに進んでください。",
+    "oven_hi9_tft_setup_5": "「アカウントをペアリングする」を選択し、「次へ」をクリックします。",
+    "CL_DV_WM_eco_how_desc": "このプログラムとオプションを、この機器の他の設定と比較したものです。使用量は相対的なものであり、正確な量ではありません。機器内部の計算に基づいており、機器による計測ではありません。機器間または機種間での比較はできません。",
+    "CL_DV_WM_eco_lower": "より低い",
+    "CL_DV_WM_eco_higher": "より高い",
+    "CL_DV_WM_eco_energy_use": "エネルギー使用量",
+    "CL_appliance_usage_data_eu_n": "家電製品の使用状況データ\n（EUデータ保護法）",
+    "CL_appliance_usage_bt_title": "データの表示"
 }

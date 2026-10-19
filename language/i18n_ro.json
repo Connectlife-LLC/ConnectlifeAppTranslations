@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "În sezonul cu lumină suficientă, există încă un surplus de energie după ce energia solară este utilizată pentru sarcini incontrolabile. Puteți conecta pompa de căldură la sistemul de gestionare a energiei pentru a consuma excesul de energie verde și a economisi cheltuielile gospodăriei.",
     "CL_smart_energy_key": "1. AI Eco",
-    "air_care_helps_1_content_n": "Monitorizați temperatura, umiditatea și calitatea aerului în întreaga locuință în timp real și oferiți evaluări ale confortului și mementouri bazate pe preferințele utilizatorului."
+    "air_care_helps_1_content_n": "Monitorizați temperatura, umiditatea și calitatea aerului în întreaga locuință în timp real și oferiți evaluări ale confortului și mementouri bazate pe preferințele utilizatorului.",
+    "oven_hi9_tft_setup_1": "Asigurați-vă că dispozitivul este pornit.\nAtingeți tasta „Meniu” și glisați spre dreapta pentru a accesa setările.",
+    "oven_hi9_tft_setup_2": "Derulați în jos și selectați „Setări de rețea”.",
+    "oven_hi9_tft_setup_3": "Dacă Wi-Fi-ul este deja activat, săriți peste acest pas și treceți la Pasul 4.\nDacă Wi-Fi-ul este dezactivat, activați-l și conectați cuptorul la rețeaua dvs.",
+    "oven_hi9_tft_setup_4": "Selectați „Asociere aplicații” și continuați cu pasul următor.",
+    "oven_hi9_tft_setup_5": "Selectați „Asociați un cont” și faceți clic pe „Următorul”.",
+    "CL_DV_WM_eco_how_desc": "Compară acest program și opțiunile cu alte setări ale acestui aparat — utilizare relativă, nu o cantitate exactă. Bazat pe calcule interne, nu măsurat de aparat. Nu este comparabil între aparate sau modele.",
+    "CL_DV_WM_eco_lower": "Inferior",
+    "CL_DV_WM_eco_higher": "Superior",
+    "CL_DV_WM_eco_energy_use": "Consumul de energie",
+    "CL_appliance_usage_data_eu_n": "Date de utilizare a aparatului\n(Legea UE privind datele)",
+    "CL_appliance_usage_bt_title": "VIZUALIZARE DATE"
 }

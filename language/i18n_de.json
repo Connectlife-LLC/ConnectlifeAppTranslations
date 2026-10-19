@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "In sonnenreichen Zeiten bleibt nach der Deckung unkontrollierbarer Lasten durch Solarstrom oft noch überschüssige Energie übrig. Diese kann durch Anschluss der Wärmepumpe an das Energiemanagementsystem genutzt werden, um den überschüssigen Ökostrom zu verwenden und so Haushaltskosten zu sparen.",
     "CL_smart_energy_key": "1. KI-Ökonomie",
-    "air_care_helps_1_content_n": "Überwachen Sie Temperatur, Luftfeuchtigkeit und Luftqualität im gesamten Haus in Echtzeit und geben Sie Komfortbewertungen und Hinweise basierend auf den Benutzerpräferenzen."
+    "air_care_helps_1_content_n": "Überwachen Sie Temperatur, Luftfeuchtigkeit und Luftqualität im gesamten Haus in Echtzeit und geben Sie Komfortbewertungen und Hinweise basierend auf den Benutzerpräferenzen.",
+    "oven_hi9_tft_setup_1": "Vergewissern Sie sich, dass Ihr Gerät eingeschaltet ist.\nTippen Sie auf die Taste „Menü“ und wischen Sie nach rechts, um die Einstellungen aufzurufen.",
+    "oven_hi9_tft_setup_2": "Scrollen Sie nach unten und wählen Sie „Netzwerkeinstellungen“.",
+    "oven_hi9_tft_setup_3": "Wenn das WLAN bereits eingeschaltet ist, überspringen Sie diesen Schritt und fahren Sie mit Schritt 4 fort.\nFalls das WLAN ausgeschaltet ist, schalten Sie das WLAN ein und verbinden Sie den Ofen mit Ihrem Netzwerk.",
+    "oven_hi9_tft_setup_4": "Wählen Sie „App-Kopplung“ und fahren Sie mit dem nächsten Schritt fort.",
+    "oven_hi9_tft_setup_5": "Wählen Sie „Konto verknüpfen“ und klicken Sie auf „Weiter“.",
+    "CL_DV_WM_eco_how_desc": "Vergleicht dieses Programm und seine Optionen mit anderen Einstellungen dieses Geräts – relative Nutzung, keine exakte Angabe. Basierend auf internen Berechnungen, nicht vom Gerät gemessen. Nicht vergleichbar zwischen Geräten oder Modellen.",
+    "CL_DV_WM_eco_lower": "Untere",
+    "CL_DV_WM_eco_higher": "Höher",
+    "CL_DV_WM_eco_energy_use": "Energieverbrauch",
+    "CL_appliance_usage_data_eu_n": "Gerätenutzungsdaten\n(EU-Datenschutzgesetz)",
+    "CL_appliance_usage_bt_title": "DATEN ANZEIGEN"
 }

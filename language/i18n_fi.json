@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "Riittävän valoisan vuodenajan aikana ylimääräistä energiaa jää myös sen jälkeen, kun aurinkoenergiaa on käytetty hallitsemattomiin kuormiin. Voit kytkeä lämpöpumpun energianhallintajärjestelmään kuluttaaksesi ylimääräistä vihreää sähköä ja säästääksesi kotitalouskuluissa.",
     "CL_smart_energy_key": "1. Tekoälyeko",
-    "air_care_helps_1_content_n": "Seuraa koko kodin lämpötilaa, kosteutta ja ilmanlaatua reaaliajassa ja tarjoa mukavuusarviointeja ja muistutuksia käyttäjän mieltymysten perusteella."
+    "air_care_helps_1_content_n": "Seuraa koko kodin lämpötilaa, kosteutta ja ilmanlaatua reaaliajassa ja tarjoa mukavuusarviointeja ja muistutuksia käyttäjän mieltymysten perusteella.",
+    "oven_hi9_tft_setup_1": "Varmista, että laitteesi on päällä.\nNapauta \"Valikko\"-näppäintä ja liu'uta oikealle siirtyäksesi asetuksiin.",
+    "oven_hi9_tft_setup_2": "Vieritä alas ja valitse \"Verkkoasetukset\".",
+    "oven_hi9_tft_setup_3": "Jos Wi-Fi on jo päällä, ohita tämä vaihe ja siirry vaiheeseen 4.\nJos Wi-Fi on pois päältä, kytke Wi-Fi päälle ja yhdistä uuni verkkoon.",
+    "oven_hi9_tft_setup_4": "Valitse ”Sovelluspariliitos” ja jatka seuraavaan vaiheeseen.",
+    "oven_hi9_tft_setup_5": "Valitse ”Muodosta pari tili” ja napsauta ”Seuraava”.",
+    "CL_DV_WM_eco_how_desc": "Vertailee tätä ohjelmaa ja lisäasetuksia laitteen muihin asetuksiin – suhteellinen käyttö, ei tarkka määrä. Perustuu sisäisiin laskelmiin, ei laitteen mittaamaan. Ei vertailukelpoinen laitteiden tai mallien välillä.",
+    "CL_DV_WM_eco_lower": "Alentaa",
+    "CL_DV_WM_eco_higher": "Korkeampi",
+    "CL_DV_WM_eco_energy_use": "Energiankulutus",
+    "CL_appliance_usage_data_eu_n": "Kodinkoneiden käyttötiedot\n(EU:n tietosuojalaki)",
+    "CL_appliance_usage_bt_title": "NÄYTÄ TIETOJA"
 }

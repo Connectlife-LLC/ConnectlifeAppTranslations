@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "U sezoni s dovoljno svjetla, još uvijek postoji višak energije nakon što se solarna energija iskoristi za nekontrolirana opterećenja. Toplinsku pumpu možete spojiti na sustav upravljanja energijom kako biste trošili višak zelene električne energije i uštedjeli kućanske troškove.",
     "CL_smart_energy_key": "1. AI Eko",
-    "air_care_helps_1_content_n": "Pratite temperaturu, vlažnost i kvalitetu zraka u cijelom domu u stvarnom vremenu te pružajte procjene udobnosti i podsjetnike na temelju korisničkih preferencija."
+    "air_care_helps_1_content_n": "Pratite temperaturu, vlažnost i kvalitetu zraka u cijelom domu u stvarnom vremenu te pružajte procjene udobnosti i podsjetnike na temelju korisničkih preferencija.",
+    "oven_hi9_tft_setup_1": "Provjerite je li vaš uređaj UKLJUČEN.\nDodirnite tipku \"Izbornik\" i pomaknite prst udesno za ulazak u postavke.",
+    "oven_hi9_tft_setup_2": "Pomaknite se prema dolje i odaberite \"Postavke mreže\".",
+    "oven_hi9_tft_setup_3": "Ako je Wi-Fi već uključen, preskočite ovaj korak i prijeđite na korak 4.\nAko je Wi-Fi isključen, uključite Wi-Fi i spojite pećnicu na mrežu.",
+    "oven_hi9_tft_setup_4": "Odaberite \"Uparivanje aplikacija\" i prijeđite na sljedeći korak.",
+    "oven_hi9_tft_setup_5": "Odaberite \"upari račun\" i kliknite \"Dalje\".",
+    "CL_DV_WM_eco_how_desc": "Uspoređuje ovaj program i opcije s drugim postavkama na ovom uređaju - relativna upotreba, ne točna količina. Temelji se na internim izračunima, nije izmjereno uređajem. Nije usporedivo između uređaja ili modela.",
+    "CL_DV_WM_eco_lower": "Donji",
+    "CL_DV_WM_eco_higher": "Viši",
+    "CL_DV_WM_eco_energy_use": "Potrošnja energije",
+    "CL_appliance_usage_data_eu_n": "Podaci o korištenju uređaja \n (Zakon EU o podacima)",
+    "CL_appliance_usage_bt_title": "PRIKAŽI PODATKE"
 }

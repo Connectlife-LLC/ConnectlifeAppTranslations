@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "In het seizoen met voldoende zonlicht blijft er na gebruik van zonne-energie voor niet-regelbare verbruikers nog steeds energie over. U kunt de warmtepomp aansluiten op een energiebeheersysteem om de overtollige groene stroom te benutten en zo te besparen op de energiekosten.",
     "CL_smart_energy_key": "1. AI Eco",
-    "air_care_helps_1_content_n": "Monitor de temperatuur, luchtvochtigheid en luchtkwaliteit in uw hele huis in realtime en ontvang comfortbeoordelingen en herinneringen op basis van uw voorkeuren."
+    "air_care_helps_1_content_n": "Monitor de temperatuur, luchtvochtigheid en luchtkwaliteit in uw hele huis in realtime en ontvang comfortbeoordelingen en herinneringen op basis van uw voorkeuren.",
+    "oven_hi9_tft_setup_1": "Zorg ervoor dat uw apparaat is ingeschakeld.\nTik op de \"Menu\"-toets en schuif naar rechts om de instellingen te openen.",
+    "oven_hi9_tft_setup_2": "Scrol omlaag en selecteer 'Netwerkinstellingen'.",
+    "oven_hi9_tft_setup_3": "Als de wifi al is ingeschakeld, sla deze stap dan over en ga naar stap 4.\nAls de wifi is uitgeschakeld, schakel deze dan in en verbind de oven met uw netwerk.",
+    "oven_hi9_tft_setup_4": "Selecteer 'App-koppeling' en ga verder naar de volgende stap.",
+    "oven_hi9_tft_setup_5": "Selecteer 'een account koppelen' en klik op 'Volgende'.",
+    "CL_DV_WM_eco_how_desc": "Vergelijkt dit programma en de bijbehorende opties met andere instellingen op dit apparaat — relatief gebruik, geen exacte hoeveelheid. Gebaseerd op interne berekeningen, niet gemeten door het apparaat. Niet vergelijkbaar tussen apparaten of modellen.",
+    "CL_DV_WM_eco_lower": "Lager",
+    "CL_DV_WM_eco_higher": "Hoger",
+    "CL_DV_WM_eco_energy_use": "Energieverbruik",
+    "CL_appliance_usage_data_eu_n": "Gegevens over apparaatgebruik\n(EU-gegevenswet)",
+    "CL_appliance_usage_bt_title": "GEGEVENS BEKIJKEN"
 }

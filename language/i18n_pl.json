@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "W sezonie wystarczającego nasłonecznienia, nadal występuje nadwyżka energii elektrycznej po wykorzystaniu energii słonecznej do niekontrolowanych obciążeń. Możesz podłączyć pompę ciepła do systemu zarządzania energią, aby zużywać nadmiar zielonej energii elektrycznej i oszczędzać na wydatkach domowych.",
     "CL_smart_energy_key": "1. AI Eco",
-    "air_care_helps_1_content_n": "Monitoruj stan temperatury, wilgotności i jakości powietrza w całym domu w czasie rzeczywistym oraz dokonuj ocen komfortu i wysyłaj przypomnienia na podstawie preferencji użytkownika."
+    "air_care_helps_1_content_n": "Monitoruj stan temperatury, wilgotności i jakości powietrza w całym domu w czasie rzeczywistym oraz dokonuj ocen komfortu i wysyłaj przypomnienia na podstawie preferencji użytkownika.",
+    "oven_hi9_tft_setup_1": "Upewnij się, że urządzenie jest włączone.\nNaciśnij przycisk „Menu” i przesuń palcem w prawo, aby wejść do ustawień.",
+    "oven_hi9_tft_setup_2": "Przewiń w dół i wybierz „Ustawienia sieciowe”.",
+    "oven_hi9_tft_setup_3": "Jeśli sieć Wi-Fi jest już włączona, pomiń ten krok i przejdź do kroku 4.\nJeśli sieć Wi-Fi jest wyłączona, włącz ją i podłącz piekarnik do sieci.",
+    "oven_hi9_tft_setup_4": "Wybierz „Parowanie aplikacji” i przejdź do następnego kroku.",
+    "oven_hi9_tft_setup_5": "Wybierz „sparuj konto” i kliknij „Dalej”.",
+    "CL_DV_WM_eco_how_desc": "Porównuje ten program i opcje z innymi ustawieniami tego urządzenia — względne zużycie, a nie dokładną ilość. Oparte na wewnętrznych obliczeniach, a nie zmierzone przez urządzenie. Nie można porównywać urządzeń ani modeli.",
+    "CL_DV_WM_eco_lower": "Niżej",
+    "CL_DV_WM_eco_higher": "Wyższy",
+    "CL_DV_WM_eco_energy_use": "Zużycie energii",
+    "CL_appliance_usage_data_eu_n": "Dane dotyczące użytkowania urządzenia\n(Ustawa UE o danych)",
+    "CL_appliance_usage_bt_title": "WYŚWIETL DANE"
 }

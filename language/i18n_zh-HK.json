@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "在光照充足的季節，即使太陽能發電用於滿足不可控負載後仍有剩餘電力。您可以將熱泵連接到能源管理系統，利用多餘的綠色電力來節省家庭開支。",
     "CL_smart_energy_key": "1. 人工智慧生態",
-    "air_care_helps_1_content_n": "即時監測全屋的溫度、濕度和空氣品質狀況，並根據使用者偏好提供舒適度評估和提醒。"
+    "air_care_helps_1_content_n": "即時監測全屋的溫度、濕度和空氣品質狀況，並根據使用者偏好提供舒適度評估和提醒。",
+    "oven_hi9_tft_setup_1": "請確保您的設備已開啟。\n點擊“選單”鍵，然後向右滑動進入設定。",
+    "oven_hi9_tft_setup_2": "向下捲動並選擇“網路設定”。",
+    "oven_hi9_tft_setup_3": "如果 Wi-Fi 已開啟，請跳過此步驟並前往步驟 4。\n如果 Wi-Fi 已關閉，請開啟 Wi-Fi 並將烤箱連接到您的網路。",
+    "oven_hi9_tft_setup_4": "選擇“應用配對”，然後繼續下一步。",
+    "oven_hi9_tft_setup_5": "選擇“配對帳戶”，然後點擊“下一步”。",
+    "CL_DV_WM_eco_how_desc": "將此程序和選項與本設備上的其他設定進行比較－使用量為相對值，而非精確值。基於內部計算，而非設備實際測量值。不同設備或型號之間不具有可比性。",
+    "CL_DV_WM_eco_lower": "降低",
+    "CL_DV_WM_eco_higher": "更高",
+    "CL_DV_WM_eco_energy_use": "能源利用",
+    "CL_appliance_usage_data_eu_n": "電器使用數據\n（歐盟資料法）",
+    "CL_appliance_usage_bt_title": "查看數據"
 }

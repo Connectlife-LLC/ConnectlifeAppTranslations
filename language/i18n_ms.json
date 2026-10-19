@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "Pada musim cahaya yang mencukupi, masih terdapat lebihan kuasa selepas kuasa solar digunakan untuk beban yang tidak terkawal. Anda boleh menyambungkan pam haba ke sistem pengurusan tenaga untuk menggunakan elektrik hijau yang berlebihan bagi menjimatkan perbelanjaan isi rumah.",
     "CL_smart_energy_key": "1. AI Eco",
-    "air_care_helps_1_content_n": "Pantau status suhu, kelembapan dan kualiti udara seluruh rumah dalam masa nyata, dan berikan penilaian keselesaan dan peringatan berdasarkan pilihan pengguna."
+    "air_care_helps_1_content_n": "Pantau status suhu, kelembapan dan kualiti udara seluruh rumah dalam masa nyata, dan berikan penilaian keselesaan dan peringatan berdasarkan pilihan pengguna.",
+    "oven_hi9_tft_setup_1": "Pastikan peranti anda dihidupkan.\nKetik kekunci \"Menu\" dan luncurkan ke kanan untuk memasukkan tetapan.",
+    "oven_hi9_tft_setup_2": "Tatal ke bawah dan pilih \"Tetapan rangkaian\".",
+    "oven_hi9_tft_setup_3": "Jika Wi-Fi sudah dihidupkan, langkau langkah ini dan pergi ke Langkah 4.\nJika Wi-Fi dimatikan, hidupkan Wi-Fi dan sambungkan ketuhar ke rangkaian anda.",
+    "oven_hi9_tft_setup_4": "Pilih “Pasangan aplikasi” dan teruskan ke langkah seterusnya.",
+    "oven_hi9_tft_setup_5": "Pilih “pasangkan akaun” dan klik “Seterusnya”.",
+    "CL_DV_WM_eco_how_desc": "Membandingkan program dan pilihan ini dengan tetapan lain pada perkakas ini — penggunaan relatif, bukan jumlah yang tepat. Berdasarkan pengiraan dalaman, tidak diukur oleh perkakas. Tidak dapat dibandingkan antara perkakas atau model.",
+    "CL_DV_WM_eco_lower": "Lebih rendah",
+    "CL_DV_WM_eco_higher": "Lebih tinggi",
+    "CL_DV_WM_eco_energy_use": "Penggunaan tenaga",
+    "CL_appliance_usage_data_eu_n": "Data penggunaan perkakas\n(Akta data EU)",
+    "CL_appliance_usage_bt_title": "LIHAT DATA"
 }
