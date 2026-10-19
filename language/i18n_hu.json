@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "A megfelelő fényviszonyok mellett is marad felesleges energia, miután a napenergiát szabályozhatatlan terhelésekre használtuk. A hőszivattyút csatlakoztathatjuk az energiagazdálkodási rendszerhez, hogy felhasználjuk a felesleges zöldáramot, és ezáltal csökkentsük a háztartási költségeket.",
     "CL_smart_energy_key": "1. AI Eco",
-    "air_care_helps_1_content_n": "Valós időben figyelje az egész otthon hőmérsékletét, páratartalmát és levegőminőségét, és a felhasználói preferenciák alapján komfortértékeléseket és emlékeztetőket biztosítson."
+    "air_care_helps_1_content_n": "Valós időben figyelje az egész otthon hőmérsékletét, páratartalmát és levegőminőségét, és a felhasználói preferenciák alapján komfortértékeléseket és emlékeztetőket biztosítson.",
+    "oven_hi9_tft_setup_1": "Győződjön meg róla, hogy a készülék BE van kapcsolva.\nKoppintson a „Menü” gombra, és csúsztassa az ujját jobbra a beállítások eléréséhez.",
+    "oven_hi9_tft_setup_2": "Görgessen lejjebb, és válassza a „Hálózati beállítások” lehetőséget.",
+    "oven_hi9_tft_setup_3": "Ha a Wi-Fi már be van kapcsolva, hagyja ki ezt a lépést, és folytassa a 4. lépéssel.\nHa a Wi-Fi ki van kapcsolva, kapcsolja be a Wi-Fi-t, és csatlakoztassa a sütőt a hálózathoz.",
+    "oven_hi9_tft_setup_4": "Válassza az „Alkalmazáspárosítás” lehetőséget, és folytassa a következő lépéssel.",
+    "oven_hi9_tft_setup_5": "Válassza a „Fiók párosítása” lehetőséget, majd kattintson a „Tovább” gombra.",
+    "CL_DV_WM_eco_how_desc": "Összehasonlítja ezt a programot és a beállításokat a készülék más beállításaival – relatív használat, nem pontos mennyiség. Belső számításokon alapul, nem a készülék méri. Nem hasonlítható össze a készülékek vagy modellek között.",
+    "CL_DV_WM_eco_lower": "Alacsonyabb",
+    "CL_DV_WM_eco_higher": "Magasabb",
+    "CL_DV_WM_eco_energy_use": "Energiafelhasználás",
+    "CL_appliance_usage_data_eu_n": "Készülékhasználati adatok\n(EU adatvédelmi törvény)",
+    "CL_appliance_usage_bt_title": "ADATOK MEGTEKINTÉSE"
 }

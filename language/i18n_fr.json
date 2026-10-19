@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "Durant la saison d'ensoleillement suffisant, l'énergie solaire produit un surplus après l'alimentation des charges non contrôlables. Vous pouvez raccorder la pompe à chaleur au système de gestion de l'énergie afin d'utiliser ce surplus d'électricité verte et ainsi réduire vos factures d'énergie.",
     "CL_smart_energy_key": "1. IA Éco",
-    "air_care_helps_1_content_n": "Surveillez en temps réel la température, l'humidité et la qualité de l'air de toute la maison, et fournissez des évaluations de confort et des rappels en fonction des préférences de l'utilisateur."
+    "air_care_helps_1_content_n": "Surveillez en temps réel la température, l'humidité et la qualité de l'air de toute la maison, et fournissez des évaluations de confort et des rappels en fonction des préférences de l'utilisateur.",
+    "oven_hi9_tft_setup_1": "Assurez-vous que votre appareil est allumé.\nAppuyez sur la touche « Menu » et faites glisser vers la droite pour accéder aux paramètres.",
+    "oven_hi9_tft_setup_2": "Faites défiler vers le bas et sélectionnez « Paramètres réseau ».",
+    "oven_hi9_tft_setup_3": "Si le Wi-Fi est déjà activé, passez cette étape et allez à l'étape 4.\nSi le Wi-Fi est désactivé, activez-le et connectez le four à votre réseau.",
+    "oven_hi9_tft_setup_4": "Sélectionnez « Couplage d’applications » et passez à l’étape suivante.",
+    "oven_hi9_tft_setup_5": "Sélectionnez « Associer un compte » et cliquez sur « Suivant ».",
+    "CL_DV_WM_eco_how_desc": "Ce programme et ses options sont comparés à d'autres réglages de cet appareil ; il s'agit d'une utilisation relative, et non d'une mesure exacte. Les résultats sont basés sur des calculs internes et non sur des mesures effectuées par l'appareil. La comparaison n'est pas possible entre appareils ou modèles.",
+    "CL_DV_WM_eco_lower": "Inférieur",
+    "CL_DV_WM_eco_higher": "Plus haut",
+    "CL_DV_WM_eco_energy_use": "consommation d'énergie",
+    "CL_appliance_usage_data_eu_n": "données d'utilisation des appareils\n(Loi européenne sur les données)",
+    "CL_appliance_usage_bt_title": "AFFICHER LES DONNÉES"
 }

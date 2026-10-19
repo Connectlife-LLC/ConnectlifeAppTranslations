@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "Under säsongen med tillräckligt ljus finns det fortfarande överskottsenergi efter att solenergi har använts för okontrollerbara belastningar. Du kan ansluta värmepumpen till energihanteringssystemet för att förbruka överskottsgrön el och spara hushållskostnader.",
     "CL_smart_energy_key": "1. AI Eco",
-    "air_care_helps_1_content_n": "Övervaka temperatur, luftfuktighet och luftkvalitetsstatus i hela hemmet i realtid och ge komfortutvärderingar och påminnelser baserat på användarnas preferenser."
+    "air_care_helps_1_content_n": "Övervaka temperatur, luftfuktighet och luftkvalitetsstatus i hela hemmet i realtid och ge komfortutvärderingar och påminnelser baserat på användarnas preferenser.",
+    "oven_hi9_tft_setup_1": "Se till att din enhet är PÅslagen.\nTryck på \"Meny\"-knappen och dra åt höger för att öppna inställningarna.",
+    "oven_hi9_tft_setup_2": "Scrolla ner och välj \"Nätverksinställningar\".",
+    "oven_hi9_tft_setup_3": "Om Wi-Fi redan är påslaget, hoppa över det här steget och gå till steg 4.\nOm Wi-Fi är avstängt, slå på Wi-Fi och anslut ugnen till ditt nätverk.",
+    "oven_hi9_tft_setup_4": "Välj ”Appparkoppling” och fortsätt till nästa steg.",
+    "oven_hi9_tft_setup_5": "Välj \"para ihop ett konto\" och klicka på \"Nästa\".",
+    "CL_DV_WM_eco_how_desc": "Jämför detta program och alternativ med andra inställningar på den här apparaten – relativ användning, inte en exakt mängd. Baserat på interna beräkningar, inte mätt av apparaten. Inte jämförbar mellan apparater eller modeller.",
+    "CL_DV_WM_eco_lower": "Lägre",
+    "CL_DV_WM_eco_higher": "Högre",
+    "CL_DV_WM_eco_energy_use": "Energianvändning",
+    "CL_appliance_usage_data_eu_n": "Apparatens användningsdata\n(EU:s datalag)",
+    "CL_appliance_usage_bt_title": "VISA DATA"
 }

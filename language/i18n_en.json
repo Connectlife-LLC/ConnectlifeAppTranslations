@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "Plus",
     "CL_CF_energy_help_content_2_new": "In the season of sufficient light, there is still surplus power after solar power is used for uncontrollable loads. You can connect the heat pump to the energy management system to consume excess green electricity to save household expenses.",
     "CL_smart_energy_key": "1. AI Eco",
-    "air_care_helps_1_content_n": "Monitor the temperature, humidity and air quality status of whole home in real time, and provide comfort evaluations and reminders based on user preferences."
+    "air_care_helps_1_content_n": "Monitor the temperature, humidity and air quality status of whole home in real time, and provide comfort evaluations and reminders based on user preferences.",
+    "oven_hi9_tft_setup_1": "Make sure your device is turned ON.\nTap the \"Menu\" key and slide to the right to enter the settings.",
+    "oven_hi9_tft_setup_2": "Scroll down and select “Network settings”.",
+    "oven_hi9_tft_setup_3": "If the Wi-Fi is already on, skip this step and go to Step 4.\nIf the Wi-Fi is off, turn on the Wi-Fi and connect the oven to your network.",
+    "oven_hi9_tft_setup_4": "Select “App pairing” and continue to the next step.",
+    "oven_hi9_tft_setup_5": "Select “pair an account” and click “Next”.",
+    "CL_DV_WM_eco_how_desc": "Compares this programme and options with other settings on this appliance — relative use, not an exact amount. Based on internal calculations, not measured by the appliance. Not comparable between appliances or models.",
+    "CL_DV_WM_eco_lower": "Lower",
+    "CL_DV_WM_eco_higher": "Higher",
+    "CL_DV_WM_eco_energy_use": "Energy use",
+    "CL_appliance_usage_data_eu_n": "Appliance usage data\n(EU data Act)",
+    "CL_appliance_usage_bt_title": "VIEW DATA"
 }

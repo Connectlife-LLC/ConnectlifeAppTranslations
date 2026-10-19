@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "V sezoni zadostne svetlobe še vedno ostane presežek energije, potem ko se sončna energija porabi za neobvladljive obremenitve. Toplotno črpalko lahko priključite na sistem za upravljanje z energijo, da porabite presežek zelene električne energije in prihranite pri stroških gospodinjstva.",
     "CL_smart_energy_key": "1. AI Eko",
-    "air_care_helps_1_content_n": "Spremljajte temperaturo, vlažnost in kakovost zraka v celotnem domu v realnem času ter na podlagi uporabniških preferenc ocenjujte udobje in prikažite opomnike."
+    "air_care_helps_1_content_n": "Spremljajte temperaturo, vlažnost in kakovost zraka v celotnem domu v realnem času ter na podlagi uporabniških preferenc ocenjujte udobje in prikažite opomnike.",
+    "oven_hi9_tft_setup_1": "Prepričajte se, da je vaša naprava VKLOPLJENA.\nDotaknite se tipke »Meni« in podrsnite v desno, da vstopite v nastavitve.",
+    "oven_hi9_tft_setup_2": "Pomaknite se navzdol in izberite »Omrežne nastavitve«.",
+    "oven_hi9_tft_setup_3": "Če je Wi-Fi že vklopljen, preskočite ta korak in nadaljujte s 4. korakom.\nČe je Wi-Fi izklopljen, ga vklopite in pečico povežite z omrežjem.",
+    "oven_hi9_tft_setup_4": "Izberite »Seznanjanje aplikacij« in nadaljujte z naslednjim korakom.",
+    "oven_hi9_tft_setup_5": "Izberite »združi račun« in kliknite »Naprej«.",
+    "CL_DV_WM_eco_how_desc": "Primerja ta program in možnosti z drugimi nastavitvami te naprave – relativna uporaba, ne natančna količina. Na podlagi internih izračunov, ne meri naprava. Ni primerljivo med napravami ali modeli.",
+    "CL_DV_WM_eco_lower": "Spodnje",
+    "CL_DV_WM_eco_higher": "Višje",
+    "CL_DV_WM_eco_energy_use": "Poraba energije",
+    "CL_appliance_usage_data_eu_n": "Podatki o uporabi aparatov\n(Zakon EU o varstvu podatkov)",
+    "CL_appliance_usage_bt_title": "OGLEJTE SI PODATKE"
 }

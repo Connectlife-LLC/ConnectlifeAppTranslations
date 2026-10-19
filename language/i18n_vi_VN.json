@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "Vào mùa có đủ ánh sáng, vẫn còn lượng điện dư thừa sau khi sử dụng điện mặt trời cho các tải không thể kiểm soát. Bạn có thể kết nối bơm nhiệt với hệ thống quản lý năng lượng để tiêu thụ lượng điện xanh dư thừa, giúp tiết kiệm chi phí sinh hoạt.",
     "CL_smart_energy_key": "1. Hệ sinh thái AI",
-    "air_care_helps_1_content_n": "Theo dõi nhiệt độ, độ ẩm và chất lượng không khí toàn bộ ngôi nhà trong thời gian thực, đồng thời cung cấp đánh giá về mức độ thoải mái và nhắc nhở dựa trên sở thích của người dùng."
+    "air_care_helps_1_content_n": "Theo dõi nhiệt độ, độ ẩm và chất lượng không khí toàn bộ ngôi nhà trong thời gian thực, đồng thời cung cấp đánh giá về mức độ thoải mái và nhắc nhở dựa trên sở thích của người dùng.",
+    "oven_hi9_tft_setup_1": "Hãy đảm bảo thiết bị của bạn đã được bật.\nNhấn phím \"Menu\" và vuốt sang phải để vào cài đặt.",
+    "oven_hi9_tft_setup_2": "Cuộn xuống và chọn “Cài đặt mạng”.",
+    "oven_hi9_tft_setup_3": "Nếu Wi-Fi đã được bật, hãy bỏ qua bước này và chuyển sang Bước 4.\nNếu Wi-Fi đang tắt, hãy bật Wi-Fi và kết nối lò nướng với mạng của bạn.",
+    "oven_hi9_tft_setup_4": "Chọn “Ghép nối ứng dụng” và tiếp tục bước tiếp theo.",
+    "oven_hi9_tft_setup_5": "Chọn “ghép nối tài khoản” và nhấn “Tiếp theo”.",
+    "CL_DV_WM_eco_how_desc": "So sánh chương trình và các tùy chọn này với các cài đặt khác trên thiết bị này — mức sử dụng tương đối, không phải là con số chính xác. Dựa trên các tính toán nội bộ, không phải do thiết bị đo lường. Không thể so sánh giữa các thiết bị hoặc kiểu máy khác nhau.",
+    "CL_DV_WM_eco_lower": "Thấp hơn",
+    "CL_DV_WM_eco_higher": "Cao hơn",
+    "CL_DV_WM_eco_energy_use": "Sử dụng năng lượng",
+    "CL_appliance_usage_data_eu_n": "Dữ liệu sử dụng thiết bị\n(Luật dữ liệu của EU)",
+    "CL_appliance_usage_bt_title": "XEM DỮ LIỆU"
 }

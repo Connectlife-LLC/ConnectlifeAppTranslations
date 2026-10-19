@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "Yeterli güneş ışığının olduğu mevsimde, kontrol edilemeyen yükler için güneş enerjisi kullanıldıktan sonra bile fazla enerji kalır. Bu fazla yeşil elektriği tüketmek ve ev giderlerinden tasarruf etmek için ısı pompasını enerji yönetim sistemine bağlayabilirsiniz.",
     "CL_smart_energy_key": "1. Yapay Zeka Ekosistemi",
-    "air_care_helps_1_content_n": "Ev genelindeki sıcaklık, nem ve hava kalitesi durumunu gerçek zamanlı olarak izleyin ve kullanıcı tercihlerine göre konfor değerlendirmeleri ve hatırlatmalar sağlayın."
+    "air_care_helps_1_content_n": "Ev genelindeki sıcaklık, nem ve hava kalitesi durumunu gerçek zamanlı olarak izleyin ve kullanıcı tercihlerine göre konfor değerlendirmeleri ve hatırlatmalar sağlayın.",
+    "oven_hi9_tft_setup_1": "Cihazınızın açık olduğundan emin olun.\nAyarlara girmek için \"Menü\" tuşuna dokunun ve sağa doğru kaydırın.",
+    "oven_hi9_tft_setup_2": "Aşağı kaydırın ve \"Ağ ayarları\"nı seçin.",
+    "oven_hi9_tft_setup_3": "Wi-Fi zaten açıksa, bu adımı atlayın ve 4. adıma geçin.\nWi-Fi kapalıysa, Wi-Fi'yi açın ve fırını ağınıza bağlayın.",
+    "oven_hi9_tft_setup_4": "“Uygulama eşleştirme”yi seçin ve bir sonraki adıma geçin.",
+    "oven_hi9_tft_setup_5": "“Hesap eşleştir” seçeneğini seçin ve “İleri”ye tıklayın.",
+    "CL_DV_WM_eco_how_desc": "Bu program ve seçenekleri, bu cihazdaki diğer ayarlarla karşılaştırır; kullanım miktarı tam olarak değil, göreceli kullanım miktarı olarak değerlendirilir. Cihaz tarafından ölçülmez, dahili hesaplamalara dayanır. Cihazlar veya modeller arasında karşılaştırılabilir değildir.",
+    "CL_DV_WM_eco_lower": "Daha düşük",
+    "CL_DV_WM_eco_higher": "Daha yüksek",
+    "CL_DV_WM_eco_energy_use": "Enerji kullanımı",
+    "CL_appliance_usage_data_eu_n": "Cihaz kullanım verileri\n(AB Veri Yasası)",
+    "CL_appliance_usage_bt_title": "VERİLERİ GÖRÜNTÜLE"
 }

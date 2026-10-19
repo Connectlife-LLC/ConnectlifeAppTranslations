@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "Nella stagione con sufficiente luce solare, dopo aver utilizzato l'energia solare per i carichi incontrollati, rimane ancora un surplus di energia. È possibile collegare la pompa di calore al sistema di gestione energetica per consumare l'elettricità verde in eccesso e risparmiare sulle spese domestiche.",
     "CL_smart_energy_key": "1. Eco dell'IA",
-    "air_care_helps_1_content_n": "Monitora in tempo reale la temperatura, l'umidità e la qualità dell'aria in tutta la casa e fornisci valutazioni del comfort e promemoria basati sulle preferenze dell'utente."
+    "air_care_helps_1_content_n": "Monitora in tempo reale la temperatura, l'umidità e la qualità dell'aria in tutta la casa e fornisci valutazioni del comfort e promemoria basati sulle preferenze dell'utente.",
+    "oven_hi9_tft_setup_1": "Assicurati che il dispositivo sia acceso.\nTocca il tasto \"Menu\" e scorri verso destra per accedere alle impostazioni.",
+    "oven_hi9_tft_setup_2": "Scorri verso il basso e seleziona \"Impostazioni di rete\".",
+    "oven_hi9_tft_setup_3": "Se il Wi-Fi è già attivo, salta questo passaggio e passa al passaggio 4.\nSe il Wi-Fi è disattivato, attivalo e collega il forno alla tua rete.",
+    "oven_hi9_tft_setup_4": "Seleziona \"Associazione app\" e procedi al passaggio successivo.",
+    "oven_hi9_tft_setup_5": "Seleziona “Associa un account” e fai clic su “Avanti”.",
+    "CL_DV_WM_eco_how_desc": "Confronta questo programma e le relative opzioni con altre impostazioni di questo apparecchio: utilizzo relativo, non valore esatto. Basato su calcoli interni, non su misurazioni effettuate dall'apparecchio. Non confrontabile tra apparecchi o modelli diversi.",
+    "CL_DV_WM_eco_lower": "Inferiore",
+    "CL_DV_WM_eco_higher": "Più alto",
+    "CL_DV_WM_eco_energy_use": "consumo di energia",
+    "CL_appliance_usage_data_eu_n": "Dati sull'utilizzo degli elettrodomestici\n(Legge europea sulla protezione dei dati)",
+    "CL_appliance_usage_bt_title": "VISUALIZZA I DATI"
 }

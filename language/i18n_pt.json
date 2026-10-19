@@ -9405,5 +9405,16 @@
     "CL_DV_OV_autoprogram_leveltype_none_plus": "",
     "CL_CF_energy_help_content_2_new": "Na estação com luminosidade suficiente, ainda há energia excedente após o uso da energia solar para cargas não controláveis. Você pode conectar a bomba de calor ao sistema de gestão de energia para consumir o excesso de energia verde e economizar nas despesas domésticas.",
     "CL_smart_energy_key": "1. Ecologia da IA",
-    "air_care_helps_1_content_n": "Monitore a temperatura, a umidade e a qualidade do ar de toda a casa em tempo real e forneça avaliações de conforto e lembretes com base nas preferências do usuário."
+    "air_care_helps_1_content_n": "Monitore a temperatura, a umidade e a qualidade do ar de toda a casa em tempo real e forneça avaliações de conforto e lembretes com base nas preferências do usuário.",
+    "oven_hi9_tft_setup_1": "Certifique-se de que seu dispositivo esteja ligado.\nToque na tecla \"Menu\" e deslize para a direita para acessar as configurações.",
+    "oven_hi9_tft_setup_2": "Deslize a tela para baixo e selecione “Configurações de rede”.",
+    "oven_hi9_tft_setup_3": "Se o Wi-Fi já estiver ligado, ignore esta etapa e vá para a Etapa 4.\nSe o Wi-Fi estiver desligado, ligue-o e conecte o forno à sua rede.",
+    "oven_hi9_tft_setup_4": "Selecione “Emparelhamento de aplicativos” e prossiga para a próxima etapa.",
+    "oven_hi9_tft_setup_5": "Selecione “emparelhar uma conta” e clique em “Avançar”.",
+    "CL_DV_WM_eco_how_desc": "Compara este programa e suas opções com outras configurações deste aparelho — uso relativo, não uma quantidade exata. Baseado em cálculos internos, não medido pelo aparelho. Não comparável entre aparelhos ou modelos.",
+    "CL_DV_WM_eco_lower": "Mais baixo",
+    "CL_DV_WM_eco_higher": "Mais alto",
+    "CL_DV_WM_eco_energy_use": "Consumo de energia",
+    "CL_appliance_usage_data_eu_n": "Dados de utilização do aparelho\n(Lei de Proteção de Dados da UE)",
+    "CL_appliance_usage_bt_title": "VISUALIZAR DADOS"
 }
