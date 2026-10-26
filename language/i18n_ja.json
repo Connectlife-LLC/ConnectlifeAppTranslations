@@ -9421,5 +9421,11 @@
     "DW_MIX_STATUS_02": "このシステムは、ほとんどのシステムよりも多くのエネルギーと水を消費します。",
     "DW_MIX_STATUS_03": "この構成では、より多くのエネルギーと水を消費します。",
     "DW_WATER_OPT_02": "満タンにすると、1個あたりの水の使用量が少なくなる。",
-    "DW_WATER_STATUS_03": "この設定は、他のほとんどの設定よりも多くの水を使用します。"
+    "DW_WATER_STATUS_03": "この設定は、他のほとんどの設定よりも多くの水を使用します。",
+    "CL_DV_OV_how_to_activate": "アクティベート方法は？",
+    "CL_DV_OV_set_power_watts_title": "電力（ワット）を設定",
+    "CL_DV_OV_water_tank_empty_title": "貯水タンクが空です",
+    "CL_DV_OV_water_tank_empty_desc": "蒸し調理に必要な水が水タンクに不足しています。蒸し調理プログラムを開始する前に、水タンクに水を補充してください。",
+    "CL_DV_OV_water_tank_sufficient": "水位は十分",
+    "CL_DV_OV_water_tank_sufficient_desc": "水タンクには蒸し料理に必要な水が十分に入っています。タンクが空になると通知されます。"
 }

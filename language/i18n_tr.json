@@ -9421,5 +9421,11 @@
     "DW_MIX_STATUS_02": "Bu kurulum, çoğu kurulumdan daha fazla enerji ve su tüketir.",
     "DW_MIX_STATUS_03": "Bu sistem daha fazla enerji ve su tüketiyor.",
     "DW_WATER_OPT_02": "Tam dolu bir yıkama programı, her bir ürün için daha az su kullanır.",
-    "DW_WATER_STATUS_03": "Bu kurulum, diğer çoğu ayara göre daha fazla su kullanır."
+    "DW_WATER_STATUS_03": "Bu kurulum, diğer çoğu ayara göre daha fazla su kullanır.",
+    "CL_DV_OV_how_to_activate": "Nasıl etkinleştirilir?",
+    "CL_DV_OV_set_power_watts_title": "Gücü ayarlayın (Watt)",
+    "CL_DV_OV_water_tank_empty_title": "Su deposu boş.",
+    "CL_DV_OV_water_tank_empty_desc": "Buharlı pişirme için su tankında yeterli su yok. Buharlı pişirme programına başlamadan önce su tankını doldurun.",
+    "CL_DV_OV_water_tank_sufficient": "Su seviyesi yeterli",
+    "CL_DV_OV_water_tank_sufficient_desc": "Buharda pişirme için su tankında yeterli su bulunmaktadır. Tank boşaldığında size bildirim gönderilecektir."
 }

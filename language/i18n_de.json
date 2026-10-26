@@ -9421,5 +9421,11 @@
     "DW_MIX_STATUS_02": "Diese Konfiguration verbraucht mehr Energie und Wasser als die meisten anderen.",
     "DW_MIX_STATUS_03": "Diese Konfiguration verbraucht mehr Energie und Wasser.",
     "DW_WATER_OPT_02": "Eine volle Ladung verbraucht weniger Wasser pro Stück.",
-    "DW_WATER_STATUS_03": "Diese Konfiguration verbraucht mehr Wasser als die meisten anderen."
+    "DW_WATER_STATUS_03": "Diese Konfiguration verbraucht mehr Wasser als die meisten anderen.",
+    "CL_DV_OV_how_to_activate": "Wie aktiviere ich das Gerät?",
+    "CL_DV_OV_set_power_watts_title": "Leistung einstellen (Watt)",
+    "CL_DV_OV_water_tank_empty_title": "Wassertank ist leer",
+    "CL_DV_OV_water_tank_empty_desc": "Für das Dampfgaren befindet sich nicht genügend Wasser im Wassertank. Füllen Sie den Wassertank auf, bevor Sie ein Dampfgarprogramm starten.",
+    "CL_DV_OV_water_tank_sufficient": "Wasserstand ausreichend",
+    "CL_DV_OV_water_tank_sufficient_desc": "Der Wassertank enthält ausreichend Wasser zum Dampfgaren. Sie werden benachrichtigt, sobald der Tank leer ist."
 }

@@ -9421,5 +9421,11 @@
     "DW_MIX_STATUS_02": "Ta konfiguracja zużywa więcej energii i wody niż większość ustawień.",
     "DW_MIX_STATUS_03": "Ta konfiguracja zużywa więcej energii i wody.",
     "DW_WATER_OPT_02": "Pełne pranie zużywa mniej wody na sztukę.",
-    "DW_WATER_STATUS_03": "Ta konfiguracja zużywa więcej wody niż większość ustawień."
+    "DW_WATER_STATUS_03": "Ta konfiguracja zużywa więcej wody niż większość ustawień.",
+    "CL_DV_OV_how_to_activate": "Jak aktywować?",
+    "CL_DV_OV_set_power_watts_title": "Ustaw moc (waty)",
+    "CL_DV_OV_water_tank_empty_title": "Zbiornik na wodę jest pusty",
+    "CL_DV_OV_water_tank_empty_desc": "W zbiorniku na wodę nie ma wystarczającej ilości wody do gotowania na parze. Uzupełnij zbiornik przed rozpoczęciem gotowania na parze.",
+    "CL_DV_OV_water_tank_sufficient": "Poziom wody wystarczający",
+    "CL_DV_OV_water_tank_sufficient_desc": "W zbiorniku jest wystarczająca ilość wody do gotowania na parze. Otrzymasz powiadomienie, gdy zbiornik będzie pusty."
 }

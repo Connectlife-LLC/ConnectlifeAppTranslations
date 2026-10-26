@@ -9421,5 +9421,11 @@
     "DW_MIX_STATUS_02": "Dette oppsettet bruker mer energi og vann enn de fleste innstillinger.",
     "DW_MIX_STATUS_03": "Dette oppsettet bruker mer energi og vann.",
     "DW_WATER_OPT_02": "En full maskin bruker mindre vann per plagg.",
-    "DW_WATER_STATUS_03": "Dette oppsettet bruker mer vann enn de fleste innstillinger."
+    "DW_WATER_STATUS_03": "Dette oppsettet bruker mer vann enn de fleste innstillinger.",
+    "CL_DV_OV_how_to_activate": "Hvordan aktivere?",
+    "CL_DV_OV_set_power_watts_title": "Angi effekt (watt)",
+    "CL_DV_OV_water_tank_empty_title": "Vanntanken er tom",
+    "CL_DV_OV_water_tank_empty_desc": "Det er ikke nok vann i vanntanken til dampkoking. Fyll vanntanken før du starter et dampkokingsprogram.",
+    "CL_DV_OV_water_tank_sufficient": "Tilstrekkelig vannstand",
+    "CL_DV_OV_water_tank_sufficient_desc": "Det er nok vann i vanntanken til dampkoking. Du vil bli varslet når tanken er tom."
 }

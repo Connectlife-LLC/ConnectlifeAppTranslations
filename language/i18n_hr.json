@@ -9421,5 +9421,11 @@
     "DW_MIX_STATUS_02": "Ova postavka troši više energije i vode od većine postavki.",
     "DW_MIX_STATUS_03": "Ova postavka troši više energije i vode.",
     "DW_WATER_OPT_02": "Puno punjenje troši manje vode po predmetu.",
-    "DW_WATER_STATUS_03": "Ova postavka troši više vode od većine postavki."
+    "DW_WATER_STATUS_03": "Ova postavka troši više vode od većine postavki.",
+    "CL_DV_OV_how_to_activate": "Kako aktivirati?",
+    "CL_DV_OV_set_power_watts_title": "Postavljena snaga (W)",
+    "CL_DV_OV_water_tank_empty_title": "Spremnik za vodu je prazan",
+    "CL_DV_OV_water_tank_empty_desc": "U spremniku za vodu nema dovoljno vode za kuhanje na pari. Prije pokretanja programa kuhanja na pari napunite spremnik za vodu.",
+    "CL_DV_OV_water_tank_sufficient": "Razina vode dovoljna",
+    "CL_DV_OV_water_tank_sufficient_desc": "U spremniku za vodu ima dovoljno vode za kuhanje na pari. Bit ćete obaviješteni kada je spremnik prazan."
 }

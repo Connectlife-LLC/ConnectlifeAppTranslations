@@ -9421,5 +9421,11 @@
     "DW_MIX_STATUS_02": "Cette configuration consomme plus d'énergie et d'eau que la plupart des autres.",
     "DW_MIX_STATUS_03": "Cette installation consomme plus d'énergie et d'eau.",
     "DW_WATER_OPT_02": "Une pleine charge utilise moins d'eau par article.",
-    "DW_WATER_STATUS_03": "Cette configuration consomme plus d'eau que la plupart des autres."
+    "DW_WATER_STATUS_03": "Cette configuration consomme plus d'eau que la plupart des autres.",
+    "CL_DV_OV_how_to_activate": "Comment activer ?",
+    "CL_DV_OV_set_power_watts_title": "Puissance de réglage (watts)",
+    "CL_DV_OV_water_tank_empty_title": "Réservoir d'eau vide",
+    "CL_DV_OV_water_tank_empty_desc": "Le réservoir d'eau ne contient pas assez d'eau pour la cuisson vapeur. Veuillez le remplir avant de lancer un programme de cuisson vapeur.",
+    "CL_DV_OV_water_tank_sufficient": "Niveau d'eau suffisant",
+    "CL_DV_OV_water_tank_sufficient_desc": "Le réservoir d'eau contient suffisamment d'eau pour la cuisson à la vapeur. Vous serez averti lorsque le réservoir sera vide."
 }

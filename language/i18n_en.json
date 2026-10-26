@@ -9421,5 +9421,11 @@
     "DW_MIX_STATUS_02": "This setup uses more energy and water than most settings.",
     "DW_MIX_STATUS_03": "This setup uses more energy and water.",
     "DW_WATER_OPT_02": "A full load uses less water per item.",
-    "DW_WATER_STATUS_03": "This setup uses more water than most settings."
+    "DW_WATER_STATUS_03": "This setup uses more water than most settings.",
+    "CL_DV_OV_how_to_activate": "How to activate?",
+    "CL_DV_OV_set_power_watts_title": "Set power (Watts)",
+    "CL_DV_OV_water_tank_empty_title": "Water tank is empty",
+    "CL_DV_OV_water_tank_empty_desc": "There is not enough water in the water tank for stam cooking. Refill the water tank before starting a steam cooking program.",
+    "CL_DV_OV_water_tank_sufficient": "Water level sufficient",
+    "CL_DV_OV_water_tank_sufficient_desc": "There is enough water in the water tank for steam cooking. You will be notified when the tank is empty."
 }
