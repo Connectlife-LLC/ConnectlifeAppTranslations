@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Den här inställningen förbrukar mer energi och vatten än de flesta inställningar.",
     "DW_MIX_STATUS_03": "Den här installationen förbrukar mer energi och vatten.",
     "DW_WATER_OPT_02": "En full tvätt använder mindre vatten per plagg.",
-    "DW_WATER_STATUS_03": "Den här inställningen förbrukar mer vatten än de flesta inställningar."
+    "DW_WATER_STATUS_03": "Den här inställningen förbrukar mer vatten än de flesta inställningar.",
+    "CL_DV_OV_how_to_activate": "Hur aktiverar man?",
+    "CL_DV_OV_set_power_watts_title": "Inställd effekt (watt)",
+    "CL_DV_OV_water_tank_empty_title": "Vattenbehållaren är tom",
+    "CL_DV_OV_water_tank_empty_desc": "Det finns inte tillräckligt med vatten i vattentanken för ångkokning. Fyll på vattentanken innan du startar ett ångkokningsprogram.",
+    "CL_DV_OV_water_tank_sufficient": "Tillräcklig vattennivå",
+    "CL_DV_OV_water_tank_sufficient_desc": "Det finns tillräckligt med vatten i vattentanken för ångkokning. Du får ett meddelande när tanken är tom.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Vattentanken är tom",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Fyll på vattentanken innan du startar ett ångkokningsprogram.",
+    "reset_statistics": "Återställ statistik"
 }

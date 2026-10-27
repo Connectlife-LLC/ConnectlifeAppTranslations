@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Questa configurazione consuma più energia e acqua rispetto alla maggior parte delle altre.",
     "DW_MIX_STATUS_03": "Questa configurazione consuma più energia e acqua.",
     "DW_WATER_OPT_02": "Un carico completo consuma meno acqua per capo.",
-    "DW_WATER_STATUS_03": "Questa configurazione utilizza più acqua rispetto alla maggior parte delle altre."
+    "DW_WATER_STATUS_03": "Questa configurazione utilizza più acqua rispetto alla maggior parte delle altre.",
+    "CL_DV_OV_how_to_activate": "Come si attiva?",
+    "CL_DV_OV_set_power_watts_title": "Imposta la potenza (Watt)",
+    "CL_DV_OV_water_tank_empty_title": "Il serbatoio dell'acqua è vuoto",
+    "CL_DV_OV_water_tank_empty_desc": "Nel serbatoio dell'acqua non c'è abbastanza acqua per la cottura a vapore. Riempire il serbatoio dell'acqua prima di avviare un programma di cottura a vapore.",
+    "CL_DV_OV_water_tank_sufficient": "Livello dell'acqua sufficiente",
+    "CL_DV_OV_water_tank_sufficient_desc": "Nel serbatoio dell'acqua c'è acqua a sufficienza per la cottura a vapore. Riceverai una notifica quando il serbatoio sarà vuoto.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Serbatoio dell'acqua vuoto",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Riempire il serbatoio dell'acqua prima di avviare un programma di cottura a vapore.",
+    "reset_statistics": "Statistiche di ripristino"
 }

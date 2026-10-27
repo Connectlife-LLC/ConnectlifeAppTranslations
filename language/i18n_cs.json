@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Toto nastavení spotřebuje více energie a vody než většina nastavení.",
     "DW_MIX_STATUS_03": "Toto nastavení spotřebovává více energie a vody.",
     "DW_WATER_OPT_02": "Plná náplň spotřebuje méně vody na kus prádla.",
-    "DW_WATER_STATUS_03": "Toto nastavení spotřebuje více vody než většina ostatních nastavení."
+    "DW_WATER_STATUS_03": "Toto nastavení spotřebuje více vody než většina ostatních nastavení.",
+    "CL_DV_OV_how_to_activate": "Jak aktivovat?",
+    "CL_DV_OV_set_power_watts_title": "Nastavený výkon (Watty)",
+    "CL_DV_OV_water_tank_empty_title": "Nádržka na vodu je prázdná",
+    "CL_DV_OV_water_tank_empty_desc": "V nádržce na vodu není dostatek vody pro vaření v páře. Před spuštěním programu vaření v páře nádržku na vodu doplňte.",
+    "CL_DV_OV_water_tank_sufficient": "Dostatečná hladina vody",
+    "CL_DV_OV_water_tank_sufficient_desc": "V nádržce na vodu je dostatek vody pro vaření v páře. Budete upozorněni, až bude nádržka prázdná.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Prázdná nádrž na vodu",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Před spuštěním programu vaření v páře doplňte nádržku na vodu.",
+    "reset_statistics": "Obnovit statistiky"
 }

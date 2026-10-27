@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Tämä asetus kuluttaa enemmän energiaa ja vettä kuin useimmat asetukset.",
     "DW_MIX_STATUS_03": "Tämä järjestely kuluttaa enemmän energiaa ja vettä.",
     "DW_WATER_OPT_02": "Täysi koneellinen käyttää vähemmän vettä per pyykki.",
-    "DW_WATER_STATUS_03": "Tämä asetus käyttää enemmän vettä kuin useimmat muut asetukset."
+    "DW_WATER_STATUS_03": "Tämä asetus käyttää enemmän vettä kuin useimmat muut asetukset.",
+    "CL_DV_OV_how_to_activate": "Kuinka aktivoida?",
+    "CL_DV_OV_set_power_watts_title": "Tehon asetus (watteina)",
+    "CL_DV_OV_water_tank_empty_title": "Vesisäiliö on tyhjä",
+    "CL_DV_OV_water_tank_empty_desc": "Vesisäiliössä ei ole tarpeeksi vettä höyrykypsennykseen. Täytä vesisäiliö ennen höyrykypsennysohjelman käynnistämistä.",
+    "CL_DV_OV_water_tank_sufficient": "Vedenpinta riittävä",
+    "CL_DV_OV_water_tank_sufficient_desc": "Vesisäiliössä on riittävästi vettä höyrykypsennystä varten. Saat ilmoituksen, kun säiliö on tyhjä.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Vesisäiliö tyhjä",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Täytä vesisäiliö ennen höyrykypsennysohjelman käynnistämistä.",
+    "reset_statistics": "Nollaa tilastot"
 }

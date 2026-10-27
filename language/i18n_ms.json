@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Persediaan ini menggunakan lebih banyak tenaga dan air berbanding kebanyakan tetapan.",
     "DW_MIX_STATUS_03": "Persediaan ini menggunakan lebih banyak tenaga dan air.",
     "DW_WATER_OPT_02": "Muatan penuh menggunakan kurang air bagi setiap barang.",
-    "DW_WATER_STATUS_03": "Persediaan ini menggunakan lebih banyak air daripada kebanyakan tetapan."
+    "DW_WATER_STATUS_03": "Persediaan ini menggunakan lebih banyak air daripada kebanyakan tetapan.",
+    "CL_DV_OV_how_to_activate": "Bagaimana untuk mengaktifkannya?",
+    "CL_DV_OV_set_power_watts_title": "Tetapkan kuasa (Watt)",
+    "CL_DV_OV_water_tank_empty_title": "Tangki air kosong",
+    "CL_DV_OV_water_tank_empty_desc": "Air di dalam tangki air tidak mencukupi untuk memasak secara tetap. Isi semula tangki air sebelum memulakan program memasak stim.",
+    "CL_DV_OV_water_tank_sufficient": "Paras air mencukupi",
+    "CL_DV_OV_water_tank_sufficient_desc": "Terdapat air yang mencukupi di dalam tangki air untuk memasak dengan stim. Anda akan dimaklumkan apabila tangki kosong.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Tangki air kosong",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Isi semula tangki air sebelum memulakan program memasak dengan stim.",
+    "reset_statistics": "Tetapkan semula statistik"
 }

@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Deze opstelling verbruikt meer energie en water dan de meeste andere opstellingen.",
     "DW_MIX_STATUS_03": "Deze opstelling verbruikt meer energie en water.",
     "DW_WATER_OPT_02": "Een volle wasmachine verbruikt minder water per wasgoed.",
-    "DW_WATER_STATUS_03": "Deze opstelling verbruikt meer water dan de meeste andere instellingen."
+    "DW_WATER_STATUS_03": "Deze opstelling verbruikt meer water dan de meeste andere instellingen.",
+    "CL_DV_OV_how_to_activate": "Hoe activeer ik het?",
+    "CL_DV_OV_set_power_watts_title": "Instelvermogen (Watt)",
+    "CL_DV_OV_water_tank_empty_title": "Watertank is leeg",
+    "CL_DV_OV_water_tank_empty_desc": "Er zit onvoldoende water in het waterreservoir voor stoomkoken. Vul het waterreservoir bij voordat u een stoomkookprogramma start.",
+    "CL_DV_OV_water_tank_sufficient": "Voldoende waterpeil",
+    "CL_DV_OV_water_tank_sufficient_desc": "Er zit voldoende water in het waterreservoir om te stomen. U ontvangt een melding wanneer het reservoir leeg is.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Watertank leeg",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Vul het waterreservoir bij voordat u een stoomkookprogramma start.",
+    "reset_statistics": "Statistieken resetten"
 }
