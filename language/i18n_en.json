@@ -5381,7 +5381,7 @@
     "CL_DV_LRC_device_stopped": "Refresh/drying in {LRC} has stopped",
     "CL_DV_LRC_done": "Refresh/drying is done!",
     "CL_DV_LRC_device_completed": "Refresh/drying {LRC} has been completed",
-    "CL_DV_LRC_eco_meter_this_cycle": "Eco meter for this cycle",
+    "CL_DV_LRC_eco_meter_this_cycle": "Energy use for this cycle",
     "CL_DV_RF_clean_mode_pop_title": "Cleaning mode is active",
     "CL_DV_RF_clean_mode_pop_content": "Cooler is temporarily set to 15°C, alarms are off, and lights stay on. Cleaning mode automatically ends after 1 hour.",
     "CL_DV_RF_clean_mode_pop_btn_click": "Change temperature",
@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "There is enough water in the water tank for steam cooking. You will be notified when the tank is empty.",
     "CL_DV_OV_water_tank_empty_popup_title": "Water tank empty",
     "CL_DV_OV_water_tank_empty_popup_desc": "Refill the water tank before starting a steam cooking program.",
-    "reset_statistics": "Reset statistics"
+    "reset_statistics": "Reset statistics",
+    "reset_statistics_desc": "This will permanently delete all historical energy and water consumption statistics, trends, and averages for this device. This action cannot be undone.",
+    "reset_statistics_confirm": "I understand that this data cannot be recovered.",
+    "reset_statistics_success": "Statistics were reset successfully!",
+    "CL_DV_DW_extra_dry_desc": "Applies for Eco, Auto, Normal, Heavy, and Night",
+    "CL_DV_DW_mode_hygiene": "Hygiene+",
+    "CL_AC_select_zone": "Select Zone"
 }

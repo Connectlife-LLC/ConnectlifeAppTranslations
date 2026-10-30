@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "มีน้ำในถังเก็บน้ำเพียงพอสำหรับการปรุงอาหารด้วยไอน้ำ คุณจะได้รับการแจ้งเตือนเมื่อน้ำในถังหมด",
     "CL_DV_OV_water_tank_empty_popup_title": "ถังน้ำว่างเปล่า",
     "CL_DV_OV_water_tank_empty_popup_desc": "เติมน้ำในแทงค์น้ำให้เต็มก่อนเริ่มโปรแกรมการทำอาหารด้วยไอน้ำ",
-    "reset_statistics": "รีเซ็ตสถิติ"
+    "reset_statistics": "รีเซ็ตสถิติ",
+    "reset_statistics_desc": "การดำเนินการนี้จะลบข้อมูลสถิติ แนวโน้ม และค่าเฉลี่ยการใช้พลังงานและน้ำในอดีตทั้งหมดของอุปกรณ์นี้อย่างถาวร การดำเนินการนี้ไม่สามารถย้อนกลับได้",
+    "reset_statistics_confirm": "ฉันเข้าใจว่าข้อมูลนี้ไม่สามารถกู้คืนได้",
+    "reset_statistics_success": "สถิติถูกรีเซ็ตสำเร็จแล้ว!",
+    "CL_DV_DW_extra_dry_desc": "ใช้ได้กับโหมด Eco, Auto, Normal, Heavy และ Night",
+    "CL_DV_DW_mode_hygiene": "ไฮจีเนีย+",
+    "CL_AC_select_zone": "เลือกโซน"
 }

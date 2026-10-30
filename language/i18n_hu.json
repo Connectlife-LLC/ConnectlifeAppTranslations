@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Elegendő víz van a víztartályban a gőzfőzéshez. Értesítést kap, amikor a tartály kiürült.",
     "CL_DV_OV_water_tank_empty_popup_title": "Üres víztartály",
     "CL_DV_OV_water_tank_empty_popup_desc": "Gőzölős főzési program indítása előtt töltse fel a víztartályt.",
-    "reset_statistics": "Statisztikák visszaállítása"
+    "reset_statistics": "Statisztikák visszaállítása",
+    "reset_statistics_desc": "Ez véglegesen törli az eszköz összes korábbi energia- és vízfogyasztási statisztikáját, trendjét és átlagát. A művelet nem vonható vissza.",
+    "reset_statistics_confirm": "Tudomásul veszem, hogy ezeket az adatokat nem lehet visszaállítani.",
+    "reset_statistics_success": "A statisztikák visszaállítása sikeresen megtörtént!",
+    "CL_DV_DW_extra_dry_desc": "Eco, Auto, Normál, Nagy teljesítményű és Éjszakai módokra vonatkozik.",
+    "CL_DV_DW_mode_hygiene": "Higiénia+",
+    "CL_AC_select_zone": "Zóna kiválasztása"
 }

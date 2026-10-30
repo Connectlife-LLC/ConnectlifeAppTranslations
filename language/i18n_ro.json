@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Rezervorul de apă este suficientă apă pentru gătit la abur. Veți fi notificat când rezervorul este gol.",
     "CL_DV_OV_water_tank_empty_popup_title": "Rezervorul de apă este gol",
     "CL_DV_OV_water_tank_empty_popup_desc": "Reumpleți rezervorul de apă înainte de a porni un program de gătit la abur.",
-    "reset_statistics": "Resetează statisticile"
+    "reset_statistics": "Resetează statisticile",
+    "reset_statistics_desc": "Această acțiune va șterge definitiv toate statisticile, tendințele și mediile istorice privind consumul de energie și apă pentru acest dispozitiv. Această acțiune nu poate fi anulată.",
+    "reset_statistics_confirm": "Înțeleg că aceste date nu pot fi recuperate.",
+    "reset_statistics_success": "Statisticile au fost resetate cu succes!",
+    "CL_DV_DW_extra_dry_desc": "Se aplică pentru Eco, Auto, Normal, Heavy și Night",
+    "CL_DV_DW_mode_hygiene": "Igienă+",
+    "CL_AC_select_zone": "Selectați zona"
 }

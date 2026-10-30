@@ -5381,7 +5381,7 @@
     "CL_DV_LRC_device_stopped": "",
     "CL_DV_LRC_done": "",
     "CL_DV_LRC_device_completed": "",
-    "CL_DV_LRC_eco_meter_this_cycle": "",
+    "CL_DV_LRC_eco_meter_this_cycle": "Consumo energetico per questo ciclo",
     "CL_DV_RF_clean_mode_pop_title": "",
     "CL_DV_RF_clean_mode_pop_content": "",
     "CL_DV_RF_clean_mode_pop_btn_click": "",
@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Nel serbatoio dell'acqua c'è acqua a sufficienza per la cottura a vapore. Riceverai una notifica quando il serbatoio sarà vuoto.",
     "CL_DV_OV_water_tank_empty_popup_title": "Serbatoio dell'acqua vuoto",
     "CL_DV_OV_water_tank_empty_popup_desc": "Riempire il serbatoio dell'acqua prima di avviare un programma di cottura a vapore.",
-    "reset_statistics": "Statistiche di ripristino"
+    "reset_statistics": "Statistiche di ripristino",
+    "reset_statistics_desc": "Questa operazione eliminerà definitivamente tutte le statistiche, le tendenze e le medie storiche relative al consumo di energia e acqua di questo dispositivo. Questa azione è irreversibile.",
+    "reset_statistics_confirm": "Comprendo che questi dati non possono essere recuperati.",
+    "reset_statistics_success": "Le statistiche sono state reimpostate correttamente!",
+    "CL_DV_DW_extra_dry_desc": "Si applica alle modalità Eco, Auto, Normal, Heavy e Night.",
+    "CL_DV_DW_mode_hygiene": "Igiene+",
+    "CL_AC_select_zone": "Zona selezionata"
 }

@@ -5381,7 +5381,7 @@
     "CL_DV_LRC_device_stopped": "{LRC} 中的蒸汽护理/烘干已停止",
     "CL_DV_LRC_done": "蒸汽护理/烘干已完成！",
     "CL_DV_LRC_device_completed": "蒸汽护理/烘干{LRC}已完成",
-    "CL_DV_LRC_eco_meter_this_cycle": "此周期的生态计量",
+    "CL_DV_LRC_eco_meter_this_cycle": "此周期的能源计量",
     "CL_DV_RF_clean_mode_pop_title": "清洁模式已激活",
     "CL_DV_RF_clean_mode_pop_content": "冷藏室温度暂时设为 15°C，警报关闭，灯光保持亮起。清洁模式将在 1 小时后自动结束。",
     "CL_DV_RF_clean_mode_pop_btn_click": "关闭清洁模式",
@@ -9348,7 +9348,7 @@
     "CL_ENERGY_MD_ai_no_tomorrow_price": "暂未获取明日电价，当前无法开启 AI 调度。请在电价数据更新后重试。",
     "CL_DV_wcc_door_lock_open_toast": "门已锁定。即使设备离线或断电，门锁仍会保持激活状态。",
     "CL_MP_ai_quota_reached": "每日人工智能配额已达",
-    "CL_TH_mode_emer": "埃默",
+    "CL_TH_mode_emer": "紧急制热",
     "CL_TH_mode_auto_heat": "自动加热",
     "CL_TH_mode_auto_cool": "自动冷却",
     "CL_TH_dual_fuel_balance_point": "双燃料平衡点",
@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "水箱内有足够的水用于蒸汽烹饪。水箱空了时，您会收到通知。",
     "CL_DV_OV_water_tank_empty_popup_title": "水箱已空",
     "CL_DV_OV_water_tank_empty_popup_desc": "启动蒸汽烹饪程序前，请先加满水箱。",
-    "reset_statistics": "重置统计信息"
+    "reset_statistics": "重置统计信息",
+    "reset_statistics_desc": "这将永久删除该设备的所有历史能耗和用水量统计数据、趋势和平均值。此操作无法撤销。",
+    "reset_statistics_confirm": "我知道这些数据无法恢复。",
+    "reset_statistics_success": "统计数据已成功重置！",
+    "CL_DV_DW_extra_dry_desc": "适用于节能、自动、普通、强劲和夜间模式",
+    "CL_DV_DW_mode_hygiene": "卫生+",
+    "CL_AC_select_zone": "选择区域"
 }

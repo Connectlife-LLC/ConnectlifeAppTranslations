@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "W zbiorniku jest wystarczająca ilość wody do gotowania na parze. Otrzymasz powiadomienie, gdy zbiornik będzie pusty.",
     "CL_DV_OV_water_tank_empty_popup_title": "Zbiornik na wodę jest pusty",
     "CL_DV_OV_water_tank_empty_popup_desc": "Przed rozpoczęciem gotowania na parze należy ponownie napełnić zbiornik na wodę.",
-    "reset_statistics": "Zresetuj statystyki"
+    "reset_statistics": "Zresetuj statystyki",
+    "reset_statistics_desc": "Spowoduje to trwałe usunięcie wszystkich historycznych statystyk, trendów i średnich wartości zużycia energii i wody dla tego urządzenia. Tej czynności nie można cofnąć.",
+    "reset_statistics_confirm": "Rozumiem, że tych danych nie będzie można odzyskać.",
+    "reset_statistics_success": "Statystyki zostały pomyślnie zresetowane!",
+    "CL_DV_DW_extra_dry_desc": "Dotyczy trybów Eco, Auto, Normal, Heavy i Night",
+    "CL_DV_DW_mode_hygiene": "Higiena+",
+    "CL_AC_select_zone": "Wybierz strefę"
 }
