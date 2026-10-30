@@ -1674,7 +1674,7 @@
     "select_network_hint": "Lütfen \"HIS-********\" ağ adına bağlanın. İnternet yok mesajı alırsanız bağlantıda kalmayı onaylayın.",
     "timing ": "Zamanlayıcı",
     "add_timing": "ZAMANLAMA EKLE",
-    "set_start_to_finish_time": "Başlangıç-bitiş zamanını ayarlayın",
+    "set_start_to_finish_time": "Başlangıç ​​ve bitiş zamanını ayarlayın.",
     "pair_pump_appliance": "Isı pompalı su ısıtıcısı",
     "heat_pump": "DHW İnvertör ",
     "pump_boost_1": "Yükseltme 1",
@@ -9057,7 +9057,7 @@
     "leaving_connect_app_content": "Satın alma işleminizi tamamlamak için resmi ** web sitesine yönlendiriliyorsunuz. Çerez tercihleriniz, veri gizliliği ayarlarınız ve işlem yönetimi, onların politikalarına göre gerçekleştirilecektir.",
     "leaving_connect_app_stay": "UYGULAMADA KALIN",
     "CL_DR_entrance_desc_ineligible": "Bazı nedenlerden dolayı uygun değil.",
-    "leaving_connect_app_go_to_webshop": "** WEB MAĞAZASINA GİT**",
+    "leaving_connect_app_go_to_webshop": "** WEB MAĞAZASINA GİT",
     "CL_delay_time_out_of_range": "Üzgünüz, ayarınız geçerli aralığın dışında ve sizin için otomatik olarak ayarlandı.",
     "CL_legal_rights_prefix_new": "Uygulama içerisinde doğrudan erişilemeyen diğer haklarınızı kullanmak için lütfen ilgili bölüme bakın. ",
     "CL_eu_data_act_notification_new": "AB Veri Yasası Bildirimi",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Buharda pişirme için su tankında yeterli su bulunmaktadır. Tank boşaldığında size bildirim gönderilecektir.",
     "CL_DV_OV_water_tank_empty_popup_title": "Su deposu boş",
     "CL_DV_OV_water_tank_empty_popup_desc": "Buharlı pişirme programına başlamadan önce su tankını doldurun.",
-    "reset_statistics": "İstatistikleri sıfırla"
+    "reset_statistics": "İstatistikleri sıfırla",
+    "reset_statistics_desc": "Bu işlem, bu cihaz için geçmişe ait tüm enerji ve su tüketimi istatistiklerini, eğilimlerini ve ortalamalarını kalıcı olarak silecektir. Bu işlem geri alınamaz.",
+    "reset_statistics_confirm": "Bu verilerin kurtarılamayacağını anlıyorum.",
+    "reset_statistics_success": "İstatistikler başarıyla sıfırlandı!",
+    "CL_DV_DW_extra_dry_desc": "Eco, Auto, Normal, Heavy ve Night modları için geçerlidir.",
+    "CL_DV_DW_mode_hygiene": "Hijyen+",
+    "CL_AC_select_zone": "Bölge Seçin",
+    "CL_DV_wcc_display_eu_tips": "Şarap dolabınızın ekran ayarlarını parlaklık, görünüm ve bekleme modu açısından özelleştirin.",
+    "CL_DV_WINE_day_in_advance": "# gün önceden",
+    "CL_DV_wcc_humidity_notification_content": "Bir bölmedeki nem oranı %50'nin altına düştüğünde bildirim alın."
 }

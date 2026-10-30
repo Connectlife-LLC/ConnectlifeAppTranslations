@@ -1674,7 +1674,7 @@
     "select_network_hint": "נא להתחבר לשם הרשת \"HIS-********\". אם אתה מקבל הודעה שאין אינטרנט, אשר כדי להישאר מחובר.",
     "timing ": "טיימר",
     "add_timing": "הוסף תזמון",
-    "set_start_to_finish_time": "הגדר את זמן ההתחלה לסיום",
+    "set_start_to_finish_time": "הגדרת זמן התחלה וסיום",
     "pair_pump_appliance": "מחמם מים עם משאבת חום",
     "heat_pump": "לוח אינוורטר",
     "pump_boost_1": "בוסט 1",
@@ -9057,7 +9057,7 @@
     "leaving_connect_app_content": "אתה מועבר לאתר הרשמי ** כדי להשלים את הרכישה שלך. שים לב כי העדפות העוגיות שלך, הגדרות פרטיות הנתונים וטיפול בעסקאות ינוהלו בהתאם למדיניות שלהם.",
     "leaving_connect_app_stay": "הישאר באפליקציה",
     "CL_DR_entrance_desc_ineligible": "לא זכאי מסיבה כלשהי.",
-    "leaving_connect_app_go_to_webshop": "עבור אל **חנות האינטרנט**",
+    "leaving_connect_app_go_to_webshop": "עבור אל **חנות האינטרנט",
     "CL_delay_time_out_of_range": "מצטערים, ההגדרה שלך חורגת מהטווח התקף והותאמה עבורך באופן אוטומטי.",
     "CL_legal_rights_prefix_new": "כדי לממש כל זכות אחרת שאינה זמינה ישירות בתוך האפליקציה עצמה, אנא עיינו ב ",
     "CL_eu_data_act_notification_new": "הודעת חוק הנתונים של האיחוד האירופי",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "יש מספיק מים במיכל המים לבישול באדים. תקבלו הודעה כאשר המיכל יתרוקן.",
     "CL_DV_OV_water_tank_empty_popup_title": "מיכל המים ריק",
     "CL_DV_OV_water_tank_empty_popup_desc": "מלאו את מיכל המים לפני הפעלת תוכנית בישול באדים.",
-    "reset_statistics": "איפוס סטטיסטיקות"
+    "reset_statistics": "איפוס סטטיסטיקות",
+    "reset_statistics_desc": "פעולה זו תמחק לצמיתות את כל הנתונים הסטטיסטיים, המגמות והממוצעים ההיסטוריים של צריכת אנרגיה ומים עבור מכשיר זה. לא ניתן לבטל פעולה זו.",
+    "reset_statistics_confirm": "אני מבין שלא ניתן לשחזר נתונים אלה.",
+    "reset_statistics_success": "הסטטיסטיקה אופסה בהצלחה!",
+    "CL_DV_DW_extra_dry_desc": "חל על מצבי חסכון, אוטומטי, רגיל, כבד ולילה",
+    "CL_DV_DW_mode_hygiene": "היגיינה+",
+    "CL_AC_select_zone": "בחר אזור",
+    "CL_DV_wcc_display_eu_tips": "התאם אישית את הגדרות תצוגת ארון היין שלך עבור בהירות, מראה ומצב המתנה.",
+    "CL_DV_WINE_day_in_advance": "יום # מראש",
+    "CL_DV_wcc_humidity_notification_content": "קבל הודעה אם הלחות בתא יורדת מתחת ל-50%"
 }
