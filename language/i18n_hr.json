@@ -1674,7 +1674,7 @@
     "select_network_hint": "Povežite se na mrežu pod nazivom \"HIS-******\". Ako primite poruku da nema interneta, potvrdite da biste ostali povezani.",
     "timing ": "Timer",
     "add_timing": "DODAJTE VRIJEME",
-    "set_start_to_finish_time": "Postavite vrijeme od početka do završetka",
+    "set_start_to_finish_time": "Postavite vrijeme početka i završetka",
     "pair_pump_appliance": "Grijač vode dizalice topline",
     "heat_pump": "DHW Inverter",
     "pump_boost_1": "Pojačanje 1",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "U spremniku za vodu ima dovoljno vode za kuhanje na pari. Bit ćete obaviješteni kada je spremnik prazan.",
     "CL_DV_OV_water_tank_empty_popup_title": "Spremnik za vodu prazan",
     "CL_DV_OV_water_tank_empty_popup_desc": "Prije pokretanja programa kuhanja na pari napunite spremnik za vodu.",
-    "reset_statistics": "Poništi statistiku"
+    "reset_statistics": "Poništi statistiku",
+    "reset_statistics_desc": "Ovim će se trajno izbrisati svi povijesni statistički podaci, trendovi i prosjeki potrošnje energije i vode za ovaj uređaj. Ova se radnja ne može poništiti.",
+    "reset_statistics_confirm": "Razumijem da se ovi podaci ne mogu oporaviti.",
+    "reset_statistics_success": "Statistika je uspješno resetirana!",
+    "CL_DV_DW_extra_dry_desc": "Odnosi se na Eko, Automatski, Normalni, Teški i Noćni način rada.",
+    "CL_DV_DW_mode_hygiene": "Higijena+",
+    "CL_AC_select_zone": "Odaberite zonu",
+    "CL_DV_wcc_display_eu_tips": "Prilagodite postavke zaslona vinskog ormarića za svjetlinu, izgled i stanje pripravnosti.",
+    "CL_DV_WINE_day_in_advance": "# dana unaprijed",
+    "CL_DV_wcc_humidity_notification_content": "Primite obavijest ako vlažnost u odjeljku padne ispod 50%"
 }

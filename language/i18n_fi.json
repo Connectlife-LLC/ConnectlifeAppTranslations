@@ -1674,7 +1674,7 @@
     "select_network_hint": "Yhdistä verkkonimeen \"HIS-******\". Jos saat viestin, että Internetiä ei ole, vahvista pysyäksesi yhteydessä.",
     "timing ": "Ajastin",
     "add_timing": "LISÄÄ AJOITUS",
-    "set_start_to_finish_time": "Säädä aloitus-lopetusaika",
+    "set_start_to_finish_time": "Aseta aloitus- ja päättymisaika",
     "pair_pump_appliance": "Lämpöpumpun vedenlämmitin",
     "heat_pump": "Invertterikortti",
     "pump_boost_1": "Tehotila 1",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Vesisäiliössä on riittävästi vettä höyrykypsennystä varten. Saat ilmoituksen, kun säiliö on tyhjä.",
     "CL_DV_OV_water_tank_empty_popup_title": "Vesisäiliö tyhjä",
     "CL_DV_OV_water_tank_empty_popup_desc": "Täytä vesisäiliö ennen höyrykypsennysohjelman käynnistämistä.",
-    "reset_statistics": "Nollaa tilastot"
+    "reset_statistics": "Nollaa tilastot",
+    "reset_statistics_desc": "Tämä poistaa pysyvästi kaikki laitteen historialliset energian- ja vedenkulutustilastot, trendit ja keskiarvot. Tätä toimintoa ei voi perua.",
+    "reset_statistics_confirm": "Ymmärrän, että näitä tietoja ei voida palauttaa.",
+    "reset_statistics_success": "Tilastot nollattiin onnistuneesti!",
+    "CL_DV_DW_extra_dry_desc": "Koskee Eco-, Auto-, Normaali-, Raskas- ja Yö-asetuksia",
+    "CL_DV_DW_mode_hygiene": "Hygienia+",
+    "CL_AC_select_zone": "Valitse vyöhyke",
+    "CL_DV_wcc_display_eu_tips": "Mukauta viinikaapin näyttöasetuksia kirkkauden, ulkonäön ja valmiustilan suhteen.",
+    "CL_DV_WINE_day_in_advance": "# päivää etukäteen",
+    "CL_DV_wcc_humidity_notification_content": "Saat ilmoituksen, jos osaston kosteus laskee alle 50 %:n"
 }

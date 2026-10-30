@@ -1674,7 +1674,7 @@
     "select_network_hint": "Connettersi al nome della rete \"HIS-******\". Se ricevi un messaggio non c'è internet, conferma per rimanere connesso.",
     "timing ": "Timer",
     "add_timing": "AGGIUNGI TIMER",
-    "set_start_to_finish_time": "Impostare il tempo dall'inizio alla fine",
+    "set_start_to_finish_time": "Imposta l'ora di inizio e di fine",
     "pair_pump_appliance": "Riscaldatore dell'acqua della pompa di calore",
     "heat_pump": "Inverter",
     "pump_boost_1": "Boost 1",
@@ -9057,7 +9057,7 @@
     "leaving_connect_app_content": "Verrai reindirizzato al sito web ufficiale di ** per completare l'acquisto. Tieni presente che le tue preferenze relative ai cookie, le impostazioni sulla privacy dei dati e la gestione delle transazioni saranno gestite secondo le loro politiche.",
     "leaving_connect_app_stay": "RIMANI NELL'APP",
     "CL_DR_entrance_desc_ineligible": "Non idoneo per qualche motivo.",
-    "leaving_connect_app_go_to_webshop": "VAI AL NEGOZIO ONLINE",
+    "leaving_connect_app_go_to_webshop": "VAI AL NEGOZIO ONLINE **",
     "CL_delay_time_out_of_range": "Spiacenti, la tua impostazione non rientra nell'intervallo valido ed è stata regolata automaticamente.",
     "CL_legal_rights_prefix_new": "Per esercitare qualsiasi altro diritto non direttamente disponibile all'interno dell'App stessa, si prega di fare riferimento alla ",
     "CL_eu_data_act_notification_new": "Avviso relativo alla legge europea sulla protezione dei dati",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Nel serbatoio dell'acqua c'è acqua a sufficienza per la cottura a vapore. Riceverai una notifica quando il serbatoio sarà vuoto.",
     "CL_DV_OV_water_tank_empty_popup_title": "Serbatoio dell'acqua vuoto",
     "CL_DV_OV_water_tank_empty_popup_desc": "Riempire il serbatoio dell'acqua prima di avviare un programma di cottura a vapore.",
-    "reset_statistics": "Statistiche di ripristino"
+    "reset_statistics": "Statistiche di ripristino",
+    "reset_statistics_desc": "Questa operazione eliminerà definitivamente tutte le statistiche, le tendenze e le medie storiche relative al consumo di energia e acqua di questo dispositivo. Questa azione è irreversibile.",
+    "reset_statistics_confirm": "Comprendo che questi dati non possono essere recuperati.",
+    "reset_statistics_success": "Le statistiche sono state reimpostate correttamente!",
+    "CL_DV_DW_extra_dry_desc": "Si applica alle modalità Eco, Auto, Normal, Heavy e Night.",
+    "CL_DV_DW_mode_hygiene": "Igiene+",
+    "CL_AC_select_zone": "Zona selezionata",
+    "CL_DV_wcc_display_eu_tips": "Personalizza le impostazioni del display del tuo mobile portabottiglie per quanto riguarda luminosità, aspetto e modalità standby.",
+    "CL_DV_WINE_day_in_advance": "# giorno prima",
+    "CL_DV_wcc_humidity_notification_content": "Ricevi una notifica se l'umidità in un compartimento scende al di sotto del 50%."
 }

@@ -1674,7 +1674,7 @@
     "select_network_hint": "Koble til nettverksnavnet \"HIS-******\". Hvis du mottar en melding om at det ikke er internett, bekreft for å holde kontakten.",
     "timing ": "Timer",
     "add_timing": "LEGG TIL TIDSMÅLING",
-    "set_start_to_finish_time": "Angi klokkeslett for start og slutt",
+    "set_start_to_finish_time": "Angi start- og sluttid",
     "pair_pump_appliance": "Varmepumpe for oppvarming av vann",
     "heat_pump": "Inverterkort",
     "pump_boost_1": "Boost 1",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Det er nok vann i vanntanken til dampkoking. Du vil bli varslet når tanken er tom.",
     "CL_DV_OV_water_tank_empty_popup_title": "Vanntanken er tom",
     "CL_DV_OV_water_tank_empty_popup_desc": "Fyll på vanntanken før du starter et dampkokingsprogram.",
-    "reset_statistics": "Tilbakestill statistikk"
+    "reset_statistics": "Tilbakestill statistikk",
+    "reset_statistics_desc": "Dette vil slette all historisk statistikk, trender og gjennomsnitt for energi- og vannforbruk for denne enheten permanent. Denne handlingen kan ikke angres.",
+    "reset_statistics_confirm": "Jeg forstår at disse dataene ikke kan gjenopprettes.",
+    "reset_statistics_success": "Statistikken ble nullstilt!",
+    "CL_DV_DW_extra_dry_desc": "Gjelder for Eco, Auto, Normal, Heavy og Night",
+    "CL_DV_DW_mode_hygiene": "Hygiene+",
+    "CL_AC_select_zone": "Velg sone",
+    "CL_DV_wcc_display_eu_tips": "Tilpass vinskapets displayinnstillinger for lysstyrke, utseende og standby.",
+    "CL_DV_WINE_day_in_advance": "# dag i forveien",
+    "CL_DV_wcc_humidity_notification_content": "Motta et varsel hvis luftfuktigheten i et rom faller under 50 %"
 }

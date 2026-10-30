@@ -1674,7 +1674,7 @@
     "select_network_hint": "Ligar a rede \"HIS-******\". Se receber uma mensagem de que não há Internet, confirme para se manter ligado.",
     "timing ": "Temporizador",
     "add_timing": "ADICIONAR TEMPO",
-    "set_start_to_finish_time": "Definir a hora de início e de fim",
+    "set_start_to_finish_time": "Defina o horário de início e término.",
     "pair_pump_appliance": "Aquecedor de água com bomba de calor",
     "heat_pump": "Bomba de calor",
     "pump_boost_1": "Impulso 1",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Há água suficiente no reservatório para cozinhar a vapor. Você será notificado quando o reservatório estiver vazio.",
     "CL_DV_OV_water_tank_empty_popup_title": "Tanque de água vazio",
     "CL_DV_OV_water_tank_empty_popup_desc": "Reabasteça o reservatório de água antes de iniciar um programa de cozimento a vapor.",
-    "reset_statistics": "Redefinir estatísticas"
+    "reset_statistics": "Redefinir estatísticas",
+    "reset_statistics_desc": "Esta ação apagará permanentemente todas as estatísticas, tendências e médias históricas de consumo de energia e água deste dispositivo. Esta ação é irreversível.",
+    "reset_statistics_confirm": "Entendo que esses dados não podem ser recuperados.",
+    "reset_statistics_success": "As estatísticas foram redefinidas com sucesso!",
+    "CL_DV_DW_extra_dry_desc": "Aplica-se aos modos Eco, Auto, Normal, Pesado e Noturno.",
+    "CL_DV_DW_mode_hygiene": "Higiene+",
+    "CL_AC_select_zone": "Selecione a zona",
+    "CL_DV_wcc_display_eu_tips": "Personalize as configurações de exibição da sua adega climatizada para ajustar o brilho, a aparência e o modo de espera.",
+    "CL_DV_WINE_day_in_advance": "# com um dia de antecedência",
+    "CL_DV_wcc_humidity_notification_content": "Receba uma notificação se a umidade em um compartimento cair abaixo de 50%."
 }

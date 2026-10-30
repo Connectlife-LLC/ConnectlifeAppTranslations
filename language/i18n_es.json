@@ -1674,7 +1674,7 @@
     "select_network_hint": "Por favor, conéctese al nombre de red \"HIS-******\". Si recibe un mensaje de que no hay internet, confirme para seguir conectado.",
     "timing ": "Timer",
     "add_timing": "AGREGAR HORARIO",
-    "set_start_to_finish_time": "Establecer horario de inicio y fin",
+    "set_start_to_finish_time": "Establecer la hora de inicio y finalización",
     "pair_pump_appliance": "Calentador de agua con bomba de calor",
     "heat_pump": "tablero inversor",
     "pump_boost_1": "Aumento de potencia 1",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "El depósito de agua contiene suficiente agua para cocinar al vapor. Recibirás una notificación cuando el depósito esté vacío.",
     "CL_DV_OV_water_tank_empty_popup_title": "Tanque de agua vacío",
     "CL_DV_OV_water_tank_empty_popup_desc": "Rellene el depósito de agua antes de iniciar un programa de cocción al vapor.",
-    "reset_statistics": "Restablecer estadísticas"
+    "reset_statistics": "Restablecer estadísticas",
+    "reset_statistics_desc": "Esto eliminará permanentemente todas las estadísticas, tendencias y promedios históricos de consumo de energía y agua de este dispositivo. Esta acción es irreversible.",
+    "reset_statistics_confirm": "Entiendo que estos datos no se pueden recuperar.",
+    "reset_statistics_success": "¡Las estadísticas se han restablecido correctamente!",
+    "CL_DV_DW_extra_dry_desc": "Se aplica a los modos Eco, Automático, Normal, Pesado y Nocturno.",
+    "CL_DV_DW_mode_hygiene": "Higiene+",
+    "CL_AC_select_zone": "Seleccionar zona",
+    "CL_DV_wcc_display_eu_tips": "Personaliza la configuración de la pantalla de tu vinoteca en cuanto a brillo, apariencia y tiempo de espera.",
+    "CL_DV_WINE_day_in_advance": "# con un día de antelación",
+    "CL_DV_wcc_humidity_notification_content": "Reciba una notificación si la humedad en un compartimento cae por debajo del 50%."
 }
