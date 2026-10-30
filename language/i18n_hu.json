@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Ez a beállítás több energiát és vizet fogyaszt, mint a legtöbb.",
     "DW_MIX_STATUS_03": "Ez a beállítás több energiát és vizet fogyaszt.",
     "DW_WATER_OPT_02": "Egy teljes töltet kevesebb vizet használ darabonként.",
-    "DW_WATER_STATUS_03": "Ez a beállítás több vizet fogyaszt, mint a legtöbb."
+    "DW_WATER_STATUS_03": "Ez a beállítás több vizet fogyaszt, mint a legtöbb.",
+    "CL_DV_OV_how_to_activate": "Hogyan kell aktiválni?",
+    "CL_DV_OV_set_power_watts_title": "Teljesítmény beállítása (watt)",
+    "CL_DV_OV_water_tank_empty_title": "A víztartály üres",
+    "CL_DV_OV_water_tank_empty_desc": "Nincs elég víz a víztartályban a gőzfőzéshez. Töltse fel a víztartályt a gőzfőzési program elindítása előtt.",
+    "CL_DV_OV_water_tank_sufficient": "Elegendő vízszint",
+    "CL_DV_OV_water_tank_sufficient_desc": "Elegendő víz van a víztartályban a gőzfőzéshez. Értesítést kap, amikor a tartály kiürült.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Üres víztartály",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Gőzölős főzési program indítása előtt töltse fel a víztartályt.",
+    "reset_statistics": "Statisztikák visszaállítása"
 }

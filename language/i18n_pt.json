@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Essa configuração consome mais energia e água do que a maioria das outras.",
     "DW_MIX_STATUS_03": "Essa configuração consome mais energia e água.",
     "DW_WATER_OPT_02": "Uma carga completa utiliza menos água por peça.",
-    "DW_WATER_STATUS_03": "Essa configuração usa mais água do que a maioria das outras."
+    "DW_WATER_STATUS_03": "Essa configuração usa mais água do que a maioria das outras.",
+    "CL_DV_OV_how_to_activate": "Como ativar?",
+    "CL_DV_OV_set_power_watts_title": "Potência definida (Watts)",
+    "CL_DV_OV_water_tank_empty_title": "O reservatório de água está vazio.",
+    "CL_DV_OV_water_tank_empty_desc": "Não há água suficiente no reservatório para cozinhar a vapor. Reabasteça o reservatório antes de iniciar um programa de cozimento a vapor.",
+    "CL_DV_OV_water_tank_sufficient": "Nível de água suficiente",
+    "CL_DV_OV_water_tank_sufficient_desc": "Há água suficiente no reservatório para cozinhar a vapor. Você será notificado quando o reservatório estiver vazio.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Tanque de água vazio",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Reabasteça o reservatório de água antes de iniciar um programa de cozimento a vapor.",
+    "reset_statistics": "Redefinir estatísticas"
 }

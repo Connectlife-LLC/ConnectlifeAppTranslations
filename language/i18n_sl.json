@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Ta nastavitev porabi več energije in vode kot večina nastavitev.",
     "DW_MIX_STATUS_03": "Ta nastavitev porabi več energije in vode.",
     "DW_WATER_OPT_02": "Polna obremenitev porabi manj vode na kos perila.",
-    "DW_WATER_STATUS_03": "Ta nastavitev porabi več vode kot večina nastavitev."
+    "DW_WATER_STATUS_03": "Ta nastavitev porabi več vode kot večina nastavitev.",
+    "CL_DV_OV_how_to_activate": "Kako aktivirati?",
+    "CL_DV_OV_set_power_watts_title": "Nastavljena moč (vati)",
+    "CL_DV_OV_water_tank_empty_title": "Rezervoar za vodo je prazen",
+    "CL_DV_OV_water_tank_empty_desc": "V rezervoarju za vodo ni dovolj vode za kuhanje na pari. Preden zaženete program kuhanja na pari, napolnite rezervoar za vodo.",
+    "CL_DV_OV_water_tank_sufficient": "Zadostna gladina vode",
+    "CL_DV_OV_water_tank_sufficient_desc": "V rezervoarju za vodo je dovolj vode za kuhanje na pari. Obveščeni boste, ko bo rezervoar prazen.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Rezervoar za vodo prazen",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Preden zaženete program kuhanja na pari, napolnite rezervoar za vodo.",
+    "reset_statistics": "Ponastavi statistiko"
 }

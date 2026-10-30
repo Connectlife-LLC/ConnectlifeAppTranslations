@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Hệ thống này tiêu thụ nhiều năng lượng và nước hơn so với hầu hết các hệ thống khác.",
     "DW_MIX_STATUS_03": "Hệ thống này tiêu thụ nhiều năng lượng và nước hơn.",
     "DW_WATER_OPT_02": "Giặt đầy tải sẽ tốn ít nước hơn cho mỗi món đồ.",
-    "DW_WATER_STATUS_03": "Hệ thống này sử dụng nhiều nước hơn so với hầu hết các hệ thống khác."
+    "DW_WATER_STATUS_03": "Hệ thống này sử dụng nhiều nước hơn so với hầu hết các hệ thống khác.",
+    "CL_DV_OV_how_to_activate": "Cách kích hoạt?",
+    "CL_DV_OV_set_power_watts_title": "Công suất cài đặt (Watts)",
+    "CL_DV_OV_water_tank_empty_title": "Bể chứa nước đã cạn",
+    "CL_DV_OV_water_tank_empty_desc": "Không đủ nước trong bình chứa nước để nấu bằng phương pháp hấp. Hãy đổ thêm nước vào bình trước khi bắt đầu chương trình nấu hấp.",
+    "CL_DV_OV_water_tank_sufficient": "Mực nước đủ",
+    "CL_DV_OV_water_tank_sufficient_desc": "Bình chứa nước có đủ nước để nấu ăn bằng hơi nước. Bạn sẽ nhận được thông báo khi bình chứa nước cạn.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Bể chứa nước đã cạn",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Hãy đổ đầy bình chứa nước trước khi bắt đầu chương trình hấp.",
+    "reset_statistics": "Đặt lại số liệu thống kê"
 }

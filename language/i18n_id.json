@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "Pengaturan ini menggunakan lebih banyak energi dan air daripada kebanyakan pengaturan lainnya.",
     "DW_MIX_STATUS_03": "Pengaturan ini menggunakan lebih banyak energi dan air.",
     "DW_WATER_OPT_02": "Mencuci pakaian hingga penuh menggunakan lebih sedikit air per barang.",
-    "DW_WATER_STATUS_03": "Pengaturan ini menggunakan lebih banyak air daripada kebanyakan pengaturan lainnya."
+    "DW_WATER_STATUS_03": "Pengaturan ini menggunakan lebih banyak air daripada kebanyakan pengaturan lainnya.",
+    "CL_DV_OV_how_to_activate": "Bagaimana cara mengaktifkannya?",
+    "CL_DV_OV_set_power_watts_title": "Atur daya (Watt)",
+    "CL_DV_OV_water_tank_empty_title": "Tangki air kosong",
+    "CL_DV_OV_water_tank_empty_desc": "Air di tangki air tidak cukup untuk memasak dengan uap. Isi ulang tangki air sebelum memulai program memasak dengan uap.",
+    "CL_DV_OV_water_tank_sufficient": "Tingkat air mencukupi",
+    "CL_DV_OV_water_tank_sufficient_desc": "Terdapat cukup air di tangki air untuk memasak dengan uap. Anda akan diberi tahu ketika tangki kosong.",
+    "CL_DV_OV_water_tank_empty_popup_title": "Tangki air kosong",
+    "CL_DV_OV_water_tank_empty_popup_desc": "Isi ulang tangki air sebelum memulai program memasak dengan uap.",
+    "reset_statistics": "Atur ulang statistik"
 }

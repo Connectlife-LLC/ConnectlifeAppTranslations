@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "這種設置比大多數設置消耗更多的能源和水。",
     "DW_MIX_STATUS_03": "這種裝置需要消耗更多的能源和水。",
     "DW_WATER_OPT_02": "滿載洗滌時，每件衣物用水量較少。",
-    "DW_WATER_STATUS_03": "這種設定比大多數設定用水量更多。"
+    "DW_WATER_STATUS_03": "這種設定比大多數設定用水量更多。",
+    "CL_DV_OV_how_to_activate": "如何激活？",
+    "CL_DV_OV_set_power_watts_title": "設定功率（瓦特）",
+    "CL_DV_OV_water_tank_empty_title": "水箱已空",
+    "CL_DV_OV_water_tank_empty_desc": "水箱水量不足，無法進行蒸氣烹調。請在開始蒸氣烹飪程序前加滿水箱。",
+    "CL_DV_OV_water_tank_sufficient": "水位充足",
+    "CL_DV_OV_water_tank_sufficient_desc": "水箱內有足夠的水用於蒸氣烹飪。水箱空了時，您會收到通知。",
+    "CL_DV_OV_water_tank_empty_popup_title": "水箱已空",
+    "CL_DV_OV_water_tank_empty_popup_desc": "啟動蒸氣烹飪程序前，請先加滿水箱。",
+    "reset_statistics": "重置統計訊息"
 }

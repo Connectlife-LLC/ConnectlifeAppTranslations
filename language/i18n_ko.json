@@ -9421,5 +9421,14 @@
     "DW_MIX_STATUS_02": "이 설정은 대부분의 설정보다 에너지와 물을 더 많이 사용합니다.",
     "DW_MIX_STATUS_03": "이 시스템은 에너지와 물을 더 많이 소비합니다.",
     "DW_WATER_OPT_02": "세탁기를 가득 채우면 세탁물 한 개당 물 사용량이 줄어듭니다.",
-    "DW_WATER_STATUS_03": "이 설정은 대부분의 설정보다 물을 더 많이 사용합니다."
+    "DW_WATER_STATUS_03": "이 설정은 대부분의 설정보다 물을 더 많이 사용합니다.",
+    "CL_DV_OV_how_to_activate": "활성화 방법은 무엇인가요?",
+    "CL_DV_OV_set_power_watts_title": "전력(와트)을 설정하세요.",
+    "CL_DV_OV_water_tank_empty_title": "물탱크가 비어 있습니다",
+    "CL_DV_OV_water_tank_empty_desc": "물탱크에 찜 요리에 필요한 물이 부족합니다. 찜 요리 프로그램을 시작하기 전에 물탱크를 다시 채우십시오.",
+    "CL_DV_OV_water_tank_sufficient": "수위 충분함",
+    "CL_DV_OV_water_tank_sufficient_desc": "물탱크에 찜 요리에 필요한 물이 충분히 있습니다. 물탱크가 비면 알림을 받으실 수 있습니다.",
+    "CL_DV_OV_water_tank_empty_popup_title": "물탱크가 비어 있습니다.",
+    "CL_DV_OV_water_tank_empty_popup_desc": "찜 요리 프로그램을 시작하기 전에 물탱크를 다시 채우십시오.",
+    "reset_statistics": "통계 초기화"
 }
