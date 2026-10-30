@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Le réservoir d'eau contient suffisamment d'eau pour la cuisson à la vapeur. Vous serez averti lorsque le réservoir sera vide.",
     "CL_DV_OV_water_tank_empty_popup_title": "Réservoir d'eau vide",
     "CL_DV_OV_water_tank_empty_popup_desc": "Remplissez le réservoir d'eau avant de démarrer un programme de cuisson vapeur.",
-    "reset_statistics": "Réinitialiser les statistiques"
+    "reset_statistics": "Réinitialiser les statistiques",
+    "reset_statistics_desc": "Cette action supprimera définitivement toutes les statistiques, tendances et moyennes historiques de consommation d'énergie et d'eau de cet appareil. Cette action est irréversible.",
+    "reset_statistics_confirm": "Je comprends que ces données ne peuvent pas être récupérées.",
+    "reset_statistics_success": "Les statistiques ont été réinitialisées avec succès !",
+    "CL_DV_DW_extra_dry_desc": "S'applique aux modes Eco, Auto, Normal, Intensif et Nuit.",
+    "CL_DV_DW_mode_hygiene": "Hygiène+",
+    "CL_AC_select_zone": "Sélectionner une zone"
 }

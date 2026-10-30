@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Terdapat air yang mencukupi di dalam tangki air untuk memasak dengan stim. Anda akan dimaklumkan apabila tangki kosong.",
     "CL_DV_OV_water_tank_empty_popup_title": "Tangki air kosong",
     "CL_DV_OV_water_tank_empty_popup_desc": "Isi semula tangki air sebelum memulakan program memasak dengan stim.",
-    "reset_statistics": "Tetapkan semula statistik"
+    "reset_statistics": "Tetapkan semula statistik",
+    "reset_statistics_desc": "Ini akan memadamkan secara kekal semua statistik, trend dan purata penggunaan tenaga dan air sejarah untuk peranti ini. Tindakan ini tidak boleh dibuat asal.",
+    "reset_statistics_confirm": "Saya faham bahawa data ini tidak dapat dipulihkan.",
+    "reset_statistics_success": "Statistik telah berjaya ditetapkan semula!",
+    "CL_DV_DW_extra_dry_desc": "Terpakai untuk Eco, Auto, Normal, Heavy dan Night",
+    "CL_DV_DW_mode_hygiene": "Kebersihan+",
+    "CL_AC_select_zone": "Pilih Zon"
 }

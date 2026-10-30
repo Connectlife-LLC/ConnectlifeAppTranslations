@@ -5381,7 +5381,7 @@
     "CL_DV_LRC_device_stopped": "",
     "CL_DV_LRC_done": "",
     "CL_DV_LRC_device_completed": "",
-    "CL_DV_LRC_eco_meter_this_cycle": "",
+    "CL_DV_LRC_eco_meter_this_cycle": "Năng lượng tiêu thụ cho chu kỳ này",
     "CL_DV_RF_clean_mode_pop_title": "",
     "CL_DV_RF_clean_mode_pop_content": "",
     "CL_DV_RF_clean_mode_pop_btn_click": "",
@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Bình chứa nước có đủ nước để nấu ăn bằng hơi nước. Bạn sẽ nhận được thông báo khi bình chứa nước cạn.",
     "CL_DV_OV_water_tank_empty_popup_title": "Bể chứa nước đã cạn",
     "CL_DV_OV_water_tank_empty_popup_desc": "Hãy đổ đầy bình chứa nước trước khi bắt đầu chương trình hấp.",
-    "reset_statistics": "Đặt lại số liệu thống kê"
+    "reset_statistics": "Đặt lại số liệu thống kê",
+    "reset_statistics_desc": "Thao tác này sẽ xóa vĩnh viễn tất cả số liệu thống kê, xu hướng và mức trung bình về tiêu thụ năng lượng và nước trong quá khứ của thiết bị này. Không thể hoàn tác thao tác này.",
+    "reset_statistics_confirm": "Tôi hiểu rằng dữ liệu này không thể khôi phục được.",
+    "reset_statistics_success": "Thống kê đã được đặt lại thành công!",
+    "CL_DV_DW_extra_dry_desc": "Áp dụng cho các chế độ Eco, Auto, Normal, Heavy và Night.",
+    "CL_DV_DW_mode_hygiene": "Vệ sinh+",
+    "CL_AC_select_zone": "Chọn khu vực"
 }

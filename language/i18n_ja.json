@@ -8067,7 +8067,7 @@
     "CL_TS_switch_electricity_plan": "電力プランの変更",
     "CL_TS_switch_electricity_tips": "現在、電気料金プランをご利用いただいております。料金プランを変更すると、現在のデータが消去されます。変更してもよろしいですか？",
     "CL_CF_GEO_enable_arriving_sf_notification": "帰宅検知のお知らせ",
-    "CL_CF_GEO_enable_leaving_sf_notification": "休暇リマインダー",
+    "CL_CF_GEO_enable_leaving_sf_notification": "外出検知のお知らせ",
     "CL_CF_GEO_enable_arriving_sf_notification_desp": "家に近づくとエアコンをオンにするように通知を受け取ります。",
     "CL_CF_GEO_enable_leaving_sf_notification_desp": "外出時にエアコンをオフにするよう通知を受け取ります。",
     "CL_AC_ai_leave_home_air": "不在節電",
@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "水タンクには蒸し料理に必要な水が十分に入っています。タンクが空になると通知されます。",
     "CL_DV_OV_water_tank_empty_popup_title": "貯水タンクが空です",
     "CL_DV_OV_water_tank_empty_popup_desc": "蒸し調理プログラムを開始する前に、水タンクに水を補充してください。",
-    "reset_statistics": "統計情報をリセット"
+    "reset_statistics": "統計情報をリセット",
+    "reset_statistics_desc": "この操作を行うと、この機器の過去のエネルギーおよび水使用量に関する統計データ、傾向、平均値がすべて完全に削除されます。この操作は元に戻すことはできません。",
+    "reset_statistics_confirm": "このデータは復元できないことを理解しています。",
+    "reset_statistics_success": "統計情報が正常にリセットされました！",
+    "CL_DV_DW_extra_dry_desc": "エコ、オート、ノーマル、ヘビー、ナイトに適用されます",
+    "CL_DV_DW_mode_hygiene": "衛生+",
+    "CL_AC_select_zone": "ゾーンを選択"
 }

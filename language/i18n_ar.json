@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "يوجد في خزان الماء كمية كافية للطهي بالبخار. سيتم إعلامك عندما يفرغ الخزان.",
     "CL_DV_OV_water_tank_empty_popup_title": "خزان المياه فارغ",
     "CL_DV_OV_water_tank_empty_popup_desc": "أعد ملء خزان الماء قبل بدء برنامج الطهي بالبخار.",
-    "reset_statistics": "إعادة ضبط الإحصائيات"
+    "reset_statistics": "إعادة ضبط الإحصائيات",
+    "reset_statistics_desc": "سيؤدي هذا إلى حذف جميع إحصائيات استهلاك الطاقة والمياه السابقة، والاتجاهات، والمتوسطات الخاصة بهذا الجهاز بشكل نهائي. لا يمكن التراجع عن هذا الإجراء.",
+    "reset_statistics_confirm": "أفهم أنه لا يمكن استعادة هذه البيانات.",
+    "reset_statistics_success": "تمت إعادة ضبط الإحصائيات بنجاح!",
+    "CL_DV_DW_extra_dry_desc": "ينطبق على أوضاع Eco و Auto و Normal و Heavy و Night",
+    "CL_DV_DW_mode_hygiene": "النظافة+",
+    "CL_AC_select_zone": "حدد المنطقة"
 }

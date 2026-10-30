@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Der Wassertank enthält ausreichend Wasser zum Dampfgaren. Sie werden benachrichtigt, sobald der Tank leer ist.",
     "CL_DV_OV_water_tank_empty_popup_title": "Wassertank leer",
     "CL_DV_OV_water_tank_empty_popup_desc": "Füllen Sie den Wassertank auf, bevor Sie ein Dampfgarprogramm starten.",
-    "reset_statistics": "Statistik zurücksetzen"
+    "reset_statistics": "Statistik zurücksetzen",
+    "reset_statistics_desc": "Dadurch werden alle bisherigen Statistiken, Trends und Durchschnittswerte zum Energie- und Wasserverbrauch dieses Geräts dauerhaft gelöscht. Dieser Vorgang kann nicht rückgängig gemacht werden.",
+    "reset_statistics_confirm": "Mir ist bekannt, dass diese Daten nicht wiederhergestellt werden können.",
+    "reset_statistics_success": "Die Statistiken wurden erfolgreich zurückgesetzt!",
+    "CL_DV_DW_extra_dry_desc": "Gilt für Eco, Auto, Normal, Schwer und Nacht",
+    "CL_DV_DW_mode_hygiene": "Hygiene+",
+    "CL_AC_select_zone": "Zone auswählen"
 }

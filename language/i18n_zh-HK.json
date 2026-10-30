@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "水箱內有足夠的水用於蒸氣烹飪。水箱空了時，您會收到通知。",
     "CL_DV_OV_water_tank_empty_popup_title": "水箱已空",
     "CL_DV_OV_water_tank_empty_popup_desc": "啟動蒸氣烹飪程序前，請先加滿水箱。",
-    "reset_statistics": "重置統計訊息"
+    "reset_statistics": "重置統計訊息",
+    "reset_statistics_desc": "這將永久刪除該設備的所有歷史能耗和用水量統計數據、趨勢和平均值。此操作無法撤銷。",
+    "reset_statistics_confirm": "我知道這些數據無法恢復。",
+    "reset_statistics_success": "統計數據已成功重置！",
+    "CL_DV_DW_extra_dry_desc": "適用於節能、自動、普通、強勁和夜間模式",
+    "CL_DV_DW_mode_hygiene": "衛生+",
+    "CL_AC_select_zone": "選擇區域"
 }

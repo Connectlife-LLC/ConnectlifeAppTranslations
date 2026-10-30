@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "U spremniku za vodu ima dovoljno vode za kuhanje na pari. Bit ćete obaviješteni kada je spremnik prazan.",
     "CL_DV_OV_water_tank_empty_popup_title": "Spremnik za vodu prazan",
     "CL_DV_OV_water_tank_empty_popup_desc": "Prije pokretanja programa kuhanja na pari napunite spremnik za vodu.",
-    "reset_statistics": "Poništi statistiku"
+    "reset_statistics": "Poništi statistiku",
+    "reset_statistics_desc": "Ovim će se trajno izbrisati svi povijesni statistički podaci, trendovi i prosjeki potrošnje energije i vode za ovaj uređaj. Ova se radnja ne može poništiti.",
+    "reset_statistics_confirm": "Razumijem da se ovi podaci ne mogu oporaviti.",
+    "reset_statistics_success": "Statistika je uspješno resetirana!",
+    "CL_DV_DW_extra_dry_desc": "Odnosi se na Eko, Automatski, Normalni, Teški i Noćni način rada.",
+    "CL_DV_DW_mode_hygiene": "Higijena+",
+    "CL_AC_select_zone": "Odaberite zonu"
 }

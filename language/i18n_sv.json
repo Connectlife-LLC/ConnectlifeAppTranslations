@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Det finns tillräckligt med vatten i vattentanken för ångkokning. Du får ett meddelande när tanken är tom.",
     "CL_DV_OV_water_tank_empty_popup_title": "Vattentanken är tom",
     "CL_DV_OV_water_tank_empty_popup_desc": "Fyll på vattentanken innan du startar ett ångkokningsprogram.",
-    "reset_statistics": "Återställ statistik"
+    "reset_statistics": "Återställ statistik",
+    "reset_statistics_desc": "Detta kommer att permanent radera all historisk statistik, trender och medelvärden för energi- och vattenförbrukning för den här enheten. Åtgärden kan inte ångras.",
+    "reset_statistics_confirm": "Jag förstår att dessa uppgifter inte kan återställas.",
+    "reset_statistics_success": "Statistiken återställdes!",
+    "CL_DV_DW_extra_dry_desc": "Gäller för Eco, Auto, Normal, Heavy och Night",
+    "CL_DV_DW_mode_hygiene": "Hygien+",
+    "CL_AC_select_zone": "Välj zon"
 }

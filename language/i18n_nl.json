@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Er zit voldoende water in het waterreservoir om te stomen. U ontvangt een melding wanneer het reservoir leeg is.",
     "CL_DV_OV_water_tank_empty_popup_title": "Watertank leeg",
     "CL_DV_OV_water_tank_empty_popup_desc": "Vul het waterreservoir bij voordat u een stoomkookprogramma start.",
-    "reset_statistics": "Statistieken resetten"
+    "reset_statistics": "Statistieken resetten",
+    "reset_statistics_desc": "Hiermee worden alle historische statistieken, trends en gemiddelden met betrekking tot energie- en waterverbruik voor dit apparaat permanent verwijderd. Deze actie kan niet ongedaan worden gemaakt.",
+    "reset_statistics_confirm": "Ik begrijp dat deze gegevens niet kunnen worden hersteld.",
+    "reset_statistics_success": "De statistieken zijn succesvol gereset!",
+    "CL_DV_DW_extra_dry_desc": "Van toepassing op Eco, Auto, Normal, Heavy en Night",
+    "CL_DV_DW_mode_hygiene": "Hygiëne+",
+    "CL_AC_select_zone": "Selecteer zone"
 }

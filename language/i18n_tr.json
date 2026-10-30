@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Buharda pişirme için su tankında yeterli su bulunmaktadır. Tank boşaldığında size bildirim gönderilecektir.",
     "CL_DV_OV_water_tank_empty_popup_title": "Su deposu boş",
     "CL_DV_OV_water_tank_empty_popup_desc": "Buharlı pişirme programına başlamadan önce su tankını doldurun.",
-    "reset_statistics": "İstatistikleri sıfırla"
+    "reset_statistics": "İstatistikleri sıfırla",
+    "reset_statistics_desc": "Bu işlem, bu cihaz için geçmişe ait tüm enerji ve su tüketimi istatistiklerini, eğilimlerini ve ortalamalarını kalıcı olarak silecektir. Bu işlem geri alınamaz.",
+    "reset_statistics_confirm": "Bu verilerin kurtarılamayacağını anlıyorum.",
+    "reset_statistics_success": "İstatistikler başarıyla sıfırlandı!",
+    "CL_DV_DW_extra_dry_desc": "Eco, Auto, Normal, Heavy ve Night modları için geçerlidir.",
+    "CL_DV_DW_mode_hygiene": "Hijyen+",
+    "CL_AC_select_zone": "Bölge Seçin"
 }

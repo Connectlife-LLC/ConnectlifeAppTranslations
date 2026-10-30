@@ -9430,5 +9430,11 @@
     "CL_DV_OV_water_tank_sufficient_desc": "El depósito de agua contiene suficiente agua para cocinar al vapor. Recibirás una notificación cuando el depósito esté vacío.",
     "CL_DV_OV_water_tank_empty_popup_title": "Tanque de agua vacío",
     "CL_DV_OV_water_tank_empty_popup_desc": "Rellene el depósito de agua antes de iniciar un programa de cocción al vapor.",
-    "reset_statistics": "Restablecer estadísticas"
+    "reset_statistics": "Restablecer estadísticas",
+    "reset_statistics_desc": "Esto eliminará permanentemente todas las estadísticas, tendencias y promedios históricos de consumo de energía y agua de este dispositivo. Esta acción es irreversible.",
+    "reset_statistics_confirm": "Entiendo que estos datos no se pueden recuperar.",
+    "reset_statistics_success": "¡Las estadísticas se han restablecido correctamente!",
+    "CL_DV_DW_extra_dry_desc": "Se aplica a los modos Eco, Automático, Normal, Pesado y Nocturno.",
+    "CL_DV_DW_mode_hygiene": "Higiene+",
+    "CL_AC_select_zone": "Seleccionar zona"
 }
