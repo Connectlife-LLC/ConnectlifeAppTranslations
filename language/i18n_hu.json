@@ -1674,7 +1674,7 @@
     "select_network_hint": "Kérjük, csatlakozzon a „HIS-******” hálózatnévhez. Ha olyan üzenetet kap, hogy nincs internet, erősítse meg a kapcsolat megőrzéséhez.",
     "timing ": "Időzítő",
     "add_timing": "IDŐZÍTÉS HOZZÁADÁSA",
-    "set_start_to_finish_time": "Kezdési és befejezési idő beállítása",
+    "set_start_to_finish_time": "Kezdő és befejező idő beállítása",
     "pair_pump_appliance": "Hőszivattyús vízmelegítő",
     "heat_pump": "Inverter kártya",
     "pump_boost_1": "Nyomásfokozás 1",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Elegendő víz van a víztartályban a gőzfőzéshez. Értesítést kap, amikor a tartály kiürült.",
     "CL_DV_OV_water_tank_empty_popup_title": "Üres víztartály",
     "CL_DV_OV_water_tank_empty_popup_desc": "Gőzölős főzési program indítása előtt töltse fel a víztartályt.",
-    "reset_statistics": "Statisztikák visszaállítása"
+    "reset_statistics": "Statisztikák visszaállítása",
+    "reset_statistics_desc": "Ez véglegesen törli az eszköz összes korábbi energia- és vízfogyasztási statisztikáját, trendjét és átlagát. A művelet nem vonható vissza.",
+    "reset_statistics_confirm": "Tudomásul veszem, hogy ezeket az adatokat nem lehet visszaállítani.",
+    "reset_statistics_success": "A statisztikák visszaállítása sikeresen megtörtént!",
+    "CL_DV_DW_extra_dry_desc": "Eco, Auto, Normál, Nagy teljesítményű és Éjszakai módokra vonatkozik.",
+    "CL_DV_DW_mode_hygiene": "Higiénia+",
+    "CL_AC_select_zone": "Zóna kiválasztása",
+    "CL_DV_wcc_display_eu_tips": "Szabja testre borhűtőjének kijelzőbeállításait a fényerő, a megjelenés és a készenléti állapot tekintetében.",
+    "CL_DV_WINE_day_in_advance": "# nappal előre",
+    "CL_DV_wcc_humidity_notification_content": "Értesítést kap, ha egy rekesz páratartalma 50% alá esik"
 }

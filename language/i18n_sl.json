@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "V rezervoarju za vodo je dovolj vode za kuhanje na pari. Obveščeni boste, ko bo rezervoar prazen.",
     "CL_DV_OV_water_tank_empty_popup_title": "Rezervoar za vodo prazen",
     "CL_DV_OV_water_tank_empty_popup_desc": "Preden zaženete program kuhanja na pari, napolnite rezervoar za vodo.",
-    "reset_statistics": "Ponastavi statistiko"
+    "reset_statistics": "Ponastavi statistiko",
+    "reset_statistics_desc": "S tem boste trajno izbrisali vse zgodovinske statistike, trende in povprečja porabe energije in vode za to napravo. Tega dejanja ni mogoče razveljaviti.",
+    "reset_statistics_confirm": "Razumem, da teh podatkov ni mogoče obnoviti.",
+    "reset_statistics_success": "Statistika je bila uspešno ponastavljena!",
+    "CL_DV_DW_extra_dry_desc": "Velja za načine Eko, Samodejno, Normalno, Močno in Nočno",
+    "CL_DV_DW_mode_hygiene": "Higiena+",
+    "CL_AC_select_zone": "Izberite območje",
+    "CL_DV_wcc_display_eu_tips": "Prilagodite nastavitve prikaza vinske omare glede svetlosti, videza in stanja pripravljenosti.",
+    "CL_DV_WINE_day_in_advance": "# dan vnaprej",
+    "CL_DV_wcc_humidity_notification_content": "Prejmite obvestilo, če vlažnost v predelku pade pod 50 %"
 }

@@ -1674,7 +1674,7 @@
     "select_network_hint": "請連接到網路名稱“HIS-******”。若收到無網路連線的提示，請確認保持連線。",
     "timing ": "定時器",
     "add_timing": "新增計時",
-    "set_start_to_finish_time": "設定開始到結束時間",
+    "set_start_to_finish_time": "設定開始和結束時間",
     "pair_pump_appliance": "熱泵熱水器",
     "heat_pump": "生活熱水逆變器",
     "pump_boost_1": "加速 1",
@@ -9057,7 +9057,7 @@
     "leaving_connect_app_content": "您將被重新導向至官方網站完成購買。請注意，您的 Cookie 偏好設定、資料隱私設定和交易處理將按照其政策進行管理。",
     "leaving_connect_app_stay": "留在應用程式內",
     "CL_DR_entrance_desc_ineligible": "因某種原因不符合資格。",
-    "leaving_connect_app_go_to_webshop": "前往**網上商店**",
+    "leaving_connect_app_go_to_webshop": "前往**網上商店",
     "CL_delay_time_out_of_range": "抱歉，您的設定超出了有效範圍，系統已自動為您調整。",
     "CL_legal_rights_prefix_new": "如需行使應用程式本身未直接提供的其他權利，請參閱… ",
     "CL_eu_data_act_notification_new": "歐盟數據法案通知",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "水箱內有足夠的水用於蒸氣烹飪。水箱空了時，您會收到通知。",
     "CL_DV_OV_water_tank_empty_popup_title": "水箱已空",
     "CL_DV_OV_water_tank_empty_popup_desc": "啟動蒸氣烹飪程序前，請先加滿水箱。",
-    "reset_statistics": "重置統計訊息"
+    "reset_statistics": "重置統計訊息",
+    "reset_statistics_desc": "這將永久刪除該設備的所有歷史能耗和用水量統計數據、趨勢和平均值。此操作無法撤銷。",
+    "reset_statistics_confirm": "我知道這些數據無法恢復。",
+    "reset_statistics_success": "統計數據已成功重置！",
+    "CL_DV_DW_extra_dry_desc": "適用於節能、自動、普通、強勁和夜間模式",
+    "CL_DV_DW_mode_hygiene": "衛生+",
+    "CL_AC_select_zone": "選擇區域",
+    "CL_DV_wcc_display_eu_tips": "自訂酒櫃顯示器的亮度、外觀和待機設定。",
+    "CL_DV_WINE_day_in_advance": "提前一天",
+    "CL_DV_wcc_humidity_notification_content": "如果隔間內的濕度低於 50%，您將收到通知。"
 }

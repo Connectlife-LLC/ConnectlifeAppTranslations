@@ -1674,7 +1674,7 @@
     "select_network_hint": "Pripojte sa k názvu siete „HIS-******“. Ak dostanete správu, že nie je internet, potvrďte, že zostanete pripojení.",
     "timing ": "Časovač",
     "add_timing": "PRIDAŤ ČASOVAČ",
-    "set_start_to_finish_time": "Nastavte čas od začiatku do konca",
+    "set_start_to_finish_time": "Nastaviť čas začiatku a konca",
     "pair_pump_appliance": "Ohrievač vody s tepelným čerpadlom",
     "heat_pump": "Menič TÚV ",
     "pump_boost_1": "Posilnenie 1",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "V nádržke na vodu je dostatok vody na varenie v pare. Keď je nádržka prázdna, budete upozornení.",
     "CL_DV_OV_water_tank_empty_popup_title": "Nádrž na vodu je prázdna",
     "CL_DV_OV_water_tank_empty_popup_desc": "Pred spustením programu varenia v pare doplňte nádržku na vodu.",
-    "reset_statistics": "Obnoviť štatistiky"
+    "reset_statistics": "Obnoviť štatistiky",
+    "reset_statistics_desc": "Týmto sa natrvalo vymažú všetky historické štatistiky, trendy a priemery spotreby energie a vody pre toto zariadenie. Túto akciu nie je možné vrátiť späť.",
+    "reset_statistics_confirm": "Chápem, že tieto údaje nie je možné obnoviť.",
+    "reset_statistics_success": "Štatistiky boli úspešne vynulované!",
+    "CL_DV_DW_extra_dry_desc": "Platí pre režimy Eko, Automatický, Normálny, Ťažký a Nočný",
+    "CL_DV_DW_mode_hygiene": "Hygiena+",
+    "CL_AC_select_zone": "Vyberte zónu",
+    "CL_DV_wcc_display_eu_tips": "Prispôsobte si nastavenia jasu, vzhľadu a pohotovostného režimu displeja vinotéky.",
+    "CL_DV_WINE_day_in_advance": "# deň vopred",
+    "CL_DV_wcc_humidity_notification_content": "Dostanete upozornenie, ak vlhkosť v priestore klesne pod 50 %"
 }

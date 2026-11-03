@@ -1674,7 +1674,7 @@
     "select_network_hint": "Silakan sambungkan ke nama jaringan \"HIS-******\". Jika Anda menerima pesan tidak ada internet, konfirmasi untuk tetap terhubung.",
     "timing ": "Timer",
     "add_timing": "TAMBAHKAN WAKTU",
-    "set_start_to_finish_time": "Tetapkan waktu mulai hingga selesai",
+    "set_start_to_finish_time": "Tetapkan waktu mulai dan berakhir",
     "pair_pump_appliance": "Pemanas air pompa panas",
     "heat_pump": "Papan inverter",
     "pump_boost_1": "Peningkatan 1",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Terdapat cukup air di tangki air untuk memasak dengan uap. Anda akan diberi tahu ketika tangki kosong.",
     "CL_DV_OV_water_tank_empty_popup_title": "Tangki air kosong",
     "CL_DV_OV_water_tank_empty_popup_desc": "Isi ulang tangki air sebelum memulai program memasak dengan uap.",
-    "reset_statistics": "Atur ulang statistik"
+    "reset_statistics": "Atur ulang statistik",
+    "reset_statistics_desc": "Tindakan ini akan menghapus secara permanen semua statistik, tren, dan rata-rata konsumsi energi dan air historis untuk perangkat ini. Tindakan ini tidak dapat dibatalkan.",
+    "reset_statistics_confirm": "Saya memahami bahwa data ini tidak dapat dipulihkan.",
+    "reset_statistics_success": "Statistik berhasil direset!",
+    "CL_DV_DW_extra_dry_desc": "Berlaku untuk mode Eco, Auto, Normal, Heavy, dan Night.",
+    "CL_DV_DW_mode_hygiene": "Kebersihan+",
+    "CL_AC_select_zone": "Pilih Zona",
+    "CL_DV_wcc_display_eu_tips": "Sesuaikan pengaturan tampilan lemari anggur Anda untuk kecerahan, tampilan, dan waktu siaga.",
+    "CL_DV_WINE_day_in_advance": "# sehari sebelumnya",
+    "CL_DV_wcc_humidity_notification_content": "Dapatkan notifikasi jika kelembapan di dalam kompartemen turun di bawah 50%."
 }

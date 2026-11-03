@@ -1674,7 +1674,7 @@
     "select_network_hint": "Veuillez vous connecter au nom de réseau \"HIS-******\". Si vous recevez un message indiquant qu'il n'y a pas d'Internet, confirmez pour rester connecté.",
     "timing ": "Minuteur",
     "add_timing": "AJOUTER UN TEMPS",
-    "set_start_to_finish_time": "Définir l'heure du début à la fin",
+    "set_start_to_finish_time": "Définir l'heure de début et de fin",
     "pair_pump_appliance": "Chauffe-eau à pompe à chaleur",
     "heat_pump": "Convertisseur ECS ",
     "pump_boost_1": "Boost 1",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Le réservoir d'eau contient suffisamment d'eau pour la cuisson à la vapeur. Vous serez averti lorsque le réservoir sera vide.",
     "CL_DV_OV_water_tank_empty_popup_title": "Réservoir d'eau vide",
     "CL_DV_OV_water_tank_empty_popup_desc": "Remplissez le réservoir d'eau avant de démarrer un programme de cuisson vapeur.",
-    "reset_statistics": "Réinitialiser les statistiques"
+    "reset_statistics": "Réinitialiser les statistiques",
+    "reset_statistics_desc": "Cette action supprimera définitivement toutes les statistiques, tendances et moyennes historiques de consommation d'énergie et d'eau de cet appareil. Cette action est irréversible.",
+    "reset_statistics_confirm": "Je comprends que ces données ne peuvent pas être récupérées.",
+    "reset_statistics_success": "Les statistiques ont été réinitialisées avec succès !",
+    "CL_DV_DW_extra_dry_desc": "S'applique aux modes Eco, Auto, Normal, Intensif et Nuit.",
+    "CL_DV_DW_mode_hygiene": "Hygiène+",
+    "CL_AC_select_zone": "Sélectionner une zone",
+    "CL_DV_wcc_display_eu_tips": "Personnalisez les paramètres d'affichage de votre cave à vin : luminosité, apparence et mode veille.",
+    "CL_DV_WINE_day_in_advance": "# jour à l'avance",
+    "CL_DV_wcc_humidity_notification_content": "Recevez une notification si l'humidité dans un compartiment descend en dessous de 50 %."
 }

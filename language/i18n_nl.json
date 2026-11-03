@@ -1674,7 +1674,7 @@
     "select_network_hint": "Maak verbinding met de netwerknaam \"HIS-******\". Als u een bericht ontvangt dat er geen internet is, bevestigt u om verbonden te blijven.",
     "timing ": "Timer",
     "add_timing": "TIMING TOEVOEGEN",
-    "set_start_to_finish_time": "Begin- tot eindtijd instellen",
+    "set_start_to_finish_time": "Stel de begin- en eindtijd in.",
     "pair_pump_appliance": "Warmtepomp boiler",
     "heat_pump": "DHW-omvormer ",
     "pump_boost_1": "Boost 1",
@@ -9057,7 +9057,7 @@
     "leaving_connect_app_content": "U wordt doorgestuurd naar de officiële ** website om uw aankoop te voltooien. Houd er rekening mee dat uw cookievoorkeuren, privacyinstellingen en transactieverwerking worden beheerd volgens hun beleid.",
     "leaving_connect_app_stay": "BLIJF IN DE APP",
     "CL_DR_entrance_desc_ineligible": "Niet in aanmerking komend om een ​​of andere reden.",
-    "leaving_connect_app_go_to_webshop": "GA NAAR DE WEBSHOP",
+    "leaving_connect_app_go_to_webshop": "GA NAAR DE ** WEBSHOP",
     "CL_delay_time_out_of_range": "Sorry, uw instelling ligt buiten het geldige bereik en is automatisch voor u aangepast.",
     "CL_legal_rights_prefix_new": "Om andere rechten uit te oefenen die niet direct binnen de app zelf beschikbaar zijn, verwijzen wij u naar de ",
     "CL_eu_data_act_notification_new": "Kennisgeving inzake de EU-gegevensbeschermingswet",
@@ -9430,5 +9430,14 @@
     "CL_DV_OV_water_tank_sufficient_desc": "Er zit voldoende water in het waterreservoir om te stomen. U ontvangt een melding wanneer het reservoir leeg is.",
     "CL_DV_OV_water_tank_empty_popup_title": "Watertank leeg",
     "CL_DV_OV_water_tank_empty_popup_desc": "Vul het waterreservoir bij voordat u een stoomkookprogramma start.",
-    "reset_statistics": "Statistieken resetten"
+    "reset_statistics": "Statistieken resetten",
+    "reset_statistics_desc": "Hiermee worden alle historische statistieken, trends en gemiddelden met betrekking tot energie- en waterverbruik voor dit apparaat permanent verwijderd. Deze actie kan niet ongedaan worden gemaakt.",
+    "reset_statistics_confirm": "Ik begrijp dat deze gegevens niet kunnen worden hersteld.",
+    "reset_statistics_success": "De statistieken zijn succesvol gereset!",
+    "CL_DV_DW_extra_dry_desc": "Van toepassing op Eco, Auto, Normal, Heavy en Night",
+    "CL_DV_DW_mode_hygiene": "Hygiëne+",
+    "CL_AC_select_zone": "Selecteer zone",
+    "CL_DV_wcc_display_eu_tips": "Pas de instellingen van het display in uw wijnkast aan voor helderheid, uiterlijk en standby-modus.",
+    "CL_DV_WINE_day_in_advance": "# een dag van tevoren",
+    "CL_DV_wcc_humidity_notification_content": "Ontvang een melding als de luchtvochtigheid in een compartiment onder de 50% daalt."
 }
