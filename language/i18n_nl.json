@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Selecteer zone",
     "CL_DV_wcc_display_eu_tips": "Pas de instellingen van het display in uw wijnkast aan voor helderheid, uiterlijk en standby-modus.",
     "CL_DV_WINE_day_in_advance": "# een dag van tevoren",
-    "CL_DV_wcc_humidity_notification_content": "Ontvang een melding als de luchtvochtigheid in een compartiment onder de 50% daalt."
+    "CL_DV_wcc_humidity_notification_content": "Ontvang een melding als de luchtvochtigheid in een compartiment onder de 50% daalt.",
+    "CL_DV_wcc_offline_notification2": "Als uw apparaat langer dan 2/3 uur offline blijft, ontvangt u een melding.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Wanneer de sabbatmodus is geactiveerd, worden interactieve functies beperkt. De temperatuurregeling blijft automatisch werken om uw wijnen perfect te bewaren.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Stel in of het scherm automatisch moet vergrendelen na een bepaalde tijd.",
+    "CL_DV_wcc_push_to_open_content": "De deur opent door ergens op de glazen voordeur te drukken.",
+    "CL_CF_AC_voice_unique_wakeup": "Unieke Wake-up",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Unieke activering (standaard ingeschakeld): Wanneer meerdere apparaten zich in dezelfde ruimte bevinden, wordt er automatisch één apparaat geselecteerd om te reageren."
 }

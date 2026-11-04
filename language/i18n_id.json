@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Pilih Zona",
     "CL_DV_wcc_display_eu_tips": "Sesuaikan pengaturan tampilan lemari anggur Anda untuk kecerahan, tampilan, dan waktu siaga.",
     "CL_DV_WINE_day_in_advance": "# sehari sebelumnya",
-    "CL_DV_wcc_humidity_notification_content": "Dapatkan notifikasi jika kelembapan di dalam kompartemen turun di bawah 50%."
+    "CL_DV_wcc_humidity_notification_content": "Dapatkan notifikasi jika kelembapan di dalam kompartemen turun di bawah 50%.",
+    "CL_DV_wcc_offline_notification2": "Jika perangkat Anda tetap offline selama lebih dari 2/3 jam, Anda akan menerima notifikasi.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Saat mode Sabat diaktifkan, fungsi interaktif akan dibatasi. Kontrol suhu tetap berjalan secara otomatis untuk menjaga agar anggur Anda tersimpan dengan sempurna.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Atur apakah layar harus terkunci secara otomatis setelah waktu habis.",
+    "CL_DV_wcc_push_to_open_content": "Pintu dapat dibuka dengan menekan bagian mana saja pada pintu kaca depan.",
+    "CL_CF_AC_voice_unique_wakeup": "Bangun Tidur yang Unik",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Pengaktifan Unik (Diaktifkan secara default): Ketika beberapa perangkat berada di ruangan yang sama, satu perangkat akan dipilih secara cerdas untuk merespons."
 }

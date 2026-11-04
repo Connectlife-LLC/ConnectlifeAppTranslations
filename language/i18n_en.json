@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Select Zone",
     "CL_DV_wcc_display_eu_tips": "Customize your wine cabinet display settings for brightness, appearance and standby.",
     "CL_DV_WINE_day_in_advance": "# day in advance",
-    "CL_DV_wcc_humidity_notification_content": "Receive a notification if the humidity in a compartment falls below 50%"
+    "CL_DV_wcc_humidity_notification_content": "Receive a notification if the humidity in a compartment falls below 50%",
+    "CL_DV_wcc_offline_notification2": "If your device stays offline for longer than 1 hour, you will receive a notification.",
+    "CL_DV_wcc_sabbath_mode_tips2": "When Sabbath mode is activated, it limits interactive functions. Temperature control continues automatically to keep your wines perfectly stored.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Set whether the display should automatically lock after timing out.",
+    "CL_DV_wcc_push_to_open_content": "The door opens by pressing anywhere on the front glass door.",
+    "CL_CF_AC_voice_unique_wakeup": "Unique Wake-up",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Unique Wake-up (Enabled by default): When multiple devices are in the same space, one device will be intelligently selected to respond."
 }

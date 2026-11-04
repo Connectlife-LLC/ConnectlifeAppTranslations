@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Zóna kiválasztása",
     "CL_DV_wcc_display_eu_tips": "Szabja testre borhűtőjének kijelzőbeállításait a fényerő, a megjelenés és a készenléti állapot tekintetében.",
     "CL_DV_WINE_day_in_advance": "# nappal előre",
-    "CL_DV_wcc_humidity_notification_content": "Értesítést kap, ha egy rekesz páratartalma 50% alá esik"
+    "CL_DV_wcc_humidity_notification_content": "Értesítést kap, ha egy rekesz páratartalma 50% alá esik",
+    "CL_DV_wcc_offline_notification2": "Ha az eszközöd 2/3 óránál tovább offline marad, értesítést kapsz.",
+    "CL_DV_wcc_sabbath_mode_tips2": "A Sabbath mód aktiválásakor az interaktív funkciók korlátozottak. A hőmérséklet-szabályozás automatikusan folytatódik, hogy a borok tökéletesen tárolhatók legyenek.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Állítsa be, hogy a kijelző automatikusan zárolódjon-e az időkorlát lejárta után.",
+    "CL_DV_wcc_push_to_open_content": "Az ajtó az elülső üvegajtó bármely pontjának megnyomásával nyílik.",
+    "CL_CF_AC_voice_unique_wakeup": "Egyedi ébredés",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Egyedi ébresztés (alapértelmezés szerint engedélyezve): Ha több eszköz van ugyanabban a térben, a rendszer intelligensen kiválaszt egy eszközt a válaszadásra."
 }

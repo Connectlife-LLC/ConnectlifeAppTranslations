@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Sélectionner une zone",
     "CL_DV_wcc_display_eu_tips": "Personnalisez les paramètres d'affichage de votre cave à vin : luminosité, apparence et mode veille.",
     "CL_DV_WINE_day_in_advance": "# jour à l'avance",
-    "CL_DV_wcc_humidity_notification_content": "Recevez une notification si l'humidité dans un compartiment descend en dessous de 50 %."
+    "CL_DV_wcc_humidity_notification_content": "Recevez une notification si l'humidité dans un compartiment descend en dessous de 50 %.",
+    "CL_DV_wcc_offline_notification2": "Si votre appareil reste hors ligne pendant plus de 2 ou 3 heures, vous recevrez une notification.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Lorsque le mode Shabbat est activé, les fonctions interactives sont limitées. Le contrôle de la température reste automatique afin de garantir une conservation optimale de vos vins.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Indiquez si l'écran doit se verrouiller automatiquement après expiration du délai.",
+    "CL_DV_wcc_push_to_open_content": "La porte s'ouvre en appuyant n'importe où sur la porte vitrée avant.",
+    "CL_CF_AC_voice_unique_wakeup": "Réveil unique",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Réveil unique (activé par défaut) : lorsque plusieurs appareils se trouvent dans le même espace, un seul appareil sera sélectionné intelligemment pour répondre."
 }

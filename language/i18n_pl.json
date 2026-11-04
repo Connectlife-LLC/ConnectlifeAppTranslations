@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Wybierz strefę",
     "CL_DV_wcc_display_eu_tips": "Dostosuj ustawienia jasności, wyglądu i trybu czuwania wyświetlacza swojej szafki na wino.",
     "CL_DV_WINE_day_in_advance": "# dzień wcześniej",
-    "CL_DV_wcc_humidity_notification_content": "Otrzymaj powiadomienie, jeśli wilgotność w komorze spadnie poniżej 50%"
+    "CL_DV_wcc_humidity_notification_content": "Otrzymaj powiadomienie, jeśli wilgotność w komorze spadnie poniżej 50%",
+    "CL_DV_wcc_offline_notification2": "Jeśli Twoje urządzenie pozostanie offline przez okres dłuższy niż 2–3 godzin, otrzymasz powiadomienie.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Po aktywacji trybu Sabbath funkcje interaktywne są ograniczone. Kontrola temperatury jest kontynuowana automatycznie, aby zapewnić idealne przechowywanie wina.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Ustaw, czy wyświetlacz ma być automatycznie blokowany po upływie limitu czasu.",
+    "CL_DV_wcc_push_to_open_content": "Drzwi otwierają się po naciśnięciu dowolnego miejsca na przednich szklanych drzwiach.",
+    "CL_CF_AC_voice_unique_wakeup": "Niepowtarzalne przebudzenie",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Unikalne wybudzanie (domyślnie włączone): Gdy w tej samej przestrzeni znajduje się kilka urządzeń, jedno z nich zostanie inteligentnie wybrane do reakcji."
 }

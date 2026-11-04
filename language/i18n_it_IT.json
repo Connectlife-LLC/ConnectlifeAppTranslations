@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Zona selezionata",
     "CL_DV_wcc_display_eu_tips": "Personalizza le impostazioni del display del tuo mobile portabottiglie per quanto riguarda luminosità, aspetto e modalità standby.",
     "CL_DV_WINE_day_in_advance": "# giorno prima",
-    "CL_DV_wcc_humidity_notification_content": "Ricevi una notifica se l'umidità in un compartimento scende al di sotto del 50%."
+    "CL_DV_wcc_humidity_notification_content": "Ricevi una notifica se l'umidità in un compartimento scende al di sotto del 50%.",
+    "CL_DV_wcc_offline_notification2": "Se il dispositivo rimane offline per più di 2 o 3 ore, riceverai una notifica.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Quando la modalità Sabbath è attivata, le funzioni interattive vengono limitate. Il controllo della temperatura continua automaticamente per mantenere i vini conservati in condizioni ottimali.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Imposta se il display deve bloccarsi automaticamente dopo un periodo di tempo scaduto.",
+    "CL_DV_wcc_push_to_open_content": "La porta si apre premendo in un punto qualsiasi della porta frontale in vetro.",
+    "CL_CF_AC_voice_unique_wakeup": "Risveglio unico",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Riattivazione univoca (attivata per impostazione predefinita): quando più dispositivi si trovano nello stesso ambiente, uno di essi verrà selezionato automaticamente per rispondere."
 }

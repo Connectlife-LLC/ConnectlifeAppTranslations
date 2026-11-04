@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "ゾーンを選択",
     "CL_DV_wcc_display_eu_tips": "ワインキャビネットのディスプレイ設定を、明るさ、外観、待機時間などに合わせてカスタマイズできます。",
     "CL_DV_WINE_day_in_advance": "# 前日",
-    "CL_DV_wcc_humidity_notification_content": "区画内の湿度が50%を下回った場合に通知を受け取る"
+    "CL_DV_wcc_humidity_notification_content": "区画内の湿度が50%を下回った場合に通知を受け取る",
+    "CL_DV_wcc_offline_notification2": "お使いのデバイスが2～3時間以上オフライン状態になると、通知が届きます。",
+    "CL_DV_wcc_sabbath_mode_tips2": "安息日モードが有効になっている場合、インタラクティブな機能は制限されます。温度制御は自動的に継続され、ワインを最適な状態で保存します。",
+    "CL_DV_wcc_automactic_lock_pop_content": "タイムアウト後にディスプレイを自動的にロックするかどうかを設定します。",
+    "CL_DV_wcc_push_to_open_content": "前面のガラスドアのどこかを押すとドアが開きます。",
+    "CL_CF_AC_voice_unique_wakeup": "ユニークな目覚め",
+    "CL_CF_AC_voice_unique_wakeup_tips": "ユニークウェイクアップ（デフォルトで有効）：複数のデバイスが同じ空間にある場合、応答するデバイスがインテリジェントに選択されます。"
 }

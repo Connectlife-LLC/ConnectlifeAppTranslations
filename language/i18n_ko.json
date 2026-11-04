@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "구역 선택",
     "CL_DV_wcc_display_eu_tips": "와인 캐비닛 디스플레이의 밝기, 외관 및 대기 모드를 사용자 지정하세요.",
     "CL_DV_WINE_day_in_advance": "# 하루 전",
-    "CL_DV_wcc_humidity_notification_content": "구획 내 습도가 50% 미만으로 떨어지면 알림을 받으세요."
+    "CL_DV_wcc_humidity_notification_content": "구획 내 습도가 50% 미만으로 떨어지면 알림을 받으세요.",
+    "CL_DV_wcc_offline_notification2": "기기가 2~3시간 이상 오프라인 상태인 경우 알림을 받게 됩니다.",
+    "CL_DV_wcc_sabbath_mode_tips2": "안식일 모드가 활성화되면 상호 작용 기능이 제한됩니다. 온도 제어는 자동으로 계속 작동하여 와인을 최적의 상태로 보관합니다.",
+    "CL_DV_wcc_automactic_lock_pop_content": "시간 초과 후 디스플레이가 자동으로 잠길지 여부를 설정합니다.",
+    "CL_DV_wcc_push_to_open_content": "앞쪽 유리문 아무 곳이나 누르면 문이 열립니다.",
+    "CL_CF_AC_voice_unique_wakeup": "독특한 기상",
+    "CL_CF_AC_voice_unique_wakeup_tips": "고유 웨이크업(기본적으로 활성화됨): 여러 기기가 동일한 공간에 있을 때, 하나의 기기가 지능적으로 선택되어 응답합니다."
 }

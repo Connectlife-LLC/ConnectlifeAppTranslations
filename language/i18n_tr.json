@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Bölge Seçin",
     "CL_DV_wcc_display_eu_tips": "Şarap dolabınızın ekran ayarlarını parlaklık, görünüm ve bekleme modu açısından özelleştirin.",
     "CL_DV_WINE_day_in_advance": "# gün önceden",
-    "CL_DV_wcc_humidity_notification_content": "Bir bölmedeki nem oranı %50'nin altına düştüğünde bildirim alın."
+    "CL_DV_wcc_humidity_notification_content": "Bir bölmedeki nem oranı %50'nin altına düştüğünde bildirim alın.",
+    "CL_DV_wcc_offline_notification2": "Cihazınız 2-3 saatten daha uzun süre çevrimdışı kalırsa, bir bildirim alacaksınız.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Şabat modu etkinleştirildiğinde, etkileşimli işlevler sınırlandırılır. Şaraplarınızın mükemmel şekilde saklanması için sıcaklık kontrolü otomatik olarak devam eder.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Zaman aşımı sonrasında ekranın otomatik olarak kilitlenip kilitlenmeyeceğini ayarlayın.",
+    "CL_DV_wcc_push_to_open_content": "Kapı, ön cam kapının herhangi bir yerine basılarak açılır.",
+    "CL_CF_AC_voice_unique_wakeup": "Eşsiz Uyanış",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Benzersiz Uyandırma (Varsayılan olarak etkin): Aynı alanda birden fazla cihaz bulunduğunda, yanıt vermek üzere akıllıca bir cihaz seçilir."
 }
