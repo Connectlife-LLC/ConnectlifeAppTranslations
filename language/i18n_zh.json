@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "选择区域",
     "CL_DV_wcc_display_eu_tips": "自定义酒柜显示屏的亮度、外观和待机设置。",
     "CL_DV_WINE_day_in_advance": "提前一天",
-    "CL_DV_wcc_humidity_notification_content": "如果隔间内的湿度低于 50%，您将收到通知。"
+    "CL_DV_wcc_humidity_notification_content": "如果隔间内的湿度低于 50%，您将收到通知。",
+    "CL_DV_wcc_offline_notification2": "如果您的设备离线超过 1 小时，您将收到通知。",
+    "CL_DV_wcc_sabbath_mode_tips2": "安息日模式启用后，交互功能将受到限制。温度控制将自动继续，以确保您的葡萄酒完美保存。",
+    "CL_DV_wcc_automactic_lock_pop_content": "设置显示器超时后是否自动锁定。",
+    "CL_DV_wcc_push_to_open_content": "按压前玻璃门上的任意位置即可打开门。",
+    "CL_CF_AC_voice_unique_wakeup": "独特的唤醒",
+    "CL_CF_AC_voice_unique_wakeup_tips": "独立唤醒（默认启用）：当多个设备处于同一空间时，系统将智能选择其中一个设备进行响应。"
 }

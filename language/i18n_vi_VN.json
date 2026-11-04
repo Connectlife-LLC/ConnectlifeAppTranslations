@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Chọn khu vực",
     "CL_DV_wcc_display_eu_tips": "Tùy chỉnh cài đặt hiển thị tủ rượu của bạn về độ sáng, hình thức và chế độ chờ.",
     "CL_DV_WINE_day_in_advance": "# ngày trước",
-    "CL_DV_wcc_humidity_notification_content": "Nhận thông báo nếu độ ẩm trong ngăn giảm xuống dưới 50%."
+    "CL_DV_wcc_humidity_notification_content": "Nhận thông báo nếu độ ẩm trong ngăn giảm xuống dưới 50%.",
+    "CL_DV_wcc_offline_notification2": "Nếu thiết bị của bạn ngoại tuyến quá 2 hoặc 3 giờ, bạn sẽ nhận được thông báo.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Khi chế độ Sabbath được kích hoạt, các chức năng tương tác sẽ bị hạn chế. Hệ thống kiểm soát nhiệt độ vẫn tự động hoạt động để giữ cho rượu vang của bạn được bảo quản hoàn hảo.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Thiết lập xem màn hình có tự động khóa sau khi hết thời gian chờ hay không.",
+    "CL_DV_wcc_push_to_open_content": "Cửa mở bằng cách ấn vào bất kỳ vị trí nào trên mặt kính phía trước.",
+    "CL_CF_AC_voice_unique_wakeup": "Thức dậy độc đáo",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Chức năng đánh thức đặc biệt (Mặc định): Khi có nhiều thiết bị trong cùng một không gian, một thiết bị sẽ được chọn một cách thông minh để phản hồi."
 }

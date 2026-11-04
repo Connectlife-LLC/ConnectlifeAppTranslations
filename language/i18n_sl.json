@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Izberite območje",
     "CL_DV_wcc_display_eu_tips": "Prilagodite nastavitve prikaza vinske omare glede svetlosti, videza in stanja pripravljenosti.",
     "CL_DV_WINE_day_in_advance": "# dan vnaprej",
-    "CL_DV_wcc_humidity_notification_content": "Prejmite obvestilo, če vlažnost v predelku pade pod 50 %"
+    "CL_DV_wcc_humidity_notification_content": "Prejmite obvestilo, če vlažnost v predelku pade pod 50 %",
+    "CL_DV_wcc_offline_notification2": "Če vaša naprava ostane brez povezave dlje kot 2/3 ure, boste prejeli obvestilo.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Ko je aktiviran način Sabbath (Sabbat), so interaktivne funkcije omejene. Nadzor temperature se nadaljuje samodejno, da bodo vaša vina popolnoma shranjena.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Nastavite, ali naj se zaslon po preteku časovne omejitve samodejno zaklene.",
+    "CL_DV_wcc_push_to_open_content": "Vrata se odprejo s pritiskom kjer koli na sprednjih steklenih vratih.",
+    "CL_CF_AC_voice_unique_wakeup": "Edinstveno prebujanje",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Edinstveno prebujanje (privzeto omogočeno): Ko je v istem prostoru več naprav, bo ena naprava inteligentno izbrana za odziv."
 }

@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Seleccionar zona",
     "CL_DV_wcc_display_eu_tips": "Personaliza la configuración de la pantalla de tu vinoteca en cuanto a brillo, apariencia y tiempo de espera.",
     "CL_DV_WINE_day_in_advance": "# con un día de antelación",
-    "CL_DV_wcc_humidity_notification_content": "Reciba una notificación si la humedad en un compartimento cae por debajo del 50%."
+    "CL_DV_wcc_humidity_notification_content": "Reciba una notificación si la humedad en un compartimento cae por debajo del 50%.",
+    "CL_DV_wcc_offline_notification2": "Si tu dispositivo permanece desconectado durante más de 2 o 3 horas, recibirás una notificación.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Cuando se activa el modo Sabbat, se limitan las funciones interactivas. El control de temperatura continúa automáticamente para mantener sus vinos en perfectas condiciones.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Configura si la pantalla debe bloquearse automáticamente después de un tiempo de espera.",
+    "CL_DV_wcc_push_to_open_content": "La puerta se abre presionando en cualquier parte del cristal frontal.",
+    "CL_CF_AC_voice_unique_wakeup": "Despertador único",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Activación única (habilitada por defecto): cuando hay varios dispositivos en el mismo espacio, se seleccionará de forma inteligente un dispositivo para que responda."
 }

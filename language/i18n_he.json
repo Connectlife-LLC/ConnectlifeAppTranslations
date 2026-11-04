@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "בחר אזור",
     "CL_DV_wcc_display_eu_tips": "התאם אישית את הגדרות תצוגת ארון היין שלך עבור בהירות, מראה ומצב המתנה.",
     "CL_DV_WINE_day_in_advance": "יום # מראש",
-    "CL_DV_wcc_humidity_notification_content": "קבל הודעה אם הלחות בתא יורדת מתחת ל-50%"
+    "CL_DV_wcc_humidity_notification_content": "קבל הודעה אם הלחות בתא יורדת מתחת ל-50%",
+    "CL_DV_wcc_offline_notification2": "אם המכשיר שלך נשאר במצב לא מקוון למשך יותר מ-2/3 שעות, תקבל התראה.",
+    "CL_DV_wcc_sabbath_mode_tips2": "כאשר מצב שבת מופעל, הוא מגביל את הפונקציות האינטראקטיביות. בקרת הטמפרטורה ממשיכה אוטומטית כדי לשמור על יינות מאוחסנים בצורה מושלמת.",
+    "CL_DV_wcc_automactic_lock_pop_content": "הגדר אם הצג יינעל אוטומטית לאחר תום הזמן.",
+    "CL_DV_wcc_push_to_open_content": "הדלת נפתחת על ידי לחיצה בכל מקום על דלת הזכוכית הקדמית.",
+    "CL_CF_AC_voice_unique_wakeup": "השכמה ייחודית",
+    "CL_CF_AC_voice_unique_wakeup_tips": "התעוררות ייחודית (מופעלת כברירת מחדל): כאשר מספר מכשירים נמצאים באותו חלל, מכשיר אחד ייבחר באופן חכם להגיב."
 }

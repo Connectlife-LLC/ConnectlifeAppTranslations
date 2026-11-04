@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Velg sone",
     "CL_DV_wcc_display_eu_tips": "Tilpass vinskapets displayinnstillinger for lysstyrke, utseende og standby.",
     "CL_DV_WINE_day_in_advance": "# dag i forveien",
-    "CL_DV_wcc_humidity_notification_content": "Motta et varsel hvis luftfuktigheten i et rom faller under 50 %"
+    "CL_DV_wcc_humidity_notification_content": "Motta et varsel hvis luftfuktigheten i et rom faller under 50 %",
+    "CL_DV_wcc_offline_notification2": "Hvis enheten din er frakoblet i mer enn 2/3 timer, vil du motta et varsel.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Når sabbatmodus er aktivert, begrenses interaktive funksjoner. Temperaturkontrollen fortsetter automatisk for å holde vinene dine perfekt lagret.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Angi om skjermen skal låses automatisk etter tidsavbrudd.",
+    "CL_DV_wcc_push_to_open_content": "Døren åpnes ved å trykke hvor som helst på den fremre glassdøren.",
+    "CL_CF_AC_voice_unique_wakeup": "Unik oppvåkning",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Unik oppvåkning (aktivert som standard): Når flere enheter er i samme område, vil én enhet bli intelligent valgt til å svare."
 }

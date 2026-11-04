@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Selectați zona",
     "CL_DV_wcc_display_eu_tips": "Personalizați setările de afișare ale dulapului de vinuri pentru luminozitate, aspect și standby.",
     "CL_DV_WINE_day_in_advance": "# zi înainte",
-    "CL_DV_wcc_humidity_notification_content": "Primește o notificare dacă umiditatea dintr-un compartiment scade sub 50%"
+    "CL_DV_wcc_humidity_notification_content": "Primește o notificare dacă umiditatea dintr-un compartiment scade sub 50%",
+    "CL_DV_wcc_offline_notification2": "Dacă dispozitivul rămâne offline mai mult de 2/3 ore, veți primi o notificare.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Când modul Sabbath este activat, acesta limitează funcțiile interactive. Controlul temperaturii continuă automat pentru a păstra vinurile perfect depozitate.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Setați dacă afișajul trebuie să se blocheze automat după expirarea timpului.",
+    "CL_DV_wcc_push_to_open_content": "Ușa se deschide apăsând oriunde pe ușa de sticlă frontală.",
+    "CL_CF_AC_voice_unique_wakeup": "Trezire unică",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Trezire unică (activată în mod implicit): Când mai multe dispozitive se află în același spațiu, un dispozitiv va fi selectat inteligent pentru a răspunde."
 }

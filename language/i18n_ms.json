@@ -9439,5 +9439,11 @@
     "CL_AC_select_zone": "Pilih Zon",
     "CL_DV_wcc_display_eu_tips": "Sesuaikan tetapan paparan kabinet wain anda untuk kecerahan, penampilan dan siap sedia.",
     "CL_DV_WINE_day_in_advance": "# hari lebih awal",
-    "CL_DV_wcc_humidity_notification_content": "Terima pemberitahuan jika kelembapan dalam petak jatuh di bawah 50%"
+    "CL_DV_wcc_humidity_notification_content": "Terima pemberitahuan jika kelembapan dalam petak jatuh di bawah 50%",
+    "CL_DV_wcc_offline_notification2": "Jika peranti anda berada di luar talian selama lebih daripada 2/3 jam, anda akan menerima pemberitahuan.",
+    "CL_DV_wcc_sabbath_mode_tips2": "Apabila mod Sabbath diaktifkan, ia mengehadkan fungsi interaktif. Kawalan suhu diteruskan secara automatik untuk memastikan wain anda disimpan dengan sempurna.",
+    "CL_DV_wcc_automactic_lock_pop_content": "Tetapkan sama ada paparan harus dikunci secara automatik selepas tamat masa.",
+    "CL_DV_wcc_push_to_open_content": "Pintu dibuka dengan menekan mana-mana sahaja pada pintu kaca hadapan.",
+    "CL_CF_AC_voice_unique_wakeup": "Kebangkitan Unik",
+    "CL_CF_AC_voice_unique_wakeup_tips": "Kebangkitan Unik (Didayakan secara lalai): Apabila berbilang peranti berada dalam ruang yang sama, satu peranti akan dipilih secara bijak untuk bertindak balas."
 }
