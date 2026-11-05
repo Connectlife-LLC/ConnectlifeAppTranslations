@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Stel in of het scherm automatisch moet vergrendelen na een bepaalde tijd.",
     "CL_DV_wcc_push_to_open_content": "De deur opent door ergens op de glazen voordeur te drukken.",
     "CL_CF_AC_voice_unique_wakeup": "Unieke Wake-up",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Unieke activering (standaard ingeschakeld): Wanneer meerdere apparaten zich in dezelfde ruimte bevinden, wordt er automatisch één apparaat geselecteerd om te reageren."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Unieke activering (standaard ingeschakeld): Wanneer meerdere apparaten zich in dezelfde ruimte bevinden, wordt er automatisch één apparaat geselecteerd om te reageren.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Geen gegevens beschikbaar. \n Het apparaat was offline."
 }

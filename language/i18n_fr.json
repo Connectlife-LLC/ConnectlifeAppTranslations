@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Indiquez si l'écran doit se verrouiller automatiquement après expiration du délai.",
     "CL_DV_wcc_push_to_open_content": "La porte s'ouvre en appuyant n'importe où sur la porte vitrée avant.",
     "CL_CF_AC_voice_unique_wakeup": "Réveil unique",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Réveil unique (activé par défaut) : lorsque plusieurs appareils se trouvent dans le même espace, un seul appareil sera sélectionné intelligemment pour répondre."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Réveil unique (activé par défaut) : lorsque plusieurs appareils se trouvent dans le même espace, un seul appareil sera sélectionné intelligemment pour répondre.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Aucune donnée disponible. \n L'appareil était hors ligne."
 }

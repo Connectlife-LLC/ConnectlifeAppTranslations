@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Állítsa be, hogy a kijelző automatikusan zárolódjon-e az időkorlát lejárta után.",
     "CL_DV_wcc_push_to_open_content": "Az ajtó az elülső üvegajtó bármely pontjának megnyomásával nyílik.",
     "CL_CF_AC_voice_unique_wakeup": "Egyedi ébredés",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Egyedi ébresztés (alapértelmezés szerint engedélyezve): Ha több eszköz van ugyanabban a térben, a rendszer intelligensen kiválaszt egy eszközt a válaszadásra."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Egyedi ébresztés (alapértelmezés szerint engedélyezve): Ha több eszköz van ugyanabban a térben, a rendszer intelligensen kiválaszt egy eszközt a válaszadásra.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Nincsenek elérhető adatok, \n az eszköz offline állapotban volt."
 }

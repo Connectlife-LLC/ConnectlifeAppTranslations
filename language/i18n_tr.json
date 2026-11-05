@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Zaman aşımı sonrasında ekranın otomatik olarak kilitlenip kilitlenmeyeceğini ayarlayın.",
     "CL_DV_wcc_push_to_open_content": "Kapı, ön cam kapının herhangi bir yerine basılarak açılır.",
     "CL_CF_AC_voice_unique_wakeup": "Eşsiz Uyanış",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Benzersiz Uyandırma (Varsayılan olarak etkin): Aynı alanda birden fazla cihaz bulunduğunda, yanıt vermek üzere akıllıca bir cihaz seçilir."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Benzersiz Uyandırma (Varsayılan olarak etkin): Aynı alanda birden fazla cihaz bulunduğunda, yanıt vermek üzere akıllıca bir cihaz seçilir.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Mevcut veri yok. \n Cihaz çevrimdışıydı."
 }

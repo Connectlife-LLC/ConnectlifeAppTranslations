@@ -4838,7 +4838,7 @@
     "CL_CF_WM_download_to": "下載到",
     "CL_CF_WM_in_use": "正在使用中",
     "CL_CF_AC_device_off_tips": "您的裝置已關機或離線。",
-    "CL_CF_FW_set_permission": "請先在設備上授予權限，然後再繼續。",
+    "CL_CF_FW_set_permission": "在繼續之前設定設備狀態。",
     "CL_CF_FW_afota_update_warning": "我們會定期更新您的設備，以提升功能和安全性。更新過程中您將無法使用裝置。立即更新，體驗最新改進。",
     "CL_CF_FW_afota_step1_content": "若要繼續進行韌體更新，請將裝置置於待機狀態。設備運作時無法進行韌體更新。",
     "CL_DV_WM_normal_dosage_japan_tip": "正常用量：30公升水的用量",
@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "設定顯示器逾時後是否自動鎖定。",
     "CL_DV_wcc_push_to_open_content": "按壓前玻璃門上的任何位置即可打開門。",
     "CL_CF_AC_voice_unique_wakeup": "獨特的喚醒",
-    "CL_CF_AC_voice_unique_wakeup_tips": "獨立喚醒（預設啟用）：當多個裝置處於同一空間時，系統將智慧型選擇其中一個裝置進行回應。"
+    "CL_CF_AC_voice_unique_wakeup_tips": "獨立喚醒（預設啟用）：當多個裝置處於同一空間時，系統將智慧型選擇其中一個裝置進行回應。",
+    "CL_DV_CM_energy_consumption_offline_tip": "暫無數據。 \n設備已離線。"
 }
