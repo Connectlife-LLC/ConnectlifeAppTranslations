@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Legen Sie fest, ob sich das Display nach Ablauf einer bestimmten Zeit automatisch sperren soll.",
     "CL_DV_wcc_push_to_open_content": "Die Tür lässt sich durch Drücken an einer beliebigen Stelle der vorderen Glastür öffnen.",
     "CL_CF_AC_voice_unique_wakeup": "Einzigartiges Aufwachen",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Einzigartiges Aufwecken (standardmäßig aktiviert): Befinden sich mehrere Geräte im selben Bereich, wird intelligent ein Gerät zur Reaktion ausgewählt."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Einzigartiges Aufwecken (standardmäßig aktiviert): Befinden sich mehrere Geräte im selben Bereich, wird intelligent ein Gerät zur Reaktion ausgewählt.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Keine Daten verfügbar. \n Das Gerät war offline."
 }

@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Postavite treba li se zaslon automatski zaključati nakon isteka vremena.",
     "CL_DV_wcc_push_to_open_content": "Vrata se otvaraju pritiskom bilo gdje na prednja staklena vrata.",
     "CL_CF_AC_voice_unique_wakeup": "Jedinstveno buđenje",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Jedinstveno buđenje (omogućeno prema zadanim postavkama): Kada se više uređaja nalazi u istom prostoru, jedan uređaj će biti inteligentno odabran za odgovor."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Jedinstveno buđenje (omogućeno prema zadanim postavkama): Kada se više uređaja nalazi u istom prostoru, jedan uređaj će biti inteligentno odabran za odgovor.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Nema dostupnih podataka, \n uređaj je bio izvan mreže."
 }

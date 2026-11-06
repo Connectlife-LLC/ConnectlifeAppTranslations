@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Angiv, om skærmen skal låses automatisk efter timeout.",
     "CL_DV_wcc_push_to_open_content": "Døren åbnes ved at trykke et vilkårligt sted på den forreste glasdør.",
     "CL_CF_AC_voice_unique_wakeup": "Unik opvågning",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Unik opvågning (aktiveret som standard): Når flere enheder er i samme rum, vil én enhed intelligent blive valgt til at reagere."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Unik opvågning (aktiveret som standard): Når flere enheder er i samme rum, vil én enhed intelligent blive valgt til at reagere.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Ingen data tilgængelige, \n enheden var offline."
 }

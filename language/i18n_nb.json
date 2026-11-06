@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Angi om skjermen skal låses automatisk etter tidsavbrudd.",
     "CL_DV_wcc_push_to_open_content": "Døren åpnes ved å trykke hvor som helst på den fremre glassdøren.",
     "CL_CF_AC_voice_unique_wakeup": "Unik oppvåkning",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Unik oppvåkning (aktivert som standard): Når flere enheter er i samme område, vil én enhet bli intelligent valgt til å svare."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Unik oppvåkning (aktivert som standard): Når flere enheter er i samme område, vil én enhet bli intelligent valgt til å svare.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Ingen data tilgjengelig, \n enheten var frakoblet."
 }

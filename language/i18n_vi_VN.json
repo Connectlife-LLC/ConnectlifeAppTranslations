@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Thiết lập xem màn hình có tự động khóa sau khi hết thời gian chờ hay không.",
     "CL_DV_wcc_push_to_open_content": "Cửa mở bằng cách ấn vào bất kỳ vị trí nào trên mặt kính phía trước.",
     "CL_CF_AC_voice_unique_wakeup": "Thức dậy độc đáo",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Chức năng đánh thức đặc biệt (Mặc định): Khi có nhiều thiết bị trong cùng một không gian, một thiết bị sẽ được chọn một cách thông minh để phản hồi."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Chức năng đánh thức đặc biệt (Mặc định): Khi có nhiều thiết bị trong cùng một không gian, một thiết bị sẽ được chọn một cách thông minh để phản hồi.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Không có dữ liệu nào khả dụng. \n Thiết bị đã ngoại tuyến."
 }

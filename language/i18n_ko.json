@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "시간 초과 후 디스플레이가 자동으로 잠길지 여부를 설정합니다.",
     "CL_DV_wcc_push_to_open_content": "앞쪽 유리문 아무 곳이나 누르면 문이 열립니다.",
     "CL_CF_AC_voice_unique_wakeup": "독특한 기상",
-    "CL_CF_AC_voice_unique_wakeup_tips": "고유 웨이크업(기본적으로 활성화됨): 여러 기기가 동일한 공간에 있을 때, 하나의 기기가 지능적으로 선택되어 응답합니다."
+    "CL_CF_AC_voice_unique_wakeup_tips": "고유 웨이크업(기본적으로 활성화됨): 여러 기기가 동일한 공간에 있을 때, 하나의 기기가 지능적으로 선택되어 응답합니다.",
+    "CL_DV_CM_energy_consumption_offline_tip": "사용 가능한 데이터가 없습니다. \n 기기가 오프라인 상태였습니다."
 }

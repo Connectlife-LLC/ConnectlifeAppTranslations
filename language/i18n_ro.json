@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Setați dacă afișajul trebuie să se blocheze automat după expirarea timpului.",
     "CL_DV_wcc_push_to_open_content": "Ușa se deschide apăsând oriunde pe ușa de sticlă frontală.",
     "CL_CF_AC_voice_unique_wakeup": "Trezire unică",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Trezire unică (activată în mod implicit): Când mai multe dispozitive se află în același spațiu, un dispozitiv va fi selectat inteligent pentru a răspunde."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Trezire unică (activată în mod implicit): Când mai multe dispozitive se află în același spațiu, un dispozitiv va fi selectat inteligent pentru a răspunde.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Nu există date disponibile, \n dispozitivul era offline."
 }

@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Aseta, lukittuuko näyttö automaattisesti aikakatkaisun jälkeen.",
     "CL_DV_wcc_push_to_open_content": "Luukku avautuu painamalla mitä tahansa kohtaa etulasin luukussa.",
     "CL_CF_AC_voice_unique_wakeup": "Ainutlaatuinen herätys",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Yksilöllinen herätys (oletusarvoisesti käytössä): Kun samassa tilassa on useita laitteita, yksi laite valitaan älykkäästi reagoimaan."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Yksilöllinen herätys (oletusarvoisesti käytössä): Kun samassa tilassa on useita laitteita, yksi laite valitaan älykkäästi reagoimaan.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Ei tietoja saatavilla, \n laite oli offline-tilassa."
 }

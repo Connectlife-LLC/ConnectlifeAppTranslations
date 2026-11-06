@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Nastavenie, či sa má displej automaticky uzamknúť po uplynutí časového limitu.",
     "CL_DV_wcc_push_to_open_content": "Dvere sa otvoria stlačením kdekoľvek na predných sklenených dvierkach.",
     "CL_CF_AC_voice_unique_wakeup": "Jedinečné prebudenie",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Unikátne prebudenie (predvolene povolené): Keď sa v rovnakom priestore nachádza viacero zariadení, jedno zariadenie bude inteligentne vybrané, aby reagovalo."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Unikátne prebudenie (predvolene povolené): Keď sa v rovnakom priestore nachádza viacero zariadení, jedno zariadenie bude inteligentne vybrané, aby reagovalo.",
+    "CL_DV_CM_energy_consumption_offline_tip": "Nie sú k dispozícii žiadne údaje, \n zariadenie bolo offline."
 }

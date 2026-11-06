@@ -4838,7 +4838,7 @@
     "CL_CF_WM_download_to": "下载至",
     "CL_CF_WM_in_use": "使用中",
     "CL_CF_AC_device_off_tips": "您的设备已关闭或离线。",
-    "CL_CF_FW_set_permission": "继续之前请先设置设备权限。",
+    "CL_CF_FW_set_permission": "继续之前请先设置设备状态。",
     "CL_CF_FW_afota_update_warning": "我们会定期更新您的设备，以提升功能和安全性。更新期间您将无法使用设备。立即更新以获取最新改进。",
     "CL_CF_FW_afota_step1_content": "要继续固件更新，请让设备待机。设备运行时无法进行固件更新。",
     "CL_DV_WM_normal_dosage_japan_tip": "常规用量：30L水用量",
@@ -6978,7 +6978,7 @@
     "CL_DV_DW_dw_auto_start": "洗碗机自动启动",
     "CL_DV_DW_xx_auto_start": "{1}自动启动",
     "CL_DV_DW_dw_auto_start_desc": "洗碗机自动启动功能会在每天同一时间自动运行您选择的程序，让您无需手动启动。为了您的方便和安全，洗碗机仅在过去 18 小时内门被打开过的情况下才会启动。如果在此期间门未被打开，则当天的自动启动程序将不会运行。\n要使自动启动程序能够运行，必须启用永久远程启动。",
-    "CL_AC_auto_defrost_title": "自动除霜清洁",
+    "CL_AC_auto_defrost_title": "自动解冻清洁",
     "CL_AC_auto_defrost_time": "累计运行时间",
     "CL_AC_work_time": "工作时间",
     "CL_CF_CS_dehumidifier_cs_panel_2_staep_1": "按住 #### 按钮约 3-6 秒，直到听到哔声。",
@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "设置显示器超时后是否自动锁定。",
     "CL_DV_wcc_push_to_open_content": "按压前玻璃门上的任意位置即可打开门。",
     "CL_CF_AC_voice_unique_wakeup": "独特的唤醒",
-    "CL_CF_AC_voice_unique_wakeup_tips": "独立唤醒（默认启用）：当多个设备处于同一空间时，系统将智能选择其中一个设备进行响应。"
+    "CL_CF_AC_voice_unique_wakeup_tips": "独立唤醒（默认启用）：当多个设备处于同一空间时，系统将智能选择其中一个设备进行响应。",
+    "CL_DV_CM_energy_consumption_offline_tip": "暂无数据。 \n设备已离线。"
 }

@@ -9445,5 +9445,6 @@
     "CL_DV_wcc_automactic_lock_pop_content": "Configura si la pantalla debe bloquearse automáticamente después de un tiempo de espera.",
     "CL_DV_wcc_push_to_open_content": "La puerta se abre presionando en cualquier parte del cristal frontal.",
     "CL_CF_AC_voice_unique_wakeup": "Despertador único",
-    "CL_CF_AC_voice_unique_wakeup_tips": "Activación única (habilitada por defecto): cuando hay varios dispositivos en el mismo espacio, se seleccionará de forma inteligente un dispositivo para que responda."
+    "CL_CF_AC_voice_unique_wakeup_tips": "Activación única (habilitada por defecto): cuando hay varios dispositivos en el mismo espacio, se seleccionará de forma inteligente un dispositivo para que responda.",
+    "CL_DV_CM_energy_consumption_offline_tip": "No hay datos disponibles. \n El dispositivo estaba desconectado."
 }
