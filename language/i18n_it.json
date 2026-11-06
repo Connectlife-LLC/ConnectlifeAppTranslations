@@ -9446,5 +9446,10 @@
     "CL_DV_wcc_push_to_open_content": "La porta si apre premendo in un punto qualsiasi della porta frontale in vetro.",
     "CL_CF_AC_voice_unique_wakeup": "Risveglio unico",
     "CL_CF_AC_voice_unique_wakeup_tips": "Riattivazione univoca (attivata per impostazione predefinita): quando più dispositivi si trovano nello stesso ambiente, uno di essi verrà selezionato automaticamente per rispondere.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Nessun dato disponibile, \n Il dispositivo era offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "Nessun dato disponibile, \n Il dispositivo era offline.",
+    "CL_DV_RF_holiday_mode_pop": "La modalità Vacanza è ideale per le vacanze o quando il frigorifero non viene utilizzato. Imposta la temperatura del vano frigorifero a un livello più elevato, quindi si consiglia di non riporvi alimenti prima di attivarla.",
+    "CL_DV_RF_close_holiday_mode": "Disattiva prima la modalità vacanza.",
+    "CL_DV_RF_exit_holiday_mode": "Esci dalla modalità Vacanza",
+    "restricted_country_title": "Avviso importante",
+    "restricted_country_desc": "I servizi ConnectLife verranno interrotti nella tua regione e non saranno più supportati.\n\nGli utenti già registrati potrebbero riscontrare un accesso limitato o non disponibile ad alcune funzionalità. Le informazioni relative ai dati personali e ai diritti in materia di privacy applicabili rimangono disponibili nella nostra Informativa sulla privacy.\n\nPer ulteriore assistenza, si prega di contattare il servizio clienti.\n\nGrazie per la comprensione."
 }

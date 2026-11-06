@@ -9446,5 +9446,10 @@
     "CL_DV_wcc_push_to_open_content": "Dvere sa otvoria stlačením kdekoľvek na predných sklenených dvierkach.",
     "CL_CF_AC_voice_unique_wakeup": "Jedinečné prebudenie",
     "CL_CF_AC_voice_unique_wakeup_tips": "Unikátne prebudenie (predvolene povolené): Keď sa v rovnakom priestore nachádza viacero zariadení, jedno zariadenie bude inteligentne vybrané, aby reagovalo.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Nie sú k dispozícii žiadne údaje, \n zariadenie bolo offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "Nie sú k dispozícii žiadne údaje, \n zariadenie bolo offline.",
+    "CL_DV_RF_holiday_mode_pop": "Režim Dovolenka je vhodný na dovolenky alebo keď nie je chladnička obsadená. Nastaví chladničku na vyššiu teplotu, preto sa neodporúča najskôr vkladať potraviny do nej.",
+    "CL_DV_RF_close_holiday_mode": "Najprv vypnite režim Dovolenka.",
+    "CL_DV_RF_exit_holiday_mode": "Ukončenie režimu Dovolenka",
+    "restricted_country_title": "Dôležité oznámenie",
+    "restricted_country_desc": "Služby ConnectLife sa vo vašom regióne rušia a už nie sú podporované.\n\nExistujúci používatelia môžu mať obmedzený alebo nedostupný prístup k určitým funkciám. Informácie týkajúce sa vašich osobných údajov a príslušných práv na ochranu osobných údajov zostávajú k dispozícii v našich Zásadách ochrany osobných údajov.\n\nPre ďalšiu pomoc kontaktujte zákaznícku podporu.\n\nĎakujeme za pochopenie."
 }

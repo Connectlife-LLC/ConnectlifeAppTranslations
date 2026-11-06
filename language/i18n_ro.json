@@ -9446,5 +9446,10 @@
     "CL_DV_wcc_push_to_open_content": "Ușa se deschide apăsând oriunde pe ușa de sticlă frontală.",
     "CL_CF_AC_voice_unique_wakeup": "Trezire unică",
     "CL_CF_AC_voice_unique_wakeup_tips": "Trezire unică (activată în mod implicit): Când mai multe dispozitive se află în același spațiu, un dispozitiv va fi selectat inteligent pentru a răspunde.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Nu există date disponibile, \n dispozitivul era offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "Nu există date disponibile, \n dispozitivul era offline.",
+    "CL_DV_RF_holiday_mode_pop": "Modul Vacanță este potrivit pentru vacanțe sau atunci când frigiderul este liber. Acesta setează compartimentul frigiderului la o temperatură mai ridicată, așa că se recomandă să nu depozitați alimente în interior mai întâi.",
+    "CL_DV_RF_close_holiday_mode": "Vă rugăm să dezactivați mai întâi modul Vacanță.",
+    "CL_DV_RF_exit_holiday_mode": "Ieșiți din modul Vacanță",
+    "restricted_country_title": "Notificare importantă",
+    "restricted_country_desc": "Serviciile ConnectLife sunt retrase în regiunea dvs. și nu mai sunt acceptate.\n\nUtilizatorii existenți pot avea acces limitat sau indisponibil la anumite funcționalități. Informațiile privind datele dumneavoastră cu caracter personal și drepturile de confidențialitate aplicabile rămân disponibile prin intermediul Politicii noastre de confidențialitate.\n\nPentru asistență suplimentară, vă rugăm să contactați serviciul de asistență pentru clienți.\n\nVă mulțumim pentru înțelegere."
 }

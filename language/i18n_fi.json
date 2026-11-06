@@ -9446,5 +9446,10 @@
     "CL_DV_wcc_push_to_open_content": "Luukku avautuu painamalla mitä tahansa kohtaa etulasin luukussa.",
     "CL_CF_AC_voice_unique_wakeup": "Ainutlaatuinen herätys",
     "CL_CF_AC_voice_unique_wakeup_tips": "Yksilöllinen herätys (oletusarvoisesti käytössä): Kun samassa tilassa on useita laitteita, yksi laite valitaan älykkäästi reagoimaan.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Ei tietoja saatavilla, \n laite oli offline-tilassa."
+    "CL_DV_CM_energy_consumption_offline_tip": "Ei tietoja saatavilla, \n laite oli offline-tilassa.",
+    "CL_DV_RF_holiday_mode_pop": "Lomatila sopii lomille tai kun jääkaappi on tyhjillään. Se asettaa jääkaapin osaston korkeampaan lämpötilaan, joten on suositeltavaa olla laittamatta ruokaa jääkaappiin ensin.",
+    "CL_DV_RF_close_holiday_mode": "Sammuta ensin lomatila.",
+    "CL_DV_RF_exit_holiday_mode": "Poistu lomatilasta",
+    "restricted_country_title": "Tärkeä ilmoitus",
+    "restricted_country_desc": "ConnectLife-palvelut lopetetaan alueellasi, eikä niitä enää tueta.\n\nNykyisillä käyttäjillä voi olla rajoitettu tai ei-pääsy tiettyihin toimintoihin. Tietoja henkilötiedoistasi ja sovellettavista tietosuojaoikeuksistasi on saatavilla tietosuojakäytännössämme.\n\nJos tarvitset lisäapua, ota yhteyttä asiakastukeen.\n\nKiitos ymmärryksestäsi."
 }
