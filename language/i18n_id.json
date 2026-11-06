@@ -9446,5 +9446,10 @@
     "CL_DV_wcc_push_to_open_content": "Pintu dapat dibuka dengan menekan bagian mana saja pada pintu kaca depan.",
     "CL_CF_AC_voice_unique_wakeup": "Bangun Tidur yang Unik",
     "CL_CF_AC_voice_unique_wakeup_tips": "Pengaktifan Unik (Diaktifkan secara default): Ketika beberapa perangkat berada di ruangan yang sama, satu perangkat akan dipilih secara cerdas untuk merespons.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Tidak ada data yang tersedia. \n Perangkat sedang offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "Tidak ada data yang tersedia. \n Perangkat sedang offline.",
+    "CL_DV_RF_holiday_mode_pop": "Mode Liburan cocok untuk liburan atau saat kulkas tidak digunakan. Mode ini mengatur suhu kompartemen kulkas ke suhu yang lebih tinggi, jadi disarankan untuk tidak menyimpan makanan di dalamnya terlebih dahulu.",
+    "CL_DV_RF_close_holiday_mode": "Harap matikan mode Liburan terlebih dahulu.",
+    "CL_DV_RF_exit_holiday_mode": "Keluar dari mode Liburan",
+    "restricted_country_title": "Pemberitahuan Penting",
+    "restricted_country_desc": "Layanan ConnectLife dihentikan di wilayah Anda dan tidak lagi didukung.\n\nPengguna yang sudah ada mungkin mengalami keterbatasan atau ketidaktersediaan akses ke fungsi tertentu. Informasi mengenai data pribadi Anda dan hak privasi yang berlaku tetap tersedia melalui Kebijakan Privasi kami.\n\nUntuk bantuan lebih lanjut, silakan hubungi dukungan pelanggan.\n\nTerima kasih atas pengertian Anda."
 }

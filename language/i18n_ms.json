@@ -9446,5 +9446,10 @@
     "CL_DV_wcc_push_to_open_content": "Pintu dibuka dengan menekan mana-mana sahaja pada pintu kaca hadapan.",
     "CL_CF_AC_voice_unique_wakeup": "Kebangkitan Unik",
     "CL_CF_AC_voice_unique_wakeup_tips": "Kebangkitan Unik (Didayakan secara lalai): Apabila berbilang peranti berada dalam ruang yang sama, satu peranti akan dipilih secara bijak untuk bertindak balas.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Tiada data tersedia, \n peranti berada di luar talian."
+    "CL_DV_CM_energy_consumption_offline_tip": "Tiada data tersedia, \n peranti berada di luar talian.",
+    "CL_DV_RF_holiday_mode_pop": "Mod Percutian sesuai untuk percutian atau apabila peti sejuk kosong. Ia menetapkan petak peti sejuk kepada suhu yang lebih tinggi, jadi dinasihatkan untuk tidak menyimpan makanan di dalamnya terlebih dahulu.",
+    "CL_DV_RF_close_holiday_mode": "Sila matikan mod Cuti dahulu.",
+    "CL_DV_RF_exit_holiday_mode": "Keluar dari mod Cuti",
+    "restricted_country_title": "Notis Penting",
+    "restricted_country_desc": "Perkhidmatan ConnectLife sedang dihentikan di rantau anda dan tidak lagi disokong.\n\nPengguna sedia ada mungkin mengalami akses terhad atau tidak tersedia kepada fungsi tertentu. Maklumat mengenai data peribadi anda dan hak privasi yang berkenaan masih tersedia melalui Dasar Privasi kami.\n\nUntuk bantuan tambahan, sila hubungi khidmat pelanggan.\n\nTerima kasih atas pemahaman anda."
 }
