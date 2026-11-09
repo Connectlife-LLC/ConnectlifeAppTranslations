@@ -9446,5 +9446,15 @@
     "CL_DV_wcc_push_to_open_content": "De deur opent door ergens op de glazen voordeur te drukken.",
     "CL_CF_AC_voice_unique_wakeup": "Unieke Wake-up",
     "CL_CF_AC_voice_unique_wakeup_tips": "Unieke activering (standaard ingeschakeld): Wanneer meerdere apparaten zich in dezelfde ruimte bevinden, wordt er automatisch één apparaat geselecteerd om te reageren.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Geen gegevens beschikbaar. \n Het apparaat was offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "Geen gegevens beschikbaar. \n Het apparaat was offline.",
+    "CL_DV_RF_holiday_mode_pop": "De vakantiemodus is geschikt voor vakanties of wanneer de koelkast niet in gebruik is. De temperatuur in het koelgedeelte wordt dan hoger ingesteld, waardoor het raadzaam is om er geen voedsel in te bewaren.",
+    "CL_DV_RF_close_holiday_mode": "Schakel eerst de vakantiemodus uit.",
+    "CL_DV_RF_exit_holiday_mode": "Vakantiemodus verlaten",
+    "restricted_country_title": "Belangrijke mededeling",
+    "restricted_country_desc": "De ConnectLife-diensten worden in uw regio stopgezet en worden niet langer ondersteund.\n\nBestaande gebruikers kunnen beperkte of geen toegang hebben tot bepaalde functionaliteiten. Informatie over uw persoonsgegevens en de toepasselijke privacyrechten blijft beschikbaar in ons privacybeleid.\n\nVoor verdere hulp kunt u contact opnemen met de klantenservice.\n\nBedankt voor uw begrip.",
+    "CL_DV_wcc_choose_zone_title": "Kies zone(s)",
+    "CL_DV_wcc_choose_zones_subtitle": "Selecteer de zone(s) waar deze modus moet worden toegepast:",
+    "CL_DV_wcc_guide_use_this_mode": "Gebruik deze modus",
+    "CL_product_security": "Productbeveiliging",
+    "CL_vulnerability_disclosure_notification": "Melding van kwetsbaarheid"
 }

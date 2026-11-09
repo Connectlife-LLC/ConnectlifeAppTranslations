@@ -9446,5 +9446,15 @@
     "CL_DV_wcc_push_to_open_content": "הדלת נפתחת על ידי לחיצה בכל מקום על דלת הזכוכית הקדמית.",
     "CL_CF_AC_voice_unique_wakeup": "השכמה ייחודית",
     "CL_CF_AC_voice_unique_wakeup_tips": "התעוררות ייחודית (מופעלת כברירת מחדל): כאשר מספר מכשירים נמצאים באותו חלל, מכשיר אחד ייבחר באופן חכם להגיב.",
-    "CL_DV_CM_energy_consumption_offline_tip": "אין נתונים זמינים, \n המכשיר היה לא מקוון."
+    "CL_DV_CM_energy_consumption_offline_tip": "אין נתונים זמינים, \n המכשיר היה לא מקוון.",
+    "CL_DV_RF_holiday_mode_pop": "מצב חופשה מתאים לחופשות או כאשר המקרר אינו בשימוש. הוא מגדיר את תא המקרר לטמפרטורה גבוהה יותר, לכן מומלץ לא לאחסן מזון בתוכו תחילה.",
+    "CL_DV_RF_close_holiday_mode": "אנא כבה תחילה את מצב החגים.",
+    "CL_DV_RF_exit_holiday_mode": "יציאה ממצב חג",
+    "restricted_country_title": "הודעה חשובה",
+    "restricted_country_desc": "שירותי ConnectLife מופסקים באזור שלך והם אינם נתמכים עוד.\n\nייתכן שמשתמשים קיימים יחוו גישה מוגבלת או לא זמינה לפונקציות מסוימות. מידע בנוגע לנתונים האישיים שלך ולזכויות הפרטיות הרלוונטיות שלך ימשיך להיות זמין דרך מדיניות הפרטיות שלנו.\n\nלסיוע נוסף, אנא צרו קשר עם תמיכת הלקוחות.\n\nתודה על ההבנה.",
+    "CL_DV_wcc_choose_zone_title": "בחר אזור/ים",
+    "CL_DV_wcc_choose_zones_subtitle": "בחר את האזור/ים שבהם יש להחיל מצב זה:",
+    "CL_DV_wcc_guide_use_this_mode": "השתמש במצב זה",
+    "CL_product_security": "אבטחת מוצר",
+    "CL_vulnerability_disclosure_notification": "הודעת גילוי פגיעות"
 }

@@ -9446,5 +9446,15 @@
     "CL_DV_wcc_push_to_open_content": "La porte s'ouvre en appuyant n'importe où sur la porte vitrée avant.",
     "CL_CF_AC_voice_unique_wakeup": "Réveil unique",
     "CL_CF_AC_voice_unique_wakeup_tips": "Réveil unique (activé par défaut) : lorsque plusieurs appareils se trouvent dans le même espace, un seul appareil sera sélectionné intelligemment pour répondre.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Aucune donnée disponible. \n L'appareil était hors ligne."
+    "CL_DV_CM_energy_consumption_offline_tip": "Aucune donnée disponible. \n L'appareil était hors ligne.",
+    "CL_DV_RF_holiday_mode_pop": "Le mode Vacances est idéal pendant les vacances ou lorsque le réfrigérateur est inoccupé. Il règle la température du compartiment réfrigérateur à une valeur plus élevée ; il est donc conseillé de ne pas y entreposer d'aliments au préalable.",
+    "CL_DV_RF_close_holiday_mode": "Veuillez d'abord désactiver le mode vacances.",
+    "CL_DV_RF_exit_holiday_mode": "Quitter le mode vacances",
+    "restricted_country_title": "Avis important",
+    "restricted_country_desc": "Les services ConnectLife sont interrompus dans votre région et ne sont plus pris en charge.\n\nLes utilisateurs existants pourraient rencontrer des difficultés d'accès à certaines fonctionnalités, voire une indisponibilité. Pour plus d'informations sur vos données personnelles et vos droits en matière de protection de la vie privée, veuillez consulter notre Politique de confidentialité.\n\nPour obtenir une assistance supplémentaire, veuillez contacter le service client.\n\nMerci pour votre compréhension.",
+    "CL_DV_wcc_choose_zone_title": "Choisissez la ou les zones",
+    "CL_DV_wcc_choose_zones_subtitle": "Choisissez la ou les zones où ce mode doit être appliqué :",
+    "CL_DV_wcc_guide_use_this_mode": "Utilisez ce mode",
+    "CL_product_security": "Sécurité des produits",
+    "CL_vulnerability_disclosure_notification": "Notification de divulgation de vulnérabilité"
 }

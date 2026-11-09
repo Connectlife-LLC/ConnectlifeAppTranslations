@@ -9446,5 +9446,15 @@
     "CL_DV_wcc_push_to_open_content": "Dörren öppnas genom att trycka var som helst på den främre glasdörren.",
     "CL_CF_AC_voice_unique_wakeup": "Unik väckning",
     "CL_CF_AC_voice_unique_wakeup_tips": "Unik väckning (aktiverad som standard): När flera enheter finns i samma utrymme väljs en enhet intelligent ut för att svara.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Inga data tillgängliga, \n enheten var offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "Inga data tillgängliga, \n enheten var offline.",
+    "CL_DV_RF_holiday_mode_pop": "Semesterläget är lämpligt för semestrar eller när kylskåpet inte är uppe. Det ställer in kylfacket på en högre temperatur, så det rekommenderas att inte förvara mat inuti först.",
+    "CL_DV_RF_close_holiday_mode": "Stäng av semesterläget först.",
+    "CL_DV_RF_exit_holiday_mode": "Avsluta semesterläge",
+    "restricted_country_title": "Viktigt meddelande",
+    "restricted_country_desc": "ConnectLife-tjänsterna upphör i din region och stöds inte längre.\n\nBefintliga användare kan uppleva begränsad eller otillgänglig åtkomst till vissa funktioner. Information om dina personuppgifter och tillämpliga integritetsrättigheter finns fortfarande tillgänglig via vår integritetspolicy.\n\nFör ytterligare hjälp, vänligen kontakta kundsupporten.\n\nTack för din förståelse.",
+    "CL_DV_wcc_choose_zone_title": "Välj zon(er)",
+    "CL_DV_wcc_choose_zones_subtitle": "Välj den/de zon(er) där detta läge ska tillämpas:",
+    "CL_DV_wcc_guide_use_this_mode": "Använd det här läget",
+    "CL_product_security": "Produktsäkerhet",
+    "CL_vulnerability_disclosure_notification": "Meddelande om sårbarhetsinformation"
 }

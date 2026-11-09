@@ -9446,5 +9446,15 @@
     "CL_DV_wcc_push_to_open_content": "Vrata se otvaraju pritiskom bilo gdje na prednja staklena vrata.",
     "CL_CF_AC_voice_unique_wakeup": "Jedinstveno buđenje",
     "CL_CF_AC_voice_unique_wakeup_tips": "Jedinstveno buđenje (omogućeno prema zadanim postavkama): Kada se više uređaja nalazi u istom prostoru, jedan uređaj će biti inteligentno odabran za odgovor.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Nema dostupnih podataka, \n uređaj je bio izvan mreže."
+    "CL_DV_CM_energy_consumption_offline_tip": "Nema dostupnih podataka, \n uređaj je bio izvan mreže.",
+    "CL_DV_RF_holiday_mode_pop": "Način rada za praznike prikladan je za odmore ili kada hladnjak nije zauzet. Postavlja odjeljak hladnjaka na višu temperaturu, stoga se preporučuje da prvo ne pohranjujete hranu unutra.",
+    "CL_DV_RF_close_holiday_mode": "Prvo isključite način rada za praznike.",
+    "CL_DV_RF_exit_holiday_mode": "Izlaz iz načina rada za praznike",
+    "restricted_country_title": "Važna obavijest",
+    "restricted_country_desc": "Usluge ConnectLifea se ukidaju u vašoj regiji i više nisu podržane.\n\nPostojeći korisnici mogu imati ograničen ili nedostupan pristup određenim funkcionalnostima. Informacije o vašim osobnim podacima i primjenjivim pravima na privatnost ostaju dostupne putem naših Pravila o privatnosti.\n\nZa dodatnu pomoć, obratite se korisničkoj podršci.\n\nHvala vam na razumijevanju.",
+    "CL_DV_wcc_choose_zone_title": "Odaberite zonu(e)",
+    "CL_DV_wcc_choose_zones_subtitle": "Odaberite zonu(e) gdje treba primijeniti ovaj način rada:",
+    "CL_DV_wcc_guide_use_this_mode": "Koristite ovaj način rada",
+    "CL_product_security": "Sigurnost proizvoda",
+    "CL_vulnerability_disclosure_notification": "Obavijest o otkrivanju ranjivosti"
 }

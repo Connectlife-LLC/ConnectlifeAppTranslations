@@ -9446,5 +9446,15 @@
     "CL_DV_wcc_push_to_open_content": "Die Tür lässt sich durch Drücken an einer beliebigen Stelle der vorderen Glastür öffnen.",
     "CL_CF_AC_voice_unique_wakeup": "Einzigartiges Aufwachen",
     "CL_CF_AC_voice_unique_wakeup_tips": "Einzigartiges Aufwecken (standardmäßig aktiviert): Befinden sich mehrere Geräte im selben Bereich, wird intelligent ein Gerät zur Reaktion ausgewählt.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Keine Daten verfügbar. \n Das Gerät war offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "Keine Daten verfügbar. \n Das Gerät war offline.",
+    "CL_DV_RF_holiday_mode_pop": "Der Urlaubsmodus eignet sich für Urlaubsreisen oder wenn der Kühlschrank unbenutzt ist. Er stellt die Temperatur im Kühlfach höher ein, daher wird empfohlen, vorher keine Lebensmittel einzulagern.",
+    "CL_DV_RF_close_holiday_mode": "Bitte schalten Sie zuerst den Urlaubsmodus aus.",
+    "CL_DV_RF_exit_holiday_mode": "Urlaubsmodus beenden",
+    "restricted_country_title": "Wichtiger Hinweis",
+    "restricted_country_desc": "Die ConnectLife-Dienste werden in Ihrer Region eingestellt und nicht mehr unterstützt.\n\nBestehende Nutzer haben möglicherweise eingeschränkten oder keinen Zugriff auf bestimmte Funktionen. Informationen zu Ihren personenbezogenen Daten und Ihren geltenden Datenschutzrechten finden Sie weiterhin in unserer Datenschutzerklärung.\n\nFür weitere Unterstützung wenden Sie sich bitte an den Kundendienst.\n\nVielen Dank für Ihr Verständnis.",
+    "CL_DV_wcc_choose_zone_title": "Zone(n) auswählen",
+    "CL_DV_wcc_choose_zones_subtitle": "Wählen Sie die Zone(n) aus, in der/denen dieser Modus angewendet werden soll:",
+    "CL_DV_wcc_guide_use_this_mode": "Verwenden Sie diesen Modus",
+    "CL_product_security": "Produktsicherheit",
+    "CL_vulnerability_disclosure_notification": "Benachrichtigung über die Offenlegung von Sicherheitslücken"
 }

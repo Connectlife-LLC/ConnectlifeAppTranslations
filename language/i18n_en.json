@@ -9251,7 +9251,7 @@
     "laundry_pick_up_tips": "Your clothes are ready! Grab them before they wrinkle!",
     "CL_DV_OV_est_duration": "Est. duration",
     "CL_DV_OV_est_preheat": "Est. Preheat",
-    "setting_remote_hold_desc": "With Stay Connected, you can control the washing machine remotely within 24 hours after the cycle ends.",
+    "setting_remote_hold_desc": "With Stay Connected, you can control the machine remotely within 24 hours after the cycle ends.",
     "CL_Energy_optimizer_card_subtitle": "Optimize energy based on dynamic tariff excess solar energy",
     "CL_CF_energy_ai_eco_action_desc": "Reduce power consumption by enabling Adaptive Energy mode.",
     "CL_CF_energy_ai_eco_new_desc": "Reduce power consumption by enabling Adaptive Energy mode of your appliances.",
@@ -9446,5 +9446,15 @@
     "CL_DV_wcc_push_to_open_content": "The door opens by pressing anywhere on the front glass door.",
     "CL_CF_AC_voice_unique_wakeup": "Unique Wake-up",
     "CL_CF_AC_voice_unique_wakeup_tips": "Unique Wake-up (Enabled by default): When multiple devices are in the same space, one device will be intelligently selected to respond.",
-    "CL_DV_CM_energy_consumption_offline_tip": "No data available, \ndevice was offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "No data available, \ndevice was offline.",
+    "CL_DV_RF_holiday_mode_pop": "Holiday Mode is suitable for vacations or when the fridge is unoccupied. It sets the fridge compartment to a higher temperature, so it is advised not to store food inside first.",
+    "CL_DV_RF_close_holiday_mode": "Please turn off Holiday mode first.",
+    "CL_DV_RF_exit_holiday_mode": "Exit Holiday mode",
+    "restricted_country_title": "Important Notice",
+    "restricted_country_desc": "ConnectLife services are being discontinued in your region and are no longer supported.\n\nExisting users may experience limited or unavailable access to certain functionalities. Information regarding your personal data and applicable privacy rights remains available through our Privacy Policy.\n\nFor additional assistance, please contact customer support.\n\nThank you for your understanding.",
+    "CL_DV_wcc_choose_zone_title": "Choose zone(s)",
+    "CL_DV_wcc_choose_zones_subtitle": "Choose the zone(s) where this mode should be applied:",
+    "CL_DV_wcc_guide_use_this_mode": "Use this mode",
+    "CL_product_security": "Product Security",
+    "CL_vulnerability_disclosure_notification": "Vulnerability Disclosure Notification"
 }

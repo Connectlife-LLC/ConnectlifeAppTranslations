@@ -9446,5 +9446,15 @@
     "CL_DV_wcc_push_to_open_content": "按壓前玻璃門上的任何位置即可打開門。",
     "CL_CF_AC_voice_unique_wakeup": "獨特的喚醒",
     "CL_CF_AC_voice_unique_wakeup_tips": "獨立喚醒（預設啟用）：當多個裝置處於同一空間時，系統將智慧型選擇其中一個裝置進行回應。",
-    "CL_DV_CM_energy_consumption_offline_tip": "暫無數據。 \n設備已離線。"
+    "CL_DV_CM_energy_consumption_offline_tip": "暫無數據。 \n設備已離線。",
+    "CL_DV_RF_holiday_mode_pop": "假日模式適用於度假或冰箱無人使用時。此模式會將冰箱冷藏室的溫度調高，因此建議不要先在冷藏室內存放食物。",
+    "CL_DV_RF_close_holiday_mode": "請先關閉假日模式。",
+    "CL_DV_RF_exit_holiday_mode": "退出假日模式",
+    "restricted_country_title": "重要通知",
+    "restricted_country_desc": "ConnectLife 服務將在您所在的地區停止服務，不再提供支援。\n\n現有使用者可能會遇到某些功能存取受限或無法使用的情況。有關您的個人資料和適用隱私權的信息，請參閱我們的隱私權政策。\n\n如需更多協助，請聯絡客戶支援。\n\n感謝您的體諒。",
+    "CL_DV_wcc_choose_zone_title": "選擇區域",
+    "CL_DV_wcc_choose_zones_subtitle": "選擇要套用此模式的區域：",
+    "CL_DV_wcc_guide_use_this_mode": "使用此模式",
+    "CL_product_security": "產品安全",
+    "CL_vulnerability_disclosure_notification": "漏洞揭露通知"
 }
