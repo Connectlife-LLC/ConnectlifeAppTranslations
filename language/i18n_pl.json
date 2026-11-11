@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "Drzwi otwierają się po naciśnięciu dowolnego miejsca na przednich szklanych drzwiach.",
     "CL_CF_AC_voice_unique_wakeup": "Niepowtarzalne przebudzenie",
     "CL_CF_AC_voice_unique_wakeup_tips": "Unikalne wybudzanie (domyślnie włączone): Gdy w tej samej przestrzeni znajduje się kilka urządzeń, jedno z nich zostanie inteligentnie wybrane do reakcji.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Brak dostępnych danych, \n urządzenie było offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "Brak dostępnych danych, \n urządzenie było offline.",
+    "CL_DV_RF_holiday_mode_pop": "Tryb wakacyjny jest odpowiedni na wakacje lub gdy lodówka jest pusta. Ustawia komorę lodówki na wyższą temperaturę, dlatego zaleca się, aby nie przechowywać w niej żywności przed jej włożeniem.",
+    "CL_DV_RF_close_holiday_mode": "Wyłącz najpierw tryb wakacyjny.",
+    "CL_DV_RF_exit_holiday_mode": "Wyjdź z trybu wakacyjnego",
+    "restricted_country_title": "Ważna informacja",
+    "restricted_country_desc": "Usługi ConnectLife zostaną wycofane w Twoim regionie i nie będą już obsługiwane.\n\nObecni użytkownicy mogą mieć ograniczony lub niedostępny dostęp do niektórych funkcji. Informacje dotyczące Twoich danych osobowych i obowiązujących praw dotyczących prywatności są nadal dostępne w naszej Polityce Prywatności.\n\nAby uzyskać dodatkową pomoc, skontaktuj się z obsługą klienta.\n\nDziękujemy za zrozumienie.",
+    "CL_DV_wcc_choose_zone_title": "Wybierz strefę(y)",
+    "CL_DV_wcc_choose_zones_subtitle": "Wybierz strefę(y), w których ten tryb ma być stosowany:",
+    "CL_DV_wcc_guide_use_this_mode": "Użyj tego trybu",
+    "CL_product_security": "Bezpieczeństwo produktu",
+    "CL_vulnerability_disclosure_notification": "Powiadomienie o ujawnieniu luk w zabezpieczeniach",
+    "CL_DISH_DESIGNER_completed": "Zakończony",
+    "CL_DISH_DESIGNER_removing_steam": "Usuwanie pary",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Ten piekarnik nie obsługuje ustawień grzania podanych w tym przepisie.",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "Program uruchomi się automatycznie po włożeniu potrawy do piekarnika i zamknięciu drzwiczek.",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Po zakończeniu nagrzewania włóż potrawę do piekarnika i zamknij drzwiczki. Następny program uruchomi się automatycznie."
 }

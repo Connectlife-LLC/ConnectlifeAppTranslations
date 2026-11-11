@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "Cửa mở bằng cách ấn vào bất kỳ vị trí nào trên mặt kính phía trước.",
     "CL_CF_AC_voice_unique_wakeup": "Thức dậy độc đáo",
     "CL_CF_AC_voice_unique_wakeup_tips": "Chức năng đánh thức đặc biệt (Mặc định): Khi có nhiều thiết bị trong cùng một không gian, một thiết bị sẽ được chọn một cách thông minh để phản hồi.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Không có dữ liệu nào khả dụng. \n Thiết bị đã ngoại tuyến."
+    "CL_DV_CM_energy_consumption_offline_tip": "Không có dữ liệu nào khả dụng. \n Thiết bị đã ngoại tuyến.",
+    "CL_DV_RF_holiday_mode_pop": "Chế độ Nghỉ lễ thích hợp cho các kỳ nghỉ hoặc khi tủ lạnh không được sử dụng. Chế độ này sẽ thiết lập nhiệt độ ngăn lạnh cao hơn, vì vậy bạn nên tránh cho thực phẩm vào tủ lạnh trước khi sử dụng.",
+    "CL_DV_RF_close_holiday_mode": "Vui lòng tắt chế độ Nghỉ lễ trước.",
+    "CL_DV_RF_exit_holiday_mode": "Thoát khỏi chế độ nghỉ lễ",
+    "restricted_country_title": "Thông báo quan trọng",
+    "restricted_country_desc": "Dịch vụ ConnectLife đang bị ngừng hoạt động tại khu vực của bạn và không còn được hỗ trợ nữa.\n\nNgười dùng hiện tại có thể gặp phải tình trạng truy cập hạn chế hoặc không khả dụng đối với một số chức năng nhất định. Thông tin liên quan đến dữ liệu cá nhân và các quyền riêng tư hiện hành của bạn vẫn có sẵn trong Chính sách Bảo mật của chúng tôi.\n\nĐể được hỗ trợ thêm, vui lòng liên hệ bộ phận hỗ trợ khách hàng.\n\nCảm ơn bạn đã thông cảm.",
+    "CL_DV_wcc_choose_zone_title": "Chọn khu vực",
+    "CL_DV_wcc_choose_zones_subtitle": "Chọn (các) khu vực mà chế độ này sẽ được áp dụng:",
+    "CL_DV_wcc_guide_use_this_mode": "Sử dụng chế độ này",
+    "CL_product_security": "Bảo mật sản phẩm",
+    "CL_vulnerability_disclosure_notification": "Thông báo tiết lộ lỗ hổng bảo mật",
+    "CL_DISH_DESIGNER_completed": "Hoàn thành",
+    "CL_DISH_DESIGNER_removing_steam": "Loại bỏ hơi nước",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Lò nướng này không hỗ trợ các chế độ nhiệt độ được nêu trong công thức này.",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "Chương trình này sẽ tự động khởi động ngay khi bạn đặt thức ăn vào lò và đóng cửa lại.",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Khi quá trình làm nóng hoàn tất, đặt thức ăn vào lò và đóng cửa lại. Chương trình tiếp theo sẽ tự động bắt đầu."
 }

@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "La puerta se abre presionando en cualquier parte del cristal frontal.",
     "CL_CF_AC_voice_unique_wakeup": "Despertador único",
     "CL_CF_AC_voice_unique_wakeup_tips": "Activación única (habilitada por defecto): cuando hay varios dispositivos en el mismo espacio, se seleccionará de forma inteligente un dispositivo para que responda.",
-    "CL_DV_CM_energy_consumption_offline_tip": "No hay datos disponibles. \n El dispositivo estaba desconectado."
+    "CL_DV_CM_energy_consumption_offline_tip": "No hay datos disponibles. \n El dispositivo estaba desconectado.",
+    "CL_DV_RF_holiday_mode_pop": "El modo vacaciones es ideal para cuando el refrigerador está desocupado. Ajusta la temperatura del compartimento del refrigerador a un nivel más alto, por lo que se recomienda no guardar alimentos dentro antes de usarlo.",
+    "CL_DV_RF_close_holiday_mode": "Por favor, desactive primero el modo vacaciones.",
+    "CL_DV_RF_exit_holiday_mode": "Salir del modo vacaciones",
+    "restricted_country_title": "Aviso importante",
+    "restricted_country_desc": "Los servicios de ConnectLife se están interrumpiendo en su región y ya no cuentan con soporte.\n\nLos usuarios existentes podrían experimentar un acceso limitado o la imposibilidad de acceder a ciertas funcionalidades. Puede consultar nuestra Política de Privacidad para obtener información sobre sus datos personales y sus derechos de privacidad.\n\nPara obtener ayuda adicional, póngase en contacto con el servicio de atención al cliente.\n\nGracias por su comprensión.",
+    "CL_DV_wcc_choose_zone_title": "Seleccione zona(s)",
+    "CL_DV_wcc_choose_zones_subtitle": "Seleccione la(s) zona(s) donde se debe aplicar este modo:",
+    "CL_DV_wcc_guide_use_this_mode": "Utilice este modo",
+    "CL_product_security": "Seguridad del producto",
+    "CL_vulnerability_disclosure_notification": "Notificación de divulgación de vulnerabilidad",
+    "CL_DISH_DESIGNER_completed": "Terminado",
+    "CL_DISH_DESIGNER_removing_steam": "Eliminando vapor",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Este horno no admite la configuración de temperatura de esta receta.",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "Este programa se iniciará automáticamente una vez que coloque la comida en el horno y cierre la puerta.",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Cuando el horno esté precalentado, coloque la comida en el horno y cierre la puerta. El siguiente programa se iniciará automáticamente."
 }
