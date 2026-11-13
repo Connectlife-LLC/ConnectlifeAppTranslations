@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "Vrata se odprejo s pritiskom kjer koli na sprednjih steklenih vratih.",
     "CL_CF_AC_voice_unique_wakeup": "Edinstveno prebujanje",
     "CL_CF_AC_voice_unique_wakeup_tips": "Edinstveno prebujanje (privzeto omogočeno): Ko je v istem prostoru več naprav, bo ena naprava inteligentno izbrana za odziv.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Ni podatkov, \n naprava je bila brez povezave."
+    "CL_DV_CM_energy_consumption_offline_tip": "Ni podatkov, \n naprava je bila brez povezave.",
+    "CL_DV_RF_holiday_mode_pop": "Način za počitnice je primeren za počitnice ali ko hladilnik ni zaseden. Hladilni del se segreje na višjo temperaturo, zato je priporočljivo, da živil ne shranjujete vnaprej.",
+    "CL_DV_RF_close_holiday_mode": "Najprej izklopite način počitnic.",
+    "CL_DV_RF_exit_holiday_mode": "Izhod iz počitniškega načina",
+    "restricted_country_title": "Pomembno obvestilo",
+    "restricted_country_desc": "Storitve ConnectLife se v vaši regiji ukinjajo in niso več podprte.\n\nObstoječi uporabniki imajo lahko omejen ali nedostopen dostop do nekaterih funkcij. Informacije o vaših osebnih podatkih in veljavnih pravicah do zasebnosti so še vedno na voljo v naši Politiki zasebnosti.\n\nZa dodatno pomoč se obrnite na podporo strankam.\n\nHvala za vaše razumevanje.",
+    "CL_DV_wcc_choose_zone_title": "Izberite območje(-a)",
+    "CL_DV_wcc_choose_zones_subtitle": "Izberite območje(-a), kjer naj se ta način uporabi:",
+    "CL_DV_wcc_guide_use_this_mode": "Uporabite ta način",
+    "CL_product_security": "Varnost izdelkov",
+    "CL_vulnerability_disclosure_notification": "Obvestilo o razkritju ranljivosti",
+    "CL_DISH_DESIGNER_completed": "Dokončano",
+    "CL_DISH_DESIGNER_removing_steam": "Odstranjevanje pare",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Ta pečica ne podpira nastavitev segrevanja za ta recept.",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "Ta program se bo samodejno zagnal, ko boste jed postavili v pečico in zaprli vrata.",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Ko je predgrevanje končano, postavite jed v pečico in zaprite vrata. Naslednji program se bo zagnal samodejno."
 }

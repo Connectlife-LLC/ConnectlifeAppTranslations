@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "Døren åbnes ved at trykke et vilkårligt sted på den forreste glasdør.",
     "CL_CF_AC_voice_unique_wakeup": "Unik opvågning",
     "CL_CF_AC_voice_unique_wakeup_tips": "Unik opvågning (aktiveret som standard): Når flere enheder er i samme rum, vil én enhed intelligent blive valgt til at reagere.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Ingen data tilgængelige, \n enheden var offline."
+    "CL_DV_CM_energy_consumption_offline_tip": "Ingen data tilgængelige, \n enheden var offline.",
+    "CL_DV_RF_holiday_mode_pop": "Ferietilstand er velegnet til ferier eller når køleskabet ikke er i brug. Den indstiller køleskabsrummet til en højere temperatur, så det anbefales ikke at opbevare madvarer indeni først.",
+    "CL_DV_RF_close_holiday_mode": "Slå venligst ferietilstand fra først.",
+    "CL_DV_RF_exit_holiday_mode": "Afslut ferietilstand",
+    "restricted_country_title": "Vigtig meddelelse",
+    "restricted_country_desc": "ConnectLife-tjenesterne udgår i din region og understøttes ikke længere.\n\nEksisterende brugere kan opleve begrænset eller utilgængelig adgang til visse funktioner. Oplysninger om dine personoplysninger og gældende privatlivsrettigheder er fortsat tilgængelige via vores privatlivspolitik.\n\nFor yderligere assistance, kontakt venligst kundesupport.\n\nTak for din forståelse.",
+    "CL_DV_wcc_choose_zone_title": "Vælg zone(r)",
+    "CL_DV_wcc_choose_zones_subtitle": "Vælg den/de zone(r), hvor denne tilstand skal anvendes:",
+    "CL_DV_wcc_guide_use_this_mode": "Brug denne tilstand",
+    "CL_product_security": "Produktsikkerhed",
+    "CL_vulnerability_disclosure_notification": "Meddelelse om sårbarhedsoplysninger",
+    "CL_DISH_DESIGNER_completed": "Færdiggjort",
+    "CL_DISH_DESIGNER_removing_steam": "Fjerner damp",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Denne ovn understøtter ikke opvarmningsindstillingerne i denne opskrift.",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "Dette program starter automatisk, når du sætter maden i ovnen og lukker døren.",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Når forvarmningen er færdig, skal du sætte maden i ovnen og lukke døren. Det næste program starter automatisk."
 }

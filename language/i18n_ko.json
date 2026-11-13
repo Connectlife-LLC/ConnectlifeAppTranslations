@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "앞쪽 유리문 아무 곳이나 누르면 문이 열립니다.",
     "CL_CF_AC_voice_unique_wakeup": "독특한 기상",
     "CL_CF_AC_voice_unique_wakeup_tips": "고유 웨이크업(기본적으로 활성화됨): 여러 기기가 동일한 공간에 있을 때, 하나의 기기가 지능적으로 선택되어 응답합니다.",
-    "CL_DV_CM_energy_consumption_offline_tip": "사용 가능한 데이터가 없습니다. \n 기기가 오프라인 상태였습니다."
+    "CL_DV_CM_energy_consumption_offline_tip": "사용 가능한 데이터가 없습니다. \n 기기가 오프라인 상태였습니다.",
+    "CL_DV_RF_holiday_mode_pop": "휴가 모드는 휴가철이나 냉장고를 사용하지 않을 때 적합합니다. 냉장실 온도를 높게 설정하므로, 휴가 모드 전에는 음식을 보관하지 않는 것이 좋습니다.",
+    "CL_DV_RF_close_holiday_mode": "먼저 휴가 모드를 해제해 주세요.",
+    "CL_DV_RF_exit_holiday_mode": "휴가 모드 종료",
+    "restricted_country_title": "중요 공지",
+    "restricted_country_desc": "ConnectLife 서비스는 해당 지역에서 종료되었으며 더 이상 지원되지 않습니다.\n\n기존 사용자는 특정 기능에 대한 접근이 제한되거나 불가능할 수 있습니다. 개인 데이터 및 관련 개인정보 보호 권리에 대한 정보는 개인정보 처리방침을 통해 확인하실 수 있습니다.\n\n추가적인 도움이 필요하시면 고객 지원팀에 문의해 주세요.\n\n이해해 주셔서 감사합니다.",
+    "CL_DV_wcc_choose_zone_title": "구역을 선택하세요",
+    "CL_DV_wcc_choose_zones_subtitle": "이 모드를 적용할 영역을 선택하십시오.",
+    "CL_DV_wcc_guide_use_this_mode": "이 모드를 사용하세요",
+    "CL_product_security": "제품 보안",
+    "CL_vulnerability_disclosure_notification": "취약점 공개 알림",
+    "CL_DISH_DESIGNER_completed": "완전한",
+    "CL_DISH_DESIGNER_removing_steam": "증기 제거하기",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "이 오븐은 이 레시피의 가열 설정을 지원하지 않습니다.",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "음식을 오븐에 넣고 문을 닫으면 이 프로그램이 자동으로 시작됩니다.",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "예열이 완료되면 오븐에 음식을 넣고 문을 닫으세요. 다음 프로그램이 자동으로 시작됩니다."
 }

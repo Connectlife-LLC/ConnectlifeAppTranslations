@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "Kapı, ön cam kapının herhangi bir yerine basılarak açılır.",
     "CL_CF_AC_voice_unique_wakeup": "Eşsiz Uyanış",
     "CL_CF_AC_voice_unique_wakeup_tips": "Benzersiz Uyandırma (Varsayılan olarak etkin): Aynı alanda birden fazla cihaz bulunduğunda, yanıt vermek üzere akıllıca bir cihaz seçilir.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Mevcut veri yok. \n Cihaz çevrimdışıydı."
+    "CL_DV_CM_energy_consumption_offline_tip": "Mevcut veri yok. \n Cihaz çevrimdışıydı.",
+    "CL_DV_RF_holiday_mode_pop": "Tatil Modu, tatillerde veya buzdolabının kullanılmadığı zamanlarda kullanıma uygundur. Buzdolabı bölmesinin sıcaklığını daha yüksek bir değere ayarlar, bu nedenle önceden içine yiyecek koymamanız tavsiye edilir.",
+    "CL_DV_RF_close_holiday_mode": "Lütfen öncelikle Tatil modunu kapatın.",
+    "CL_DV_RF_exit_holiday_mode": "Tatil modundan çık",
+    "restricted_country_title": "Önemli Duyuru",
+    "restricted_country_desc": "ConnectLife hizmetleri bölgenizde sonlandırılıyor ve artık desteklenmiyor.\n\nMevcut kullanıcılar belirli işlevlere sınırlı veya erişemez durumda olabilirler. Kişisel verileriniz ve geçerli gizlilik haklarınızla ilgili bilgiler Gizlilik Politikamız aracılığıyla erişilebilir durumdadır.\n\nEk yardım için lütfen müşteri destek ekibiyle iletişime geçin.\n\nAnlayışınız için teşekkür ederim.",
+    "CL_DV_wcc_choose_zone_title": "Bölge(ler) seçin",
+    "CL_DV_wcc_choose_zones_subtitle": "Bu modun uygulanacağı bölge(ler)i seçin:",
+    "CL_DV_wcc_guide_use_this_mode": "Bu modu kullanın",
+    "CL_product_security": "Ürün Güvenliği",
+    "CL_vulnerability_disclosure_notification": "Güvenlik Açığı Bildirimi",
+    "CL_DISH_DESIGNER_completed": "Tamamlanmış",
+    "CL_DISH_DESIGNER_removing_steam": "Buharı uzaklaştırmak",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Bu fırın, bu tarifteki ısıtma ayarlarını desteklemiyor.",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "Bu program, yemeğinizi fırına yerleştirip kapağı kapattığınız anda otomatik olarak başlayacaktır.",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Ön ısıtma tamamlandığında, yemeğinizi fırına yerleştirin ve kapağı kapatın. Bir sonraki program otomatik olarak başlayacaktır."
 }

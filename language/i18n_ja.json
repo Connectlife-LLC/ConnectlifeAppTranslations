@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "前面のガラスドアのどこかを押すとドアが開きます。",
     "CL_CF_AC_voice_unique_wakeup": "ユニークな目覚め",
     "CL_CF_AC_voice_unique_wakeup_tips": "ユニークウェイクアップ（デフォルトで有効）：複数のデバイスが同じ空間にある場合、応答するデバイスがインテリジェントに選択されます。",
-    "CL_DV_CM_energy_consumption_offline_tip": "データがありません。 \nデバイスがオフラインでした。"
+    "CL_DV_CM_energy_consumption_offline_tip": "データがありません。 \nデバイスがオフラインでした。",
+    "CL_DV_RF_holiday_mode_pop": "ホリデーモードは、休暇中や冷蔵庫を使わない時に適しています。冷蔵庫内の温度が高めに設定されるため、事前に食品を冷蔵庫に入れておくことはお勧めしません。",
+    "CL_DV_RF_close_holiday_mode": "まず、ホリデーモードをオフにしてください。",
+    "CL_DV_RF_exit_holiday_mode": "休暇モードを終了する",
+    "restricted_country_title": "重要なお知らせ",
+    "restricted_country_desc": "ConnectLifeサービスは、お客様の地域では提供が終了し、サポートも終了いたしました。\n\n既存ユーザーの皆様は、一部の機能へのアクセスが制限されたり、利用できなくなる場合があります。お客様の個人データおよび適用されるプライバシー権に関する情報は、当社のプライバシーポリシーでご確認いただけます。\n\nさらにサポートが必要な場合は、カスタマーサポートまでお問い合わせください。\n\nご理解いただきありがとうございます。",
+    "CL_DV_wcc_choose_zone_title": "ゾーンを選択してください",
+    "CL_DV_wcc_choose_zones_subtitle": "このモードを適用するゾーンを選択してください。",
+    "CL_DV_wcc_guide_use_this_mode": "このモードを使用する",
+    "CL_product_security": "製品セキュリティ",
+    "CL_vulnerability_disclosure_notification": "脆弱性開示通知",
+    "CL_DISH_DESIGNER_completed": "完了",
+    "CL_DISH_DESIGNER_removing_steam": "蒸気を取り除く",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "このオーブンは、このレシピの加熱設定に対応していません。",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "食品をオーブンに入れてドアを閉めると、このプログラムは自動的に開始されます。",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "予熱が完了したら、食品をオーブンに入れてドアを閉めてください。次のプログラムが自動的に開始されます。"
 }

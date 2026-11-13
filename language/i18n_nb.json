@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "Døren åpnes ved å trykke hvor som helst på den fremre glassdøren.",
     "CL_CF_AC_voice_unique_wakeup": "Unik oppvåkning",
     "CL_CF_AC_voice_unique_wakeup_tips": "Unik oppvåkning (aktivert som standard): Når flere enheter er i samme område, vil én enhet bli intelligent valgt til å svare.",
-    "CL_DV_CM_energy_consumption_offline_tip": "Ingen data tilgjengelig, \n enheten var frakoblet."
+    "CL_DV_CM_energy_consumption_offline_tip": "Ingen data tilgjengelig, \n enheten var frakoblet.",
+    "CL_DV_RF_holiday_mode_pop": "Feriemodus er egnet for ferier eller når kjøleskapet ikke er i bruk. Den stiller inn kjøleskapsseksjonen til en høyere temperatur, så det anbefales ikke å oppbevare mat inni først.",
+    "CL_DV_RF_close_holiday_mode": "Vennligst slå av feriemodus først.",
+    "CL_DV_RF_exit_holiday_mode": "Gå ut av feriemodus",
+    "restricted_country_title": "Viktig merknad",
+    "restricted_country_desc": "ConnectLife-tjenestene avvikles i din region og støttes ikke lenger.\n\nEksisterende brukere kan oppleve begrenset eller utilgjengelig tilgang til visse funksjoner. Informasjon om dine personopplysninger og gjeldende personvernrettigheter er fortsatt tilgjengelig gjennom vår personvernerklæring.\n\nFor ytterligere hjelp, vennligst kontakt kundestøtte.\n\nTakk for din forståelse.",
+    "CL_DV_wcc_choose_zone_title": "Velg sone(r)",
+    "CL_DV_wcc_choose_zones_subtitle": "Velg sonen(e) der denne modusen skal brukes:",
+    "CL_DV_wcc_guide_use_this_mode": "Bruk denne modusen",
+    "CL_product_security": "Produktsikkerhet",
+    "CL_vulnerability_disclosure_notification": "Varsel om sårbarhetsopplysninger",
+    "CL_DISH_DESIGNER_completed": "Fullført",
+    "CL_DISH_DESIGNER_removing_steam": "Fjerning av damp",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Denne ovnen støtter ikke varmeinnstillingene i denne oppskriften.",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "Dette programmet starter automatisk når du setter maten i ovnen og lukker døren.",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Når forvarmingen er ferdig, setter du maten i ovnen og lukker døren. Neste program starter automatisk."
 }

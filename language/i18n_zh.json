@@ -9446,5 +9446,20 @@
     "CL_DV_wcc_push_to_open_content": "按压前玻璃门上的任意位置即可打开门。",
     "CL_CF_AC_voice_unique_wakeup": "独特的唤醒",
     "CL_CF_AC_voice_unique_wakeup_tips": "独立唤醒（默认启用）：当多个设备处于同一空间时，系统将智能选择其中一个设备进行响应。",
-    "CL_DV_CM_energy_consumption_offline_tip": "暂无数据。 \n设备已离线。"
+    "CL_DV_CM_energy_consumption_offline_tip": "暂无数据。 \n设备已离线。",
+    "CL_DV_RF_holiday_mode_pop": "假日模式适用于度假或冰箱无人使用时。该模式会将冰箱冷藏室的温度调高，因此建议不要先在冷藏室内存放食物。",
+    "CL_DV_RF_close_holiday_mode": "请先关闭假日模式。",
+    "CL_DV_RF_exit_holiday_mode": "退出假日模式",
+    "restricted_country_title": "重要通知",
+    "restricted_country_desc": "ConnectLife 服务将在您所在的地区停止服务，不再提供支持。\n\n现有用户可能会遇到某些功能访问受限或无法使用的情况。有关您的个人数据和适用隐私权的信息，请参阅我们的隐私政策。\n\n如需更多帮助，请联系客户支持。\n\n感谢您的理解。",
+    "CL_DV_wcc_choose_zone_title": "选择区域",
+    "CL_DV_wcc_choose_zones_subtitle": "选择要应用此模式的区域：",
+    "CL_DV_wcc_guide_use_this_mode": "使用此模式",
+    "CL_product_security": "产品安全",
+    "CL_vulnerability_disclosure_notification": "漏洞披露通知",
+    "CL_DISH_DESIGNER_completed": "完全的",
+    "CL_DISH_DESIGNER_removing_steam": "蒸汽消散中",
+    "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "此烤箱不支持此食谱所需的加热设置。",
+    "CL_DISH_DESIGNER_bake_auto_start_hint": "将食物放入烤箱并关上烤箱门后，该程序将自动启动。",
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "预热完成后，将食物放入烤箱并关上门。下一个程序将自动启动。"
 }
