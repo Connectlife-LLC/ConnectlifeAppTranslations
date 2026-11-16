@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Mengeluarkan wap",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Ketuhar ini tidak menyokong tetapan pemanasan resipi ini.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Program ini akan bermula secara automatik sebaik sahaja anda meletakkan makanan anda di dalam ketuhar dan menutup pintu.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Setelah pemanasan awal selesai, masukkan makanan anda ke dalam ketuhar dan tutup pintu. Program seterusnya akan bermula secara automatik."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Setelah pemanasan awal selesai, masukkan makanan anda ke dalam ketuhar dan tutup pintu. Program seterusnya akan bermula secara automatik.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Sila pilih tiub yang hendak digunakan."
 }

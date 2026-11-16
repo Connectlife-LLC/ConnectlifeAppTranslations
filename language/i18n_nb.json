@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Fjerning av damp",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Denne ovnen støtter ikke varmeinnstillingene i denne oppskriften.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Dette programmet starter automatisk når du setter maten i ovnen og lukker døren.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Når forvarmingen er ferdig, setter du maten i ovnen og lukker døren. Neste program starter automatisk."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Når forvarmingen er ferdig, setter du maten i ovnen og lukker døren. Neste program starter automatisk.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Vennligst velg røret som skal brukes."
 }

@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Odstranění páry",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Tato trouba nepodporuje nastavení ohřevu pro tento recept.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Tento program se spustí automaticky, jakmile vložíte jídlo do trouby a zavřete dvířka.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Po dokončení předehřívání vložte jídlo do trouby a zavřete dvířka. Další program se spustí automaticky."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Po dokončení předehřívání vložte jídlo do trouby a zavřete dvířka. Další program se spustí automaticky.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Vyberte prosím trubici, kterou chcete použít."
 }

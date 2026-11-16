@@ -9375,7 +9375,7 @@
     "CL_DV_WM_energy_water_use": "Energy & water use",
     "scan_code_tips_receipt": "In order to scan the receipt you must allow the ConnectLife app the access to the camera.",
     "scan_user_manual_not_exist": "The user manual does not exist.",
-    "CL_DV_wcc_activity_humidity": "Active humidty",
+    "CL_DV_wcc_activity_humidity": "Active humidity",
     "CL_DV_wcc_active_humidity_desc": "Active Humidity keeps the moisture level perfect for your cork wine bottles for long term storage. For zones set above 15°C, the level can not be guaranteed so Active Humidity will be deactivated.",
     "CL_DV_wcc_humidity_level": "Humidity level",
     "CL_MP_creating_recipes_tips": "Tips: You can leave this page anytime, we'll keep working in the background.",
@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Removing steam",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "This oven does not support the heating settings of this recipe.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "This program will start automatically once you place your food in the oven and close the door.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "When preheating is complete, place your food in the oven and close the door. The next program will start automatically."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "When preheating is complete, place your food in the oven and close the door. The next program will start automatically.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Please select the tube to be used."
 }

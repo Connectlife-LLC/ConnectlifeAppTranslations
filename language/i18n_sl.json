@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Odstranjevanje pare",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Ta pečica ne podpira nastavitev segrevanja za ta recept.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Ta program se bo samodejno zagnal, ko boste jed postavili v pečico in zaprli vrata.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Ko je predgrevanje končano, postavite jed v pečico in zaprite vrata. Naslednji program se bo zagnal samodejno."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Ko je predgrevanje končano, postavite jed v pečico in zaprite vrata. Naslednji program se bo zagnal samodejno.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Izberite cev, ki jo boste uporabili."
 }

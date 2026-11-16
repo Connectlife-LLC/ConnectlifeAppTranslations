@@ -9375,7 +9375,7 @@
     "CL_DV_WM_energy_water_use": "",
     "scan_code_tips_receipt": "レシートをスキャンするには、ConnectLifeアプリにカメラへのアクセスを許可する必要があります。",
     "scan_user_manual_not_exist": "ユーザーマニュアルは存在しません。",
-    "CL_DV_wcc_activity_humidity": "アクティブ湿度",
+    "CL_DV_wcc_activity_humidity": "活性湿度",
     "CL_DV_wcc_active_humidity_desc": "アクティブ湿度機能は、コルク栓のワインボトルを長期保存するのに最適な湿度レベルを維持します。ただし、15℃を超える設定温度の地域では、湿度レベルを保証できないため、アクティブ湿度機能は自動的に停止します。",
     "CL_DV_wcc_humidity_level": "湿度レベル",
     "CL_MP_creating_recipes_tips": "ヒント：いつでもこのページを離れることができます。私たちはバックグラウンドで作業を継続します。",
@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "蒸気を取り除く",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "このオーブンは、このレシピの加熱設定に対応していません。",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "食品をオーブンに入れてドアを閉めると、このプログラムは自動的に開始されます。",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "予熱が完了したら、食品をオーブンに入れてドアを閉めてください。次のプログラムが自動的に開始されます。"
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "予熱が完了したら、食品をオーブンに入れてドアを閉めてください。次のプログラムが自動的に開始されます。",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "使用するチューブを選択してください。"
 }

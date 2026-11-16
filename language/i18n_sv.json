@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Ta bort ånga",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Den här ugnen stöder inte värmeinställningarna för det här receptet.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Det här programmet startar automatiskt när du placerar maten i ugnen och stänger luckan.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "När förvärmningen är klar, placera maten i ugnen och stäng luckan. Nästa program startar automatiskt."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "När förvärmningen är klar, placera maten i ugnen och stäng luckan. Nästa program startar automatiskt.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Välj det rör som ska användas."
 }

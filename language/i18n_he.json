@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "הסרת קיטור",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "תנור זה אינו תומך בהגדרות החימום של מתכון זה.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "תוכנית זו תתחיל אוטומטית לאחר שתכניסו את האוכל לתנור ותסגרו את הדלת.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "לאחר השלמת החימום המוקדם, הכניסו את האוכל לתנור וסגרו את הדלת. התוכנית הבאה תתחיל אוטומטית."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "לאחר השלמת החימום המוקדם, הכניסו את האוכל לתנור וסגרו את הדלת. התוכנית הבאה תתחיל אוטומטית.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "אנא בחר את הצינור שברצונך להשתמש בו."
 }

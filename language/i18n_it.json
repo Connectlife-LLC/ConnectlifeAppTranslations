@@ -9375,7 +9375,7 @@
     "CL_DV_WM_energy_water_use": "Consumo di energia e acqua",
     "scan_code_tips_receipt": "Per scansionare la ricevuta è necessario consentire all'app ConnectLife l'accesso alla fotocamera.",
     "scan_user_manual_not_exist": "Il manuale d'uso non esiste.",
-    "CL_DV_wcc_activity_humidity": "Umidità di comando",
+    "CL_DV_wcc_activity_humidity": "Umidità attiva",
     "CL_DV_wcc_active_humidity_desc": "La funzione Umidità Attiva mantiene il livello di umidità ideale per le bottiglie di vino in sughero durante la conservazione a lungo termine. Nelle zone con temperature superiori a 15 °C, il livello di umidità non può essere garantito e la funzione Umidità Attiva verrà disattivata.",
     "CL_DV_wcc_humidity_level": "Livello di umidità",
     "CL_MP_creating_recipes_tips": "Suggerimenti: Puoi lasciare questa pagina in qualsiasi momento, continueremo a lavorare in background.",
@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Rimozione del vapore",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Questo forno non supporta le impostazioni di riscaldamento indicate in questa ricetta.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Questo programma si avvierà automaticamente non appena inserirete il cibo nel forno e chiuderete lo sportello.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Al termine del preriscaldamento, inserite gli alimenti nel forno e chiudete lo sportello. Il programma successivo si avvierà automaticamente."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Al termine del preriscaldamento, inserite gli alimenti nel forno e chiudete lo sportello. Il programma successivo si avvierà automaticamente.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Seleziona il tubo da utilizzare."
 }

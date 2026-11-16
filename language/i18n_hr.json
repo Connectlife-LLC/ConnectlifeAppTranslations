@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Uklanjanje pare",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Ova pećnica ne podržava postavke grijanja za ovaj recept.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Ovaj program će se automatski pokrenuti nakon što stavite hranu u pećnicu i zatvorite vrata.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Kada je predgrijavanje završeno, stavite hranu u pećnicu i zatvorite vrata. Sljedeći program će se automatski pokrenuti."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Kada je predgrijavanje završeno, stavite hranu u pećnicu i zatvorite vrata. Sljedeći program će se automatski pokrenuti.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Molimo odaberite cijev koju ćete koristiti."
 }

@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Usuwanie pary",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Ten piekarnik nie obsługuje ustawień grzania podanych w tym przepisie.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Program uruchomi się automatycznie po włożeniu potrawy do piekarnika i zamknięciu drzwiczek.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Po zakończeniu nagrzewania włóż potrawę do piekarnika i zamknij drzwiczki. Następny program uruchomi się automatycznie."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Po zakończeniu nagrzewania włóż potrawę do piekarnika i zamknij drzwiczki. Następny program uruchomi się automatycznie.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Proszę wybrać rodzaj rurki, która ma zostać użyta."
 }

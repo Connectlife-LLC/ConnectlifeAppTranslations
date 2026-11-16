@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "إزالة البخار",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "لا يدعم هذا الفرن إعدادات التسخين الخاصة بهذه الوصفة.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "سيبدأ هذا البرنامج تلقائيًا بمجرد وضع الطعام في الفرن وإغلاق الباب.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "بعد اكتمال التسخين المسبق، ضع طعامك في الفرن وأغلق الباب. سيبدأ البرنامج التالي تلقائيًا."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "بعد اكتمال التسخين المسبق، ضع طعامك في الفرن وأغلق الباب. سيبدأ البرنامج التالي تلقائيًا.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "يرجى تحديد الأنبوب المراد استخدامه."
 }

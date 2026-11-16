@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Gőz eltávolítása",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Ez a sütő nem támogatja az ehhez a recepthez tartozó fűtési beállításokat.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Ez a program automatikusan elindul, amint behelyezi az ételt a sütőbe és becsukja az ajtót.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Amikor az előmelegítés befejeződött, helyezze az ételt a sütőbe, és csukja be az ajtót. A következő program automatikusan elindul."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Amikor az előmelegítés befejeződött, helyezze az ételt a sütőbe, és csukja be az ajtót. A következő program automatikusan elindul.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Kérjük, válassza ki a használandó csövet."
 }

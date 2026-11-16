@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Eliminando vapor",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Este horno no admite la configuración de temperatura de esta receta.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Este programa se iniciará automáticamente una vez que coloque la comida en el horno y cierre la puerta.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Cuando el horno esté precalentado, coloque la comida en el horno y cierre la puerta. El siguiente programa se iniciará automáticamente."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Cuando el horno esté precalentado, coloque la comida en el horno y cierre la puerta. El siguiente programa se iniciará automáticamente.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Seleccione el tubo que desea utilizar."
 }

@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Îndepărtarea aburului",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Acest cuptor nu este compatibil cu setările de încălzire pentru această rețetă.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Acest program va porni automat odată ce introduceți mâncarea în cuptor și închideți ușa.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Când preîncălzirea este completă, introduceți mâncarea în cuptor și închideți ușa. Următorul program va porni automat."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Când preîncălzirea este completă, introduceți mâncarea în cuptor și închideți ușa. Următorul program va porni automat.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Vă rugăm să selectați tubul care va fi utilizat."
 }

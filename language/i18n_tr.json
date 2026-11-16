@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Buharı uzaklaştırmak",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Bu fırın, bu tarifteki ısıtma ayarlarını desteklemiyor.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Bu program, yemeğinizi fırına yerleştirip kapağı kapattığınız anda otomatik olarak başlayacaktır.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Ön ısıtma tamamlandığında, yemeğinizi fırına yerleştirin ve kapağı kapatın. Bir sonraki program otomatik olarak başlayacaktır."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Ön ısıtma tamamlandığında, yemeğinizi fırına yerleştirin ve kapağı kapatın. Bir sonraki program otomatik olarak başlayacaktır.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Lütfen kullanılacak tüpü seçin."
 }

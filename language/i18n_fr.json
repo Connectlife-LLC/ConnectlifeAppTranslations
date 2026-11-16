@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Élimination de la vapeur",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Ce four ne prend pas en charge les réglages de chauffage de cette recette.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Ce programme démarrera automatiquement une fois que vous aurez placé vos aliments dans le four et fermé la porte.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Une fois le préchauffage terminé, placez vos aliments dans le four et fermez la porte. Le programme suivant démarrera automatiquement."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Une fois le préchauffage terminé, placez vos aliments dans le four et fermez la porte. Le programme suivant démarrera automatiquement.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Veuillez sélectionner le tube à utiliser."
 }

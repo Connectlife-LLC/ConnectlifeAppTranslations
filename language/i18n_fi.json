@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Höyryn poisto",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Tämä uuni ei tue tämän reseptin lämmitysasetuksia.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Tämä ohjelma käynnistyy automaattisesti, kun laitat ruoan uuniin ja suljet luukun.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Kun esilämmitys on valmis, laita ruoka uuniin ja sulje luukku. Seuraava ohjelma käynnistyy automaattisesti."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Kun esilämmitys on valmis, laita ruoka uuniin ja sulje luukku. Seuraava ohjelma käynnistyy automaattisesti.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Valitse käytettävä putki."
 }

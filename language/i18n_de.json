@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Dampf entfernen",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Dieser Backofen unterstützt die Heizeinstellungen dieses Rezepts nicht.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Dieses Programm startet automatisch, sobald Sie Ihre Speisen in den Ofen geben und die Tür schließen.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Sobald der Vorheizvorgang abgeschlossen ist, legen Sie Ihr Essen in den Ofen und schließen Sie die Tür. Das nächste Programm startet automatisch."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Sobald der Vorheizvorgang abgeschlossen ist, legen Sie Ihr Essen in den Ofen und schließen Sie die Tür. Das nächste Programm startet automatisch.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Bitte wählen Sie das zu verwendende Rohr aus."
 }

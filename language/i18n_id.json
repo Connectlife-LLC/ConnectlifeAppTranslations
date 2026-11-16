@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "Menghilangkan uap",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Oven ini tidak mendukung pengaturan pemanasan resep ini.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Program ini akan dimulai secara otomatis begitu Anda meletakkan makanan di dalam oven dan menutup pintunya.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Setelah pemanasan selesai, masukkan makanan Anda ke dalam oven dan tutup pintunya. Program selanjutnya akan dimulai secara otomatis."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Setelah pemanasan selesai, masukkan makanan Anda ke dalam oven dan tutup pintunya. Program selanjutnya akan dimulai secara otomatis.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Silakan pilih tabung yang akan digunakan."
 }

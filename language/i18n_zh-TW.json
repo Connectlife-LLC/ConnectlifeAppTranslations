@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "蒸氣消散中",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "此烤箱不支援此食譜所需的加熱設定。",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "將食物放入烤箱並關上烤箱門後，程序將自動啟動。",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "預熱完成後，將食物放入烤箱並關上門。下一個程式將自動啟動。"
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "預熱完成後，將食物放入烤箱並關上門。下一個程式將自動啟動。",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "請選擇要使用的試管。"
 }

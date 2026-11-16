@@ -9461,5 +9461,6 @@
     "CL_DISH_DESIGNER_removing_steam": "A remover vapor",
     "CL_DISH_DESIGNER_oven_not_support_recipe_heating": "Este forno não suporta as configurações de aquecimento desta receita.",
     "CL_DISH_DESIGNER_bake_auto_start_hint": "Este programa iniciará automaticamente assim que você colocar a comida no forno e fechar a porta.",
-    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Quando o pré-aquecimento estiver completo, coloque o alimento no forno e feche a porta. O próximo programa começará automaticamente."
+    "CL_DISH_DESIGNER_preheat_auto_start_hint": "Quando o pré-aquecimento estiver completo, coloque o alimento no forno e feche a porta. O próximo programa começará automaticamente.",
+    "CL_DV_WM_SELECT_TUB_TO_USE": "Por favor, selecione o tubo a ser utilizado."
 }
