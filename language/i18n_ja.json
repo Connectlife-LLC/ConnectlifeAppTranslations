@@ -9375,7 +9375,7 @@
     "CL_DV_WM_energy_water_use": "",
     "scan_code_tips_receipt": "レシートをスキャンするには、ConnectLifeアプリにカメラへのアクセスを許可する必要があります。",
     "scan_user_manual_not_exist": "ユーザーマニュアルは存在しません。",
-    "CL_DV_wcc_activity_humidity": "アクティブ湿度",
+    "CL_DV_wcc_activity_humidity": "活性湿度",
     "CL_DV_wcc_active_humidity_desc": "アクティブ湿度機能は、コルク栓のワインボトルを長期保存するのに最適な湿度レベルを維持します。ただし、15℃を超える設定温度の地域では、湿度レベルを保証できないため、アクティブ湿度機能は自動的に停止します。",
     "CL_DV_wcc_humidity_level": "湿度レベル",
     "CL_MP_creating_recipes_tips": "ヒント：いつでもこのページを離れることができます。私たちはバックグラウンドで作業を継続します。",
