@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "ऑपरेशन विफल रहा। कृपया पुनः प्रयास करें।",
     "CL_family_join_request": "शामिल होने का अनुरोध",
     "CL_family_join_request_single": "{##} ने क्यूआर कोड के माध्यम से {###} से जुड़ने का अनुरोध किया है।",
-    "CL_family_join_request_multi": "{##} उपयोगकर्ता क्यूआर कोड के माध्यम से {###} में शामिल होने का अनुरोध कर रहे हैं।"
+    "CL_family_join_request_multi": "{##} उपयोगकर्ता क्यूआर कोड के माध्यम से {###} में शामिल होने का अनुरोध कर रहे हैं।",
+    "CL_family_move": "कदम",
+    "CL_family_move_appliance_to": "उपकरण को स्थानांतरित करें",
+    "CL_family_select_home": "होम चुनें",
+    "CL_family_select_home_to_move": "कृपया रहने के लिए कोई दूसरा घर चुनें:",
+    "CL_family_move_owner_note": "* आप केवल उन्हीं घरों में डिवाइस स्थानांतरित कर सकते हैं जहां आपके पास {owner} अनुमतियाँ।",
+    "CL_family_move_devices": "उपकरणों को स्थानांतरित करें",
+    "CL_family_device_moved_to_room": "डिवाइस को स्थानांतरित कर दिया गया {room}",
+    "CL_family_devices_moved_to_home": "उपकरणों को स्थानांतरित कर दिया गया {home}"
 }

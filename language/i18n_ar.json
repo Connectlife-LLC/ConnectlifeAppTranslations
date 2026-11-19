@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "فشلت العملية. يُرجى المحاولة مرة أخرى!",
     "CL_family_join_request": "طلب الانضمام",
     "CL_family_join_request_single": "طلب {##} الانضمام إلى {###} عبر رمز الاستجابة السريعة (QR code).",
-    "CL_family_join_request_multi": "يطلب مستخدمو {##} الانضمام إلى {###} عبر رمز الاستجابة السريعة (QR code)."
+    "CL_family_join_request_multi": "يطلب مستخدمو {##} الانضمام إلى {###} عبر رمز الاستجابة السريعة (QR code).",
+    "CL_family_move": "يتحرك",
+    "CL_family_move_appliance_to": "انقل الجهاز إلى",
+    "CL_family_select_home": "اختر المنزل",
+    "CL_family_select_home_to_move": "يرجى اختيار منزل آخر للانتقال إليه:",
+    "CL_family_move_owner_note": "* لا يمكنك نقل الأجهزة إلا إلى المنازل التي لديك فيها {owner} الأذونات.",
+    "CL_family_move_devices": "نقل الأجهزة",
+    "CL_family_device_moved_to_room": "تم نقل الجهاز إلى {room}",
+    "CL_family_devices_moved_to_home": "تم نقل الأجهزة إلى {home}"
 }

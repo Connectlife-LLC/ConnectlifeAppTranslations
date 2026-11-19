@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "פעולה נכשלה, אנא נסה שוב!",
     "CL_family_join_request": "בקשת הצטרפות",
     "CL_family_join_request_single": "{##} ביקש/ה להצטרף ל-{###} באמצעות קוד QR.",
-    "CL_family_join_request_multi": "משתמשים של {##} מבקשים להצטרף ל-{###} באמצעות קוד QR."
+    "CL_family_join_request_multi": "משתמשים של {##} מבקשים להצטרף ל-{###} באמצעות קוד QR.",
+    "CL_family_move": "מַהֲלָך",
+    "CL_family_move_appliance_to": "העבר את המכשיר ל",
+    "CL_family_select_home": "בחר בית",
+    "CL_family_select_home_to_move": "אנא בחר בית אחר למעבר אליו:",
+    "CL_family_move_owner_note": "* ניתן להעביר מכשירים רק לבתים שבהם יש לך {owner} הרשאות.",
+    "CL_family_move_devices": "הזזת מכשירים",
+    "CL_family_device_moved_to_room": "המכשיר הועבר אל {room}",
+    "CL_family_devices_moved_to_home": "מכשירים הועברו אל {home}"
 }

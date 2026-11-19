@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Operacja nie powiodła się. Spróbuj ponownie!",
     "CL_family_join_request": "ŻĄDANIE DOŁĄCZENIA",
     "CL_family_join_request_single": "{##} poprosił(a) o dołączenie do {###} za pomocą kodu QR.",
-    "CL_family_join_request_multi": "{##} użytkowników prosi o dołączenie do {###} za pomocą kodu QR."
+    "CL_family_join_request_multi": "{##} użytkowników prosi o dołączenie do {###} za pomocą kodu QR.",
+    "CL_family_move": "Przenosić",
+    "CL_family_move_appliance_to": "Przenieś urządzenie do",
+    "CL_family_select_home": "Wybierz dom",
+    "CL_family_select_home_to_move": "Wybierz inny dom, do którego chcesz się przeprowadzić:",
+    "CL_family_move_owner_note": "* Urządzenia można przenosić tylko do domów, w których są {owner} uprawnienia.",
+    "CL_family_move_devices": "Przenieś urządzenia",
+    "CL_family_device_moved_to_room": "Urządzenie przeniesione do {room}",
+    "CL_family_devices_moved_to_home": "Urządzenia przeniesione do {home}"
 }

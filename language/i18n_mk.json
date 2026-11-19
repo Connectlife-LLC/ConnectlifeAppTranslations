@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Операцијата не успеа. Обидете се повторно.",
     "CL_family_join_request": "БАРАЊЕ ЗА ПРИКЛУЧУВАЊЕ",
     "CL_family_join_request_single": "{##} побара да се придружи на {###} преку QR код.",
-    "CL_family_join_request_multi": "Корисниците на {##} бараат да се приклучат на {###} преку QR код."
+    "CL_family_join_request_multi": "Корисниците на {##} бараат да се приклучат на {###} преку QR код.",
+    "CL_family_move": "Премести",
+    "CL_family_move_appliance_to": "Преместете го апаратот во",
+    "CL_family_select_home": "Изберете дом",
+    "CL_family_select_home_to_move": "Изберете друг дом за преселба:",
+    "CL_family_move_owner_note": "* Можете да преместувате уреди само во домовите каде што имате {owner} дозволи.",
+    "CL_family_move_devices": "Премести уреди",
+    "CL_family_device_moved_to_room": "Уредот е преместен во {room}",
+    "CL_family_devices_moved_to_home": "Уредите се преместени во {home}"
 }

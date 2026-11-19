@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Помилка операції, спробуйте ще раз!",
     "CL_family_join_request": "ЗАПИТ НА ПРИЄДНАННЯ",
     "CL_family_join_request_single": "{##} надіслав запит на приєднання до {###} за допомогою QR-коду.",
-    "CL_family_join_request_multi": "{##} користувачів запитують приєднання до {###} за допомогою QR-коду."
+    "CL_family_join_request_multi": "{##} користувачів запитують приєднання до {###} за допомогою QR-коду.",
+    "CL_family_move": "Перемістити",
+    "CL_family_move_appliance_to": "Перемістіть прилад до",
+    "CL_family_select_home": "Виберіть дім",
+    "CL_family_select_home_to_move": "Будь ласка, виберіть інший будинок для переїзду:",
+    "CL_family_move_owner_note": "* Ви можете переміщувати пристрої лише в ті будинки, де у вас є {owner} дозволи.",
+    "CL_family_move_devices": "Переміщення пристроїв",
+    "CL_family_device_moved_to_room": "Пристрій переміщено до {room}",
+    "CL_family_devices_moved_to_home": "Пристрої, переміщені до {home}"
 }

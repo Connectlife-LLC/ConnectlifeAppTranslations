@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "การดำเนินการล้มเหลว กรุณาลองอีกครั้ง!",
     "CL_family_join_request": "คำขอเข้าร่วม",
     "CL_family_join_request_single": "{##} ได้ขอเข้าร่วม {###} ผ่านรหัส QR",
-    "CL_family_join_request_multi": "ผู้ใช้จำนวน {##} รายกำลังขอเข้าร่วม {###} ผ่านรหัส QR"
+    "CL_family_join_request_multi": "ผู้ใช้จำนวน {##} รายกำลังขอเข้าร่วม {###} ผ่านรหัส QR",
+    "CL_family_move": "เคลื่อนไหว",
+    "CL_family_move_appliance_to": "ย้ายเครื่องใช้ไฟฟ้าไปที่",
+    "CL_family_select_home": "เลือกบ้าน",
+    "CL_family_select_home_to_move": "โปรดเลือกบ้านหลังอื่นเพื่อย้ายไปอยู่:",
+    "CL_family_move_owner_note": "* คุณสามารถย้ายอุปกรณ์ไปยังบ้านที่คุณมีเท่านั้น {owner} การอนุญาต",
+    "CL_family_move_devices": "ย้ายอุปกรณ์",
+    "CL_family_device_moved_to_room": "อุปกรณ์ถูกย้ายไปยัง {room}",
+    "CL_family_devices_moved_to_home": "อุปกรณ์ถูกย้ายไปยัง {home}"
 }

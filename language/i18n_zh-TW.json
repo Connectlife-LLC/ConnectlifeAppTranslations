@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "操作失敗，請重試。",
     "CL_family_join_request": "加入請求",
     "CL_family_join_request_single": "{##} 已透過二維碼申請加入 {###}。",
-    "CL_family_join_request_multi": "{##} 位元使用者正在申請透過二維碼加入 {###}。"
+    "CL_family_join_request_multi": "{##} 位元使用者正在申請透過二維碼加入 {###}。",
+    "CL_family_move": "移動",
+    "CL_family_move_appliance_to": "將電器移至",
+    "CL_family_select_home": "選擇首頁",
+    "CL_family_select_home_to_move": "請選擇另一個要搬去的住所：",
+    "CL_family_move_owner_note": "您只能將裝置移至您擁有的家庭。{owner} 權限。",
+    "CL_family_move_devices": "行動裝置",
+    "CL_family_device_moved_to_room": "設備已移至 {room}",
+    "CL_family_devices_moved_to_home": "設備已移至 {home}"
 }

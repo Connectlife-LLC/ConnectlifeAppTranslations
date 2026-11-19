@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Жұмыс істемеді, әрекетті қайталаңыз!",
     "CL_family_join_request": "ҚОСЫЛУ СҰРАНЫСЫ",
     "CL_family_join_request_single": "{##} QR коды арқылы {###} тобына қосылуға өтініш берді.",
-    "CL_family_join_request_multi": "{##} пайдаланушылары QR коды арқылы {###} желісіне қосылуды сұрап жатыр."
+    "CL_family_join_request_multi": "{##} пайдаланушылары QR коды арқылы {###} желісіне қосылуды сұрап жатыр.",
+    "CL_family_move": "Жылжыту",
+    "CL_family_move_appliance_to": "Құрылғыны келесі жерге жылжытыңыз",
+    "CL_family_select_home": "Үйді таңдаңыз",
+    "CL_family_select_home_to_move": "Көшу үшін басқа үйді таңдаңыз:",
+    "CL_family_move_owner_note": "* Құрылғыларды тек сізде бар үйлерге ғана жылжыта аласыз {owner} рұқсаттар.",
+    "CL_family_move_devices": "Құрылғыларды жылжыту",
+    "CL_family_device_moved_to_room": "Құрылғы жылжытылды {room}",
+    "CL_family_devices_moved_to_home": "Құрылғылар көшірілді {home}"
 }

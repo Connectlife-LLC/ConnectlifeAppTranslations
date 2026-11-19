@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Operațiunea a eșuat. Vă rugăm să încercați din nou!",
     "CL_family_join_request": "CERERE DE ÎNSCRIERE",
     "CL_family_join_request_single": "{##} a solicitat să se alăture la {###} prin intermediul unui cod QR.",
-    "CL_family_join_request_multi": "Utilizatorii {##} solicită înscrierea la {###} prin intermediul unui cod QR."
+    "CL_family_join_request_multi": "Utilizatorii {##} solicită înscrierea la {###} prin intermediul unui cod QR.",
+    "CL_family_move": "Mişcare",
+    "CL_family_move_appliance_to": "Mutați aparatul la",
+    "CL_family_select_home": "Selectați domiciliul",
+    "CL_family_select_home_to_move": "Vă rugăm să selectați o altă locuință în care să vă mutați:",
+    "CL_family_move_owner_note": "Puteți muta dispozitive doar în locuințele unde aveți {owner} permisiuni.",
+    "CL_family_move_devices": "Mutați dispozitivele",
+    "CL_family_device_moved_to_room": "Dispozitivul a fost mutat în {room}",
+    "CL_family_devices_moved_to_home": "Dispozitive mutate în {home}"
 }

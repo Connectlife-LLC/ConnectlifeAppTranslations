@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Αποτυχία λειτουργίας, δοκιμάστε ξανά!",
     "CL_family_join_request": "ΑΙΤΗΣΗ ΣΥΜΜΕΤΟΧΗΣ",
     "CL_family_join_request_single": "Ο χρήστης {##} έχει υποβάλει αίτημα συμμετοχής στον χρήστη {###} μέσω κωδικού QR.",
-    "CL_family_join_request_multi": "{##} χρήστες ζητούν να εγγραφούν στο {###} μέσω κωδικού QR."
+    "CL_family_join_request_multi": "{##} χρήστες ζητούν να εγγραφούν στο {###} μέσω κωδικού QR.",
+    "CL_family_move": "Κίνηση",
+    "CL_family_move_appliance_to": "Μετακινήστε τη συσκευή σε",
+    "CL_family_select_home": "Επιλέξτε σπίτι",
+    "CL_family_select_home_to_move": "Επιλέξτε άλλο σπίτι για να μετακομίσετε:",
+    "CL_family_move_owner_note": "* Μπορείτε να μετακινήσετε συσκευές μόνο σε σπίτια όπου έχετε {owner} δικαιώματα.",
+    "CL_family_move_devices": "Μετακίνηση συσκευών",
+    "CL_family_device_moved_to_room": "Η συσκευή μετακινήθηκε σε {room}",
+    "CL_family_devices_moved_to_home": "Οι συσκευές μετακινήθηκαν σε {home}"
 }

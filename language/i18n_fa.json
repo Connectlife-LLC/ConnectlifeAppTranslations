@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "عملیات ناموفق بود. لطفا دوباره امتحان کنید!",
     "CL_family_join_request": "درخواست عضویت",
     "CL_family_join_request_single": "{##} از طریق کد QR درخواست عضویت در {###} را داده است.",
-    "CL_family_join_request_multi": "کاربران {##} از طریق کد QR درخواست عضویت {###} را دارند."
+    "CL_family_join_request_multi": "کاربران {##} از طریق کد QR درخواست عضویت {###} را دارند.",
+    "CL_family_move": "حرکت",
+    "CL_family_move_appliance_to": "دستگاه را به",
+    "CL_family_select_home": "خانه را انتخاب کنید",
+    "CL_family_select_home_to_move": "لطفا خانه دیگری را برای نقل مکان انتخاب کنید:",
+    "CL_family_move_owner_note": "* شما فقط می‌توانید دستگاه‌ها را به خانه‌هایی که دارید منتقل کنید {owner} مجوزها",
+    "CL_family_move_devices": "دستگاه‌ها را جابجا کنید",
+    "CL_family_device_moved_to_room": "دستگاه منتقل شد به {room}",
+    "CL_family_devices_moved_to_home": "دستگاه‌ها به {home}"
 }

@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Operation failed. Please try again.",
     "CL_family_join_request": "JOIN REQUEST",
     "CL_family_join_request_single": "{##} has requested to join {###} via QR code.",
-    "CL_family_join_request_multi": "{##} users are requesting to join {###} via QR code."
+    "CL_family_join_request_multi": "{##} users are requesting to join {###} via QR code.",
+    "CL_family_move": "Move",
+    "CL_family_move_appliance_to": "Move appliance to",
+    "CL_family_select_home": "Select home",
+    "CL_family_select_home_to_move": "Please select another home to move to:",
+    "CL_family_move_owner_note": "* You can only move devices to homes where you have {owner} permissions.",
+    "CL_family_move_devices": "Move devices",
+    "CL_family_device_moved_to_room": "Device moved to {room}",
+    "CL_family_devices_moved_to_home": "Devices moved to {home}"
 }

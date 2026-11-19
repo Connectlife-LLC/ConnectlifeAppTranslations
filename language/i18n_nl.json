@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Operatie mislukt, probeer het opnieuw!",
     "CL_family_join_request": "AANMELDINGSVERZOEK",
     "CL_family_join_request_single": "{##} heeft verzocht om lid te worden van {###} via een QR-code.",
-    "CL_family_join_request_multi": "{##} gebruikers vragen om lid te worden van {###} via een QR-code."
+    "CL_family_join_request_multi": "{##} gebruikers vragen om lid te worden van {###} via een QR-code.",
+    "CL_family_move": "Beweging",
+    "CL_family_move_appliance_to": "Verplaats het apparaat naar",
+    "CL_family_select_home": "Selecteer home",
+    "CL_family_select_home_to_move": "Selecteer een andere woning om naartoe te verhuizen:",
+    "CL_family_move_owner_note": "* Je kunt apparaten alleen verplaatsen naar huizen waar je een huis hebt {owner} toestemmingen.",
+    "CL_family_move_devices": "Apparaten verplaatsen",
+    "CL_family_device_moved_to_room": "Apparaat verplaatst naar {room}",
+    "CL_family_devices_moved_to_home": "Apparaten verplaatst naar {home}"
 }

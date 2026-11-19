@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Thao tác thất bại. Vui lòng thử lại.",
     "CL_family_join_request": "YÊU CẦU THAM GIA",
     "CL_family_join_request_single": "{##} đã yêu cầu tham gia {###} thông qua mã QR.",
-    "CL_family_join_request_multi": "{##} người dùng đang yêu cầu tham gia {###} thông qua mã QR."
+    "CL_family_join_request_multi": "{##} người dùng đang yêu cầu tham gia {###} thông qua mã QR.",
+    "CL_family_move": "Di chuyển",
+    "CL_family_move_appliance_to": "Di chuyển thiết bị đến",
+    "CL_family_select_home": "Chọn trang chủ",
+    "CL_family_select_home_to_move": "Vui lòng chọn một ngôi nhà khác để chuyển đến:",
+    "CL_family_move_owner_note": "* Bạn chỉ có thể di chuyển thiết bị đến những ngôi nhà mà bạn có {owner} quyền hạn.",
+    "CL_family_move_devices": "Di chuyển thiết bị",
+    "CL_family_device_moved_to_room": "Thiết bị đã được chuyển đến {room}",
+    "CL_family_devices_moved_to_home": "Các thiết bị đã được chuyển đến {home}"
 }

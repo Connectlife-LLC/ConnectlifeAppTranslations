@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Betjeningsfejl, prøv venligst igen!",
     "CL_family_join_request": "TILMELDINGSANMODNING",
     "CL_family_join_request_single": "{##} har anmodet om at blive medlem af {###} via QR-kode.",
-    "CL_family_join_request_multi": "{##} brugere anmoder om at blive medlem af {###} via QR-kode."
+    "CL_family_join_request_multi": "{##} brugere anmoder om at blive medlem af {###} via QR-kode.",
+    "CL_family_move": "Flytte",
+    "CL_family_move_appliance_to": "Flyt apparatet til",
+    "CL_family_select_home": "Vælg hjem",
+    "CL_family_select_home_to_move": "Vælg venligst en anden bolig at flytte til:",
+    "CL_family_move_owner_note": "* Du kan kun flytte enheder til hjem, hvor du har {owner} tilladelser.",
+    "CL_family_move_devices": "Flyt enheder",
+    "CL_family_device_moved_to_room": "Enhed flyttet til {room}",
+    "CL_family_devices_moved_to_home": "Enheder flyttet til {home}"
 }

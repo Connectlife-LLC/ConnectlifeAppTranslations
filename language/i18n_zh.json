@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "操作失败，请重试。",
     "CL_family_join_request": "加入请求",
     "CL_family_join_request_single": "{##} 已通过二维码申请加入 {###}。",
-    "CL_family_join_request_multi": "{##} 位用户正在申请通过二维码加入 {###}。"
+    "CL_family_join_request_multi": "{##} 位用户正在申请通过二维码加入 {###}。",
+    "CL_family_move": "移动",
+    "CL_family_move_appliance_to": "将电器移至",
+    "CL_family_select_home": "选择首页",
+    "CL_family_select_home_to_move": "请选择另一处要搬去的住所：",
+    "CL_family_move_owner_note": "您只能将设备移至您拥有的家庭。{owner} 权限。",
+    "CL_family_move_devices": "移动设备",
+    "CL_family_device_moved_to_room": "设备已移至 {room}",
+    "CL_family_devices_moved_to_home": "设备已移至 {home}"
 }

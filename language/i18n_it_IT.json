@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Operazione fallita. Riprova!",
     "CL_family_join_request": "RICHIESTA DI PARTECIPAZIONE",
     "CL_family_join_request_single": "{##} ha richiesto di unirsi a {###} tramite codice QR.",
-    "CL_family_join_request_multi": "{##} utenti stanno richiedendo di unirsi a {###} tramite codice QR."
+    "CL_family_join_request_multi": "{##} utenti stanno richiedendo di unirsi a {###} tramite codice QR.",
+    "CL_family_move": "Mossa",
+    "CL_family_move_appliance_to": "Spostare l'apparecchio su",
+    "CL_family_select_home": "Seleziona la home",
+    "CL_family_select_home_to_move": "Seleziona un'altra casa in cui trasferirti:",
+    "CL_family_move_owner_note": "* Puoi spostare i dispositivi solo nelle case in cui hai {owner} permessi.",
+    "CL_family_move_devices": "Spostare i dispositivi",
+    "CL_family_device_moved_to_room": "Dispositivo spostato su {room}",
+    "CL_family_devices_moved_to_home": "Dispositivi spostati su {home}"
 }

@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Operacija ni uspela, poskusite znova!",
     "CL_family_join_request": "ZAHTEVEK ZA PRIDRUŽITEV",
     "CL_family_join_request_single": "{##} je zaprosil/a za pridružitev {###} prek kode QR.",
-    "CL_family_join_request_multi": "{##} uporabnikov zahteva pridružitev {###} prek kode QR."
+    "CL_family_join_request_multi": "{##} uporabnikov zahteva pridružitev {###} prek kode QR.",
+    "CL_family_move": "Premakni",
+    "CL_family_move_appliance_to": "Premaknite aparat v",
+    "CL_family_select_home": "Izberite dom",
+    "CL_family_select_home_to_move": "Izberite drug dom za selitev:",
+    "CL_family_move_owner_note": "* Naprave lahko premaknete le v domove, kjer jih imate {owner} dovoljenja.",
+    "CL_family_move_devices": "Premaknite naprave",
+    "CL_family_device_moved_to_room": "Naprava je bila premaknjena v {room}",
+    "CL_family_devices_moved_to_home": "Naprave, premaknjene v {home}"
 }

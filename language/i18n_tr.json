@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "İşlem başarısız oldu. Lütfen tekrar deneyin.",
     "CL_family_join_request": "KATILIM TALEBİ",
     "CL_family_join_request_single": "{##}, QR kodu aracılığıyla {###}'e katılma talebinde bulundu.",
-    "CL_family_join_request_multi": "{##} kullanıcı QR kodu aracılığıyla {###}'e katılmak istiyor."
+    "CL_family_join_request_multi": "{##} kullanıcı QR kodu aracılığıyla {###}'e katılmak istiyor.",
+    "CL_family_move": "Taşınmak",
+    "CL_family_move_appliance_to": "Cihazı taşı",
+    "CL_family_select_home": "Ana sayfayı seçin",
+    "CL_family_select_home_to_move": "Lütfen taşınmak istediğiniz başka bir evi seçin:",
+    "CL_family_move_owner_note": "* Cihazları yalnızca yetkinizin bulunduğu evlere taşıyabilirsiniz. {owner} izinler.",
+    "CL_family_move_devices": "Cihazları taşı",
+    "CL_family_device_moved_to_room": "Cihaz taşındı {room}",
+    "CL_family_devices_moved_to_home": "Cihazlar taşındı {home}"
 }

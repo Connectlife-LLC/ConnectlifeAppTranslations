@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Operácia zlyhala, skúste to znova!",
     "CL_family_join_request": "Žiadosť o pripojenie",
     "CL_family_join_request_single": "{##} požiadal(a) o pripojenie sa k {###} prostredníctvom QR kódu.",
-    "CL_family_join_request_multi": "Používatelia ({##}) žiadajú o pripojenie k {###} prostredníctvom QR kódu."
+    "CL_family_join_request_multi": "Používatelia ({##}) žiadajú o pripojenie k {###} prostredníctvom QR kódu.",
+    "CL_family_move": "Presunúť",
+    "CL_family_move_appliance_to": "Presuňte spotrebič do",
+    "CL_family_select_home": "Vyberte domov",
+    "CL_family_select_home_to_move": "Prosím, vyberte si iný domov, do ktorého sa chcete presťahovať:",
+    "CL_family_move_owner_note": "* Zariadenia môžete premiestňovať iba do domov, kde máte {owner} povolenia.",
+    "CL_family_move_devices": "Presunúť zariadenia",
+    "CL_family_device_moved_to_room": "Zariadenie presunuté do {room}",
+    "CL_family_devices_moved_to_home": "Zariadenia presunuté do {home}"
 }

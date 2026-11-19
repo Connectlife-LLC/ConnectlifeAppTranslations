@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Vorgang fehlgeschlagen. Bitte versuchen Sie es erneut!",
     "CL_family_join_request": "Beitrittsanfrage",
     "CL_family_join_request_single": "{##} hat die Teilnahme an {###} über QR-Code beantragt.",
-    "CL_family_join_request_multi": "{##} Benutzer beantragen die Mitgliedschaft bei {###} über einen QR-Code."
+    "CL_family_join_request_multi": "{##} Benutzer beantragen die Mitgliedschaft bei {###} über einen QR-Code.",
+    "CL_family_move": "Bewegen",
+    "CL_family_move_appliance_to": "Gerät verschieben nach",
+    "CL_family_select_home": "Startseite auswählen",
+    "CL_family_select_home_to_move": "Bitte wählen Sie eine andere Wohnung aus, in die Sie umziehen möchten:",
+    "CL_family_move_owner_note": "* Sie können Geräte nur in Haushalte mitnehmen, in denen Sie ein entsprechendes Konto haben. {owner} Berechtigungen.",
+    "CL_family_move_devices": "Geräte bewegen",
+    "CL_family_device_moved_to_room": "Gerät verschoben nach {room}",
+    "CL_family_devices_moved_to_home": "Geräte verschoben nach {home}"
 }

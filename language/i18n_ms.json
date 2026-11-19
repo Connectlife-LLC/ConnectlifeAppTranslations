@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Operasi gagal. Sila cuba lagi.",
     "CL_family_join_request": "PERMINTAAN SERTAI",
     "CL_family_join_request_single": "{##} telah meminta untuk menyertai {###} melalui kod QR.",
-    "CL_family_join_request_multi": "Pengguna {##} meminta untuk menyertai {###} melalui kod QR."
+    "CL_family_join_request_multi": "Pengguna {##} meminta untuk menyertai {###} melalui kod QR.",
+    "CL_family_move": "Bergerak",
+    "CL_family_move_appliance_to": "Alihkan perkakas ke",
+    "CL_family_select_home": "Pilih rumah",
+    "CL_family_select_home_to_move": "Sila pilih rumah lain untuk berpindah:",
+    "CL_family_move_owner_note": "* Anda hanya boleh memindahkan peranti ke rumah di mana anda mempunyai {owner} kebenaran.",
+    "CL_family_move_devices": "Alihkan peranti",
+    "CL_family_device_moved_to_room": "Peranti dipindahkan ke {room}",
+    "CL_family_devices_moved_to_home": "Peranti dipindahkan ke {home}"
 }

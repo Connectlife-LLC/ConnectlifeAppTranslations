@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Toiminto epäonnistui. Yritä uudelleen.",
     "CL_family_join_request": "LIITTYMISPYYNTÖ",
     "CL_family_join_request_single": "{##} on pyytänyt liittymistä {###}-ryhmään QR-koodin kautta.",
-    "CL_family_join_request_multi": "{##} käyttäjää pyytää liittymistä {###}-palveluun QR-koodin kautta."
+    "CL_family_join_request_multi": "{##} käyttäjää pyytää liittymistä {###}-palveluun QR-koodin kautta.",
+    "CL_family_move": "Liikkua",
+    "CL_family_move_appliance_to": "Siirrä laite kohteeseen",
+    "CL_family_select_home": "Valitse koti",
+    "CL_family_select_home_to_move": "Valitse toinen koti, johon haluat muuttaa:",
+    "CL_family_move_owner_note": "* Voit siirtää laitteita vain koteihin, joissa sinulla on {owner} käyttöoikeudet.",
+    "CL_family_move_devices": "Siirrä laitteita",
+    "CL_family_device_moved_to_room": "Laite siirretty kohteeseen {room}",
+    "CL_family_devices_moved_to_home": "Laitteet siirretty kohteeseen {home}"
 }

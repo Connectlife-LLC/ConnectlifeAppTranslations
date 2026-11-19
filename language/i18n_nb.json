@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "Operasjonen mislyktes. Prøv på nytt.",
     "CL_family_join_request": "FORESPØRSEL OM BLI MEDLEM",
     "CL_family_join_request_single": "{##} har bedt om å bli med i {###} via QR-kode.",
-    "CL_family_join_request_multi": "{##} brukere ber om å bli med i {###} via QR-kode."
+    "CL_family_join_request_multi": "{##} brukere ber om å bli med i {###} via QR-kode.",
+    "CL_family_move": "Flytte",
+    "CL_family_move_appliance_to": "Flytt apparatet til",
+    "CL_family_select_home": "Velg hjem",
+    "CL_family_select_home_to_move": "Vennligst velg et annet hjem å flytte til:",
+    "CL_family_move_owner_note": "* Du kan bare flytte enheter til hjem der du har {owner} tillatelser.",
+    "CL_family_move_devices": "Flytt enheter",
+    "CL_family_device_moved_to_room": "Enheten er flyttet til {room}",
+    "CL_family_devices_moved_to_home": "Enheter flyttet til {home}"
 }

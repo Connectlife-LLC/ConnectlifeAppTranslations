@@ -9518,5 +9518,13 @@
     "CL_family_operation_failed": "L'opération a échoué. Veuillez réessayer !",
     "CL_family_join_request": "DEMANDE D'ADHÉSION",
     "CL_family_join_request_single": "{##} a demandé à rejoindre {###} via un code QR.",
-    "CL_family_join_request_multi": "{##} utilisateurs demandent à rejoindre {###} via un code QR."
+    "CL_family_join_request_multi": "{##} utilisateurs demandent à rejoindre {###} via un code QR.",
+    "CL_family_move": "Se déplacer",
+    "CL_family_move_appliance_to": "Déplacer l'appareil vers",
+    "CL_family_select_home": "Sélectionner le domicile",
+    "CL_family_select_home_to_move": "Veuillez sélectionner un autre logement où emménager :",
+    "CL_family_move_owner_note": "Vous pouvez uniquement déplacer des appareils vers les domiciles où vous avez {owner} autorisations.",
+    "CL_family_move_devices": "Déplacer les appareils",
+    "CL_family_device_moved_to_room": "L'appareil a été déplacé vers {room}",
+    "CL_family_devices_moved_to_home": "Appareils déplacés vers {home}"
 }
