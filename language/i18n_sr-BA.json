@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "НОВИ ПОЗИВ ПРИХВАТИ",
     "CL_family_invitation_accept_desc": "Придружили сте се \"{home} \", прећи на то?",
     "CL_family_switch_to_new_home": "ПРЕЂИ НА НОВИ ДОМ",
-    "CL_family_stay_in_current_home": "ОСТАНИ У ТРЕНУТНОМ ДОМУ"
+    "CL_family_stay_in_current_home": "ОСТАНИ У ТРЕНУТНОМ ДОМУ",
+    "CL_DV_wcc_time_out_tips": "Кућиште прелази у стање приправности када је неактивно током изабраног времена.",
+    "CL_DV_wcc_asko_off_line": "Ваш уређај је ван мреже.",
+    "CL_DV_RF_holiday_tips_title": "Искључите режим одмора",
+    "CL_family_invitation_accept_title_o": "НОВА ПОЗИВНИЦА",
+    "CL_family_invitation_accept_desc_o": "Позвани сте да будете менаџер/члан „{##}“ од стране „{###}“."
 }

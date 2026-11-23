@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "НОВОЕ ПРИГЛАШЕНИЕ ПРИНЯТЬ",
     "CL_family_invitation_accept_desc": "Вы присоединились к \"{home} \"Переключиться на это?\"",
     "CL_family_switch_to_new_home": "ПЕРЕЙТИ В НОВЫЙ ДОМ",
-    "CL_family_stay_in_current_home": "ОСТАВАЙТЕСЬ В СВОЕМ НЫНЕШНЕМ ДОМЕ"
+    "CL_family_stay_in_current_home": "ОСТАВАЙТЕСЬ В СВОЕМ НЫНЕШНЕМ ДОМЕ",
+    "CL_DV_wcc_time_out_tips": "Шкаф переходит в режим ожидания, когда он неактивен в течение выбранного времени.",
+    "CL_DV_wcc_asko_off_line": "Прибор не в сети",
+    "CL_DV_RF_holiday_tips_title": "ВЫКЛЮЧИТЬ РЕЖИМ «ОТПУСК»",
+    "CL_family_invitation_accept_title_o": "НОВОЕ ПРИГЛАШЕНИЕ",
+    "CL_family_invitation_accept_desc_o": "Вас приглашают стать менеджером/участником группы «{###}» от группы «{###}»."
 }

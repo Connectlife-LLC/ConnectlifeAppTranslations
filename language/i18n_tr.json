@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "YENİ DAVET KABUL EDİLDİ",
     "CL_family_invitation_accept_desc": "\"Katıldınız{home} \", ona geçelim mi?\"",
     "CL_family_switch_to_new_home": "YENİ EVE GEÇİŞ",
-    "CL_family_stay_in_current_home": "MEVCUT EVİNİZDE KALIN"
+    "CL_family_stay_in_current_home": "MEVCUT EVİNİZDE KALIN",
+    "CL_DV_wcc_time_out_tips": "Seçilen süre boyunca kullanılmadığında kabin bekleme moduna geçer.",
+    "CL_DV_wcc_asko_off_line": "Cihazınız çevrimdışı.",
+    "CL_DV_RF_holiday_tips_title": "Tatil modunu kapatın.",
+    "CL_family_invitation_accept_title_o": "YENİ DAVETİYE",
+    "CL_family_invitation_accept_desc_o": "“{###}” tarafından “{##}” şirketinin yöneticisi/üyesi olmaya davetlisiniz."
 }

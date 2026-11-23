@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "قبول دعوة جديدة",
     "CL_family_invitation_accept_desc": "لقد انضممت إلى \"{home}، هل يجب التحول إليه؟",
     "CL_family_switch_to_new_home": "انتقل إلى منزل جديد",
-    "CL_family_stay_in_current_home": "البقاء في المنزل الحالي"
+    "CL_family_stay_in_current_home": "البقاء في المنزل الحالي",
+    "CL_DV_wcc_time_out_tips": "يدخل الجهاز في وضع الاستعداد عندما يكون غير نشط خلال الفترة الزمنية المحددة.",
+    "CL_DV_wcc_asko_off_line": "جهازك غير متصل بالإنترنت",
+    "CL_DV_RF_holiday_tips_title": "قم بإيقاف تشغيل وضع العطلة",
+    "CL_family_invitation_accept_title_o": "دعوة جديدة",
+    "CL_family_invitation_accept_desc_o": "أنت مدعو لتكون مديرًا/عضوًا في \"{##}\" من قبل \"{###}\"."
 }

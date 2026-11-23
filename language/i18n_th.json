@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "ยอมรับคำเชิญใหม่",
     "CL_family_invitation_accept_desc": "คุณได้เข้าร่วม \"{home} เปลี่ยนไปใช้แบบนั้นเหรอ?",
     "CL_family_switch_to_new_home": "ย้ายไปบ้านหลังใหม่",
-    "CL_family_stay_in_current_home": "อยู่ในบ้านปัจจุบันต่อไป"
+    "CL_family_stay_in_current_home": "อยู่ในบ้านปัจจุบันต่อไป",
+    "CL_DV_wcc_time_out_tips": "ตู้จะเข้าสู่โหมดสแตนด์บายเมื่อไม่มีการใช้งานเป็นเวลาตามที่กำหนดไว้",
+    "CL_DV_wcc_asko_off_line": "เครื่องใช้ของคุณออฟไลน์ (Khrueang chị̂ k̄hxng khun xof̒lain̂)",
+    "CL_DV_RF_holiday_tips_title": "ปิดโหมดวันหยุด",
+    "CL_family_invitation_accept_title_o": "คำเชิญใหม่",
+    "CL_family_invitation_accept_desc_o": "คุณได้รับเชิญให้เป็นผู้จัดการ/สมาชิกของ “{##}” โดย “{###}”"
 }

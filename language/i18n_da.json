@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "NY INVITATION ACCEPTÉR",
     "CL_family_invitation_accept_desc": "Du har tilmeldt dig \"{home} \", skift til den?\"",
     "CL_family_switch_to_new_home": "SKIFT TIL NYT HJEM",
-    "CL_family_stay_in_current_home": "BLIV I DIT NUVÆRENDE HJEM"
+    "CL_family_stay_in_current_home": "BLIV I DIT NUVÆRENDE HJEM",
+    "CL_DV_wcc_time_out_tips": "Skabet går i standby, når det har været inaktivt i den valgte tid.",
+    "CL_DV_wcc_asko_off_line": "Din enhed er offline.",
+    "CL_DV_RF_holiday_tips_title": "Slå ferietilstand fra",
+    "CL_family_invitation_accept_title_o": "NY INVITATION",
+    "CL_family_invitation_accept_desc_o": "Du er inviteret til at blive manager/medlem af “{##}” af “{###}”."
 }

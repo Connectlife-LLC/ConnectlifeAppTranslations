@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "新しい招待を承諾する",
     "CL_family_invitation_accept_desc": "あなたは「{home} 「、それに切り替える？」",
     "CL_family_switch_to_new_home": "新しい家に引っ越す",
-    "CL_family_stay_in_current_home": "現在の住居に留まる"
+    "CL_family_stay_in_current_home": "現在の住居に留まる",
+    "CL_DV_wcc_time_out_tips": "キャビネットは、設定された時間操作がないとスタンバイモードになります。",
+    "CL_DV_wcc_asko_off_line": "デバイスがオフラインです。",
+    "CL_DV_RF_holiday_tips_title": "ホリデーモードをオフにする",
+    "CL_family_invitation_accept_title_o": "新しい招待状",
+    "CL_family_invitation_accept_desc_o": "「{###}」より「{##}」のマネージャー/メンバーにご招待されました。"
 }

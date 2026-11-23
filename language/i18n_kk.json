@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "ЖАҢА ШАҚЫРУ ҚАБЫЛДАУ",
     "CL_family_invitation_accept_desc": "Сіз қосылдыңыз \"{home} \", оған ауысу?",
     "CL_family_switch_to_new_home": "ЖАҢА ҮЙГЕ АУЫСУ",
-    "CL_family_stay_in_current_home": "ҚАЗІРГІ ҮЙІҢІЗДЕ БОЛЫҢЫЗ"
+    "CL_family_stay_in_current_home": "ҚАЗІРГІ ҮЙІҢІЗДЕ БОЛЫҢЫЗ",
+    "CL_DV_wcc_time_out_tips": "Таңдалған уақыт ішінде белсенді емес болған кезде шкаф күту режиміне өтеді.",
+    "CL_DV_wcc_asko_off_line": "Сіздің құрылғысыңыз оффлайн. (Sizdіñ qurılǵysıñız offline.)",
+    "CL_DV_RF_holiday_tips_title": "Мереке режимін өшіру",
+    "CL_family_invitation_accept_title_o": "ЖАҢА ШАҚЫРУ",
+    "CL_family_invitation_accept_desc_o": "Сізді “{###}” тобының менеджері/мүшесі болуға “{##}” тобына шақырамыз."
 }

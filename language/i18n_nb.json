@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "NY INVITASJON GODTA",
     "CL_family_invitation_accept_desc": "Du har blitt med i \"{home} \", bytte til den?",
     "CL_family_switch_to_new_home": "BYTT TIL NYTT HJEM",
-    "CL_family_stay_in_current_home": "BLI I NÅVÆRENDE HJEM"
+    "CL_family_stay_in_current_home": "BLI I NÅVÆRENDE HJEM",
+    "CL_DV_wcc_time_out_tips": "Skapet går i standby når det har vært inaktivt i den valgte tiden.",
+    "CL_DV_wcc_asko_off_line": "Enheten din er offline.",
+    "CL_DV_RF_holiday_tips_title": "Slå av feriemodus",
+    "CL_family_invitation_accept_title_o": "NY INVITASJON",
+    "CL_family_invitation_accept_desc_o": "Du er invitert til å bli leder/medlem av «{##}» av «{###}»."
 }

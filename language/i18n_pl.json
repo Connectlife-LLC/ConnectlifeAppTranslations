@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "NOWE ZAPROSZENIE AKCEPTUJ",
     "CL_family_invitation_accept_desc": "Dołączyłeś do \"{home} \", przełączyć się na to?",
     "CL_family_switch_to_new_home": "PRZEJDŹ DO NOWEGO DOMU",
-    "CL_family_stay_in_current_home": "ZOSTAŃ W OBECNYM DOMU"
+    "CL_family_stay_in_current_home": "ZOSTAŃ W OBECNYM DOMU",
+    "CL_DV_wcc_time_out_tips": "Szafka przechodzi w tryb czuwania, gdy nie jest używana przez wybrany czas.",
+    "CL_DV_wcc_asko_off_line": "Twoje urządzenie jest offline",
+    "CL_DV_RF_holiday_tips_title": "Wyłącz tryb wakacyjny",
+    "CL_family_invitation_accept_title_o": "NOWE ZAPROSZENIE",
+    "CL_family_invitation_accept_desc_o": "Zostałeś zaproszony do zostania menedżerem/członkiem „{##}” przez „{###}”."
 }

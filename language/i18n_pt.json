@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "NOVO CONVITE ACEITO",
     "CL_family_invitation_accept_desc": "Você se juntou a \"{home} \", mudar para isso?\"",
     "CL_family_switch_to_new_home": "MUDAR PARA UMA NOVA CASA",
-    "CL_family_stay_in_current_home": "PERMANEÇA NA CASA ATUAL"
+    "CL_family_stay_in_current_home": "PERMANEÇA NA CASA ATUAL",
+    "CL_DV_wcc_time_out_tips": "O gabinete entra em modo de espera quando permanece inativo pelo tempo selecionado.",
+    "CL_DV_wcc_asko_off_line": "O seu equipamento está offline",
+    "CL_DV_RF_holiday_tips_title": "Desative o modo Férias",
+    "CL_family_invitation_accept_title_o": "NOVO CONVITE",
+    "CL_family_invitation_accept_desc_o": "Você está convidado(a) a ser gerente/membro de “{##}” por “{###}”."
 }
