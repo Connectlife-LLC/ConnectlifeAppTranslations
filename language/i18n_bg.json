@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "НОВА ПОКАНА ПРИЕМАНЕ",
     "CL_family_invitation_accept_desc": "Вие се присъединихте към \"{home} \", да превключим към него?",
     "CL_family_switch_to_new_home": "ПРЕМИНЕТЕ КЪМ НОВ ДОМ",
-    "CL_family_stay_in_current_home": "ОСТАНЕТЕ В НАСТОЯЩИЯ СИ ДОМ"
+    "CL_family_stay_in_current_home": "ОСТАНЕТЕ В НАСТОЯЩИЯ СИ ДОМ",
+    "CL_DV_wcc_time_out_tips": "Шкафът преминава в режим на готовност, когато е неактивен за избраното време.",
+    "CL_DV_wcc_asko_off_line": "Вашето устройство е извън линия."
 }

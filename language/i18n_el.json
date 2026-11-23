@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "ΝΕΑ ΠΡΟΣΚΛΗΣΗ ΑΠΟΔΟΧΗ",
     "CL_family_invitation_accept_desc": "Έχετε ενταχθεί\"{home} \", να αλλάξω σε αυτό;\"",
     "CL_family_switch_to_new_home": "ΜΕΤΑΒΑΣΗ ΣΕ ΝΕΟ ΣΠΙΤΙ",
-    "CL_family_stay_in_current_home": "ΜΕΙΝΕ ΣΤΟ ΤΡΕΧΟΝ ΣΠΙΤΙ"
+    "CL_family_stay_in_current_home": "ΜΕΙΝΕ ΣΤΟ ΤΡΕΧΟΝ ΣΠΙΤΙ",
+    "CL_DV_wcc_time_out_tips": "Το περίβλημα μεταβαίνει σε κατάσταση αναμονής όταν είναι ανενεργό για το επιλεγμένο χρονικό διάστημα.",
+    "CL_DV_wcc_asko_off_line": "Η συσκευή σας είναι εκτός σύνδεσης."
 }

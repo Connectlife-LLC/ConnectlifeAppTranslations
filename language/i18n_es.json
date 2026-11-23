@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "NUEVA INVITACIÓN ACEPTADA",
     "CL_family_invitation_accept_desc": "Te has unido a \"{home} \", ¿cambiar a eso?",
     "CL_family_switch_to_new_home": "CAMBIAR A UNA NUEVA CASA",
-    "CL_family_stay_in_current_home": "PERMANEZCA EN SU HOGAR ACTUAL"
+    "CL_family_stay_in_current_home": "PERMANEZCA EN SU HOGAR ACTUAL",
+    "CL_DV_wcc_time_out_tips": "El armario entra en modo de espera cuando permanece inactivo durante el tiempo seleccionado.",
+    "CL_DV_wcc_asko_off_line": "Tu dispositivo está desconectado."
 }

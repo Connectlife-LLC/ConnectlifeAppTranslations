@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "دعوتنامه جدید پذیرفته می‌شود",
     "CL_family_invitation_accept_desc": "شما عضو شدید\"{home} \"، به آن تغییر دهید؟",
     "CL_family_switch_to_new_home": "به خانه جدید بروید",
-    "CL_family_stay_in_current_home": "در خانه فعلی بمانید"
+    "CL_family_stay_in_current_home": "در خانه فعلی بمانید",
+    "CL_DV_wcc_time_out_tips": "وقتی کابینت برای مدت زمان انتخاب شده غیرفعال باشد، به حالت آماده به کار می‌رود.",
+    "CL_DV_wcc_asko_off_line": "دستگاه شما آفلاین است"
 }

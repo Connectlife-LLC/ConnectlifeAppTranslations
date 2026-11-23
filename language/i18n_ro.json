@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "ACCEPTARE INVITAȚIE NOUĂ",
     "CL_family_invitation_accept_desc": "Te-ai alăturat „{home} \", să treci la asta?\"",
     "CL_family_switch_to_new_home": "TRECEȚI LA O CASĂ NOUĂ",
-    "CL_family_stay_in_current_home": "RĂMÂNEȚI ÎN CASA ACTUALĂ"
+    "CL_family_stay_in_current_home": "RĂMÂNEȚI ÎN CASA ACTUALĂ",
+    "CL_DV_wcc_time_out_tips": "Dulapul intră în standby când este inactiv pentru timpul selectat.",
+    "CL_DV_wcc_asko_off_line": "Aparatul dvs. este offline."
 }

@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "새로운 초대 수락",
     "CL_family_invitation_accept_desc": "\"에 참여하셨습니다\"{home} \", 그걸로 바꾸시겠어요?\"",
     "CL_family_switch_to_new_home": "새로운 집으로 이사하세요",
-    "CL_family_stay_in_current_home": "현재 거주지에 머무르세요"
+    "CL_family_stay_in_current_home": "현재 거주지에 머무르세요",
+    "CL_DV_wcc_time_out_tips": "캐비닛은 선택한 시간 동안 사용하지 않으면 대기 모드로 전환됩니다.",
+    "CL_DV_wcc_asko_off_line": "장치가 오프라인입니다. (Jangchiga opeulainimnida.)"
 }

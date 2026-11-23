@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "NOUVELLE INVITATION ACCEPTÉE",
     "CL_family_invitation_accept_desc": "Vous avez rejoint \"{home} \", passez à ça ?",
     "CL_family_switch_to_new_home": "DÉMÉNAGER DANS UNE NOUVELLE MAISON",
-    "CL_family_stay_in_current_home": "RESTEZ CHEZ VOUS"
+    "CL_family_stay_in_current_home": "RESTEZ CHEZ VOUS",
+    "CL_DV_wcc_time_out_tips": "L'armoire passe en mode veille lorsqu'elle est inactive pendant la durée sélectionnée.",
+    "CL_DV_wcc_asko_off_line": "Votre appareil est hors ligne."
 }

@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "PRIHVATI NOVI POZIV",
     "CL_family_invitation_accept_desc": "Pridružili ste se \"{home} \", prebaciti se na to?",
     "CL_family_switch_to_new_home": "PREĐI NA NOVI DOM",
-    "CL_family_stay_in_current_home": "OSTANI U TRENUTNOM DOMU"
+    "CL_family_stay_in_current_home": "OSTANI U TRENUTNOM DOMU",
+    "CL_DV_wcc_time_out_tips": "Ormarić prelazi u stanje pripravnosti kada je neaktivan odabrano vrijeme.",
+    "CL_DV_wcc_asko_off_line": "Vaš uređaj je izvan mreže."
 }

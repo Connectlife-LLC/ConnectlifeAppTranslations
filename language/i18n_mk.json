@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "НОВА ПОКАНА ПРИФАЌА",
     "CL_family_invitation_accept_desc": "Се придруживте\"{home} „, префрли на тоа?“",
     "CL_family_switch_to_new_home": "ПРЕФРЛЕТЕ НА НОВ ДОМ",
-    "CL_family_stay_in_current_home": "ОСТАНЕТЕ ВО ТЕКОВНИОТ ДОМ"
+    "CL_family_stay_in_current_home": "ОСТАНЕТЕ ВО ТЕКОВНИОТ ДОМ",
+    "CL_DV_wcc_time_out_tips": "Кујнскиот елемент преминува во режим на подготвеност кога е неактивен во текот на избраното време.",
+    "CL_DV_wcc_asko_off_line": "Вашиот апарат е надвор од мрежата. (Vašiot aparat e nadvor od mrežata.)"
 }

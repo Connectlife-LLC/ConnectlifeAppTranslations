@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "NIEUWE UITNODIGING AANVAARD",
     "CL_family_invitation_accept_desc": "Je hebt je aangemeld bij \"{home} \", ernaar overschakelen?\"",
     "CL_family_switch_to_new_home": "VERHUIS NAAR EEN NIEUW HUIS",
-    "CL_family_stay_in_current_home": "BLIJF IN UW HUIDIGE WONING"
+    "CL_family_stay_in_current_home": "BLIJF IN UW HUIDIGE WONING",
+    "CL_DV_wcc_time_out_tips": "De kast schakelt over naar de stand-bymodus wanneer deze gedurende de geselecteerde tijd inactief is.",
+    "CL_DV_wcc_asko_off_line": "Je wijnkast is offline."
 }

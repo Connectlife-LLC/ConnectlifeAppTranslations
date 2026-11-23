@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "HYVÄKSY UUSI KUTSU",
     "CL_family_invitation_accept_desc": "Olet liittynyt \"{home} \", vaihda siihen?",
     "CL_family_switch_to_new_home": "VAIHDA UUTEEN KOTIIN",
-    "CL_family_stay_in_current_home": "PYSY NYKYISESSÄ KOTONA"
+    "CL_family_stay_in_current_home": "PYSY NYKYISESSÄ KOTONA",
+    "CL_DV_wcc_time_out_tips": "Kaappi siirtyy valmiustilaan, kun se on ollut käyttämättä valitun ajan.",
+    "CL_DV_wcc_asko_off_line": "Laiteesi on offline-tilassa."
 }

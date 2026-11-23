@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "CHẤP NHẬN LỜI M ...�I",
     "CL_family_invitation_accept_desc": "Bạn đã tham gia \"{home} \", chuyển sang dùng nó à?\"",
     "CL_family_switch_to_new_home": "CHUYỂN ĐẾN NGÔI NHÀ MỚI",
-    "CL_family_stay_in_current_home": "Ở LẠI NHÀ HIỆN TẠI"
+    "CL_family_stay_in_current_home": "Ở LẠI NHÀ HIỆN TẠI",
+    "CL_DV_wcc_time_out_tips": "Tủ sẽ chuyển sang chế độ chờ khi không hoạt động trong khoảng thời gian đã chọn.",
+    "CL_DV_wcc_asko_off_line": "Thiết bị của bạn đang ngoại tuyến"
 }

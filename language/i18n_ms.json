@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "JEMPUTAN BARU DITERIMA",
     "CL_family_invitation_accept_desc": "Anda telah menyertai\"{home} \", beralih kepadanya?",
     "CL_family_switch_to_new_home": "BERTUKAR KE RUMAH BARU",
-    "CL_family_stay_in_current_home": "TINGGAL DI RUMAH SEMASA"
+    "CL_family_stay_in_current_home": "TINGGAL DI RUMAH SEMASA",
+    "CL_DV_wcc_time_out_tips": "Kabinet akan diaktifkan dalam mod siap sedia apabila ia tidak aktif untuk masa yang dipilih.",
+    "CL_DV_wcc_asko_off_line": "Peranti anda tidak dalam talian."
 }

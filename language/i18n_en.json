@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "NEW INVITATION ACCEPT",
     "CL_family_invitation_accept_desc": "You have joined \"{home}\", switch to it ?",
     "CL_family_switch_to_new_home": "SWITCH TO NEW HOME",
-    "CL_family_stay_in_current_home": "STAY IN CURRENT HOME"
+    "CL_family_stay_in_current_home": "STAY IN CURRENT HOME",
+    "CL_DV_wcc_time_out_tips": "The cabinet goes to standby when it’s inactive for the selected time.",
+    "CL_DV_wcc_asko_off_line": "Your appliance is offline."
 }

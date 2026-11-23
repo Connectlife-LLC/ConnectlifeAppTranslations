@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "ÚJ MEGHÍVÁS ELFOGADÁSA",
     "CL_family_invitation_accept_desc": "Csatlakoztál \"{home} \", válts rá?",
     "CL_family_switch_to_new_home": "VÁLTS ÚJ OTTHONRA",
-    "CL_family_stay_in_current_home": "MARADJ A JELENLEGI OTTHONODBAN"
+    "CL_family_stay_in_current_home": "MARADJ A JELENLEGI OTTHONODBAN",
+    "CL_DV_wcc_time_out_tips": "A szekrény készenléti üzemmódba kapcsol, ha a kiválasztott ideig inaktív.",
+    "CL_DV_wcc_asko_off_line": "Az eszközöd offline."
 }

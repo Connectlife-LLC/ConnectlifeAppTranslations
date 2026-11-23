@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "UNDANGAN BARU DITERIMA",
     "CL_family_invitation_accept_desc": "Anda telah bergabung dengan \"{home} \", beralih ke sana?\"",
     "CL_family_switch_to_new_home": "PINDAH KE RUMAH BARU",
-    "CL_family_stay_in_current_home": "TETAP TINGGAL DI RUMAH SAAT INI"
+    "CL_family_stay_in_current_home": "TETAP TINGGAL DI RUMAH SAAT INI",
+    "CL_DV_wcc_time_out_tips": "Kabinet akan beralih ke mode siaga ketika tidak aktif selama waktu yang dipilih.",
+    "CL_DV_wcc_asko_off_line": "Perangkat Anda sedang offline."
 }

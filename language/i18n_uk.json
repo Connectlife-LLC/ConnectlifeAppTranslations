@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "НОВЕ ЗАПРОШЕННЯ ПРИЙНЯТИ",
     "CL_family_invitation_accept_desc": "Ви приєдналися{home} \", перейти на це ?",
     "CL_family_switch_to_new_home": "ПЕРЕЙТИ НА НОВИЙ ДІМ",
-    "CL_family_stay_in_current_home": "ЗАЛИШАЙТЕСЯ В ПОТОЧНОМУ ДОМУ"
+    "CL_family_stay_in_current_home": "ЗАЛИШАЙТЕСЯ В ПОТОЧНОМУ ДОМУ",
+    "CL_DV_wcc_time_out_tips": "Шафа переходить у режим очікування, коли вона неактивна протягом вибраного часу.",
+    "CL_DV_wcc_asko_off_line": "Ваш пристрій офлайн. (Vash prystriy oflayn.)"
 }

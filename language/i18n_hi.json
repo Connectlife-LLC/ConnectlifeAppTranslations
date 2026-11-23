@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "नया निमंत्रण स्वीकार करें",
     "CL_family_invitation_accept_desc": "आप शामिल हो गए हैं{home} \", इस पर स्विच करें?",
     "CL_family_switch_to_new_home": "नए घर पर जाएँ",
-    "CL_family_stay_in_current_home": "अपने वर्तमान घर में ही रहें"
+    "CL_family_stay_in_current_home": "अपने वर्तमान घर में ही रहें",
+    "CL_DV_wcc_time_out_tips": "चयनित समय तक निष्क्रिय रहने पर कैबिनेट स्टैंडबाय मोड में चला जाता है।",
+    "CL_DV_wcc_asko_off_line": "आपकी उपकरण ऑफ़लाइन है। (Aapki upkaran offline hai.)"
 }

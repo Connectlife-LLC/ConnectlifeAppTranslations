@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "קבלה של הזמנה חדשה",
     "CL_family_invitation_accept_desc": "הצטרפת\"{home} \", לעבור לזה?",
     "CL_family_switch_to_new_home": "מעבר לבית חדש",
-    "CL_family_stay_in_current_home": "הישאר בבית הנוכחי"
+    "CL_family_stay_in_current_home": "הישאר בבית הנוכחי",
+    "CL_DV_wcc_time_out_tips": "הארון עובר למצב המתנה כאשר הוא לא פעיל למשך הזמן שנבחר.",
+    "CL_DV_wcc_asko_off_line": "המכשיר שלך אינו מחובר לרשת. (Ha-machshir shelcha einu mekhubar la-rashet.)"
 }

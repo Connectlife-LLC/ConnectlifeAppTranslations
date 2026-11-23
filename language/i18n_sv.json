@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "NY INBJUDAN GODKÄNN",
     "CL_family_invitation_accept_desc": "Du har gått med i \"{home} \", byta till det?",
     "CL_family_switch_to_new_home": "BYT TILL NYTT HEM",
-    "CL_family_stay_in_current_home": "STANNA I NUVARANDE HEM"
+    "CL_family_stay_in_current_home": "STANNA I NUVARANDE HEM",
+    "CL_DV_wcc_time_out_tips": "Skåpet går in i standby-läge när det har varit inaktivt under den valda tiden.",
+    "CL_DV_wcc_asko_off_line": "Din enhet är offline."
 }

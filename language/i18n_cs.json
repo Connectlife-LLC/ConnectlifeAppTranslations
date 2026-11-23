@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "NOVÁ POZVÁNKA PŘIJMOUT",
     "CL_family_invitation_accept_desc": "Připojili jste se{home} \", přepnout na to?\"",
     "CL_family_switch_to_new_home": "PŘEHNOUT DO NOVÉHO DOMOVA",
-    "CL_family_stay_in_current_home": "ZŮSTAŇTE V SOUČASNÉM DOMOVĚ"
+    "CL_family_stay_in_current_home": "ZŮSTAŇTE V SOUČASNÉM DOMOVĚ",
+    "CL_DV_wcc_time_out_tips": "Skříň se přepne do pohotovostního režimu, pokud je po zvolenou dobu neaktivní.",
+    "CL_DV_wcc_asko_off_line": "Vaše zařízení je offline."
 }

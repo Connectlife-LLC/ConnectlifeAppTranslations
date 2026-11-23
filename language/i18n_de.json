@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "NEUE EINLADUNG ANNEHMEN",
     "CL_family_invitation_accept_desc": "Sie sind dem „{home} \", darauf umsteigen?\"",
     "CL_family_switch_to_new_home": "WECHSELN SIE IN EIN NEUES ZUHAUSE",
-    "CL_family_stay_in_current_home": "BLEIBEN SIE IN IHREM AKTUELLEN ZUHAUSE"
+    "CL_family_stay_in_current_home": "BLEIBEN SIE IN IHREM AKTUELLEN ZUHAUSE",
+    "CL_DV_wcc_time_out_tips": "Der Schrank schaltet in den Standby-Modus, wenn er für die ausgewählte Zeit inaktiv ist.",
+    "CL_DV_wcc_asko_off_line": "Ihr Gerät ist offline."
 }

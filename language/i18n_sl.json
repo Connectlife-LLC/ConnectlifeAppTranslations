@@ -9533,5 +9533,7 @@
     "CL_family_invitation_accept_title": "SPREJMI NOVO POVABILO",
     "CL_family_invitation_accept_desc": "Pridružili ste se \"{home} \", preklopiti nanj?",
     "CL_family_switch_to_new_home": "PREKLOPITE NA NOV DOM",
-    "CL_family_stay_in_current_home": "OSTANI V TRENUTNEM DOMU"
+    "CL_family_stay_in_current_home": "OSTANI V TRENUTNEM DOMU",
+    "CL_DV_wcc_time_out_tips": "Omarica preide v stanje pripravljenosti, ko je izbrani čas neaktivna.",
+    "CL_DV_wcc_asko_off_line": "Vaša naprava je brez povezave."
 }
