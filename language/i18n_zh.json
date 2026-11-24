@@ -9533,5 +9533,10 @@
     "CL_family_invitation_accept_title": "接受新的邀请",
     "CL_family_invitation_accept_desc": "您已加入“{home} “切换到它？”",
     "CL_family_switch_to_new_home": "切换到新家",
-    "CL_family_stay_in_current_home": "继续住在现在的房子里"
+    "CL_family_stay_in_current_home": "继续住在现在的房子里",
+    "CL_DV_wcc_time_out_tips": "当机柜在设定的时间内处于非活动状态时，它将进入待机状态。",
+    "CL_DV_wcc_asko_off_line": "您的设备已离线",
+    "CL_DV_RF_holiday_tips_title": "关闭假日模式",
+    "CL_family_invitation_accept_title_o": "新的邀请",
+    "CL_family_invitation_accept_desc_o": "您受“{###}”邀请成为“{##}”的经理/成员。"
 }
