@@ -6079,7 +6079,7 @@
     "CL_MP_copy_or_move_to_subtitle": "เลือกวันที่คุณต้องการคัดลอกหรือย้าย",
     "CL_MP_synced_system_calendar": "เครื่องมือวางแผนการรับประทานอาหารจะซิงค์กับปฏิทินระบบของคุณ",
     "CL_MP_select_date_subtitle": "เลือกวันที่คุณต้องการวางแผนมื้ออาหาร",
-    "CL_MP_select_week_subtitle": "เลือกสัปดาห์ที่คุณต้องการวางแผนมื้ออาหาร",
+    "CL_MP_select_week_subtitle": "เลือกสัปดาห์ที่คุณต้องการวางแผน",
     "CL_MP_reached_dishes_limit": "ถึงจำนวนจานที่จำกัดแล้ว",
     "CL_MP_reached_dishes_limit_content": "ไม่สามารถเพิ่มอาหารได้ จำกัด 30 จานต่อวัน",
     "CL_MP_favourite": "ที่ชื่นชอบ",
@@ -6712,7 +6712,7 @@
     "partial_match": "แมตช์บางส่วน",
     "low_match": "แมตช์ต่ำ",
     "CL_CM_minutes_short": "ม.",
-    "CL_MP_select_ai_meal_type_subtitle": "ประเภทมื้ออาหารที่เลือกต้องสร้างโดย AI",
+    "CL_MP_select_ai_meal_type_subtitle": "ประเภทอาหารที่เลือกจะถูกสร้างขึ้นโดยระบบ AI",
     "CL_CF_CS_hob_hi_6_cs_1_new": "ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณปิดอยู่ \n หากสัญลักษณ์ Wi-Fi ติดสว่างอยู่แล้ว ให้ข้ามขั้นตอนนี้และไปที่ขั้นตอนที่ 2 \n หากสัญลักษณ์ Wi-Fi ไม่ติดสว่าง ให้แตะปุ่ม Wi-Fi เพื่อเปิดใช้งาน Wi-Fi",
     "CL_CF_CS_hob_hi_6_cs_2_new": "แตะปุ่ม Wi-Fi ค้างไว้ 3 วินาที จนกระทั่ง Wi-Fi และหมายเลข 1 เริ่มกะพริบ ขณะนี้เครือข่ายอุปกรณ์เปิดสำหรับการเชื่อมต่อเป็นเวลา 5 นาที \n คลิก \"ถัดไป\" เพื่อดำเนินการต่อ",
     "CL_CF_CS_hob_hi_6_p_2_new": "แตะปุ่ม Wi-Fi ค้างไว้ 6 วินาที จนกระทั่ง Wi-Fi และหมายเลข 2 เริ่มกะพริบ อุปกรณ์พร้อมสำหรับการจับคู่เป็นเวลา 3 นาที \n คลิก \"ถัดไป\" เพื่อดำเนินการต่อ",
@@ -9533,5 +9533,14 @@
     "CL_family_invitation_accept_title": "ยอมรับคำเชิญใหม่",
     "CL_family_invitation_accept_desc": "คุณได้เข้าร่วม \"{home} เปลี่ยนไปใช้แบบนั้นเหรอ?",
     "CL_family_switch_to_new_home": "ย้ายไปบ้านหลังใหม่",
-    "CL_family_stay_in_current_home": "อยู่ในบ้านปัจจุบันต่อไป"
+    "CL_family_stay_in_current_home": "อยู่ในบ้านปัจจุบันต่อไป",
+    "CL_DV_wcc_time_out_tips": "ตู้จะเข้าสู่โหมดสแตนด์บายเมื่อไม่มีการใช้งานเป็นเวลาตามที่กำหนดไว้",
+    "CL_DV_wcc_asko_off_line": "เครื่องใช้ของคุณออฟไลน์ (Khrueang chị̂ k̄hxng khun xof̒lain̂)",
+    "CL_DV_RF_holiday_tips_title": "ปิดโหมดวันหยุด",
+    "CL_family_invitation_accept_title_o": "คำเชิญใหม่",
+    "CL_family_invitation_accept_desc_o": "คุณได้รับเชิญให้เป็นผู้จัดการ/สมาชิกของ “{##}” โดย “{###}”",
+    "edit_meal_note": "แก้ไขหมายเหตุเกี่ยวกับอาหาร",
+    "CL_DV_RF_shopping_list_delete_details": "คุณแน่ใจหรือไม่ว่าต้องการลบรายการช้อปปิ้ง?",
+    "CL_DV_RF_shopping_add_to_rf": "นำไปแช่ตู้เย็น",
+    "CL_DV_RF_sho": "โปรดตรวจสอบว่าข้อมูลอาหารใดบ้างที่ต้องแก้ไข"
 }

@@ -6079,7 +6079,7 @@
     "CL_MP_copy_or_move_to_subtitle": "選擇要複製或移動的日期。",
     "CL_MP_synced_system_calendar": "膳食計劃表將與您的系統日曆同步。",
     "CL_MP_select_date_subtitle": "選擇您想要規劃用餐的日期",
-    "CL_MP_select_week_subtitle": "選擇您想要規劃餐點的周",
+    "CL_MP_select_week_subtitle": "選擇您要規劃的周。",
     "CL_MP_reached_dishes_limit": "菜餚數量已達上限",
     "CL_MP_reached_dishes_limit_content": "無法添加更多菜色，每日限30道菜。",
     "CL_MP_favourite": "最喜歡的",
@@ -6712,7 +6712,7 @@
     "partial_match": "部分匹配",
     "low_match": "低匹配",
     "CL_CM_minutes_short": "分",
-    "CL_MP_select_ai_meal_type_subtitle": "部分餐食類型需要由人工智慧產生。",
+    "CL_MP_select_ai_meal_type_subtitle": "所選餐食類型將由人工智慧產生。",
     "CL_CF_CS_hob_hi_6_cs_1_new": "請確保您的設備已關機。\n如果 Wi-Fi 符號已亮起，請跳過此步驟並前往步驟 2。\n如果 Wi-Fi 圖示未亮起，請點選 Wi-Fi 鍵啟用 Wi-Fi。",
     "CL_CF_CS_hob_hi_6_cs_2_new": "按住 Wi-Fi 鍵 3 秒鐘，直到 Wi-Fi 指示燈和數字 1 開始閃爍。設備網路現已開放連接，有效期限為 5 分鐘。 \n點選“下一步”繼續。",
     "CL_CF_CS_hob_hi_6_p_2_new": "按住 Wi-Fi 鍵 6 秒鐘，直到 Wi-Fi 指示燈和數字 2 開始閃爍。設備現在已準備好進行配對，等待 3 分鐘。\n點選“下一步”繼續。",
@@ -9533,5 +9533,14 @@
     "CL_family_invitation_accept_title": "接受新的邀請",
     "CL_family_invitation_accept_desc": "您已加入“{home} “切換到它？”",
     "CL_family_switch_to_new_home": "切換到新家",
-    "CL_family_stay_in_current_home": "繼續住在現在的房子裡"
+    "CL_family_stay_in_current_home": "繼續住在現在的房子裡",
+    "CL_DV_wcc_time_out_tips": "當機櫃在設定的時間內處於非活動狀態時，它將進入待機狀態。",
+    "CL_DV_wcc_asko_off_line": "您的設備已離線。",
+    "CL_DV_RF_holiday_tips_title": "關閉假日模式",
+    "CL_family_invitation_accept_title_o": "新的邀請",
+    "CL_family_invitation_accept_desc_o": "您受「{###}」邀請成為「{##}」的經理/成員。",
+    "edit_meal_note": "編輯餐食備註",
+    "CL_DV_RF_shopping_list_delete_details": "您確定要刪除購物清單嗎？",
+    "CL_DV_RF_shopping_add_to_rf": "放入冰箱",
+    "CL_DV_RF_sho": "請檢查是否需要更改任何食品資訊。"
 }

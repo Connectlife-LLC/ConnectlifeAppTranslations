@@ -6079,7 +6079,7 @@
     "CL_MP_copy_or_move_to_subtitle": "Valitse kopioitava tai siirrettävä päivämäärä.",
     "CL_MP_synced_system_calendar": "Ateriasuunnittelu synkronoidaan järjestelmäkalenteriisi",
     "CL_MP_select_date_subtitle": "Valitse päivä, jolle haluat suunnitella aterian",
-    "CL_MP_select_week_subtitle": "Valitse viikko, jolle haluat suunnitella ateriat",
+    "CL_MP_select_week_subtitle": "Valitse viikko, jonka haluat suunnitella",
     "CL_MP_reached_dishes_limit": "ASTIoiden RAJA TÄYNNÄ",
     "CL_MP_reached_dishes_limit_content": "Enempää annoksia ei voi lisätä, päivittäinen raja: 30 annosta",
     "CL_MP_favourite": "Suosikki",
@@ -6712,7 +6712,7 @@
     "partial_match": "Osittainen osuma",
     "low_match": "Matala osuma",
     "CL_CM_minutes_short": "m",
-    "CL_MP_select_ai_meal_type_subtitle": "Tekoälyn on luotava valitut ateriatyypit",
+    "CL_MP_select_ai_meal_type_subtitle": "Tekoäly luo valitun ateriatyypin",
     "CL_CF_CS_hob_hi_6_cs_1_new": "Varmista, että laitteesi on sammutettu. \n Jos Wi-Fi-symboli palaa jo, ohita tämä vaihe ja siirry vaiheeseen 2. \n Jos Wi-Fi-symboli ei pala, ota Wi-Fi käyttöön napauttamalla Wi-Fi-näppäintä.",
     "CL_CF_CS_hob_hi_6_cs_2_new": "Napauta ja pidä Wi-Fi-näppäintä painettuna 3 sekuntia, kunnes Wi-Fi ja numero 1 alkavat vilkkua. Laitteen verkko on nyt avoinna yhteydelle 5 minuutiksi. \n Jatka napsauttamalla SEURAAVA.",
     "CL_CF_CS_hob_hi_6_p_2_new": "Napauta ja pidä Wi-Fi-näppäintä painettuna 6 sekuntia, kunnes Wi-Fi ja numero 2 alkavat vilkkua. Laite on nyt valmis pariliitokseen 3 minuutin ajan. \n Jatka napsauttamalla SEURAAVA.",
@@ -9533,5 +9533,14 @@
     "CL_family_invitation_accept_title": "HYVÄKSY UUSI KUTSU",
     "CL_family_invitation_accept_desc": "Olet liittynyt \"{home} \", vaihda siihen?",
     "CL_family_switch_to_new_home": "VAIHDA UUTEEN KOTIIN",
-    "CL_family_stay_in_current_home": "PYSY NYKYISESSÄ KOTONA"
+    "CL_family_stay_in_current_home": "PYSY NYKYISESSÄ KOTONA",
+    "CL_DV_wcc_time_out_tips": "Kaappi siirtyy valmiustilaan, kun se on ollut käyttämättä valitun ajan.",
+    "CL_DV_wcc_asko_off_line": "Laiteesi on offline-tilassa.",
+    "CL_DV_RF_holiday_tips_title": "Lomatilan poistaminen käytöstä",
+    "CL_family_invitation_accept_title_o": "UUSI KUTSU",
+    "CL_family_invitation_accept_desc_o": "Sinut on kutsuttu “{##}”:n manageriksi/jäseneksi käyttäjältä “{###}”.",
+    "edit_meal_note": "MUOKKAA ATERIAN HUOMAUTUSTA",
+    "CL_DV_RF_shopping_list_delete_details": "Oletko varma, että haluat poistaa ostoslistan?",
+    "CL_DV_RF_shopping_add_to_rf": "Lisää jääkaappiin",
+    "CL_DV_RF_sho": "Tarkista, onko elintarviketietoja tarpeen muuttaa"
 }

@@ -6079,7 +6079,7 @@
     "CL_MP_copy_or_move_to_subtitle": "Vyberte dátum, ktorý chcete kopírovať alebo presunúť.",
     "CL_MP_synced_system_calendar": "Plánovač jedál bude synchronizovaný s vaším systémovým kalendárom",
     "CL_MP_select_date_subtitle": "Vyberte si deň, kedy chcete naplánovať jedlo",
-    "CL_MP_select_week_subtitle": "Vyberte si týždeň, na ktorý chcete naplánovať stravu",
+    "CL_MP_select_week_subtitle": "Vyberte si týždeň, ktorý chcete naplánovať",
     "CL_MP_reached_dishes_limit": "DOSIAHNUTÝ LIMIT RIADOV",
     "CL_MP_reached_dishes_limit_content": "Nie je možné pridať ďalšie jedlá, denný limit: 30 jedál",
     "CL_MP_favourite": "Obľúbené",
@@ -6712,7 +6712,7 @@
     "partial_match": "Čiastočná zhoda",
     "low_match": "Nízka zhoda",
     "CL_CM_minutes_short": "m",
-    "CL_MP_select_ai_meal_type_subtitle": "Vybrané typy jedál musí generovať umelá inteligencia",
+    "CL_MP_select_ai_meal_type_subtitle": "Vybraný typ jedla vygeneruje umelá inteligencia.",
     "CL_CF_CS_hob_hi_6_cs_1_new": "Uistite sa, že je zariadenie vypnuté. \n Ak symbol Wi-Fi už svieti, tento krok preskočte a prejdite na krok 2. \n Ak symbol Wi-Fi nesvieti, klepnite na kláves Wi-Fi a aktivujte Wi-Fi.",
     "CL_CF_CS_hob_hi_6_cs_2_new": "Klepnite a podržte tlačidlo Wi-Fi 3 sekundy, kým nezačne blikať Wi-Fi a číslo 1. Sieť zariadenia je teraz otvorená na pripojenie na 5 minút. \n Kliknite na ĎALEJ pre pokračovanie.",
     "CL_CF_CS_hob_hi_6_p_2_new": "Klepnite a podržte tlačidlo Wi-Fi 6 sekúnd, kým nezačne blikať Wi-Fi a číslo 2. Zariadenie je teraz pripravené na párovanie po dobu 3 minút. \n Kliknite na ĎALEJ pre pokračovanie.",
@@ -9533,5 +9533,14 @@
     "CL_family_invitation_accept_title": "NOVÁ POZVÁNKA PRIJÍMAŤ",
     "CL_family_invitation_accept_desc": "Pripojili ste sa{home} \", prejsť na to?\"",
     "CL_family_switch_to_new_home": "PREPNÚŤ NA NOVÝ DOMOV",
-    "CL_family_stay_in_current_home": "ZOSTAŇTE V SÚČASNOM DOMOVE"
+    "CL_family_stay_in_current_home": "ZOSTAŇTE V SÚČASNOM DOMOVE",
+    "CL_DV_wcc_time_out_tips": "Skrinka prejde do pohotovostného režimu, keď je neaktívna počas zvoleného času.",
+    "CL_DV_wcc_asko_off_line": "Váš prístroj je offline.",
+    "CL_DV_RF_holiday_tips_title": "Vypnúť režim Dovolenka",
+    "CL_family_invitation_accept_title_o": "NOVÁ POZVÁNKA",
+    "CL_family_invitation_accept_desc_o": "Používateľ „{###}“ vás pozýva, aby ste sa stali správcom/členom skupiny „{##}“.",
+    "edit_meal_note": "UPRAVIŤ POZNÁMKU K JEDLU",
+    "CL_DV_RF_shopping_list_delete_details": "Naozaj chcete odstrániť nákupný zoznam?",
+    "CL_DV_RF_shopping_add_to_rf": "Pridať do chladničky",
+    "CL_DV_RF_sho": "Skontrolujte, či je potrebné zmeniť nejaké informácie o potravinách."
 }
