@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Ograniczona temperatura",
     "CL_family_device_moved_to_room": "Twoje urządzenie zostało przeniesione do nowego pokoju „{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Naciśnij i przytrzymaj ikonę Wi-Fi przez 5 sekund, aż na wyświetlaczu pojawi się napis „Con”.\n\nJeśli zamiast tego pojawi się „PAI”, przesuń palec w lewo na suwaku, aż pojawi się „Con”.\n\nKliknij Dalej tylko wtedy, gdy wyświetli się „Kon”.",
-    "CL_DV_w_location_des": "Lokalizacja pogody służy do uzyskania informacji o pogodzie w miejscu Twojego zamieszkania, co pozwala nam polecić Ci dokładniejsze rozwiązanie w zakresie uzdatniania powietrza."
+    "CL_DV_w_location_des": "Lokalizacja pogody służy do uzyskania informacji o pogodzie w miejscu Twojego zamieszkania, co pozwala nam polecić Ci dokładniejsze rozwiązanie w zakresie uzdatniania powietrza.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Łatwy serwis jest aktywny",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Podawać i przechowywać jest aktywne",
+    "CL_DV_wcc_wine_profile_stable_aging": "Stabilne starzenie się jest aktywne",
+    "CL_DV_wcc_wine_serve_and_store": "Podawać i przechowywać",
+    "CL_DV_wcc_reset_to_default_details": "Spowoduje to przywrócenie wszystkich ustawień do wartości domyślnych. Dane dotyczące Twojego inwentarza pozostaną niezmienione.\nCzy na pewno chcesz zresetować?",
+    "CL_DV_wcc_reset_factory_details": "Ta czynność usunie wszystkie dane z urządzenia i przywróci je do ustawień pierwotnych. Tego procesu nie można cofnąć. Czy na pewno chcesz kontynuować?"
 }

@@ -9251,7 +9251,7 @@
     "laundry_pick_up_tips": "你的衣服洗好了！快拿走吧，免得起皱！",
     "CL_DV_OV_est_duration": "预计持续时间",
     "CL_DV_OV_est_preheat": "预热",
-    "setting_remote_hold_desc": "通过“保持连接”功能，您可以在洗涤周期结束后 24 小时内远程控制洗衣机。",
+    "setting_remote_hold_desc": "通过“远程保持”功能，您可以在洗护周期结束后 24 小时内远程控制洗衣机。",
     "CL_Energy_optimizer_card_subtitle": "根据动态电价和多余的太阳能，优化能源利用",
     "CL_CF_energy_ai_eco_action_desc": "启用AI节能模式，降低功耗。",
     "CL_CF_energy_ai_eco_new_desc": "启用家电的AI节能模式，降低能耗。",
@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "温度限制",
     "CL_family_device_moved_to_room": "您的设备已移至新房间“{##}”。",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "按住 Wi-Fi 图标 5 秒钟，直到屏幕上出现“Con”。\n\n如果显示的是“PAI”，请将手指向左滑动滑块，直到显示“Con”。\n\n只有当显示“Con”时才点击“下一步”。",
-    "CL_DV_w_location_des": "我们会利用您住所的天气位置信息，以便为您推荐更精准的空气处理方案。"
+    "CL_DV_w_location_des": "我们会利用您住所的天气位置信息，以便为您推荐更精准的空气处理方案。",
+    "CL_DV_wcc_wine_profile_easy_serve": "简易服务已启动",
+    "CL_DV_wcc_wine_profile_serve_and_store": "服务和存储功能已激活",
+    "CL_DV_wcc_wine_profile_stable_aging": "稳定衰老是活跃的",
+    "CL_DV_wcc_wine_serve_and_store": "盛放和储存",
+    "CL_DV_wcc_reset_to_default_details": "这将把所有设置恢复为默认值。您的库存数据将保持不变。\n您确定要重置吗？",
+    "CL_DV_wcc_reset_factory_details": "此操作将清除设备上的所有数据并将其恢复到出厂设置。此过程无法撤销。您确定要继续吗？"
 }

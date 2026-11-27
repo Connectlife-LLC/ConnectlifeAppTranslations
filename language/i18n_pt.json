@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Limitação de temperatura",
     "CL_family_device_moved_to_room": "Seu dispositivo foi movido para a nova sala “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Pressione e segure o ícone do Wi-Fi por 5 segundos até que 'Con' apareça no visor.\n\nSe aparecer 'PAI', deslize o dedo para a esquerda no controle deslizante até que 'Con' apareça.\n\nToque em Avançar somente quando 'Contra' for exibido.",
-    "CL_DV_w_location_des": "A localização dos meteorologistas é usada para obter informações meteorológicas da sua residência, permitindo-nos recomendar uma solução de tratamento de ar mais precisa para você."
+    "CL_DV_w_location_des": "A localização dos meteorologistas é usada para obter informações meteorológicas da sua residência, permitindo-nos recomendar uma solução de tratamento de ar mais precisa para você.",
+    "CL_DV_wcc_wine_profile_easy_serve": "O serviço fácil está ativo",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Servir e armazenar está ativo",
+    "CL_DV_wcc_wine_profile_stable_aging": "O envelhecimento estável é ativo",
+    "CL_DV_wcc_wine_serve_and_store": "Servir e armazenar",
+    "CL_DV_wcc_reset_to_default_details": "Isso restaurará todas as configurações aos seus valores padrão. Seus dados de estoque permanecerão inalterados.\nTem certeza de que deseja redefinir?",
+    "CL_DV_wcc_reset_factory_details": "Esta ação apagará todos os dados do seu dispositivo e o restaurará às configurações originais. Este processo é irreversível. Tem certeza de que deseja prosseguir?"
 }

@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "溫度限制",
     "CL_family_device_moved_to_room": "您的裝置已移至新房間「{##}」。",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "按住 Wi-Fi 圖示 5 秒鐘，直到螢幕上出現「Con」。\n\n如果顯示的是“PAI”，請將手指向左滑動滑桿，直到顯示“Con”。\n\n只有在顯示“Con”時才點擊“下一步”。",
-    "CL_DV_w_location_des": "我們會利用您住所的天氣位置訊息，以便為您推薦更精準的空氣處理方案。"
+    "CL_DV_w_location_des": "我們會利用您住所的天氣位置訊息，以便為您推薦更精準的空氣處理方案。",
+    "CL_DV_wcc_wine_profile_easy_serve": "簡易服務已啟動",
+    "CL_DV_wcc_wine_profile_serve_and_store": "服務和儲存功能已激活",
+    "CL_DV_wcc_wine_profile_stable_aging": "穩定衰老是活躍的。",
+    "CL_DV_wcc_wine_serve_and_store": "盛裝和儲存",
+    "CL_DV_wcc_reset_to_default_details": "這將把所有設定恢復為預設值。您的庫存資料將保持不變。\n您確定要重置嗎？",
+    "CL_DV_wcc_reset_factory_details": "此操作將清除設備上的所有資料並將其恢復到原廠設定。此過程無法撤銷。您確定要繼續嗎？"
 }

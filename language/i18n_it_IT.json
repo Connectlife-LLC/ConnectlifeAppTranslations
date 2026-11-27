@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Temperatura limitata",
     "CL_family_device_moved_to_room": "Il tuo dispositivo è stato spostato nella nuova stanza “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Tieni premuta l'icona Wi-Fi per 5 secondi finché sul display non compare la scritta \"Con\".\n\nSe invece compare 'PAI', fai scorrere il dito verso sinistra sul cursore finché non compare 'Con'.\n\nTocca Avanti solo quando viene visualizzato 'Contro'.",
-    "CL_DV_w_location_des": "La geolocalizzazione meteorologica ci permette di ottenere informazioni sul clima della tua zona di residenza, consentendoci di consigliarti una soluzione di trattamento dell'aria più adatta alle tue esigenze."
+    "CL_DV_w_location_des": "La geolocalizzazione meteorologica ci permette di ottenere informazioni sul clima della tua zona di residenza, consentendoci di consigliarti una soluzione di trattamento dell'aria più adatta alle tue esigenze.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Easy Serve è attivo",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Servire e memorizzare è attivo",
+    "CL_DV_wcc_wine_profile_stable_aging": "L'invecchiamento stabile è attivo",
+    "CL_DV_wcc_wine_serve_and_store": "Servire e conservare",
+    "CL_DV_wcc_reset_to_default_details": "Questa operazione ripristinerà tutte le impostazioni ai valori predefiniti. I dati del tuo inventario rimarranno invariati.\nSei sicuro di voler ripristinare?",
+    "CL_DV_wcc_reset_factory_details": "Questa operazione cancellerà tutti i dati presenti sul dispositivo e lo ripristinerà alle impostazioni originali. Questa procedura è irreversibile. Sei sicuro di voler procedere?"
 }

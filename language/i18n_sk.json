@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Teplotne obmedzené",
     "CL_family_device_moved_to_room": "Vaše zariadenie bolo presunuté do novej miestnosti „{##}“.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Stlačte a podržte ikonu Wi-Fi 5 sekúnd, kým sa na displeji nezobrazí „Con“.\n\nAk sa namiesto toho zobrazí „PAI“, posúvajte prstom po posuvníku doľava, kým sa nezobrazí „Con“.\n\nKlepnite na Ďalej iba vtedy, keď sa zobrazí „Con“.",
-    "CL_DV_w_location_des": "Informácie o počasí sa používajú na získanie informácií o počasí pre vašu rezidenciu, čo nám umožňuje odporučiť vám presnejšie riešenie úpravy vzduchu."
+    "CL_DV_w_location_des": "Informácie o počasí sa používajú na získanie informácií o počasí pre vašu rezidenciu, čo nám umožňuje odporučiť vám presnejšie riešenie úpravy vzduchu.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Ľahké podanie je aktívne",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Podávanie a ukladanie je aktívne",
+    "CL_DV_wcc_wine_profile_stable_aging": "Stabilné starnutie je aktívne",
+    "CL_DV_wcc_wine_serve_and_store": "Podávajte a skladujte",
+    "CL_DV_wcc_reset_to_default_details": "Týmto sa obnovia všetky nastavenia na ich predvolené hodnoty. Údaje o vašom inventári zostanú nezmenené.\nNaozaj chcete resetovať?",
+    "CL_DV_wcc_reset_factory_details": "Táto akcia vymaže všetky údaje vo vašom zariadení a obnoví jeho pôvodné nastavenia. Tento proces sa nedá vrátiť späť. Naozaj chcete pokračovať?"
 }

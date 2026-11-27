@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Temperatuurbeperkt",
     "CL_family_device_moved_to_room": "Je apparaat is verplaatst naar de nieuwe kamer “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Houd het wifi-pictogram 5 seconden ingedrukt totdat 'Con' op het scherm verschijnt.\n\nAls er in plaats daarvan 'PAI' verschijnt, schuif dan uw vinger naar links op de schuifregelaar totdat 'Con' verschijnt.\n\nTik alleen op Volgende als 'Con' wordt weergegeven.",
-    "CL_DV_w_location_des": "De weerlocatie wordt gebruikt om weersinformatie voor uw woning te verkrijgen, zodat we een nauwkeurigere luchtbehandelingsoplossing voor u kunnen aanbevelen."
+    "CL_DV_w_location_des": "De weerlocatie wordt gebruikt om weersinformatie voor uw woning te verkrijgen, zodat we een nauwkeurigere luchtbehandelingsoplossing voor u kunnen aanbevelen.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Easy Serve is actief",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Serveren en opslaan is actief",
+    "CL_DV_wcc_wine_profile_stable_aging": "Stabiel ouder worden is actief",
+    "CL_DV_wcc_wine_serve_and_store": "Serveren en bewaren",
+    "CL_DV_wcc_reset_to_default_details": "Hiermee worden alle instellingen teruggezet naar de standaardwaarden. Uw inventarisgegevens blijven ongewijzigd.\nWeet je zeker dat je wilt resetten?",
+    "CL_DV_wcc_reset_factory_details": "Deze actie wist alle gegevens op uw apparaat en herstelt de oorspronkelijke instellingen. Dit proces kan niet ongedaan worden gemaakt. Weet u zeker dat u wilt doorgaan?"
 }
