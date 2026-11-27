@@ -9546,13 +9546,19 @@
     "CL_family_guide_automations": "您先前建立的自動化設定 {###} 包含了來自不同家庭的設備，並因安全性原因將被刪除。",
     "CL_DV_RF_close_holiday_to_open_vacuumSpace": "冰箱目前處於假日模式，此功能無法啟動。請先調節冰箱溫度。",
     "CL_DV_RF_adjust_temperature_to_open_vacuumSpace": "冰箱目前已關閉。此功能無法啟動。請先調節冰箱溫度。",
-    "CL_family_role_owner_desc": "管理員擁有對房屋內所有設備的完全控制權，可以管理房間、編輯房屋訊息，甚至可以刪除房屋。",
-    "CL_family_role_manager_desc": "管理員可以完全控製家中所有設備，管理房間，並編輯房屋資訊。",
-    "CL_family_role_member_desc": "成員僅能控制其分配的設備。成員無法查看其他家庭成員或房間，也無法編輯家庭設定。",
     "CL_family_move_appliance": "行動電器",
     "CL_TH_min_temp_limited": "溫度限制",
     "CL_TH_max_temp_limited": "溫度限制",
     "CL_family_device_moved_to_room": "您的裝置已移至新房間「{##}」。",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "按住 Wi-Fi 圖示 5 秒鐘，直到螢幕上出現「Con」。\n\n如果顯示的是“PAI”，請將手指向左滑動滑桿，直到顯示“Con”。\n\n只有在顯示“Con”時才點擊“下一步”。",
-    "CL_DV_w_location_des": "我們會利用您住所的天氣位置訊息，以便為您推薦更精準的空氣處理方案。"
+    "CL_DV_w_location_des": "我們會利用您住所的天氣位置訊息，以便為您推薦更精準的空氣處理方案。",
+    "CL_DV_wcc_wine_profile_easy_serve": "簡易服務已啟動",
+    "CL_DV_wcc_wine_profile_serve_and_store": "服務和儲存功能已激活",
+    "CL_DV_wcc_wine_profile_stable_aging": "穩定衰老是活躍的。",
+    "CL_DV_wcc_wine_serve_and_store": "盛裝和儲存",
+    "CL_DV_wcc_reset_to_default_details": "這將把所有設定恢復為預設值。您的庫存資料將保持不變。\n您確定要重置嗎？",
+    "CL_DV_wcc_reset_factory_details": "此操作將清除設備上的所有資料並將其恢復到原廠設定。此過程無法撤銷。您確定要繼續嗎？",
+    "CL_family_r_owner_desc": "管理員擁有對房屋內所有設備的完全控制權，可以管理房間、編輯房屋訊息，甚至可以刪除房屋。",
+    "CL_family_r_manager_desc": "管理員可以完全控製家中所有設備，管理房間，並編輯房屋資訊。",
+    "CL_family_r_member_desc": "成員僅能控制其分配的設備。成員無法查看其他家庭成員或房間，也無法編輯家庭設定。"
 }

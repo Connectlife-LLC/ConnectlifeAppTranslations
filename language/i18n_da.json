@@ -9546,13 +9546,19 @@
     "CL_family_guide_automations": "De automatiseringer, du tidligere oprettede {###}, omfattede enheder fra forskellige hjem og vil blive fjernet af sikkerhedsmæssige årsager.",
     "CL_DV_RF_close_holiday_to_open_vacuumSpace": "Køleskabet er nu i ferietilstand. Denne funktion kan ikke aktiveres. Juster venligst først køleskabets temperatur.",
     "CL_DV_RF_adjust_temperature_to_open_vacuumSpace": "Køleskabet er slukket nu. Denne funktion kan ikke aktiveres. Juster venligst først temperaturen i køleskabet.",
-    "CL_family_role_owner_desc": "Lederen har fuld kontrol over alle enheder i hjemmet, kan administrere rum, redigere hjemmeoplysninger og endda slette hjemmet.",
-    "CL_family_role_manager_desc": "Lederen har fuld kontrol over alle enheder i hjemmet, kan administrere rum og redigere hjemmeoplysninger.",
-    "CL_family_role_member_desc": "Medlemmet har kun kontrol over tildelte enheder. Medlemmer kan ikke se andre familiemedlemmer eller rum, og de kan heller ikke redigere hjemmeindstillinger.",
     "CL_family_move_appliance": "FLYT APPARATET",
     "CL_TH_min_temp_limited": "Temperaturbegrænset",
     "CL_TH_max_temp_limited": "Temperaturbegrænset",
     "CL_family_device_moved_to_room": "Din enhed er blevet flyttet til det nye rum “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Tryk og hold Wi-Fi-ikonet nede i 5 sekunder, indtil 'Con' vises på displayet.\n\nHvis 'PAI' vises i stedet, skal du stryge fingeren til venstre på skyderen, indtil 'Con' vises.\n\nTryk kun på Næste, når 'Con' vises.",
-    "CL_DV_w_location_des": "Vejrplacering bruges til at indhente vejroplysninger for din bolig, så vi kan anbefale en mere præcis luftbehandlingsløsning til dig."
+    "CL_DV_w_location_des": "Vejrplacering bruges til at indhente vejroplysninger for din bolig, så vi kan anbefale en mere præcis luftbehandlingsløsning til dig.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Nem servering er aktiv",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Server og opbevar er aktiv",
+    "CL_DV_wcc_wine_profile_stable_aging": "Stabil aldring er aktiv",
+    "CL_DV_wcc_wine_serve_and_store": "Server og opbevar",
+    "CL_DV_wcc_reset_to_default_details": "Dette vil gendanne alle indstillinger til deres standardværdier. Dine lagerdata forbliver uændrede.\nEr du sikker på, at du vil nulstille?",
+    "CL_DV_wcc_reset_factory_details": "Denne handling sletter alle data på din enhed og gendanner den til dens oprindelige indstillinger. Denne proces kan ikke fortrydes. Er du sikker på, at du vil fortsætte?",
+    "CL_family_r_owner_desc": "Lederen har fuld kontrol over alle enheder i hjemmet, kan administrere rum, redigere hjemmeoplysninger og endda slette hjemmet.",
+    "CL_family_r_manager_desc": "Lederen har fuld kontrol over alle enheder i hjemmet, kan administrere rum og redigere hjemmeoplysninger.",
+    "CL_family_r_member_desc": "Medlemmet har kun kontrol over tildelte enheder. Medlemmer kan ikke se andre familiemedlemmer eller rum, og de kan heller ikke redigere hjemmeindstillinger."
 }

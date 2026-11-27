@@ -9546,13 +9546,19 @@
     "CL_family_guide_automations": "Las automatizaciones que creaste anteriormente {###} incluían dispositivos de diferentes hogares y se eliminarán por razones de seguridad.",
     "CL_DV_RF_close_holiday_to_open_vacuumSpace": "El frigorífico está en modo vacaciones. Esta función no se puede activar. Ajuste primero la temperatura del frigorífico.",
     "CL_DV_RF_adjust_temperature_to_open_vacuumSpace": "El refrigerador está apagado. Esta función no se puede activar. Ajuste primero la temperatura del refrigerador.",
-    "CL_family_role_owner_desc": "El administrador tiene control total sobre todos los dispositivos de la casa, puede gestionar las habitaciones, editar la información de la vivienda e incluso eliminarla.",
-    "CL_family_role_manager_desc": "El administrador tiene control total sobre todos los dispositivos de la casa, puede gestionar las habitaciones y editar la información del hogar.",
-    "CL_family_role_member_desc": "El miembro solo tiene control sobre los dispositivos asignados. Los miembros no pueden ver a otros miembros de la familia ni las habitaciones, ni tampoco editar la configuración de la casa.",
     "CL_family_move_appliance": "MOVER ELECTRODOMÉSTICO",
     "CL_TH_min_temp_limited": "Limitado por temperatura",
     "CL_TH_max_temp_limited": "Limitado por temperatura",
     "CL_family_device_moved_to_room": "Tu dispositivo se ha movido a la nueva sala “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Mantén pulsado el icono de Wi-Fi durante 5 segundos hasta que aparezca \"Con\" en la pantalla.\n\nSi aparece 'PAI' en su lugar, deslice el dedo hacia la izquierda en el control deslizante hasta que aparezca 'Con'.\n\nPulsa Siguiente solo cuando aparezca la opción \"Con\".",
-    "CL_DV_w_location_des": "La ubicación meteorológica se utiliza para obtener información meteorológica de su residencia, lo que nos permite recomendarle una solución de tratamiento del aire más precisa."
+    "CL_DV_w_location_des": "La ubicación meteorológica se utiliza para obtener información meteorológica de su residencia, lo que nos permite recomendarle una solución de tratamiento del aire más precisa.",
+    "CL_DV_wcc_wine_profile_easy_serve": "El servicio fácil está activo",
+    "CL_DV_wcc_wine_profile_serve_and_store": "El servicio y la tienda están activos.",
+    "CL_DV_wcc_wine_profile_stable_aging": "El envejecimiento estable es activo",
+    "CL_DV_wcc_wine_serve_and_store": "Servir y almacenar",
+    "CL_DV_wcc_reset_to_default_details": "Esto restablecerá todos los ajustes a sus valores predeterminados. Los datos de su inventario permanecerán sin cambios.\n¿Estás seguro de que quieres reiniciar?",
+    "CL_DV_wcc_reset_factory_details": "Esta acción borrará todos los datos de tu dispositivo y lo restaurará a su configuración original. Este proceso es irreversible. ¿Estás seguro de que quieres continuar?",
+    "CL_family_r_owner_desc": "El administrador tiene control total sobre todos los dispositivos de la casa, puede gestionar las habitaciones, editar la información de la vivienda e incluso eliminarla.",
+    "CL_family_r_manager_desc": "El administrador tiene control total sobre todos los dispositivos de la casa, puede gestionar las habitaciones y editar la información del hogar.",
+    "CL_family_r_member_desc": "El miembro solo tiene control sobre los dispositivos asignados. Los miembros no pueden ver a otros miembros de la familia ni las habitaciones, ni tampoco editar la configuración de la casa."
 }
