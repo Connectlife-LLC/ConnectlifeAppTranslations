@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "温度制限",
     "CL_family_device_moved_to_room": "お使いのデバイスは新しい部屋「{##}」に移動されました。",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Wi-Fiアイコンを5秒間押し続けると、ディスプレイに「Con」が表示されます。\n\n「PAI」が表示された場合は、「Con」が表示されるまでスライダーを左にスライドさせてください。\n\n「Con」が表示されたときのみ「次へ」をタップしてください。",
-    "CL_DV_w_location_des": "気象位置情報は、お客様のご自宅周辺の気象情報を取得するために使用され、より正確な空気処理ソリューションをご提案するために役立ちます。"
+    "CL_DV_w_location_des": "気象位置情報は、お客様のご自宅周辺の気象情報を取得するために使用され、より正確な空気処理ソリューションをご提案するために役立ちます。",
+    "CL_DV_wcc_wine_profile_easy_serve": "イージーサーブが有効です",
+    "CL_DV_wcc_wine_profile_serve_and_store": "提供および保存が有効です",
+    "CL_DV_wcc_wine_profile_stable_aging": "安定した老化は活動的である",
+    "CL_DV_wcc_wine_serve_and_store": "提供および保存",
+    "CL_DV_wcc_reset_to_default_details": "これにより、すべての設定がデフォルト値に戻ります。在庫データは変更されません。\n本当にリセットしますか？",
+    "CL_DV_wcc_reset_factory_details": "この操作を行うと、デバイス上のすべてのデータが消去され、初期設定に戻ります。この処理は元に戻すことはできません。続行してもよろしいですか？"
 }

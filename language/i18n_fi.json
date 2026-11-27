@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Lämpötilarajoitettu",
     "CL_family_device_moved_to_room": "Laitteesi on siirretty uuteen huoneeseen “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Paina Wi-Fi-kuvaketta ja pidä sitä painettuna viiden sekunnin ajan, kunnes näyttöön tulee teksti 'Con'.\n\nJos sen sijaan tulee näkyviin 'PAI', liu'uta sormeasi liukusäätimellä vasemmalle, kunnes näkyviin tulee 'Con'.\n\nNapauta Seuraava vain, kun näkyvissä on 'Con'.",
-    "CL_DV_w_location_des": "Sääpaikannusta käytetään asuinpaikkasi säätietojen hankkimiseen, jotta voimme suositella sinulle tarkempaa ilmankäsittelyratkaisua."
+    "CL_DV_w_location_des": "Sääpaikannusta käytetään asuinpaikkasi säätietojen hankkimiseen, jotta voimme suositella sinulle tarkempaa ilmankäsittelyratkaisua.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Helppo syöttö on aktiivinen",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Tarjoilu ja myymälä ovat aktiivisia",
+    "CL_DV_wcc_wine_profile_stable_aging": "Vakaa ikääntyminen on aktiivista",
+    "CL_DV_wcc_wine_serve_and_store": "Tarjoile ja säilytä",
+    "CL_DV_wcc_reset_to_default_details": "Tämä palauttaa kaikki asetukset oletusarvoihinsa. Varastotietosi pysyvät muuttumattomina.\nHaluatko varmasti nollata asetukset?",
+    "CL_DV_wcc_reset_factory_details": "Tämä toiminto poistaa kaikki laitteesi tiedot ja palauttaa sen alkuperäisiin asetuksiin. Tätä prosessia ei voi perua. Haluatko varmasti jatkaa?"
 }

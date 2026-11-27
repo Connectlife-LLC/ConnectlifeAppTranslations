@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Limite de température",
     "CL_family_device_moved_to_room": "Votre appareil a été déplacé dans la nouvelle salle « {##} ».",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Maintenez la pression sur l'icône Wi-Fi pendant 5 secondes jusqu'à ce que « Con » apparaisse à l'écran.\n\nSi « PAI » apparaît à la place, faites glisser votre doigt vers la gauche sur le curseur jusqu'à ce que « Con » apparaisse.\n\nAppuyez sur Suivant uniquement lorsque « Contre » s'affiche.",
-    "CL_DV_w_location_des": "La géolocalisation météorologique est utilisée pour obtenir des informations météorologiques concernant votre domicile, ce qui nous permet de vous recommander une solution de traitement de l'air plus adaptée."
+    "CL_DV_w_location_des": "La géolocalisation météorologique est utilisée pour obtenir des informations météorologiques concernant votre domicile, ce qui nous permet de vous recommander une solution de traitement de l'air plus adaptée.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Easy serve est actif",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Le service et le stockage sont actifs",
+    "CL_DV_wcc_wine_profile_stable_aging": "Le vieillissement stable est actif",
+    "CL_DV_wcc_wine_serve_and_store": "Servir et stocker",
+    "CL_DV_wcc_reset_to_default_details": "Cette opération rétablira tous les paramètres à leurs valeurs par défaut. Vos données d'inventaire resteront inchangées.\nÊtes-vous sûr de vouloir réinitialiser ?",
+    "CL_DV_wcc_reset_factory_details": "Cette action effacera toutes les données de votre appareil et le restaurera à ses paramètres d'origine. Cette opération est irréversible. Voulez-vous vraiment continuer ?"
 }

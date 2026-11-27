@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Temperaturbegrænset",
     "CL_family_device_moved_to_room": "Din enhed er blevet flyttet til det nye rum “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Tryk og hold Wi-Fi-ikonet nede i 5 sekunder, indtil 'Con' vises på displayet.\n\nHvis 'PAI' vises i stedet, skal du stryge fingeren til venstre på skyderen, indtil 'Con' vises.\n\nTryk kun på Næste, når 'Con' vises.",
-    "CL_DV_w_location_des": "Vejrplacering bruges til at indhente vejroplysninger for din bolig, så vi kan anbefale en mere præcis luftbehandlingsløsning til dig."
+    "CL_DV_w_location_des": "Vejrplacering bruges til at indhente vejroplysninger for din bolig, så vi kan anbefale en mere præcis luftbehandlingsløsning til dig.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Nem servering er aktiv",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Server og opbevar er aktiv",
+    "CL_DV_wcc_wine_profile_stable_aging": "Stabil aldring er aktiv",
+    "CL_DV_wcc_wine_serve_and_store": "Server og opbevar",
+    "CL_DV_wcc_reset_to_default_details": "Dette vil gendanne alle indstillinger til deres standardværdier. Dine lagerdata forbliver uændrede.\nEr du sikker på, at du vil nulstille?",
+    "CL_DV_wcc_reset_factory_details": "Denne handling sletter alle data på din enhed og gendanner den til dens oprindelige indstillinger. Denne proces kan ikke fortrydes. Er du sikker på, at du vil fortsætte?"
 }

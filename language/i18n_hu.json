@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Korlátozott hőmérséklet",
     "CL_family_device_moved_to_room": "Az eszközöd átkerült az új szobába: „{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Tartsa lenyomva a Wi-Fi ikont 5 másodpercig, amíg a „Con” felirat meg nem jelenik a kijelzőn.\n\nHa ehelyett a „PAI” felirat jelenik meg, csúsztassa az ujját balra a csúszkán, amíg a „Con” felirat meg nem jelenik.\n\nCsak akkor koppintson a Tovább gombra, ha a „Kontra” felirat látható.",
-    "CL_DV_w_location_des": "Az időjárási helymeghatározást arra használjuk, hogy időjárási információkat szerezzünk az Ön lakhelyéről, így pontosabb légkezelési megoldást tudunk ajánlani Önnek."
+    "CL_DV_w_location_des": "Az időjárási helymeghatározást arra használjuk, hogy időjárási információkat szerezzünk az Ön lakhelyéről, így pontosabb légkezelési megoldást tudunk ajánlani Önnek.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Könnyű szerválás aktív",
+    "CL_DV_wcc_wine_profile_serve_and_store": "A kiszolgálás és az áruház aktív",
+    "CL_DV_wcc_wine_profile_stable_aging": "A stabil öregedés aktív",
+    "CL_DV_wcc_wine_serve_and_store": "Tálaljuk és tároljuk",
+    "CL_DV_wcc_reset_to_default_details": "Ez visszaállítja az összes beállítást az alapértelmezett értékre. A készletadatok változatlanok maradnak.\nBiztosan visszaállítod?",
+    "CL_DV_wcc_reset_factory_details": "Ez a művelet törli az eszközön található összes adatot, és visszaállítja az eredeti beállításokat. Ez a folyamat nem vonható vissza. Biztosan folytatja?"
 }

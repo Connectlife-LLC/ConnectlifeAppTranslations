@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Temperature limited",
     "CL_family_device_moved_to_room": "Your device has been moved to the new room “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Press and hold the Wi-Fi icon for 5 seconds until ‘Con’ appears on the display.\n\nIf ‘PAI’ appears instead, slide your finger left on the slider until ‘Con’ appears.\n\nTap Next only when ‘Con’ is shown.",
-    "CL_DV_w_location_des": "Weather location is used to obtain weather information for your residence, allowing us to recommend a more accurate air treatment solution for you."
+    "CL_DV_w_location_des": "Weather location is used to obtain weather information for your residence, allowing us to recommend a more accurate air treatment solution for you.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Easy serve is active",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Serve and store is active",
+    "CL_DV_wcc_wine_profile_stable_aging": "Stable aging is active",
+    "CL_DV_wcc_wine_serve_and_store": "Serve and store",
+    "CL_DV_wcc_reset_to_default_details": "This will restore all settings to their default values. Your inventory data will remain unchanged.\nAre you sure you want to reset?",
+    "CL_DV_wcc_reset_factory_details": "This action will erase all data on your device and restore it to its original settings. This process cannot be undone. Are you sure you want to proceed?"
 }

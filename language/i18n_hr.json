@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Ograničena temperatura",
     "CL_family_device_moved_to_room": "Vaš je uređaj premješten u novu sobu „{##}“.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Pritisnite i držite ikonu Wi-Fi 5 sekundi dok se na zaslonu ne pojavi 'Con'.\n\nAko se umjesto toga pojavi 'PAI', pomaknite prst lijevo po klizaču dok se ne pojavi 'Con'.\n\nDodirnite Dalje samo kada se prikaže 'Con'.",
-    "CL_DV_w_location_des": "Lokacija vremena koristi se za dobivanje informacija o vremenu za vaše prebivalište, što nam omogućuje da vam preporučimo točnije rješenje za obradu zraka."
+    "CL_DV_w_location_des": "Lokacija vremena koristi se za dobivanje informacija o vremenu za vaše prebivalište, što nam omogućuje da vam preporučimo točnije rješenje za obradu zraka.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Lako serviranje je aktivno",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Posluživanje i pohrana su aktivni",
+    "CL_DV_wcc_wine_profile_stable_aging": "Stabilno starenje je aktivno",
+    "CL_DV_wcc_wine_serve_and_store": "Poslužite i pohranite",
+    "CL_DV_wcc_reset_to_default_details": "Ovim će se sve postavke vratiti na zadane vrijednosti. Podaci o vašem inventaru ostat će nepromijenjeni.\nJeste li sigurni da želite resetirati?",
+    "CL_DV_wcc_reset_factory_details": "Ova će radnja izbrisati sve podatke na vašem uređaju i vratiti ga na izvorne postavke. Ovaj se postupak ne može poništiti. Jeste li sigurni da želite nastaviti?"
 }

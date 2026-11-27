@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Temperatură limitată",
     "CL_family_device_moved_to_room": "Dispozitivul tău a fost mutat în noua cameră „{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Apăsați și mențineți apăsată pictograma Wi-Fi timp de 5 secunde până când pe ecran apare „Con”.\n\nDacă apare „PAI”, glisați degetul spre stânga pe cursor până când apare „Con”.\n\nAtingeți Înainte doar când se afișează „Con”.",
-    "CL_DV_w_location_des": "Locația meteo este utilizată pentru a obține informații meteo pentru reședința dumneavoastră, permițându-ne să vă recomandăm o soluție mai precisă de tratare a aerului."
+    "CL_DV_w_location_des": "Locația meteo este utilizată pentru a obține informații meteo pentru reședința dumneavoastră, permițându-ne să vă recomandăm o soluție mai precisă de tratare a aerului.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Servirea ușoară este activă",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Servirea și depozitarea sunt active",
+    "CL_DV_wcc_wine_profile_stable_aging": "Îmbătrânirea stabilă este activă",
+    "CL_DV_wcc_wine_serve_and_store": "Serviți și păstrați",
+    "CL_DV_wcc_reset_to_default_details": "Aceasta va restaura toate setările la valorile implicite. Datele dvs. de inventar vor rămâne neschimbate.\nSigur vrei să resetezi?",
+    "CL_DV_wcc_reset_factory_details": "Această acțiune va șterge toate datele de pe dispozitiv și îl va restaura la setările inițiale. Acest proces nu poate fi anulat. Sigur doriți să continuați?"
 }

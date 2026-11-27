@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Temperatur begrenzt",
     "CL_family_device_moved_to_room": "Ihr Gerät wurde in den neuen Raum „{##}“ verschoben.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Halten Sie das Wi-Fi-Symbol 5 Sekunden lang gedrückt, bis „Con“ auf dem Display erscheint.\n\nFalls stattdessen „PAI“ erscheint, schieben Sie Ihren Finger auf dem Schieberegler nach links, bis „Con“ erscheint.\n\nTippen Sie nur dann auf Weiter, wenn „Con“ angezeigt wird.",
-    "CL_DV_w_location_des": "Wir verwenden den Standort, um Wetterinformationen für Ihren Wohnsitz zu erhalten, damit wir Ihnen eine genauere Luftreinigungslösung empfehlen können."
+    "CL_DV_w_location_des": "Wir verwenden den Standort, um Wetterinformationen für Ihren Wohnsitz zu erhalten, damit wir Ihnen eine genauere Luftreinigungslösung empfehlen können.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Easy Serve ist aktiv",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Servieren und Lagern ist aktiv",
+    "CL_DV_wcc_wine_profile_stable_aging": "Stabiles Altern ist aktiv",
+    "CL_DV_wcc_wine_serve_and_store": "Servieren und lagern",
+    "CL_DV_wcc_reset_to_default_details": "Dadurch werden alle Einstellungen auf ihre Standardwerte zurückgesetzt. Ihre Inventardaten bleiben unverändert.\nMöchten Sie den Reset wirklich durchführen?",
+    "CL_DV_wcc_reset_factory_details": "Diese Aktion löscht alle Daten auf Ihrem Gerät und stellt die Werkseinstellungen wieder her. Dieser Vorgang kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?"
 }

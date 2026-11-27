@@ -9554,5 +9554,11 @@
     "CL_TH_max_temp_limited": "Suhu terbatas",
     "CL_family_device_moved_to_room": "Perangkat Anda telah dipindahkan ke ruangan baru “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Tekan dan tahan ikon Wi-Fi selama 5 detik hingga 'Con' muncul di layar.\n\nJika 'PAI' muncul, geser jari Anda ke kiri pada slider hingga 'Con' muncul.\n\nKetuk Berikutnya hanya jika 'Kontra' ditampilkan.",
-    "CL_DV_w_location_des": "Informasi lokasi cuaca digunakan untuk mendapatkan data cuaca di tempat tinggal Anda, sehingga kami dapat merekomendasikan solusi pengolahan udara yang lebih akurat untuk Anda."
+    "CL_DV_w_location_des": "Informasi lokasi cuaca digunakan untuk mendapatkan data cuaca di tempat tinggal Anda, sehingga kami dapat merekomendasikan solusi pengolahan udara yang lebih akurat untuk Anda.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Easy Serve aktif.",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Layanan dan penyimpanan aktif",
+    "CL_DV_wcc_wine_profile_stable_aging": "Penuaan stabil bersifat aktif.",
+    "CL_DV_wcc_wine_serve_and_store": "Sajikan dan simpan",
+    "CL_DV_wcc_reset_to_default_details": "Ini akan mengembalikan semua pengaturan ke nilai defaultnya. Data inventaris Anda akan tetap tidak berubah.\nApakah Anda yakin ingin mengatur ulang?",
+    "CL_DV_wcc_reset_factory_details": "Tindakan ini akan menghapus semua data di perangkat Anda dan mengembalikannya ke pengaturan semula. Proses ini tidak dapat dibatalkan. Apakah Anda yakin ingin melanjutkan?"
 }
