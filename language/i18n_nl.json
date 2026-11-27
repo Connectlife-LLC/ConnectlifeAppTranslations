@@ -9546,13 +9546,19 @@
     "CL_family_guide_automations": "De automatiseringen die u eerder hebt aangemaakt {###} omvatten apparaten uit verschillende huizen en worden om veiligheidsredenen verwijderd.",
     "CL_DV_RF_close_holiday_to_open_vacuumSpace": "De koelkast staat nu in de vakantiemodus. Deze functie kan niet worden geactiveerd. Stel eerst de temperatuur van de koelkast in.",
     "CL_DV_RF_adjust_temperature_to_open_vacuumSpace": "De koelkast is nu uitgeschakeld. Deze functie kan niet worden geactiveerd. Stel eerst de temperatuur van de koelkast in.",
-    "CL_family_role_owner_desc": "De beheerder heeft volledige controle over alle apparaten in huis, kan kamers beheren, huisinformatie bewerken en zelfs het huis verwijderen.",
-    "CL_family_role_manager_desc": "De beheerder heeft volledige controle over alle apparaten in huis, kan kamers beheren en huisgegevens bewerken.",
-    "CL_family_role_member_desc": "Leden hebben alleen controle over toegewezen apparaten. Leden kunnen andere familieleden of kamers niet bekijken en kunnen de instellingen van het huis niet wijzigen.",
     "CL_family_move_appliance": "VERPLAATS APPARAAT",
     "CL_TH_min_temp_limited": "Temperatuurbeperkt",
     "CL_TH_max_temp_limited": "Temperatuurbeperkt",
     "CL_family_device_moved_to_room": "Je apparaat is verplaatst naar de nieuwe kamer “{##}”.",
     "CL_CF_CS_hob_hi_billhlevel1_25_cs_2_2": "Houd het wifi-pictogram 5 seconden ingedrukt totdat 'Con' op het scherm verschijnt.\n\nAls er in plaats daarvan 'PAI' verschijnt, schuif dan uw vinger naar links op de schuifregelaar totdat 'Con' verschijnt.\n\nTik alleen op Volgende als 'Con' wordt weergegeven.",
-    "CL_DV_w_location_des": "De weerlocatie wordt gebruikt om weersinformatie voor uw woning te verkrijgen, zodat we een nauwkeurigere luchtbehandelingsoplossing voor u kunnen aanbevelen."
+    "CL_DV_w_location_des": "De weerlocatie wordt gebruikt om weersinformatie voor uw woning te verkrijgen, zodat we een nauwkeurigere luchtbehandelingsoplossing voor u kunnen aanbevelen.",
+    "CL_DV_wcc_wine_profile_easy_serve": "Easy Serve is actief",
+    "CL_DV_wcc_wine_profile_serve_and_store": "Serveren en opslaan is actief",
+    "CL_DV_wcc_wine_profile_stable_aging": "Stabiel ouder worden is actief",
+    "CL_DV_wcc_wine_serve_and_store": "Serveren en bewaren",
+    "CL_DV_wcc_reset_to_default_details": "Hiermee worden alle instellingen teruggezet naar de standaardwaarden. Uw inventarisgegevens blijven ongewijzigd.\nWeet je zeker dat je wilt resetten?",
+    "CL_DV_wcc_reset_factory_details": "Deze actie wist alle gegevens op uw apparaat en herstelt de oorspronkelijke instellingen. Dit proces kan niet ongedaan worden gemaakt. Weet u zeker dat u wilt doorgaan?",
+    "CL_family_r_owner_desc": "De beheerder heeft volledige controle over alle apparaten in huis, kan kamers beheren, huisinformatie bewerken en zelfs het huis verwijderen.",
+    "CL_family_r_manager_desc": "De beheerder heeft volledige controle over alle apparaten in huis, kan kamers beheren en huisgegevens bewerken.",
+    "CL_family_r_member_desc": "Leden hebben alleen controle over toegewezen apparaten. Leden kunnen andere familieleden of kamers niet bekijken en kunnen de instellingen van het huis niet wijzigen."
 }
